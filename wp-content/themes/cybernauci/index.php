@@ -38,7 +38,9 @@
                     <p>konkurs dla szkół z atrakcyjnymi nagrodami</p>
                 </div>
                 <div class="indexJoinBtn col-xs-12">
-                    <a class="btn btn-primary btn-lg" href="">Zainteresowany? Zgłoś swoją szkołę!</a>
+                    <a class="btn btn-primary btn-lg"
+                       href="<?php echo get_permalink(get_page_by_path('zglos-szkole')) ?>">Zainteresowany?
+                        Zgłoś swoją szkołę!</a>
                 </div>
             </div>
         </div>

@@ -6,7 +6,7 @@
 Plugin Name: Akismet
 Plugin URI: http://akismet.com/
 Description: Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. It keeps your site protected even while you sleep. To get started: 1) Click the "Activate" link to the left of this description, 2) <a href="http://akismet.com/get/">Sign up for an Akismet plan</a> to get an API key, and 3) Go to your Akismet configuration page, and save your API key.
-Version: 3.1.7
+Version: 3.1.8
 Author: Automattic
 Author URI: http://automattic.com/wordpress-plugins/
 License: GPLv2 or later
@@ -33,13 +33,12 @@ Copyright 2005-2015 Automattic, Inc.
 
 // Make sure we don't expose any info if called directly
 if (!function_exists('add_action')) {
-    echo 'Hi there!  I\'m just a plugin, not much I can do when called directly.';
-    exit;
+	echo 'Hi there!  I\'m just a plugin, not much I can do when called directly.';
+	exit;
 }
 
-define('AKISMET_VERSION', '3.1.7');
+define('AKISMET_VERSION', '3.1.8');
 define('AKISMET__MINIMUM_WP_VERSION', '3.2');
-define('AKISMET__PLUGIN_URL', plugin_dir_url(__FILE__));
 define('AKISMET__PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('AKISMET_DELETE_LIMIT', 100000);
 
@@ -52,8 +51,8 @@ require_once(AKISMET__PLUGIN_DIR . 'class.akismet-widget.php');
 add_action('init', array('Akismet', 'init'));
 
 if (is_admin()) {
-    require_once(AKISMET__PLUGIN_DIR . 'class.akismet-admin.php');
-    add_action('init', array('Akismet_Admin', 'init'));
+	require_once(AKISMET__PLUGIN_DIR . 'class.akismet-admin.php');
+	add_action('init', array('Akismet_Admin', 'init'));
 }
 
 //add wrapper class around deprecated akismet functions that are referenced elsewhere
