@@ -1,34 +1,29 @@
-<?php
-/**
- * The template for displaying 404 pages (not found)
- *
- * @package WordPress
- * @subpackage Cybernauci
- * @since Cybernauci 1.0
- */
+<?php get_header(); ?>
 
-get_header(); ?>
+<div id="rejestracja">
+    <div class="info container-block">
+        <div class="container mainblock">
+            <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-left-computer.png"
+                 class="sidebanner sidebanner-left" alt=""/>
+            <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-right-rockets.png"
+                 class="sidebanner sidebanner-right" alt=""/>
 
-<div id="primary" class="content-area">
-    <main id="main" class="site-main" role="main">
+            <header class="entry-header">
+                <h2 class="entry-title">Ups!</h2>
+            </header>
+            <div class="entry-content">
+                <div class="innerBlock col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                    <p>Stronę, którą poszukujesz nie znajduje się już w naszym serwisie (bądź nigdy jej nie było).<br/>
+                        Nie martw się - na pocieszenie masz sweet foteczkę kotka.</p>
 
-        <section class="error-404 not-found">
-            <header class="page-header">
-                <h1 class="page-title"><?php _e('Oops! That page can&rsquo;t be found.', 'cybernauci'); ?></h1>
-            </header><!-- .page-header -->
+                    <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                        <img class="img-responsive"
+                             src="https://placekitten.com/800/600?image=<?php echo mt_rand(0, 15); ?>" alt=""/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-            <div class="page-content">
-                <p><?php _e('It looks like nothing was found at this location. Maybe try a search?', 'cybernauci'); ?></p>
-
-                <?php get_search_form(); ?>
-            </div><!-- .page-content -->
-        </section><!-- .error-404 -->
-
-    </main><!-- .site-main -->
-
-    <?php get_sidebar('content-bottom'); ?>
-
-</div><!-- .content-area -->
-
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>

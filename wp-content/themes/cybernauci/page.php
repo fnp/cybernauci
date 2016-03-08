@@ -7,10 +7,6 @@
                  class="sidebanner sidebanner-left" alt=""/>
             <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-right-planet.png"
                  class="sidebanner sidebanner-right" alt=""/>
-
-            <header class="entry-header">
-                <h2 class="entry-title">Najnowsze informacje o programie</h2>
-            </header>
         </div>
     </div>
 
