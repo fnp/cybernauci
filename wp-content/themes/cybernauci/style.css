@@ -730,6 +730,11 @@ body {
     float: right;
 }
 
+#rejestracja form .ninja-forms-req-symbol {
+    padding-left: 2px;
+    padding-right: 4px;
+}
+
 #rejestracja form select {
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -797,6 +802,8 @@ body {
     font-size: 10px;
     line-height: 1.2em;
     margin: 5px 0 0;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #kontakt .entry-content .info p {
