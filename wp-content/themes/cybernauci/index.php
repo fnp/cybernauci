@@ -80,7 +80,7 @@
 
                             <footer class="entry-footer">
                                 <a class="readmore" href="<?php the_permalink() ?>" rel="bookmark"
-                                   title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title()) ?>"><? echo __('read more', 'cybernauci') ?></a>
+                                   title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title()) ?>"><? echo __('czytaj więcej', 'cybernauci') ?></a>
                                 <?php
                                 edit_post_link(
                                     sprintf(

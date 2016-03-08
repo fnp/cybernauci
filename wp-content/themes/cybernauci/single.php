@@ -57,7 +57,7 @@
 
                                     <footer class="entry-footer">
                                         <a class="readmore" href="<?php the_permalink($prev_post->ID) ?>" rel="bookmark"
-                                           title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title($prev_post->ID)) ?>"><? echo __('read more', 'cybernauci') ?></a>
+                                           title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title($prev_post->ID)) ?>"><? echo __('czytaj więcej', 'cybernauci') ?></a>
                                     </footer>
                                 </article>
                             </div>
@@ -82,7 +82,7 @@
 
                                     <footer class="entry-footer">
                                         <a class="readmore" href="<?php the_permalink($next_post->ID) ?>" rel="bookmark"
-                                           title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title($next_post->ID)) ?>"><? echo __('read more', 'cybernauci') ?></a>
+                                           title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title($next_post->ID)) ?>"><? echo __('czytaj więcej', 'cybernauci') ?></a>
                                     </footer>
                                 </article>
                             </div>
