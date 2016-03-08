@@ -671,10 +671,52 @@ body {
     color: #ffffff;
 }
 
-#rejestracja form .col-xs-12-wrap input:not([type="submit"]),
-#rejestracja form .col-xs-12-wrap select,
-#rejestracja form .col-xs-12-wrap textarea {
+#rejestracja form .col-xs-12-wrap .ninja-forms-field {
     width: 100%;
+}
+
+#rejestracja form .ninja-forms-field[type="submit"] {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid #2e6da4;
+    color: #fff;
+    background-color: #337ab7;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+#rejestracja form .ninja-forms-field[type="submit"]:focus,
+#rejestracja form .ninja-forms-field[type="submit"].focus {
+    color: #fff;
+    background-color: #286090;
+    border-color: #122b40;
+}
+
+#rejestracja form .ninja-forms-field[type="submit"]:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+}
+
+#rejestracja form .ninja-forms-required-items {
+    display: none;
+}
+
+#rejestracja form .ninja-forms-field.nf-desc > p {
+    margin: 12px 0;
 }
 
 #rejestracja form .col-xs-10-wrap {
@@ -743,6 +785,8 @@ body {
     color: #ffffff;
     line-height: 1.2em;
     float: left;
+    margin-top: 18px;
+    width: 90%;
 }
 
 #kontakt .entry-content .info p {
@@ -775,4 +819,10 @@ body {
 
 #kontakt .entry-content .aboutUs p:first-child {
     font-size: 14px;
+}
+
+@media (min-width: 992px) {
+    #rejestracja form .col-md-6-wrap .ninja-forms-field {
+        width: 50%;
+    }
 }
