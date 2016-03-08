@@ -726,6 +726,7 @@ body {
 
 #rejestracja form .col-xs-2-wrap {
     width: 25%;
+    margin-left: 5%;
     float: right;
 }
 
@@ -787,6 +788,15 @@ body {
     float: left;
     margin-top: 18px;
     width: 90%;
+}
+
+#rejestracja form .ninja-forms-field-error,
+#rejestracja form .ninja-forms-field-error p {
+    display: inline-block;
+    float: left;
+    font-size: 10px;
+    line-height: 1.2em;
+    margin: 5px 0 0;
 }
 
 #kontakt .entry-content .info p {
