@@ -16,7 +16,7 @@
                     <? echo get_field('info') ?>
                 </div>
                 <div class="aboutUs col-xs-12 col-md-10 col-md-offset-1">
-                    <? echo get_field('about-us') ?>
+                    <? echo get_field('about_us') ?>
                 </div>
             </div>
         </div>
