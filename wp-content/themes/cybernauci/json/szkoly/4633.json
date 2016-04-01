@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13001",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4633",
+    "miejscowosc": "Banie Mazurskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Konopnickiej",
+    "numer": "12",
+    "kod": "19-520",
+    "poczta": "Banie Mazurskie\r"
+  },
+  {
+    "id": "13002",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4633",
+    "miejscowosc": "Banie Mazurskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Konopnickiej",
+    "numer": "12",
+    "kod": "19-520",
+    "poczta": "Banie Mazurskie\r"
+  }
+]

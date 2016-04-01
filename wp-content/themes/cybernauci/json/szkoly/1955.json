@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5654",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1955",
+    "miejscowosc": "Gaj",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "73",
+    "kod": "32-031",
+    "poczta": "Mogilany\r"
+  },
+  {
+    "id": "5655",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1955",
+    "miejscowosc": "Gaj",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "73",
+    "kod": "32-031",
+    "poczta": "Mogilany\r"
+  }
+]

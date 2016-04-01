@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7974",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2812",
+    "miejscowosc": "Wzd\u00f3\u0142 Rz\u0105dowy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stara Wie\u015b",
+    "numer": "28",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  },
+  {
+    "id": "7975",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2812",
+    "miejscowosc": "Wzd\u00f3\u0142 Rz\u0105dowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stara Wie\u015b",
+    "numer": "28",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  }
+]

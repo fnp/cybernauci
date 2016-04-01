@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16503",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5742",
+    "miejscowosc": "Kocierzew Po\u0142udniowy",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Kocierzew Po\u0142udniowy",
+    "numer": "103",
+    "kod": "99-414",
+    "poczta": "Kocierzew\r"
+  },
+  {
+    "id": "16504",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5742",
+    "miejscowosc": "Kocierzew Po\u0142udniowy",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "Kocierzew Po\u0142udniowy",
+    "numer": "103",
+    "kod": "99-414",
+    "poczta": "Kocierzew\r"
+  }
+]

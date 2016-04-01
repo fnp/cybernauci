@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16453",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5726",
+    "miejscowosc": "Stemplew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stemplew",
+    "numer": "35",
+    "kod": "99-140",
+    "poczta": "\u015awinice Warckie\r"
+  },
+  {
+    "id": "16454",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5726",
+    "miejscowosc": "Stemplew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stemplew",
+    "numer": "35",
+    "kod": "99-140",
+    "poczta": "\u015awinice Warckie\r"
+  },
+  {
+    "id": "16455",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5726",
+    "miejscowosc": "Stemplew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stemplew",
+    "numer": "35",
+    "kod": "99-140",
+    "poczta": "\u015awinice Warckie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23515",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8524",
+    "miejscowosc": "Stara Niedzia\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Rodziny Sa\u017cy\u0144skich",
+    "ulica": "Mazowiecka",
+    "numer": "154",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  },
+  {
+    "id": "23516",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8524",
+    "miejscowosc": "Stara Niedzia\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Kownackiej",
+    "ulica": "Mazowiecka",
+    "numer": "154",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  }
+]

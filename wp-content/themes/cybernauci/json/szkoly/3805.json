@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10616",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3805",
+    "miejscowosc": "Pu\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Polskim i Litewskim J\u0119zykiem Nauczania im. Dariusa i Girenasa",
+    "ulica": "11 Marca",
+    "numer": "16",
+    "kod": "16-515",
+    "poczta": "Pu\u0144sk\r"
+  },
+  {
+    "id": "10615",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3805",
+    "miejscowosc": "Pu\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce z Litewskim J\u0119zykiem Nauczania im. 11 Marca",
+    "ulica": "11 Marca",
+    "numer": "16 A",
+    "kod": "16-515",
+    "poczta": "Pu\u0144sk\r"
+  },
+  {
+    "id": "10617",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3805",
+    "miejscowosc": "Pu\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Polskim i Litewskim J\u0119zykiem Nauczania im. Dariusa i Girenasa",
+    "ulica": "11 Marca",
+    "numer": "16",
+    "kod": "16-515",
+    "poczta": "Pu\u0144sk\r"
+  }
+]

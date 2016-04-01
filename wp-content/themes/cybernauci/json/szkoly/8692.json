@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23868",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8692",
+    "miejscowosc": "W\u0105sewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "07-311",
+    "poczta": "W\u0105sewo\r"
+  },
+  {
+    "id": "23869",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8692",
+    "miejscowosc": "W\u0105sewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-311",
+    "poczta": "W\u0105sewo\r"
+  }
+]

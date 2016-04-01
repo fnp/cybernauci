@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8345",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3000",
+    "miejscowosc": "Kije",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kije",
+    "numer": "14",
+    "kod": "28-404",
+    "poczta": "Kije\r"
+  },
+  {
+    "id": "8346",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3000",
+    "miejscowosc": "Kije",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kije",
+    "numer": "14",
+    "kod": "28-404",
+    "poczta": "Kije\r"
+  }
+]

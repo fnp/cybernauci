@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8911",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3206",
+    "miejscowosc": "Charzykowy",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-606",
+    "poczta": "Charzykowy\r"
+  },
+  {
+    "id": "8912",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3206",
+    "miejscowosc": "Charzykowy",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-606",
+    "poczta": "Charzykowy\r"
+  }
+]

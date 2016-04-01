@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24586",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9029",
+    "miejscowosc": "Sk\u00f3rzec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "9",
+    "kod": "08-114",
+    "poczta": "Sk\u00f3rzec\r"
+  },
+  {
+    "id": "24584",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9029",
+    "miejscowosc": "Sk\u00f3rzec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "1",
+    "kod": "08-114",
+    "poczta": "Sk\u00f3rzec\r"
+  }
+]

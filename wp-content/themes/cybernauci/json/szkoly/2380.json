@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6532",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2380",
+    "miejscowosc": "Chrz\u0105stowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Chrz\u0105stowice",
+    "numer": "15",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "7079",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2380",
+    "miejscowosc": "Chrz\u0105stowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego Filia",
+    "ulica": "Chrz\u0105stowice",
+    "numer": "34",
+    "kod": "34-114",
+    "poczta": "Brze\u017anica\r"
+  }
+]

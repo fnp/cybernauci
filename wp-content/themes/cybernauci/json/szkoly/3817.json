@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10649",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3817",
+    "miejscowosc": "Nurzec-Stacja",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "17-330",
+    "poczta": "Nurzec-Stacja\r"
+  },
+  {
+    "id": "10650",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3817",
+    "miejscowosc": "Nurzec-Stacja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "17-330",
+    "poczta": "Nurzec-Stacja\r"
+  }
+]

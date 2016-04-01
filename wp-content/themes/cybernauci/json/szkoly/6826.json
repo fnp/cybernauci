@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19147",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6826",
+    "miejscowosc": "Bolechowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kazimierza G\u00f3rskiego",
+    "ulica": "Wojska Polskiego",
+    "numer": "6",
+    "kod": "62-005",
+    "poczta": "Owi\u0144ska\r"
+  },
+  {
+    "id": "19154",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6826",
+    "miejscowosc": "Bolechowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Obornicka",
+    "numer": "1",
+    "kod": "62-005",
+    "poczta": "Owi\u0144ska\r"
+  },
+  {
+    "id": "19146",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6826",
+    "miejscowosc": "Bolechowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. CH. Andersena",
+    "ulica": "Wojska Polskiego",
+    "numer": "6",
+    "kod": "62-005",
+    "poczta": "Owi\u0144ska\r"
+  },
+  {
+    "id": "19155",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6826",
+    "miejscowosc": "Bolechowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Obornicka",
+    "numer": "1",
+    "kod": "62-005",
+    "poczta": "Owi\u0144ska\r"
+  }
+]

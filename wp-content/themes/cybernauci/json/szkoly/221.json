@@ -1,0 +1,26 @@
+[
+  {
+    "id": "456",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "221",
+    "miejscowosc": "Kup",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "6a",
+    "kod": "46-082",
+    "poczta": "Kup\r"
+  },
+  {
+    "id": "457",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "221",
+    "miejscowosc": "Kup",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "6a",
+    "kod": "46-082",
+    "poczta": "Kup\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19073",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6791",
+    "miejscowosc": "Broniszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Broniszewice",
+    "numer": "44a",
+    "kod": "63-304",
+    "poczta": "Czermin\r"
+  },
+  {
+    "id": "19074",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6791",
+    "miejscowosc": "Broniszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Noblist\u00f3w Polskich",
+    "ulica": "Broniszewice",
+    "numer": "44a",
+    "kod": "63-304",
+    "poczta": "Czermin\r"
+  }
+]

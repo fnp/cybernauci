@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5536",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1875",
+    "miejscowosc": "Siary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siary",
+    "numer": "29",
+    "kod": "38-307",
+    "poczta": "S\u0119kowa\r"
+  },
+  {
+    "id": "5537",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1875",
+    "miejscowosc": "Siary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siary",
+    "numer": "29",
+    "kod": "38-307",
+    "poczta": "S\u0119kowa\r"
+  }
+]

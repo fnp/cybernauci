@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15504",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5479",
+    "miejscowosc": "Lutomia Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Unii Europejskiej",
+    "ulica": "Lutomia Dolna",
+    "numer": "12",
+    "kod": "58-113",
+    "poczta": "Lutomia Dolna\r"
+  },
+  {
+    "id": "15500",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5479",
+    "miejscowosc": "Lutomia Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lutomia Dolna",
+    "numer": "12",
+    "kod": "58-113",
+    "poczta": "Lutomia Dolna\r"
+  }
+]

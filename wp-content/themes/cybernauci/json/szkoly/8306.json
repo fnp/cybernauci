@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23026",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8306",
+    "miejscowosc": "Podeb\u0142ocie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Dawnych S\u0142owian",
+    "ulica": "Podeb\u0142ocie",
+    "numer": "109",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  },
+  {
+    "id": "23027",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8306",
+    "miejscowosc": "Podeb\u0142ocie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Dawnych S\u0142owian",
+    "ulica": "Podeb\u0142ocie",
+    "numer": "109",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  }
+]

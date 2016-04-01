@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8928",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3211",
+    "miejscowosc": "Czersk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "89-650",
+    "poczta": "Czersk\r"
+  },
+  {
+    "id": "8926",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3211",
+    "miejscowosc": "Czersk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "89-650",
+    "poczta": "Czersk\r"
+  },
+  {
+    "id": "8927",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3211",
+    "miejscowosc": "Czersk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "PRESTIGE Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "89-650",
+    "poczta": "Czersk\r"
+  },
+  {
+    "id": "8921",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3211",
+    "miejscowosc": "Czersk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Dworcowa",
+    "numer": "8",
+    "kod": "89-650",
+    "poczta": "Czersk\r"
+  },
+  {
+    "id": "8929",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3211",
+    "miejscowosc": "Czersk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Sportowa Nr 2",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "89-650",
+    "poczta": "Czersk\r"
+  }
+]

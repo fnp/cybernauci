@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22089",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7969",
+    "miejscowosc": "Wola Ociecka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Wola Ociecka",
+    "numer": "114",
+    "kod": "39-104",
+    "poczta": "Ocieka\r"
+  },
+  {
+    "id": "22095",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7969",
+    "miejscowosc": "Wola Ociecka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wola Ociecka",
+    "numer": "114",
+    "kod": "39-104",
+    "poczta": "Ocieka\r"
+  }
+]

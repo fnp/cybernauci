@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23295",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8421",
+    "miejscowosc": "Chotom\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Or\u0142a Bia\u0142ego",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "23",
+    "kod": "05-123",
+    "poczta": "Chotom\u00f3w\r"
+  },
+  {
+    "id": "23293",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8421",
+    "miejscowosc": "Chotom\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Krasi\u0144skiego",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "124",
+    "kod": "05-123",
+    "poczta": "Chotom\u00f3w\r"
+  }
+]

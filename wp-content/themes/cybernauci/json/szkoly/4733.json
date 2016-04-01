@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13343",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4733",
+    "miejscowosc": "Wojnowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojnowo",
+    "numer": "1",
+    "kod": "86-014",
+    "poczta": "Sicienko\r"
+  },
+  {
+    "id": "13344",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4733",
+    "miejscowosc": "Wojnowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojnowo",
+    "numer": "1",
+    "kod": "86-014",
+    "poczta": "Sicienko\r"
+  }
+]

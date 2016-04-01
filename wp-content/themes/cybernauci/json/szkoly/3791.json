@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10583",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3791",
+    "miejscowosc": "Kalin\u00f3wka Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kalin\u00f3wka Ko\u015bcielna",
+    "numer": "36",
+    "kod": "19-120",
+    "poczta": "Knyszyn\r"
+  },
+  {
+    "id": "10584",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3791",
+    "miejscowosc": "Kalin\u00f3wka Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kalin\u00f3wka Ko\u015bcielna",
+    "numer": "36",
+    "kod": "19-120",
+    "poczta": "Knyszyn\r"
+  }
+]

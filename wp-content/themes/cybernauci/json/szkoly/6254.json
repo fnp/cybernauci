@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17956",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6254",
+    "miejscowosc": "Wiele\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kazimierza Wielkiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "64-730",
+    "poczta": "Wiele\u0144\r"
+  },
+  {
+    "id": "17961",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6254",
+    "miejscowosc": "Wiele\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "64-730",
+    "poczta": "Wiele\u0144\r"
+  },
+  {
+    "id": "17962",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6254",
+    "miejscowosc": "Wiele\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Drawska",
+    "numer": "1",
+    "kod": "64-730",
+    "poczta": "Wiele\u0144\r"
+  },
+  {
+    "id": "17963",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6254",
+    "miejscowosc": "Wiele\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technikum",
+    "ulica": "Drawska",
+    "numer": "1",
+    "kod": "64-730",
+    "poczta": "Wiele\u0144\r"
+  }
+]

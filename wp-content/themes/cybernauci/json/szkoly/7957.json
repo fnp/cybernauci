@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22071",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7957",
+    "miejscowosc": "\u017burawiczki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017burawiczki",
+    "numer": "82",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22072",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7957",
+    "miejscowosc": "\u017burawiczki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017burawiczki",
+    "numer": "82",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

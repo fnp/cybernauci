@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24052",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8750",
+    "miejscowosc": "Kopana",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Anieli i Wojciecha G\u00f3rskich",
+    "numer": "3",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  },
+  {
+    "id": "24053",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8750",
+    "miejscowosc": "Kopana",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Anieli i Wojciecha G\u00f3rskich",
+    "numer": "3",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  }
+]

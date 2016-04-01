@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17169",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6069",
+    "miejscowosc": "Inow\u0142\u00f3dz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Spalska",
+    "numer": "5",
+    "kod": "97-215",
+    "poczta": "Inow\u0142\u00f3dz\r"
+  },
+  {
+    "id": "17171",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6069",
+    "miejscowosc": "Inow\u0142\u00f3dz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Spalska",
+    "numer": "5",
+    "kod": "97-215",
+    "poczta": "Inow\u0142\u00f3dz\r"
+  }
+]

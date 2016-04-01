@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15649",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5538",
+    "miejscowosc": "Chrz\u0105stawa Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Wroc\u0142awska",
+    "numer": "19",
+    "kod": "55-003",
+    "poczta": "Czernica\r"
+  },
+  {
+    "id": "15650",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5538",
+    "miejscowosc": "Chrz\u0105stawa Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Piast\u00f3w \u015al\u0105skich",
+    "ulica": "Wroc\u0142awska",
+    "numer": "19",
+    "kod": "55-003",
+    "poczta": "Czernica\r"
+  }
+]

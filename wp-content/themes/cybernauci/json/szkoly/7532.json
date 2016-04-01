@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21244",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7532",
+    "miejscowosc": "Wi\u0105zownica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wi\u0105zownica",
+    "numer": "241",
+    "kod": "37-522",
+    "poczta": "Wi\u0105zownica\r"
+  },
+  {
+    "id": "21245",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7532",
+    "miejscowosc": "Wi\u0105zownica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wi\u0105zownica",
+    "numer": "241",
+    "kod": "37-522",
+    "poczta": "Wi\u0105zownica\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24381",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8902",
+    "miejscowosc": "Gzy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Gzy",
+    "numer": "59",
+    "kod": "06-126",
+    "poczta": "Gzy\r"
+  },
+  {
+    "id": "24380",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8902",
+    "miejscowosc": "Gzy",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Gzy",
+    "numer": "59",
+    "kod": "06-126",
+    "poczta": "Gzy\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7859",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2741",
+    "miejscowosc": "Mnich\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Mnich\u00f3w",
+    "numer": "135",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  },
+  {
+    "id": "7844",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2741",
+    "miejscowosc": "Mnich\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mnich\u00f3w",
+    "numer": "72",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  },
+  {
+    "id": "7863",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2741",
+    "miejscowosc": "Mnich\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mnich\u00f3w",
+    "numer": "135",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23593",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8545",
+    "miejscowosc": "Lipowiec Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Lipowiec Ko\u015bcielny",
+    "numer": "212",
+    "kod": "06-545",
+    "poczta": "Lipowiec Ko\u015bcielny\r"
+  },
+  {
+    "id": "23592",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8545",
+    "miejscowosc": "Lipowiec Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. b\u0142. bp. L. Wetma\u0144skiego ",
+    "ulica": "Lipowiec Ko\u015bcielny",
+    "numer": "212",
+    "kod": "06-545",
+    "poczta": "Lipowiec Ko\u015bcielny\r"
+  }
+]

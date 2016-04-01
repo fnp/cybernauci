@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6289",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2271",
+    "miejscowosc": "Szczawnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Pieni\u0144ska Szko\u0142a Zawodowa",
+    "ulica": "Szlachtowska",
+    "numer": "75B",
+    "kod": "34-460",
+    "poczta": "Szczawnica\r"
+  },
+  {
+    "id": "6288",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2271",
+    "miejscowosc": "Szczawnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "116",
+    "kod": "34-460",
+    "poczta": "Szczawnica\r"
+  },
+  {
+    "id": "6287",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2271",
+    "miejscowosc": "Szczawnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "12",
+    "kod": "34-460",
+    "poczta": "Szczawnica\r"
+  }
+]

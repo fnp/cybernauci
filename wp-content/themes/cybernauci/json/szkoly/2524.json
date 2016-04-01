@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6861",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2524",
+    "miejscowosc": "Turza",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Turza",
+    "numer": "2",
+    "kod": "33-167",
+    "poczta": "Turza\r"
+  },
+  {
+    "id": "6862",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2524",
+    "miejscowosc": "Turza",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Turza",
+    "numer": "2",
+    "kod": "33-167",
+    "poczta": "Turza\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8313",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2977",
+    "miejscowosc": "Ba\u0142t\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ba\u0142t\u00f3w",
+    "numer": "43",
+    "kod": "27-423",
+    "poczta": "Ba\u0142t\u00f3w\r"
+  },
+  {
+    "id": "8314",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2977",
+    "miejscowosc": "Ba\u0142t\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ba\u0142t\u00f3w",
+    "numer": "43",
+    "kod": "27-423",
+    "poczta": "Ba\u0142t\u00f3w\r"
+  }
+]

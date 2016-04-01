@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20524",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7275",
+    "miejscowosc": "Czerwie\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zielonog\u00f3rska",
+    "numer": "43 b",
+    "kod": "66-016",
+    "poczta": "Czerwie\u0144sk\r"
+  },
+  {
+    "id": "20525",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7275",
+    "miejscowosc": "Czerwie\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ma\u0142oszkolna",
+    "numer": "2",
+    "kod": "66-016",
+    "poczta": "Czerwie\u0144sk\r"
+  },
+  {
+    "id": "20521",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7275",
+    "miejscowosc": "Czerwie\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Graniczna",
+    "numer": "5a",
+    "kod": "66-016",
+    "poczta": "Czerwie\u0144sk\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9356",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3403",
+    "miejscowosc": "Ka\u0142dowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Gminie Malbork Gimnazjum Gminne",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "5",
+    "kod": "82-200",
+    "poczta": "Malbork\r"
+  },
+  {
+    "id": "9357",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3403",
+    "miejscowosc": "Ka\u0142dowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 w Gminie Malbork Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "5",
+    "kod": "82-200",
+    "poczta": "Malbork\r"
+  }
+]

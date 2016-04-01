@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11277",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3994",
+    "miejscowosc": "P\u0142oty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "I Armii Wojska Polskiego",
+    "numer": "17",
+    "kod": "72-310",
+    "poczta": "P\u0142oty\r"
+  },
+  {
+    "id": "11274",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3994",
+    "miejscowosc": "P\u0142oty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Stefana Batorego",
+    "numer": "15",
+    "kod": "72-310",
+    "poczta": "P\u0142oty\r"
+  },
+  {
+    "id": "11278",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3994",
+    "miejscowosc": "P\u0142oty",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Paderewskiego",
+    "numer": "13",
+    "kod": "72-310",
+    "poczta": "P\u0142oty\r"
+  }
+]

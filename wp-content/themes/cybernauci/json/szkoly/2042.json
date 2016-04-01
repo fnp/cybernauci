@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5841",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2042",
+    "miejscowosc": "M\u0119cina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "M\u0119cina",
+    "numer": "530",
+    "kod": "34-654",
+    "poczta": "M\u0119cina\r"
+  },
+  {
+    "id": "5842",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2042",
+    "miejscowosc": "M\u0119cina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "M\u0119cina",
+    "numer": "530",
+    "kod": "34-654",
+    "poczta": "M\u0119cina\r"
+  },
+  {
+    "id": "5830",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2042",
+    "miejscowosc": "M\u0119cina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "M\u0119cina",
+    "numer": "504",
+    "kod": "34-654",
+    "poczta": "M\u0119cina\r"
+  }
+]

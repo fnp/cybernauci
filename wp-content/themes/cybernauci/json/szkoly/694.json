@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1569",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "694",
+    "miejscowosc": "\u015awierklany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Karola Miarki",
+    "ulica": "3 Maja",
+    "numer": "20",
+    "kod": "44-266",
+    "poczta": "\u015awierklany\r"
+  },
+  {
+    "id": "1568",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "694",
+    "miejscowosc": "\u015awierklany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ludwika Holesza",
+    "ulica": "Bory\u0144ska",
+    "numer": "6",
+    "kod": "44-266",
+    "poczta": "\u015awierklany\r"
+  },
+  {
+    "id": "1567",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "694",
+    "miejscowosc": "\u015awierklany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015awi\u0119tej Jadwigi",
+    "ulica": "3 Maja",
+    "numer": "18",
+    "kod": "44-266",
+    "poczta": "\u015awierklany\r"
+  }
+]

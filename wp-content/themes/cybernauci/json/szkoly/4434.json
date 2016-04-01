@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12596",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4434",
+    "miejscowosc": "Szestno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Szestno",
+    "numer": "18",
+    "kod": "11-700",
+    "poczta": "Mr\u0105gowo\r"
+  },
+  {
+    "id": "12597",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4434",
+    "miejscowosc": "Szestno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "Szestno",
+    "numer": "18",
+    "kod": "11-700",
+    "poczta": "Mr\u0105gowo\r"
+  }
+]

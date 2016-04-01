@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23028",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8307",
+    "miejscowosc": "Korytnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Korytnica",
+    "numer": "106",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  },
+  {
+    "id": "23029",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8307",
+    "miejscowosc": "Korytnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Korytnica",
+    "numer": "106",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  },
+  {
+    "id": "24880",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8307",
+    "miejscowosc": "Korytnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Sienkiewicza",
+    "numer": "14a",
+    "kod": "07-120",
+    "poczta": "Korytnica\r"
+  },
+  {
+    "id": "24881",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8307",
+    "miejscowosc": "Korytnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sienkiewicza",
+    "numer": "14",
+    "kod": "07-120",
+    "poczta": "Korytnica\r"
+  }
+]

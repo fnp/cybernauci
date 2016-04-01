@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8577",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3097",
+    "miejscowosc": "Szerzawy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Lucyny i Mieczys\u0142awa Ambro\u017c\u00f3w",
+    "ulica": "Szerzawy",
+    "numer": "104",
+    "kod": "27-225",
+    "poczta": "Paw\u0142\u00f3w\r"
+  },
+  {
+    "id": "8578",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3097",
+    "miejscowosc": "Szerzawy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Lucyny i Mieczys\u0142awa Ambro\u017c\u00f3w",
+    "ulica": "Szerzawy",
+    "numer": "104",
+    "kod": "27-225",
+    "poczta": "Paw\u0142\u00f3w\r"
+  }
+]

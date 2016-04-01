@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6530",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2379",
+    "miejscowosc": "Go\u0142aczewy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Stara Wie\u015b",
+    "numer": "17A",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6531",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2379",
+    "miejscowosc": "Go\u0142aczewy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stara Wie\u015b",
+    "numer": "17A",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  }
+]

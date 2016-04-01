@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15028",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5303",
+    "miejscowosc": "Chociesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Chociesz\u00f3w",
+    "numer": "32",
+    "kod": "57-320",
+    "poczta": "Polanica Zdr\u00f3j\r"
+  },
+  {
+    "id": "15029",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5303",
+    "miejscowosc": "Chociesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Chociesz\u00f3w",
+    "numer": "32",
+    "kod": "57-320",
+    "poczta": "Polanica Zdr\u00f3j\r"
+  }
+]

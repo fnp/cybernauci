@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18265",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6398",
+    "miejscowosc": "Che\u0142mce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Che\u0142mce",
+    "numer": "3",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18266",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6398",
+    "miejscowosc": "Che\u0142mce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Che\u0142mce",
+    "numer": "3",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  }
+]

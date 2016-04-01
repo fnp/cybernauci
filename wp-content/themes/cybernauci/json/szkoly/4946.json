@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14197",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4946",
+    "miejscowosc": "Rogowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "13798",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4946",
+    "miejscowosc": "Rogowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rogowo",
+    "numer": "31",
+    "kod": "87-515",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "14198",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4946",
+    "miejscowosc": "Rogowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "13796",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4946",
+    "miejscowosc": "Rogowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rogowo",
+    "numer": "31",
+    "kod": "87-515",
+    "poczta": "Rogowo\r"
+  }
+]

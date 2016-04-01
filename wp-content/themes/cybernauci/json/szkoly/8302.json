@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23019",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8302",
+    "miejscowosc": "Go\u0144czyce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Go\u0144czyce",
+    "numer": "106",
+    "kod": "08-460",
+    "poczta": "Sobolew\r"
+  },
+  {
+    "id": "23020",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8302",
+    "miejscowosc": "Go\u0144czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Go\u0144czyce",
+    "numer": "106",
+    "kod": "08-460",
+    "poczta": "Sobolew\r"
+  }
+]

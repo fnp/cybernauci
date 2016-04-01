@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23654",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8577",
+    "miejscowosc": "Nowe Grochale",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Osadnicza",
+    "numer": "40",
+    "kod": "05-155",
+    "poczta": "Leoncin\r"
+  },
+  {
+    "id": "23655",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8577",
+    "miejscowosc": "Nowe Grochale",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "40",
+    "kod": "05-155",
+    "poczta": "Leoncin\r"
+  }
+]

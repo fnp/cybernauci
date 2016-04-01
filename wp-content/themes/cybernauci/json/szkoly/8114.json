@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22435",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8114",
+    "miejscowosc": "Jastkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "37-403",
+    "poczta": "Pysznica\r"
+  },
+  {
+    "id": "22436",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8114",
+    "miejscowosc": "Jastkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "37-403",
+    "poczta": "Pysznica\r"
+  }
+]

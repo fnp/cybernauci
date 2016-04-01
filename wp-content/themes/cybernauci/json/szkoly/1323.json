@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4148",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1323",
+    "miejscowosc": "Radory\u017c Smolany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Radory\u017c Smolany",
+    "numer": "8C",
+    "kod": "21-470",
+    "poczta": "Krzywda\r"
+  },
+  {
+    "id": "4153",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1323",
+    "miejscowosc": "Radory\u017c Smolany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Radory\u017c Smolany",
+    "numer": "26",
+    "kod": "21-470",
+    "poczta": "Krzywda\r"
+  }
+]

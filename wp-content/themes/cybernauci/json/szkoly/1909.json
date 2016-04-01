@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5589",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1909",
+    "miejscowosc": "Jerzmanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 ",
+    "ulica": "Jerzmanowice",
+    "numer": "366",
+    "kod": "32-048",
+    "poczta": "Jerzmanowice\r"
+  },
+  {
+    "id": "5590",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1909",
+    "miejscowosc": "Jerzmanowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jerzmanowice",
+    "numer": "366",
+    "kod": "32-048",
+    "poczta": "Jerzmanowice\r"
+  }
+]

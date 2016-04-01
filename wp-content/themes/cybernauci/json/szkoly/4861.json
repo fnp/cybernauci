@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13610",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4861",
+    "miejscowosc": "Karnkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Karnkowo",
+    "numer": "42",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  },
+  {
+    "id": "13611",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4861",
+    "miejscowosc": "Karnkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karnkowo",
+    "numer": "42",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6398",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2324",
+    "miejscowosc": "Waksmund",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szko\u0142y Podstawowej i Gimnazjum",
+    "ulica": "Na R\u00f3wni",
+    "numer": "28",
+    "kod": "34-431",
+    "poczta": "Waksmund\r"
+  },
+  {
+    "id": "6399",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2324",
+    "miejscowosc": "Waksmund",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szko\u0142y Podstawowej i Gimnazjum",
+    "ulica": "Na R\u00f3wni",
+    "numer": "28",
+    "kod": "34-431",
+    "poczta": "Waksmund\r"
+  }
+]

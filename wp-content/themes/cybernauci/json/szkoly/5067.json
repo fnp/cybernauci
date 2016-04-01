@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14020",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5067",
+    "miejscowosc": "\u017balno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-506",
+    "poczta": "K\u0119sowo\r"
+  },
+  {
+    "id": "14021",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5067",
+    "miejscowosc": "\u017balno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-506",
+    "poczta": "K\u0119sowo\r"
+  }
+]

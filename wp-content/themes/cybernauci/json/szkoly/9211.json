@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24998",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9211",
+    "miejscowosc": "Stare Za\u0142ubice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Mazowiecka",
+    "numer": "40",
+    "kod": "05-255",
+    "poczta": "Stare Za\u0142ubice\r"
+  },
+  {
+    "id": "24999",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9211",
+    "miejscowosc": "Stare Za\u0142ubice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Mazowiecka",
+    "numer": "40",
+    "kod": "05-255",
+    "poczta": "Stare Za\u0142ubice\r"
+  }
+]

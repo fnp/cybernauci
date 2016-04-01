@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17122",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6060",
+    "miejscowosc": "S\u0142upia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142upia",
+    "numer": "144",
+    "kod": "96-128",
+    "poczta": "S\u0142upia\r"
+  },
+  {
+    "id": "17121",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6060",
+    "miejscowosc": "S\u0142upia",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Zag\u00f3rze",
+    "numer": "37",
+    "kod": "96-128",
+    "poczta": "S\u0142upia\r"
+  },
+  {
+    "id": "17123",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6060",
+    "miejscowosc": "S\u0142upia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142upia",
+    "numer": "144",
+    "kod": "96-128",
+    "poczta": "S\u0142upia\r"
+  }
+]

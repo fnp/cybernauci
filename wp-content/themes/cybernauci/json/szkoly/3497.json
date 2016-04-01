@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9561",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3497",
+    "miejscowosc": "Bobowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Gimnazjalna",
+    "numer": "20",
+    "kod": "83-212",
+    "poczta": "Bobowo\r"
+  },
+  {
+    "id": "9562",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3497",
+    "miejscowosc": "Bobowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "20",
+    "kod": "83-212",
+    "poczta": "Bobowo\r"
+  }
+]

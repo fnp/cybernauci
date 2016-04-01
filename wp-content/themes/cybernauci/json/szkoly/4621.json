@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12983",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4621",
+    "miejscowosc": "Olszyny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Olszyny",
+    "numer": "30",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  },
+  {
+    "id": "12984",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4621",
+    "miejscowosc": "Olszyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszyny",
+    "numer": "30",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16616",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5810",
+    "miejscowosc": "Bukowiec Opoczy\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Bukowiec Opoczy\u0144ski",
+    "numer": "74",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  },
+  {
+    "id": "16617",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5810",
+    "miejscowosc": "Bukowiec Opoczy\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Bukowiec Opoczy\u0144ski",
+    "numer": "74",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  }
+]

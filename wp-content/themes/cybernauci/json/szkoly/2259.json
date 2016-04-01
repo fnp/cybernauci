@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6241",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2259",
+    "miejscowosc": "Podegrodzie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. O. St. Papczy\u0144skiego",
+    "ulica": "Podegrodzie",
+    "numer": "6",
+    "kod": "33-386",
+    "poczta": "Podegrodzie\r"
+  },
+  {
+    "id": "6242",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2259",
+    "miejscowosc": "Podegrodzie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. b\u0142. O. St. Papczy\u0144skiego",
+    "ulica": "Podegrodzie",
+    "numer": "6",
+    "kod": "33-386",
+    "poczta": "Podegrodzie\r"
+  }
+]

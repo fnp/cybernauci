@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13516",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4809",
+    "miejscowosc": "D\u0105browa Biskupia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "88-133",
+    "poczta": "D\u0105browa Biskupia\r"
+  },
+  {
+    "id": "13517",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4809",
+    "miejscowosc": "D\u0105browa Biskupia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "88-133",
+    "poczta": "D\u0105browa Biskupia\r"
+  }
+]

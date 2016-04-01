@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16341",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5670",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Katolicka Szko\u0142a Podstawowa z Oddzia\u0142ami Przedszkolnymi im. \u015bw. Jana Paw\u0142a II ",
+    "ulica": "Zalesie",
+    "numer": "2",
+    "kod": "99-340",
+    "poczta": "Kro\u015bniewice\r"
+  },
+  {
+    "id": "17458",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5670",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "5",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  }
+]

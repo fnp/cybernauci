@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13760",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4933",
+    "miejscowosc": "Piotrk\u00f3w Kujawski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "37",
+    "kod": "88-230",
+    "poczta": "Piotrk\u00f3w Kujawski\r"
+  },
+  {
+    "id": "13758",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4933",
+    "miejscowosc": "Piotrk\u00f3w Kujawski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "39",
+    "kod": "88-230",
+    "poczta": "Piotrk\u00f3w Kujawski\r"
+  },
+  {
+    "id": "13759",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4933",
+    "miejscowosc": "Piotrk\u00f3w Kujawski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "39",
+    "kod": "88-230",
+    "poczta": "Piotrk\u00f3w Kujawski\r"
+  },
+  {
+    "id": "13761",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4933",
+    "miejscowosc": "Piotrk\u00f3w Kujawski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "37",
+    "kod": "88-230",
+    "poczta": "Piotrk\u00f3w Kujawski\r"
+  }
+]

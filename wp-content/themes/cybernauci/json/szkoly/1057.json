@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3635",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1057",
+    "miejscowosc": "Kocudza Pierwsza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Kocudza Pierwsza",
+    "numer": "29",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  },
+  {
+    "id": "3636",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1057",
+    "miejscowosc": "Kocudza Pierwsza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kocudza Pierwsza",
+    "numer": "29",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  }
+]

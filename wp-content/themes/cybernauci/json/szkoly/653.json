@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1494",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "653",
+    "miejscowosc": "Krzanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Akacjowa",
+    "numer": "1",
+    "kod": "47-470",
+    "poczta": "Krzanowice\r"
+  },
+  {
+    "id": "1495",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "653",
+    "miejscowosc": "Krzanowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Akacjowa",
+    "numer": "1",
+    "kod": "47-470",
+    "poczta": "Krzanowice\r"
+  }
+]

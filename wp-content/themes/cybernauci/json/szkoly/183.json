@@ -1,0 +1,26 @@
+[
+  {
+    "id": "381",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "183",
+    "miejscowosc": "Skoroszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Braterstwa Broni",
+    "numer": "9",
+    "kod": "48-320",
+    "poczta": "Skoroszyce\r"
+  },
+  {
+    "id": "382",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "183",
+    "miejscowosc": "Skoroszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Braterstwa Broni",
+    "numer": "9",
+    "kod": "48-320",
+    "poczta": "Skoroszyce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8243",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2962",
+    "miejscowosc": "Gliniany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rynek",
+    "numer": "48",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8241",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2962",
+    "miejscowosc": "Gliniany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rynek",
+    "numer": "48",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  }
+]

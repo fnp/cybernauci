@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23424",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8483",
+    "miejscowosc": "M\u0142ynarze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ostro\u0142\u0119cka",
+    "numer": "24",
+    "kod": "06-231",
+    "poczta": "M\u0142ynarze\r"
+  },
+  {
+    "id": "23423",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8483",
+    "miejscowosc": "M\u0142ynarze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Ostro\u0142\u0119cka",
+    "numer": "24",
+    "kod": "06-231",
+    "poczta": "M\u0142ynarze\r"
+  }
+]

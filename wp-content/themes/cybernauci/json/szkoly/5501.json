@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15555",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5501",
+    "miejscowosc": "Czesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Marii Konopnickiej",
+    "numer": "18",
+    "kod": "55-106",
+    "poczta": "Zawonia\r"
+  },
+  {
+    "id": "15556",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5501",
+    "miejscowosc": "Czesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marii Konopnickiej",
+    "numer": "18",
+    "kod": "55-106",
+    "poczta": "Zawonia\r"
+  }
+]

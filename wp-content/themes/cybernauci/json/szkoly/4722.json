@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13330",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4722",
+    "miejscowosc": "Brzoza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "31a",
+    "kod": "86-061",
+    "poczta": "Brzoza\r"
+  },
+  {
+    "id": "13331",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4722",
+    "miejscowosc": "Brzoza",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "PRESTIGE Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "31A",
+    "kod": "86-061",
+    "poczta": "Brzoza\r"
+  },
+  {
+    "id": "13327",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4722",
+    "miejscowosc": "Brzoza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "31",
+    "kod": "86-061",
+    "poczta": "Brzoza\r"
+  }
+]

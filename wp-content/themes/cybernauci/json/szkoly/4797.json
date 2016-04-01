@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13458",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4797",
+    "miejscowosc": "Radzy\u0144 Che\u0142mi\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sady",
+    "numer": "14",
+    "kod": "87-220",
+    "poczta": "Radzy\u0144 Che\u0142mi\u0144ski\r"
+  },
+  {
+    "id": "13459",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4797",
+    "miejscowosc": "Radzy\u0144 Che\u0142mi\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sady",
+    "numer": "14",
+    "kod": "87-220",
+    "poczta": "Radzy\u0144 Che\u0142mi\u0144ski\r"
+  }
+]

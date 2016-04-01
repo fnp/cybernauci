@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1980",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "813",
+    "miejscowosc": "Rajcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. kr\u00f3la Jana Kazimierza",
+    "ulica": "Rynek",
+    "numer": "2",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  },
+  {
+    "id": "1982",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "813",
+    "miejscowosc": "Rajcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Rajcza",
+    "numer": "54a",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  },
+  {
+    "id": "1981",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "813",
+    "miejscowosc": "Rajcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. ks. J\u00f3zefa Tischnera",
+    "ulica": "Rynek",
+    "numer": "2",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  }
+]

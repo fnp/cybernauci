@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3934",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "ks. bp. T. Wilczy\u0144ska",
+    "numer": "62",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3936",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "148",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3930",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bychawska",
+    "numer": "4",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3935",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "ks. bp. T. Wilczy\u0144ska",
+    "numer": "62",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3937",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "148",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3931",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechaniczne",
+    "ulica": "Bychawska",
+    "numer": "4",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3932",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Bychawska",
+    "numer": "4",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3938",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Przemys\u0142owa",
+    "numer": "44",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3933",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Bychawska",
+    "numer": "4",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  },
+  {
+    "id": "3939",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1207",
+    "miejscowosc": "Be\u0142\u017cyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2 ",
+    "ulica": "Przemys\u0142owa",
+    "numer": "44",
+    "kod": "24-200",
+    "poczta": "Be\u0142\u017cyce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7134",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2643",
+    "miejscowosc": "Tomice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworska",
+    "numer": "9a",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7135",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2643",
+    "miejscowosc": "Tomice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Floria\u0144ska",
+    "numer": "16",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  }
+]

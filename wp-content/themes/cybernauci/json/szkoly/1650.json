@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4805",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1650",
+    "miejscowosc": "Zawada",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Zawada",
+    "numer": "46",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "4799",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1650",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Zawada",
+    "numer": "46",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  }
+]

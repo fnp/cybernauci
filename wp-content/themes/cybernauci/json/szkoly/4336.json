@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12353",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4336",
+    "miejscowosc": "Woszczele",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  },
+  {
+    "id": "12354",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4336",
+    "miejscowosc": "Woszczele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  }
+]

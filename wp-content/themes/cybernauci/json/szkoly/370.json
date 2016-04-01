@@ -1,0 +1,26 @@
+[
+  {
+    "id": "843",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "370",
+    "miejscowosc": "Dankowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ludmi\u0142y i Adolfa Kalici\u0144skich",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "43-331",
+    "poczta": "Dankowice\r"
+  },
+  {
+    "id": "844",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "370",
+    "miejscowosc": "Dankowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "43-331",
+    "poczta": "Dankowice\r"
+  }
+]

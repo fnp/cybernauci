@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8081",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2880",
+    "miejscowosc": "Obice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  },
+  {
+    "id": "8082",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2880",
+    "miejscowosc": "Obice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  }
+]

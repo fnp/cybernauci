@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15362",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5440",
+    "miejscowosc": "Mikosz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Mikosz\u00f3w",
+    "numer": "27",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15366",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5440",
+    "miejscowosc": "Mikosz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Mikosz\u00f3w",
+    "numer": "27",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5789",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2016",
+    "miejscowosc": "Dobra",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dobra",
+    "numer": "1",
+    "kod": "34-642",
+    "poczta": "Dobra\r"
+  },
+  {
+    "id": "5790",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2016",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dobra",
+    "numer": "1",
+    "kod": "34-642",
+    "poczta": "Dobra\r"
+  }
+]

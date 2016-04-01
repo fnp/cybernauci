@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7910",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2769",
+    "miejscowosc": "Sobk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "\u0179r\u00f3d\u0142owa",
+    "numer": "4",
+    "kod": "28-305",
+    "poczta": "Sobk\u00f3w\r"
+  },
+  {
+    "id": "7907",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2769",
+    "miejscowosc": "Sobk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0179r\u00f3d\u0142owa",
+    "numer": "4",
+    "kod": "28-305",
+    "poczta": "Sobk\u00f3w\r"
+  },
+  {
+    "id": "7908",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2769",
+    "miejscowosc": "Sobk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Sobk\u00f3w",
+    "numer": "60",
+    "kod": "28-305",
+    "poczta": "Sobk\u00f3w\r"
+  }
+]

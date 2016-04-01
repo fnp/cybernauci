@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13539",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4824",
+    "miejscowosc": "Janikowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "6",
+    "kod": "88-160",
+    "poczta": "Janikowo\r"
+  },
+  {
+    "id": "13540",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4824",
+    "miejscowosc": "Janikowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "88-160",
+    "poczta": "Janikowo\r"
+  },
+  {
+    "id": "13536",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4824",
+    "miejscowosc": "Janikowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biskupa Micha\u0142a Kozala",
+    "numer": "3",
+    "kod": "88-160",
+    "poczta": "Janikowo\r"
+  }
+]

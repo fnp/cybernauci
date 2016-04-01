@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21045",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7441",
+    "miejscowosc": "Latoszyn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Latoszyn",
+    "numer": "23",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21046",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7441",
+    "miejscowosc": "Latoszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Latoszyn",
+    "numer": "23",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  }
+]

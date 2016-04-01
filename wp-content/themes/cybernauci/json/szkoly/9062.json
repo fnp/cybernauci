@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25239",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9062",
+    "miejscowosc": "Studzieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Studzieniec",
+    "numer": "",
+    "kod": "96-330",
+    "poczta": "Puszcza Maria\u0144ska\r"
+  },
+  {
+    "id": "24648",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9062",
+    "miejscowosc": "Studzieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Studzieniec",
+    "numer": "30",
+    "kod": "09-200",
+    "poczta": "Sierpc\r"
+  },
+  {
+    "id": "24649",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9062",
+    "miejscowosc": "Studzieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Studzieniec",
+    "numer": "30",
+    "kod": "09-200",
+    "poczta": "Sierpc\r"
+  },
+  {
+    "id": "25240",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9062",
+    "miejscowosc": "Studzieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Studzieniec",
+    "numer": "",
+    "kod": "96-330",
+    "poczta": "Puszcza Maria\u0144ska\r"
+  }
+]

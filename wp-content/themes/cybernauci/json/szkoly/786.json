@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1923",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "786",
+    "miejscowosc": "Sopotnia Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Sopotnia Wielka",
+    "numer": "298",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1924",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "786",
+    "miejscowosc": "Sopotnia Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sopotnia Wielka",
+    "numer": "298",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22199",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8016",
+    "miejscowosc": "Harta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Harta",
+    "numer": "106",
+    "kod": "36-067",
+    "poczta": "Harta\r"
+  },
+  {
+    "id": "22200",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8016",
+    "miejscowosc": "Harta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Bohater\u00f3w Walk Ch\u0142opskich",
+    "ulica": "Harta",
+    "numer": "106",
+    "kod": "36-067",
+    "poczta": "Harta\r"
+  },
+  {
+    "id": "22193",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8016",
+    "miejscowosc": "Harta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Harta",
+    "numer": "337",
+    "kod": "36-067",
+    "poczta": "Harta\r"
+  }
+]

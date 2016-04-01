@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19337",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6909",
+    "miejscowosc": "Bielsko",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Bielsko",
+    "numer": "98",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  },
+  {
+    "id": "19339",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6909",
+    "miejscowosc": "Bielsko",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Bielsko",
+    "numer": "98",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  }
+]

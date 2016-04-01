@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11103",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tychowo",
+    "numer": "12",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11102",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Dworcowa",
+    "numer": "11A",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11104",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "20",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11101",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Dworcowa",
+    "numer": "11",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11105",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Gospodarstwa Domowego",
+    "ulica": "Parkowa",
+    "numer": "20",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11106",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3930",
+    "miejscowosc": "Tychowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Parkowa",
+    "numer": "20",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  }
+]

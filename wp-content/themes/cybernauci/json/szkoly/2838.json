@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8016",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2838",
+    "miejscowosc": "Suk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Suk\u00f3w",
+    "numer": "215",
+    "kod": "26-021",
+    "poczta": "Daleszyce\r"
+  },
+  {
+    "id": "8017",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2838",
+    "miejscowosc": "Suk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Suk\u00f3w",
+    "numer": "215",
+    "kod": "26-021",
+    "poczta": "Daleszyce\r"
+  }
+]

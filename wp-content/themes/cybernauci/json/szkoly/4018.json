@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11324",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4018",
+    "miejscowosc": "Gardno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "1",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11325",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4018",
+    "miejscowosc": "Gardno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte ",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "1",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  }
+]

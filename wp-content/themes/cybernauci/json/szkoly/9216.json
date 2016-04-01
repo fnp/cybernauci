@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25016",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9216",
+    "miejscowosc": "Mi\u0105se",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "44",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25017",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9216",
+    "miejscowosc": "Mi\u0105se",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Zofii Solarzowej",
+    "ulica": "Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "44",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

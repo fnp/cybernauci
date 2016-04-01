@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14149",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5130",
+    "miejscowosc": "Modzerowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Modzerowo",
+    "numer": "53a",
+    "kod": "87-800",
+    "poczta": "W\u0142oc\u0142awek\r"
+  },
+  {
+    "id": "14147",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5130",
+    "miejscowosc": "Modzerowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Modzerowo",
+    "numer": "53a",
+    "kod": "87-800",
+    "poczta": "W\u0142oc\u0142awek\r"
+  }
+]

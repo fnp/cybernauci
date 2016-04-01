@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4700",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1586",
+    "miejscowosc": "Hanna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Hanna",
+    "numer": "161E",
+    "kod": "22-220",
+    "poczta": "Hanna\r"
+  },
+  {
+    "id": "4696",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1586",
+    "miejscowosc": "Hanna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Hanna",
+    "numer": "17",
+    "kod": "22-220",
+    "poczta": "Hanna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1394",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "622",
+    "miejscowosc": "Mied\u017ana",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Szkolna",
+    "numer": "24",
+    "kod": "43-227",
+    "poczta": "Mied\u017ana\r"
+  },
+  {
+    "id": "1395",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "622",
+    "miejscowosc": "Mied\u017ana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Szkolna",
+    "numer": "24",
+    "kod": "43-227",
+    "poczta": "Mied\u017ana\r"
+  }
+]

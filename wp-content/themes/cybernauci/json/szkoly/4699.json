@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13278",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4699",
+    "miejscowosc": "Pokrzydowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pokrzydowo",
+    "numer": "23",
+    "kod": "87-312",
+    "poczta": "Pokrzydowo\r"
+  },
+  {
+    "id": "13279",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4699",
+    "miejscowosc": "Pokrzydowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pokrzydowo",
+    "numer": "23",
+    "kod": "87-312",
+    "poczta": "Pokrzydowo\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22621",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7642",
+    "miejscowosc": "B\u00f3brka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "B\u00f3brka",
+    "numer": "50",
+    "kod": "38-623",
+    "poczta": "Uherce Mineralne\r"
+  },
+  {
+    "id": "22622",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7642",
+    "miejscowosc": "B\u00f3brka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u00f3brka",
+    "numer": "50",
+    "kod": "38-623",
+    "poczta": "Uherce Mineralne\r"
+  },
+  {
+    "id": "21443",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7642",
+    "miejscowosc": "B\u00f3brka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza",
+    "ulica": "B\u00f3brka",
+    "numer": "111",
+    "kod": "38-458",
+    "poczta": "Chork\u00f3wka\r"
+  }
+]

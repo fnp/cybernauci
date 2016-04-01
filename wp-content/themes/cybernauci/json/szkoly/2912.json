@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8138",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2912",
+    "miejscowosc": "Zagna\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Turystyczna",
+    "numer": "59",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8134",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2912",
+    "miejscowosc": "Zagna\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Chrusty",
+    "numer": "60",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8139",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2912",
+    "miejscowosc": "Zagna\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Turystyczna",
+    "numer": "59",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8144",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2912",
+    "miejscowosc": "Zagna\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne ",
+    "ulica": "Spacerowa",
+    "numer": "4",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8145",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2912",
+    "miejscowosc": "Zagna\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Spacerowa",
+    "numer": "4",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  }
+]

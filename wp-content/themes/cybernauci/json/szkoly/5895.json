@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16784",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5895",
+    "miejscowosc": "Rozprza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "12A",
+    "kod": "97-340",
+    "poczta": "Rozprza\r"
+  },
+  {
+    "id": "16782",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5895",
+    "miejscowosc": "Rozprza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. Pawlikowskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "97-340",
+    "poczta": "Rozprza\r"
+  }
+]

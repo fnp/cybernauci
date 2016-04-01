@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5835",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2046",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Stara Wie\u015b",
+    "numer": "",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "6099",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2046",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stara Wie\u015b",
+    "numer": "162",
+    "kod": "33-325",
+    "poczta": "Kru\u017clowa Wy\u017cna\r"
+  },
+  {
+    "id": "5836",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2046",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Stanis\u0142awa Konarskiego ",
+    "ulica": "Stara Wie\u015b",
+    "numer": "",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "5843",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2046",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Publiczne Gimnazjum Nr 1",
+    "ulica": "Stara Wie\u015b",
+    "numer": "549",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "5844",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2046",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Szko\u0142a Podstawowa Nr 1 im. Bohater\u00f3w Westerplatte",
+    "ulica": "Stara Wie\u015b",
+    "numer": "549",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  }
+]

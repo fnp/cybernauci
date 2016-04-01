@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17345",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6159",
+    "miejscowosc": "Zapolice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "19",
+    "kod": "98-161",
+    "poczta": "Zapolice\r"
+  },
+  {
+    "id": "17346",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6159",
+    "miejscowosc": "Zapolice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "19",
+    "kod": "98-161",
+    "poczta": "Zapolice\r"
+  }
+]

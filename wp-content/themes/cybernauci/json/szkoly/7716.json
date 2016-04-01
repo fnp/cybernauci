@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21591",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7716",
+    "miejscowosc": "Stare Miasto",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stare Miasto",
+    "numer": "177a",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21592",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7716",
+    "miejscowosc": "Stare Miasto",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stare Miasto",
+    "numer": "177a",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  }
+]

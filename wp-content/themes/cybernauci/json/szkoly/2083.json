@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5908",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2083",
+    "miejscowosc": "Koz\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Koz\u0142\u00f3w",
+    "numer": "",
+    "kod": "32-241",
+    "poczta": "Koz\u0142\u00f3w\r"
+  },
+  {
+    "id": "5909",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2083",
+    "miejscowosc": "Koz\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Koz\u0142\u00f3w",
+    "numer": "",
+    "kod": "32-241",
+    "poczta": "Koz\u0142\u00f3w\r"
+  }
+]

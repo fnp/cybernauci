@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9485",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3463",
+    "miejscowosc": "G\u0142\u00f3wczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9486",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3463",
+    "miejscowosc": "G\u0142\u00f3wczyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9482",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3463",
+    "miejscowosc": "G\u0142\u00f3wczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "22 Lipca",
+    "numer": "16",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  }
+]

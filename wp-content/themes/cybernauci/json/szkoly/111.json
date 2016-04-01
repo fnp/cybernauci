@@ -1,0 +1,74 @@
+[
+  {
+    "id": "240",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "B. Chrobrego",
+    "numer": "36",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  },
+  {
+    "id": "241",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Plac 1 Maja",
+    "numer": "1",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  },
+  {
+    "id": "242",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3 im. W\u0142adys\u0142awa Sikorskiego",
+    "ulica": "Nowa",
+    "numer": "3",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  },
+  {
+    "id": "245",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zdzieszowice",
+    "numer": "",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  },
+  {
+    "id": "246",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "G\u00f3ry \u015bw. Anny",
+    "numer": "21A",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  },
+  {
+    "id": "247",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "111",
+    "miejscowosc": "Zdzieszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "G\u00f3ry \u015bw. Anny",
+    "numer": "21A",
+    "kod": "47-330",
+    "poczta": "Zdzieszowice\r"
+  }
+]

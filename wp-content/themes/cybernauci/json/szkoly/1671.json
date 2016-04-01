@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5119",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1671",
+    "miejscowosc": "\u0141apczyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141apczyca",
+    "numer": "437",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  },
+  {
+    "id": "5120",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1671",
+    "miejscowosc": "\u0141apczyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "\u0141apczyca",
+    "numer": "437",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  }
+]

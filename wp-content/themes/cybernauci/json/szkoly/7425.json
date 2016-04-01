@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21014",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7425",
+    "miejscowosc": "Nawsie Brzosteckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nawsie Brzosteckie",
+    "numer": "206",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  },
+  {
+    "id": "21015",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7425",
+    "miejscowosc": "Nawsie Brzosteckie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nawsie Brzosteckie",
+    "numer": "206",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9006",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3244",
+    "miejscowosc": "Cedry Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Osadnik\u00f3w Wojskowych",
+    "numer": "21",
+    "kod": "83-020",
+    "poczta": "Cedry Wielkie\r"
+  },
+  {
+    "id": "9007",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3244",
+    "miejscowosc": "Cedry Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnik\u00f3w Wojskowych",
+    "numer": "21",
+    "kod": "83-020",
+    "poczta": "Cedry Wielkie\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21856",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Je\u017cowe",
+    "numer": "162a",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21853",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Je\u017cowe",
+    "numer": "416",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21854",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Je\u017cowe",
+    "numer": "813d",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21864",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Je\u017cowe",
+    "numer": "135",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21855",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Je\u017cowe",
+    "numer": "580a",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21857",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7843",
+    "miejscowosc": "Je\u017cowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Je\u017cowe",
+    "numer": "162a",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  }
+]

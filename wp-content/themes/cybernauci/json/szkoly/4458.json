@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12737",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ludowa",
+    "numer": "5",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12738",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "gimnazjum",
+    "nazwa": "Katolickie Gimnazjum Spo\u0142eczne im. Jana Paw\u0142a II ",
+    "ulica": "Armii Krajowej",
+    "numer": "2",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12739",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Paw\u0142a II ",
+    "ulica": "Armii Krajowej",
+    "numer": "2",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12741",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Chrobrego",
+    "numer": "13",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12748",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Ludowa",
+    "numer": "5",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12651",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Grudzi\u0105dzka",
+    "numer": "38",
+    "kod": "13-340",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12740",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. mjr. Henryka Dobrza\u0144skiego pseud. \"Hubal\"",
+    "ulica": "Mickiewicza",
+    "numer": "8",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12734",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "15",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12742",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Chrobrego",
+    "numer": "13",
+    "kod": "11-300",
+    "poczta": "BIskupiec\r"
+  },
+  {
+    "id": "12743",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4458",
+    "miejscowosc": "Biskupiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Chrobrego",
+    "numer": "13",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  }
+]

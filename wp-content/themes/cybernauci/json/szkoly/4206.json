@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11788",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4206",
+    "miejscowosc": "Brze\u017cno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Brze\u017cno",
+    "numer": "15",
+    "kod": "78-316",
+    "poczta": "Brze\u017cno\r"
+  },
+  {
+    "id": "11789",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4206",
+    "miejscowosc": "Brze\u017cno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Brze\u017cno",
+    "numer": "15",
+    "kod": "78-316",
+    "poczta": "Brze\u017cno\r"
+  }
+]

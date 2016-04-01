@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16432",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5712",
+    "miejscowosc": "Daszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Daszyna",
+    "numer": "26a",
+    "kod": "99-107",
+    "poczta": "Daszyna\r"
+  },
+  {
+    "id": "16433",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5712",
+    "miejscowosc": "Daszyna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Daszyna",
+    "numer": "26a",
+    "kod": "99-107",
+    "poczta": "Daszyna\r"
+  }
+]

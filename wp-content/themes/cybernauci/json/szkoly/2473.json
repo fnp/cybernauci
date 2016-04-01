@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6790",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2473",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "1",
+    "kod": "33-191",
+    "poczta": "Jastrz\u0119bia\r"
+  },
+  {
+    "id": "7106",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2473",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "58",
+    "kod": "34-143",
+    "poczta": "Lanckorona\r"
+  },
+  {
+    "id": "6791",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2473",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "1",
+    "kod": "33-191",
+    "poczta": "Jastrz\u0119bia\r"
+  },
+  {
+    "id": "6773",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2473",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. Sikorskiego",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "138",
+    "kod": "33-191",
+    "poczta": "Jastrz\u0119bia\r"
+  }
+]

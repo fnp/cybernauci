@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11705",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4173",
+    "miejscowosc": "Marianowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mieszka I",
+    "numer": "2a",
+    "kod": "73-121",
+    "poczta": "Marianowo\r"
+  },
+  {
+    "id": "11702",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4173",
+    "miejscowosc": "Marianowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jeziorna",
+    "numer": "15",
+    "kod": "73-121",
+    "poczta": "Marianowo\r"
+  }
+]

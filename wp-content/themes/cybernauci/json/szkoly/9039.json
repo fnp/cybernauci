@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24601",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9039",
+    "miejscowosc": "Wodynie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Siedlecka",
+    "numer": "7",
+    "kod": "08-117",
+    "poczta": "Wodynie\r"
+  },
+  {
+    "id": "24602",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9039",
+    "miejscowosc": "Wodynie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. \u0141okietka",
+    "ulica": "Siedlecka",
+    "numer": "7",
+    "kod": "08-117",
+    "poczta": "Wodynie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1147",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "516",
+    "miejscowosc": "Lgota",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa SPSK",
+    "ulica": "Po\u0142udniowa",
+    "numer": "138",
+    "kod": "42-100",
+    "poczta": "K\u0142obuck\r"
+  },
+  {
+    "id": "1153",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "516",
+    "miejscowosc": "Lgota",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Po\u0142udnia",
+    "numer": "138",
+    "kod": "42-100",
+    "poczta": "K\u0142obuck\r"
+  }
+]

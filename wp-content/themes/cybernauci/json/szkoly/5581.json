@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15721",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5581",
+    "miejscowosc": "Budz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Budz\u00f3w",
+    "numer": "108",
+    "kod": "57-214",
+    "poczta": "Z\u0105bkowice \u015al\u0105skie\r"
+  },
+  {
+    "id": "15719",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5581",
+    "miejscowosc": "Budz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Henryka Pobo\u017cnego",
+    "numer": "1",
+    "kod": "57-214",
+    "poczta": "Budz\u00f3w\r"
+  }
+]

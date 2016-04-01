@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4235",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1380",
+    "miejscowosc": "Karczmiska Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "24-310",
+    "poczta": "Karczmiska\r"
+  },
+  {
+    "id": "4237",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1380",
+    "miejscowosc": "Karczmiska Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. M. Kopernika",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "24-310",
+    "poczta": "Karczmiska\r"
+  },
+  {
+    "id": "4238",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1380",
+    "miejscowosc": "Karczmiska Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Rataja",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "24-310",
+    "poczta": "Karczmiska\r"
+  },
+  {
+    "id": "4236",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1380",
+    "miejscowosc": "Karczmiska Pierwsze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "24-310",
+    "poczta": "Karczmiska\r"
+  }
+]

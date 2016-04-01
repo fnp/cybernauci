@@ -1,0 +1,122 @@
+[
+  {
+    "id": "20888",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "29 Listopada",
+    "numer": "19",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20890",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Dobra",
+    "numer": "6",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20882",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5",
+    "ulica": "Gombrowicza",
+    "numer": "37",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20887",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kopernika",
+    "numer": "4",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20889",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "29 Listopada",
+    "numer": "21",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20891",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Dobra",
+    "numer": "6",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20883",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Gombrowicza",
+    "numer": "37",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20885",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarskie, Technikum \u017bywienia i Us\u0142ug Gastronomicznych, Technikum Organizacji Us\u0142ug Gastronomicznych",
+    "ulica": "Przemys\u0142owa",
+    "numer": "16",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20886",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Przemys\u0142owa",
+    "numer": "16",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  },
+  {
+    "id": "20884",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7375",
+    "miejscowosc": "Ustrzyki Dolne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Gombrowicza",
+    "numer": "37",
+    "kod": "38-700",
+    "poczta": "Ustrzyki Dolne\r"
+  }
+]

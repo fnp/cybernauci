@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8830",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3168",
+    "miejscowosc": "Brze\u017ano Szlacheckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "79",
+    "kod": "77-139",
+    "poczta": "Brze\u017ano Szlacheckie\r"
+  },
+  {
+    "id": "8831",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3168",
+    "miejscowosc": "Brze\u017ano Szlacheckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "79",
+    "kod": "77-139",
+    "poczta": "Brze\u017ano Szlacheckie\r"
+  }
+]

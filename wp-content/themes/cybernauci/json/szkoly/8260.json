@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22938",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8260",
+    "miejscowosc": "Go\u0142otczyzna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ciechanowska",
+    "numer": "18b",
+    "kod": "06-430",
+    "poczta": "Go\u0142otczyzna\r"
+  },
+  {
+    "id": "22939",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8260",
+    "miejscowosc": "Go\u0142otczyzna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ciechanowska",
+    "numer": "18b",
+    "kod": "06-430",
+    "poczta": "Go\u0142otczyzna\r"
+  }
+]

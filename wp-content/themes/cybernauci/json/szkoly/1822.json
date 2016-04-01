@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5418",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1822",
+    "miejscowosc": "Radgoszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 w Zespole Szk\u00f3\u0142 Publicznych ",
+    "ulica": "Pl. \u015bw. Kazimierza",
+    "numer": "10",
+    "kod": "33-207",
+    "poczta": "Radgoszcz\r"
+  },
+  {
+    "id": "5414",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1822",
+    "miejscowosc": "Radgoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mickiewicza",
+    "numer": "39",
+    "kod": "33-207",
+    "poczta": "Radgoszcz\r"
+  },
+  {
+    "id": "5415",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1822",
+    "miejscowosc": "Radgoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna ",
+    "ulica": "Szkolna",
+    "numer": "27",
+    "kod": "33-207",
+    "poczta": "Radgoszcz\r"
+  },
+  {
+    "id": "5419",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1822",
+    "miejscowosc": "Radgoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "Pl. \u015bw. Kazimierza",
+    "numer": "10",
+    "kod": "33-207",
+    "poczta": "Radgoszcz\r"
+  }
+]

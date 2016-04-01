@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5850",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2052",
+    "miejscowosc": "Stronie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Stronie",
+    "numer": "2",
+    "kod": "34-604",
+    "poczta": "Przyszowa\r"
+  },
+  {
+    "id": "7128",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2052",
+    "miejscowosc": "Stronie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Stronie",
+    "numer": "67",
+    "kod": "34-145",
+    "poczta": "Stronie\r"
+  }
+]

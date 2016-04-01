@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14001",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5055",
+    "miejscowosc": "Z\u0142awie\u015b Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "87-134",
+    "poczta": "Z\u0142awie\u015b Wielka\r"
+  },
+  {
+    "id": "14002",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5055",
+    "miejscowosc": "Z\u0142awie\u015b Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "87-134",
+    "poczta": "Z\u0142awie\u015b Wielka\r"
+  }
+]

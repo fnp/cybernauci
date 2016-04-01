@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9223",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3356",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "G\u00f3ra",
+    "numer": "17",
+    "kod": "83-210",
+    "poczta": "Zblewo\r"
+  },
+  {
+    "id": "9799",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3356",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "84-252",
+    "poczta": "Zamostne\r"
+  }
+]

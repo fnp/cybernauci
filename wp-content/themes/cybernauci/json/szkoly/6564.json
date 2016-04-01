@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18566",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6564",
+    "miejscowosc": "Krzywi\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Strzelecka",
+    "numer": "13",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  },
+  {
+    "id": "18567",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6564",
+    "miejscowosc": "Krzywi\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gen. Dezyderego Ch\u0142apowskiego",
+    "numer": "34",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  },
+  {
+    "id": "18568",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6564",
+    "miejscowosc": "Krzywi\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strzelecka",
+    "numer": "13",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  },
+  {
+    "id": "18569",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6564",
+    "miejscowosc": "Krzywi\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Gen. Dezyderego Ch\u0142apowskiego",
+    "numer": "34",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  }
+]

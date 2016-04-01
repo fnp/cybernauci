@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14010",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5061",
+    "miejscowosc": "Cekcyn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "41A",
+    "kod": "89-511",
+    "poczta": "Cekcyn\r"
+  },
+  {
+    "id": "14011",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5061",
+    "miejscowosc": "Cekcyn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "89-511",
+    "poczta": "Cekcyn\r"
+  }
+]

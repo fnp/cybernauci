@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5877",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2068",
+    "miejscowosc": "Konina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Konina",
+    "numer": "211",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  },
+  {
+    "id": "5878",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2068",
+    "miejscowosc": "Konina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Konina",
+    "numer": "211",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  }
+]

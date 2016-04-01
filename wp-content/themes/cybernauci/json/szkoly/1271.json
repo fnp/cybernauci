@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4041",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1271",
+    "miejscowosc": "Wojciech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wojciech\u00f3w",
+    "numer": "8",
+    "kod": "24-204",
+    "poczta": "Wojciech\u00f3w\r"
+  },
+  {
+    "id": "4042",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1271",
+    "miejscowosc": "Wojciech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wojciech\u00f3w",
+    "numer": "8",
+    "kod": "24-204",
+    "poczta": "Wojciech\u00f3w\r"
+  }
+]

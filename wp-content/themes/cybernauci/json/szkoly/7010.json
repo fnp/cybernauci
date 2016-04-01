@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19560",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7010",
+    "miejscowosc": "Sarbice",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Sarbice",
+    "numer": "4",
+    "kod": "62-731",
+    "poczta": "Przykona\r"
+  },
+  {
+    "id": "19559",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7010",
+    "miejscowosc": "Sarbice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sarbice",
+    "numer": "4",
+    "kod": "62-731",
+    "poczta": "Przykona\r"
+  }
+]

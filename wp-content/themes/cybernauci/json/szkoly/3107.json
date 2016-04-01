@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8592",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3107",
+    "miejscowosc": "\u0141ubnice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u0141ubnice",
+    "numer": "62",
+    "kod": "28-232",
+    "poczta": "\u0141ubnice\r"
+  },
+  {
+    "id": "8594",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3107",
+    "miejscowosc": "\u0141ubnice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Wojciecha Skuzy",
+    "ulica": "\u0141ubnice",
+    "numer": "62",
+    "kod": "28-232",
+    "poczta": "\u0141ubnice\r"
+  }
+]

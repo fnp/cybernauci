@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17265",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6124",
+    "miejscowosc": "Wierzchlas",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "48",
+    "kod": "98-324",
+    "poczta": "Wierzchlas\r"
+  },
+  {
+    "id": "17263",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6124",
+    "miejscowosc": "Wierzchlas",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "48",
+    "kod": "98-324",
+    "poczta": "Wierzchlas\r"
+  }
+]

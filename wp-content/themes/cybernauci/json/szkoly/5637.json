@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16266",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5637",
+    "miejscowosc": "\u0141\u0119kawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "\u0141\u0119kawa",
+    "numer": "4",
+    "kod": "97-400",
+    "poczta": "Be\u0142chat\u00f3w\r"
+  },
+  {
+    "id": "16261",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5637",
+    "miejscowosc": "\u0141\u0119kawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Komisji Edukacji Narodowej",
+    "ulica": "\u0141\u0119kawa",
+    "numer": "4",
+    "kod": "97-400",
+    "poczta": "Be\u0142chat\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21467",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7653",
+    "miejscowosc": "Lubatowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Lubatowa",
+    "numer": "284",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21465",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7653",
+    "miejscowosc": "Lubatowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Lubatowa",
+    "numer": "284",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  }
+]

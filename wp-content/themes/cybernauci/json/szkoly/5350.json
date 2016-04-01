@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15148",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5350",
+    "miejscowosc": "\u015acinawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Miko\u0142aja Kopernika",
+    "ulica": "Lipowa",
+    "numer": "1",
+    "kod": "59-330",
+    "poczta": "\u015acinawa\r"
+  },
+  {
+    "id": "15147",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5350",
+    "miejscowosc": "\u015acinawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Kr\u00f3lowej Jadwigi",
+    "numer": "9",
+    "kod": "59-330",
+    "poczta": "\u015acinawa\r"
+  }
+]

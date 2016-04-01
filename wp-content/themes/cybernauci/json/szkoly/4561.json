@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12862",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4561",
+    "miejscowosc": "Mi\u0142akowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Olszty\u0144ska",
+    "numer": "9A",
+    "kod": "14-310",
+    "poczta": "Mi\u0142akowo\r"
+  },
+  {
+    "id": "12863",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4561",
+    "miejscowosc": "Mi\u0142akowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszty\u0144ska",
+    "numer": "9A",
+    "kod": "14-310",
+    "poczta": "Mi\u0142akowo\r"
+  }
+]

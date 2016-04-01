@@ -1,0 +1,122 @@
+[
+  {
+    "id": "11362",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marii Konopnickiej",
+    "numer": "19",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11363",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr 2",
+    "ulica": "Woli\u0144ska",
+    "numer": "7A",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11361",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Woli\u0144ska",
+    "numer": "9 b",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11357",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Boles\u0142awa Chrobrego",
+    "ulica": "Plac Katedralny",
+    "numer": "5",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11358",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Woli\u0144ska",
+    "numer": "9",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11364",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Woli\u0144ska",
+    "numer": "7A",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11365",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum dla M\u0142odzie\u017cy",
+    "ulica": "Woli\u0144ska",
+    "numer": "7a",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11366",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarskie",
+    "ulica": "Woli\u0144ska",
+    "numer": "7A",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11367",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Gospodarstwa Domowego",
+    "ulica": "Woli\u0144ska",
+    "numer": "7A",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11368",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4036",
+    "miejscowosc": "Kamie\u0144 Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Woli\u0144ska",
+    "numer": "7A",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  }
+]

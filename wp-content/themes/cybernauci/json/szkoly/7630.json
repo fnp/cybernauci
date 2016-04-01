@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21427",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7630",
+    "miejscowosc": "Wilcza Wola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wilcza Wola",
+    "numer": "29a",
+    "kod": "36-121",
+    "poczta": "Wilcza Wola\r"
+  },
+  {
+    "id": "21429",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7630",
+    "miejscowosc": "Wilcza Wola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Rzeszowska",
+    "numer": "1",
+    "kod": "36-121",
+    "poczta": "Wilcza Wola\r"
+  },
+  {
+    "id": "21430",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7630",
+    "miejscowosc": "Wilcza Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Samorz\u0105dowe",
+    "ulica": "Rzeszowska",
+    "numer": "1",
+    "kod": "36-121",
+    "poczta": "Wilcza Wola\r"
+  }
+]

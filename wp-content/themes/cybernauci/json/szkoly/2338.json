@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6432",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2338",
+    "miejscowosc": "Chab\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chab\u00f3wka",
+    "numer": "232",
+    "kod": "34-720",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6433",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2338",
+    "miejscowosc": "Chab\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chab\u00f3wka",
+    "numer": "232",
+    "kod": "34-720",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  }
+]

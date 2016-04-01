@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24383",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8903",
+    "miejscowosc": "Obryte",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Obryte",
+    "numer": "114",
+    "kod": "07-215",
+    "poczta": "Obryte\r"
+  },
+  {
+    "id": "24382",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8903",
+    "miejscowosc": "Obryte",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Obryte",
+    "numer": "114",
+    "kod": "07-215",
+    "poczta": "Obryte\r"
+  }
+]

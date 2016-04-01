@@ -1,0 +1,62 @@
+[
+  {
+    "id": "627",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "313",
+    "miejscowosc": "Zawadzkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Mieszka I ",
+    "ulica": "Kr\u00f3tka",
+    "numer": "1",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  },
+  {
+    "id": "621",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "313",
+    "miejscowosc": "Zawadzkie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Opolska",
+    "numer": "47",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  },
+  {
+    "id": "622",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "313",
+    "miejscowosc": "Zawadzkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Opolska",
+    "numer": "47",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  },
+  {
+    "id": "628",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "313",
+    "miejscowosc": "Zawadzkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kr\u00f3tka",
+    "numer": "1",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  },
+  {
+    "id": "629",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "313",
+    "miejscowosc": "Zawadzkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kr\u00f3tka",
+    "numer": "1",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  }
+]

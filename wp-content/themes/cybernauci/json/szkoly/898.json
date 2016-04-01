@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3358",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "898",
+    "miejscowosc": "Sosn\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Sosn\u00f3wka",
+    "numer": "117",
+    "kod": "21-518",
+    "poczta": "Sosn\u00f3wka\r"
+  },
+  {
+    "id": "3356",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "898",
+    "miejscowosc": "Sosn\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sosn\u00f3wka",
+    "numer": "117",
+    "kod": "21-518",
+    "poczta": "Sosn\u00f3wka\r"
+  }
+]

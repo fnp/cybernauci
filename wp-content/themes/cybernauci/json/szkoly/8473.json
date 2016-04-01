@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23396",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8473",
+    "miejscowosc": "Stara Kornica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stara Kornica",
+    "numer": "172",
+    "kod": "08-205",
+    "poczta": "Kornica\r"
+  },
+  {
+    "id": "23397",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8473",
+    "miejscowosc": "Stara Kornica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stara Kornica",
+    "numer": "172",
+    "kod": "08-205",
+    "poczta": "Kornica\r"
+  },
+  {
+    "id": "23398",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8473",
+    "miejscowosc": "Stara Kornica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Punkt Filialny",
+    "ulica": "Stara Kornica",
+    "numer": "55",
+    "kod": "08-205",
+    "poczta": "Kornica\r"
+  }
+]

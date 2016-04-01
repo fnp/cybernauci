@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22213",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8028",
+    "miejscowosc": "Budy G\u0142ogowskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Budy G\u0142ogowskie",
+    "numer": "846",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22214",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8028",
+    "miejscowosc": "Budy G\u0142ogowskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Budy G\u0142ogowskie",
+    "numer": "846",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  }
+]

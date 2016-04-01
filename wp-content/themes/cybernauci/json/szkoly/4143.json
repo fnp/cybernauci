@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11625",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4143",
+    "miejscowosc": "Kopnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 ",
+    "ulica": "Kopnica",
+    "numer": "24",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11626",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4143",
+    "miejscowosc": "Kopnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kopnica",
+    "numer": "24",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

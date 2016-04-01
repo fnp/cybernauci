@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3717",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1088",
+    "miejscowosc": "Ma\u0142ochwiej Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 ",
+    "ulica": "Ma\u0142ochwiej Du\u017cy",
+    "numer": "82",
+    "kod": "22-300",
+    "poczta": "Krasnystaw\r"
+  },
+  {
+    "id": "3718",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1088",
+    "miejscowosc": "Ma\u0142ochwiej Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ma\u0142ochwiej Du\u017cy",
+    "numer": "82",
+    "kod": "22-300",
+    "poczta": "Krasnystaw\r"
+  }
+]

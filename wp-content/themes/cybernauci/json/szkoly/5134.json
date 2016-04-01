@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14160",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "11 Listopada",
+    "numer": "5",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  },
+  {
+    "id": "14162",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rad\u0142owska",
+    "numer": "10",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  },
+  {
+    "id": "14161",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "11 Listopada",
+    "numer": "5",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  },
+  {
+    "id": "14163",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rad\u0142owska",
+    "numer": "10",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  },
+  {
+    "id": "14164",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rad\u0142owska",
+    "numer": "10",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  },
+  {
+    "id": "14159",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5134",
+    "miejscowosc": "Piechcin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Rad\u0142owska",
+    "numer": "10",
+    "kod": "88-192",
+    "poczta": "Piechcin\r"
+  }
+]

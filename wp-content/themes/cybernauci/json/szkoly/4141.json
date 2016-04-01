@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11621",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4141",
+    "miejscowosc": "Stary Jaros\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2",
+    "ulica": "Stary Jaros\u0142aw",
+    "numer": "71",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11622",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4141",
+    "miejscowosc": "Stary Jaros\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Nr 2",
+    "ulica": "Stary Jaros\u0142aw",
+    "numer": "71",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

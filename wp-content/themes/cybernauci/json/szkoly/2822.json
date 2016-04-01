@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7989",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2822",
+    "miejscowosc": "Wolica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2 w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Szkolna",
+    "numer": "35",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7990",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2822",
+    "miejscowosc": "Wolica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Szkolna",
+    "numer": "35",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  }
+]

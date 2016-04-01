@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25022",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9218",
+    "miejscowosc": "Stryjki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stryjki",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25023",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9218",
+    "miejscowosc": "Stryjki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

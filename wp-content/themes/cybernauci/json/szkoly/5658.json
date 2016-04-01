@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16300",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kili\u0144skiego",
+    "numer": "40",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  },
+  {
+    "id": "16301",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kili\u0144skiego",
+    "numer": "40",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  },
+  {
+    "id": "16296",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Tadeusza Ko\u015bciuszki z oddzia\u0142ami integracyjnymi",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "40\/42",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  },
+  {
+    "id": "16297",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 ",
+    "ulica": "\u017beromskiego",
+    "numer": "53",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  },
+  {
+    "id": "16302",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechaniczne",
+    "ulica": "Kili\u0144skiego",
+    "numer": "5",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  },
+  {
+    "id": "16303",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5658",
+    "miejscowosc": "Zel\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kili\u0144skiego",
+    "numer": "5",
+    "kod": "97-425",
+    "poczta": "Zel\u00f3w\r"
+  }
+]

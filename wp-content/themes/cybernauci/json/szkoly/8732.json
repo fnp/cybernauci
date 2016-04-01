@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23983",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8732",
+    "miejscowosc": "\u0141azy",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Katolicka Szko\u0142a Podstawowa im. b\u0142. ks. Jerzego Popie\u0142uszki",
+    "ulica": "Ks. Kan. H. S\u0142ojewskiego",
+    "numer": "19",
+    "kod": "05-552",
+    "poczta": "Lesznowola\r"
+  },
+  {
+    "id": "23992",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8732",
+    "miejscowosc": "\u0141azy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "S\u0142ojewskiego",
+    "numer": "1",
+    "kod": "05-552",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "23993",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8732",
+    "miejscowosc": "\u0141azy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 Publicznych im. Jana Paw\u0142a II",
+    "ulica": "S\u0142ojewskiego",
+    "numer": "1",
+    "kod": "05-552",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "23987",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8732",
+    "miejscowosc": "\u0141azy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Katolickie Gimnazjum im. b\u0142. ks. Jerzego Popie\u0142uszki",
+    "ulica": "Wiejska",
+    "numer": "2",
+    "kod": "05-552",
+    "poczta": "W\u00f3lka Kosowska\r"
+  },
+  {
+    "id": "23989",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8732",
+    "miejscowosc": "\u0141azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. b\u0142. ks. Jerzego Popie\u0142uszki",
+    "ulica": "Wiejska",
+    "numer": "2",
+    "kod": "05-552",
+    "poczta": "W\u00f3lka Kosowska\r"
+  }
+]

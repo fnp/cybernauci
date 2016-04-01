@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24832",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8350",
+    "miejscowosc": "Zabor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sto\u0142eczna",
+    "numer": "182",
+    "kod": "05-083",
+    "poczta": "Zabor\u00f3w\r"
+  },
+  {
+    "id": "23137",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8350",
+    "miejscowosc": "Zabor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Zabor\u00f3w",
+    "numer": "40",
+    "kod": "05-622",
+    "poczta": "Belsk Du\u017cy\r"
+  },
+  {
+    "id": "24833",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8350",
+    "miejscowosc": "Zabor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sto\u0142eczna",
+    "numer": "182",
+    "kod": "05-083",
+    "poczta": "Zabor\u00f3w\r"
+  }
+]

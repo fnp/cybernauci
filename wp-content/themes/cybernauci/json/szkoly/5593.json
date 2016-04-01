@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15752",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5593",
+    "miejscowosc": "Zawid\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "59-970",
+    "poczta": "Zawid\u00f3w\r"
+  },
+  {
+    "id": "15753",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5593",
+    "miejscowosc": "Zawid\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "59-970",
+    "poczta": "Zawid\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3473",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "959",
+    "miejscowosc": "Tarnogr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "23-420",
+    "poczta": "Tarnogr\u00f3d\r"
+  },
+  {
+    "id": "3468",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "959",
+    "miejscowosc": "Tarnogr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Curie-Sk\u0142odowskiej ",
+    "ulica": "1 Maja",
+    "numer": "7",
+    "kod": "23-420",
+    "poczta": "Tarnogr\u00f3d\r"
+  }
+]

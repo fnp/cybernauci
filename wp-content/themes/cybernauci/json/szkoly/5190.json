@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14729",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5190",
+    "miejscowosc": "Pi\u0142awa G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zes\u0142a\u0144c\u00f3w Sybiru",
+    "ulica": "Wiejska",
+    "numer": "2",
+    "kod": "58-240",
+    "poczta": "Pi\u0142awa G\u00f3rna\r"
+  },
+  {
+    "id": "14730",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5190",
+    "miejscowosc": "Pi\u0142awa G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "58-240",
+    "poczta": "Pi\u0142awa G\u00f3rna\r"
+  },
+  {
+    "id": "14728",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5190",
+    "miejscowosc": "Pi\u0142awa G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. K. Baczy\u0144skiego",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "58-240",
+    "poczta": "Pi\u0142awa G\u00f3rna\r"
+  },
+  {
+    "id": "14731",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5190",
+    "miejscowosc": "Pi\u0142awa G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "58-240",
+    "poczta": "Pi\u0142awa G\u00f3rna\r"
+  }
+]

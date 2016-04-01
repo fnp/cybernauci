@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8111",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2898",
+    "miejscowosc": "Pierzchnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kard. S. Wyszy\u0144skiego",
+    "numer": "5",
+    "kod": "26-015",
+    "poczta": "Pierzchnica\r"
+  },
+  {
+    "id": "8112",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2898",
+    "miejscowosc": "Pierzchnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "kard. S. Wyszy\u0144skiego",
+    "numer": "5",
+    "kod": "26-015",
+    "poczta": "Pierzchnica\r"
+  }
+]

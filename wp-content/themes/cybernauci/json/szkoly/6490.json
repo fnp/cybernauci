@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18443",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6490",
+    "miejscowosc": "Kazimierz Biskupi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bielawy",
+    "numer": "1A",
+    "kod": "62-530",
+    "poczta": "Kazimierz Biskupi\r"
+  },
+  {
+    "id": "18442",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6490",
+    "miejscowosc": "Kazimierz Biskupi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "W\u0119glewska",
+    "numer": "12",
+    "kod": "62-530",
+    "poczta": "Kazimierz Biskupi\r"
+  }
+]

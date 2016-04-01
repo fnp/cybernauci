@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20904",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7380",
+    "miejscowosc": "Przysietnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Przysietnica",
+    "numer": "198",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20908",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7380",
+    "miejscowosc": "Przysietnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Przysietnica",
+    "numer": "514",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20905",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7380",
+    "miejscowosc": "Przysietnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Przysietnica",
+    "numer": "198",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20909",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7380",
+    "miejscowosc": "Przysietnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Przysietnica",
+    "numer": "514",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12730",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4499",
+    "miejscowosc": "Ramsowo",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Ramsowo",
+    "numer": "87",
+    "kod": "11-010",
+    "poczta": "Barczewo\r"
+  },
+  {
+    "id": "12731",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4499",
+    "miejscowosc": "Ramsowo",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Ramsowo",
+    "numer": "87",
+    "kod": "11-010",
+    "poczta": "Barczewo\r"
+  }
+]

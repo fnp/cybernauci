@@ -1,0 +1,98 @@
+[
+  {
+    "id": "23330",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. K. K. Baczy\u0144skiego",
+    "ulica": "Zwole\u0144ska",
+    "numer": "16a",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23337",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zwole\u0144ska",
+    "numer": "12",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23331",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa ZDZ",
+    "ulica": "Zwole\u0144ska",
+    "numer": "14",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23332",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce ZDZ",
+    "ulica": "Zwole\u0144ska",
+    "numer": "14",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23333",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum ZDZ",
+    "ulica": "Zwole\u0144ska",
+    "numer": "14",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23328",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zwole\u0144ska",
+    "numer": "16",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23338",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zwole\u0144ska",
+    "numer": "12",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23339",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8442",
+    "miejscowosc": "Lipsko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zwole\u0144ska",
+    "numer": "12",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  }
+]

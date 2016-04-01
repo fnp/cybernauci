@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13272",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4693",
+    "miejscowosc": "Osiek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Osiek",
+    "numer": "80",
+    "kod": "87-340",
+    "poczta": "Osiek\r"
+  },
+  {
+    "id": "13270",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4693",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osiek",
+    "numer": "80",
+    "kod": "87-340",
+    "poczta": "Osiek\r"
+  }
+]

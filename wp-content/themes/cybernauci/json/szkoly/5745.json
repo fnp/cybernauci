@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16508",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5745",
+    "miejscowosc": "Pop\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Janusza Korczaka",
+    "ulica": "Pozna\u0144ska",
+    "numer": "4",
+    "kod": "99-400",
+    "poczta": "\u0141owicz\r"
+  },
+  {
+    "id": "16507",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5745",
+    "miejscowosc": "Pop\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "4",
+    "kod": "99-400",
+    "poczta": "\u0141owicz\r"
+  }
+]

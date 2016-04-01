@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11426",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4056",
+    "miejscowosc": "D\u017awirzyno",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Hanki Sawickiej",
+    "numer": "27",
+    "kod": "78-131",
+    "poczta": "D\u017awirzyno\r"
+  },
+  {
+    "id": "11425",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4056",
+    "miejscowosc": "D\u017awirzyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Hanki Sawickiej",
+    "numer": "27",
+    "kod": "78-131",
+    "poczta": "D\u017awirzyno\r"
+  }
+]

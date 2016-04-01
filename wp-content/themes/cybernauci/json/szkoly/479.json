@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1072",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "479",
+    "miejscowosc": "Huta Stara B",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Mickiewicza",
+    "numer": "12",
+    "kod": "42-263",
+    "poczta": "Wrzosowa\r"
+  },
+  {
+    "id": "1073",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "479",
+    "miejscowosc": "Huta Stara B",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kazimierza Wielkiego",
+    "ulica": "Mickiewicza",
+    "numer": "12",
+    "kod": "42-263",
+    "poczta": "Wrzosowa\r"
+  }
+]

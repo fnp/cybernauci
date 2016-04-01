@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20892",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7376",
+    "miejscowosc": "Ropienka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ropienka",
+    "numer": "111",
+    "kod": "38-711",
+    "poczta": "Ropienka\r"
+  },
+  {
+    "id": "20893",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7376",
+    "miejscowosc": "Ropienka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza",
+    "ulica": "Ropienka",
+    "numer": "111",
+    "kod": "38-711",
+    "poczta": "Ropienka\r"
+  }
+]

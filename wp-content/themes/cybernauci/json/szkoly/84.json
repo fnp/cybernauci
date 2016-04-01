@@ -1,0 +1,50 @@
+[
+  {
+    "id": "204",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "84",
+    "miejscowosc": "Wo\u0142czyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rzeczna",
+    "numer": "6",
+    "kod": "46-250",
+    "poczta": "Wo\u0142czyn\r"
+  },
+  {
+    "id": "197",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "84",
+    "miejscowosc": "Wo\u0142czyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Henryka Sienkiewicza",
+    "numer": "4",
+    "kod": "46-250",
+    "poczta": "Wo\u0142czyn\r"
+  },
+  {
+    "id": "205",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "84",
+    "miejscowosc": "Wo\u0142czyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Rzeczna",
+    "numer": "6",
+    "kod": "46-250",
+    "poczta": "Wo\u0142czyn\r"
+  },
+  {
+    "id": "198",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "84",
+    "miejscowosc": "Wo\u0142czyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Rzeczna",
+    "numer": "10",
+    "kod": "46-250",
+    "poczta": "Wo\u0142czyn\r"
+  }
+]

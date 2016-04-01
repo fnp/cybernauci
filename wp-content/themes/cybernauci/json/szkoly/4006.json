@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11298",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4006",
+    "miejscowosc": "Cedynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Micha\u0142a Roli-\u017bymierskiego",
+    "numer": "21",
+    "kod": "74-520",
+    "poczta": "Cedynia\r"
+  },
+  {
+    "id": "11299",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4006",
+    "miejscowosc": "Cedynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Micha\u0142a Roli-\u017bymierskiego",
+    "numer": "21",
+    "kod": "74-520",
+    "poczta": "Cedynia\r"
+  }
+]

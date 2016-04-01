@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5123",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1673",
+    "miejscowosc": "Bogucice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bogucice",
+    "numer": "83",
+    "kod": "32-711",
+    "poczta": "Bogucice\r"
+  },
+  {
+    "id": "5124",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1673",
+    "miejscowosc": "Bogucice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Bogucice",
+    "numer": "83",
+    "kod": "32-711",
+    "poczta": "Bogucice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6320",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2288",
+    "miejscowosc": "Sromowce Ni\u017cne",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "34-443",
+    "poczta": "Sromowce Wy\u017cne\r"
+  },
+  {
+    "id": "6321",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2288",
+    "miejscowosc": "Sromowce Ni\u017cne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "34-443",
+    "poczta": "Sromowce Wy\u017cne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11493",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4096",
+    "miejscowosc": "Boleszkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "20",
+    "kod": "74-407",
+    "poczta": "Boleszkowice\r"
+  },
+  {
+    "id": "11494",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4096",
+    "miejscowosc": "Boleszkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "20",
+    "kod": "74-407",
+    "poczta": "Boleszkowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "809",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "352",
+    "miejscowosc": "Zabrzeg",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Karola Pytla",
+    "numer": "1",
+    "kod": "43-516",
+    "poczta": "Zabrzeg\r"
+  },
+  {
+    "id": "810",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "352",
+    "miejscowosc": "Zabrzeg",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karola Pytla",
+    "numer": "1",
+    "kod": "43-516",
+    "poczta": "Zabrzeg\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21962",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7903",
+    "miejscowosc": "Grochowce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grochowce",
+    "numer": "27",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  },
+  {
+    "id": "21963",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7903",
+    "miejscowosc": "Grochowce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. St. \u0141a\u0144cuckiego",
+    "ulica": "Grochowce",
+    "numer": "27",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  }
+]

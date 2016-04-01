@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21798",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7802",
+    "miejscowosc": "Rzemie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej",
+    "ulica": "Rzemie\u0144",
+    "numer": "257",
+    "kod": "39-322",
+    "poczta": "Rzemie\u0144\r"
+  },
+  {
+    "id": "21805",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7802",
+    "miejscowosc": "Rzemie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rzemie\u0144",
+    "numer": "243",
+    "kod": "39-322",
+    "poczta": "Rzemie\u0144\r"
+  },
+  {
+    "id": "21806",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7802",
+    "miejscowosc": "Rzemie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rzemie\u0144",
+    "numer": "243",
+    "kod": "39-322",
+    "poczta": "Rzemie\u0144\r"
+  }
+]

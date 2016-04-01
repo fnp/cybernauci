@@ -1,0 +1,110 @@
+[
+  {
+    "id": "21884",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "45",
+    "kod": "37-400",
+    "poczta": "Nisko\r"
+  },
+  {
+    "id": "22073",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zarzecze",
+    "numer": "1",
+    "kod": "37-205",
+    "poczta": "Zarzecze\r"
+  },
+  {
+    "id": "21885",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. \u015aw. St. Kostki",
+    "ulica": "Mickiewicza",
+    "numer": "45",
+    "kod": "37-400",
+    "poczta": "Nisko\r"
+  },
+  {
+    "id": "22067",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zarzecze",
+    "numer": "9a",
+    "kod": "37-205",
+    "poczta": "Zarzecze\r"
+  },
+  {
+    "id": "21289",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zarzecze",
+    "numer": "143",
+    "kod": "38-220",
+    "poczta": "D\u0119bowiec\r"
+  },
+  {
+    "id": "22068",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zarzecze",
+    "numer": "9a",
+    "kod": "37-205",
+    "poczta": "Zarzecze\r"
+  },
+  {
+    "id": "22171",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Zarzecze",
+    "numer": "133",
+    "kod": "36-041",
+    "poczta": "Zarzecze\r"
+  },
+  {
+    "id": "22074",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zarzecze",
+    "numer": "1",
+    "kod": "37-205",
+    "poczta": "Zarzecze\r"
+  },
+  {
+    "id": "22075",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7544",
+    "miejscowosc": "Zarzecze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zarzecze",
+    "numer": "1",
+    "kod": "37-205",
+    "poczta": "Zarzecze\r"
+  }
+]

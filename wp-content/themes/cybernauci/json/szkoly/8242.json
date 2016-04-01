@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22910",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8242",
+    "miejscowosc": "O\u015bcis\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "O\u015bcis\u0142owo",
+    "numer": "81",
+    "kod": "06-452",
+    "poczta": "O\u015bcis\u0142owo\r"
+  },
+  {
+    "id": "22911",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8242",
+    "miejscowosc": "O\u015bcis\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "O\u015bcis\u0142owo",
+    "numer": "81",
+    "kod": "06-452",
+    "poczta": "O\u015bcis\u0142owo\r"
+  }
+]

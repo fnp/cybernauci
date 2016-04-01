@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1773",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "747",
+    "miejscowosc": "Gogo\u0142owa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wiejska",
+    "numer": "89",
+    "kod": "44-323",
+    "poczta": "Po\u0142omia\r"
+  },
+  {
+    "id": "1774",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "747",
+    "miejscowosc": "Gogo\u0142owa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wiejska",
+    "numer": "89",
+    "kod": "44-323",
+    "poczta": "Po\u0142omia\r"
+  }
+]

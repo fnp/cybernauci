@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10266",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3617",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bia\u0142obrzegi",
+    "numer": "75",
+    "kod": "16-300",
+    "poczta": "August\u00f3w\r"
+  },
+  {
+    "id": "10267",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3617",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bia\u0142obrzegi",
+    "numer": "75",
+    "kod": "16-300",
+    "poczta": "August\u00f3w\r"
+  }
+]

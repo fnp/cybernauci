@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13992",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5049",
+    "miejscowosc": "Obrowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 w Zespole",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-126",
+    "poczta": "Obrowo\r"
+  },
+  {
+    "id": "13993",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5049",
+    "miejscowosc": "Obrowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-126",
+    "poczta": "Obrowo\r"
+  }
+]

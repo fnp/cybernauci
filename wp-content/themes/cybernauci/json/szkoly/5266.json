@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14918",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5266",
+    "miejscowosc": "Lubawka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "4",
+    "kod": "58-420",
+    "poczta": "Lubawka\r"
+  },
+  {
+    "id": "14919",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5266",
+    "miejscowosc": "Lubawka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Boczna",
+    "numer": "13",
+    "kod": "58-420",
+    "poczta": "Lubawka\r"
+  }
+]

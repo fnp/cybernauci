@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22032",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7936",
+    "miejscowosc": "Grz\u0119ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grz\u0119ska",
+    "numer": "503",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22033",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7936",
+    "miejscowosc": "Grz\u0119ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grz\u0119ska",
+    "numer": "503",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

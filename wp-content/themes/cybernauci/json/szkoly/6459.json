@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18390",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6459",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. \u015awi\u0119tego Jana Paw\u0142a II ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "15",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18397",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6459",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Adama Mickiewicza",
+    "numer": "4",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18385",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6459",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Bia\u0142ych G\u00f3rnik\u00f3w",
+    "ulica": "3 Maja",
+    "numer": "5",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18398",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6459",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Adama Mickiewicza",
+    "numer": "4",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18399",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6459",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Adama Mickiewicza",
+    "numer": "4",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  }
+]

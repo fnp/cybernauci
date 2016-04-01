@@ -1,0 +1,86 @@
+[
+  {
+    "id": "12567",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "1 Maja",
+    "numer": "28",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12566",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. 29 Pu\u0142ku Lotnictwa My\u015bliwskiego",
+    "ulica": "Warmi\u0144ska",
+    "numer": "11",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12568",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "1 Maja",
+    "numer": "28",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12563",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. majora Henryka Sucharskiego",
+    "ulica": "Zamkowa",
+    "numer": "26",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12564",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 ",
+    "ulica": "Kopernika",
+    "numer": "13",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12569",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "1 Maja",
+    "numer": "20",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  },
+  {
+    "id": "12570",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4424",
+    "miejscowosc": "Orneta",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "1 Maja",
+    "numer": "20",
+    "kod": "11-130",
+    "poczta": "Orneta\r"
+  }
+]

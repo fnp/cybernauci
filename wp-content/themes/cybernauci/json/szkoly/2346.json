@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6454",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2346",
+    "miejscowosc": "Zaskale",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Gimnazjum",
+    "ulica": "Kardyna\u0142a Karola Wojty\u0142y",
+    "numer": "51",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6453",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2346",
+    "miejscowosc": "Zaskale",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Szko\u0142a Podstawowa",
+    "ulica": "Kardyna\u0142a Karola Wojty\u0142y",
+    "numer": "51",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

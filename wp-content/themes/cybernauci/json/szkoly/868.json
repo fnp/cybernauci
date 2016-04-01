@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3312",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "868",
+    "miejscowosc": "Jan\u00f3w Podlaski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "5",
+    "kod": "21-505",
+    "poczta": "Jan\u00f3w Podlaski\r"
+  },
+  {
+    "id": "3311",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "868",
+    "miejscowosc": "Jan\u00f3w Podlaski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Czes\u0142awa Ta\u0144skiego",
+    "ulica": "1 Maja",
+    "numer": "5",
+    "kod": "21-505",
+    "poczta": "Jan\u00f3w Podlaski\r"
+  },
+  {
+    "id": "3313",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "868",
+    "miejscowosc": "Jan\u00f3w Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. A. Naruszewicza Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Siedlecka",
+    "numer": "1",
+    "kod": "21-505",
+    "poczta": "Jan\u00f3w Podlaski\r"
+  },
+  {
+    "id": "3314",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "868",
+    "miejscowosc": "Jan\u00f3w Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. A. Naruszewicza Technikum",
+    "ulica": "Siedlecka",
+    "numer": "1",
+    "kod": "21-505",
+    "poczta": "Jan\u00f3w Podlaski\r"
+  }
+]

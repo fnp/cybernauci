@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24784",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9124",
+    "miejscowosc": "Jastrz\u0105b",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. T. Ko\u015bciuszki",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "51b",
+    "kod": "26-502",
+    "poczta": "Jastrz\u0105b\r"
+  },
+  {
+    "id": "24785",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9124",
+    "miejscowosc": "Jastrz\u0105b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "51b",
+    "kod": "26-502",
+    "poczta": "Jastrz\u0105b\r"
+  }
+]

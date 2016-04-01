@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9225",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3358",
+    "miejscowosc": "Stara Kiszewa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "25",
+    "kod": "83-430",
+    "poczta": "Stara Kiszewa\r"
+  },
+  {
+    "id": "9226",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3358",
+    "miejscowosc": "Stara Kiszewa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "25",
+    "kod": "83-430",
+    "poczta": "Stara Kiszewa\r"
+  },
+  {
+    "id": "9227",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3358",
+    "miejscowosc": "Stara Kiszewa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "25",
+    "kod": "83-430",
+    "poczta": "Stara Kiszewa\r"
+  }
+]

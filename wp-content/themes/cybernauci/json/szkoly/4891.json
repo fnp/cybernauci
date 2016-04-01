@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13663",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  },
+  {
+    "id": "13661",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi im. Jana Da\u0142kowskiego",
+    "ulica": "Gimnazjalna",
+    "numer": "17",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  },
+  {
+    "id": "13664",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  },
+  {
+    "id": "13662",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "2",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  },
+  {
+    "id": "13665",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  },
+  {
+    "id": "13666",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4891",
+    "miejscowosc": "Strzelno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "88-320",
+    "poczta": "Strzelno\r"
+  }
+]

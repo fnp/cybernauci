@@ -1,0 +1,50 @@
+[
+  {
+    "id": "758",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "335",
+    "miejscowosc": "Siewierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "31",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  },
+  {
+    "id": "751",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "335",
+    "miejscowosc": "Siewierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "15",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  },
+  {
+    "id": "759",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "335",
+    "miejscowosc": "Siewierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ksi\u0119stwa Siewierskiego",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "31",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  },
+  {
+    "id": "750",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "335",
+    "miejscowosc": "Siewierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "D\u0142uga",
+    "numer": "2",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24521",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8989",
+    "miejscowosc": "Ruda Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ruda Wielka",
+    "numer": "191b",
+    "kod": "26-680",
+    "poczta": "Wierzbica\r"
+  },
+  {
+    "id": "24522",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8989",
+    "miejscowosc": "Ruda Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ruda Wielka",
+    "numer": "191b",
+    "kod": "26-680",
+    "poczta": "Wierzbica\r"
+  }
+]

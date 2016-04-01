@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24057",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8753",
+    "miejscowosc": "Ciachcin Nowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Noblist\u00f3w Polskich",
+    "ulica": "Ciachcin Nowy",
+    "numer": "54",
+    "kod": "09-230",
+    "poczta": "Bielsk\r"
+  },
+  {
+    "id": "24058",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8753",
+    "miejscowosc": "Ciachcin Nowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Noblist\u00f3w Polskich",
+    "ulica": "Ciachcin Nowy",
+    "numer": "54",
+    "kod": "09-230",
+    "poczta": "Bielsk\r"
+  }
+]

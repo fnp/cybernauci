@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19775",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7108",
+    "miejscowosc": "Lipka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "77-420",
+    "poczta": "Lipka\r"
+  },
+  {
+    "id": "19776",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7108",
+    "miejscowosc": "Lipka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "77-420",
+    "poczta": "Lipka\r"
+  }
+]

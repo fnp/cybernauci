@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21423",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7627",
+    "miejscowosc": "Wola Rani\u017cowska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wola Rani\u017cowska",
+    "numer": "317",
+    "kod": "36-125",
+    "poczta": "Wola Rani\u017cowska\r"
+  },
+  {
+    "id": "21424",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7627",
+    "miejscowosc": "Wola Rani\u017cowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Rani\u017cowska",
+    "numer": "317",
+    "kod": "36-125",
+    "poczta": "Wola Rani\u017cowska\r"
+  }
+]

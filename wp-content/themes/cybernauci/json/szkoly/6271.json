@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18897",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6271",
+    "miejscowosc": "D\u0119bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ostrowska",
+    "numer": "140",
+    "kod": "63-421",
+    "poczta": "Przygodzice\r"
+  },
+  {
+    "id": "18025",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6271",
+    "miejscowosc": "D\u0119bnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0119bnica",
+    "numer": "3",
+    "kod": "62-271",
+    "poczta": "Dzia\u0142y\u0144\r"
+  },
+  {
+    "id": "18898",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6271",
+    "miejscowosc": "D\u0119bnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostrowska",
+    "numer": "140",
+    "kod": "63-421",
+    "poczta": "Przygodzice\r"
+  }
+]

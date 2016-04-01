@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7233",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2679",
+    "miejscowosc": "Pod\u0142\u0119\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Niepubliczne",
+    "ulica": "Wielicka",
+    "numer": "220",
+    "kod": "32-003",
+    "poczta": "Pod\u0142\u0119\u017ce\r"
+  },
+  {
+    "id": "7226",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2679",
+    "miejscowosc": "Pod\u0142\u0119\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Pod\u0142\u0119\u017ce",
+    "numer": "220",
+    "kod": "32-003",
+    "poczta": "Pod\u0142\u0119\u017ce\r"
+  }
+]

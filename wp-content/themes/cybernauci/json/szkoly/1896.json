@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5569",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1896",
+    "miejscowosc": "Igo\u0142omia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Brata Alberta",
+    "ulica": "Igo\u0142omia",
+    "numer": "",
+    "kod": "32-126",
+    "poczta": "Igo\u0142omia\r"
+  },
+  {
+    "id": "5570",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1896",
+    "miejscowosc": "Igo\u0142omia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Powstania Styczniowego",
+    "ulica": "Igo\u0142omia",
+    "numer": "",
+    "kod": "32-126",
+    "poczta": "Igo\u0142omia\r"
+  }
+]

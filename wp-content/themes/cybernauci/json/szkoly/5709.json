@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16417",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5709",
+    "miejscowosc": "Kwiatkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "98-105",
+    "poczta": "Wodzierady\r"
+  },
+  {
+    "id": "16418",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5709",
+    "miejscowosc": "Kwiatkowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "98-105",
+    "poczta": "Wodzierady\r"
+  }
+]

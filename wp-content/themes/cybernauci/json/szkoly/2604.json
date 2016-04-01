@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7036",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2604",
+    "miejscowosc": "Murzasichle",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "S\u0105delska",
+    "numer": "31",
+    "kod": "34-531",
+    "poczta": "Murzasichle\r"
+  },
+  {
+    "id": "7037",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2604",
+    "miejscowosc": "Murzasichle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0105delska",
+    "numer": "31",
+    "kod": "34-531",
+    "poczta": "Murzasichle\r"
+  }
+]

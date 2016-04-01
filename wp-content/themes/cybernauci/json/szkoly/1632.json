@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4767",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1632",
+    "miejscowosc": "Sitno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Sitno",
+    "numer": "53A",
+    "kod": "22-424",
+    "poczta": "Sitno\r"
+  },
+  {
+    "id": "4772",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1632",
+    "miejscowosc": "Sitno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sitno",
+    "numer": "51",
+    "kod": "22-424",
+    "poczta": "Sitno\r"
+  },
+  {
+    "id": "4766",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1632",
+    "miejscowosc": "Sitno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wandy Pop\u0142awskiej",
+    "ulica": "Sitno",
+    "numer": "53A",
+    "kod": "22-424",
+    "poczta": "Sitno\r"
+  }
+]

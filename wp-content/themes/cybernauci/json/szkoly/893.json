@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3347",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "893",
+    "miejscowosc": "Piszczac",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 ",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "15",
+    "kod": "21-530",
+    "poczta": "Piszczac\r"
+  },
+  {
+    "id": "3348",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "893",
+    "miejscowosc": "Piszczac",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piszczac",
+    "numer": "",
+    "kod": "21-530",
+    "poczta": "Piszczac\r"
+  }
+]

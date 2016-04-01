@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15089",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5334",
+    "miejscowosc": "Biedrzychowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biedrzychowice",
+    "numer": "93",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  },
+  {
+    "id": "15093",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5334",
+    "miejscowosc": "Biedrzychowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Biedrzychowice",
+    "numer": "20",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  },
+  {
+    "id": "15094",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5334",
+    "miejscowosc": "Biedrzychowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Biedrzychowice",
+    "numer": "20",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  }
+]

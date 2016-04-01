@@ -1,0 +1,98 @@
+[
+  {
+    "id": "11490",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szosowa",
+    "numer": "2",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11489",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce KONSUL",
+    "ulica": "Kombatant\u00f3w",
+    "numer": "3",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11487",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Le\u015bna",
+    "numer": "10",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11488",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Miko\u0142aja Kopernika",
+    "ulica": "Kombatant\u00f3w",
+    "numer": "3",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11485",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Jeziorna",
+    "numer": "12",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11486",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Kombatant\u00f3w",
+    "numer": "3",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11491",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Szosowa",
+    "numer": "2",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  },
+  {
+    "id": "11492",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4095",
+    "miejscowosc": "Barlinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142\u0105 Zawodowa Nr 1",
+    "ulica": "Szosowa",
+    "numer": "2",
+    "kod": "74-320",
+    "poczta": "Barlinek\r"
+  }
+]

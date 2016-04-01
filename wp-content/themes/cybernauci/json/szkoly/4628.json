@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12994",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4628",
+    "miejscowosc": "Spychowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Mazurska",
+    "numer": "5",
+    "kod": "12-150",
+    "poczta": "Spychowo\r"
+  },
+  {
+    "id": "12995",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4628",
+    "miejscowosc": "Spychowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Marii Zientary-Malewskiej",
+    "ulica": "Mazurska",
+    "numer": "5",
+    "kod": "12-150",
+    "poczta": "Spychowo\r"
+  }
+]

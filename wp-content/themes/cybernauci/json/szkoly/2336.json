@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6428",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2336",
+    "miejscowosc": "Rdzawka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rdzawka",
+    "numer": "60",
+    "kod": "34-700",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6429",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2336",
+    "miejscowosc": "Rdzawka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rdzawka",
+    "numer": "60",
+    "kod": "34-700",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  }
+]

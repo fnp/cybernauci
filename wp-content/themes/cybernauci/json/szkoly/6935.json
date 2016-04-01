@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19383",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6935",
+    "miejscowosc": "Ka\u017amierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza ",
+    "ulica": "Gimnazjalna",
+    "numer": "3",
+    "kod": "64-530",
+    "poczta": "Ka\u017amierz\r"
+  },
+  {
+    "id": "19380",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6935",
+    "miejscowosc": "Ka\u017amierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej ",
+    "ulica": "Szkolna",
+    "numer": "27",
+    "kod": "64-530",
+    "poczta": "Ka\u017amierz\r"
+  }
+]

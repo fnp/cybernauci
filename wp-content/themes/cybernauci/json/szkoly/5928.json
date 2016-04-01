@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16843",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5928",
+    "miejscowosc": "Zygry",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Zygry",
+    "numer": "71",
+    "kod": "99-232",
+    "poczta": "Zadzim\r"
+  },
+  {
+    "id": "16844",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5928",
+    "miejscowosc": "Zygry",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Zygry",
+    "numer": "71",
+    "kod": "99-232",
+    "poczta": "Zadzim\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3375",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "908",
+    "miejscowosc": "Wisznice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "44",
+    "kod": "21-580",
+    "poczta": "Wisznice\r"
+  },
+  {
+    "id": "3374",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "908",
+    "miejscowosc": "Wisznice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Warszawska",
+    "numer": "19",
+    "kod": "21-580",
+    "poczta": "Wisznice\r"
+  },
+  {
+    "id": "3372",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "908",
+    "miejscowosc": "Wisznice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Przedszkola",
+    "ulica": "Warszawska",
+    "numer": "19",
+    "kod": "21-580",
+    "poczta": "Wisznice\r"
+  }
+]

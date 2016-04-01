@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9765",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3563",
+    "miejscowosc": "Linia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-223",
+    "poczta": "Linia\r"
+  },
+  {
+    "id": "9766",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3563",
+    "miejscowosc": "Linia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. L. Teligi",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-223",
+    "poczta": "Linia\r"
+  }
+]

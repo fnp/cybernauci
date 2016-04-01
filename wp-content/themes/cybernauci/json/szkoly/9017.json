@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24718",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9017",
+    "miejscowosc": "Paprotnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sochaczewo",
+    "numer": "10",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  },
+  {
+    "id": "24562",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9017",
+    "miejscowosc": "Paprotnia",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "5",
+    "kod": "08-107",
+    "poczta": "Paprotnia\r"
+  },
+  {
+    "id": "24563",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9017",
+    "miejscowosc": "Paprotnia",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "5",
+    "kod": "08-107",
+    "poczta": "Paprotnia\r"
+  }
+]

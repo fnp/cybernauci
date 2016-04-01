@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8441",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3046",
+    "miejscowosc": "Chobrzany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Chobrzany",
+    "numer": "110",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  },
+  {
+    "id": "8442",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3046",
+    "miejscowosc": "Chobrzany",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Chobrzany",
+    "numer": "110",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  },
+  {
+    "id": "8443",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3046",
+    "miejscowosc": "Chobrzany",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Chobrzany",
+    "numer": "110",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  }
+]

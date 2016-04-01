@@ -1,0 +1,26 @@
+[
+  {
+    "id": "49",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "22",
+    "miejscowosc": "Olszanka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Olszanka",
+    "numer": "94",
+    "kod": "49-332",
+    "poczta": "Olszanka\r"
+  },
+  {
+    "id": "50",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "22",
+    "miejscowosc": "Olszanka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Olszanka",
+    "numer": "94",
+    "kod": "49-332",
+    "poczta": "Olszanka\r"
+  }
+]

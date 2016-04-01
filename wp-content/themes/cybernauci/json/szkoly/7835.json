@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21842",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7835",
+    "miejscowosc": "Harasiuki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Harasiuki",
+    "numer": "106",
+    "kod": "37-413",
+    "poczta": "Harasiuki\r"
+  },
+  {
+    "id": "21843",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7835",
+    "miejscowosc": "Harasiuki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Harasiuki",
+    "numer": "106",
+    "kod": "37-413",
+    "poczta": "Harasiuki\r"
+  }
+]

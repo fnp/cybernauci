@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19203",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6854",
+    "miejscowosc": "Pecna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Powsta\u0144c\u00f3w Wielkopolskich",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "20",
+    "kod": "62-053",
+    "poczta": "Pecna\r"
+  },
+  {
+    "id": "19202",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6854",
+    "miejscowosc": "Pecna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "62-053",
+    "poczta": "Pecna\r"
+  }
+]

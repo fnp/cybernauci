@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22618",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8209",
+    "miejscowosc": "Wo\u0142kowyja",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. ks. Jana Siuzdaka",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-610",
+    "poczta": "Pola\u0144czyk\r"
+  },
+  {
+    "id": "22619",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8209",
+    "miejscowosc": "Wo\u0142kowyja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. ks. Jana Siuzdaka",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-613",
+    "poczta": "Wo\u0142kowyja\r"
+  }
+]

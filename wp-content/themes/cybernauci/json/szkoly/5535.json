@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15645",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5535",
+    "miejscowosc": "Kamieniec Wroc\u0142awski",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa \"HAPPY KIDS'",
+    "ulica": "Cichy K\u0105cik",
+    "numer": "16",
+    "kod": "55-002",
+    "poczta": "Kamieniec Wroc\u0142awski\r"
+  },
+  {
+    "id": "15647",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5535",
+    "miejscowosc": "Kamieniec Wroc\u0142awski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "Kolejowa",
+    "numer": "8",
+    "kod": "55-002",
+    "poczta": "Kamieniec Wroc\u0142awski\r"
+  },
+  {
+    "id": "15642",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5535",
+    "miejscowosc": "Kamieniec Wroc\u0142awski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Krzywoustego",
+    "ulica": "Kolejowa",
+    "numer": "8",
+    "kod": "55-002",
+    "poczta": "Kamieniec Wroc\u0142awski\r"
+  }
+]

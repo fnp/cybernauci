@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9613",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3528",
+    "miejscowosc": "Pinczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "83-251",
+    "poczta": "Pinczyn\r"
+  },
+  {
+    "id": "9614",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3528",
+    "miejscowosc": "Pinczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "83-251",
+    "poczta": "Pinczyn\r"
+  }
+]

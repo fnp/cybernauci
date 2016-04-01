@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21704",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7764",
+    "miejscowosc": "Handzl\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Handzl\u00f3wka",
+    "numer": "264",
+    "kod": "37-123",
+    "poczta": "Handzl\u00f3wka\r"
+  },
+  {
+    "id": "21702",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7764",
+    "miejscowosc": "Handzl\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Handzl\u00f3wka",
+    "numer": "264",
+    "kod": "37-123",
+    "poczta": "Handzl\u00f3wka\r"
+  }
+]

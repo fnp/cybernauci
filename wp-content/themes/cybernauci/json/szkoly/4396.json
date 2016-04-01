@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12504",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4396",
+    "miejscowosc": "Winda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Winda",
+    "numer": "6",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  },
+  {
+    "id": "12505",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4396",
+    "miejscowosc": "Winda",
+    "typ": "podstawowa",
+    "nazwa": "szko\u0142a podstawowa",
+    "ulica": "Winda",
+    "numer": "6",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  }
+]

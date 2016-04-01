@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9391",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3419",
+    "miejscowosc": "Tujsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Tujsk",
+    "numer": "55",
+    "kod": "82-103",
+    "poczta": "Stegna\r"
+  },
+  {
+    "id": "9392",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3419",
+    "miejscowosc": "Tujsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tujsk",
+    "numer": "55",
+    "kod": "82-103",
+    "poczta": "Stegna\r"
+  }
+]

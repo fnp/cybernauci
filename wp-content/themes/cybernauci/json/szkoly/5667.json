@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17107",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5667",
+    "miejscowosc": "D\u0105browice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "D\u0105browice",
+    "numer": "86",
+    "kod": "96-100",
+    "poczta": "Mak\u00f3w\r"
+  },
+  {
+    "id": "16337",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5667",
+    "miejscowosc": "D\u0105browice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "K\u0142odawska",
+    "numer": "1",
+    "kod": "99-352",
+    "poczta": "D\u0105browice\r"
+  },
+  {
+    "id": "16338",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5667",
+    "miejscowosc": "D\u0105browice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "K\u0142odawska",
+    "numer": "1",
+    "kod": "99-352",
+    "poczta": "D\u0105browice\r"
+  }
+]

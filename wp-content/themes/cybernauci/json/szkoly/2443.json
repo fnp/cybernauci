@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6713",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2443",
+    "miejscowosc": "Budz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Budz\u00f3w",
+    "numer": "553",
+    "kod": "34-211",
+    "poczta": "Budz\u00f3w\r"
+  },
+  {
+    "id": "6709",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2443",
+    "miejscowosc": "Budz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Kr\u00f3la Kazimierza Wielkiego",
+    "ulica": "Budz\u00f3w",
+    "numer": "225",
+    "kod": "34-211",
+    "poczta": "Budz\u00f3w\r"
+  },
+  {
+    "id": "6710",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2443",
+    "miejscowosc": "Budz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Budz\u00f3w",
+    "numer": "404",
+    "kod": "34-211",
+    "poczta": "Budz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9531",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3493",
+    "miejscowosc": "Objazda",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Objazda",
+    "numer": "95",
+    "kod": "76-211",
+    "poczta": "Objazda\r"
+  },
+  {
+    "id": "9532",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3493",
+    "miejscowosc": "Objazda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Objazda",
+    "numer": "95",
+    "kod": "76-211",
+    "poczta": "Objazda\r"
+  }
+]

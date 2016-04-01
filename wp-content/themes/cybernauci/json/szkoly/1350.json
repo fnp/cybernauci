@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4192",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1350",
+    "miejscowosc": "Stara Prawda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wandy Chotomskiej ",
+    "ulica": "Stara Prawda",
+    "numer": "1",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "4193",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1350",
+    "miejscowosc": "Stara Prawda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wandy Chotomskiej",
+    "ulica": "Stara Prawda",
+    "numer": "1",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  }
+]

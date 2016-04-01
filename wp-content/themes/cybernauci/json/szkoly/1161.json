@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3861",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1161",
+    "miejscowosc": "Kamionka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubartowska",
+    "numer": "53",
+    "kod": "21-132",
+    "poczta": "Kamionka\r"
+  },
+  {
+    "id": "3862",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1161",
+    "miejscowosc": "Kamionka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubartowska",
+    "numer": "53",
+    "kod": "21-132",
+    "poczta": "Kamionka\r"
+  },
+  {
+    "id": "4187",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1161",
+    "miejscowosc": "Kamionka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kamionka",
+    "numer": "24",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "3863",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1161",
+    "miejscowosc": "Kamionka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Lubartowska",
+    "numer": "53",
+    "kod": "21-132",
+    "poczta": "Kamionka\r"
+  },
+  {
+    "id": "3864",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1161",
+    "miejscowosc": "Kamionka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Lubartowska",
+    "numer": "53",
+    "kod": "21-132",
+    "poczta": "Kamionka\r"
+  }
+]

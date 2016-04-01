@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4025",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1264",
+    "miejscowosc": "Bystrzyca Stara",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bystrzyca Stara",
+    "numer": "89",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4026",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1264",
+    "miejscowosc": "Bystrzyca Stara",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczne Gimnazjum Nr 1",
+    "ulica": "Bystrzyca Stara",
+    "numer": "89",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  }
+]

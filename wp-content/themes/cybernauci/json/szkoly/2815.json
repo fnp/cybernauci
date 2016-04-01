@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7984",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2815",
+    "miejscowosc": "Staroch\u0119ciny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Staroch\u0119ciny",
+    "numer": "46",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7978",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2815",
+    "miejscowosc": "Staroch\u0119ciny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Staroch\u0119ciny",
+    "numer": "61",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7985",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2815",
+    "miejscowosc": "Staroch\u0119ciny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Staroch\u0119ciny",
+    "numer": "46",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21043",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7440",
+    "miejscowosc": "Gumniska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Gumniska",
+    "numer": "120",
+    "kod": "39-210",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21044",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7440",
+    "miejscowosc": "Gumniska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gumniska",
+    "numer": "120",
+    "kod": "39-210",
+    "poczta": "D\u0119bica\r"
+  }
+]

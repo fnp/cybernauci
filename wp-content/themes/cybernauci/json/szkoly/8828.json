@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24197",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8828",
+    "miejscowosc": "Siedlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "12",
+    "kod": "09-100",
+    "poczta": "P\u0142o\u0144sk\r"
+  },
+  {
+    "id": "24198",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8828",
+    "miejscowosc": "Siedlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "12",
+    "kod": "09-100",
+    "poczta": "P\u0142o\u0144sk\r"
+  }
+]

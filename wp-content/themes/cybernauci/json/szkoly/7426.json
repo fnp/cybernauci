@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21016",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7426",
+    "miejscowosc": "Siedliska-Bogusz",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Siedliska-Bogusz",
+    "numer": "93A",
+    "kod": "39-231",
+    "poczta": "Siedliska-Bogusz\r"
+  },
+  {
+    "id": "21017",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7426",
+    "miejscowosc": "Siedliska-Bogusz",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Siedliska-Bogusz",
+    "numer": "93A",
+    "kod": "39-231",
+    "poczta": "Siedliska-Bogusz\r"
+  }
+]

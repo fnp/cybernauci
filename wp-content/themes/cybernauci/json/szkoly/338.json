@@ -1,0 +1,26 @@
+[
+  {
+    "id": "756",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "338",
+    "miejscowosc": "Brudzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "41",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  },
+  {
+    "id": "757",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "338",
+    "miejscowosc": "Brudzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "41",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  }
+]

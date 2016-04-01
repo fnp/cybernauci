@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11389",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. prof. Adama Wodziczki",
+    "ulica": "S\u0142owia\u0144ska",
+    "numer": "2",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  },
+  {
+    "id": "11388",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. \u015bw. Ottona z Bambergu",
+    "ulica": "Ko\u015bcielna",
+    "numer": "19",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  },
+  {
+    "id": "11383",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Spokojna",
+    "numer": "1",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  },
+  {
+    "id": "11386",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Spokojna",
+    "numer": "1",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  },
+  {
+    "id": "11390",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. prof. Adama Wodziczki",
+    "ulica": "S\u0142owia\u0144ska",
+    "numer": "2",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  },
+  {
+    "id": "11387",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4048",
+    "miejscowosc": "Wolin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "19",
+    "kod": "72-510",
+    "poczta": "Wolin\r"
+  }
+]

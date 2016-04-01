@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15379",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5445",
+    "miejscowosc": "Wi\u0105z\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Wojska Polskiego z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "1 Maja",
+    "numer": "31",
+    "kod": "57-120",
+    "poczta": "Wi\u0105z\u00f3w\r"
+  },
+  {
+    "id": "15380",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5445",
+    "miejscowosc": "Wi\u0105z\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Piast\u00f3w \u015al\u0105skich",
+    "ulica": "1 Maja",
+    "numer": "31",
+    "kod": "57-120",
+    "poczta": "Wi\u0105z\u00f3w\r"
+  }
+]

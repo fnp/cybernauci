@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14083",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5094",
+    "miejscowosc": "Boniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "32",
+    "kod": "87-851",
+    "poczta": "Boniewo\r"
+  },
+  {
+    "id": "14084",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5094",
+    "miejscowosc": "Boniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "32",
+    "kod": "87-851",
+    "poczta": "Boniewo\r"
+  }
+]

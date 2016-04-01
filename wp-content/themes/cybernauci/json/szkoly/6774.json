@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19050",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6774",
+    "miejscowosc": "Uj\u015bcie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Jagie\u0142\u0142y ",
+    "ulica": "Staszica",
+    "numer": "46",
+    "kod": "64-850",
+    "poczta": "Uj\u015bcie\r"
+  },
+  {
+    "id": "19048",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6774",
+    "miejscowosc": "Uj\u015bcie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czarnkowska",
+    "numer": "31",
+    "kod": "64-850",
+    "poczta": "Uj\u015bcie\r"
+  }
+]

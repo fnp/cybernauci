@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5161",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1696",
+    "miejscowosc": "Sobol\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sobol\u00f3w",
+    "numer": "100",
+    "kod": "32-742",
+    "poczta": "Sobol\u00f3w\r"
+  },
+  {
+    "id": "5162",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1696",
+    "miejscowosc": "Sobol\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sobol\u00f3w",
+    "numer": "100",
+    "kod": "32-742",
+    "poczta": "Sobol\u00f3w\r"
+  }
+]

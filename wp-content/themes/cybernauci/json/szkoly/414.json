@@ -1,0 +1,26 @@
+[
+  {
+    "id": "971",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "414",
+    "miejscowosc": "Zebrzydowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. K. K. Baczy\u0144skiego ",
+    "ulica": "Kochanowskiego",
+    "numer": "55",
+    "kod": "43-410",
+    "poczta": "Zebrzydowice\r"
+  },
+  {
+    "id": "972",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "414",
+    "miejscowosc": "Zebrzydowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. K. Baczy\u0144skiego ",
+    "ulica": "Kochanowskiego",
+    "numer": "55",
+    "kod": "43-410",
+    "poczta": "Zebrzydowice\r"
+  }
+]

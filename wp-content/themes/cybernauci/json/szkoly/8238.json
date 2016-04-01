@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22903",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8238",
+    "miejscowosc": "Gorysze",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Gorysze",
+    "numer": "14",
+    "kod": "06-400",
+    "poczta": "Ciechan\u00f3w\r"
+  },
+  {
+    "id": "22904",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8238",
+    "miejscowosc": "Gorysze",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Gorysze",
+    "numer": "14",
+    "kod": "06-400",
+    "poczta": "Ciechan\u00f3w\r"
+  }
+]

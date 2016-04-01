@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1528",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "392",
+    "miejscowosc": "Rudnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "1",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  },
+  {
+    "id": "924",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "392",
+    "miejscowosc": "Rudnik",
+    "typ": "podstawowa",
+    "nazwa": "Powszechna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-419",
+    "poczta": "Ha\u017clach\r"
+  },
+  {
+    "id": "1529",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "392",
+    "miejscowosc": "Rudnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "1",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  }
+]

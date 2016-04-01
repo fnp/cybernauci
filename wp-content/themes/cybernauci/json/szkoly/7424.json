@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21012",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7424",
+    "miejscowosc": "Januszkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Januszkowice",
+    "numer": "60",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  },
+  {
+    "id": "21013",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7424",
+    "miejscowosc": "Januszkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Januszkowice",
+    "numer": "60",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  }
+]

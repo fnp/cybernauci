@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21844",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7836",
+    "miejscowosc": "Huta Krzeszowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "6",
+    "kod": "37-413",
+    "poczta": "Harasiuki\r"
+  },
+  {
+    "id": "21845",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7836",
+    "miejscowosc": "Huta Krzeszowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "6",
+    "kod": "37-413",
+    "poczta": "Harasiuki\r"
+  }
+]

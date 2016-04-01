@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9255",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3367",
+    "miejscowosc": "Gardeja",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "82-520",
+    "poczta": "Gardeja\r"
+  },
+  {
+    "id": "9256",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3367",
+    "miejscowosc": "Gardeja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "82-520",
+    "poczta": "Gardeja\r"
+  }
+]

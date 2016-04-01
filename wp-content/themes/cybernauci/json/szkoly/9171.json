@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24896",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9171",
+    "miejscowosc": "\u0141och\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sadzewiczowej",
+    "ulica": "Wyspia\u0144skiego",
+    "numer": "18",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24894",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9171",
+    "miejscowosc": "\u0141och\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wyspia\u0144skiego",
+    "numer": "20",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24892",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9171",
+    "miejscowosc": "\u0141och\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Baonu \"Nadbu\u017ca\u0144skiego\" AK",
+    "ulica": "\u017beromskiego",
+    "numer": "3",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24893",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9171",
+    "miejscowosc": "\u0141och\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "1-go maja",
+    "numer": "47",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24897",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9171",
+    "miejscowosc": "\u0141och\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wyspia\u0144skiego",
+    "numer": "18",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  }
+]

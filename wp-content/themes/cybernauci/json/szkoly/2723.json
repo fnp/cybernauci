@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7818",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2723",
+    "miejscowosc": "Solec-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "18",
+    "kod": "28-131",
+    "poczta": "Solec-Zdr\u00f3j\r"
+  },
+  {
+    "id": "7819",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2723",
+    "miejscowosc": "Solec-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "18",
+    "kod": "28-131",
+    "poczta": "Solec-Zdr\u00f3j\r"
+  }
+]

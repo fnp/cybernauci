@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5403",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1815",
+    "miejscowosc": "M\u0119drzech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Tadeusza Ko\u015bciuszki",
+    "ulica": "M\u0119drzech\u00f3w",
+    "numer": "440",
+    "kod": "33-221",
+    "poczta": "M\u0119drzech\u00f3w\r"
+  },
+  {
+    "id": "5404",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1815",
+    "miejscowosc": "M\u0119drzech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "M\u0119drzech\u00f3w",
+    "numer": "440",
+    "kod": "33-221",
+    "poczta": "M\u0119drzech\u00f3w\r"
+  }
+]

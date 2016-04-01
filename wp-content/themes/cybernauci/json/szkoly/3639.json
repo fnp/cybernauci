@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10300",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3639",
+    "miejscowosc": "Czarna Wie\u015b Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10301",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3639",
+    "miejscowosc": "Czarna Wie\u015b Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  }
+]

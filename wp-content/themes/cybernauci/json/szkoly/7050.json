@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19638",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7050",
+    "miejscowosc": "\u017belice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "\u017belice",
+    "numer": "14a",
+    "kod": "62-113",
+    "poczta": "W\u0105growiec\r"
+  },
+  {
+    "id": "19639",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7050",
+    "miejscowosc": "\u017belice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "\u017belice",
+    "numer": "14a",
+    "kod": "62-113",
+    "poczta": "W\u0105growiec\r"
+  }
+]

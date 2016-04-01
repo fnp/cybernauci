@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6579",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2389",
+    "miejscowosc": "Bobrek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nadwi\u015bla\u0144ska",
+    "numer": "9",
+    "kod": "32-661",
+    "poczta": "Bobrek\r"
+  },
+  {
+    "id": "6580",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2389",
+    "miejscowosc": "Bobrek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nadwi\u015bla\u0144ska",
+    "numer": "9",
+    "kod": "32-661",
+    "poczta": "Bobrek\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "10591",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "3",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  },
+  {
+    "id": "10592",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "15",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  },
+  {
+    "id": "10595",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Planetarna",
+    "numer": "13",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  },
+  {
+    "id": "10588",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "17",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  },
+  {
+    "id": "10593",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  },
+  {
+    "id": "10594",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3794",
+    "miejscowosc": "Mo\u0144ki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "19-100",
+    "poczta": "Mo\u0144ki\r"
+  }
+]

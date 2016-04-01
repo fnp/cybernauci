@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21357",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7583",
+    "miejscowosc": "\u015awi\u0119cany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awi\u0119cany",
+    "numer": "529",
+    "kod": "38-242",
+    "poczta": "Sko\u0142yszyn\r"
+  },
+  {
+    "id": "21358",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7583",
+    "miejscowosc": "\u015awi\u0119cany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awi\u0119cany",
+    "numer": "529",
+    "kod": "38-242",
+    "poczta": "Sko\u0142yszyn\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24167",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8808",
+    "miejscowosc": "Baboszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Armii Krajowej",
+    "ulica": "J. i A. Brodeckich",
+    "numer": "6",
+    "kod": "09-130",
+    "poczta": "Baboszewo\r"
+  },
+  {
+    "id": "24164",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8808",
+    "miejscowosc": "Baboszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. Wybickiego ",
+    "ulica": "J. A. Brodeckich",
+    "numer": "6",
+    "kod": "09-130",
+    "poczta": "Baboszewo\r"
+  }
+]

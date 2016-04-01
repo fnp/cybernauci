@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23128",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8343",
+    "miejscowosc": "Mi\u0119dzybor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "96-316",
+    "poczta": "Mi\u0119dzybor\u00f3w\r"
+  },
+  {
+    "id": "23129",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8343",
+    "miejscowosc": "Mi\u0119dzybor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "96-316",
+    "poczta": "Mi\u0119dzybor\u00f3w\r"
+  }
+]

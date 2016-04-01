@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22306",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8065",
+    "miejscowosc": "Zaczernie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zaczernie",
+    "numer": "249a",
+    "kod": "36-062",
+    "poczta": "Zaczernie\r"
+  },
+  {
+    "id": "22307",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8065",
+    "miejscowosc": "Zaczernie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zaczernie",
+    "numer": "249a",
+    "kod": "36-062",
+    "poczta": "Zaczernie\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20395",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7212",
+    "miejscowosc": "O\u015bno Lubuskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Marii Sk\u0142odowskiej-Curie ",
+    "ulica": "Jeziorna",
+    "numer": "3",
+    "kod": "69-220",
+    "poczta": "O\u015bno Lubuskie\r"
+  },
+  {
+    "id": "20392",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7212",
+    "miejscowosc": "O\u015bno Lubuskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rzepi\u0144ska",
+    "numer": "8",
+    "kod": "69-220",
+    "poczta": "O\u015bno Lubuskie\r"
+  },
+  {
+    "id": "20396",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7212",
+    "miejscowosc": "O\u015bno Lubuskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie ",
+    "ulica": "Jeziorna",
+    "numer": "3",
+    "kod": "69-220",
+    "poczta": "O\u015bno Lubuskie\r"
+  },
+  {
+    "id": "20393",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7212",
+    "miejscowosc": "O\u015bno Lubuskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rzepi\u0144ska",
+    "numer": "8",
+    "kod": "69-220",
+    "poczta": "O\u015bno Lubuskie\r"
+  },
+  {
+    "id": "20394",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7212",
+    "miejscowosc": "O\u015bno Lubuskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rzepi\u0144ska",
+    "numer": "8",
+    "kod": "69-220",
+    "poczta": "O\u015bno Lubuskie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5872",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2065",
+    "miejscowosc": "Raba Ni\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Raba Ni\u017cna",
+    "numer": "162",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5873",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2065",
+    "miejscowosc": "Raba Ni\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Raba Ni\u017cna",
+    "numer": "162",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  }
+]

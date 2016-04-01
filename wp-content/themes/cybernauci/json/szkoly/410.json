@@ -1,0 +1,26 @@
+[
+  {
+    "id": "965",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "410",
+    "miejscowosc": "Pruchna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "60",
+    "kod": "43-523",
+    "poczta": "Pruchna\r"
+  },
+  {
+    "id": "966",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "410",
+    "miejscowosc": "Pruchna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Emilii Michalskiej ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "60",
+    "kod": "43-523",
+    "poczta": "Pruchna\r"
+  }
+]

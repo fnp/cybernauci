@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4160",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1331",
+    "miejscowosc": "Gr\u0119z\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gr\u0119z\u00f3wka",
+    "numer": "41",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  },
+  {
+    "id": "4161",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1331",
+    "miejscowosc": "Gr\u0119z\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gr\u0119z\u00f3wka",
+    "numer": "41",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  }
+]

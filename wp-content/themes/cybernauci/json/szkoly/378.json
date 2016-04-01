@@ -1,0 +1,38 @@
+[
+  {
+    "id": "904",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "378",
+    "miejscowosc": "Brenna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr\u00f3la Jana III Sobieskiego",
+    "ulica": "G\u00f3recka",
+    "numer": "224",
+    "kod": "43-438",
+    "poczta": "Brenna\r"
+  },
+  {
+    "id": "902",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "378",
+    "miejscowosc": "Brenna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Le\u015bnica",
+    "numer": "103",
+    "kod": "43-438",
+    "poczta": "Brenna\r"
+  },
+  {
+    "id": "903",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "378",
+    "miejscowosc": "Brenna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Stefana \u017beromskiego",
+    "ulica": "Bukowa",
+    "numer": "45",
+    "kod": "43-438",
+    "poczta": "Brenna\r"
+  }
+]

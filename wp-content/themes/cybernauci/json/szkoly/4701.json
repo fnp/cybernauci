@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13285",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4701",
+    "miejscowosc": "Bia\u0142e B\u0142ota",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Czysta",
+    "numer": "1a",
+    "kod": "86-005",
+    "poczta": "Bia\u0142e B\u0142ota\r"
+  },
+  {
+    "id": "13282",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4701",
+    "miejscowosc": "Bia\u0142e B\u0142ota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliusza Verne'a",
+    "ulica": "Centralna",
+    "numer": "27",
+    "kod": "86-005",
+    "poczta": "Bia\u0142e B\u0142ota\r"
+  }
+]

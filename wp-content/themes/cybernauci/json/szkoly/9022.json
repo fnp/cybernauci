@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24572",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9022",
+    "miejscowosc": "Chod\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Soko\u0142owska",
+    "numer": "1",
+    "kod": "08-119",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24573",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9022",
+    "miejscowosc": "Chod\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Soko\u0142owska",
+    "numer": "1",
+    "kod": "08-119",
+    "poczta": "Siedlce\r"
+  }
+]

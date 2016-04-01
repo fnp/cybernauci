@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10546",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3766",
+    "miejscowosc": "Nowogr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "11 Listopada",
+    "numer": "12",
+    "kod": "18-414",
+    "poczta": "Nowogr\u00f3d\r"
+  },
+  {
+    "id": "10547",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3766",
+    "miejscowosc": "Nowogr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Ch\u0119tnika",
+    "ulica": "11 Listopada",
+    "numer": "12",
+    "kod": "18-414",
+    "poczta": "Nowogr\u00f3d\r"
+  }
+]

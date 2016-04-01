@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14854",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5236",
+    "miejscowosc": "Wiadr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wiadr\u00f3w",
+    "numer": "38",
+    "kod": "59-411",
+    "poczta": "Paszowice\r"
+  },
+  {
+    "id": "14856",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5236",
+    "miejscowosc": "Wiadr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa Filia",
+    "ulica": "Wiadr\u00f3w",
+    "numer": "38",
+    "kod": "59-411",
+    "poczta": "Paszowice\r"
+  }
+]

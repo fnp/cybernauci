@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23735",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8619",
+    "miejscowosc": "Obierwia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Obierwia",
+    "numer": "120A",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  },
+  {
+    "id": "23736",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8619",
+    "miejscowosc": "Obierwia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Obierwia",
+    "numer": "120A",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  }
+]

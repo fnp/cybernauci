@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18049",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6282",
+    "miejscowosc": "Trzem\u017cal",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Trzem\u017cal",
+    "numer": "56",
+    "kod": "62-253",
+    "poczta": "Trzem\u017cal\r"
+  },
+  {
+    "id": "18050",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6282",
+    "miejscowosc": "Trzem\u017cal",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Trzem\u017cal",
+    "numer": "56",
+    "kod": "62-253",
+    "poczta": "Trzem\u017cal\r"
+  }
+]

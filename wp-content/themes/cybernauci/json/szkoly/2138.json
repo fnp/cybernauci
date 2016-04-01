@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6035",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2138",
+    "miejscowosc": "Krzczon\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Henryka Sienkiewicza",
+    "ulica": "Krzczon\u00f3w",
+    "numer": "82",
+    "kod": "32-435",
+    "poczta": "Krzczon\u00f3w\r"
+  },
+  {
+    "id": "6037",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2138",
+    "miejscowosc": "Krzczon\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Krzczon\u00f3w",
+    "numer": "82",
+    "kod": "32-435",
+    "poczta": "Krzczon\u00f3w\r"
+  }
+]

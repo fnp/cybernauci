@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22965",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8265",
+    "miejscowosc": "Borowie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "A. Sasimowskiego",
+    "numer": "3",
+    "kod": "08-412",
+    "poczta": "Borowie\r"
+  },
+  {
+    "id": "22966",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8265",
+    "miejscowosc": "Borowie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "A. Sasimowskiego",
+    "numer": "3",
+    "kod": "08-412",
+    "poczta": "Borowie\r"
+  }
+]

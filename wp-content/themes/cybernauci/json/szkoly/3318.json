@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9137",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3318",
+    "miejscowosc": "M\u015bciszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "83-321",
+    "poczta": "M\u015bciszewice\r"
+  },
+  {
+    "id": "9138",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3318",
+    "miejscowosc": "M\u015bciszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "83-321",
+    "poczta": "M\u015bciszewice\r"
+  }
+]

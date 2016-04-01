@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17093",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6040",
+    "miejscowosc": "Godzian\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "4",
+    "kod": "96-126",
+    "poczta": "Godzian\u00f3w\r"
+  },
+  {
+    "id": "17094",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6040",
+    "miejscowosc": "Godzian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sportowa",
+    "numer": "4",
+    "kod": "96-126",
+    "poczta": "Godzian\u00f3w\r"
+  },
+  {
+    "id": "17096",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6040",
+    "miejscowosc": "Godzian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "96-126",
+    "poczta": "Godzian\u00f3w\r"
+  },
+  {
+    "id": "17095",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6040",
+    "miejscowosc": "Godzian\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "4",
+    "kod": "96-126",
+    "poczta": "Godzian\u00f3w\r"
+  },
+  {
+    "id": "17097",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6040",
+    "miejscowosc": "Godzian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. 26 Pu\u0142ku Artylerii Lekkiej w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "96-126",
+    "poczta": "Godzian\u00f3w\r"
+  }
+]

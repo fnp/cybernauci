@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9779",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3573",
+    "miejscowosc": "Bo\u017cepole Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. J. Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-214",
+    "poczta": "Bo\u017cepole Wielkie\r"
+  },
+  {
+    "id": "9780",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3573",
+    "miejscowosc": "Bo\u017cepole Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. Kusoci\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-214",
+    "poczta": "Bo\u017cepole Wielkie\r"
+  }
+]

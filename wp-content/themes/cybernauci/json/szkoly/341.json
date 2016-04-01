@@ -1,0 +1,26 @@
+[
+  {
+    "id": "769",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "341",
+    "miejscowosc": "Bestwinka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworkowa",
+    "numer": "3",
+    "kod": "43-512",
+    "poczta": "Bestwina\r"
+  },
+  {
+    "id": "770",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "341",
+    "miejscowosc": "Bestwinka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworkowa",
+    "numer": "3",
+    "kod": "43-512",
+    "poczta": "Bestwina\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23392",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8470",
+    "miejscowosc": "Sarnaki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "27",
+    "kod": "08-220",
+    "poczta": "Sarnaki\r"
+  },
+  {
+    "id": "23393",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8470",
+    "miejscowosc": "Sarnaki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "3 Maja",
+    "numer": "27",
+    "kod": "08-220",
+    "poczta": "Sarnaki\r"
+  }
+]

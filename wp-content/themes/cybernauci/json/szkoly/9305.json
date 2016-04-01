@@ -1,0 +1,38 @@
+[
+  {
+    "id": "25241",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9305",
+    "miejscowosc": "Puszcza Maria\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "3",
+    "kod": "96-330",
+    "poczta": "Puszcza Maria\u0144ska\r"
+  },
+  {
+    "id": "25238",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9305",
+    "miejscowosc": "Puszcza Maria\u0144ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sobieskiego",
+    "numer": "61",
+    "kod": "96-330",
+    "poczta": "Puszcza Maria\u0144ska\r"
+  },
+  {
+    "id": "25242",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9305",
+    "miejscowosc": "Puszcza Maria\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la Jana III Sobieskiego",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "3",
+    "kod": "96-330",
+    "poczta": "Puszcza Maria\u0144ska\r"
+  }
+]

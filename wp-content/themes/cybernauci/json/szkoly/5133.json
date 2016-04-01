@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14157",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5133",
+    "miejscowosc": "Barcin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "88-190",
+    "poczta": "Barcin\r"
+  },
+  {
+    "id": "14158",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5133",
+    "miejscowosc": "Barcin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "88-190",
+    "poczta": "Barcin\r"
+  },
+  {
+    "id": "14155",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5133",
+    "miejscowosc": "Barcin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Plac 1 Maja",
+    "numer": "8",
+    "kod": "88-190",
+    "poczta": "Barcin\r"
+  },
+  {
+    "id": "14156",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5133",
+    "miejscowosc": "Barcin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Artylerzyst\u00f3w",
+    "numer": "13",
+    "kod": "88-190",
+    "poczta": "Barcin\r"
+  }
+]

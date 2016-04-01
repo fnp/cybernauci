@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12860",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4560",
+    "miejscowosc": "Szymonowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szymonowo",
+    "numer": "15",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  },
+  {
+    "id": "12861",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4560",
+    "miejscowosc": "Szymonowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szymonowo",
+    "numer": "15",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  }
+]

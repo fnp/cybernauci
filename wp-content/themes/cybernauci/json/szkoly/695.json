@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1574",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "1 Maja",
+    "numer": "4",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  },
+  {
+    "id": "1571",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "1 Maja",
+    "numer": "6",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  },
+  {
+    "id": "1572",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Orzeszkowej",
+    "numer": "10",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  },
+  {
+    "id": "1573",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Orzeszkowej",
+    "numer": "10",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  },
+  {
+    "id": "1575",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. ks. Paw\u0142a Rogowskiego ",
+    "ulica": "1 Maja",
+    "numer": "4",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  },
+  {
+    "id": "1576",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "695",
+    "miejscowosc": "Kalety",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "1 Maja",
+    "numer": "4",
+    "kod": "42-660",
+    "poczta": "Kalety\r"
+  }
+]

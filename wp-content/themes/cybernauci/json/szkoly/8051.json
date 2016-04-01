@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22267",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8051",
+    "miejscowosc": "Soko\u0142\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lubelska",
+    "numer": "37",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22257",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8051",
+    "miejscowosc": "Soko\u0142\u00f3w Ma\u0142opolski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Lubelska",
+    "numer": "41",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22258",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8051",
+    "miejscowosc": "Soko\u0142\u00f3w Ma\u0142opolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubelska",
+    "numer": "41",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22268",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8051",
+    "miejscowosc": "Soko\u0142\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Lubelska",
+    "numer": "37",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22269",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8051",
+    "miejscowosc": "Soko\u0142\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lubelska",
+    "numer": "37",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  }
+]

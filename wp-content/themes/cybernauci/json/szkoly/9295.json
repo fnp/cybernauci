@@ -1,0 +1,98 @@
+[
+  {
+    "id": "25198",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Wyzwolenia",
+    "numer": "12",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25200",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Wiatraczna",
+    "numer": "16",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25197",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii D\u0105browskiej",
+    "ulica": "Wyzwolenia",
+    "numer": "61",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25196",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "Kopernika",
+    "numer": "",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25199",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Wyzwolenia",
+    "numer": "12",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25201",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wiatraczna",
+    "numer": "16",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25202",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Lidzbarska",
+    "numer": "27",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  },
+  {
+    "id": "25203",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9295",
+    "miejscowosc": "\u017buromin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lidzbarska",
+    "numer": "27",
+    "kod": "09-300",
+    "poczta": "\u017buromin\r"
+  }
+]

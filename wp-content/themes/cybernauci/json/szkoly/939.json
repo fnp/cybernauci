@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3442",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "939",
+    "miejscowosc": "J\u00f3zef\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Henryka Sienkiewicza",
+    "ulica": "Broniewskiego",
+    "numer": "14",
+    "kod": "23-460",
+    "poczta": "J\u00f3zef\u00f3w\r"
+  },
+  {
+    "id": "3443",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "939",
+    "miejscowosc": "J\u00f3zef\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Broniewskiego",
+    "numer": "14",
+    "kod": "23-460",
+    "poczta": "J\u00f3zef\u00f3w\r"
+  },
+  {
+    "id": "3439",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "939",
+    "miejscowosc": "J\u00f3zef\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mieczys\u0142awa Romanowskiego",
+    "ulica": "G\u00f3rnicza",
+    "numer": "21",
+    "kod": "23-460",
+    "poczta": "J\u00f3zef\u00f3w\r"
+  }
+]

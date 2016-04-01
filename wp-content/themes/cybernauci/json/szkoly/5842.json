@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16700",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5842",
+    "miejscowosc": "Pi\u0105tkowisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pi\u0105tkowisko",
+    "numer": "107",
+    "kod": "95-200",
+    "poczta": "Pabianice\r"
+  },
+  {
+    "id": "16699",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5842",
+    "miejscowosc": "Pi\u0105tkowisko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+    "ulica": "Pi\u0105tkowisko",
+    "numer": "107",
+    "kod": "95-200",
+    "poczta": "Pabianice\r"
+  }
+]

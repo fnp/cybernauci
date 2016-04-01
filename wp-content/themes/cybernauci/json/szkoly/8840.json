@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24216",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8840",
+    "miejscowosc": "Kroczewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Kroczewo",
+    "numer": "136",
+    "kod": "09-142",
+    "poczta": "Za\u0142uski\r"
+  },
+  {
+    "id": "24217",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8840",
+    "miejscowosc": "Kroczewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Kroczewo",
+    "numer": "136",
+    "kod": "09-142",
+    "poczta": "Za\u0142uski\r"
+  }
+]

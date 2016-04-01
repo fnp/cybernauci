@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22113",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7973",
+    "miejscowosc": "Gnojnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gnojnica",
+    "numer": "268",
+    "kod": "39-105",
+    "poczta": "Gnojnica\r"
+  },
+  {
+    "id": "22115",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7973",
+    "miejscowosc": "Gnojnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gnojnica",
+    "numer": "504",
+    "kod": "39-105",
+    "poczta": "Gnojnica\r"
+  },
+  {
+    "id": "22114",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7973",
+    "miejscowosc": "Gnojnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gnojnica",
+    "numer": "268",
+    "kod": "39-105",
+    "poczta": "Gnojnica\r"
+  },
+  {
+    "id": "22116",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7973",
+    "miejscowosc": "Gnojnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gnojnica",
+    "numer": "504",
+    "kod": "39-105",
+    "poczta": "Gnojnica\r"
+  }
+]

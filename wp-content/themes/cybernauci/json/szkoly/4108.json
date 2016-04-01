@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11528",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4108",
+    "miejscowosc": "Karsko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Gorzowska",
+    "numer": "9",
+    "kod": "74-305",
+    "poczta": "Karsko\r"
+  },
+  {
+    "id": "11529",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4108",
+    "miejscowosc": "Karsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gorzowska",
+    "numer": "9",
+    "kod": "74-305",
+    "poczta": "Karsko\r"
+  }
+]

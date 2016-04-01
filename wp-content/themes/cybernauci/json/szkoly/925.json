@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3419",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "925",
+    "miejscowosc": "Gromada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gromada",
+    "numer": "141",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3420",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "925",
+    "miejscowosc": "Gromada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gromada",
+    "numer": "141",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

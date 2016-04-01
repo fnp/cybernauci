@@ -1,0 +1,26 @@
+[
+  {
+    "id": "835",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "365",
+    "miejscowosc": "Bujak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "43-356",
+    "poczta": "Kobiernice\r"
+  },
+  {
+    "id": "836",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "365",
+    "miejscowosc": "Bujak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "43-356",
+    "poczta": "Kobiernice\r"
+  }
+]

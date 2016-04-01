@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9480",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3462",
+    "miejscowosc": "Szczypkowice",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Szczypkowice",
+    "numer": "19",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9481",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3462",
+    "miejscowosc": "Szczypkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Szczypkowice",
+    "numer": "19",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  }
+]

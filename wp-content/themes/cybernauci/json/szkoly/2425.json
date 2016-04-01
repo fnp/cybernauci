@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6665",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2425",
+    "miejscowosc": "Pa\u0142ecznica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015aw. Jakuba",
+    "numer": "43",
+    "kod": "32-109",
+    "poczta": "Pa\u0142ecznica\r"
+  },
+  {
+    "id": "6666",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2425",
+    "miejscowosc": "Pa\u0142ecznica",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "\u015aw. Jakuba",
+    "numer": "43",
+    "kod": "32-109",
+    "poczta": "Pa\u0142ecznica\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9010",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3247",
+    "miejscowosc": "Kowale",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Sadowa",
+    "numer": "21",
+    "kod": "80-180",
+    "poczta": "Gda\u0144sk\r"
+  },
+  {
+    "id": "9013",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3247",
+    "miejscowosc": "Kowale",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Sadowa",
+    "numer": "21",
+    "kod": "80-180",
+    "poczta": "Gda\u0144sk\r"
+  },
+  {
+    "id": "9011",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3247",
+    "miejscowosc": "Kowale",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa CET",
+    "ulica": "Gruszkowa",
+    "numer": "3",
+    "kod": "80-180",
+    "poczta": "Gda\u0144sk\r"
+  },
+  {
+    "id": "9012",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3247",
+    "miejscowosc": "Kowale",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Montessori",
+    "ulica": "Siostry Faustyny",
+    "numer": "14",
+    "kod": "80-180",
+    "poczta": "Gda\u0144sk\r"
+  }
+]

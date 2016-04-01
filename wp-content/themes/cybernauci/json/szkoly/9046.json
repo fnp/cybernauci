@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24613",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9046",
+    "miejscowosc": "Krzesk-Kr\u00f3lowa Niwa",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Krzesk-Kr\u00f3lowa Niwa",
+    "numer": "23",
+    "kod": "08-111",
+    "poczta": "Krzesk-Kr\u00f3lowa Niwa\r"
+  },
+  {
+    "id": "24614",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9046",
+    "miejscowosc": "Krzesk-Kr\u00f3lowa Niwa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Krzesk-Kr\u00f3lowa Niwa",
+    "numer": "23",
+    "kod": "08-111",
+    "poczta": "Krzesk-Kr\u00f3lowa Niwa\r"
+  }
+]

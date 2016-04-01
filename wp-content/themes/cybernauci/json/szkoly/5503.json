@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15568",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Macieja Rataja",
+    "ulica": "Sienkiewicza",
+    "numer": "6",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15564",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u017bmigr\u00f3d",
+    "numer": "5",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15569",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Dwuj\u0119zyczne",
+    "ulica": "Sienkiewicza",
+    "numer": "6",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15565",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Powiatowe Gimnazjum",
+    "ulica": "\u017bmigr\u00f3d",
+    "numer": "5",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15559",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15566",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017bmigr\u00f3d",
+    "numer": "5",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "15567",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5503",
+    "miejscowosc": "\u017bmigr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "\u017bmigr\u00f3d",
+    "numer": "5",
+    "kod": "55-140",
+    "poczta": "\u017bmigr\u00f3d\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4611",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1535",
+    "miejscowosc": "Be\u0142\u017cec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Sprawiedliwych W\u015br\u00f3d Narod\u00f3w \u015awiata",
+    "ulica": "\u015awierczewskiego",
+    "numer": "75",
+    "kod": "22-670",
+    "poczta": "Be\u0142\u017cec\r"
+  },
+  {
+    "id": "4612",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1535",
+    "miejscowosc": "Be\u0142\u017cec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "75",
+    "kod": "22-670",
+    "poczta": "Be\u0142\u017cec\r"
+  }
+]

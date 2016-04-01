@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22090",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7970",
+    "miejscowosc": "Kamionka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Wilhelma Macha",
+    "ulica": "Kamionka",
+    "numer": "206",
+    "kod": "39-122",
+    "poczta": "Kamionka\r"
+  },
+  {
+    "id": "22092",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7970",
+    "miejscowosc": "Kamionka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. b\u0142. ks. Romana Sitko",
+    "ulica": "Kamionka",
+    "numer": "206",
+    "kod": "39-122",
+    "poczta": "Kamionka\r"
+  }
+]

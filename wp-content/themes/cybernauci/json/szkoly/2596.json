@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7023",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2596",
+    "miejscowosc": "Le\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "34-406",
+    "poczta": "Le\u015bnica\r"
+  },
+  {
+    "id": "7024",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2596",
+    "miejscowosc": "Le\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. St. Kostki",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "34-406",
+    "poczta": "Le\u015bnica\r"
+  }
+]

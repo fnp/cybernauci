@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6103",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2175",
+    "miejscowosc": "Kru\u017clowa Wy\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kru\u017clowa Wy\u017cna",
+    "numer": "205",
+    "kod": "33-325",
+    "poczta": "Kru\u017clowa Wy\u017cna\r"
+  },
+  {
+    "id": "6111",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2175",
+    "miejscowosc": "Kru\u017clowa Wy\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Kru\u017clowa Wy\u017cna",
+    "numer": "205",
+    "kod": "33-325",
+    "poczta": "Kru\u017clowa Wy\u017cna\r"
+  }
+]

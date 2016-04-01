@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23158",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8365",
+    "miejscowosc": "Goszczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Armii Krajowej",
+    "numer": "2",
+    "kod": "05-610",
+    "poczta": "Goszczyn\r"
+  },
+  {
+    "id": "23159",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8365",
+    "miejscowosc": "Goszczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Armii Krajowej",
+    "numer": "2",
+    "kod": "05-610",
+    "poczta": "Goszczyn\r"
+  }
+]

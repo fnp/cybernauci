@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9353",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3401",
+    "miejscowosc": "Lisewo Malborskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "10 Marca",
+    "numer": "51",
+    "kod": "82-224",
+    "poczta": "Lichnowy\r"
+  },
+  {
+    "id": "9354",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3401",
+    "miejscowosc": "Lisewo Malborskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "10 Marca",
+    "numer": "51",
+    "kod": "82-224",
+    "poczta": "Lichnowy\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9491",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3467",
+    "miejscowosc": "Warcino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warcino",
+    "numer": "21",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  },
+  {
+    "id": "9493",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3467",
+    "miejscowosc": "Warcino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne im. prof. Stanis\u0142awa Soko\u0142owskiego",
+    "ulica": "Warcino",
+    "numer": "1",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  }
+]

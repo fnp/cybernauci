@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24589",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9033",
+    "miejscowosc": "Sucho\u017cebry",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych im. H. Sienkiewicza Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "8",
+    "kod": "08-125",
+    "poczta": "Sucho\u017cebry\r"
+  },
+  {
+    "id": "24590",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9033",
+    "miejscowosc": "Sucho\u017cebry",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych im. H. Sienkiewicza Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "6",
+    "kod": "08-125",
+    "poczta": "Sucho\u017cebry\r"
+  }
+]

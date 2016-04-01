@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6417",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2333",
+    "miejscowosc": "Skawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. \u015aw. Dominika Savio",
+    "ulica": "Skawa",
+    "numer": "584A",
+    "kod": "34-713",
+    "poczta": "Skawa\r"
+  },
+  {
+    "id": "6418",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2333",
+    "miejscowosc": "Skawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. \u015aw. Jana Bosko ",
+    "ulica": "Skawa",
+    "numer": "584A",
+    "kod": "34-713",
+    "poczta": "Skawa\r"
+  },
+  {
+    "id": "6414",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2333",
+    "miejscowosc": "Skawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. \u015aw. Brata Alberta ",
+    "ulica": "Skawa",
+    "numer": "Skawa 278",
+    "kod": "34-713",
+    "poczta": "Skawa\r"
+  }
+]

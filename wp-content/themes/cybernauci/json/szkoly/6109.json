@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17231",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6109",
+    "miejscowosc": "Dzietrzniki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dzietrzniki",
+    "numer": "105",
+    "kod": "98-335",
+    "poczta": "P\u0105tn\u00f3w\r"
+  },
+  {
+    "id": "17232",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6109",
+    "miejscowosc": "Dzietrzniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dzietrzniki",
+    "numer": "105",
+    "kod": "98-335",
+    "poczta": "P\u0105tn\u00f3w\r"
+  }
+]

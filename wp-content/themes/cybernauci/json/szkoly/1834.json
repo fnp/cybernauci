@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5934",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1834",
+    "miejscowosc": "Rac\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Rac\u0142awice",
+    "numer": "147",
+    "kod": "32-222",
+    "poczta": "Rac\u0142awice\r"
+  },
+  {
+    "id": "5456",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1834",
+    "miejscowosc": "Rac\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rac\u0142awice",
+    "numer": "190",
+    "kod": "38-323",
+    "poczta": "Ro\u017cnowice\r"
+  },
+  {
+    "id": "5586",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1834",
+    "miejscowosc": "Rac\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Rac\u0142awice",
+    "numer": "329",
+    "kod": "32-049",
+    "poczta": "Przeginia\r"
+  },
+  {
+    "id": "5933",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1834",
+    "miejscowosc": "Rac\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Rac\u0142awice",
+    "numer": "147",
+    "kod": "32-222",
+    "poczta": "Rac\u0142awice\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11422",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4055",
+    "miejscowosc": "Go\u015bcino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kazimierza G\u00f3rskiego",
+    "ulica": "Grunwaldzka",
+    "numer": "14",
+    "kod": "78-120",
+    "poczta": "Go\u015bcino\r"
+  },
+  {
+    "id": "11423",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4055",
+    "miejscowosc": "Go\u015bcino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "IV Dywizji Wojska Polskiego",
+    "numer": "72",
+    "kod": "78-120",
+    "poczta": "Go\u015bcino\r"
+  },
+  {
+    "id": "11424",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4055",
+    "miejscowosc": "Go\u015bcino",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "78-120",
+    "poczta": "Go\u015bcino\r"
+  }
+]

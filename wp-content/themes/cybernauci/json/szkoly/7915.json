@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21985",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7915",
+    "miejscowosc": "Orzechowce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Orzechowce",
+    "numer": "60",
+    "kod": "37-712",
+    "poczta": "Orzechowce\r"
+  },
+  {
+    "id": "21986",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7915",
+    "miejscowosc": "Orzechowce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Orzechowce",
+    "numer": "60",
+    "kod": "37-712",
+    "poczta": "Orzechowce\r"
+  }
+]

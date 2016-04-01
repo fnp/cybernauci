@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8447",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3048",
+    "miejscowosc": "Daromin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Daromin",
+    "numer": "128",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  },
+  {
+    "id": "8446",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3048",
+    "miejscowosc": "Daromin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Daromin",
+    "numer": "128",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10780",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3885",
+    "miejscowosc": "Klukowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-214",
+    "poczta": "Klukowo\r"
+  },
+  {
+    "id": "10781",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3885",
+    "miejscowosc": "Klukowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-214",
+    "poczta": "Klukowo\r"
+  }
+]

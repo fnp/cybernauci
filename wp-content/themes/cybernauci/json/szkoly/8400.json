@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23237",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8400",
+    "miejscowosc": "Grab\u00f3w nad Pilic\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "26-902",
+    "poczta": "Grab\u00f3w nad Pilic\u0105\r"
+  },
+  {
+    "id": "23238",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8400",
+    "miejscowosc": "Grab\u00f3w nad Pilic\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "26-902",
+    "poczta": "Grab\u00f3w nad Pilic\u0105\r"
+  }
+]

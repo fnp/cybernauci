@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1218",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "556",
+    "miejscowosc": "W\u0119glowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Syn\u00f3w Pu\u0142ku Gimnazjum",
+    "ulica": "W\u0119glowice",
+    "numer": "3",
+    "kod": "42-133",
+    "poczta": "W\u0119glowice\r"
+  },
+  {
+    "id": "1219",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "556",
+    "miejscowosc": "W\u0119glowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Syn\u00f3w Pu\u0142ku Szko\u0142a Podstawowa",
+    "ulica": "W\u0119glowice",
+    "numer": "3",
+    "kod": "42-133",
+    "poczta": "W\u0119glowice\r"
+  }
+]

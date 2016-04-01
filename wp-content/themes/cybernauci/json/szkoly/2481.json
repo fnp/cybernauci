@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6788",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2481",
+    "miejscowosc": "Bru\u015bnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Bru\u015bnik",
+    "numer": "42",
+    "kod": "33-192",
+    "poczta": "Bru\u015bnik\r"
+  },
+  {
+    "id": "6789",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2481",
+    "miejscowosc": "Bru\u015bnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bru\u015bnik",
+    "numer": "42",
+    "kod": "33-192",
+    "poczta": "Bru\u015bnik\r"
+  }
+]

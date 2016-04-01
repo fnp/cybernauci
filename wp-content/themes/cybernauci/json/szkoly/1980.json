@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5712",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1980",
+    "miejscowosc": "\u015awi\u0105tniki G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Biblioteki Polskiej w Pary\u017cu",
+    "ulica": "Bruchnalskiego",
+    "numer": "35",
+    "kod": "32-040",
+    "poczta": "\u015awi\u0105tniki G\u00f3rne\r"
+  },
+  {
+    "id": "5713",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1980",
+    "miejscowosc": "\u015awi\u0105tniki G\u00f3rne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bruchnalskiego",
+    "numer": "35",
+    "kod": "32-040",
+    "poczta": "\u015awi\u0105tniki G\u00f3rne\r"
+  },
+  {
+    "id": "5706",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1980",
+    "miejscowosc": "\u015awi\u0105tniki G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Fr. Bielowicza",
+    "numer": "20",
+    "kod": "32-040",
+    "poczta": "\u015awi\u0105tniki G\u00f3rne\r"
+  },
+  {
+    "id": "5714",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1980",
+    "miejscowosc": "\u015awi\u0105tniki G\u00f3rne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. S. Staszica",
+    "ulica": "Bruchnalskiego",
+    "numer": "35",
+    "kod": "32-040",
+    "poczta": "\u015awi\u0105tniki G\u00f3rne\r"
+  }
+]

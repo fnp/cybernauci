@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23353",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8453",
+    "miejscowosc": "Solec nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "\u0141oteckiego",
+    "numer": "24",
+    "kod": "27-320",
+    "poczta": "Solec nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "23356",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8453",
+    "miejscowosc": "Solec nad Wis\u0142\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "20",
+    "kod": "27-320",
+    "poczta": "Solec nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "23357",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8453",
+    "miejscowosc": "Solec nad Wis\u0142\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "20",
+    "kod": "27-320",
+    "poczta": "Solec nad Wis\u0142\u0105\r"
+  }
+]

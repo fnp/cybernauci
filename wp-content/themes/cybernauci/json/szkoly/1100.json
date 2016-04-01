@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3739",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1100",
+    "miejscowosc": "\u017b\u00f3\u0142kiewka-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana III Sobieskiego ",
+    "ulica": "H. \u017b\u00f3\u0142kiewskiego",
+    "numer": "12b",
+    "kod": "22-335",
+    "poczta": "\u017b\u00f3\u0142kiewka\r"
+  },
+  {
+    "id": "3738",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1100",
+    "miejscowosc": "\u017b\u00f3\u0142kiewka-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "22-335",
+    "poczta": "\u017b\u00f3\u0142kiewka\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11745",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4187",
+    "miejscowosc": "Barwice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Moniuszki",
+    "numer": "12",
+    "kod": "78-460",
+    "poczta": "Barwice\r"
+  },
+  {
+    "id": "11746",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4187",
+    "miejscowosc": "Barwice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Moniuszki",
+    "numer": "12",
+    "kod": "78-460",
+    "poczta": "Barwice\r"
+  },
+  {
+    "id": "11743",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4187",
+    "miejscowosc": "Barwice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pomorska",
+    "numer": "3",
+    "kod": "78-460",
+    "poczta": "Barwice\r"
+  }
+]

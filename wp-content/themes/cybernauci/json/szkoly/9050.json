@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24634",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9050",
+    "miejscowosc": "Gozdowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Krystyna Gozdawy",
+    "numer": "21",
+    "kod": "09-213",
+    "poczta": "Gozdowo\r"
+  },
+  {
+    "id": "24632",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9050",
+    "miejscowosc": "Gozdowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "K. Gozdawy",
+    "numer": "21",
+    "kod": "09-213",
+    "poczta": "Gozdowo\r"
+  }
+]

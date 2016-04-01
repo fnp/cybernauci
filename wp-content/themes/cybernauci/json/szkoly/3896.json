@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10802",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3896",
+    "miejscowosc": "Szepietowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Adama Mickiewicza",
+    "ulica": "1 Maja",
+    "numer": "2",
+    "kod": "18-210",
+    "poczta": "Szepietowo\r"
+  },
+  {
+    "id": "10799",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3896",
+    "miejscowosc": "Szepietowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "1 Maja",
+    "numer": "2",
+    "kod": "18-210",
+    "poczta": "Szepietowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24067",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8760",
+    "miejscowosc": "Brudze\u0144 Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Paw\u0142a W\u0142odkowica",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "09-414",
+    "poczta": "Brudze\u0144 Du\u017cy\r"
+  },
+  {
+    "id": "24070",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8760",
+    "miejscowosc": "Brudze\u0144 Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0142ocka",
+    "numer": "12",
+    "kod": "09-414",
+    "poczta": "Brudze\u0144 Du\u017cy\r"
+  }
+]

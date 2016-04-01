@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16773",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5888",
+    "miejscowosc": "R\u0119koraj",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "R\u0119koraj",
+    "numer": "52",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  },
+  {
+    "id": "16771",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5888",
+    "miejscowosc": "R\u0119koraj",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "R\u0119koraj",
+    "numer": "52",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  }
+]

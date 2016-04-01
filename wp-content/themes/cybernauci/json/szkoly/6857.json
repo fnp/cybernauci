@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19213",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6857",
+    "miejscowosc": "Rogalin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19214",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6857",
+    "miejscowosc": "Rogalin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  }
+]

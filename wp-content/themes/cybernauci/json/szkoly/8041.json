@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22240",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8041",
+    "miejscowosc": "Malawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Malawa",
+    "numer": "199 A",
+    "kod": "36-007",
+    "poczta": "Krasne\r"
+  },
+  {
+    "id": "22241",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8041",
+    "miejscowosc": "Malawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Malawa",
+    "numer": "199 A",
+    "kod": "36-007",
+    "poczta": "Krasne\r"
+  }
+]

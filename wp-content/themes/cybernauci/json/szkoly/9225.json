@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25052",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9225",
+    "miejscowosc": "Duczki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szosa Jadowska",
+    "numer": "37",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  },
+  {
+    "id": "25053",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9225",
+    "miejscowosc": "Duczki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szosa Jadowska",
+    "numer": "37",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  }
+]

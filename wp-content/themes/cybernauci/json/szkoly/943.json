@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3446",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "943",
+    "miejscowosc": "Majdan Stary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Majdan Stary",
+    "numer": "21",
+    "kod": "23-414",
+    "poczta": "Majdan Stary\r"
+  },
+  {
+    "id": "3447",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "943",
+    "miejscowosc": "Majdan Stary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Majdan Stary",
+    "numer": "21",
+    "kod": "23-414",
+    "poczta": "Majdan Stary\r"
+  }
+]

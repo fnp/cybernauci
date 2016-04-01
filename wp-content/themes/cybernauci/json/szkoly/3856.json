@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10723",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3856",
+    "miejscowosc": "Jeleniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Suwalska",
+    "numer": "51",
+    "kod": "16-404",
+    "poczta": "Jeleniewo\r"
+  },
+  {
+    "id": "10724",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3856",
+    "miejscowosc": "Jeleniewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Suwalska",
+    "numer": "51",
+    "kod": "16-404",
+    "poczta": "Jeleniewo\r"
+  }
+]

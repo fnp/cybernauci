@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23715",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8608",
+    "miejscowosc": "Dylewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Papie\u017ca Jana Paw\u0142a II Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23714",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8608",
+    "miejscowosc": "Dylewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych im. Papie\u017ca Jana Paw\u0142a II Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1911",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "621",
+    "miejscowosc": "Gilowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Siedlak\u00f3wka",
+    "numer": "37",
+    "kod": "34-322",
+    "poczta": "Gilowice\r"
+  },
+  {
+    "id": "1393",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "621",
+    "miejscowosc": "Gilowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. prof. Zbigniewa Religi ",
+    "ulica": "Korfantego",
+    "numer": "38",
+    "kod": "43-227",
+    "poczta": "Mied\u017ana\r"
+  },
+  {
+    "id": "1912",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "621",
+    "miejscowosc": "Gilowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Siedlak\u00f3wka",
+    "numer": "37",
+    "kod": "34-322",
+    "poczta": "Gilowice\r"
+  }
+]

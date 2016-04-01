@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13031",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J. A. Helwinga",
+    "ulica": "Pionier\u00f3w",
+    "numer": "6",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13032",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Boles\u0142awa Prusa",
+    "numer": "10",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13029",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Bema",
+    "numer": "12",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13028",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Janusza Korczaka ",
+    "ulica": "Zamkowa",
+    "numer": "6",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13035",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szpitalna",
+    "numer": "9",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13036",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4645",
+    "miejscowosc": "W\u0119gorzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Szpitalna",
+    "numer": "9",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  }
+]

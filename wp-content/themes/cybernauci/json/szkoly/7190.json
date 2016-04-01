@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20352",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7190",
+    "miejscowosc": "Bytom Odrza\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Ko\u015bcielna",
+    "numer": "9",
+    "kod": "67-115",
+    "poczta": "Bytom Odrza\u0144ski\r"
+  },
+  {
+    "id": "20353",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7190",
+    "miejscowosc": "Bytom Odrza\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "9",
+    "kod": "67-115",
+    "poczta": "Bytom Odrza\u0144ski\r"
+  }
+]

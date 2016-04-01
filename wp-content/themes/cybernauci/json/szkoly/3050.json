@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8450",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3050",
+    "miejscowosc": "Radoszki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Radoszki",
+    "numer": "16",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  },
+  {
+    "id": "8451",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3050",
+    "miejscowosc": "Radoszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Radoszki",
+    "numer": "16",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  }
+]

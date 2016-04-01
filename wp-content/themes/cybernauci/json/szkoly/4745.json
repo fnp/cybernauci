@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13408",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4745",
+    "miejscowosc": "Lisewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lisewo",
+    "numer": "36",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13376",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4745",
+    "miejscowosc": "Lisewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gminne Gimnazjum",
+    "ulica": "Toru\u0144ska",
+    "numer": "17",
+    "kod": "86-230",
+    "poczta": "Lisewo\r"
+  },
+  {
+    "id": "13377",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4745",
+    "miejscowosc": "Lisewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Toru\u0144ska",
+    "numer": "16",
+    "kod": "86-230",
+    "poczta": "Lisewo\r"
+  }
+]

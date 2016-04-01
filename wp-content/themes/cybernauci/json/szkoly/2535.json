@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6884",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2535",
+    "miejscowosc": "Zbylitowska G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zbylitowskich",
+    "numer": "95a-d",
+    "kod": "33-113",
+    "poczta": "Zg\u0142obice\r"
+  },
+  {
+    "id": "6883",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2535",
+    "miejscowosc": "Zbylitowska G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "\u015bw. Floriana",
+    "numer": "1",
+    "kod": "33-113",
+    "poczta": "Zg\u0142obice\r"
+  },
+  {
+    "id": "6885",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2535",
+    "miejscowosc": "Zbylitowska G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zbylitowskich",
+    "numer": "95a-d",
+    "kod": "33-113",
+    "poczta": "Zg\u0142obice\r"
+  },
+  {
+    "id": "6877",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2535",
+    "miejscowosc": "Zbylitowska G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Komisji Edukacji Narodowej ",
+    "ulica": "\u015bw. Floriana",
+    "numer": "1",
+    "kod": "33-113",
+    "poczta": "Zg\u0142obice\r"
+  }
+]

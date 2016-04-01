@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19250",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6873",
+    "miejscowosc": "Suchy Las",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Poziomkowa",
+    "numer": "11",
+    "kod": "62-002",
+    "poczta": "Suchy Las\r"
+  },
+  {
+    "id": "19248",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6873",
+    "miejscowosc": "Suchy Las",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "62-002",
+    "poczta": "Suchy Las\r"
+  }
+]

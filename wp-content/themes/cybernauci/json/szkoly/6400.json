@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18272",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6400",
+    "miejscowosc": "T\u0142okinia Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "T\u0142okinia Wielka",
+    "numer": "87",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18273",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6400",
+    "miejscowosc": "T\u0142okinia Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "T\u0142okinia Wielka",
+    "numer": "87",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  }
+]

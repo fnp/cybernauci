@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22432",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8112",
+    "miejscowosc": "Stany",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "37-433",
+    "poczta": "Bojan\u00f3w\r"
+  },
+  {
+    "id": "22433",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8112",
+    "miejscowosc": "Stany",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "37-433",
+    "poczta": "Bojan\u00f3w\r"
+  }
+]

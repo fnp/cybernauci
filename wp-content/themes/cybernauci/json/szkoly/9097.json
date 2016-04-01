@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24741",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9097",
+    "miejscowosc": "Bielany-Jaros\u0142awy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bielany-Jaros\u0142awy",
+    "numer": "65",
+    "kod": "08-311",
+    "poczta": "Bielany\r"
+  },
+  {
+    "id": "24742",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9097",
+    "miejscowosc": "Bielany-Jaros\u0142awy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bielany-Jaros\u0142awy",
+    "numer": "65",
+    "kod": "08-311",
+    "poczta": "Bielany\r"
+  }
+]

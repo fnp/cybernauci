@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9470",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3456",
+    "miejscowosc": "Damno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Reymonta",
+    "numer": "42",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  },
+  {
+    "id": "9471",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3456",
+    "miejscowosc": "Damno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Damno",
+    "numer": "42",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  }
+]

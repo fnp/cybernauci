@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24202",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8831",
+    "miejscowosc": "Krajkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krajkowo",
+    "numer": "8",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24203",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8831",
+    "miejscowosc": "Krajkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Chojnackiego",
+    "ulica": "Krajkowo",
+    "numer": "8",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  }
+]

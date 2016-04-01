@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4173",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1339",
+    "miejscowosc": "Serokomla",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Warszawska",
+    "numer": "28",
+    "kod": "21-413",
+    "poczta": "Serokomla\r"
+  },
+  {
+    "id": "4174",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1339",
+    "miejscowosc": "Serokomla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "28",
+    "kod": "21-413",
+    "poczta": "Serokomla\r"
+  }
+]

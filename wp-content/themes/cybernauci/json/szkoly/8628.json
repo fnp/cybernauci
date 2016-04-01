@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23747",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8628",
+    "miejscowosc": "Lipniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ks. Kan. E. Sierbi\u0144skiego",
+    "numer": "30",
+    "kod": "07-436",
+    "poczta": "Lipniki\r"
+  },
+  {
+    "id": "23748",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8628",
+    "miejscowosc": "Lipniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ks. Kan. E. Sierbi\u0144skiego ",
+    "numer": "30",
+    "kod": "07-436",
+    "poczta": "Lipniki\r"
+  }
+]

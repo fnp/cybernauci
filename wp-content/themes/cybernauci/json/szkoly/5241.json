@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14867",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5241",
+    "miejscowosc": "Kowary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Staszica",
+    "numer": "16",
+    "kod": "58-530",
+    "poczta": "Kowary\r"
+  },
+  {
+    "id": "14866",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5241",
+    "miejscowosc": "Kowary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "1 Maja",
+    "numer": "72",
+    "kod": "58-530",
+    "poczta": "Kowary\r"
+  },
+  {
+    "id": "14868",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5241",
+    "miejscowosc": "Kowary",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "58-530",
+    "poczta": "Kowary\r"
+  },
+  {
+    "id": "14869",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5241",
+    "miejscowosc": "Kowary",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "58-530",
+    "poczta": "Kowary\r"
+  }
+]

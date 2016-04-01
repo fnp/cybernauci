@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5894",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2073",
+    "miejscowosc": "Tymbark",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Samorz\u0105dowe",
+    "ulica": "Rynek 29",
+    "numer": "",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  },
+  {
+    "id": "5896",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2073",
+    "miejscowosc": "Tymbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tymbark",
+    "numer": "349",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  },
+  {
+    "id": "5891",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2073",
+    "miejscowosc": "Tymbark",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tymbark",
+    "numer": "354",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19796",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7119",
+    "miejscowosc": "Radawnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Miko\u0142aja Kopernika",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "77-400",
+    "poczta": "Z\u0142ot\u00f3w\r"
+  },
+  {
+    "id": "19795",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7119",
+    "miejscowosc": "Radawnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Uniwersytecka",
+    "numer": "6",
+    "kod": "77-400",
+    "poczta": "Z\u0142ot\u00f3w\r"
+  },
+  {
+    "id": "19797",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7119",
+    "miejscowosc": "Radawnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "77-400",
+    "poczta": "Z\u0142ot\u00f3w\r"
+  }
+]

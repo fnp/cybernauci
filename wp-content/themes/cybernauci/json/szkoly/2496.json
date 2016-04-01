@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6811",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2496",
+    "miejscowosc": "Stare \u017bukowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stare \u017bukowice",
+    "numer": "132 A",
+    "kod": "33-151",
+    "poczta": "Nowa Jastrz\u0105bka\r"
+  },
+  {
+    "id": "6812",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2496",
+    "miejscowosc": "Stare \u017bukowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I Armii Wojska Polskiego",
+    "ulica": "Stare \u017bukowice",
+    "numer": "132 A",
+    "kod": "33-151",
+    "poczta": "Nowa Jastrz\u0105bka\r"
+  }
+]

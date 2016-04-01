@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13871",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4991",
+    "miejscowosc": "Laskowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "3A",
+    "kod": "86-130",
+    "poczta": "Laskowice\r"
+  },
+  {
+    "id": "13870",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4991",
+    "miejscowosc": "Laskowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "86-131",
+    "poczta": "Je\u017cewo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7266",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2689",
+    "miejscowosc": "W\u0119grzce Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "W\u0119grzce Wielkie",
+    "numer": "518",
+    "kod": "32-002",
+    "poczta": "W\u0119grzce Wielkie\r"
+  },
+  {
+    "id": "7248",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2689",
+    "miejscowosc": "W\u0119grzce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "W\u0119grzce Wielkie",
+    "numer": "190",
+    "kod": "32-002",
+    "poczta": "W\u0119grzce Wielkie\r"
+  }
+]

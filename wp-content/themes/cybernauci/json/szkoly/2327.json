@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6405",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2327",
+    "miejscowosc": "Tylmanowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Kozielce",
+    "numer": "296",
+    "kod": "34-451",
+    "poczta": "Tylmanowa\r"
+  },
+  {
+    "id": "6403",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2327",
+    "miejscowosc": "Tylmanowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "os. Mastalerze",
+    "numer": "32B",
+    "kod": "34-451",
+    "poczta": "Tylmanowa\r"
+  },
+  {
+    "id": "6408",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2327",
+    "miejscowosc": "Tylmanowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjra Henryka Sucharskiego",
+    "ulica": "os. Kozielce",
+    "numer": "296",
+    "kod": "34-451",
+    "poczta": "Tylmanowa\r"
+  }
+]

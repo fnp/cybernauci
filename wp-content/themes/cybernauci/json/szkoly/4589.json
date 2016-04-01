@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12907",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4589",
+    "miejscowosc": "Dryga\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "12-230",
+    "poczta": "Bia\u0142a Piska\r"
+  },
+  {
+    "id": "12908",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4589",
+    "miejscowosc": "Dryga\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "12-230",
+    "poczta": "Bia\u0142a Piska\r"
+  }
+]

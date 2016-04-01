@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23775",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8640",
+    "miejscowosc": "Olszewo-Borki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dojazdowa",
+    "numer": "14a",
+    "kod": "07-415",
+    "poczta": "Olszewo - Borki\r"
+  },
+  {
+    "id": "23771",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8640",
+    "miejscowosc": "Olszewo-Borki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Broniewskiego",
+    "numer": "17",
+    "kod": "07-415",
+    "poczta": "Olszewo-Borki\r"
+  }
+]

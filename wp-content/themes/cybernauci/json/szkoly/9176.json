@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24909",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9176",
+    "miejscowosc": "Sadowne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. Edwarda Grzyma\u0142y",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "74",
+    "kod": "07-140",
+    "poczta": "Sadowne\r"
+  },
+  {
+    "id": "24911",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9176",
+    "miejscowosc": "Sadowne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. W\u0142. Orkana",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "74",
+    "kod": "07-140",
+    "poczta": "Sadowne\r"
+  },
+  {
+    "id": "24906",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9176",
+    "miejscowosc": "Sadowne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Czes\u0142awa Wycecha",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "72",
+    "kod": "07-140",
+    "poczta": "Sadowne\r"
+  },
+  {
+    "id": "24912",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9176",
+    "miejscowosc": "Sadowne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "74",
+    "kod": "07-140",
+    "poczta": "Sadowne\r"
+  },
+  {
+    "id": "24913",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9176",
+    "miejscowosc": "Sadowne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "74",
+    "kod": "07-140",
+    "poczta": "Sadowne\r"
+  }
+]

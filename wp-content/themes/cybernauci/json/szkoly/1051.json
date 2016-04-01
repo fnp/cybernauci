@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3626",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1051",
+    "miejscowosc": "B\u0142a\u017cek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "B\u0142a\u017cek",
+    "numer": "196",
+    "kod": "23-320",
+    "poczta": "Batorz\r"
+  },
+  {
+    "id": "3627",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1051",
+    "miejscowosc": "B\u0142a\u017cek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "B\u0142a\u017cek",
+    "numer": "196",
+    "kod": "23-320",
+    "poczta": "Batorz\r"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12196",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Konarskiego",
+    "numer": "15",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12197",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Moniuszki",
+    "numer": "22 D",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12198",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sikorskiego",
+    "numer": "15",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12199",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wiejska",
+    "numer": "2",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12193",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "PCK",
+    "numer": "4",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12194",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5 ",
+    "ulica": "Moniuszki",
+    "numer": "22A",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12195",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 6 im. Jana Paw\u0142a II",
+    "ulica": "Konarskiego",
+    "numer": "13",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12200",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wiejska",
+    "numer": "2",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12201",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Gda\u0144ska",
+    "numer": "19",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  },
+  {
+    "id": "12202",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4264",
+    "miejscowosc": "Braniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Gda\u0144ska",
+    "numer": "19",
+    "kod": "14-500",
+    "poczta": "Braniewo\r"
+  }
+]

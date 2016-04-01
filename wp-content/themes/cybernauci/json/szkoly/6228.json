@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17904",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6228",
+    "miejscowosc": "Romanowo Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Romanowo Dolne",
+    "numer": "123",
+    "kod": "64-700",
+    "poczta": "Czarnk\u00f3w\r"
+  },
+  {
+    "id": "17905",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6228",
+    "miejscowosc": "Romanowo Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Romanowo Dolne",
+    "numer": "124",
+    "kod": "64-700",
+    "poczta": "Czarnk\u00f3w\r"
+  }
+]

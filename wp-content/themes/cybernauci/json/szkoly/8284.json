@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22994",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8284",
+    "miejscowosc": "Maciejowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "19",
+    "kod": "08-480",
+    "poczta": "Maciejowice\r"
+  },
+  {
+    "id": "22996",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8284",
+    "miejscowosc": "Maciejowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ks. Grzegorza Piramowicza",
+    "numer": "1 A",
+    "kod": "08-480",
+    "poczta": "Maciejowice\r"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "11503",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11511",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza ",
+    "ulica": "Baczewskiego",
+    "numer": "20",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11508",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zachodnia",
+    "numer": "4",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11512",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Stowarzyszenia O\u015bwiatowego im. Ignacego \u0141ukasiewicza",
+    "ulica": "Baczewskiego",
+    "numer": "20",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11504",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce \"KONSUL\"",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11495",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "10",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11497",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "J. S\u0142owackiego",
+    "numer": "21",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11509",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Zachodnia",
+    "numer": "4",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11510",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4097",
+    "miejscowosc": "D\u0119bno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zachodnia",
+    "numer": "4",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  }
+]

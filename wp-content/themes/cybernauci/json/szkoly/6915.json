@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19347",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6915",
+    "miejscowosc": "Powidz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Park Powsta\u0144c\u00f3w Wlkp.",
+    "numer": "1",
+    "kod": "62-430",
+    "poczta": "Powidz\r"
+  },
+  {
+    "id": "19348",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6915",
+    "miejscowosc": "Powidz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Park Powsta\u0144c\u00f3w Wlkp.",
+    "numer": "1",
+    "kod": "62-430",
+    "poczta": "Powidz\r"
+  }
+]

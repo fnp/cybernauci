@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6344",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2295",
+    "miejscowosc": "Zubrzyca Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zubrzyca Dolna",
+    "numer": "257",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  },
+  {
+    "id": "6345",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2295",
+    "miejscowosc": "Zubrzyca Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zubrzyca Dolna",
+    "numer": "257",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  }
+]

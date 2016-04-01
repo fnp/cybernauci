@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6063",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2152",
+    "miejscowosc": "Biczyce Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. s. Czes\u0142awy Lorek",
+    "ulica": "Biczyce Dolne",
+    "numer": "30",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  },
+  {
+    "id": "6064",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2152",
+    "miejscowosc": "Biczyce Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. s. Czes\u0142awy Lorek",
+    "ulica": "Biczyce Dolne",
+    "numer": "30",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  }
+]

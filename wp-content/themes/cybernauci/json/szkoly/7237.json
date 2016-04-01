@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20452",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7237",
+    "miejscowosc": "G\u00f3rki Noteckie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Cmentarna",
+    "numer": "5",
+    "kod": "66-542",
+    "poczta": "Zwierzyn\r"
+  },
+  {
+    "id": "20453",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7237",
+    "miejscowosc": "G\u00f3rki Noteckie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Cmentarna",
+    "numer": "5",
+    "kod": "66-542",
+    "poczta": "Zwierzyn\r"
+  }
+]

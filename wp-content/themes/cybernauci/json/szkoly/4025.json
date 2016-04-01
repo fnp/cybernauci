@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11338",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4025",
+    "miejscowosc": "Ko\u0142bacz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cysterc\u00f3w",
+    "numer": "9",
+    "kod": "74-106",
+    "poczta": "Stare Czarnowo\r"
+  },
+  {
+    "id": "11339",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4025",
+    "miejscowosc": "Ko\u0142bacz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cysterc\u00f3w",
+    "numer": "9",
+    "kod": "74-106",
+    "poczta": "Stare Czarnowo\r"
+  }
+]

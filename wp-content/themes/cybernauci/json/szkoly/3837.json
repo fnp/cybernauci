@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10687",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3837",
+    "miejscowosc": "Sidra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-124",
+    "poczta": "Sidra\r"
+  },
+  {
+    "id": "10688",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3837",
+    "miejscowosc": "Sidra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-124",
+    "poczta": "Sidra\r"
+  }
+]

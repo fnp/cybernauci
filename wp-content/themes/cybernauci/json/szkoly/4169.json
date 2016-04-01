@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11696",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4169",
+    "miejscowosc": "I\u0144sko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Poprzeczna",
+    "numer": "1",
+    "kod": "73-140",
+    "poczta": "I\u0144sko\r"
+  },
+  {
+    "id": "11697",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4169",
+    "miejscowosc": "I\u0144sko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Poprzeczna",
+    "numer": "1",
+    "kod": "73-140",
+    "poczta": "I\u0144sko\r"
+  }
+]

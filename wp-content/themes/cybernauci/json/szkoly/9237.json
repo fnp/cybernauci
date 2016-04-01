@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25070",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9237",
+    "miejscowosc": "Stare Bosewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rozwojowa",
+    "numer": "19",
+    "kod": "07-210",
+    "poczta": "D\u0142ugosiod\u0142o\r"
+  },
+  {
+    "id": "25071",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9237",
+    "miejscowosc": "Stare Bosewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rozwojowa",
+    "numer": "19",
+    "kod": "07-210",
+    "poczta": "D\u0142ugosiod\u0142o\r"
+  }
+]

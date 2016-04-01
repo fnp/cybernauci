@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13852",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4978",
+    "miejscowosc": "P\u0119perzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0119perzyn",
+    "numer": "33",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13853",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4978",
+    "miejscowosc": "P\u0119perzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0119perzyn",
+    "numer": "33",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  }
+]

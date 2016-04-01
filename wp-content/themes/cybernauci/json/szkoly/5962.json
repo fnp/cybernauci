@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16933",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5962",
+    "miejscowosc": "\u017bytno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. K. I. Ga\u0142czy\u0144skiego",
+    "ulica": "Ogrodowa",
+    "numer": "16",
+    "kod": "97-532",
+    "poczta": "\u017bytno\r"
+  },
+  {
+    "id": "16930",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5962",
+    "miejscowosc": "\u017bytno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Ogrodowa",
+    "numer": "16",
+    "kod": "97-532",
+    "poczta": "\u017bytno\r"
+  }
+]

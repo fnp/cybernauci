@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3713",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1085",
+    "miejscowosc": "Or\u0142\u00f3w Drewniany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II Papie\u017ca",
+    "ulica": "Or\u0142\u00f3w Drewniany",
+    "numer": "60a",
+    "kod": "22-375",
+    "poczta": "Izbica\r"
+  },
+  {
+    "id": "3714",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1085",
+    "miejscowosc": "Or\u0142\u00f3w Drewniany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II Papie\u017ca",
+    "ulica": "Or\u0142\u00f3w Drewniany",
+    "numer": "60a",
+    "kod": "22-375",
+    "poczta": "Izbica\r"
+  }
+]

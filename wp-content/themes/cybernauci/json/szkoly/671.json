@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1520",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "671",
+    "miejscowosc": "Pietrowice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Marii Konopnickiej",
+    "numer": "28",
+    "kod": "47-480",
+    "poczta": "Pietrowice Wielkie\r"
+  },
+  {
+    "id": "1521",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "671",
+    "miejscowosc": "Pietrowice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Marii Konopnickiej",
+    "numer": "28",
+    "kod": "47-480",
+    "poczta": "Pietrowice Wielkie\r"
+  }
+]

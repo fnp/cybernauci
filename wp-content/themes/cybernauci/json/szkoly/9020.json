@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24568",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9020",
+    "miejscowosc": "\u017belk\u00f3w-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "202",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24569",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9020",
+    "miejscowosc": "\u017belk\u00f3w-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "202",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  }
+]

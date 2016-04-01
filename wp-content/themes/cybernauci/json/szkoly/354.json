@@ -1,0 +1,26 @@
+[
+  {
+    "id": "812",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "354",
+    "miejscowosc": "Rudzica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Im. Jana Paw\u0142a II ",
+    "ulica": "Rudzica",
+    "numer": "52",
+    "kod": "43-394",
+    "poczta": "Rudzica\r"
+  },
+  {
+    "id": "821",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "354",
+    "miejscowosc": "Rudzica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rudzica",
+    "numer": "52",
+    "kod": "43-394",
+    "poczta": "Rudzica\r"
+  }
+]

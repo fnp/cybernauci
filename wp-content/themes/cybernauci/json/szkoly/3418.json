@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9389",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3418",
+    "miejscowosc": "Stegna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Powsta\u0144c\u00f3w Warszawy",
+    "numer": "2",
+    "kod": "82-103",
+    "poczta": "Stegna\r"
+  },
+  {
+    "id": "9390",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3418",
+    "miejscowosc": "Stegna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Powsta\u0144c\u00f3w Warszawy",
+    "numer": "2",
+    "kod": "82-103",
+    "poczta": "Stegna\r"
+  }
+]

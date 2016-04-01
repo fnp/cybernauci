@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4449",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1473",
+    "miejscowosc": "Komar\u00f3wka Podlaska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "I Armii Wojska Polskiego",
+    "numer": "7",
+    "kod": "21-311",
+    "poczta": "Komar\u00f3wka Podlaska\r"
+  },
+  {
+    "id": "4450",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1473",
+    "miejscowosc": "Komar\u00f3wka Podlaska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Waleriana Batki",
+    "numer": "20",
+    "kod": "21-311",
+    "poczta": "Komar\u00f3wka Podlaska\r"
+  },
+  {
+    "id": "4451",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1473",
+    "miejscowosc": "Komar\u00f3wka Podlaska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "I Armii Wojska Polskiego",
+    "numer": "7",
+    "kod": "21-311",
+    "poczta": "Komar\u00f3wka Podlaska\r"
+  },
+  {
+    "id": "4452",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1473",
+    "miejscowosc": "Komar\u00f3wka Podlaska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Waleriana Batki",
+    "numer": "20",
+    "kod": "21-311",
+    "poczta": "Komar\u00f3wka Podlaska\r"
+  },
+  {
+    "id": "4453",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1473",
+    "miejscowosc": "Komar\u00f3wka Podlaska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Waleriana Batki",
+    "numer": "20",
+    "kod": "21-311",
+    "poczta": "Komar\u00f3wka Podlaska\r"
+  }
+]

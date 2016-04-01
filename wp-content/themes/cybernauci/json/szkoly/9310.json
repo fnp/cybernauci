@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25251",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9310",
+    "miejscowosc": "Radziejowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. E. hr. Krasi\u0144skiego",
+    "ulica": "Kubickiego",
+    "numer": "3a",
+    "kod": "96-325",
+    "poczta": "Radziejowice\r"
+  },
+  {
+    "id": "25248",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9310",
+    "miejscowosc": "Radziejowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Rdzanowskiego",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "2",
+    "kod": "96-325",
+    "poczta": "Radziejowice\r"
+  }
+]

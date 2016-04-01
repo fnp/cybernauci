@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21655",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7747",
+    "miejscowosc": "Stary Dzik\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. ks. Jana Twardowskiego Gimnazjum Publiczne",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "83",
+    "kod": "37-632",
+    "poczta": "Stary Dzik\u00f3w\r"
+  },
+  {
+    "id": "21656",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7747",
+    "miejscowosc": "Stary Dzik\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. ks. Jana Twardowskiego Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "83",
+    "kod": "37-632",
+    "poczta": "Stary Dzik\u00f3w\r"
+  }
+]

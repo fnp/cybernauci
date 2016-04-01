@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5824",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2037",
+    "miejscowosc": "Laskowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Laskowa",
+    "numer": "2",
+    "kod": "34-602",
+    "poczta": "Laskowa\r"
+  },
+  {
+    "id": "5825",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2037",
+    "miejscowosc": "Laskowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Laskowa",
+    "numer": "2",
+    "kod": "34-602",
+    "poczta": "Laskowa\r"
+  },
+  {
+    "id": "6635",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2037",
+    "miejscowosc": "Laskowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Laskowa",
+    "numer": "3",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5393",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1811",
+    "miejscowosc": "Grusz\u00f3w Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Grusz\u00f3w Wielki",
+    "numer": "210",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5395",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1811",
+    "miejscowosc": "Grusz\u00f3w Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3 ",
+    "ulica": "Grusz\u00f3w Wielki",
+    "numer": "210",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  }
+]

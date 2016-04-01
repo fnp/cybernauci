@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4714",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1601",
+    "miejscowosc": "Korol\u00f3wka-Osada",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Korol\u00f3wka-Osada",
+    "numer": "3",
+    "kod": "22-200",
+    "poczta": "W\u0142odawa\r"
+  },
+  {
+    "id": "4715",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1601",
+    "miejscowosc": "Korol\u00f3wka-Osada",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Korol\u00f3wka-Osada",
+    "numer": "3",
+    "kod": "22-200",
+    "poczta": "W\u0142odawa\r"
+  }
+]

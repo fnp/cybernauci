@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7115",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2634",
+    "miejscowosc": "Jaszczurowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Janiny Barbary G\u00f3rkiewiczowej",
+    "ulica": "Jaszczurowa",
+    "numer": "255",
+    "kod": "34-106",
+    "poczta": "Mucharz\r"
+  },
+  {
+    "id": "7116",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2634",
+    "miejscowosc": "Jaszczurowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jaszczurowa",
+    "numer": "255",
+    "kod": "34-106",
+    "poczta": "Mucharz\r"
+  }
+]

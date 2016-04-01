@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20619",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7323",
+    "miejscowosc": "\u0141\u0119knica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "19",
+    "kod": "68-208",
+    "poczta": "\u0141\u0119knica\r"
+  },
+  {
+    "id": "20620",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7323",
+    "miejscowosc": "\u0141\u0119knica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy ",
+    "ulica": "Wojska Polskiego",
+    "numer": "19",
+    "kod": "68-208",
+    "poczta": "\u0141\u0119knica\r"
+  }
+]

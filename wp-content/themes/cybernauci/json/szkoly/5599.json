@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15789",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5599",
+    "miejscowosc": "Pie\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ojca Micha\u0142a Tomaszka",
+    "ulica": "Zgorzelecka",
+    "numer": "29",
+    "kod": "59-930",
+    "poczta": "Pie\u0144sk\r"
+  },
+  {
+    "id": "15787",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5599",
+    "miejscowosc": "Pie\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "59-930",
+    "poczta": "Pie\u0144sk\r"
+  }
+]

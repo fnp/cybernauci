@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24823",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8969",
+    "miejscowosc": "Laski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Brzozowa",
+    "numer": "75",
+    "kod": "05-080",
+    "poczta": "Izabelin\r"
+  },
+  {
+    "id": "24494",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8969",
+    "miejscowosc": "Laski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Laski",
+    "numer": "68",
+    "kod": "26-670",
+    "poczta": "Pionki\r"
+  },
+  {
+    "id": "24824",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8969",
+    "miejscowosc": "Laski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Masa\u017cu",
+    "ulica": "Brzozowa",
+    "numer": "75",
+    "kod": "05-080",
+    "poczta": "Izabelin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3459",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "951",
+    "miejscowosc": "Obsza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Obsza",
+    "numer": "70a",
+    "kod": "23-413",
+    "poczta": "Obsza\r"
+  },
+  {
+    "id": "3457",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "951",
+    "miejscowosc": "Obsza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Obsza",
+    "numer": "70a",
+    "kod": "23-413",
+    "poczta": "Obsza\r"
+  }
+]

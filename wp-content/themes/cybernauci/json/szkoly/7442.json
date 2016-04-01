@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21047",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7442",
+    "miejscowosc": "Nagawczyna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kardyna\u0142a S. Wyszy\u0144skiego",
+    "ulica": "Nagawczyna",
+    "numer": "109e",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21048",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7442",
+    "miejscowosc": "Nagawczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nagawczyna",
+    "numer": "109e",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  }
+]

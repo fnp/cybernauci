@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4762",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1630",
+    "miejscowosc": "Radecznica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Gwarna",
+    "numer": "4",
+    "kod": "22-463",
+    "poczta": "Radecznica\r"
+  },
+  {
+    "id": "4761",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1630",
+    "miejscowosc": "Radecznica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "B. Prusa",
+    "numer": "65A",
+    "kod": "22-463",
+    "poczta": "Radecznica\r"
+  }
+]

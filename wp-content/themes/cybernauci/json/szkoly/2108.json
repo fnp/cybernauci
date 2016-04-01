@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5973",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2108",
+    "miejscowosc": "Krzyszkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Krzyszkowice",
+    "numer": "368",
+    "kod": "32-445",
+    "poczta": "Krzyszkowice\r"
+  },
+  {
+    "id": "5966",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2108",
+    "miejscowosc": "Krzyszkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Krzyszkowice",
+    "numer": "368",
+    "kod": "32-445",
+    "poczta": "Krzyszkowice\r"
+  }
+]

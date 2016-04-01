@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13860",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4980",
+    "miejscowosc": "Bukowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bukowiec",
+    "numer": "32",
+    "kod": "86-122",
+    "poczta": "Bukowiec\r"
+  },
+  {
+    "id": "13858",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4980",
+    "miejscowosc": "Bukowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 16. Pu\u0142ku U\u0142an\u00f3w Wielkopolskich",
+    "ulica": "Dworcowa",
+    "numer": "26",
+    "kod": "86-122",
+    "poczta": "Bukowiec\r"
+  }
+]

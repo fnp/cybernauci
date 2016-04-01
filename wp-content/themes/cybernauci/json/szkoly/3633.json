@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10288",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3633",
+    "miejscowosc": "Sztabin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Augustowska",
+    "numer": "82",
+    "kod": "16-310",
+    "poczta": "Sztabin\r"
+  },
+  {
+    "id": "10289",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3633",
+    "miejscowosc": "Sztabin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Brzostowskiego",
+    "ulica": "Augustowska",
+    "numer": "82",
+    "kod": "16-310",
+    "poczta": "Sztabin\r"
+  }
+]

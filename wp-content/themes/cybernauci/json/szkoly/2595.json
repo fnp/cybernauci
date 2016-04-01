@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7021",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2595",
+    "miejscowosc": "Bia\u0142ka Tatrza\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015arodkowa",
+    "numer": "184",
+    "kod": "34-405",
+    "poczta": "Bia\u0142ka Tatrza\u0144ska\r"
+  },
+  {
+    "id": "7022",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2595",
+    "miejscowosc": "Bia\u0142ka Tatrza\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u017bo\u0142nierzy Wojsk Ochrony Pogranicza",
+    "ulica": "\u015arodkowa",
+    "numer": "184",
+    "kod": "34-405",
+    "poczta": "Bia\u0142ka Tatrza\u0144ska\r"
+  }
+]

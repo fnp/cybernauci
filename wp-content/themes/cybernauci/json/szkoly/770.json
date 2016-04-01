@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1851",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "770",
+    "miejscowosc": "Rokitno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rokitno",
+    "numer": "34",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1852",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "770",
+    "miejscowosc": "Rokitno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rokitno",
+    "numer": "34",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  }
+]

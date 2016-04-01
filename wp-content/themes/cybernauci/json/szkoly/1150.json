@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3833",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1150",
+    "miejscowosc": "Sul\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Sul\u00f3w",
+    "numer": "75",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  },
+  {
+    "id": "3832",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1150",
+    "miejscowosc": "Sul\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum im. Ks. Jerzego Popie\u0142uszki",
+    "ulica": "Sul\u00f3w",
+    "numer": "75",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  }
+]

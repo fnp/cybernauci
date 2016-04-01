@@ -1,0 +1,62 @@
+[
+  {
+    "id": "13266",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4690",
+    "miejscowosc": "Jab\u0142onowo Pomorskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "S\u0142oneczna",
+    "numer": "2",
+    "kod": "87-330",
+    "poczta": "Jab\u0142onowo Pomorskie\r"
+  },
+  {
+    "id": "13267",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4690",
+    "miejscowosc": "Jab\u0142onowo Pomorskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nowy Rynek",
+    "numer": "5",
+    "kod": "87-330",
+    "poczta": "Jab\u0142onowo Pomorskie\r"
+  },
+  {
+    "id": "13263",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4690",
+    "miejscowosc": "Jab\u0142onowo Pomorskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "8",
+    "kod": "87-330",
+    "poczta": "Jab\u0142onowo Pomorskie\r"
+  },
+  {
+    "id": "13268",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4690",
+    "miejscowosc": "Jab\u0142onowo Pomorskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nowy Rynek",
+    "numer": "5",
+    "kod": "87-330",
+    "poczta": "Jab\u0142onowo Pomorskie\r"
+  },
+  {
+    "id": "13269",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4690",
+    "miejscowosc": "Jab\u0142onowo Pomorskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nowy Rynek",
+    "numer": "5",
+    "kod": "87-330",
+    "poczta": "Jab\u0142onowo Pomorskie\r"
+  }
+]

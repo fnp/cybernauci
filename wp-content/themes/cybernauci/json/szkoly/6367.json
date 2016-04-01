@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18221",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6367",
+    "miejscowosc": "Jank\u00f3w Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jank\u00f3w Pierwszy",
+    "numer": "78",
+    "kod": "62-814",
+    "poczta": "Blizan\u00f3w\r"
+  },
+  {
+    "id": "18222",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6367",
+    "miejscowosc": "Jank\u00f3w Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jank\u00f3w Pierwszy",
+    "numer": "78",
+    "kod": "62-814",
+    "poczta": "Blizan\u00f3w\r"
+  }
+]

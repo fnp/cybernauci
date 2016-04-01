@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9205",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3345",
+    "miejscowosc": "Wielki Podle\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. kontradmira\u0142a Xawerego Czernickiego",
+    "ulica": "Wielki Podle\u015b",
+    "numer": "",
+    "kod": "83-423",
+    "poczta": "Wielki Klincz\r"
+  },
+  {
+    "id": "9206",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3345",
+    "miejscowosc": "Wielki Podle\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kontradmira\u0142a Xawerego Czernickiego",
+    "ulica": "Wielki Podle\u015b",
+    "numer": "",
+    "kod": "83-423",
+    "poczta": "Wielki Klincz\r"
+  }
+]

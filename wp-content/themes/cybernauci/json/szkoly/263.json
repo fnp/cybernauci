@@ -1,0 +1,50 @@
+[
+  {
+    "id": "526",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "263",
+    "miejscowosc": "Tu\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gen. \u015awierczewskiego",
+    "numer": "21",
+    "kod": "49-130",
+    "poczta": "Tu\u0142owice\r"
+  },
+  {
+    "id": "528",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "263",
+    "miejscowosc": "Tu\u0142owice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zamkowa",
+    "numer": "15",
+    "kod": "49-130",
+    "poczta": "Tu\u0142owice\r"
+  },
+  {
+    "id": "529",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "263",
+    "miejscowosc": "Tu\u0142owice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum Le\u015bne",
+    "ulica": "Zamkowa",
+    "numer": "15",
+    "kod": "49-130",
+    "poczta": "Tu\u0142owice\r"
+  },
+  {
+    "id": "527",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "263",
+    "miejscowosc": "Tu\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gen. \u015awierczewskiego",
+    "numer": "21",
+    "kod": "49-130",
+    "poczta": "Tu\u0142owice\r"
+  }
+]

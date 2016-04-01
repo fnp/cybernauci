@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11535",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4114",
+    "miejscowosc": "Do\u0142uje",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Daniela",
+    "numer": "18",
+    "kod": "72-002",
+    "poczta": "Do\u0142uje\r"
+  },
+  {
+    "id": "11536",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4114",
+    "miejscowosc": "Do\u0142uje",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Daniela",
+    "numer": "18",
+    "kod": "72-002",
+    "poczta": "Do\u0142uje\r"
+  }
+]

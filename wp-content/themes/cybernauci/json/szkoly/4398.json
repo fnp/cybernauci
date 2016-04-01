@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12508",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4398",
+    "miejscowosc": "Drogosze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Drogosze",
+    "numer": "40",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  },
+  {
+    "id": "12509",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4398",
+    "miejscowosc": "Drogosze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Drogosze",
+    "numer": "40",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  }
+]

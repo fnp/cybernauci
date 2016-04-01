@@ -1,0 +1,26 @@
+[
+  {
+    "id": "834",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "363",
+    "miejscowosc": "Czaniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kardyna\u0142a Karola Wojty\u0142y",
+    "numer": "119",
+    "kod": "43-354",
+    "poczta": "Czaniec\r"
+  },
+  {
+    "id": "831",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "363",
+    "miejscowosc": "Czaniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "kard. K. Wojty\u0142y",
+    "numer": "32",
+    "kod": "43-354",
+    "poczta": "Czaniec\r"
+  }
+]

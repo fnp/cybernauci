@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4216",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1368",
+    "miejscowosc": "Wojcieszk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "21-411",
+    "poczta": "Wojcieszk\u00f3w\r"
+  },
+  {
+    "id": "4217",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1368",
+    "miejscowosc": "Wojcieszk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "21-411",
+    "poczta": "Wojcieszk\u00f3w\r"
+  }
+]

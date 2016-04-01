@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20713",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7356",
+    "miejscowosc": "Szlichtyngowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "16",
+    "kod": "67-407",
+    "poczta": "Szlichtyngowa\r"
+  },
+  {
+    "id": "20714",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7356",
+    "miejscowosc": "Szlichtyngowa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek Edukacyjnych",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "16",
+    "kod": "67-407",
+    "poczta": "Szlichtyngowa\r"
+  }
+]

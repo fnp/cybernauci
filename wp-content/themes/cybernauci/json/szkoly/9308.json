@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25245",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9308",
+    "miejscowosc": "Bartniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Miodowa",
+    "numer": "47",
+    "kod": "96-332",
+    "poczta": "Radziwi\u0142\u0142\u00f3w\r"
+  },
+  {
+    "id": "25246",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9308",
+    "miejscowosc": "Bartniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Miodowa",
+    "numer": "47",
+    "kod": "96-332",
+    "poczta": "Radziwi\u0142\u0142\u00f3w\r"
+  }
+]

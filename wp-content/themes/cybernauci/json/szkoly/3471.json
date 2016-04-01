@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9499",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3471",
+    "miejscowosc": "Korzybie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "6",
+    "kod": "77-231",
+    "poczta": "Korzybie\r"
+  },
+  {
+    "id": "9500",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3471",
+    "miejscowosc": "Korzybie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dworcowa",
+    "numer": "6",
+    "kod": "77-231",
+    "poczta": "Korzybie\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15266",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "3",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  },
+  {
+    "id": "15267",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  },
+  {
+    "id": "15260",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Matejki",
+    "numer": "5",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  },
+  {
+    "id": "15261",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  },
+  {
+    "id": "15268",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "42",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  },
+  {
+    "id": "15269",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5397",
+    "miejscowosc": "Syc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "42",
+    "kod": "56-500",
+    "poczta": "Syc\u00f3w\r"
+  }
+]

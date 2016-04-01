@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20941",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7399",
+    "miejscowosc": "Dydnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Zespole Szk\u00f3\u0142",
+    "ulica": "Dydnia",
+    "numer": "221",
+    "kod": "36-204",
+    "poczta": "Dydnia\r"
+  },
+  {
+    "id": "20942",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7399",
+    "miejscowosc": "Dydnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tej Kr\u00f3lowej Jadwigi w Zespole Szk\u00f3\u0142",
+    "ulica": "Dydnia",
+    "numer": "221",
+    "kod": "36-204",
+    "poczta": "Dydnia\r"
+  }
+]

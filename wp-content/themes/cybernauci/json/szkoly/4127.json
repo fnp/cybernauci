@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11575",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4127",
+    "miejscowosc": "Lipiany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "74-240",
+    "poczta": "Lipiany\r"
+  },
+  {
+    "id": "11576",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4127",
+    "miejscowosc": "Lipiany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "74-240",
+    "poczta": "Lipiany\r"
+  },
+  {
+    "id": "11577",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4127",
+    "miejscowosc": "Lipiany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "74-240",
+    "poczta": "Lipiany\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10483",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3726",
+    "miejscowosc": "Kleszczele",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Plac Parkowy",
+    "numer": "4",
+    "kod": "17-250",
+    "poczta": "Kleszczele\r"
+  },
+  {
+    "id": "10484",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3726",
+    "miejscowosc": "Kleszczele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Plac Parkowy",
+    "numer": "4",
+    "kod": "17-250",
+    "poczta": "Kleszczele\r"
+  }
+]

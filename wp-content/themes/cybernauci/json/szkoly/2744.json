@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8116",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2744",
+    "miejscowosc": "Rak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "\u0141agowska",
+    "numer": "25",
+    "kod": "26-035",
+    "poczta": "Rak\u00f3w\r"
+  },
+  {
+    "id": "7847",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2744",
+    "miejscowosc": "Rak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rak\u00f3w",
+    "numer": "45",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  },
+  {
+    "id": "8117",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2744",
+    "miejscowosc": "Rak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Jana Sienie\u0144skiego",
+    "numer": "20",
+    "kod": "26-035",
+    "poczta": "Rak\u00f3w\r"
+  }
+]

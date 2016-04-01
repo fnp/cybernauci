@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21940",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7888",
+    "miejscowosc": "Krzywcza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Krzywcza",
+    "numer": "97",
+    "kod": "37-755",
+    "poczta": "Krzywcza\r"
+  },
+  {
+    "id": "21941",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7888",
+    "miejscowosc": "Krzywcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krzywcza",
+    "numer": "97",
+    "kod": "37-755",
+    "poczta": "Krzywcza\r"
+  }
+]

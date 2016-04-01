@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24570",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9021",
+    "miejscowosc": "Bia\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bia\u0142ki",
+    "numer": "95",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24571",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9021",
+    "miejscowosc": "Bia\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142ki",
+    "numer": "95",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  }
+]

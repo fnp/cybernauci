@@ -1,0 +1,62 @@
+[
+  {
+    "id": "389",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "184",
+    "miejscowosc": "Dobrodzie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Oleska",
+    "numer": "7",
+    "kod": "46-380",
+    "poczta": "Dobrodzie\u0144\r"
+  },
+  {
+    "id": "383",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "184",
+    "miejscowosc": "Dobrodzie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Piastowska",
+    "numer": "49",
+    "kod": "46-380",
+    "poczta": "Dobrodzie\u0144\r"
+  },
+  {
+    "id": "387",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "184",
+    "miejscowosc": "Dobrodzie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Piastowska",
+    "numer": "17",
+    "kod": "46-380",
+    "poczta": "Dobrodzie\u0144\r"
+  },
+  {
+    "id": "390",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "184",
+    "miejscowosc": "Dobrodzie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technika 4-letnie po gimnazjum",
+    "ulica": "Oleska",
+    "numer": "7",
+    "kod": "46-380",
+    "poczta": "Dobrodzie\u0144\r"
+  },
+  {
+    "id": "391",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "184",
+    "miejscowosc": "Dobrodzie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Oleska",
+    "numer": "7",
+    "kod": "46-380",
+    "poczta": "Dobrodzie\u0144\r"
+  }
+]

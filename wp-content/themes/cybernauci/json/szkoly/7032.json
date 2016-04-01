@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19608",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7032",
+    "miejscowosc": "Go\u0142a\u0144cz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. dra Piotra Kowalika",
+    "ulica": "Klasztorna",
+    "numer": "3",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  },
+  {
+    "id": "19609",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7032",
+    "miejscowosc": "Go\u0142a\u0144cz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. pp\u0142ka W\u0142odzimierza Kowalskiego",
+    "ulica": "Klasztorna",
+    "numer": "3",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  },
+  {
+    "id": "19610",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7032",
+    "miejscowosc": "Go\u0142a\u0144cz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Walki M\u0142odych",
+    "numer": "35",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  },
+  {
+    "id": "19611",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7032",
+    "miejscowosc": "Go\u0142a\u0144cz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Walki M\u0142odych",
+    "numer": "35",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  }
+]

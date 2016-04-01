@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5492",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1850",
+    "miejscowosc": "Dominikowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dominikowice",
+    "numer": "50",
+    "kod": "38-303",
+    "poczta": "Kobylanka\r"
+  },
+  {
+    "id": "5493",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1850",
+    "miejscowosc": "Dominikowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dominikowice",
+    "numer": "50",
+    "kod": "38-303",
+    "poczta": "Kobylanka\r"
+  }
+]

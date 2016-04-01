@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11553",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4120",
+    "miejscowosc": "Prz\u0119socin",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa \u00c9LAN VITAL",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "72-010",
+    "poczta": "Police\r"
+  },
+  {
+    "id": "11547",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4120",
+    "miejscowosc": "Prz\u0119socin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 Szko\u0142a Filialna ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "72-010",
+    "poczta": "Police\r"
+  }
+]

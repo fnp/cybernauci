@@ -1,0 +1,26 @@
+[
+  {
+    "id": "516",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "257",
+    "miejscowosc": "Zimnice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "46-061",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  },
+  {
+    "id": "517",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "257",
+    "miejscowosc": "Zimnice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "46-061",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  }
+]

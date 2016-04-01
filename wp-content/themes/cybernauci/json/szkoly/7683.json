@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21533",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7683",
+    "miejscowosc": "Kr\u00f3lik Polski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bieszczadzka",
+    "numer": "137",
+    "kod": "38-481",
+    "poczta": "Ryman\u00f3w Zdr\u00f3j\r"
+  },
+  {
+    "id": "21534",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7683",
+    "miejscowosc": "Kr\u00f3lik Polski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bieszczadzka",
+    "numer": "137",
+    "kod": "38-481",
+    "poczta": "Ryman\u00f3w Zdr\u00f3j\r"
+  }
+]

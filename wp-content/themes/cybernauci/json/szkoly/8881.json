@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24337",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8881",
+    "miejscowosc": "Borkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Janusza \u0141\u0105ckiego",
+    "ulica": "Ks. Jana Wi\u015bniewskiego",
+    "numer": "8",
+    "kod": "26-422",
+    "poczta": "Borkowice\r"
+  },
+  {
+    "id": "24339",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8881",
+    "miejscowosc": "Borkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Ks. Jana Wi\u015bniewskiego",
+    "numer": "8",
+    "kod": "26-422",
+    "poczta": "Borkowice\r"
+  },
+  {
+    "id": "24342",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8881",
+    "miejscowosc": "Borkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Platanowa",
+    "numer": "1",
+    "kod": "26-422",
+    "poczta": "Borkowice\r"
+  }
+]

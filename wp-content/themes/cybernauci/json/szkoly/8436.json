@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23318",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8436",
+    "miejscowosc": "\u0141ajski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "63",
+    "kod": "05-119",
+    "poczta": "Legionowo\r"
+  },
+  {
+    "id": "23319",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8436",
+    "miejscowosc": "\u0141ajski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "63",
+    "kod": "05-119",
+    "poczta": "Legionowo\r"
+  }
+]

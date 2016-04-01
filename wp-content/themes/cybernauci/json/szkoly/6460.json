@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18391",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6460",
+    "miejscowosc": "W\u00f3lka Czepowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "W\u00f3lka Czepowa",
+    "numer": "33",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18386",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6460",
+    "miejscowosc": "W\u00f3lka Czepowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "W\u00f3lka Czepowa",
+    "numer": "33",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  }
+]

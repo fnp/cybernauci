@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1167",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "521",
+    "miejscowosc": "Libidza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Olszy\u0144skiego",
+    "numer": "2",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  },
+  {
+    "id": "1168",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "521",
+    "miejscowosc": "Libidza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszy\u0144skiego",
+    "numer": "2",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  }
+]

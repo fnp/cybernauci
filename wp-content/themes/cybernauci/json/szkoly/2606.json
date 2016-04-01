@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7043",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2606",
+    "miejscowosc": "Z\u0105b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Z\u0105b",
+    "numer": "6:00 AM",
+    "kod": "34-521",
+    "poczta": "Z\u0105b\r"
+  },
+  {
+    "id": "7044",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2606",
+    "miejscowosc": "Z\u0105b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Heleny Marusarz\u00f3wny",
+    "ulica": "Z\u0105b",
+    "numer": "6:00 AM",
+    "kod": "34-521",
+    "poczta": "Z\u0105b\r"
+  }
+]

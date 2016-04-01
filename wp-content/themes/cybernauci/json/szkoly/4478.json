@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12679",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4478",
+    "miejscowosc": "Bratian",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Rodu Dzia\u0142y\u0144skich",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  },
+  {
+    "id": "12680",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4478",
+    "miejscowosc": "Bratian",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Rodu Dzia\u0142y\u0144skich",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  }
+]

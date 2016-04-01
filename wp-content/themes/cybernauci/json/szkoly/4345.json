@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12367",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4345",
+    "miejscowosc": "Stare Juchy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Mazurska",
+    "numer": "11",
+    "kod": "19-330",
+    "poczta": "Stare Juchy\r"
+  },
+  {
+    "id": "12368",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4345",
+    "miejscowosc": "Stare Juchy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mazurska",
+    "numer": "11",
+    "kod": "19-330",
+    "poczta": "Stare Juchy\r"
+  }
+]

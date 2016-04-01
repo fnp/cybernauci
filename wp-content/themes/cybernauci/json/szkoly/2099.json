@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6599",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2099",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Stanis\u0142awa Konarskiego",
+    "numer": "4",
+    "kod": "32-651",
+    "poczta": "Nowa Wie\u015b\r"
+  },
+  {
+    "id": "6164",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2099",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "96",
+    "kod": "33-336",
+    "poczta": "\u0141abowa\r"
+  },
+  {
+    "id": "5942",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2099",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "16",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  },
+  {
+    "id": "6600",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2099",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. W\u0142. Sikorskiego",
+    "ulica": "Stanis\u0142awa Konarskiego",
+    "numer": "4",
+    "kod": "32-651",
+    "poczta": "Nowa Wie\u015b\r"
+  }
+]

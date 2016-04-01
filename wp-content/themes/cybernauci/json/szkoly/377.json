@@ -1,0 +1,110 @@
+[
+  {
+    "id": "901",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Paw\u0142a Stalmacha",
+    "ulica": "pl. Bogumi\u0142a Hoffa",
+    "numer": "5",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "893",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Adama Mickiewicza",
+    "ulica": "Bia\u0142a Wise\u0142ka",
+    "numer": "6",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "896",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Malinka",
+    "numer": "53",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "895",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Kopyd\u0142o",
+    "numer": "74",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "894",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Jawornik",
+    "numer": "58",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "897",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Reymonta",
+    "numer": "2",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "898",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Reymonta",
+    "numer": "2",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "899",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Gimnazjum Nr 1",
+    "ulica": "Pl. B. Hoffa",
+    "numer": "5",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  },
+  {
+    "id": "900",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "377",
+    "miejscowosc": "Wis\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Pl. B. Hoffa",
+    "numer": "5",
+    "kod": "43-460",
+    "poczta": "Wis\u0142a\r"
+  }
+]

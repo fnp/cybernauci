@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13213",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4661",
+    "miejscowosc": "\u015awi\u0119te",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awi\u0119te",
+    "numer": "1",
+    "kod": "87-702",
+    "poczta": "Koneck\r"
+  },
+  {
+    "id": "13212",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4661",
+    "miejscowosc": "\u015awi\u0119te",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awi\u0119te",
+    "numer": "1",
+    "kod": "87-702",
+    "poczta": "Koneck\r"
+  }
+]

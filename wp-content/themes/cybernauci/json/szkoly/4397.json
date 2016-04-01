@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12506",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4397",
+    "miejscowosc": "Barciany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Nowa",
+    "numer": "1A",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  },
+  {
+    "id": "12507",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4397",
+    "miejscowosc": "Barciany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stra\u017cy Granicznej",
+    "ulica": "Nowa",
+    "numer": "1A",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  }
+]

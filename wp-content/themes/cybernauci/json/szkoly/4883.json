@@ -1,0 +1,86 @@
+[
+  {
+    "id": "13647",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Piotra Wawrzyniaka",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "33",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13654",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13648",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0105dowa",
+    "numer": "13",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13644",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "S\u0105dowa",
+    "numer": "13",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13645",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "18",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13655",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "13656",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4883",
+    "miejscowosc": "Mogilno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "88-300",
+    "poczta": "Mogilno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22384",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8101",
+    "miejscowosc": "Tarnawa Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tarnawa Dolna",
+    "numer": "28",
+    "kod": "38-516",
+    "poczta": "Tarnawa Dolna\r"
+  },
+  {
+    "id": "22381",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8101",
+    "miejscowosc": "Tarnawa Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tarnawa Dolna",
+    "numer": "28",
+    "kod": "38-516",
+    "poczta": "Tarnawa Dolna\r"
+  }
+]

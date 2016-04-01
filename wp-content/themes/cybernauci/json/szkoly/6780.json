@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19059",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6780",
+    "miejscowosc": "Wyrzysk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "89-300",
+    "poczta": "Wyrzysk\r"
+  },
+  {
+    "id": "19056",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6780",
+    "miejscowosc": "Wyrzysk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich ",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "89-300",
+    "poczta": "Wyrzysk\r"
+  },
+  {
+    "id": "19062",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6780",
+    "miejscowosc": "Wyrzysk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "89-300",
+    "poczta": "Wyrzysk\r"
+  },
+  {
+    "id": "19063",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6780",
+    "miejscowosc": "Wyrzysk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "89-300",
+    "poczta": "Wyrzysk\r"
+  }
+]

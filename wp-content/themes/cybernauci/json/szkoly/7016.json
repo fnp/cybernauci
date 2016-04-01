@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19569",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7016",
+    "miejscowosc": "Tuliszk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nortowska",
+    "numer": "1",
+    "kod": "62-740",
+    "poczta": "Tuliszk\u00f3w\r"
+  },
+  {
+    "id": "19570",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7016",
+    "miejscowosc": "Tuliszk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nortowska",
+    "numer": "1",
+    "kod": "62-740",
+    "poczta": "Tuliszk\u00f3w\r"
+  }
+]

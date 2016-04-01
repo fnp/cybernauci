@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12282",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4310",
+    "miejscowosc": "Gronowo G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminne Gimnazjum",
+    "ulica": "Szmaragdowa",
+    "numer": "5",
+    "kod": "82-310",
+    "poczta": "Elbl\u0105g\r"
+  },
+  {
+    "id": "12283",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4310",
+    "miejscowosc": "Gronowo G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szmaragdowa",
+    "numer": "5",
+    "kod": "82-310",
+    "poczta": "Elbl\u0105g\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10827",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3907",
+    "miejscowosc": "Rutki-Kossaki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "11 Listopada",
+    "numer": "7a",
+    "kod": "18-312",
+    "poczta": "Rutki Kossaki\r"
+  },
+  {
+    "id": "10826",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3907",
+    "miejscowosc": "Rutki-Kossaki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "11 Listopada",
+    "numer": "7A",
+    "kod": "18-312",
+    "poczta": "Rutki Kossaki\r"
+  }
+]

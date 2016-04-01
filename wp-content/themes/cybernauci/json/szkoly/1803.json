@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6460",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1803",
+    "miejscowosc": "Boles\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. KEN ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "96",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  },
+  {
+    "id": "5382",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1803",
+    "miejscowosc": "Boles\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Boles\u0142aw",
+    "numer": "95",
+    "kod": "33-220",
+    "poczta": "Boles\u0142aw\r"
+  },
+  {
+    "id": "6459",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1803",
+    "miejscowosc": "Boles\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "96",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  }
+]

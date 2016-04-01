@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5279",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1759",
+    "miejscowosc": "Lewniowa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lewniowa",
+    "numer": "275",
+    "kod": "32-864",
+    "poczta": "Gnojnik\r"
+  },
+  {
+    "id": "5280",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1759",
+    "miejscowosc": "Lewniowa",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Publiczne Gimnazjum",
+    "ulica": "Lewniowa",
+    "numer": "275",
+    "kod": "32-864",
+    "poczta": "Gnojnik\r"
+  }
+]

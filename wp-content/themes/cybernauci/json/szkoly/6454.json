@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18378",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6454",
+    "miejscowosc": "D\u0105bie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "6",
+    "kod": "62-660",
+    "poczta": "D\u0105bie\r"
+  },
+  {
+    "id": "18379",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6454",
+    "miejscowosc": "D\u0105bie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "6",
+    "kod": "62-660",
+    "poczta": "D\u0105bie\r"
+  }
+]

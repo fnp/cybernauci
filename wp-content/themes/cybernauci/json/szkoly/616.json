@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1384",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "616",
+    "miejscowosc": "Gocza\u0142kowice-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "CETIR Niepubliczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Uzdrowiskowa",
+    "numer": "37",
+    "kod": "43-230",
+    "poczta": "Gocza\u0142kowice-Zdr\u00f3j\r"
+  },
+  {
+    "id": "1385",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "616",
+    "miejscowosc": "Gocza\u0142kowice-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "3",
+    "kod": "43-230",
+    "poczta": "Gocza\u0142kowice-Zdr\u00f3j\r"
+  },
+  {
+    "id": "1383",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "616",
+    "miejscowosc": "Gocza\u0142kowice-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "3",
+    "kod": "43-230",
+    "poczta": "Gocza\u0142kowice-Zdr\u00f3j\r"
+  }
+]

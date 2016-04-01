@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21483",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7661",
+    "miejscowosc": "Jedlicze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. M. Konopnickiej",
+    "ulica": "W\u0142adys\u0142awa Dubisa",
+    "numer": "7",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "21491",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7661",
+    "miejscowosc": "Jedlicze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tokarskich",
+    "numer": "5",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "21489",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7661",
+    "miejscowosc": "Jedlicze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "15",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "21490",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7661",
+    "miejscowosc": "Jedlicze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "15",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "21492",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7661",
+    "miejscowosc": "Jedlicze",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Tokarskich",
+    "numer": "5",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  }
+]

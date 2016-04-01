@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6449",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2344",
+    "miejscowosc": "Skrzypne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015aw. Jadwigi Kr\u00f3lowej",
+    "numer": "128",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6450",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2344",
+    "miejscowosc": "Skrzypne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Jadwigi Kr\u00f3lowej",
+    "ulica": "\u015aw. Jadwigi Kr\u00f3lowej",
+    "numer": "128",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

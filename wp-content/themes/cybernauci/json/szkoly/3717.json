@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10455",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3717",
+    "miejscowosc": "W\u0105sosz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Stanis\u0142awa Konarskiego",
+    "ulica": "Piaskowa",
+    "numer": "13",
+    "kod": "19-222",
+    "poczta": "W\u0105sosz\r"
+  },
+  {
+    "id": "10454",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3717",
+    "miejscowosc": "W\u0105sosz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piaskowa",
+    "numer": "31",
+    "kod": "19-222",
+    "poczta": "W\u0105sosz\r"
+  }
+]

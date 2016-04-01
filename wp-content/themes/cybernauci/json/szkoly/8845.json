@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24261",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8845",
+    "miejscowosc": "Otr\u0119busy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piaseckiego",
+    "numer": "2",
+    "kod": "05-805",
+    "poczta": "Otr\u0119busy\r"
+  },
+  {
+    "id": "24262",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8845",
+    "miejscowosc": "Otr\u0119busy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piaseckiego",
+    "numer": "2",
+    "kod": "05-805",
+    "poczta": "Otr\u0119busy\r"
+  }
+]

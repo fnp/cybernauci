@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11777",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4199",
+    "miejscowosc": "Turowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Turowo",
+    "numer": "78",
+    "kod": "78-400",
+    "poczta": "Szczecinek\r"
+  },
+  {
+    "id": "11770",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4199",
+    "miejscowosc": "Turowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Turowo",
+    "numer": "78",
+    "kod": "78-400",
+    "poczta": "Szczecinek\r"
+  }
+]

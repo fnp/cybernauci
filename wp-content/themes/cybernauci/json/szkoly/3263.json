@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9041",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3263",
+    "miejscowosc": "Pszcz\u00f3\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Pomorska",
+    "numer": "25",
+    "kod": "83-032",
+    "poczta": "Pszcz\u00f3\u0142ki\r"
+  },
+  {
+    "id": "9038",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3263",
+    "miejscowosc": "Pszcz\u00f3\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "83-032",
+    "poczta": "Pszcz\u00f3\u0142ki\r"
+  }
+]

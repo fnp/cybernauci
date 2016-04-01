@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8656",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3140",
+    "miejscowosc": "Oleszno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  },
+  {
+    "id": "8657",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3140",
+    "miejscowosc": "Oleszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7104",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2620",
+    "miejscowosc": "Stanis\u0142aw Dolny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 8",
+    "ulica": "Stanis\u0142aw Dolny",
+    "numer": "256",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7105",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2620",
+    "miejscowosc": "Stanis\u0142aw Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Stanis\u0142aw Dolny",
+    "numer": "256",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7084",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2620",
+    "miejscowosc": "Stanis\u0142aw Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Stanis\u0142aw Dolny",
+    "numer": "73",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  }
+]

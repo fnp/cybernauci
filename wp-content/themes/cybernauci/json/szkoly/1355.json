@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4208",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1355",
+    "miejscowosc": "Trzebiesz\u00f3w Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Trzebiesz\u00f3w Drugi",
+    "numer": "94A",
+    "kod": "21-404",
+    "poczta": "Trzebiesz\u00f3w\r"
+  },
+  {
+    "id": "4201",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1355",
+    "miejscowosc": "Trzebiesz\u00f3w Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzebiesz\u00f3w Drugi",
+    "numer": "94",
+    "kod": "21-404",
+    "poczta": "Trzebiesz\u00f3w\r"
+  }
+]

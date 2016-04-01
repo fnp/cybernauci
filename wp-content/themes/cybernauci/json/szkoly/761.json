@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1833",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "761",
+    "miejscowosc": "Chruszczobr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "113",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "1834",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "761",
+    "miejscowosc": "Chruszczobr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "113",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  }
+]

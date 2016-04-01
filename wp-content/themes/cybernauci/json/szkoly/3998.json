@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11280",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3998",
+    "miejscowosc": "Pobierowo",
+    "typ": "podstawowa",
+    "nazwa": "Katolicka Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "72-346",
+    "poczta": "Pobierowo\r"
+  },
+  {
+    "id": "11281",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3998",
+    "miejscowosc": "Pobierowo",
+    "typ": "gimnazjum",
+    "nazwa": "Katolickie Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "72-346",
+    "poczta": "Pobierowo\r"
+  }
+]

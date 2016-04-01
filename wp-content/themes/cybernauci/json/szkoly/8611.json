@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23723",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8611",
+    "miejscowosc": "Wach",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Wach",
+    "numer": "96",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23724",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8611",
+    "miejscowosc": "Wach",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Wach",
+    "numer": "96",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

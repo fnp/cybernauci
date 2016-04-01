@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15717",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5580",
+    "miejscowosc": "Kamieniec Z\u0105bkowicki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Adama Mickiewicza",
+    "ulica": "Zamkowa",
+    "numer": "3",
+    "kod": "57-230",
+    "poczta": "Kamieniec Z\u0105bkowicki\r"
+  },
+  {
+    "id": "15716",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5580",
+    "miejscowosc": "Kamieniec Z\u0105bkowicki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Zamkowa",
+    "numer": "4",
+    "kod": "57-230",
+    "poczta": "Kamieniec Z\u0105bkowicki\r"
+  },
+  {
+    "id": "15718",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5580",
+    "miejscowosc": "Kamieniec Z\u0105bkowicki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "57-230",
+    "poczta": "Kamieniec Z\u0105bkowicki\r"
+  }
+]

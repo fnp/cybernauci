@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4426",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1456",
+    "miejscowosc": "Borki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "25",
+    "kod": "21-345",
+    "poczta": "Borki\r"
+  },
+  {
+    "id": "4431",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1456",
+    "miejscowosc": "Borki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "25",
+    "kod": "21-345",
+    "poczta": "Borki\r"
+  }
+]

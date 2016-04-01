@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24533",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8313",
+    "miejscowosc": "Zakrzew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zakrzew",
+    "numer": "58D",
+    "kod": "26-652",
+    "poczta": "Zakrzew\r"
+  },
+  {
+    "id": "23037",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8313",
+    "miejscowosc": "Zakrzew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Zakrzew",
+    "numer": "37",
+    "kod": "08-470",
+    "poczta": "Wilga\r"
+  },
+  {
+    "id": "24536",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8313",
+    "miejscowosc": "Zakrzew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Zakrzew",
+    "numer": "58D",
+    "kod": "26-652",
+    "poczta": "Zakrzew\r"
+  }
+]

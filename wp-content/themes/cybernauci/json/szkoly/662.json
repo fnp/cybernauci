@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1508",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "662",
+    "miejscowosc": "Rudy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rogera",
+    "numer": "2",
+    "kod": "47-430",
+    "poczta": "Rudy\r"
+  },
+  {
+    "id": "1509",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "662",
+    "miejscowosc": "Rudy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana III Sobieskiego",
+    "ulica": "Rogera",
+    "numer": "2",
+    "kod": "47-430",
+    "poczta": "Rudy\r"
+  }
+]

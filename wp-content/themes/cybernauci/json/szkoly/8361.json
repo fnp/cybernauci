@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23153",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8361",
+    "miejscowosc": "Chyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "52",
+    "kod": "05-650",
+    "poczta": "Chyn\u00f3w\r"
+  },
+  {
+    "id": "23152",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8361",
+    "miejscowosc": "Chyn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "05-650",
+    "poczta": "Chyn\u00f3w\r"
+  }
+]

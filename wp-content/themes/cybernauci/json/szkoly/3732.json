@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10501",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3732",
+    "miejscowosc": "Grabowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "18-507",
+    "poczta": "Grabowo\r"
+  },
+  {
+    "id": "10502",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3732",
+    "miejscowosc": "Grabowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Antoniego i Jakuba Wag\u00f3w",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "18-507",
+    "poczta": "Grabowo\r"
+  }
+]

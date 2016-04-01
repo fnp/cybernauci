@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12248",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4290",
+    "miejscowosc": "I\u0142owo-Osada",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Le\u015bna",
+    "numer": "10a",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  },
+  {
+    "id": "12244",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4290",
+    "miejscowosc": "I\u0142owo-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wyzwolenia",
+    "numer": "11",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  },
+  {
+    "id": "12245",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4290",
+    "miejscowosc": "I\u0142owo-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "11",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  },
+  {
+    "id": "12249",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4290",
+    "miejscowosc": "I\u0142owo-Osada",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Le\u015bna",
+    "numer": "10a",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  },
+  {
+    "id": "12250",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4290",
+    "miejscowosc": "I\u0142owo-Osada",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Le\u015bna",
+    "numer": "10a",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  }
+]

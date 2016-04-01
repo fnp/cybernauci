@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16440",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5688",
+    "miejscowosc": "Grab\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Kochanowskiego",
+    "numer": "2",
+    "kod": "99-150",
+    "poczta": "Grab\u00f3w\r"
+  },
+  {
+    "id": "16441",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5688",
+    "miejscowosc": "Grab\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Kochanowskiego",
+    "numer": "2",
+    "kod": "99-150",
+    "poczta": "Grab\u00f3w\r"
+  },
+  {
+    "id": "16370",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5688",
+    "miejscowosc": "Grab\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Kownackiej ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "99-319",
+    "poczta": "Dobrzelin\r"
+  }
+]

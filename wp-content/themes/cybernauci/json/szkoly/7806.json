@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21802",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7806",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Walerii Szalay-Groele",
+    "ulica": "Rynek",
+    "numer": "6",
+    "kod": "39-320",
+    "poczta": "Przec\u0142aw\r"
+  },
+  {
+    "id": "21807",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7806",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Zielona",
+    "numer": "39a",
+    "kod": "39-320",
+    "poczta": "Przec\u0142aw\r"
+  },
+  {
+    "id": "21808",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7806",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zielona",
+    "numer": "39a",
+    "kod": "39-320",
+    "poczta": "Przec\u0142aw\r"
+  }
+]

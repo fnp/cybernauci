@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21700",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7763",
+    "miejscowosc": "Wola Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wola Ma\u0142a",
+    "numer": "160",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21701",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7763",
+    "miejscowosc": "Wola Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Ma\u0142a",
+    "numer": "160",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  }
+]

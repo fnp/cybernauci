@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5172",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1701",
+    "miejscowosc": "Stary Wi\u015bnicz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II ",
+    "ulica": "Stary Wi\u015bnicz",
+    "numer": "480",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  },
+  {
+    "id": "5173",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1701",
+    "miejscowosc": "Stary Wi\u015bnicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II ",
+    "ulica": "Stary Wi\u015bnicz",
+    "numer": "480",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  }
+]

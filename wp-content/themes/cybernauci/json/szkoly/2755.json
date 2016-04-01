@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7883",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2755",
+    "miejscowosc": "Nag\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. M. Reja",
+    "ulica": "M. Reja",
+    "numer": "40",
+    "kod": "28-362",
+    "poczta": "Nag\u0142owice\r"
+  },
+  {
+    "id": "7884",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2755",
+    "miejscowosc": "Nag\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Reja",
+    "ulica": "M. Reja",
+    "numer": "40",
+    "kod": "28-362",
+    "poczta": "Nag\u0142owice\r"
+  }
+]

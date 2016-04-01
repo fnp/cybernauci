@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23509",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8521",
+    "miejscowosc": "Stojad\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Po\u0142udniowa",
+    "numer": "20",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  },
+  {
+    "id": "23510",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8521",
+    "miejscowosc": "Stojad\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Po\u0142udniowa",
+    "numer": "20",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  }
+]

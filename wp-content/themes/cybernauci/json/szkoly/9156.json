@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24874",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9156",
+    "miejscowosc": "Gr\u0119bk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-110",
+    "poczta": "Gr\u0119bk\u00f3w\r"
+  },
+  {
+    "id": "24875",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9156",
+    "miejscowosc": "Gr\u0119bk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-110",
+    "poczta": "Gr\u0119bk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10286",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3632",
+    "miejscowosc": "Krasnyb\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Krasnyb\u00f3r",
+    "numer": "59",
+    "kod": "16-310",
+    "poczta": "Sztabin\r"
+  },
+  {
+    "id": "10287",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3632",
+    "miejscowosc": "Krasnyb\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Krasnyb\u00f3r",
+    "numer": "59",
+    "kod": "16-310",
+    "poczta": "Sztabin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16717",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5850",
+    "miejscowosc": "Nowa Brze\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana D\u0142ugosza",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "100",
+    "kod": "98-331",
+    "poczta": "Nowa Brze\u017anica\r"
+  },
+  {
+    "id": "16721",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5850",
+    "miejscowosc": "Nowa Brze\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "100",
+    "kod": "98-331",
+    "poczta": "Nowa Brze\u017anica\r"
+  }
+]

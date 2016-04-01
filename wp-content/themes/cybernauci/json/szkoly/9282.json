@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25178",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9282",
+    "miejscowosc": "Lubowidz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "46A",
+    "kod": "09-304",
+    "poczta": "Lubowidz\r"
+  },
+  {
+    "id": "25179",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9282",
+    "miejscowosc": "Lubowidz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "46A",
+    "kod": "09-304",
+    "poczta": "Lubowidz\r"
+  }
+]

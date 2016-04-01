@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11369",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4039",
+    "miejscowosc": "Benice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hodowli Koni",
+    "ulica": "Benice",
+    "numer": "12",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  },
+  {
+    "id": "11370",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4039",
+    "miejscowosc": "Benice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne",
+    "ulica": "Benice",
+    "numer": "12",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  }
+]

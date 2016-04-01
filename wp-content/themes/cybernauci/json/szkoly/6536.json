@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18516",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6536",
+    "miejscowosc": "\u017bychlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Parkowa",
+    "numer": "11",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18511",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6536",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "2",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18512",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6536",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "2",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18517",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6536",
+    "miejscowosc": "\u017bychlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Parkowa",
+    "numer": "11",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18513",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6536",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Parkowa",
+    "numer": "2",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  }
+]

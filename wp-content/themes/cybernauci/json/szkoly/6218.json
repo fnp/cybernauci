@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17880",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6218",
+    "miejscowosc": "Szamocin",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "64-820",
+    "poczta": "Szamocin\r"
+  },
+  {
+    "id": "17883",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6218",
+    "miejscowosc": "Szamocin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "19 Stycznia",
+    "numer": "29",
+    "kod": "64-820",
+    "poczta": "Szamocin\r"
+  },
+  {
+    "id": "17884",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6218",
+    "miejscowosc": "Szamocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "19 Stycznia",
+    "numer": "29",
+    "kod": "64-820",
+    "poczta": "Szamocin\r"
+  }
+]

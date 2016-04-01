@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24420",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8924",
+    "miejscowosc": "Zatory",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "69",
+    "kod": "07-217",
+    "poczta": "Zatory\r"
+  },
+  {
+    "id": "24421",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8924",
+    "miejscowosc": "Zatory",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "69",
+    "kod": "07-217",
+    "poczta": "Zatory\r"
+  }
+]

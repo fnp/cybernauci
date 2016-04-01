@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13977",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5039",
+    "miejscowosc": "\u0141ubianka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Janusza Korczaka",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "1",
+    "kod": "87-152",
+    "poczta": "\u0141ubianka\r"
+  },
+  {
+    "id": "13978",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5039",
+    "miejscowosc": "\u0141ubianka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Janusza Korczaka",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "1",
+    "kod": "87-152",
+    "poczta": "\u0141ubianka\r"
+  }
+]

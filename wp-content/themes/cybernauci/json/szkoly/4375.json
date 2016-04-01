@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12453",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4375",
+    "miejscowosc": "Kisielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "12",
+    "kod": "14-220",
+    "poczta": "Kisielice\r"
+  },
+  {
+    "id": "12456",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4375",
+    "miejscowosc": "Kisielice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "al. Wojska Polskiego",
+    "numer": "2",
+    "kod": "14-220",
+    "poczta": "Kisielice\r"
+  },
+  {
+    "id": "12457",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4375",
+    "miejscowosc": "Kisielice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "al. Wojska Polskiego",
+    "numer": "2",
+    "kod": "14-220",
+    "poczta": "Kisielice\r"
+  },
+  {
+    "id": "12454",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4375",
+    "miejscowosc": "Kisielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "12",
+    "kod": "14-220",
+    "poczta": "Kisielice\r"
+  },
+  {
+    "id": "12455",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4375",
+    "miejscowosc": "Kisielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "12",
+    "kod": "14-220",
+    "poczta": "Kisielice\r"
+  }
+]

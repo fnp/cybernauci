@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9619",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3531",
+    "miejscowosc": "Bytonia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kasztela\u0144ska",
+    "numer": "3",
+    "kod": "83-210",
+    "poczta": "Zblewo\r"
+  },
+  {
+    "id": "9620",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3531",
+    "miejscowosc": "Bytonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kasztela\u0144ska",
+    "numer": "3",
+    "kod": "83-210",
+    "poczta": "Zblewo\r"
+  }
+]

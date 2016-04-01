@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24101",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8778",
+    "miejscowosc": "\u0141\u0105ck",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. Jerzego Kondrackiego",
+    "ulica": "Kolejowa",
+    "numer": "1\/1",
+    "kod": "09-520",
+    "poczta": "\u0141\u0105ck\r"
+  },
+  {
+    "id": "24100",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8778",
+    "miejscowosc": "\u0141\u0105ck",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ppor. Emilii Gierczak",
+    "ulica": "Kolejowa",
+    "numer": "1",
+    "kod": "09-520",
+    "poczta": "\u0141\u0105ck\r"
+  }
+]

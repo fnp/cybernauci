@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12257",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4293",
+    "miejscowosc": "Stare D\u0142utowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Paw\u0142a Nowakowskiego",
+    "ulica": "D\u0142uga",
+    "numer": "61",
+    "kod": "13-203",
+    "poczta": "D\u0142utowo\r"
+  },
+  {
+    "id": "12252",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4293",
+    "miejscowosc": "Stare D\u0142utowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "D\u0142uga",
+    "numer": "61",
+    "kod": "13-203",
+    "poczta": "D\u0142utowo\r"
+  }
+]

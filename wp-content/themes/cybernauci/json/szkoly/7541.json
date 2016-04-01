@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21292",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7541",
+    "miejscowosc": "D\u0119bowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. gen. Kazimierza Pu\u0142askiego",
+    "ulica": "D\u0119bowiec",
+    "numer": "500",
+    "kod": "38-220",
+    "poczta": "D\u0119bowiec\r"
+  },
+  {
+    "id": "21286",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7541",
+    "miejscowosc": "D\u0119bowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bowiec",
+    "numer": "500",
+    "kod": "38-220",
+    "poczta": "D\u0119bowiec\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6227",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2250",
+    "miejscowosc": "\u0141omnica-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "\u0141omnica-Zdr\u00f3j",
+    "numer": "336",
+    "kod": "33-350",
+    "poczta": "Piwniczna-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6228",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2250",
+    "miejscowosc": "\u0141omnica-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141omnica-Zdr\u00f3j",
+    "numer": "336",
+    "kod": "33-350",
+    "poczta": "Piwniczna-Zdr\u00f3j\r"
+  }
+]

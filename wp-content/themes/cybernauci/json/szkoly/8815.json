@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24173",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8815",
+    "miejscowosc": "Czerwi\u0144sk nad Wis\u0142\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "ulica": "Warszawska",
+    "numer": "1",
+    "kod": "09-150",
+    "poczta": "Czerwi\u0144sk nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "24175",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8815",
+    "miejscowosc": "Czerwi\u0144sk nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "numer": "24",
+    "kod": "09-150",
+    "poczta": "Czerwi\u0144sk nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "24174",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8815",
+    "miejscowosc": "Czerwi\u0144sk nad Wis\u0142\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "ulica": "Warszawska",
+    "numer": "1",
+    "kod": "09-150",
+    "poczta": "Czerwi\u0144sk nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "24176",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8815",
+    "miejscowosc": "Czerwi\u0144sk nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Agrobiznesu",
+    "ulica": "W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "numer": "24",
+    "kod": "09-150",
+    "poczta": "Czerwi\u0144sk nad Wis\u0142\u0105\r"
+  }
+]

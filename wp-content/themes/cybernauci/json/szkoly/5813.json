@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16628",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5813",
+    "miejscowosc": "Parady\u017c",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w ZSS",
+    "ulica": "Przedborska",
+    "numer": "29",
+    "kod": "26-333",
+    "poczta": "Parady\u017c\r"
+  },
+  {
+    "id": "16625",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5813",
+    "miejscowosc": "Parady\u017c",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. OP AK \"B\u0142ysk\" w ZSS",
+    "ulica": "Przedborska",
+    "numer": "29",
+    "kod": "26-333",
+    "poczta": "Parady\u017c\r"
+  }
+]

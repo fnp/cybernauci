@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11829",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4220",
+    "miejscowosc": "Piecnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piecnik",
+    "numer": "8",
+    "kod": "78-650",
+    "poczta": "Miros\u0142awiec\r"
+  },
+  {
+    "id": "11830",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4220",
+    "miejscowosc": "Piecnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piecnik",
+    "numer": "8",
+    "kod": "78-650",
+    "poczta": "Miros\u0142awiec\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21299",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7551",
+    "miejscowosc": "Trzcinica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Sportowe",
+    "ulica": "Trzcinica",
+    "numer": "79",
+    "kod": "38-207",
+    "poczta": "Przysieki\r"
+  },
+  {
+    "id": "21306",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7551",
+    "miejscowosc": "Trzcinica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Trzcinica",
+    "numer": "72",
+    "kod": "38-207",
+    "poczta": "Przysieki\r"
+  },
+  {
+    "id": "21300",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7551",
+    "miejscowosc": "Trzcinica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Sportowe Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Trzcinica",
+    "numer": "79",
+    "kod": "38-207",
+    "poczta": "Przysieki\r"
+  },
+  {
+    "id": "21307",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7551",
+    "miejscowosc": "Trzcinica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzcinica",
+    "numer": "72",
+    "kod": "38-207",
+    "poczta": "Przysieki\r"
+  },
+  {
+    "id": "21301",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7551",
+    "miejscowosc": "Trzcinica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Trzcinica",
+    "numer": "79",
+    "kod": "38-207",
+    "poczta": "Przysieki\r"
+  }
+]

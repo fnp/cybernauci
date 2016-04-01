@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3413",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "919",
+    "miejscowosc": "Korcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Korcz\u00f3w",
+    "numer": "1b",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3408",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "919",
+    "miejscowosc": "Korcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Korcz\u00f3w",
+    "numer": "1b",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

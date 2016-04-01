@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9363",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3407",
+    "miejscowosc": "Stare Pole",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gen. J\u00f3zefa Bema",
+    "numer": "6",
+    "kod": "82-220",
+    "poczta": "Stare Pole\r"
+  },
+  {
+    "id": "9364",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3407",
+    "miejscowosc": "Stare Pole",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gen. J\u00f3zefa Bema",
+    "numer": "6",
+    "kod": "82-220",
+    "poczta": "Stare Pole\r"
+  }
+]

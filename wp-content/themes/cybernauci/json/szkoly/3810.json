@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10635",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3810",
+    "miejscowosc": "Ostro\u017cany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ostro\u017cany",
+    "numer": "41",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10630",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3810",
+    "miejscowosc": "Ostro\u017cany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostro\u017cany",
+    "numer": "16",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10636",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3810",
+    "miejscowosc": "Ostro\u017cany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ostro\u017cany",
+    "numer": "41",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10637",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3810",
+    "miejscowosc": "Ostro\u017cany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ostro\u017cany",
+    "numer": "41",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  }
+]

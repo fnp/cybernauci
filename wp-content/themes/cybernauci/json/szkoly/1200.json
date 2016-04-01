@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3922",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1200",
+    "miejscowosc": "Stary U\u015bcim\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Stary U\u015bcim\u00f3w",
+    "numer": "43",
+    "kod": "21-109",
+    "poczta": "Stary U\u015bcim\u00f3w\r"
+  },
+  {
+    "id": "3923",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1200",
+    "miejscowosc": "Stary U\u015bcim\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Stary U\u015bcim\u00f3w",
+    "numer": "43",
+    "kod": "21-109",
+    "poczta": "Stary U\u015bcim\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24415",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8921",
+    "miejscowosc": "Winnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. prof. I. Mo\u015bcickiego",
+    "ulica": "Pu\u0142tuska",
+    "numer": "19",
+    "kod": "06-120",
+    "poczta": "Winnica\r"
+  },
+  {
+    "id": "24416",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8921",
+    "miejscowosc": "Winnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pu\u0142tuska",
+    "numer": "19",
+    "kod": "06-120",
+    "poczta": "Winnica\r"
+  }
+]

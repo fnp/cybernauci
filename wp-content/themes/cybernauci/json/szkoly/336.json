@@ -1,0 +1,26 @@
+[
+  {
+    "id": "752",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "336",
+    "miejscowosc": "Wojkowice Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zachodnia",
+    "numer": "4",
+    "kod": "42-510",
+    "poczta": "Wojkowice Ko\u015bcielne\r"
+  },
+  {
+    "id": "753",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "336",
+    "miejscowosc": "Wojkowice Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zachodnia",
+    "numer": "4",
+    "kod": "42-510",
+    "poczta": "Wojkowice Ko\u015bcielne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8661",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3143",
+    "miejscowosc": "Radk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Radk\u00f3w",
+    "numer": "88",
+    "kod": "29-135",
+    "poczta": "Radk\u00f3w\r"
+  },
+  {
+    "id": "8662",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3143",
+    "miejscowosc": "Radk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Radk\u00f3w",
+    "numer": "88",
+    "kod": "29-135",
+    "poczta": "Radk\u00f3w\r"
+  }
+]

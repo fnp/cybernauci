@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23533",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8532",
+    "miejscowosc": "Siennica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mi\u0144ska",
+    "numer": "38",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  },
+  {
+    "id": "23534",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8532",
+    "miejscowosc": "Siennica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "Mi\u0144ska",
+    "numer": "38",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  },
+  {
+    "id": "23531",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8532",
+    "miejscowosc": "Siennica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Henryka Sienkiewicza ",
+    "ulica": "Latowicka",
+    "numer": "16",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  },
+  {
+    "id": "23535",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8532",
+    "miejscowosc": "Siennica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Mi\u0144ska",
+    "numer": "38",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  },
+  {
+    "id": "23536",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8532",
+    "miejscowosc": "Siennica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Mi\u0144ska",
+    "numer": "38",
+    "kod": "05-334",
+    "poczta": "Siennica\r"
+  }
+]

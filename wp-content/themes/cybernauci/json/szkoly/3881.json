@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10775",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3881",
+    "miejscowosc": "Rosochate Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Mazowiecka",
+    "numer": "5",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew-Osada\r"
+  },
+  {
+    "id": "10776",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3881",
+    "miejscowosc": "Rosochate Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mazowiecka",
+    "numer": "5",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew-Osada\r"
+  }
+]

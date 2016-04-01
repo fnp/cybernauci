@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16284",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5651",
+    "miejscowosc": "Wola Wi\u0105zowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Wola Wi\u0105zowa",
+    "numer": "42",
+    "kod": "97-438",
+    "poczta": "Rusiec\r"
+  },
+  {
+    "id": "16285",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5651",
+    "miejscowosc": "Wola Wi\u0105zowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Wola Wi\u0105zowa",
+    "numer": "42",
+    "kod": "97-438",
+    "poczta": "Rusiec\r"
+  }
+]

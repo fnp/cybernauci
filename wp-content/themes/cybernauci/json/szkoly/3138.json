@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8653",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3138",
+    "miejscowosc": "Krasocin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Floria\u0144ska",
+    "numer": "1",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  },
+  {
+    "id": "8654",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3138",
+    "miejscowosc": "Krasocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Floria\u0144ska",
+    "numer": "1",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  }
+]

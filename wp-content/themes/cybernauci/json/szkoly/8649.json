@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23786",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8649",
+    "miejscowosc": "O\u0142daki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "O\u0142daki",
+    "numer": "8a",
+    "kod": "07-411",
+    "poczta": "Rzeku\u0144\r"
+  },
+  {
+    "id": "23787",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8649",
+    "miejscowosc": "O\u0142daki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "O\u0142daki",
+    "numer": "8a",
+    "kod": "07-411",
+    "poczta": "Rzeku\u0144\r"
+  }
+]

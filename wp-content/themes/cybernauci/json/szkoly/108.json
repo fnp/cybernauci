@@ -1,0 +1,26 @@
+[
+  {
+    "id": "236",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "108",
+    "miejscowosc": "Walce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Josepha von Eichendorffa",
+    "ulica": "Lipowa",
+    "numer": "2",
+    "kod": "47-344",
+    "poczta": "Walce\r"
+  },
+  {
+    "id": "238",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "108",
+    "miejscowosc": "Walce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "2",
+    "kod": "47-344",
+    "poczta": "Walce\r"
+  }
+]

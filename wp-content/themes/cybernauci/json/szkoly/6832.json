@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19163",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6832",
+    "miejscowosc": "Dopiewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Kochanowskiego ",
+    "ulica": "Bukowska",
+    "numer": "13",
+    "kod": "62-070",
+    "poczta": "Dopiewo\r"
+  },
+  {
+    "id": "19165",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6832",
+    "miejscowosc": "Dopiewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy ",
+    "ulica": "Bukowska",
+    "numer": "13",
+    "kod": "62-070",
+    "poczta": "Dopiewo\r"
+  }
+]

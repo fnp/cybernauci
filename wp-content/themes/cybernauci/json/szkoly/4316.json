@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12291",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4316",
+    "miejscowosc": "Gronowo Elbl\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Osiedlowa",
+    "numer": "6a",
+    "kod": "82-335",
+    "poczta": "Gronowo Elbl\u0105skie\r"
+  },
+  {
+    "id": "12290",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4316",
+    "miejscowosc": "Gronowo Elbl\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Elbl\u0105ska",
+    "numer": "4",
+    "kod": "82-335",
+    "poczta": "Gronowo Elbl\u0105skie\r"
+  }
+]

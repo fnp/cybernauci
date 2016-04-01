@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15748",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5590",
+    "miejscowosc": "Henryk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w Zespole Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Polna",
+    "numer": "9",
+    "kod": "57-210",
+    "poczta": "Henryk\u00f3w\r"
+  },
+  {
+    "id": "15743",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5590",
+    "miejscowosc": "Henryk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. b\u0142. Edmunda Bojanowskiego",
+    "ulica": "Plac Cysters\u00f3w",
+    "numer": "1",
+    "kod": "57-210",
+    "poczta": "Henryk\u00f3w\r"
+  },
+  {
+    "id": "15749",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5590",
+    "miejscowosc": "Henryk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Polna",
+    "numer": "9",
+    "kod": "57-210",
+    "poczta": "Henryk\u00f3w\r"
+  }
+]

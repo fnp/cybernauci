@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11378",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4042",
+    "miejscowosc": "\u015awierzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awierzno",
+    "numer": "23",
+    "kod": "72-405",
+    "poczta": "\u015awierzno\r"
+  },
+  {
+    "id": "11375",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4042",
+    "miejscowosc": "\u015awierzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierzno",
+    "numer": "23",
+    "kod": "72-405",
+    "poczta": "\u015awierzno\r"
+  }
+]

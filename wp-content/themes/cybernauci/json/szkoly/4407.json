@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12524",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4407",
+    "miejscowosc": "\u0141ankiejmy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika w ZS",
+    "ulica": "\u0141ankiejmy",
+    "numer": "10",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  },
+  {
+    "id": "12525",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4407",
+    "miejscowosc": "\u0141ankiejmy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika w ZS",
+    "ulica": "\u0141ankiejmy",
+    "numer": "10",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  }
+]

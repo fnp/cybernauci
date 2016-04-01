@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12790",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4525",
+    "miejscowosc": "Jonkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ksi\u0119dza Jana Hanowskiego",
+    "numer": "27",
+    "kod": "11-042",
+    "poczta": "Jonkowo\r"
+  },
+  {
+    "id": "12788",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4525",
+    "miejscowosc": "Jonkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ks. Jana Hanowskiego",
+    "numer": "29",
+    "kod": "11-042",
+    "poczta": "Jonkowo\r"
+  }
+]

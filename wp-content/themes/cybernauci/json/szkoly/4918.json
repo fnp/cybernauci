@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13722",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4918",
+    "miejscowosc": "Ko\u0142aczkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "89-200",
+    "poczta": "Szubin\r"
+  },
+  {
+    "id": "13726",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4918",
+    "miejscowosc": "Ko\u0142aczkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a Techniczna Zespo\u0142u Szk\u00f3\u0142 Bydgoskiego Zak\u0142adu Doskonalenia Zawodowego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "89-200",
+    "poczta": "Szubin\r"
+  }
+]

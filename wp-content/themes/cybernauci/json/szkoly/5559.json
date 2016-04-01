@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15681",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5559",
+    "miejscowosc": "Bielany Wroc\u0142awskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Akacjowa",
+    "numer": "1",
+    "kod": "55-040",
+    "poczta": "Kobierzyce\r"
+  },
+  {
+    "id": "15682",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5559",
+    "miejscowosc": "Bielany Wroc\u0142awskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Akacjowa",
+    "numer": "1",
+    "kod": "55-040",
+    "poczta": "Kobierzyce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21391",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7608",
+    "miejscowosc": "Kupno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kupno",
+    "numer": "81",
+    "kod": "36-145",
+    "poczta": "Wide\u0142ka\r"
+  },
+  {
+    "id": "21392",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7608",
+    "miejscowosc": "Kupno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kupno",
+    "numer": "81",
+    "kod": "36-145",
+    "poczta": "Wide\u0142ka\r"
+  }
+]

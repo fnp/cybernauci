@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21463",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7652",
+    "miejscowosc": "Tylawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tylawa",
+    "numer": "26",
+    "kod": "38-454",
+    "poczta": "Tylawa\r"
+  },
+  {
+    "id": "21464",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7652",
+    "miejscowosc": "Tylawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tylawa",
+    "numer": "26",
+    "kod": "38-454",
+    "poczta": "Tylawa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13422",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4773",
+    "miejscowosc": "Radomin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Fryderyka Chopina",
+    "ulica": "Radomin",
+    "numer": "14",
+    "kod": "87-404",
+    "poczta": "Radomin\r"
+  },
+  {
+    "id": "13423",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4773",
+    "miejscowosc": "Radomin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Fili\u0105 ",
+    "ulica": "Radomin",
+    "numer": "21",
+    "kod": "87-404",
+    "poczta": "Radomin\r"
+  }
+]

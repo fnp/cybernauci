@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21200",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7505",
+    "miejscowosc": "Rozb\u00f3rz D\u0142ugi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Rozb\u00f3rz D\u0142ugi",
+    "numer": "104",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  },
+  {
+    "id": "21202",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7505",
+    "miejscowosc": "Rozb\u00f3rz D\u0142ugi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Rozb\u00f3rz D\u0142ugi",
+    "numer": "111",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  },
+  {
+    "id": "21201",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7505",
+    "miejscowosc": "Rozb\u00f3rz D\u0142ugi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Olimpijczyk\u00f3w Polskich",
+    "ulica": "Rozb\u00f3rz D\u0142ugi",
+    "numer": "104",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  }
+]

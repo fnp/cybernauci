@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5912",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Reja",
+    "numer": "4",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  },
+  {
+    "id": "5916",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Witosa",
+    "numer": "10",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  },
+  {
+    "id": "5913",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "W. Witosa",
+    "numer": "10",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  },
+  {
+    "id": "5914",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum",
+    "ulica": "W. Witosa",
+    "numer": "10",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  },
+  {
+    "id": "5915",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Miko\u0142aja Reja",
+    "numer": "4",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  },
+  {
+    "id": "5917",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2086",
+    "miejscowosc": "Ksi\u0105\u017c Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Witosa",
+    "numer": "10",
+    "kod": "32-210",
+    "poczta": "Ksi\u0105\u017c Wielki\r"
+  }
+]

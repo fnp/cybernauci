@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9461",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wr\u00f3blewskiego",
+    "numer": "7",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9463",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Wr\u00f3blewskiego",
+    "numer": "5",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9464",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. M. Kopernika",
+    "ulica": "Bursztynowa",
+    "numer": "12",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9460",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Dar\u0142owska",
+    "numer": "3b",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9462",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Usteckiego Towarzystwa O\u015bwiatowego",
+    "ulica": "Bursztynowa",
+    "numer": "12",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9458",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Dar\u0142owska",
+    "numer": "18",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9459",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "1",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9465",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bursztynowa",
+    "numer": "12",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  },
+  {
+    "id": "9466",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3453",
+    "miejscowosc": "Ustka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bursztynowa",
+    "numer": "12",
+    "kod": "76-270",
+    "poczta": "Ustka\r"
+  }
+]

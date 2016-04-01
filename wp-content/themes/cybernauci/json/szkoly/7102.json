@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19765",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7102",
+    "miejscowosc": "Sypniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19766",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7102",
+    "miejscowosc": "Sypniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  }
+]

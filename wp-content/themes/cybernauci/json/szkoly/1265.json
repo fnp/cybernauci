@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4027",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pszczela Wola",
+    "numer": "0",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4028",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pszczela Wola",
+    "numer": "0",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4029",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Kelnerskie",
+    "ulica": "Pszczela Wola",
+    "numer": "",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4030",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Pszczelarskie",
+    "ulica": "Pszczela Wola",
+    "numer": "0",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4031",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Gospodarstwa Domowego",
+    "ulica": "Pszczela Wola",
+    "numer": "",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4032",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1265",
+    "miejscowosc": "Pszczela Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Us\u0142ug Gastronomicznych",
+    "ulica": "Pszczela Wola",
+    "numer": "9",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  }
+]

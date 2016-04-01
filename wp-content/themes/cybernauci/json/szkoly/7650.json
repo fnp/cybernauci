@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21459",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7650",
+    "miejscowosc": "Jasionka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jasionka",
+    "numer": "74",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  },
+  {
+    "id": "22296",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7650",
+    "miejscowosc": "Jasionka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Jasionka",
+    "numer": "301",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  },
+  {
+    "id": "21460",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7650",
+    "miejscowosc": "Jasionka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jasionka",
+    "numer": "74",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  },
+  {
+    "id": "22297",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7650",
+    "miejscowosc": "Jasionka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Jasiona",
+    "numer": "301",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  }
+]

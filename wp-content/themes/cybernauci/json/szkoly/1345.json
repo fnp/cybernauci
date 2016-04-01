@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4181",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1345",
+    "miejscowosc": "Stanin",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Stanin",
+    "numer": "149",
+    "kod": "21-422",
+    "poczta": "Stanin\r"
+  },
+  {
+    "id": "4182",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1345",
+    "miejscowosc": "Stanin",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Stanin",
+    "numer": "149",
+    "kod": "21-422",
+    "poczta": "Stanin\r"
+  }
+]

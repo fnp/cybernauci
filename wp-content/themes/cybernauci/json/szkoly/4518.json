@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12777",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4518",
+    "miejscowosc": "Gietrzwa\u0142d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne im. Ksi\u0119dza Wojciecha Zinka",
+    "ulica": "Klonowa",
+    "numer": "1",
+    "kod": "11-036",
+    "poczta": "Gietrzwa\u0142d\r"
+  },
+  {
+    "id": "12780",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4518",
+    "miejscowosc": "Gietrzwa\u0142d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "11-036",
+    "poczta": "Gietrzwa\u0142d\r"
+  }
+]

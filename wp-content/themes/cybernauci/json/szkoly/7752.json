@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21663",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7752",
+    "miejscowosc": "Wielkie Oczy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "13",
+    "kod": "37-627",
+    "poczta": "Wielkie Oczy\r"
+  },
+  {
+    "id": "21664",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7752",
+    "miejscowosc": "Wielkie Oczy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "13",
+    "kod": "37-627",
+    "poczta": "Wielkie Oczy\r"
+  }
+]

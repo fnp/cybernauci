@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22926",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8251",
+    "miejscowosc": "Opinog\u00f3ra G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zygmunta Krasi\u0144skiego",
+    "ulica": "Zygmunta Krasi\u0144skiego",
+    "numer": "25",
+    "kod": "06-406",
+    "poczta": "Opinog\u00f3ra G\u00f3rna\r"
+  },
+  {
+    "id": "22924",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8251",
+    "miejscowosc": "Opinog\u00f3ra G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zygmunta Krasi\u0144skiego",
+    "numer": "25",
+    "kod": "06-406",
+    "poczta": "Opinog\u00f3ra G\u00f3rna\r"
+  }
+]

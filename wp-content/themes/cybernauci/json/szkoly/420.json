@@ -1,0 +1,26 @@
+[
+  {
+    "id": "980",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "420",
+    "miejscowosc": "D\u0105browa Zielona",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Pl. Ko\u015bciuszki",
+    "numer": "49",
+    "kod": "42-265",
+    "poczta": "D\u0105browa Zielona\r"
+  },
+  {
+    "id": "981",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "420",
+    "miejscowosc": "D\u0105browa Zielona",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Pl. Ko\u015bciuszki",
+    "numer": "49",
+    "kod": "42-265",
+    "poczta": "D\u0105browa Zielona\r"
+  }
+]

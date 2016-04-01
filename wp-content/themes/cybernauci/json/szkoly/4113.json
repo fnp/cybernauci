@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11844",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4113",
+    "miejscowosc": "Dobra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Unii Europejskiej",
+    "ulica": "Mieszcza\u0144ska",
+    "numer": "2",
+    "kod": "72-210",
+    "poczta": "Dobra\r"
+  },
+  {
+    "id": "11534",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4113",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. K. I. Ga\u0142czy\u0144skiego",
+    "ulica": "Poziomkowa",
+    "numer": "5",
+    "kod": "72-003",
+    "poczta": "Dobra\r"
+  },
+  {
+    "id": "11845",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4113",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mieszcza\u0144ska",
+    "numer": "2",
+    "kod": "72-210",
+    "poczta": "Dobra\r"
+  }
+]

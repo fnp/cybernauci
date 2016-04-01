@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19254",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6875",
+    "miejscowosc": "Chludowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. o. M. \u017belazka Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "62-001",
+    "poczta": "Chludowo\r"
+  },
+  {
+    "id": "19255",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6875",
+    "miejscowosc": "Chludowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. O. M. \u017belazka Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "62-001",
+    "poczta": "Chludowo\r"
+  }
+]

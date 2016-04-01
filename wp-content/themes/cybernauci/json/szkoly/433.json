@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1002",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "433",
+    "miejscowosc": "Witkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "22",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "1003",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "433",
+    "miejscowosc": "Witkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "22",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]

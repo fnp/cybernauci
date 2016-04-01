@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8818",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3162",
+    "miejscowosc": "Rokity",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Rokity",
+    "numer": "34",
+    "kod": "77-123",
+    "poczta": "Rokity\r"
+  },
+  {
+    "id": "8819",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3162",
+    "miejscowosc": "Rokity",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Rokity",
+    "numer": "34",
+    "kod": "77-123",
+    "poczta": "Rokity\r"
+  }
+]

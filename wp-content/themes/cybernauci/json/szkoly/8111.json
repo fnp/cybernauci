@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22430",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8111",
+    "miejscowosc": "Bojan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Parkowa",
+    "numer": "11",
+    "kod": "37-433",
+    "poczta": "Bojan\u00f3w\r"
+  },
+  {
+    "id": "22431",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8111",
+    "miejscowosc": "Bojan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum Nr 1 im. ks. Jerzego Popie\u0142uszki",
+    "ulica": "Parkowa",
+    "numer": "11",
+    "kod": "37-433",
+    "poczta": "Bojan\u00f3w\r"
+  }
+]

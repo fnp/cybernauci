@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13677",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "22 Stycznia",
+    "numer": "1",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13675",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5",
+    "ulica": "Jana Kantego",
+    "numer": "1",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13678",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "22 Stycznia",
+    "numer": "1",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13674",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Przysz\u0142o\u015b\u0107\"",
+    "ulica": "22 Stycznia",
+    "numer": "1",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13667",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Czochralskiego",
+    "ulica": "Wyrzyska",
+    "numer": "12",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13679",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ekonomiczne",
+    "ulica": "Emila Jurczyka",
+    "numer": "3",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13680",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Informatyczne",
+    "ulica": "Emila Jurczyka",
+    "numer": "3",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13676",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jana Kantego",
+    "numer": "1",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13681",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4892",
+    "miejscowosc": "Kcynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Emila Jurczyka",
+    "numer": "3",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  }
+]

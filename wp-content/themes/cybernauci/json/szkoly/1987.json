@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5720",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1987",
+    "miejscowosc": "Bia\u0142y Ko\u015bci\u00f3\u0142",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Krakowska",
+    "numer": "172",
+    "kod": "32-089",
+    "poczta": "Wielka Wie\u015b\r"
+  },
+  {
+    "id": "5717",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1987",
+    "miejscowosc": "Bia\u0142y Ko\u015bci\u00f3\u0142",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Kr\u00f3lowej Jadwigi",
+    "numer": "4",
+    "kod": "32-089",
+    "poczta": "Bia\u0142y Ko\u015bci\u00f3\u0142\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12530",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4409",
+    "miejscowosc": "Reszel",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Chrobrego",
+    "numer": "5a",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  },
+  {
+    "id": "12531",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4409",
+    "miejscowosc": "Reszel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "3",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  },
+  {
+    "id": "12528",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4409",
+    "miejscowosc": "Reszel",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  },
+  {
+    "id": "12532",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4409",
+    "miejscowosc": "Reszel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "3",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  },
+  {
+    "id": "12533",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4409",
+    "miejscowosc": "Reszel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "3",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  }
+]

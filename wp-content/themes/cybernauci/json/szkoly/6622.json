@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18687",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6622",
+    "miejscowosc": "Jezierzyce Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jezierzyce Ko\u015bcielne",
+    "numer": "90A",
+    "kod": "64-117",
+    "poczta": "Krzycko Ma\u0142e\r"
+  },
+  {
+    "id": "18688",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6622",
+    "miejscowosc": "Jezierzyce Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Jezierzyce Ko\u015bcielne",
+    "numer": "90A",
+    "kod": "64-117",
+    "poczta": "Krzycko Ma\u0142e\r"
+  }
+]

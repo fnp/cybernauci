@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22499",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8148",
+    "miejscowosc": "Konieczkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Konieczkowa",
+    "numer": "58",
+    "kod": "38-114",
+    "poczta": "Niebylec\r"
+  },
+  {
+    "id": "22500",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8148",
+    "miejscowosc": "Konieczkowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Konieczkowa",
+    "numer": "58",
+    "kod": "38-114",
+    "poczta": "Niebylec\r"
+  }
+]

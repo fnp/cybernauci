@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23309",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8430",
+    "miejscowosc": "Wola Kie\u0142pi\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wola Kie\u0142pi\u0144ska",
+    "numer": "",
+    "kod": "05-140",
+    "poczta": "Serck\r"
+  },
+  {
+    "id": "23310",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8430",
+    "miejscowosc": "Wola Kie\u0142pi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Kie\u0142pi\u0144ska",
+    "numer": "",
+    "kod": "05-140",
+    "poczta": "Serck\r"
+  }
+]

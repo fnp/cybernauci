@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19417",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6949",
+    "miejscowosc": "Pami\u0105tkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "64-514",
+    "poczta": "Pami\u0105tkowo\r"
+  },
+  {
+    "id": "19418",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6949",
+    "miejscowosc": "Pami\u0105tkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "64-514",
+    "poczta": "Pami\u0105tkowo\r"
+  }
+]

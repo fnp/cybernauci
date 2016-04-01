@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22015",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7928",
+    "miejscowosc": "R\u0105czyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "R\u0105czyna",
+    "numer": "146",
+    "kod": "37-223",
+    "poczta": "R\u0105czyna\r"
+  },
+  {
+    "id": "22016",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7928",
+    "miejscowosc": "R\u0105czyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "R\u0105czyna",
+    "numer": "146",
+    "kod": "37-223",
+    "poczta": "R\u0105czyna\r"
+  }
+]

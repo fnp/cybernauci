@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23005",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8292",
+    "miejscowosc": "Parys\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczne Gimnazjum",
+    "ulica": "Ksi\u0105\u017c\u0119ca",
+    "numer": "11",
+    "kod": "08-441",
+    "poczta": "Parys\u00f3w\r"
+  },
+  {
+    "id": "23006",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8292",
+    "miejscowosc": "Parys\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Ksi\u0105\u017c\u0119ca",
+    "numer": "11",
+    "kod": "08-441",
+    "poczta": "Parys\u00f3w\r"
+  }
+]

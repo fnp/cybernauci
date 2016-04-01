@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22302",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stobierna",
+    "numer": "357",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  },
+  {
+    "id": "22294",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Stobierna",
+    "numer": "954",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  },
+  {
+    "id": "21039",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stobierna",
+    "numer": "38",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21040",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stobierna",
+    "numer": "38",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "22303",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Stobierna",
+    "numer": "357",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  },
+  {
+    "id": "22295",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7438",
+    "miejscowosc": "Stobierna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Stobierna",
+    "numer": "954",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  }
+]

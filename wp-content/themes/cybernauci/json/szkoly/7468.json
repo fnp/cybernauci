@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21104",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7468",
+    "miejscowosc": "Zas\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zas\u00f3w",
+    "numer": "207",
+    "kod": "39-209",
+    "poczta": "Zas\u00f3w\r"
+  },
+  {
+    "id": "21105",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7468",
+    "miejscowosc": "Zas\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zas\u00f3w",
+    "numer": "207",
+    "kod": "39-209",
+    "poczta": "Zas\u00f3w\r"
+  }
+]

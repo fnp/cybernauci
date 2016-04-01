@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23139",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8351",
+    "miejscowosc": "B\u0142\u0119d\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stary Rynek",
+    "numer": "9",
+    "kod": "05-620",
+    "poczta": "B\u0142\u0119d\u00f3w\r"
+  },
+  {
+    "id": "23144",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8351",
+    "miejscowosc": "B\u0142\u0119d\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stary Rynek",
+    "numer": "9",
+    "kod": "05-620",
+    "poczta": "B\u0142\u0119d\u00f3w\r"
+  },
+  {
+    "id": "23145",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8351",
+    "miejscowosc": "B\u0142\u0119d\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ogrodnicza",
+    "ulica": "Stary Rynek",
+    "numer": "9",
+    "kod": "05-620",
+    "poczta": "B\u0142\u0119d\u00f3w\r"
+  }
+]

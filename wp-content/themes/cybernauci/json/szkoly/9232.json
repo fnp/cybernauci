@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25062",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9232",
+    "miejscowosc": "Por\u0119ba \u015arednia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Por\u0119ba \u015arednia",
+    "numer": "18",
+    "kod": "07-308",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "25063",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9232",
+    "miejscowosc": "Por\u0119ba \u015arednia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Por\u0119ba \u015arednia",
+    "numer": "18",
+    "kod": "07-308",
+    "poczta": "Por\u0119ba\r"
+  }
+]

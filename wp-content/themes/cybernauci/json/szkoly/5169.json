@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14663",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5169",
+    "miejscowosc": "Gromadka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sikorskiego",
+    "numer": "19",
+    "kod": "59-706",
+    "poczta": "Gromadka\r"
+  },
+  {
+    "id": "14664",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5169",
+    "miejscowosc": "Gromadka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sikorskiego",
+    "numer": "19",
+    "kod": "59-706",
+    "poczta": "Gromadka\r"
+  }
+]

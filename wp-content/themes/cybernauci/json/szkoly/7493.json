@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21182",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7493",
+    "miejscowosc": "Laszki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Laszki",
+    "numer": "280",
+    "kod": "37-543",
+    "poczta": "Laszki\r"
+  },
+  {
+    "id": "21183",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7493",
+    "miejscowosc": "Laszki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Laszki",
+    "numer": "280",
+    "kod": "37-543",
+    "poczta": "Laszki\r"
+  }
+]

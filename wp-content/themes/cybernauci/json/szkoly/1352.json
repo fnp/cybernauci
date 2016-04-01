@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4196",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1352",
+    "miejscowosc": "Stare Kobia\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stare Kobia\u0142ki",
+    "numer": "18",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "4197",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1352",
+    "miejscowosc": "Stare Kobia\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Stare Kobia\u0142ki",
+    "numer": "18",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  }
+]

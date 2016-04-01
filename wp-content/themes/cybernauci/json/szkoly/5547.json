@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15664",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5547",
+    "miejscowosc": "Siedlec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Wroc\u0142awska",
+    "numer": "22",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  },
+  {
+    "id": "15665",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5547",
+    "miejscowosc": "Siedlec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Wroc\u0142awska",
+    "numer": "22",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1500",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "657",
+    "miejscowosc": "Cha\u0142upki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "47-460",
+    "poczta": "Cha\u0142upki\r"
+  },
+  {
+    "id": "1501",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "657",
+    "miejscowosc": "Cha\u0142upki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "47-460",
+    "poczta": "Cha\u0142upki\r"
+  }
+]

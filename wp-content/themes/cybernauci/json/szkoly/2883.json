@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8085",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2883",
+    "miejscowosc": "Paprocice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Paprocice",
+    "numer": "1a",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  },
+  {
+    "id": "8089",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2883",
+    "miejscowosc": "Paprocice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Paprocice",
+    "numer": "1A",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  }
+]

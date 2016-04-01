@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5183",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1708",
+    "miejscowosc": "Rzezawa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "32-765",
+    "poczta": "Rzezawa\r"
+  },
+  {
+    "id": "5188",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1708",
+    "miejscowosc": "Rzezawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "32-765",
+    "poczta": "Rzezawa\r"
+  }
+]

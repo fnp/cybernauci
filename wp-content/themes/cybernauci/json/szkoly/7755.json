@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21685",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7755",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bia\u0142obrzegi",
+    "numer": "31",
+    "kod": "37-114",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "21686",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7755",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142obrzegi",
+    "numer": "31",
+    "kod": "37-114",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "21681",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7755",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Bia\u0142obrzegi",
+    "numer": "400",
+    "kod": "37-114",
+    "poczta": "Bia\u0142obrzegi\r"
+  }
+]

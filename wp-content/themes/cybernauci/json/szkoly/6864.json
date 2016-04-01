@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19226",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6864",
+    "miejscowosc": "Wronczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wronczyn",
+    "numer": "1a",
+    "kod": "62-010",
+    "poczta": "Pobiedziska\r"
+  },
+  {
+    "id": "19227",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6864",
+    "miejscowosc": "Wronczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wronczyn",
+    "numer": "1a",
+    "kod": "62-010",
+    "poczta": "Pobiedziska\r"
+  }
+]

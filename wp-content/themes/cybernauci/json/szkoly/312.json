@@ -1,0 +1,26 @@
+[
+  {
+    "id": "619",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "312",
+    "miejscowosc": "Ujazd",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Strzelecka",
+    "numer": "6",
+    "kod": "47-143",
+    "poczta": "Ujazd\r"
+  },
+  {
+    "id": "620",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "312",
+    "miejscowosc": "Ujazd",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Strzelecka",
+    "numer": "6",
+    "kod": "47-143",
+    "poczta": "Ujazd\r"
+  }
+]

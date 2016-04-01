@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5411",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1821",
+    "miejscowosc": "Podborze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bre\u0144",
+    "numer": "3",
+    "kod": "33-210",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "5412",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1821",
+    "miejscowosc": "Podborze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bre\u0144",
+    "numer": "3",
+    "kod": "33-210",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "5413",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1821",
+    "miejscowosc": "Podborze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bre\u0144",
+    "numer": "3",
+    "kod": "33-210",
+    "poczta": "Olesno\r"
+  }
+]

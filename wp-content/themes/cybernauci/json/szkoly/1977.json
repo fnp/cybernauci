@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5704",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1977",
+    "miejscowosc": "Su\u0142oszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Su\u0142oszowa I",
+    "numer": "388",
+    "kod": "32-045",
+    "poczta": "Su\u0142oszowa\r"
+  },
+  {
+    "id": "5705",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1977",
+    "miejscowosc": "Su\u0142oszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II ",
+    "ulica": "Su\u0142oszowa I",
+    "numer": "388",
+    "kod": "32-045",
+    "poczta": "Su\u0142oszowa\r"
+  },
+  {
+    "id": "5701",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1977",
+    "miejscowosc": "Su\u0142oszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Olkuska",
+    "numer": "316",
+    "kod": "32-045",
+    "poczta": "Su\u0142oszowa\r"
+  }
+]

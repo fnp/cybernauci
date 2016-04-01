@@ -1,0 +1,26 @@
+[
+  {
+    "id": "302",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "144",
+    "miejscowosc": "Kamiennik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "1 Maja",
+    "numer": "28",
+    "kod": "48-388",
+    "poczta": "Kamiennik\r"
+  },
+  {
+    "id": "303",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "144",
+    "miejscowosc": "Kamiennik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "1 Maja",
+    "numer": "28",
+    "kod": "48-388",
+    "poczta": "Kamiennik\r"
+  }
+]

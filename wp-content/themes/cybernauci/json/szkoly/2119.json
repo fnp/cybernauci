@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6006",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2119",
+    "miejscowosc": "Trzebunia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Trzebunia",
+    "numer": "444",
+    "kod": "32-438",
+    "poczta": "Pcim\r"
+  },
+  {
+    "id": "5999",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2119",
+    "miejscowosc": "Trzebunia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzebunia",
+    "numer": "444",
+    "kod": "32-438",
+    "poczta": "Trzebunia\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6229",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2246",
+    "miejscowosc": "Piwniczna-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Krynicka",
+    "numer": "2",
+    "kod": "33-350",
+    "poczta": "Piwniczna-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6230",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2246",
+    "miejscowosc": "Piwniczna-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Krynicka",
+    "numer": "2",
+    "kod": "33-350",
+    "poczta": "Piwniczna-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6223",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2246",
+    "miejscowosc": "Piwniczna-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Kosarzyska",
+    "numer": "23",
+    "kod": "33-350",
+    "poczta": "Piwniczna\r"
+  }
+]

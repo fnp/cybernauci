@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7937",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2789",
+    "miejscowosc": "Kazimierza Wielka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Curie-Sk\u0142odowskiej",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "3",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7938",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2789",
+    "miejscowosc": "Kazimierza Wielka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum ZDZ",
+    "ulica": "Kolejowa",
+    "numer": "27",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7936",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2789",
+    "miejscowosc": "Kazimierza Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Pozarz\u0105dowe",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7932",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2789",
+    "miejscowosc": "Kazimierza Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa Nr 1",
+    "ulica": "1-go Maja",
+    "numer": "1",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7933",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2789",
+    "miejscowosc": "Kazimierza Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  }
+]

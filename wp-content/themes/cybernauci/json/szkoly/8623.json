@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23745",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8623",
+    "miejscowosc": "Warmiak",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum SIGiE im. Karola Adamieckiego",
+    "ulica": "Warmiak",
+    "numer": "16",
+    "kod": "07-438",
+    "poczta": "Zalas\r"
+  },
+  {
+    "id": "23740",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8623",
+    "miejscowosc": "Warmiak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa SIGiE im. Karola Adamieckiego",
+    "ulica": "Warmiak",
+    "numer": "16",
+    "kod": "07-438",
+    "poczta": "Zalas\r"
+  }
+]

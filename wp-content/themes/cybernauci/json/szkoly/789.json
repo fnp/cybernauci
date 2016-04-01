@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1929",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "789",
+    "miejscowosc": "Przybor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 7",
+    "ulica": "Przybor\u00f3w",
+    "numer": "187",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1930",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "789",
+    "miejscowosc": "Przybor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Przybor\u00f3w",
+    "numer": "187",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  }
+]

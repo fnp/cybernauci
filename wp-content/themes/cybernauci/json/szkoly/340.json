@@ -1,0 +1,74 @@
+[
+  {
+    "id": "765",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "My\u015bliwska",
+    "numer": "154",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  },
+  {
+    "id": "767",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Szko\u0142a Mistrzostwa Sportowego Polskiego Zwi\u0105zku Pi\u0142ki Siatkowej",
+    "ulica": "Pla\u017cowa",
+    "numer": "8",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  },
+  {
+    "id": "768",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego Polskiego Zwi\u0105zku Pi\u0142ki Siatkowej",
+    "ulica": "Pla\u017cowa",
+    "numer": "8",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  },
+  {
+    "id": "766",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Kr\u00f3lowej Jadwigi",
+    "ulica": "My\u015bliwska",
+    "numer": "154",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  },
+  {
+    "id": "763",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Nr 1 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  },
+  {
+    "id": "764",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "340",
+    "miejscowosc": "Szczyrk",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Nr 1 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "43-370",
+    "poczta": "Szczyrk\r"
+  }
+]

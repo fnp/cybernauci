@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21982",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7912",
+    "miejscowosc": "\u017burawica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ojca \u015awietego Jana Pawa II",
+    "numer": "194",
+    "kod": "37-710",
+    "poczta": "\u017burawica\r"
+  },
+  {
+    "id": "21980",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7912",
+    "miejscowosc": "\u017burawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "numer": "194",
+    "kod": "37-710",
+    "poczta": "\u017burawica\r"
+  },
+  {
+    "id": "21979",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7912",
+    "miejscowosc": "\u017burawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "3",
+    "kod": "37-710",
+    "poczta": "\u017burawica\r"
+  }
+]

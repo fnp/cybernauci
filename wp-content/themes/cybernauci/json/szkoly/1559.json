@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4646",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1559",
+    "miejscowosc": "Susiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Tomaszowska",
+    "numer": "53",
+    "kod": "22-672",
+    "poczta": "Susiec\r"
+  },
+  {
+    "id": "4647",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1559",
+    "miejscowosc": "Susiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tomaszowska",
+    "numer": "53",
+    "kod": "22-672",
+    "poczta": "Susiec\r"
+  }
+]

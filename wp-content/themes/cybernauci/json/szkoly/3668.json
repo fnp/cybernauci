@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10362",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3668",
+    "miejscowosc": "Wasilk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. W. Rabczy\u0144skiego",
+    "ulica": "Adama Mickiewicza",
+    "numer": "2",
+    "kod": "16-010",
+    "poczta": "Wasilk\u00f3w\r"
+  },
+  {
+    "id": "10363",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3668",
+    "miejscowosc": "Wasilk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum SYRIUSZ",
+    "ulica": "Supra\u015blska",
+    "numer": "21",
+    "kod": "16-010",
+    "poczta": "Wasilk\u00f3w\r"
+  },
+  {
+    "id": "10359",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3668",
+    "miejscowosc": "Wasilk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la Zygmunta Augusta",
+    "ulica": "Polna",
+    "numer": "1\/4A",
+    "kod": "16-010",
+    "poczta": "Wasilk\u00f3w\r"
+  },
+  {
+    "id": "10364",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3668",
+    "miejscowosc": "Wasilk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa SYRIUSZ",
+    "ulica": "Supra\u015blska",
+    "numer": "21",
+    "kod": "16-010",
+    "poczta": "Wasilk\u00f3w\r"
+  }
+]

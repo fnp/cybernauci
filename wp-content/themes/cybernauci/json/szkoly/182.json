@@ -1,0 +1,62 @@
+[
+  {
+    "id": "451",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "182",
+    "miejscowosc": "Chr\u00f3\u015bcina",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Niemodli\u0144ska",
+    "numer": "8d",
+    "kod": "46-073",
+    "poczta": "Chr\u00f3\u015bcina\r"
+  },
+  {
+    "id": "452",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "182",
+    "miejscowosc": "Chr\u00f3\u015bcina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Niemodli\u0144ska",
+    "numer": "8d",
+    "kod": "46-073",
+    "poczta": "Chr\u00f3\u015bcina\r"
+  },
+  {
+    "id": "453",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "182",
+    "miejscowosc": "Chr\u00f3\u015bcina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 ",
+    "ulica": "Niemodli\u0144ska",
+    "numer": "39",
+    "kod": "46-073",
+    "poczta": "Chr\u00f3\u015bcina\r"
+  },
+  {
+    "id": "454",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "182",
+    "miejscowosc": "Chr\u00f3\u015bcina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum Zespo\u0142u Szk\u00f3\u0142 ",
+    "ulica": "Niemod\u0142i\u0144ska",
+    "numer": "39",
+    "kod": "46-073",
+    "poczta": "Chr\u00f3\u015bcina\r"
+  },
+  {
+    "id": "380",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "182",
+    "miejscowosc": "Chr\u00f3\u015bcina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Arki Bo\u017cka",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "48-320",
+    "poczta": "Skoroszyce\r"
+  }
+]

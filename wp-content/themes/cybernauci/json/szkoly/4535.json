@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12808",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4535",
+    "miejscowosc": "Purda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Purda",
+    "numer": "23",
+    "kod": "11-030",
+    "poczta": "Purda\r"
+  },
+  {
+    "id": "12805",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4535",
+    "miejscowosc": "Purda",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Purda",
+    "numer": "12",
+    "kod": "11-030",
+    "poczta": "Purda\r"
+  }
+]

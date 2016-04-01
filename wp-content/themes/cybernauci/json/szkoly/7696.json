@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21554",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7696",
+    "miejscowosc": "Ja\u015bliska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ja\u015bliska",
+    "numer": "170",
+    "kod": "38-485",
+    "poczta": "Ja\u015bliska\r"
+  },
+  {
+    "id": "21555",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7696",
+    "miejscowosc": "Ja\u015bliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ja\u015bliska",
+    "numer": "170",
+    "kod": "38-485",
+    "poczta": "Ja\u015bliska\r"
+  }
+]

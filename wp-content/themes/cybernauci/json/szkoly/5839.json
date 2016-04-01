@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16695",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5839",
+    "miejscowosc": "Lutomiersk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Leszka Czarnego",
+    "ulica": "J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "1",
+    "kod": "95-083",
+    "poczta": "Lutomiersk\r"
+  },
+  {
+    "id": "16694",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5839",
+    "miejscowosc": "Lutomiersk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "1",
+    "kod": "95-083",
+    "poczta": "Lutomiersk\r"
+  }
+]

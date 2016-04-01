@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21688",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7746",
+    "miejscowosc": "Zalesie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zalesie",
+    "numer": "123",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  },
+  {
+    "id": "21650",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7746",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "72",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  },
+  {
+    "id": "21689",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7746",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "123",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  }
+]

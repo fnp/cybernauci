@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12413",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4360",
+    "miejscowosc": "Gawliki Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gawliki Wielkie",
+    "numer": "32",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  },
+  {
+    "id": "12414",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4360",
+    "miejscowosc": "Gawliki Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gawliki Wielkie",
+    "numer": "32",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  }
+]

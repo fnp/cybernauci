@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5798",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2023",
+    "miejscowosc": "Sadek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Sadek",
+    "numer": "105",
+    "kod": "34-620",
+    "poczta": "Jod\u0142ownik\r"
+  },
+  {
+    "id": "5799",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2023",
+    "miejscowosc": "Sadek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Sadek",
+    "numer": "105",
+    "kod": "34-620",
+    "poczta": "Jod\u0142ownik\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9772",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3566",
+    "miejscowosc": "Luzino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Mickiewicza",
+    "numer": "22",
+    "kod": "84-242",
+    "poczta": "Luzino\r"
+  },
+  {
+    "id": "9769",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3566",
+    "miejscowosc": "Luzino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "84-242",
+    "poczta": "Luzino\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3778",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1112",
+    "miejscowosc": "Terpentyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Terpentyna",
+    "numer": "182",
+    "kod": "23-251",
+    "poczta": "Dzierzkowice\r"
+  },
+  {
+    "id": "3779",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1112",
+    "miejscowosc": "Terpentyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Terpentyna",
+    "numer": "182",
+    "kod": "23-251",
+    "poczta": "Dzierzkowice\r"
+  }
+]

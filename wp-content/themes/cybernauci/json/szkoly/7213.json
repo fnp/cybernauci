@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20399",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7213",
+    "miejscowosc": "Rzepin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stanis\u0142awa Staszica",
+    "ulica": "Wojska Polskiego",
+    "numer": "30",
+    "kod": "69-110",
+    "poczta": "Rzepin\r"
+  },
+  {
+    "id": "20400",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7213",
+    "miejscowosc": "Rzepin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Wojska Polskiego",
+    "numer": "30",
+    "kod": "69-110",
+    "poczta": "Rzepin\r"
+  },
+  {
+    "id": "20397",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7213",
+    "miejscowosc": "Rzepin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami",
+    "ulica": "Wojska Polskiego",
+    "numer": "28",
+    "kod": "69-110",
+    "poczta": "Rzepin\r"
+  }
+]

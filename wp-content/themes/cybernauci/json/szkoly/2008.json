@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5750",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2008",
+    "miejscowosc": "Wola Zachariaszowska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015awi\u0119tego Floriana",
+    "numer": "1",
+    "kod": "32-087",
+    "poczta": "Wola Zachariaszowska\r"
+  },
+  {
+    "id": "5751",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2008",
+    "miejscowosc": "Wola Zachariaszowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "\u015awi\u0119tego Floriana",
+    "numer": "1",
+    "kod": "32-087",
+    "poczta": "Wola Zachariaszowska\r"
+  }
+]

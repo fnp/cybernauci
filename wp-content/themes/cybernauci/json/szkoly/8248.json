@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22919",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8248",
+    "miejscowosc": "Kraszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kraszewo",
+    "numer": "57A",
+    "kod": "06-456",
+    "poczta": "Ojrze\u0144\r"
+  },
+  {
+    "id": "22920",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8248",
+    "miejscowosc": "Kraszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wac\u0142awa Kozi\u0144skiego",
+    "ulica": "Kraszewo",
+    "numer": "57A",
+    "kod": "06-456",
+    "poczta": "Ojrze\u0144\r"
+  }
+]

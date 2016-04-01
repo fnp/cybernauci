@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24044",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8745",
+    "miejscowosc": "Kr\u0119pa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Sokrates",
+    "ulica": "Wodnik\u00f3w",
+    "numer": "5",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "24041",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8745",
+    "miejscowosc": "Kr\u0119pa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Sokrates",
+    "ulica": "Wodnik\u00f3w",
+    "numer": "5",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  }
+]

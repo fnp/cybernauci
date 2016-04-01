@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1085",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "436",
+    "miejscowosc": "Rudniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-240",
+    "poczta": "Rudniki\r"
+  },
+  {
+    "id": "1086",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "436",
+    "miejscowosc": "Rudniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-240",
+    "poczta": "Rudniki\r"
+  },
+  {
+    "id": "1860",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "436",
+    "miejscowosc": "Rudniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-421",
+    "poczta": "W\u0142odowice\r"
+  },
+  {
+    "id": "1007",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "436",
+    "miejscowosc": "Rudniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rudniki",
+    "numer": "1A",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  }
+]

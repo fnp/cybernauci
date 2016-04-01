@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5211",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1725",
+    "miejscowosc": "Borz\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Borz\u0119cin",
+    "numer": "321B",
+    "kod": "32-825",
+    "poczta": "Borz\u0119cin\r"
+  },
+  {
+    "id": "5217",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1725",
+    "miejscowosc": "Borz\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Borz\u0119cin",
+    "numer": "563",
+    "kod": "32-825",
+    "poczta": "Borz\u0119cin\r"
+  },
+  {
+    "id": "5218",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1725",
+    "miejscowosc": "Borz\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Borz\u0119cin",
+    "numer": "563",
+    "kod": "32-825",
+    "poczta": "Borz\u0119cin\r"
+  }
+]

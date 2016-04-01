@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3799",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1125",
+    "miejscowosc": "Blin\u00f3w Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Blin\u00f3w Drugi",
+    "numer": "111",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  },
+  {
+    "id": "3798",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1125",
+    "miejscowosc": "Blin\u00f3w Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Blin\u00f3w Drugi",
+    "numer": "111",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  }
+]

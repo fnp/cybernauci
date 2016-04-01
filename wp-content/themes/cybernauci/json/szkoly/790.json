@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1936",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "790",
+    "miejscowosc": "Koszarawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Koszarawa",
+    "numer": "142",
+    "kod": "34-332",
+    "poczta": "Koszarawa\r"
+  },
+  {
+    "id": "1933",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "790",
+    "miejscowosc": "Koszarawa",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Fundacji Kr\u00f3lowej \u015awi\u0119tej Jadwigi",
+    "ulica": "Koszarawa",
+    "numer": "675",
+    "kod": "34-332",
+    "poczta": "Koszarawa\r"
+  },
+  {
+    "id": "1934",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "790",
+    "miejscowosc": "Koszarawa",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Fundacji Kr\u00f3lowej \u015awi\u0119tej Jadwigi",
+    "ulica": "Koszarawa",
+    "numer": "675",
+    "kod": "34-332",
+    "poczta": "Koszarawa\r"
+  },
+  {
+    "id": "1935",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "790",
+    "miejscowosc": "Koszarawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Fundacji Kr\u00f3lowej \u015awi\u0119tej Jadwigi",
+    "ulica": "Koszarawa",
+    "numer": "675",
+    "kod": "34-332",
+    "poczta": "Koszarawa\r"
+  },
+  {
+    "id": "1937",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "790",
+    "miejscowosc": "Koszarawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Koszarawa",
+    "numer": "434",
+    "kod": "34-332",
+    "poczta": "Koszarawa\r"
+  }
+]

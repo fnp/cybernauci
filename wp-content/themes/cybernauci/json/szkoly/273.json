@@ -1,0 +1,26 @@
+[
+  {
+    "id": "539",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "273",
+    "miejscowosc": "\u0141\u0105cznik",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Filipa Roboty",
+    "ulica": "Fabryczna",
+    "numer": "4a",
+    "kod": "48-220",
+    "poczta": "\u0141\u0105cznik\r"
+  },
+  {
+    "id": "541",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "273",
+    "miejscowosc": "\u0141\u0105cznik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "\u015awierczewskiego",
+    "numer": "79",
+    "kod": "48-220",
+    "poczta": "\u0141\u0105cznik\r"
+  }
+]

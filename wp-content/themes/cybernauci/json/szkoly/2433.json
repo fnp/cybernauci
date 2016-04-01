@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6674",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2433",
+    "miejscowosc": "Koczan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym ",
+    "ulica": "Koczan\u00f3w",
+    "numer": "14",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6676",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2433",
+    "miejscowosc": "Koczan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Koczan\u00f3w",
+    "numer": "14",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  }
+]

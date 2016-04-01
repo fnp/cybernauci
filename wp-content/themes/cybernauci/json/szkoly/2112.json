@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6882",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2112",
+    "miejscowosc": "Zawada",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zawada",
+    "numer": "87A",
+    "kod": "33-112",
+    "poczta": "Tarnowiec\r"
+  },
+  {
+    "id": "5970",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2112",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zawada",
+    "numer": "24",
+    "kod": "32-445",
+    "poczta": "Krzyszkowice\r"
+  },
+  {
+    "id": "6488",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2112",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawada",
+    "numer": "110",
+    "kod": "32-327",
+    "poczta": "Gorenice\r"
+  },
+  {
+    "id": "6879",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2112",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. o. Zbigniewa Strza\u0142kowskiego ",
+    "ulica": "Zawada",
+    "numer": "87A",
+    "kod": "33-112",
+    "poczta": "Tarnowiec\r"
+  }
+]

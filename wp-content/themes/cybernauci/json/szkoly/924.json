@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3417",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "924",
+    "miejscowosc": "Dere\u017ania Solska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dere\u017ania Solska",
+    "numer": "1a",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3418",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "924",
+    "miejscowosc": "Dere\u017ania Solska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dere\u017ania Solska",
+    "numer": "1a",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

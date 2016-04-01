@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9359",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3405",
+    "miejscowosc": "Mi\u0142oradz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "82-213",
+    "poczta": "Mi\u0142oradz\r"
+  },
+  {
+    "id": "9360",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3405",
+    "miejscowosc": "Mi\u0142oradz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "82-213",
+    "poczta": "Mi\u0142oradz\r"
+  }
+]

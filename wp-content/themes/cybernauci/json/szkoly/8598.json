@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23701",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8598",
+    "miejscowosc": "Czerwin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Piastowska",
+    "numer": "23 A",
+    "kod": "07-407",
+    "poczta": "Czerwin\r"
+  },
+  {
+    "id": "23699",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8598",
+    "miejscowosc": "Czerwin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "07-407",
+    "poczta": "Czerwin\r"
+  },
+  {
+    "id": "23702",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8598",
+    "miejscowosc": "Czerwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Piastowska",
+    "numer": "23A",
+    "kod": "07-407",
+    "poczta": "Czerwin\r"
+  }
+]

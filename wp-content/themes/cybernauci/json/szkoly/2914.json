@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8136",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2914",
+    "miejscowosc": "Kajetan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zab\u0142ocie",
+    "numer": "1",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8137",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2914",
+    "miejscowosc": "Kajetan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zab\u0142ocie",
+    "numer": "1",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  }
+]

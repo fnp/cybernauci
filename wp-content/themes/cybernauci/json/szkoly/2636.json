@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7119",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2636",
+    "miejscowosc": "Bachowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum Nr 3",
+    "ulica": "Ks. Go\u0142by",
+    "numer": "1",
+    "kod": "34-116",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "7120",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2636",
+    "miejscowosc": "Bachowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Ks. Go\u0142by",
+    "numer": "1",
+    "kod": "34-116",
+    "poczta": "Spytkowice\r"
+  }
+]

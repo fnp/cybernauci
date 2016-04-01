@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7913",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2773",
+    "miejscowosc": "Mi\u0105sowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mi\u0105sowa",
+    "numer": "15",
+    "kod": "28-305",
+    "poczta": "Sobk\u00f3w\r"
+  },
+  {
+    "id": "7914",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2773",
+    "miejscowosc": "Mi\u0105sowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mi\u0105sowa",
+    "numer": "15",
+    "kod": "28-305",
+    "poczta": "Sobk\u00f3w\r"
+  }
+]

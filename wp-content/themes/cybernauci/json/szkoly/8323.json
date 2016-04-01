@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23063",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8323",
+    "miejscowosc": "Bia\u0142otarsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bia\u0142otarsk",
+    "numer": "34",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23064",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8323",
+    "miejscowosc": "Bia\u0142otarsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142otarsk",
+    "numer": "34",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  }
+]

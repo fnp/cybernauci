@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8644",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3132",
+    "miejscowosc": "Kluczewsko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "29-120",
+    "poczta": "Kluczewsko\r"
+  },
+  {
+    "id": "8647",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3132",
+    "miejscowosc": "Kluczewsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Przedszkolno-Szkolnym",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "29-120",
+    "poczta": "Kluczewsko\r"
+  }
+]

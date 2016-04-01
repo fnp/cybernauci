@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12685",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4480",
+    "miejscowosc": "Kowale Oleckie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Witosa",
+    "numer": "6",
+    "kod": "19-420",
+    "poczta": "Kowale Oleckie\r"
+  },
+  {
+    "id": "12683",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4480",
+    "miejscowosc": "Kowale Oleckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "88",
+    "kod": "19-420",
+    "poczta": "Kowale Oleckie\r"
+  }
+]

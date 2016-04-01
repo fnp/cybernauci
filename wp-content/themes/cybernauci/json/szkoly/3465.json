@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9487",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3465",
+    "miejscowosc": "Pob\u0142ocie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pob\u0142ocie",
+    "numer": "31",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9488",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3465",
+    "miejscowosc": "Pob\u0142ocie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliana Tuwima",
+    "ulica": "Pob\u0142ocie",
+    "numer": "31",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9758",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3465",
+    "miejscowosc": "Pob\u0142ocie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u017bo\u0142nierzy Niez\u0142omnych ",
+    "ulica": "Pob\u0142ocie",
+    "numer": "7",
+    "kod": "84-223",
+    "poczta": "Linia\r"
+  }
+]

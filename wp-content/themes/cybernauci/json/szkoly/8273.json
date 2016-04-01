@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22979",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8273",
+    "miejscowosc": "Ruda Talubska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Akacjowa",
+    "numer": "10",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22980",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8273",
+    "miejscowosc": "Ruda Talubska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Akacjowa",
+    "numer": "10",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6863",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2525",
+    "miejscowosc": "\u0141\u0119kawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte",
+    "ulica": "\u0141\u0119kawica",
+    "numer": "88",
+    "kod": "33-156",
+    "poczta": "Skrzysz\u00f3w\r"
+  },
+  {
+    "id": "7127",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2525",
+    "miejscowosc": "\u0141\u0119kawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Romana Jab\u0142o\u0144skiego",
+    "ulica": "\u0141\u0119kawica",
+    "numer": "19",
+    "kod": "34-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  }
+]

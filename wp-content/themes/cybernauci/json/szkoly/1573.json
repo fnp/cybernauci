@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4664",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1573",
+    "miejscowosc": "\u0141aszcz\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "2",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  },
+  {
+    "id": "4665",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1573",
+    "miejscowosc": "\u0141aszcz\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "2",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  }
+]

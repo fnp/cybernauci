@@ -1,0 +1,86 @@
+[
+  {
+    "id": "22053",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  },
+  {
+    "id": "21542",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kwiatowa",
+    "numer": "15",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  },
+  {
+    "id": "22055",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  },
+  {
+    "id": "22054",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  },
+  {
+    "id": "22052",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  },
+  {
+    "id": "21543",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kwiatowa",
+    "numer": "15",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  },
+  {
+    "id": "22056",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7687",
+    "miejscowosc": "Sieniawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Informatyczne",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  }
+]

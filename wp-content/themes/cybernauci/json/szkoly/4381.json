@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13018",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4381",
+    "miejscowosc": "Grabowo",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum",
+    "ulica": "Grabowo",
+    "numer": "54",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13019",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4381",
+    "miejscowosc": "Grabowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Micha\u0142a Kajki",
+    "ulica": "Grabowo",
+    "numer": "54",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "12463",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4381",
+    "miejscowosc": "Grabowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Grabowo",
+    "numer": "116",
+    "kod": "14-229",
+    "poczta": "Ro\u017cental\r"
+  },
+  {
+    "id": "12464",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4381",
+    "miejscowosc": "Grabowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Grabowo",
+    "numer": "116",
+    "kod": "14-229",
+    "poczta": "Ro\u017cental\r"
+  }
+]

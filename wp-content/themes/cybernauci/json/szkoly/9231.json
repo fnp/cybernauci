@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25060",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9231",
+    "miejscowosc": "Bra\u0144szczyk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nadbu\u017cna",
+    "numer": "3",
+    "kod": "07-221",
+    "poczta": "Bra\u0144szczyk\r"
+  },
+  {
+    "id": "25061",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9231",
+    "miejscowosc": "Bra\u0144szczyk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nadbu\u017cna",
+    "numer": "3",
+    "kod": "07-221",
+    "poczta": "Bra\u0144szczyk\r"
+  }
+]

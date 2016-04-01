@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7805",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2709",
+    "miejscowosc": "Gnojno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gnojno",
+    "numer": "",
+    "kod": "28-114",
+    "poczta": "Gnojno\r"
+  },
+  {
+    "id": "7800",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2709",
+    "miejscowosc": "Gnojno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "148",
+    "kod": "28-114",
+    "poczta": "Gnojno\r"
+  }
+]

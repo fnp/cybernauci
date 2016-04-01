@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12214",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4273",
+    "miejscowosc": "Pieni\u0119\u017cno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Ornecka",
+    "numer": "1",
+    "kod": "14-520",
+    "poczta": "Pieni\u0119\u017cno\r"
+  },
+  {
+    "id": "12216",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4273",
+    "miejscowosc": "Pieni\u0119\u017cno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "14-520",
+    "poczta": "Pieni\u0119\u017cno\r"
+  },
+  {
+    "id": "12215",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4273",
+    "miejscowosc": "Pieni\u0119\u017cno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ornecka",
+    "numer": "8",
+    "kod": "14-520",
+    "poczta": "Pieni\u0119\u017cno\r"
+  }
+]

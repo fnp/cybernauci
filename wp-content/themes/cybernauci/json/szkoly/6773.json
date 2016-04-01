@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19045",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6773",
+    "miejscowosc": "Stara \u0141ubianka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Polna",
+    "numer": "8",
+    "kod": "64-932",
+    "poczta": "Stara \u0141ubianka\r"
+  },
+  {
+    "id": "19046",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6773",
+    "miejscowosc": "Stara \u0141ubianka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Polna",
+    "numer": "8",
+    "kod": "64-932",
+    "poczta": "Stara \u0141ubianka\r"
+  },
+  {
+    "id": "19047",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6773",
+    "miejscowosc": "Stara \u0141ubianka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszkowc\u00f3w",
+    "numer": "2A",
+    "kod": "64-932",
+    "poczta": "Stara \u0141ubianka\r"
+  }
+]

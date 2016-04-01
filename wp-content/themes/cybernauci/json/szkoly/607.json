@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1372",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "607",
+    "miejscowosc": "\u017barki-Letnisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "20",
+    "kod": "42-311",
+    "poczta": "\u017barki Letnisko\r"
+  },
+  {
+    "id": "1366",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "607",
+    "miejscowosc": "\u017barki-Letnisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Pokoju",
+    "ulica": "Szkolna",
+    "numer": "20",
+    "kod": "42-311",
+    "poczta": "\u017barki Letnisko\r"
+  }
+]

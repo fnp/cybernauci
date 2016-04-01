@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18146",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6327",
+    "miejscowosc": "Ruchocice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Przedszkolno-Szkolno-Gimnazjalnym",
+    "ulica": "Pozna\u0144ska",
+    "numer": "23",
+    "kod": "62-073",
+    "poczta": "Ruchocice\r"
+  },
+  {
+    "id": "18147",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6327",
+    "miejscowosc": "Ruchocice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Mickiewicza z Oddzia\u0142ami Integracyjnymi w Zespole Przedszkolno-Szkolno-Gimnazjalnym",
+    "ulica": "Pozna\u0144ska",
+    "numer": "23",
+    "kod": "62-073",
+    "poczta": "Ruchocice\r"
+  }
+]

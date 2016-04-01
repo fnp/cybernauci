@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5192",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1715",
+    "miejscowosc": "D\u0105br\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "D\u0105br\u00f3wka",
+    "numer": "1",
+    "kod": "32-712",
+    "poczta": "Bratucice\r"
+  },
+  {
+    "id": "5193",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1715",
+    "miejscowosc": "D\u0105br\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0105br\u00f3wka",
+    "numer": "1",
+    "kod": "32-712",
+    "poczta": "Bratucice\r"
+  },
+  {
+    "id": "7126",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1715",
+    "miejscowosc": "D\u0105br\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "D\u0105br\u00f3wka",
+    "numer": "",
+    "kod": "34-146",
+    "poczta": "Strysz\u00f3w\r"
+  }
+]

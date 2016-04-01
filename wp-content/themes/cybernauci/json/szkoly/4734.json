@@ -1,0 +1,86 @@
+[
+  {
+    "id": "13347",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Czteroletnie Technikum",
+    "ulica": "23 Stycznia",
+    "numer": "13",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13350",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1",
+    "ulica": "Tartaczna",
+    "numer": "25",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13346",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2",
+    "ulica": "29 Listopada",
+    "numer": "7",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13348",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "23 Stycznia",
+    "numer": "13",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13351",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Tartaczna",
+    "numer": "25",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13345",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 im. Bojownik\u00f3w o Wolno\u015b\u0107 i Demokracj\u0119",
+    "ulica": "S\u0142owackiego",
+    "numer": "4",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  },
+  {
+    "id": "13349",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4734",
+    "miejscowosc": "Solec Kujawski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "23 Stycznia",
+    "numer": "13",
+    "kod": "86-050",
+    "poczta": "Solec Kujawski\r"
+  }
+]

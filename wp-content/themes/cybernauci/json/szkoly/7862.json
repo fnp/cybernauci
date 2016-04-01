@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22452",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7862",
+    "miejscowosc": "Lipa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "37-470",
+    "poczta": "Zaklik\u00f3w\r"
+  },
+  {
+    "id": "22453",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7862",
+    "miejscowosc": "Lipa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "37-470",
+    "poczta": "Zaklik\u00f3w\r"
+  },
+  {
+    "id": "21904",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7862",
+    "miejscowosc": "Lipa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipa",
+    "numer": "",
+    "kod": "37-751",
+    "poczta": "\u017bohatyn\r"
+  }
+]

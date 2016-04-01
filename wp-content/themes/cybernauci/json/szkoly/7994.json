@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22152",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7994",
+    "miejscowosc": "Wielopole Skrzy\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wielopole Skrzy\u0144skie",
+    "numer": "265",
+    "kod": "39-110",
+    "poczta": "Wielopole Skrzy\u0144skie\r"
+  },
+  {
+    "id": "22151",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7994",
+    "miejscowosc": "Wielopole Skrzy\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wielopole Skrzy\u0144skie",
+    "numer": "265",
+    "kod": "39-110",
+    "poczta": "Wielopole Skrzy\u0144skie\r"
+  }
+]

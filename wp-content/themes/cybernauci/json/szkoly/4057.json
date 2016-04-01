@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11427",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4057",
+    "miejscowosc": "Drzonowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Boles\u0142awa Chrobrego",
+    "ulica": "Drznowo",
+    "numer": "12",
+    "kod": "78-133",
+    "poczta": "Drzonowo\r"
+  },
+  {
+    "id": "11754",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4057",
+    "miejscowosc": "Drzonowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliana Tuwima ",
+    "ulica": "Drzonowo",
+    "numer": "48A",
+    "kod": "78-421",
+    "poczta": "Drzonowo\r"
+  },
+  {
+    "id": "11428",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4057",
+    "miejscowosc": "Drzonowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mieszka I ",
+    "ulica": "Drznowo",
+    "numer": "13",
+    "kod": "78-133",
+    "poczta": "Drzonowo\r"
+  }
+]

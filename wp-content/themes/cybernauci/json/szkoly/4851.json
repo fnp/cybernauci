@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13600",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4851",
+    "miejscowosc": "Dobrzy\u0144 nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Czteroletnie Technikum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "13597",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4851",
+    "miejscowosc": "Dobrzy\u0144 nad Wis\u0142\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Adama Adamandego Kocha\u0144skiego",
+    "ulica": "Licealna",
+    "numer": "1",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "13593",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4851",
+    "miejscowosc": "Dobrzy\u0144 nad Wis\u0142\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Licealna",
+    "numer": "1",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "13601",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4851",
+    "miejscowosc": "Dobrzy\u0144 nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  }
+]

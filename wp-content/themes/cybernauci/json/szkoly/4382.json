@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12465",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4382",
+    "miejscowosc": "Kazanice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. kard. Stanis\u0142awa Dziwisza",
+    "ulica": "Kazanice",
+    "numer": "83A",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12466",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4382",
+    "miejscowosc": "Kazanice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. kard. Stanis\u0142awa Dziwisza",
+    "ulica": "Kazanice",
+    "numer": "83A",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  }
+]

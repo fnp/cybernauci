@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13631",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4873",
+    "miejscowosc": "Parlin",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi i Oddzia\u0142em Przedszkolnym",
+    "ulica": "Parlin",
+    "numer": "38",
+    "kod": "88-306",
+    "poczta": "D\u0105browa\r"
+  },
+  {
+    "id": "13633",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4873",
+    "miejscowosc": "Parlin",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Parlin",
+    "numer": "38",
+    "kod": "88-306",
+    "poczta": "D\u0105browa\r"
+  }
+]

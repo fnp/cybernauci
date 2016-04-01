@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18430",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6482",
+    "miejscowosc": "Przedecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kard. Stefana Wyszy\u0144skiego ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "62-635",
+    "poczta": "Przedecz\r"
+  },
+  {
+    "id": "18431",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6482",
+    "miejscowosc": "Przedecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Umi\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "62-635",
+    "poczta": "Przedecz\r"
+  }
+]

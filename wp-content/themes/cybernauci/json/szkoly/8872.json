@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24324",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8872",
+    "miejscowosc": "Krasne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Ludwika Krasi\u0144skiego",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "1",
+    "kod": "06-408",
+    "poczta": "Krasne\r"
+  },
+  {
+    "id": "24323",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8872",
+    "miejscowosc": "Krasne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "1",
+    "kod": "06-408",
+    "poczta": "Krasne\r"
+  }
+]

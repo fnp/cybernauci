@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10677",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3832",
+    "miejscowosc": "Korycin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-140",
+    "poczta": "Korycin\r"
+  },
+  {
+    "id": "10678",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3832",
+    "miejscowosc": "Korycin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-140",
+    "poczta": "Korycin\r"
+  }
+]

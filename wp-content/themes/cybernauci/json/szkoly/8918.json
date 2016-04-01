@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24411",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8918",
+    "miejscowosc": "\u015awiercze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Pu\u0142tuska",
+    "numer": "26 A",
+    "kod": "06-150",
+    "poczta": "\u015awiercze\r"
+  },
+  {
+    "id": "24413",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8918",
+    "miejscowosc": "\u015awiercze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Pu\u0142tuska",
+    "numer": "26c",
+    "kod": "06-150",
+    "poczta": "\u015awiercze\r"
+  }
+]

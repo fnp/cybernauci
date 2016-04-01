@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11344",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4028",
+    "miejscowosc": "Trzci\u0144sko-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Trzci\u0144sko-Zdr\u00f3j",
+    "numer": "",
+    "kod": "74-510",
+    "poczta": "Trzci\u0144sko-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11342",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4028",
+    "miejscowosc": "Trzci\u0144sko-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "2 Lutego",
+    "numer": "3",
+    "kod": "74-510",
+    "poczta": "Trzci\u0144sko-Zdr\u00f3j\r"
+  }
+]

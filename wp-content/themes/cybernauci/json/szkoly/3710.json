@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10440",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3710",
+    "miejscowosc": "Rajgr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Stanki",
+    "numer": "2",
+    "kod": "19-206",
+    "poczta": "Rajgr\u00f3d\r"
+  },
+  {
+    "id": "10441",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3710",
+    "miejscowosc": "Rajgr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "24",
+    "kod": "19-206",
+    "poczta": "Rajgr\u00f3d\r"
+  }
+]

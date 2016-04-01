@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24720",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9092",
+    "miejscowosc": "Teresin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Franciszka z Asy\u017cu",
+    "ulica": "Al. XX-lecia",
+    "numer": "2",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  },
+  {
+    "id": "24723",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9092",
+    "miejscowosc": "Teresin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Aleja XX-lecia",
+    "numer": "12",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  },
+  {
+    "id": "24715",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9092",
+    "miejscowosc": "Teresin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Al. Ks. Druckiego-Lubeckiego",
+    "numer": "3",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  },
+  {
+    "id": "24724",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9092",
+    "miejscowosc": "Teresin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Aleja XX-lecia",
+    "numer": "12",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  },
+  {
+    "id": "24725",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9092",
+    "miejscowosc": "Teresin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Aleja XX-lecia",
+    "numer": "12",
+    "kod": "96-515",
+    "poczta": "Teresin\r"
+  }
+]

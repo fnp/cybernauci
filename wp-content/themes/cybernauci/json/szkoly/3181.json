@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8855",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3181",
+    "miejscowosc": "Studzienice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brzozowa",
+    "numer": "7",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  },
+  {
+    "id": "8856",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3181",
+    "miejscowosc": "Studzienice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzozowa",
+    "numer": "7",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19579",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7022",
+    "miejscowosc": "Kaczki \u015arednie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kaczki \u015arednie",
+    "numer": "62",
+    "kod": "62-700",
+    "poczta": "Turek\r"
+  },
+  {
+    "id": "19576",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7022",
+    "miejscowosc": "Kaczki \u015arednie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Kaczki \u015arednie",
+    "numer": "63",
+    "kod": "62-700",
+    "poczta": "Turek\r"
+  },
+  {
+    "id": "19580",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7022",
+    "miejscowosc": "Kaczki \u015arednie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kaczki \u015arednie",
+    "numer": "62",
+    "kod": "62-700",
+    "poczta": "Turek\r"
+  }
+]

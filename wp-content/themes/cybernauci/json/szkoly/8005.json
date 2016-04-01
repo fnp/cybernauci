@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22178",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8005",
+    "miejscowosc": "Boguchwa\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Doktora Tkaczowa",
+    "numer": "146",
+    "kod": "36-040",
+    "poczta": "Boguchwa\u0142a\r"
+  },
+  {
+    "id": "22177",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8005",
+    "miejscowosc": "Boguchwa\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. pp\u0142k. Stanis\u0142awa \u017bytkiewicza",
+    "ulica": "Tkaczowa",
+    "numer": "156",
+    "kod": "36-040",
+    "poczta": "Boguchwa\u0142a\r"
+  },
+  {
+    "id": "22179",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8005",
+    "miejscowosc": "Boguchwa\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Doktora Tkaczowa",
+    "numer": "146",
+    "kod": "36-040",
+    "poczta": "Boguchwa\u0142a\r"
+  },
+  {
+    "id": "22170",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8005",
+    "miejscowosc": "Boguchwa\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Stanis\u0142awa Maczka",
+    "ulica": "Tkaczowa",
+    "numer": "156",
+    "kod": "36-040",
+    "poczta": "Boguchwa\u0142a\r"
+  }
+]

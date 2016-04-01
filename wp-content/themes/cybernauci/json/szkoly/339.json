@@ -1,0 +1,38 @@
+[
+  {
+    "id": "761",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "339",
+    "miejscowosc": "S\u0142awk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Gen. W\u0142. Sikorskiego",
+    "numer": "4",
+    "kod": "41-260",
+    "poczta": "S\u0142awk\u00f3w\r"
+  },
+  {
+    "id": "762",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "339",
+    "miejscowosc": "S\u0142awk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gen. W\u0142. Sikorskiego",
+    "numer": "4",
+    "kod": "41-260",
+    "poczta": "S\u0142awk\u00f3w\r"
+  },
+  {
+    "id": "760",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "339",
+    "miejscowosc": "S\u0142awk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Browarna",
+    "numer": "55",
+    "kod": "41-260",
+    "poczta": "S\u0142awk\u00f3w\r"
+  }
+]

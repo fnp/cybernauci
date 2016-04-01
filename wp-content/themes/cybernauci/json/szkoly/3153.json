@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8793",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3153",
+    "miejscowosc": "Borzytuchom",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "77-141",
+    "poczta": "Borzytuchom\r"
+  },
+  {
+    "id": "8794",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3153",
+    "miejscowosc": "Borzytuchom",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "77-141",
+    "poczta": "Borzytuchom\r"
+  }
+]

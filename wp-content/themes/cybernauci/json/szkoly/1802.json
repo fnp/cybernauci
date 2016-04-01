@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5381",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1802",
+    "miejscowosc": "Podlipie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Podlipie",
+    "numer": "33",
+    "kod": "33-220",
+    "poczta": "Boles\u0142aw\r"
+  },
+  {
+    "id": "6462",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1802",
+    "miejscowosc": "Podlipie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Podlipie",
+    "numer": "153",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  },
+  {
+    "id": "6463",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1802",
+    "miejscowosc": "Podlipie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Podlipie",
+    "numer": "153",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  }
+]

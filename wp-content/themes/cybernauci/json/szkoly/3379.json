@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9273",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3379",
+    "miejscowosc": "Ryjewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grunwaldzka",
+    "numer": "63",
+    "kod": "82-420",
+    "poczta": "Ryjewo\r"
+  },
+  {
+    "id": "9274",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3379",
+    "miejscowosc": "Ryjewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grunwaldzka",
+    "numer": "63",
+    "kod": "82-420",
+    "poczta": "Ryjewo\r"
+  }
+]

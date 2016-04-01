@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3548",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1006",
+    "miejscowosc": "\u017bmud\u017a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "\u017bmud\u017a Kolonia",
+    "numer": "10",
+    "kod": "22-114",
+    "poczta": "\u017bmud\u017a\r"
+  },
+  {
+    "id": "3547",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1006",
+    "miejscowosc": "\u017bmud\u017a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u017bmud\u017a Kolonia",
+    "numer": "10",
+    "kod": "22-114",
+    "poczta": "\u017bmud\u017a\r"
+  }
+]

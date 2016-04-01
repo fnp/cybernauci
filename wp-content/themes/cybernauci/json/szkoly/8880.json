@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24335",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8880",
+    "miejscowosc": "Bogate",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bogate",
+    "numer": "11",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  },
+  {
+    "id": "24336",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8880",
+    "miejscowosc": "Bogate",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bogate",
+    "numer": "11",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  }
+]

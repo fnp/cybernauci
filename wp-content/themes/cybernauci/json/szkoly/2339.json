@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6438",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wawrzy\u0144ca Spytka Jordana",
+    "ulica": "Spytkowice",
+    "numer": "12",
+    "kod": "34-745",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "6439",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. por. Tadeusza Stefaniszyna",
+    "ulica": "Spytkowice",
+    "numer": "12",
+    "kod": "34-745",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "7117",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wi\u015blana",
+    "numer": "53",
+    "kod": "34-116",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "6436",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. 12 Pu\u0142ku Piechoty",
+    "ulica": "Spytkowice",
+    "numer": "566",
+    "kod": "34-745",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "6437",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. O. \u015aw. Jana Paw\u0142a II",
+    "ulica": "Spytkowice",
+    "numer": "153",
+    "kod": "34-745",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "7124",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "34-116",
+    "poczta": "Spytkowice\r"
+  },
+  {
+    "id": "7125",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2339",
+    "miejscowosc": "Spytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "34-116",
+    "poczta": "Spytkowice\r"
+  }
+]

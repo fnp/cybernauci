@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22025",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7933",
+    "miejscowosc": "Sietesz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sietesz",
+    "numer": "329",
+    "kod": "37-206",
+    "poczta": "Sietesz\r"
+  },
+  {
+    "id": "22026",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7933",
+    "miejscowosc": "Sietesz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sietesz",
+    "numer": "329",
+    "kod": "37-206",
+    "poczta": "Sietesz\r"
+  }
+]

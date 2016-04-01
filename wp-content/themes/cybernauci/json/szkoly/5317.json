@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15050",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5317",
+    "miejscowosc": "Legnickie Pole",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Asama",
+    "numer": "7",
+    "kod": "59-241",
+    "poczta": "Legnickie Pole\r"
+  },
+  {
+    "id": "15051",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5317",
+    "miejscowosc": "Legnickie Pole",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Asama",
+    "numer": "7",
+    "kod": "59-241",
+    "poczta": "Legnickie Pole\r"
+  }
+]

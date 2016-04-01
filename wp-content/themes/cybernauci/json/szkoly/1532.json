@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4588",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1532",
+    "miejscowosc": "Trawniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Trawniki",
+    "numer": "606",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  },
+  {
+    "id": "4592",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1532",
+    "miejscowosc": "Trawniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Trawniki",
+    "numer": "",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  },
+  {
+    "id": "4589",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1532",
+    "miejscowosc": "Trawniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trawniki",
+    "numer": "606",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  },
+  {
+    "id": "4593",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1532",
+    "miejscowosc": "Trawniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum G\u00f3rnicze",
+    "ulica": "Trawniki",
+    "numer": "",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  },
+  {
+    "id": "4594",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1532",
+    "miejscowosc": "Trawniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Trawniki",
+    "numer": "",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  }
+]

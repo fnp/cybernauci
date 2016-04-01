@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2004",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "824",
+    "miejscowosc": "Ujso\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Karola Wojty\u0142y ",
+    "ulica": "Ks. Pr. J. Piotrowskiego",
+    "numer": "6",
+    "kod": "34-371",
+    "poczta": "Ujso\u0142y\r"
+  },
+  {
+    "id": "2000",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "824",
+    "miejscowosc": "Ujso\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ks. Pr. J. Piotrowskiego",
+    "numer": "6",
+    "kod": "34-371",
+    "poczta": "Ujso\u0142y\r"
+  }
+]

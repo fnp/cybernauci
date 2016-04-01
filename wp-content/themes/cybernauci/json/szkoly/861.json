@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3303",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "861",
+    "miejscowosc": "Swory",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "34b",
+    "kod": "21-500",
+    "poczta": "Bia\u0142a Podlaska\r"
+  },
+  {
+    "id": "3300",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "861",
+    "miejscowosc": "Swory",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "21-500",
+    "poczta": "Bia\u0142a Podlaska\r"
+  }
+]

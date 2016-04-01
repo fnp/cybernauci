@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11093",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3924",
+    "miejscowosc": "Laski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Laski",
+    "numer": "30",
+    "kod": "78-217",
+    "poczta": "Stanomino\r"
+  },
+  {
+    "id": "11091",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3924",
+    "miejscowosc": "Laski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Laski",
+    "numer": "30",
+    "kod": "78-217",
+    "poczta": "Stanomino\r"
+  }
+]

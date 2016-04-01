@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11332",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4020",
+    "miejscowosc": "Mieszkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Technik\u00f3w",
+    "numer": "4",
+    "kod": "74-505",
+    "poczta": "Mieszkowice\r"
+  },
+  {
+    "id": "11329",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4020",
+    "miejscowosc": "Mieszkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mieszka I",
+    "ulica": "H. Sienkiewicza",
+    "numer": "56",
+    "kod": "74-505",
+    "poczta": "Mieszkowice\r"
+  },
+  {
+    "id": "11333",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4020",
+    "miejscowosc": "Mieszkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Technik\u00f3w",
+    "numer": "1",
+    "kod": "74-505",
+    "poczta": "Mieszkowice\r"
+  },
+  {
+    "id": "11334",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4020",
+    "miejscowosc": "Mieszkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Technik\u00f3w",
+    "numer": "1",
+    "kod": "74-505",
+    "poczta": "Mieszkowice\r"
+  }
+]

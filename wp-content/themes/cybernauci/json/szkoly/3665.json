@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10352",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3665",
+    "miejscowosc": "Tykocin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Klemensa Branickiego",
+    "ulica": "Kochanowskiego",
+    "numer": "1",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  },
+  {
+    "id": "10353",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3665",
+    "miejscowosc": "Tykocin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Kochanowskiego",
+    "numer": "1",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  },
+  {
+    "id": "10354",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3665",
+    "miejscowosc": "Tykocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Czarnieckiego",
+    "ulica": "Kochanowskiego",
+    "numer": "1",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  },
+  {
+    "id": "10355",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3665",
+    "miejscowosc": "Tykocin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Kochanowskiego",
+    "numer": "1",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  }
+]

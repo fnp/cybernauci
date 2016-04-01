@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18489",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6525",
+    "miejscowosc": "S\u0142awsk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ok\u00f3lna",
+    "numer": "3",
+    "kod": "62-586",
+    "poczta": "Rzg\u00f3w\r"
+  },
+  {
+    "id": "18490",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6525",
+    "miejscowosc": "S\u0142awsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Ok\u00f3lna",
+    "numer": "3",
+    "kod": "62-586",
+    "poczta": "Rzg\u00f3w\r"
+  }
+]

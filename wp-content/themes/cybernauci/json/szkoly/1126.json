@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3800",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1126",
+    "miejscowosc": "Huta J\u00f3zef\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Huta J\u00f3zef\u00f3w",
+    "numer": "132",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  },
+  {
+    "id": "3801",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1126",
+    "miejscowosc": "Huta J\u00f3zef\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Huta J\u00f3zef\u00f3w",
+    "numer": "132",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  }
+]

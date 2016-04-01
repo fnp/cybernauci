@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10314",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3649",
+    "miejscowosc": "Kleosin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zambrowska",
+    "numer": "20",
+    "kod": "16-001",
+    "poczta": "Kleosin\r"
+  },
+  {
+    "id": "10315",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3649",
+    "miejscowosc": "Kleosin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zambrowska",
+    "numer": "20",
+    "kod": "16-001",
+    "poczta": "Kleosin\r"
+  }
+]

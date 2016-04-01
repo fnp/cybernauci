@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7031",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2600",
+    "miejscowosc": "Ko\u015bcielisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szelig\u00f3wka",
+    "numer": "11",
+    "kod": "34-511",
+    "poczta": "Ko\u015bcielisko\r"
+  },
+  {
+    "id": "7032",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2600",
+    "miejscowosc": "Ko\u015bcielisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szelig\u00f3wka",
+    "numer": "11",
+    "kod": "34-511",
+    "poczta": "Ko\u015bcielisko\r"
+  }
+]

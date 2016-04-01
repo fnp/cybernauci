@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16629",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5816",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w Zespole Szk\u00f3\u0142 Samorz\u0105dowych ",
+    "ulica": "Szkolna",
+    "numer": "2a",
+    "kod": "26-315",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  },
+  {
+    "id": "16630",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5816",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Szkolna",
+    "numer": "2a",
+    "kod": "26-315",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  }
+]

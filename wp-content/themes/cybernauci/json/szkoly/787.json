@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1925",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "787",
+    "miejscowosc": "Korbiel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5 ",
+    "ulica": "Beskidzka",
+    "numer": "40",
+    "kod": "34-335",
+    "poczta": "Krzy\u017cowa\r"
+  },
+  {
+    "id": "1926",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "787",
+    "miejscowosc": "Korbiel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Beskidzka",
+    "numer": "40",
+    "kod": "34-335",
+    "poczta": "Krzy\u017cowa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18219",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6366",
+    "miejscowosc": "Blizan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Blizan\u00f3w",
+    "numer": "56",
+    "kod": "62-814",
+    "poczta": "Blizan\u00f3w\r"
+  },
+  {
+    "id": "18220",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6366",
+    "miejscowosc": "Blizan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Blizan\u00f3w",
+    "numer": "56",
+    "kod": "62-814",
+    "poczta": "Blizan\u00f3w\r"
+  }
+]

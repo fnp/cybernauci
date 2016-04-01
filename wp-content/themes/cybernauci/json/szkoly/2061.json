@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5862",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2061",
+    "miejscowosc": "Lubomierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Lubomierz",
+    "numer": "345",
+    "kod": "34-736",
+    "poczta": "Lubomierz\r"
+  },
+  {
+    "id": "5863",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2061",
+    "miejscowosc": "Lubomierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Lubomierz",
+    "numer": "302",
+    "kod": "34-736",
+    "poczta": "Lubomierz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9189",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3335",
+    "miejscowosc": "Karsin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Rozalii Narloch",
+    "ulica": "D\u0142uga",
+    "numer": "167",
+    "kod": "83-440",
+    "poczta": "Karsin\r"
+  },
+  {
+    "id": "9190",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3335",
+    "miejscowosc": "Karsin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Rogali",
+    "ulica": "D\u0142uga",
+    "numer": "167",
+    "kod": "83-440",
+    "poczta": "Karsin\r"
+  }
+]

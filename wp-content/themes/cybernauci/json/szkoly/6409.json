@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18288",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6409",
+    "miejscowosc": "Szczytniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pop\u00f3w",
+    "numer": "54",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  },
+  {
+    "id": "18289",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6409",
+    "miejscowosc": "Szczytniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pop\u00f3w",
+    "numer": "54",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  }
+]

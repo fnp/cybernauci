@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18369",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6448",
+    "miejscowosc": "Brd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Mickiewicza",
+    "numer": "8",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  },
+  {
+    "id": "18370",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6448",
+    "miejscowosc": "Brd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Mickiewicza",
+    "numer": "8",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  }
+]

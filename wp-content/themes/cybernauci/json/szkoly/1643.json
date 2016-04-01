@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4784",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1643",
+    "miejscowosc": "Su\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Su\u0142\u00f3w",
+    "numer": "64",
+    "kod": "22-448",
+    "poczta": "Su\u0142\u00f3w\r"
+  },
+  {
+    "id": "4785",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1643",
+    "miejscowosc": "Su\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Su\u0142\u00f3w",
+    "numer": "64",
+    "kod": "22-448",
+    "poczta": "Su\u0142\u00f3w\r"
+  }
+]

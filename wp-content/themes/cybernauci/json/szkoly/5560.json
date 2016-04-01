@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15683",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5560",
+    "miejscowosc": "Krzy\u017cowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "2",
+    "kod": "55-040",
+    "poczta": "Kobierzyce\r"
+  },
+  {
+    "id": "15684",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5560",
+    "miejscowosc": "Krzy\u017cowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "2",
+    "kod": "55-040",
+    "poczta": "Kobierzyce\r"
+  }
+]

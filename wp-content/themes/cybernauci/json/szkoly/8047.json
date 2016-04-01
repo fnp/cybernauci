@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22255",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8047",
+    "miejscowosc": "G\u00f3rno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Centralna",
+    "numer": "14",
+    "kod": "36-051",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "22250",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8047",
+    "miejscowosc": "G\u00f3rno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. I. Partyki",
+    "ulica": "Zaborze",
+    "numer": "51",
+    "kod": "36-051",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "22256",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8047",
+    "miejscowosc": "G\u00f3rno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Centralna",
+    "numer": "14",
+    "kod": "36-051",
+    "poczta": "G\u00f3rno\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20652",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7284",
+    "miejscowosc": "Brody",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kili\u0144skiego",
+    "numer": "11",
+    "kod": "68-343",
+    "poczta": "Brody\r"
+  },
+  {
+    "id": "20653",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7284",
+    "miejscowosc": "Brody",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Kili\u0144skiego",
+    "numer": "11",
+    "kod": "68-343",
+    "poczta": "Brody\r"
+  },
+  {
+    "id": "20534",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7284",
+    "miejscowosc": "Brody",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jagielnicka",
+    "numer": "97",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16336",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5664",
+    "miejscowosc": "Bedlno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Bedlno",
+    "numer": "31A",
+    "kod": "99-311",
+    "poczta": "Bedlno\r"
+  },
+  {
+    "id": "16335",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5664",
+    "miejscowosc": "Bedlno",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Bedlno",
+    "numer": "31b",
+    "kod": "99-311",
+    "poczta": "Bedlno\r"
+  },
+  {
+    "id": "16332",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5664",
+    "miejscowosc": "Bedlno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Bedlno",
+    "numer": "31",
+    "kod": "99-311",
+    "poczta": "Bedlno\r"
+  }
+]

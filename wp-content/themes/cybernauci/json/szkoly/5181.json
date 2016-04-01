@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14680",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5181",
+    "miejscowosc": "\u015awi\u0119tosz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "59-726",
+    "poczta": "\u015awi\u0119tosz\u00f3w\r"
+  },
+  {
+    "id": "14681",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5181",
+    "miejscowosc": "\u015awi\u0119tosz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "59-726",
+    "poczta": "\u015awi\u0119tosz\u00f3w\r"
+  }
+]

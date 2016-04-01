@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13216",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4663",
+    "miejscowosc": "Raci\u0105\u017cek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "87-721",
+    "poczta": "Raci\u0105\u017cek\r"
+  },
+  {
+    "id": "13217",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4663",
+    "miejscowosc": "Raci\u0105\u017cek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Komisji Edukacji Narodowej",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "87-721",
+    "poczta": "Raci\u0105\u017cek\r"
+  }
+]

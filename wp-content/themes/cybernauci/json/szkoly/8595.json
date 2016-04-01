@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23690",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8595",
+    "miejscowosc": "Baranowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "27",
+    "kod": "06-320",
+    "poczta": "Baranowo\r"
+  },
+  {
+    "id": "23691",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8595",
+    "miejscowosc": "Baranowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "27",
+    "kod": "06-320",
+    "poczta": "Baranowo\r"
+  },
+  {
+    "id": "23692",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8595",
+    "miejscowosc": "Baranowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "27",
+    "kod": "06-320",
+    "poczta": "Baranowo\r"
+  }
+]

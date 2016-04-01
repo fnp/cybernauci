@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5562",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1893",
+    "miejscowosc": "Wo\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wo\u0142owice",
+    "numer": "10",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  },
+  {
+    "id": "5563",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1893",
+    "miejscowosc": "Wo\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Wo\u0142owice",
+    "numer": "10",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  }
+]

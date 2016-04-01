@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11346",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4031",
+    "miejscowosc": "Widuchowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Barnima III",
+    "numer": "1",
+    "kod": "74-120",
+    "poczta": "Widuchowa\r"
+  },
+  {
+    "id": "11347",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4031",
+    "miejscowosc": "Widuchowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Barnima III",
+    "numer": "1",
+    "kod": "74-120",
+    "poczta": "Widuchowa\r"
+  }
+]

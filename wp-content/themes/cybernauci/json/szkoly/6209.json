@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17867",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6209",
+    "miejscowosc": "Budzy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rogozi\u0144ska",
+    "numer": "52",
+    "kod": "64-840",
+    "poczta": "Budzy\u0144\r"
+  },
+  {
+    "id": "17866",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6209",
+    "miejscowosc": "Budzy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osiedle Wierzbowe",
+    "numer": "7",
+    "kod": "64-840",
+    "poczta": "Budzy\u0144\r"
+  }
+]

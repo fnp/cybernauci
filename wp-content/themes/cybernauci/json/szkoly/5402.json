@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15274",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5402",
+    "miejscowosc": "Twardog\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "Batorego",
+    "numer": "5",
+    "kod": "56-416",
+    "poczta": "Twardog\u00f3ra\r"
+  },
+  {
+    "id": "15270",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5402",
+    "miejscowosc": "Twardog\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015aw. Jadwigi",
+    "numer": "7",
+    "kod": "56-416",
+    "poczta": "Twardog\u00f3ra\r"
+  },
+  {
+    "id": "15271",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5402",
+    "miejscowosc": "Twardog\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Stefana Batorego",
+    "numer": "5",
+    "kod": "56-416",
+    "poczta": "Twardog\u00f3ra\r"
+  },
+  {
+    "id": "15275",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5402",
+    "miejscowosc": "Twardog\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "3",
+    "kod": "56-416",
+    "poczta": "Twardog\u00f3ra\r"
+  },
+  {
+    "id": "15276",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5402",
+    "miejscowosc": "Twardog\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna ",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "3",
+    "kod": "56-416",
+    "poczta": "Twardog\u00f3ra\r"
+  }
+]

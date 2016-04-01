@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1258",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "573",
+    "miejscowosc": "Kosz\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sobieskiego",
+    "numer": "7",
+    "kod": "42-286",
+    "poczta": "Kosz\u0119cin\r"
+  },
+  {
+    "id": "1256",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "573",
+    "miejscowosc": "Kosz\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa \"Naukowa Wyspa\"",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "42-286",
+    "poczta": "Kosz\u0119cin\r"
+  },
+  {
+    "id": "1259",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "573",
+    "miejscowosc": "Kosz\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Sobieskiego",
+    "numer": "7",
+    "kod": "42-286",
+    "poczta": "Kosz\u0119cin\r"
+  }
+]

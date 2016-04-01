@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16490",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5733",
+    "miejscowosc": "Sobota",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Warszawska",
+    "numer": "22",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  },
+  {
+    "id": "16487",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5733",
+    "miejscowosc": "Sobota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Prezydenta RP Ignacego Mo\u015bcickiego",
+    "ulica": "Warszawska",
+    "numer": "22",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  }
+]

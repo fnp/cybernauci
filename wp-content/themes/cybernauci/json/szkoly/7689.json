@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21545",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7689",
+    "miejscowosc": "Wr\u00f3blik Szlachecki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "38-483",
+    "poczta": "Wr\u00f3blik Szlachecki\r"
+  },
+  {
+    "id": "21546",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7689",
+    "miejscowosc": "Wr\u00f3blik Szlachecki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "38-483",
+    "poczta": "Wr\u00f3blik Szlachecki\r"
+  }
+]

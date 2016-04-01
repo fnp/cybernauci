@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6691",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Konopnickiej",
+    "numer": "2",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6693",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gen. Maczka",
+    "numer": "131",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6695",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolejowa",
+    "numer": "9",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6690",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "7",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6694",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gen. Maczka",
+    "numer": "131",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6692",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Trzyletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolejowa",
+    "numer": "7",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6696",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2440",
+    "miejscowosc": "Jordan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kolejowa",
+    "numer": "9",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  }
+]

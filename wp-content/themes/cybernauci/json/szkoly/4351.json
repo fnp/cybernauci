@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12398",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4351",
+    "miejscowosc": "Bo\u0107winka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bo\u0107winka",
+    "numer": "12",
+    "kod": "11-612",
+    "poczta": "Kruklanki\r"
+  },
+  {
+    "id": "13009",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4351",
+    "miejscowosc": "Bo\u0107winka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bo\u0107winka",
+    "numer": "13",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  }
+]

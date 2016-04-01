@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5306",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1777",
+    "miejscowosc": "Alwernia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "4",
+    "kod": "32-566",
+    "poczta": "Alwernia\r"
+  },
+  {
+    "id": "5307",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1777",
+    "miejscowosc": "Alwernia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "4",
+    "kod": "32-566",
+    "poczta": "Alwernia\r"
+  }
+]

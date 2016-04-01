@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7813",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2718",
+    "miejscowosc": "Pacan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Karska",
+    "numer": "3",
+    "kod": "28-133",
+    "poczta": "Pacanow\r"
+  },
+  {
+    "id": "7811",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2718",
+    "miejscowosc": "Pacan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karska",
+    "numer": "3",
+    "kod": "28-133",
+    "poczta": "Pacan\u00f3w\r"
+  }
+]

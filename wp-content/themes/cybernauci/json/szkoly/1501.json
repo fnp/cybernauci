@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4509",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1501",
+    "miejscowosc": "Grab\u00f3w Szlachecki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Grab\u00f3w Szlachecki",
+    "numer": "61",
+    "kod": "08-503",
+    "poczta": "Nowodw\u00f3r\r"
+  },
+  {
+    "id": "4510",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1501",
+    "miejscowosc": "Grab\u00f3w Szlachecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Grab\u00f3w Szlachecki",
+    "numer": "61",
+    "kod": "08-503",
+    "poczta": "Nowodw\u00f3r\r"
+  }
+]

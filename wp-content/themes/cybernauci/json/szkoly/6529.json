@@ -1,0 +1,74 @@
+[
+  {
+    "id": "18496",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kaliska",
+    "numer": "39",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18495",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Centrum Szkoleniowego WIEDZA",
+    "ulica": "Gimnazjalna",
+    "numer": "2",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18502",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. H. Sienkiewicza",
+    "ulica": "Gimnazjalna",
+    "numer": "2",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18497",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kaliska",
+    "numer": "39",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18504",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum dla m\u0142odzie\u017cy",
+    "ulica": "Gimnazjalna",
+    "numer": "2",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18505",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6529",
+    "miejscowosc": "Sompolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gimnazjalna",
+    "numer": "2",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  }
+]

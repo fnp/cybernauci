@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6942",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2567",
+    "miejscowosc": "Pale\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum",
+    "ulica": "Pale\u015bnica",
+    "numer": "115",
+    "kod": "32-842",
+    "poczta": "Pale\u015bnica\r"
+  },
+  {
+    "id": "6943",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2567",
+    "miejscowosc": "Pale\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Pale\u015bnica",
+    "numer": "115",
+    "kod": "32-842",
+    "poczta": "Pale\u015bnica\r"
+  }
+]

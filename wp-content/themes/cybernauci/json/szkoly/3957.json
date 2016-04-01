@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11171",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3957",
+    "miejscowosc": "Nowe Worowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Chopina",
+    "numer": "9",
+    "kod": "78-523",
+    "poczta": "Nowe Worowo\r"
+  },
+  {
+    "id": "11172",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3957",
+    "miejscowosc": "Nowe Worowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Chopina",
+    "numer": "9",
+    "kod": "78-523",
+    "poczta": "Nowe Worowo\r"
+  }
+]

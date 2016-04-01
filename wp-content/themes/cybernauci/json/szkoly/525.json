@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1177",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "525",
+    "miejscowosc": "Starokrzepice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Oleska",
+    "numer": "250",
+    "kod": "42-161",
+    "poczta": "Starokrzepice\r"
+  },
+  {
+    "id": "1178",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "525",
+    "miejscowosc": "Starokrzepice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Reymonta",
+    "ulica": "Oleska",
+    "numer": "250",
+    "kod": "42-161",
+    "poczta": "Starokrzepice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17290",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6141",
+    "miejscowosc": "\u0141ubnice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Armii gen. Andersa",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "98-432",
+    "poczta": "\u0141ubnice\r"
+  },
+  {
+    "id": "17291",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6141",
+    "miejscowosc": "\u0141ubnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Armii gen. Andersa",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "98-432",
+    "poczta": "\u0141ubnice\r"
+  }
+]

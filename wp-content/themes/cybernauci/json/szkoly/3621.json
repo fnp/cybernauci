@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10271",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3621",
+    "miejscowosc": "Barg\u0142\u00f3w Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Augustowska",
+    "numer": "8",
+    "kod": "16-320",
+    "poczta": "Barg\u0142\u00f3w Ko\u015bcielny\r"
+  },
+  {
+    "id": "10272",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3621",
+    "miejscowosc": "Barg\u0142\u00f3w Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Augustowska",
+    "numer": "8",
+    "kod": "16-320",
+    "poczta": "Barg\u0142\u00f3w Ko\u015bcielny\r"
+  }
+]

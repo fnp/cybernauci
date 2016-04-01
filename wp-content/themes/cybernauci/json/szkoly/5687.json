@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16369",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5687",
+    "miejscowosc": "Strzelce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "99-307",
+    "poczta": "Strzelce\r"
+  },
+  {
+    "id": "16368",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5687",
+    "miejscowosc": "Strzelce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "99-307",
+    "poczta": "Strzelce\r"
+  }
+]

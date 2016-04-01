@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8505",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3066",
+    "miejscowosc": "Skar\u017cysko Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "26-115",
+    "poczta": "Skar\u017cysko Ko\u015bcielne\r"
+  },
+  {
+    "id": "8506",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3066",
+    "miejscowosc": "Skar\u017cysko Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "26-115",
+    "poczta": "Skar\u017cysko Ko\u015bcielne\r"
+  }
+]

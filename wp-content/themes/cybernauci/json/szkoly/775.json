@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1865",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "775",
+    "miejscowosc": "\u017barnowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Krakowska",
+    "numer": "23",
+    "kod": "42-439",
+    "poczta": "\u017barnowiec\r"
+  },
+  {
+    "id": "1863",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "775",
+    "miejscowosc": "\u017barnowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Krakowska",
+    "numer": "23",
+    "kod": "42-439",
+    "poczta": "\u017barnowiec\r"
+  },
+  {
+    "id": "1866",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "775",
+    "miejscowosc": "\u017barnowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Krakowska",
+    "numer": "25",
+    "kod": "42-439",
+    "poczta": "\u017barnowiec\r"
+  },
+  {
+    "id": "1867",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "775",
+    "miejscowosc": "\u017barnowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Krakowska",
+    "numer": "25",
+    "kod": "42-439",
+    "poczta": "\u017barnowiec\r"
+  }
+]

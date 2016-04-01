@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1088",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "487",
+    "miejscowosc": "Starcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "Szkolna",
+    "numer": "44",
+    "kod": "42-261",
+    "poczta": "Starcza\r"
+  },
+  {
+    "id": "1087",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "487",
+    "miejscowosc": "Starcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Lompy",
+    "ulica": "Szkolna",
+    "numer": "44",
+    "kod": "42-261",
+    "poczta": "Starcza\r"
+  }
+]

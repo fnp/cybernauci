@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6585",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2390",
+    "miejscowosc": "Gorz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6586",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2390",
+    "miejscowosc": "Gorz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  }
+]

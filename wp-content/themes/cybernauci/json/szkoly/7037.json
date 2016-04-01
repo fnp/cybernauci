@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19620",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7037",
+    "miejscowosc": "Mie\u015bcisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "W\u0105growiecka",
+    "numer": "19",
+    "kod": "62-290",
+    "poczta": "Mie\u015bcisko\r"
+  },
+  {
+    "id": "19619",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7037",
+    "miejscowosc": "Mie\u015bcisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "W\u0105growiecka",
+    "numer": "28",
+    "kod": "62-290",
+    "poczta": "Mie\u015bcisko\r"
+  }
+]

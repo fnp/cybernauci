@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5746",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2005",
+    "miejscowosc": "Bibice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "56A",
+    "kod": "32-087",
+    "poczta": "Zielonki\r"
+  },
+  {
+    "id": "5743",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2005",
+    "miejscowosc": "Bibice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. S. Lema",
+    "ulica": "Graniczna",
+    "numer": "111",
+    "kod": "32-087",
+    "poczta": "Zielonki\r"
+  },
+  {
+    "id": "5747",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2005",
+    "miejscowosc": "Bibice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "56A",
+    "kod": "32-087",
+    "poczta": "Zielonki\r"
+  }
+]

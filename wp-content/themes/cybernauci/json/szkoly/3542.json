@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9668",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3542",
+    "miejscowosc": "Rajkowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jesionowa",
+    "numer": "6",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9669",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3542",
+    "miejscowosc": "Rajkowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jesionowa",
+    "numer": "6",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  }
+]

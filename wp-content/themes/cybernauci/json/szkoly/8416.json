@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23266",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8416",
+    "miejscowosc": "Sieciech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "26-922",
+    "poczta": "Sieciech\u00f3w\r"
+  },
+  {
+    "id": "23267",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8416",
+    "miejscowosc": "Sieciech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "26-922",
+    "poczta": "Sieciech\u00f3w\r"
+  }
+]

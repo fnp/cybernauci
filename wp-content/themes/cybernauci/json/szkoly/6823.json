@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19149",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6823",
+    "miejscowosc": "Kozieg\u0142owy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Piaskowa",
+    "numer": "15",
+    "kod": "62-028",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "19143",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6823",
+    "miejscowosc": "Kozieg\u0142owy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen Stefana Grota-Roweckiego ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "0",
+    "kod": "62-028",
+    "poczta": "Kozieg\u0142owy\r"
+  }
+]

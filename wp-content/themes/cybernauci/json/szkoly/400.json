@@ -1,0 +1,122 @@
+[
+  {
+    "id": "945",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "G. Morcinka",
+    "numer": "20",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "940",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Bielska",
+    "numer": "17",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "947",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Mickiewicza",
+    "numer": "11",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "951",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "G\u00f3recka",
+    "numer": "65",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "941",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatna Szko\u0142a Liceum Og\u00f3lnokszta\u0142c\u0105ce Proffesor",
+    "ulica": "Podk\u0119pie",
+    "numer": "2A",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "948",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "11",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "939",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Osiedlowa",
+    "numer": "1",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "946",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 8 ",
+    "ulica": "G. Morcinka",
+    "numer": "20",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "952",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "G\u00f3recka",
+    "numer": "65",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "953",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "400",
+    "miejscowosc": "Skocz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1 ",
+    "ulica": "G\u00f3recka",
+    "numer": "65",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  }
+]

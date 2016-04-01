@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4224",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1374",
+    "miejscowosc": "Chodel",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "J\u00f3zef Poniatowski",
+    "numer": "1",
+    "kod": "24-350",
+    "poczta": "Chodel\r"
+  },
+  {
+    "id": "4225",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1374",
+    "miejscowosc": "Chodel",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "24-350",
+    "poczta": "Chodel\r"
+  },
+  {
+    "id": "4226",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1374",
+    "miejscowosc": "Chodel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "39",
+    "kod": "24-350",
+    "poczta": "Chodel\r"
+  }
+]

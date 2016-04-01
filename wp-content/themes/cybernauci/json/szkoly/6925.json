@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19359",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6925",
+    "miejscowosc": "Strza\u0142kowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Janusza Korczaka ",
+    "ulica": "Ostrowska",
+    "numer": "8b",
+    "kod": "62-420",
+    "poczta": "Strza\u0142kowo\r"
+  },
+  {
+    "id": "19360",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6925",
+    "miejscowosc": "Strza\u0142kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "G\u00f3rna",
+    "numer": "12",
+    "kod": "62-420",
+    "poczta": "Strza\u0142kowo\r"
+  },
+  {
+    "id": "19358",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6925",
+    "miejscowosc": "Strza\u0142kowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich",
+    "ulica": "Aleja Prymasa Wyszy\u0144skiego",
+    "numer": "10",
+    "kod": "62-420",
+    "poczta": "Strza\u0142kowo\r"
+  },
+  {
+    "id": "19361",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6925",
+    "miejscowosc": "Strza\u0142kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "G\u00f3rna",
+    "numer": "12",
+    "kod": "62-420",
+    "poczta": "Strza\u0142kowo\r"
+  },
+  {
+    "id": "19362",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6925",
+    "miejscowosc": "Strza\u0142kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "G\u00f3rna",
+    "numer": "12",
+    "kod": "62-420",
+    "poczta": "Strza\u0142kowo\r"
+  }
+]

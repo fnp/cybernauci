@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23009",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8295",
+    "miejscowosc": "Pilawa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "08-440",
+    "poczta": "Pilawa\r"
+  },
+  {
+    "id": "23011",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8295",
+    "miejscowosc": "Pilawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "08-440",
+    "poczta": "Pilawa\r"
+  }
+]

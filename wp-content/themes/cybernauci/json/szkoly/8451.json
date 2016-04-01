@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23350",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8451",
+    "miejscowosc": "Jawor Solecki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Jawor Solecki",
+    "numer": "68",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  },
+  {
+    "id": "23351",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8451",
+    "miejscowosc": "Jawor Solecki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jawor Solecki",
+    "numer": "68",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  }
+]

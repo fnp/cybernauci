@@ -1,0 +1,26 @@
+[
+  {
+    "id": "943",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "402",
+    "miejscowosc": "Pog\u00f3rze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zamek",
+    "numer": "8",
+    "kod": "43-430",
+    "poczta": "Pog\u00f3rze\r"
+  },
+  {
+    "id": "944",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "402",
+    "miejscowosc": "Pog\u00f3rze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zamek",
+    "numer": "8",
+    "kod": "43-430",
+    "poczta": "Pog\u00f3rze\r"
+  }
+]

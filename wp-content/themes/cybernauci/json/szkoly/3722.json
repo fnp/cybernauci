@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10477",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3722",
+    "miejscowosc": "Dubicze Cerkiewne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "30",
+    "kod": "17-204",
+    "poczta": "Dubicze Cerkiewne\r"
+  },
+  {
+    "id": "10478",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3722",
+    "miejscowosc": "Dubicze Cerkiewne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "30",
+    "kod": "17-204",
+    "poczta": "Dubicze Cerkiewne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23133",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8344",
+    "miejscowosc": "\u017babia Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J\u00f3zefa Che\u0142mo\u0144skiego",
+    "ulica": "Mazowiecka",
+    "numer": "1",
+    "kod": "96-321",
+    "poczta": "\u017babia Wola\r"
+  },
+  {
+    "id": "23130",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8344",
+    "miejscowosc": "\u017babia Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu",
+    "ulica": "Mazowiecka",
+    "numer": "1",
+    "kod": "96-321",
+    "poczta": "\u017babia Wola\r"
+  }
+]

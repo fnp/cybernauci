@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11430",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4059",
+    "miejscowosc": "Ryma\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "78-125",
+    "poczta": "Ryma\u0144\r"
+  },
+  {
+    "id": "11431",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4059",
+    "miejscowosc": "Ryma\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "78-125",
+    "poczta": "Ryma\u0144\r"
+  }
+]

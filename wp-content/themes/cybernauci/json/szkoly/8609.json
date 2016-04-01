@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23719",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8609",
+    "miejscowosc": "Chudek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Chudek",
+    "numer": "36",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23720",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8609",
+    "miejscowosc": "Chudek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Chudek",
+    "numer": "36",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

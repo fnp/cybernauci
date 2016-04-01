@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7068",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2612",
+    "miejscowosc": "Zag\u00f3rnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "34-120",
+    "poczta": "Andrych\u00f3w\r"
+  },
+  {
+    "id": "7069",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2612",
+    "miejscowosc": "Zag\u00f3rnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. L. Zamenhofa",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "34-120",
+    "poczta": "Andrych\u00f3w\r"
+  }
+]

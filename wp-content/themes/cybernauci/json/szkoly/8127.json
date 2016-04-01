@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22463",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8127",
+    "miejscowosc": "Zbydni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sandomierska",
+    "numer": "210",
+    "kod": "37-415",
+    "poczta": "Zaleszany\r"
+  },
+  {
+    "id": "22464",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8127",
+    "miejscowosc": "Zbydni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Sandomierska",
+    "numer": "210",
+    "kod": "37-415",
+    "poczta": "Zaleszany\r"
+  }
+]

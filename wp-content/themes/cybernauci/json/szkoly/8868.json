@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24318",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8868",
+    "miejscowosc": "Jednoro\u017cec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Odrodzenia",
+    "numer": "13",
+    "kod": "06-323",
+    "poczta": "Jednoro\u017cec\r"
+  },
+  {
+    "id": "24319",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8868",
+    "miejscowosc": "Jednoro\u017cec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Adama Ch\u0119tnika",
+    "ulica": "Odrodzenia",
+    "numer": "13",
+    "kod": "06-323",
+    "poczta": "Jednoro\u017cec\r"
+  },
+  {
+    "id": "24317",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8868",
+    "miejscowosc": "Jednoro\u017cec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Odrodzenia",
+    "numer": "13",
+    "kod": "06-323",
+    "poczta": "Jednoro\u017cec\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13845",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Aleja 600 lecia",
+    "numer": "4",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13846",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Janusza Korczaka",
+    "ulica": "Pocztowa",
+    "numer": "14 a",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13847",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Janusza Korczaka",
+    "ulica": "Pocztowa",
+    "numer": "14a",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13842",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "19",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13848",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pocztowa",
+    "numer": "14 b",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13849",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4974",
+    "miejscowosc": "Wi\u0119cbork",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pocztowa",
+    "numer": "14 b",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  }
+]

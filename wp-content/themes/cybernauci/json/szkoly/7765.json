@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21705",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7765",
+    "miejscowosc": "Wysoka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wysoka",
+    "numer": "49",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21703",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7765",
+    "miejscowosc": "Wysoka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wysoka",
+    "numer": "98",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21706",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7765",
+    "miejscowosc": "Wysoka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wysoka",
+    "numer": "49",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  }
+]

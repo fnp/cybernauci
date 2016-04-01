@@ -1,0 +1,38 @@
+[
+  {
+    "id": "25164",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9275",
+    "miejscowosc": "Bie\u017cu\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stefana Go\u0142\u0119biowskiego",
+    "ulica": "Stefana Go\u0142\u0119biowskiego",
+    "numer": "1",
+    "kod": "09-320",
+    "poczta": "Bie\u017cu\u0144\r"
+  },
+  {
+    "id": "25163",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9275",
+    "miejscowosc": "Bie\u017cu\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. W\u0142adys\u0142awa Orkana ",
+    "ulica": "Warszawska",
+    "numer": "4",
+    "kod": "09-320",
+    "poczta": "Bie\u017cu\u0144\r"
+  },
+  {
+    "id": "25165",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9275",
+    "miejscowosc": "Bie\u017cu\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa im. Andrzeja Zamoyskiego",
+    "ulica": "Stefana Go\u0142\u0119biowskiego",
+    "numer": "1",
+    "kod": "09-320",
+    "poczta": "Bie\u017cu\u0144\r"
+  }
+]

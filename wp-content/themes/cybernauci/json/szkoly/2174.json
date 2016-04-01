@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6102",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2174",
+    "miejscowosc": "Bia\u0142a Ni\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bia\u0142a Ni\u017cna",
+    "numer": "495",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6110",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2174",
+    "miejscowosc": "Bia\u0142a Ni\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142a Ni\u017cna",
+    "numer": "495",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  }
+]

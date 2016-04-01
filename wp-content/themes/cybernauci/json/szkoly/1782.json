@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5315",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1782",
+    "miejscowosc": "Jankowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "5",
+    "kod": "32-551",
+    "poczta": "Babice\r"
+  },
+  {
+    "id": "5316",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1782",
+    "miejscowosc": "Jankowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "5",
+    "kod": "32-551",
+    "poczta": "Babice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15557",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5502",
+    "miejscowosc": "Zawonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "26",
+    "kod": "55-106",
+    "poczta": "Zawonia\r"
+  },
+  {
+    "id": "15558",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5502",
+    "miejscowosc": "Zawonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "26",
+    "kod": "55-106",
+    "poczta": "Zawonia\r"
+  }
+]

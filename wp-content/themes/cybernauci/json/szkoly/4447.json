@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12614",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12615",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12616",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Agrobiznesu",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12617",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Technologii Drewna",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12618",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Gospodarstwa Domowego",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12619",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4447",
+    "miejscowosc": "Jagarzewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Us\u0142ug Gastronomicznych",
+    "ulica": "Jagarzewo",
+    "numer": "54",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  }
+]

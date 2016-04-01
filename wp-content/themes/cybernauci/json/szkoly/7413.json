@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20967",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7413",
+    "miejscowosc": "H\u0142udno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "H\u0142udno",
+    "numer": "89",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  },
+  {
+    "id": "20968",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7413",
+    "miejscowosc": "H\u0142udno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "H\u0142udno",
+    "numer": "89",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  }
+]

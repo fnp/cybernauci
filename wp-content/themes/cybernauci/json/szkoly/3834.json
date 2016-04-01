@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10681",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3834",
+    "miejscowosc": "Ku\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "1",
+    "kod": "16-123",
+    "poczta": "Ku\u017anica\r"
+  },
+  {
+    "id": "10682",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3834",
+    "miejscowosc": "Ku\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "1",
+    "kod": "16-123",
+    "poczta": "Ku\u017anica\r"
+  }
+]

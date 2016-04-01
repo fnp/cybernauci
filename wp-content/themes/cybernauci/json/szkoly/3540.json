@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9662",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Collegium Marianum Liceum Katolickie",
+    "ulica": "Aleja Cysters\u00f3w",
+    "numer": "2",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9664",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sambora",
+    "numer": "5A",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9672",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "12",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9674",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. ks. J. St. Pasierba",
+    "ulica": "Sambora",
+    "numer": "5",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9663",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sambora",
+    "numer": "5a",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9665",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Sambora",
+    "numer": "5A",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9673",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "12",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9675",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sambora",
+    "numer": "5",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  },
+  {
+    "id": "9676",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3540",
+    "miejscowosc": "Pelplin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sambora",
+    "numer": "5",
+    "kod": "83-130",
+    "poczta": "Pelplin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24188",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8824",
+    "miejscowosc": "Naruszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Naruszewo",
+    "numer": "17",
+    "kod": "09-152",
+    "poczta": "Naruszewo\r"
+  },
+  {
+    "id": "24189",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8824",
+    "miejscowosc": "Naruszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Naruszewo",
+    "numer": "",
+    "kod": "09-152",
+    "poczta": "Naruszewo\r"
+  }
+]

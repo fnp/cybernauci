@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9320",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3395",
+    "miejscowosc": "Redkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Redkowice",
+    "numer": "",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  },
+  {
+    "id": "9321",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3395",
+    "miejscowosc": "Redkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Redkowice",
+    "numer": "",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  }
+]

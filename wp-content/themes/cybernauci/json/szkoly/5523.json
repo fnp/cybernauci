@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15612",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5523",
+    "miejscowosc": "Godzi\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym Nr 2",
+    "ulica": "Godzi\u0119cin",
+    "numer": "50D",
+    "kod": "56-120",
+    "poczta": "Brzeg Dolny\r"
+  },
+  {
+    "id": "15608",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5523",
+    "miejscowosc": "Godzi\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Godzi\u0119cin",
+    "numer": "50B",
+    "kod": "56-120",
+    "poczta": "Brzeg Dolny\r"
+  },
+  {
+    "id": "15613",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5523",
+    "miejscowosc": "Godzi\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym Nr 2",
+    "ulica": "Godzi\u0119cin",
+    "numer": "50D",
+    "kod": "56-120",
+    "poczta": "Brzeg Dolny\r"
+  }
+]

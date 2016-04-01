@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13549",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Miko\u0142aja Kopernika",
+    "ulica": "Kujawska",
+    "numer": "22",
+    "kod": "88-153",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13551",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im PCK",
+    "ulica": "Kasprowicza",
+    "numer": "7",
+    "kod": "88-150",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13553",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla m\u0142odzie\u017cy",
+    "ulica": "Kujawska",
+    "numer": "20",
+    "kod": "88-153",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13552",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Juliusza S\u0142owackiego",
+    "ulica": "Kasprowicza",
+    "numer": "7",
+    "kod": "88-150",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13542",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Kujawska",
+    "numer": "22",
+    "kod": "88-153",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13543",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Adama Mickiewicza",
+    "numer": "11",
+    "kod": "88-150",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13554",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Kujawska",
+    "numer": "20",
+    "kod": "88-153",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13555",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4828",
+    "miejscowosc": "Kruszwica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych 3-letnia",
+    "ulica": "Kujawska",
+    "numer": "20",
+    "kod": "88-153",
+    "poczta": "Kruszwica\r"
+  }
+]

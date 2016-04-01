@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22984",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8276",
+    "miejscowosc": "G\u00f3rzno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. W\u0142adys\u0142awa J\u00f3\u017awickiego",
+    "ulica": "G\u00f3rzno",
+    "numer": "109",
+    "kod": "08-404",
+    "poczta": "G\u00f3rzno\r"
+  },
+  {
+    "id": "22983",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8276",
+    "miejscowosc": "G\u00f3rzno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u00f3rzno",
+    "numer": "109",
+    "kod": "08-404",
+    "poczta": "G\u00f3rzno\r"
+  }
+]

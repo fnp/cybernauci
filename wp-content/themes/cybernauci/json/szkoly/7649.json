@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21457",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7649",
+    "miejscowosc": "\u0141\u0119ki Dukielskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0119ki Dukielskie",
+    "numer": "74",
+    "kod": "38-456",
+    "poczta": "\u0141\u0119ki Dukielskie\r"
+  },
+  {
+    "id": "21458",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7649",
+    "miejscowosc": "\u0141\u0119ki Dukielskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119ki Dukielskie",
+    "numer": "74",
+    "kod": "38-456",
+    "poczta": "\u0141\u0119ki Dukielskie\r"
+  }
+]

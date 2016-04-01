@@ -1,0 +1,26 @@
+[
+  {
+    "id": "917",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "383",
+    "miejscowosc": "D\u0119bowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "43-426",
+    "poczta": "D\u0119bowiec\r"
+  },
+  {
+    "id": "913",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "383",
+    "miejscowosc": "D\u0119bowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "43-426",
+    "poczta": "D\u0119bowiec\r"
+  }
+]

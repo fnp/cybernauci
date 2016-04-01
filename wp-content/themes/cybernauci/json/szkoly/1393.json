@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4255",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4253",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Fabryczna",
+    "numer": "28",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4252",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lipowa",
+    "numer": "23",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4256",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4254",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Fabryczna",
+    "numer": "28",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4259",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4261",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1393",
+    "miejscowosc": "Opole Lubelskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  }
+]

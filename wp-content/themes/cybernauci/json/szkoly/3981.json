@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11238",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3981",
+    "miejscowosc": "Przybiern\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Mieszka I",
+    "numer": "1",
+    "kod": "72-110",
+    "poczta": "Przybiern\u00f3w\r"
+  },
+  {
+    "id": "11239",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3981",
+    "miejscowosc": "Przybiern\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "16",
+    "kod": "72-110",
+    "poczta": "Przybiern\u00f3w\r"
+  }
+]

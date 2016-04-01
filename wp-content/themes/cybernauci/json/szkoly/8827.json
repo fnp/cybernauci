@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24195",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8827",
+    "miejscowosc": "Lisewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lisewo",
+    "numer": "48",
+    "kod": "09-100",
+    "poczta": "P\u0142o\u0144sk\r"
+  },
+  {
+    "id": "24196",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8827",
+    "miejscowosc": "Lisewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lisewo",
+    "numer": "48",
+    "kod": "09-100",
+    "poczta": "P\u0142o\u0144sk\r"
+  }
+]

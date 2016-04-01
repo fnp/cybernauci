@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16489",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5732",
+    "miejscowosc": "Bielawy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J\u00f3zefa Che\u0142mo\u0144skiego",
+    "ulica": "Parzew",
+    "numer": "20",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  },
+  {
+    "id": "16486",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5732",
+    "miejscowosc": "Bielawy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parzew",
+    "numer": "20",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  }
+]

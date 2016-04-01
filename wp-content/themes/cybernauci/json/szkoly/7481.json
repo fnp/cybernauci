@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21165",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7481",
+    "miejscowosc": "\u0141owce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141owce",
+    "numer": "159",
+    "kod": "37-554",
+    "poczta": "\u0141owce\r"
+  },
+  {
+    "id": "21166",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7481",
+    "miejscowosc": "\u0141owce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Witosa",
+    "ulica": "\u0141owce",
+    "numer": "159",
+    "kod": "37-554",
+    "poczta": "\u0141owce\r"
+  }
+]

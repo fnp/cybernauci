@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11139",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3941",
+    "miejscowosc": "Krz\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pogodna",
+    "numer": "4",
+    "kod": "73-231",
+    "poczta": "Krz\u0119cin\r"
+  },
+  {
+    "id": "11140",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3941",
+    "miejscowosc": "Krz\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pogodna",
+    "numer": "4",
+    "kod": "73-231",
+    "poczta": "Krz\u0119cin\r"
+  }
+]

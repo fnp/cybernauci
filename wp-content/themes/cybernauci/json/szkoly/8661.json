@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23816",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8661",
+    "miejscowosc": "Boguty-Pianki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Aleja Papie\u017ca Jana Paw\u0142a II",
+    "numer": "62",
+    "kod": "07-325",
+    "poczta": "Boguty-Pianki\r"
+  },
+  {
+    "id": "23817",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8661",
+    "miejscowosc": "Boguty-Pianki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Aleja Papie\u017ca Jana Paw\u0142a II",
+    "numer": "62",
+    "kod": "07-325",
+    "poczta": "Boguty-Pianki\r"
+  }
+]

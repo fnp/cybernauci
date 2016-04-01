@@ -1,0 +1,98 @@
+[
+  {
+    "id": "19762",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "25",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19764",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "18",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19761",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Kieniewicza",
+    "numer": "35",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19757",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "AL. Wolno\u015bci",
+    "numer": "1",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19760",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. A. Mickiewicza",
+    "ulica": "Kili\u0144szczak\u00f3w",
+    "numer": "18",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19763",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "25",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19744",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Kieniewicza",
+    "numer": "35",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  },
+  {
+    "id": "19750",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7099",
+    "miejscowosc": "Jastrowie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kieniewicza",
+    "numer": "35",
+    "kod": "64-915",
+    "poczta": "Jastrowie\r"
+  }
+]

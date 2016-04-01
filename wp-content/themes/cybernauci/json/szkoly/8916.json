@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24399",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8916",
+    "miejscowosc": "Przemiarowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. rtm. Witolda Pileckiego",
+    "ulica": "Przemiarowo",
+    "numer": "33",
+    "kod": "06-100",
+    "poczta": "Pu\u0142tusk\r"
+  },
+  {
+    "id": "24400",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8916",
+    "miejscowosc": "Przemiarowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. rtm. Witolda Pileckiego",
+    "ulica": "Przemiarowo",
+    "numer": "33",
+    "kod": "06-100",
+    "poczta": "Pu\u0142tusk\r"
+  }
+]

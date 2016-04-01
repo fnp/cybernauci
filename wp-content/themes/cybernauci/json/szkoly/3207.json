@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8913",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3207",
+    "miejscowosc": "Nowa Cerkiew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  },
+  {
+    "id": "9658",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3207",
+    "miejscowosc": "Nowa Cerkiew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Nowa Cerkiew",
+    "numer": "1",
+    "kod": "83-131",
+    "poczta": "Morzeszczyn\r"
+  },
+  {
+    "id": "8914",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3207",
+    "miejscowosc": "Nowa Cerkiew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11627",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4144",
+    "miejscowosc": "Je\u017cyczki",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa ",
+    "ulica": "Je\u017cyczki",
+    "numer": "29",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11628",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4144",
+    "miejscowosc": "Je\u017cyczki",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum ",
+    "ulica": "Je\u017cyczki",
+    "numer": "29",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

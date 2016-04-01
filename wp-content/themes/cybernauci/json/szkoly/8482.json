@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23421",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8482",
+    "miejscowosc": "Krasnosielc",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sadowa",
+    "numer": "6",
+    "kod": "06-212",
+    "poczta": "Krasnosielc\r"
+  },
+  {
+    "id": "23419",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8482",
+    "miejscowosc": "Krasnosielc",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "2A",
+    "kod": "06-212",
+    "poczta": "Krasnosielc\r"
+  },
+  {
+    "id": "23420",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8482",
+    "miejscowosc": "Krasnosielc",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Ogrodowa",
+    "numer": "2A",
+    "kod": "06-212",
+    "poczta": "Krasnosielc\r"
+  },
+  {
+    "id": "23422",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8482",
+    "miejscowosc": "Krasnosielc",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sadowa",
+    "numer": "6",
+    "kod": "06-212",
+    "poczta": "Krasnosielc\r"
+  }
+]

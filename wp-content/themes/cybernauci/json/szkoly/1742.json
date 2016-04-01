@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5251",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1742",
+    "miejscowosc": "Jurk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Jurk\u00f3w",
+    "numer": "150",
+    "kod": "32-860",
+    "poczta": "Czch\u00f3w\r"
+  },
+  {
+    "id": "5252",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1742",
+    "miejscowosc": "Jurk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Jurk\u00f3w",
+    "numer": "150",
+    "kod": "32-860",
+    "poczta": "Czch\u00f3w\r"
+  },
+  {
+    "id": "5784",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1742",
+    "miejscowosc": "Jurk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jurk\u00f3w",
+    "numer": "115",
+    "kod": "34-643",
+    "poczta": "Jurk\u00f3w\r"
+  },
+  {
+    "id": "5785",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1742",
+    "miejscowosc": "Jurk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jurk\u00f3w",
+    "numer": "115",
+    "kod": "34-643",
+    "poczta": "Jurk\u00f3w\r"
+  }
+]

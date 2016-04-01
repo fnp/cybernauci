@@ -1,0 +1,26 @@
+[
+  {
+    "id": "462",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "224",
+    "miejscowosc": "Dobrze\u0144 Ma\u0142y",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Opolska",
+    "numer": "87",
+    "kod": "46-081",
+    "poczta": "Dobrze\u0144 Wielki\r"
+  },
+  {
+    "id": "465",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "224",
+    "miejscowosc": "Dobrze\u0144 Ma\u0142y",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum",
+    "ulica": "Opolska",
+    "numer": "87",
+    "kod": "46-081",
+    "poczta": "Dobrze\u0144 Wielki\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23730",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8617",
+    "miejscowosc": "Lelis",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "51",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  },
+  {
+    "id": "23731",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8617",
+    "miejscowosc": "Lelis",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "51",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  },
+  {
+    "id": "23732",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8617",
+    "miejscowosc": "Lelis",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "51",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  }
+]

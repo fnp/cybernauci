@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5204",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1723",
+    "miejscowosc": "\u0141\u0105kta G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0105kta G\u00f3rna",
+    "numer": "304",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5205",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1723",
+    "miejscowosc": "\u0141\u0105kta G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105kta G\u00f3rna",
+    "numer": "304",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  }
+]

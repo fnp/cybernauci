@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13405",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4760",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Mi\u0142osza",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "20",
+    "kod": "87-408",
+    "poczta": "Ciechocin\r"
+  },
+  {
+    "id": "13590",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4760",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "78",
+    "kod": "87-602",
+    "poczta": "Chrostkowo\r"
+  },
+  {
+    "id": "13430",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4760",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grudzi\u0105dzka",
+    "numer": "43",
+    "kod": "86-300",
+    "poczta": "Grudzi\u0105dz\r"
+  }
+]

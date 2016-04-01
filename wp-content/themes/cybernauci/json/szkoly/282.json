@@ -1,0 +1,26 @@
+[
+  {
+    "id": "556",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "282",
+    "miejscowosc": "Rac\u0142awice \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "21",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "557",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "282",
+    "miejscowosc": "Rac\u0142awice \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "21",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  }
+]

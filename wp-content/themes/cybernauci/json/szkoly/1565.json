@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4657",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1565",
+    "miejscowosc": "Telatyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "22",
+    "kod": "22-652",
+    "poczta": "Telatyn\r"
+  },
+  {
+    "id": "4655",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1565",
+    "miejscowosc": "Telatyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego ",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "20",
+    "kod": "22-652",
+    "poczta": "Telatyn\r"
+  }
+]

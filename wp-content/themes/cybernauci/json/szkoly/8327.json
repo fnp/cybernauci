@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23073",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8327",
+    "miejscowosc": "Pacyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopyci\u0144skiego",
+    "numer": "5",
+    "kod": "09-541",
+    "poczta": "Pacyna\r"
+  },
+  {
+    "id": "23074",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8327",
+    "miejscowosc": "Pacyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kopyci\u0144skiego",
+    "numer": "5",
+    "kod": "09-541",
+    "poczta": "Pacyna\r"
+  }
+]

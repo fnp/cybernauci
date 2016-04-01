@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24800",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9136",
+    "miejscowosc": "Majd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Majd\u00f3w",
+    "numer": "30",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24801",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9136",
+    "miejscowosc": "Majd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Majd\u00f3w",
+    "numer": "30",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  }
+]

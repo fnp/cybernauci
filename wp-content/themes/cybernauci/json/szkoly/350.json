@@ -1,0 +1,50 @@
+[
+  {
+    "id": "807",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "350",
+    "miejscowosc": "Ligota",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Ks. Prof. J. Tischnera",
+    "ulica": "Bielska",
+    "numer": "17",
+    "kod": "43-518",
+    "poczta": "Ligota\r"
+  },
+  {
+    "id": "808",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "350",
+    "miejscowosc": "Ligota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. Prof. J. Tischnera",
+    "ulica": "Bielska",
+    "numer": "17",
+    "kod": "43-518",
+    "poczta": "Ligota\r"
+  },
+  {
+    "id": "787",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "350",
+    "miejscowosc": "Ligota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Miliardowicka",
+    "numer": "46",
+    "kod": "43-518",
+    "poczta": "Ligota\r"
+  },
+  {
+    "id": "789",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "350",
+    "miejscowosc": "Ligota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Bory",
+    "numer": "2",
+    "kod": "43-518",
+    "poczta": "Ligota\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8024",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2844",
+    "miejscowosc": "G\u00f3rno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u00f3rno",
+    "numer": "82 A",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "8025",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2844",
+    "miejscowosc": "G\u00f3rno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "G\u00f3rno",
+    "numer": "82 A",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  }
+]

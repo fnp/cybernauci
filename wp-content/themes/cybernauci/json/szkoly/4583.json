@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12898",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4583",
+    "miejscowosc": "Pietrzwa\u0142d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pietrzwa\u0142d",
+    "numer": "94",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  },
+  {
+    "id": "12899",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4583",
+    "miejscowosc": "Pietrzwa\u0142d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pietrzwa\u0142d",
+    "numer": "94",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  }
+]

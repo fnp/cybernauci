@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6024",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2133",
+    "miejscowosc": "Krzywaczka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krzywaczka",
+    "numer": "41",
+    "kod": "32-442",
+    "poczta": "Krzywaczka\r"
+  },
+  {
+    "id": "6025",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2133",
+    "miejscowosc": "Krzywaczka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzywaczka",
+    "numer": "41",
+    "kod": "32-442",
+    "poczta": "Krzywaczka\r"
+  }
+]

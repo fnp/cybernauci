@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21310",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7554",
+    "miejscowosc": "Ko\u0142aczyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  },
+  {
+    "id": "21313",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7554",
+    "miejscowosc": "Ko\u0142aczyce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  },
+  {
+    "id": "21314",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7554",
+    "miejscowosc": "Ko\u0142aczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  }
+]

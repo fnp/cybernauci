@@ -1,0 +1,50 @@
+[
+  {
+    "id": "823",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "361",
+    "miejscowosc": "Jaworze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Gen. Broni St. Maczka",
+    "ulica": "Wapienicka",
+    "numer": "10",
+    "kod": "43-384",
+    "poczta": "Jaworze\r"
+  },
+  {
+    "id": "824",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "361",
+    "miejscowosc": "Jaworze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2",
+    "ulica": "Pa\u0142acowa",
+    "numer": "1",
+    "kod": "43-384",
+    "poczta": "Jaworze\r"
+  },
+  {
+    "id": "822",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "361",
+    "miejscowosc": "Jaworze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Marii D\u0105browskiej",
+    "ulica": "Szkolna",
+    "numer": "180",
+    "kod": "43-384",
+    "poczta": "Jaworze\r"
+  },
+  {
+    "id": "825",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "361",
+    "miejscowosc": "Jaworze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Pa\u0142acowa",
+    "numer": "1",
+    "kod": "43-384",
+    "poczta": "Jaworze\r"
+  }
+]

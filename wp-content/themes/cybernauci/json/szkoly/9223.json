@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25036",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9223",
+    "miejscowosc": "Oss\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Matarewicza",
+    "numer": "148",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "25037",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9223",
+    "miejscowosc": "Oss\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Matarewicza",
+    "numer": "148",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  }
+]

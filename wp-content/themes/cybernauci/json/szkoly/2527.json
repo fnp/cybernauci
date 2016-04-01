@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6870",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2527",
+    "miejscowosc": "Skrzysz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Skrzysz\u00f3w",
+    "numer": "629 a",
+    "kod": "33-156",
+    "poczta": "Skrzysz\u00f3w\r"
+  },
+  {
+    "id": "6871",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2527",
+    "miejscowosc": "Skrzysz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Skrzysz\u00f3w",
+    "numer": "629 a",
+    "kod": "33-156",
+    "poczta": "Skrzysz\u00f3w\r"
+  },
+  {
+    "id": "6865",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2527",
+    "miejscowosc": "Skrzysz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. ks. Piotra Skargi",
+    "ulica": "Skrzysz\u00f3w",
+    "numer": "147a",
+    "kod": "33-156",
+    "poczta": "Skrzysz\u00f3w\r"
+  }
+]

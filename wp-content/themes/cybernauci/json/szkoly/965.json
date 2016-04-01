@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3478",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "965",
+    "miejscowosc": "Tereszpol-Kukie\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Tereszpol-Kukie\u0142ki",
+    "numer": "31",
+    "kod": "23-407",
+    "poczta": "Tereszpol- Zaorenda\r"
+  },
+  {
+    "id": "3479",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "965",
+    "miejscowosc": "Tereszpol-Kukie\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Tereszpol-Kukie\u0142ki",
+    "numer": "31",
+    "kod": "23-407",
+    "poczta": "Tereszpol- Zaorenda\r"
+  }
+]

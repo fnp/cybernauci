@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15714",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5579",
+    "miejscowosc": "Ciep\u0142owody",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Zespo\u0142u Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "57-211",
+    "poczta": "Ciep\u0142owody\r"
+  },
+  {
+    "id": "15715",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5579",
+    "miejscowosc": "Ciep\u0142owody",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Mickiewicza Zespo\u0142u Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "57-211",
+    "poczta": "Ciep\u0142owody\r"
+  }
+]

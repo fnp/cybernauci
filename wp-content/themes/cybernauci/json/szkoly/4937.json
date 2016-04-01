@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13765",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13766",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ekonomiczne",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13767",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarstwa",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13768",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Obs\u0142ugi Turystycznej",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13769",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Rolnicze",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13770",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Gospodarstwa Domowego",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13771",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Us\u0142ug Gastronomicznych",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13772",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4937",
+    "miejscowosc": "Biskupice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Przemystka",
+    "numer": "21",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  }
+]

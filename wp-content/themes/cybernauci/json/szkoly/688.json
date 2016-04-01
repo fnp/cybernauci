@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1559",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "688",
+    "miejscowosc": "Jejkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "42",
+    "kod": "44-290",
+    "poczta": "Jejkowice\r"
+  },
+  {
+    "id": "1558",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "688",
+    "miejscowosc": "Jejkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "42",
+    "kod": "44-290",
+    "poczta": "Jejkowice\r"
+  }
+]

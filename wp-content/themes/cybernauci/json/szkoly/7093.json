@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19725",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7093",
+    "miejscowosc": "Marzenin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ks. Twardego",
+    "numer": "22",
+    "kod": "62-301",
+    "poczta": "Marzenin\r"
+  },
+  {
+    "id": "19726",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7093",
+    "miejscowosc": "Marzenin",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Ks. Twardego",
+    "numer": "22",
+    "kod": "62-301",
+    "poczta": "Marzenin\r"
+  }
+]

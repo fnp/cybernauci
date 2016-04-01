@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25190",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9290",
+    "miejscowosc": "Siemi\u0105tkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Warszawska",
+    "numer": "3A",
+    "kod": "09-135",
+    "poczta": "Siemi\u0105tkowo\r"
+  },
+  {
+    "id": "25191",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9290",
+    "miejscowosc": "Siemi\u0105tkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "3A",
+    "kod": "09-135",
+    "poczta": "Siemi\u0105tkowo\r"
+  }
+]

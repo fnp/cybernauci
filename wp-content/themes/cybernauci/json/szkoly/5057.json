@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14004",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5057",
+    "miejscowosc": "G\u00f3rsk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "87-134",
+    "poczta": "Z\u0142awie\u015b Wielka\r"
+  },
+  {
+    "id": "14005",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5057",
+    "miejscowosc": "G\u00f3rsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "87-134",
+    "poczta": "Z\u0142awie\u015b Wielka\r"
+  }
+]

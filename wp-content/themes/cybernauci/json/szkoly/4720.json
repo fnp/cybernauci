@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13321",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4720",
+    "miejscowosc": "Wierzchucin Kr\u00f3lewski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wierzchucin Kr\u00f3lewski",
+    "numer": "35",
+    "kod": "86-017",
+    "poczta": "Wierzchucin Kr\u00f3lewski\r"
+  },
+  {
+    "id": "13322",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4720",
+    "miejscowosc": "Wierzchucin Kr\u00f3lewski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wierzchucin Kr\u00f3lewski",
+    "numer": "35",
+    "kod": "86-017",
+    "poczta": "Wierzchucin Kr\u00f3lewski\r"
+  }
+]

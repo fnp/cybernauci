@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20871",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7366",
+    "miejscowosc": "Czarna G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. Stefana Myczkowskiego",
+    "ulica": "Czarna G\u00f3rna",
+    "numer": "126",
+    "kod": "38-710",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "20870",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7366",
+    "miejscowosc": "Czarna G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ignacego \u0141ukasiewicza",
+    "ulica": "Czarna G\u00f3rna",
+    "numer": "126",
+    "kod": "38-710",
+    "poczta": "Czarna\r"
+  }
+]

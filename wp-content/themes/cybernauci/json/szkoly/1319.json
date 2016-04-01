@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4139",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1319",
+    "miejscowosc": "Wola Gu\u0142owska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Pu\u0142ku 3 Strzelc\u00f3w Konnych",
+    "ulica": "Wola Gu\u0142owska",
+    "numer": "60",
+    "kod": "21-481",
+    "poczta": "Wola Gu\u0142owska\r"
+  },
+  {
+    "id": "4140",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1319",
+    "miejscowosc": "Wola Gu\u0142owska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Franciszka Kleeberga",
+    "ulica": "Wola Gu\u0142owska",
+    "numer": "60",
+    "kod": "21-481",
+    "poczta": "Wola Gu\u0142owska\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9155",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3329",
+    "miejscowosc": "Przyja\u017a\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-331",
+    "poczta": "Przyja\u017a\u0144\r"
+  },
+  {
+    "id": "9156",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3329",
+    "miejscowosc": "Przyja\u017a\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-331",
+    "poczta": "Przyja\u017a\u0144\r"
+  }
+]

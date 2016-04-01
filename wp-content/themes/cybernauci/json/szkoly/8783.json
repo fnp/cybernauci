@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24108",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8783",
+    "miejscowosc": "Nowy Dunin\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Gostyni\u0144ska",
+    "numer": "1",
+    "kod": "09-505",
+    "poczta": "Nowy Dunin\u00f3w\r"
+  },
+  {
+    "id": "24109",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8783",
+    "miejscowosc": "Nowy Dunin\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Gostyni\u0144ska",
+    "numer": "1",
+    "kod": "09-505",
+    "poczta": "Nowy Dunin\u00f3w\r"
+  }
+]

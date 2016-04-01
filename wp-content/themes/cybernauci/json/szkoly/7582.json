@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21355",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7582",
+    "miejscowosc": "Sko\u0142yszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sko\u0142yszyn",
+    "numer": "222",
+    "kod": "38-242",
+    "poczta": "Sko\u0142yszyn\r"
+  },
+  {
+    "id": "21356",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7582",
+    "miejscowosc": "Sko\u0142yszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliana Bruna",
+    "ulica": "Sko\u0142yszyn",
+    "numer": "222",
+    "kod": "38-242",
+    "poczta": "Sko\u0142yszyn\r"
+  }
+]

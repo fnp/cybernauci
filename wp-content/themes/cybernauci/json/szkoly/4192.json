@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11759",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4192",
+    "miejscowosc": "Borne Sulinowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "25",
+    "kod": "78-449",
+    "poczta": "Borne Sulinowo\r"
+  },
+  {
+    "id": "11762",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4192",
+    "miejscowosc": "Borne Sulinowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Al. Niepodleg\u0142o\u015bci",
+    "numer": "24",
+    "kod": "78-449",
+    "poczta": "Borne Sulinowo\r"
+  },
+  {
+    "id": "11763",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4192",
+    "miejscowosc": "Borne Sulinowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Al. Niepodleg\u0142o\u015bci",
+    "numer": "24",
+    "kod": "78-449",
+    "poczta": "Borne Sulinowo\r"
+  }
+]

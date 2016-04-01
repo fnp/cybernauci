@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1405",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "624",
+    "miejscowosc": "Pielgrzymowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "6",
+    "kod": "43-252",
+    "poczta": "Golasowice\r"
+  },
+  {
+    "id": "1402",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "624",
+    "miejscowosc": "Pielgrzymowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Miarki",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "6",
+    "kod": "43-252",
+    "poczta": "Pielgrzymowice\r"
+  }
+]

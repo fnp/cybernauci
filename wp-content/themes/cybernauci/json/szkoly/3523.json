@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9603",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3523",
+    "miejscowosc": "Rywa\u0142d",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "83-200",
+    "poczta": "Starogard Gda\u0144ski\r"
+  },
+  {
+    "id": "9604",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3523",
+    "miejscowosc": "Rywa\u0142d",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "83-200",
+    "poczta": "Starogard Gda\u0144ski\r"
+  }
+]

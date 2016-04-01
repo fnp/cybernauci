@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10556",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3774",
+    "miejscowosc": "Marianowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Marianowo",
+    "numer": "7",
+    "kod": "18-421",
+    "poczta": "Pi\u0105tnica\r"
+  },
+  {
+    "id": "10557",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3774",
+    "miejscowosc": "Marianowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Marinaowo",
+    "numer": "7",
+    "kod": "18-421",
+    "poczta": "Pi\u0105tnica\r"
+  }
+]

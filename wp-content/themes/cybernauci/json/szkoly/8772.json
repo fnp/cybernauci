@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24095",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8772",
+    "miejscowosc": "G\u0105bin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "16",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  },
+  {
+    "id": "24097",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8772",
+    "miejscowosc": "G\u0105bin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "1",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  },
+  {
+    "id": "24089",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8772",
+    "miejscowosc": "G\u0105bin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "16",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  },
+  {
+    "id": "24098",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8772",
+    "miejscowosc": "G\u0105bin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "1",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  },
+  {
+    "id": "24099",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8772",
+    "miejscowosc": "G\u0105bin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "1",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  }
+]

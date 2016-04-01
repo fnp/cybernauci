@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5977",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2114",
+    "miejscowosc": "G\u0142ogocz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142ogocz\u00f3w",
+    "numer": "297",
+    "kod": "32-444",
+    "poczta": "G\u0142ogocz\u00f3w\r"
+  },
+  {
+    "id": "5985",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2114",
+    "miejscowosc": "G\u0142ogocz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "G\u0142ogocz\u00f3w",
+    "numer": "297",
+    "kod": "32-444",
+    "poczta": "G\u0142ogocz\u00f3w\r"
+  }
+]

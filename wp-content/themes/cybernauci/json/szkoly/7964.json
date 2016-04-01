@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22082",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7964",
+    "miejscowosc": "Iwierzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Iwierzyce",
+    "numer": "186",
+    "kod": "39-124",
+    "poczta": "Iwierzyce\r"
+  },
+  {
+    "id": "22083",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7964",
+    "miejscowosc": "Iwierzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Iwierzyce",
+    "numer": "188",
+    "kod": "39-124",
+    "poczta": "Iwierzyce\r"
+  }
+]

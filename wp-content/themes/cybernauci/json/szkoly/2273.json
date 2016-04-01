@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6291",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2273",
+    "miejscowosc": "Stare Bystre",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Andrzeja Boboli ",
+    "ulica": "Stare Bystre",
+    "numer": "347",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6292",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2273",
+    "miejscowosc": "Stare Bystre",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Stare Bystre",
+    "numer": "",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6303",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2273",
+    "miejscowosc": "Stare Bystre",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Stanis\u0142awa Biskupa i M\u0119czennika",
+    "ulica": "Stare Bystre",
+    "numer": "347",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  }
+]

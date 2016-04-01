@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3340",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "888",
+    "miejscowosc": "Rogo\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym",
+    "ulica": "Rogo\u017anica",
+    "numer": "96",
+    "kod": "21-560",
+    "poczta": "Mi\u0119dzyrzec Podlaski\r"
+  },
+  {
+    "id": "3341",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "888",
+    "miejscowosc": "Rogo\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Rogo\u017anica",
+    "numer": "96",
+    "kod": "21-560",
+    "poczta": "Mi\u0119dzyrzec Podlaski\r"
+  }
+]

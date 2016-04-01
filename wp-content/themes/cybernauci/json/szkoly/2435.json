@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6683",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2435",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "Ko\u015bcielec",
+    "numer": "11",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6684",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2435",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Ko\u015bcielec",
+    "numer": "11",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  }
+]

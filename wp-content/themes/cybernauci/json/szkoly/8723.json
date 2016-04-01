@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23951",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8723",
+    "miejscowosc": "Baniocha",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "05-532",
+    "poczta": "Baniocha\r"
+  },
+  {
+    "id": "23952",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8723",
+    "miejscowosc": "Baniocha",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "05-532",
+    "poczta": "Baniocha\r"
+  }
+]

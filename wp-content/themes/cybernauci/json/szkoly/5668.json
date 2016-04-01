@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16343",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5668",
+    "miejscowosc": "Kro\u015bniewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Rodziny Rembieli\u0144skich ",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "17",
+    "kod": "99-340",
+    "poczta": "Kro\u015bniewice\r"
+  },
+  {
+    "id": "16344",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5668",
+    "miejscowosc": "Kro\u015bniewice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "17",
+    "kod": "99-340",
+    "poczta": "Kro\u015bniewice\r"
+  },
+  {
+    "id": "16339",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5668",
+    "miejscowosc": "Kro\u015bniewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "15",
+    "kod": "99-340",
+    "poczta": "Kro\u015bniewice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14916",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5265",
+    "miejscowosc": "Che\u0142msko \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Kolonia",
+    "numer": "14",
+    "kod": "58-420",
+    "poczta": "Lubawka\r"
+  },
+  {
+    "id": "14917",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5265",
+    "miejscowosc": "Che\u0142msko \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolonia",
+    "numer": "14",
+    "kod": "58-420",
+    "poczta": "Lubawka\r"
+  }
+]

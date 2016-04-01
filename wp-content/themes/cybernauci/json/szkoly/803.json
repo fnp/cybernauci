@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1963",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "803",
+    "miejscowosc": "Kamesznica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Parkowa",
+    "numer": "70",
+    "kod": "34-383",
+    "poczta": "Kamesznica\r"
+  },
+  {
+    "id": "1958",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "803",
+    "miejscowosc": "Kamesznica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Sportowa",
+    "numer": "382",
+    "kod": "34-383",
+    "poczta": "Kamesznica\r"
+  }
+]

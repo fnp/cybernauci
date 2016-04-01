@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9468",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3455",
+    "miejscowosc": "Zag\u00f3rzyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zag\u00f3rzyca",
+    "numer": "20",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  },
+  {
+    "id": "9469",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3455",
+    "miejscowosc": "Zag\u00f3rzyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zag\u00f3rzyca",
+    "numer": "20",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  }
+]

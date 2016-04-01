@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6071",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2155",
+    "miejscowosc": "Paszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Paszyn",
+    "numer": "410",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "6072",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2155",
+    "miejscowosc": "Paszyn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Paszyn",
+    "numer": "410",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  }
+]

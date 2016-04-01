@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5682",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1970",
+    "miejscowosc": "Radzisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "32-052",
+    "poczta": "Radzisz\u00f3w\r"
+  },
+  {
+    "id": "5683",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1970",
+    "miejscowosc": "Radzisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa im. \u015bw. Stanis\u0142awa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "32-052",
+    "poczta": "Radzisz\u00f3w\r"
+  }
+]

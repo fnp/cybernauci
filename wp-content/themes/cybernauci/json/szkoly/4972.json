@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13838",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4972",
+    "miejscowosc": "So\u015bno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kami\u0144skiego",
+    "numer": "1",
+    "kod": "89-412",
+    "poczta": "So\u015bno\r"
+  },
+  {
+    "id": "13839",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4972",
+    "miejscowosc": "So\u015bno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kami\u0144skiego",
+    "numer": "1",
+    "kod": "89-412",
+    "poczta": "So\u015bno\r"
+  }
+]

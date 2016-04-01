@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6392",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2321",
+    "miejscowosc": "Gronk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Gronk\u00f3w",
+    "numer": "210",
+    "kod": "34-400",
+    "poczta": "Nowy Targ\r"
+  },
+  {
+    "id": "6393",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2321",
+    "miejscowosc": "Gronk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gronk\u00f3w",
+    "numer": "210",
+    "kod": "34-400",
+    "poczta": "Nowy Targ\r"
+  }
+]

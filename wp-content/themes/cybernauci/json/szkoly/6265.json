@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18016",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6265",
+    "miejscowosc": "Zdziechowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zdziechowa",
+    "numer": "51",
+    "kod": "62-200",
+    "poczta": "Gniezno\r"
+  },
+  {
+    "id": "18017",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6265",
+    "miejscowosc": "Zdziechowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich 1918\/1919",
+    "ulica": "Zdziechowa",
+    "numer": "51",
+    "kod": "62-200",
+    "poczta": "Gniezno\r"
+  }
+]

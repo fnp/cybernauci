@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24114",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8788",
+    "miejscowosc": "Radzanowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "09-451",
+    "poczta": "Radzanowo\r"
+  },
+  {
+    "id": "24115",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8788",
+    "miejscowosc": "Radzanowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "09-451",
+    "poczta": "Radzanowo\r"
+  }
+]

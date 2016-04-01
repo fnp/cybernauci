@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15387",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5449",
+    "miejscowosc": "Malczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "55-320",
+    "poczta": "Malczyce\r"
+  },
+  {
+    "id": "15386",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5449",
+    "miejscowosc": "Malczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "55-320",
+    "poczta": "Malczyce\r"
+  }
+]

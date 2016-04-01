@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11144",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3945",
+    "miejscowosc": "Pe\u0142czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Ko\u015bcielna",
+    "numer": "3",
+    "kod": "73-260",
+    "poczta": "Pe\u0142czyce\r"
+  },
+  {
+    "id": "11145",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3945",
+    "miejscowosc": "Pe\u0142czyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "3",
+    "kod": "73-260",
+    "poczta": "Pe\u0142czyce\r"
+  }
+]

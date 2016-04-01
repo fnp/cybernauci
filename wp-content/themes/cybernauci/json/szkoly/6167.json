@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17371",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Lotnicza",
+    "numer": "1",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17372",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Romualda Traugutta",
+    "numer": "1",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17373",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0142owackiego",
+    "numer": "2",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17369",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "\u015arednia",
+    "numer": "30",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17370",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Cegielniana",
+    "numer": "25",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17374",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6167",
+    "miejscowosc": "Ozork\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "S\u0142owackiego",
+    "numer": "2",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  }
+]

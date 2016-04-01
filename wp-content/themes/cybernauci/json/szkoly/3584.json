@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9795",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3584",
+    "miejscowosc": "Bolszewo",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "84-239",
+    "poczta": "Bolszewo\r"
+  },
+  {
+    "id": "9801",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3584",
+    "miejscowosc": "Bolszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum ",
+    "ulica": "Le\u015bna",
+    "numer": "35",
+    "kod": "84-239",
+    "poczta": "Bolszewo\r"
+  }
+]

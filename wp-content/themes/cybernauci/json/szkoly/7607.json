@@ -1,0 +1,86 @@
+[
+  {
+    "id": "21393",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21395",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Obr. Pokoju",
+    "numer": "46",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21388",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "8",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21394",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21396",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Obr. Pokoju",
+    "numer": "46",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21397",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Janka Bytnara",
+    "numer": "2",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21398",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7607",
+    "miejscowosc": "Kolbuszowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Janka Bytnara",
+    "numer": "2",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  }
+]

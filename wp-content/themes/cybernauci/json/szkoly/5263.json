@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14913",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5263",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Betlejemska",
+    "numer": "1",
+    "kod": "58-400",
+    "poczta": "Krzesz\u00f3w\r"
+  },
+  {
+    "id": "14914",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5263",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Betlejemska",
+    "numer": "1",
+    "kod": "58-400",
+    "poczta": "Krzesz\u00f3w\r"
+  }
+]

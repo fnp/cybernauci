@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4308",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1422",
+    "miejscowosc": "Siemie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "21-220",
+    "poczta": "Siemie\u0144\r"
+  },
+  {
+    "id": "4307",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1422",
+    "miejscowosc": "Siemie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "21-220",
+    "poczta": "Siemie\u0144\r"
+  }
+]

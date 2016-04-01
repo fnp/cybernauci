@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3890",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1179",
+    "miejscowosc": "Mich\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Szkolna II",
+    "numer": "2 B",
+    "kod": "21-140",
+    "poczta": "Mich\u00f3w\r"
+  },
+  {
+    "id": "3891",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1179",
+    "miejscowosc": "Mich\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bohater\u00f3w Westerplatte",
+    "ulica": "Szkolna II",
+    "numer": "2 B",
+    "kod": "21-140",
+    "poczta": "Mich\u00f3w\r"
+  },
+  {
+    "id": "3892",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1179",
+    "miejscowosc": "Mich\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna II",
+    "numer": "2 B",
+    "kod": "21-140",
+    "poczta": "Mich\u00f3w\r"
+  }
+]

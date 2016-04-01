@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4194",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1351",
+    "miejscowosc": "Stara R\u00f3\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stara R\u00f3\u017ca",
+    "numer": "35",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "4195",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1351",
+    "miejscowosc": "Stara R\u00f3\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stara R\u00f3\u017ca",
+    "numer": "35",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  }
+]

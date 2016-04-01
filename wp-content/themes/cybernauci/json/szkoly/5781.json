@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16566",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Piotrkowska",
+    "numer": "13",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  },
+  {
+    "id": "16567",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Poniatowskiego",
+    "numer": "11",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  },
+  {
+    "id": "16569",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 ",
+    "ulica": "\u017beromskiego",
+    "numer": "31",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  },
+  {
+    "id": "16570",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u017beromskiego",
+    "numer": "31",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  },
+  {
+    "id": "16563",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Piotrkowska",
+    "numer": "15",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  },
+  {
+    "id": "16564",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5781",
+    "miejscowosc": "Tuszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Poniatowskiego",
+    "numer": "11",
+    "kod": "95-080",
+    "poczta": "Tuszyn\r"
+  }
+]

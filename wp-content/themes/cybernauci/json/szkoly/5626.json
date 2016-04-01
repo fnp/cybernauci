@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15839",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5626",
+    "miejscowosc": "Jerzmanice-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jerzmanice Zdr\u00f3j",
+    "numer": "20",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  },
+  {
+    "id": "15832",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5626",
+    "miejscowosc": "Jerzmanice-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Jerzmanice-Zdr\u00f3j",
+    "numer": "86",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  },
+  {
+    "id": "15840",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5626",
+    "miejscowosc": "Jerzmanice-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Jerzmanice-Zdr\u00f3j",
+    "numer": "20",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5494",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1851",
+    "miejscowosc": "Kl\u0119czany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kl\u0119czany",
+    "numer": "2",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  },
+  {
+    "id": "5495",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1851",
+    "miejscowosc": "Kl\u0119czany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kl\u0119czany",
+    "numer": "2",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  },
+  {
+    "id": "6053",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1851",
+    "miejscowosc": "Kl\u0119czany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kl\u0119czany",
+    "numer": "1A",
+    "kod": "33-394",
+    "poczta": "Kl\u0119czany\r"
+  }
+]

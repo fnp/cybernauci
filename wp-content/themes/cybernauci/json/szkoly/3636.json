@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10292",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3636",
+    "miejscowosc": "Choroszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Powstania Styczniowego",
+    "numer": "26A",
+    "kod": "16-070",
+    "poczta": "Choroszcz\r"
+  },
+  {
+    "id": "10293",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3636",
+    "miejscowosc": "Choroszcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Powstania Styczniowego",
+    "numer": "26A",
+    "kod": "16-070",
+    "poczta": "Choroszcz\r"
+  },
+  {
+    "id": "10294",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3636",
+    "miejscowosc": "Choroszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Powstania Styczniowego",
+    "numer": "26A",
+    "kod": "16-070",
+    "poczta": "Choroszcz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8151",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2919",
+    "miejscowosc": "Gowarcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "52",
+    "kod": "26-225",
+    "poczta": "Gowarcz\u00f3w\r"
+  },
+  {
+    "id": "8149",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2919",
+    "miejscowosc": "Gowarcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stanis\u0142awa \u017buka",
+    "numer": "3",
+    "kod": "26-225",
+    "poczta": "Gowarcz\u00f3w\r"
+  }
+]

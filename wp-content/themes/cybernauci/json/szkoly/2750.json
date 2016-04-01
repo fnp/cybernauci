@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7875",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2750",
+    "miejscowosc": "Z\u0142otniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Z\u0142otniki",
+    "numer": "66A",
+    "kod": "28-366",
+    "poczta": "Ma\u0142ogoszcz\r"
+  },
+  {
+    "id": "7876",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2750",
+    "miejscowosc": "Z\u0142otniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Z\u0142otniki",
+    "numer": "66A",
+    "kod": "28-366",
+    "poczta": "Ma\u0142ogoszcz\r"
+  }
+]

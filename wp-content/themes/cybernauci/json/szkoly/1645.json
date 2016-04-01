@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4792",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1645",
+    "miejscowosc": "Bodacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bodacz\u00f3w",
+    "numer": "501",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4788",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1645",
+    "miejscowosc": "Bodacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bodacz\u00f3w",
+    "numer": "501",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  }
+]

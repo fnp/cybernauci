@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20377",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7202",
+    "miejscowosc": "Oty\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "\u017beromskiego",
+    "numer": "3",
+    "kod": "67-106",
+    "poczta": "Oty\u0144\r"
+  },
+  {
+    "id": "20378",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7202",
+    "miejscowosc": "Oty\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u017beromskiego",
+    "numer": "3",
+    "kod": "67-106",
+    "poczta": "Oty\u0144\r"
+  }
+]

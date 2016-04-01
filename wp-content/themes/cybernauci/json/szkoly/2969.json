@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8260",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2969",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sulej\u00f3w",
+    "numer": "59",
+    "kod": "27-515",
+    "poczta": "Tar\u0142\u00f3w\r"
+  },
+  {
+    "id": "8261",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2969",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sulej\u00f3w",
+    "numer": "70A",
+    "kod": "27-515",
+    "poczta": "Tar\u0142\u00f3w\r"
+  }
+]

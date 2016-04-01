@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13856",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4979",
+    "miejscowosc": "Jastrz\u0119biec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Jastrz\u0119biec",
+    "numer": "17",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  },
+  {
+    "id": "13857",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4979",
+    "miejscowosc": "Jastrz\u0119biec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jastrz\u0119biec",
+    "numer": "17",
+    "kod": "89-410",
+    "poczta": "Wi\u0119cbork\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1945",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "797",
+    "miejscowosc": "\u0141\u0119kawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. G\u00f3rali \u017bywieckich",
+    "ulica": "\u017bywiecka",
+    "numer": "82",
+    "kod": "34-321",
+    "poczta": "\u0141\u0119kawica\r"
+  },
+  {
+    "id": "1946",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "797",
+    "miejscowosc": "\u0141\u0119kawica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Sportowa",
+    "numer": "5b",
+    "kod": "34-321",
+    "poczta": "\u0141\u0119kawica\r"
+  },
+  {
+    "id": "1947",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "797",
+    "miejscowosc": "\u0141\u0119kawica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "Sportowa",
+    "numer": "5a",
+    "kod": "34-321",
+    "poczta": "\u0141\u0119kawica\r"
+  }
+]

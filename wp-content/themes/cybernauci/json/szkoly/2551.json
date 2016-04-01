@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6908",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2551",
+    "miejscowosc": "Jod\u0142\u00f3wka Tuchowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jod\u0142\u00f3wka Tuchowska",
+    "numer": "275",
+    "kod": "33-173",
+    "poczta": "Jod\u0142\u00f3wka Tuchowska\r"
+  },
+  {
+    "id": "6909",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2551",
+    "miejscowosc": "Jod\u0142\u00f3wka Tuchowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jod\u0142\u00f3wka Tuchowska",
+    "numer": "275",
+    "kod": "33-173",
+    "poczta": "Jod\u0142\u00f3wka Tuchowska\r"
+  }
+]

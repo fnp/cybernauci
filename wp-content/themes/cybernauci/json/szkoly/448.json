@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1029",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "448",
+    "miejscowosc": "Widz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "16",
+    "kod": "42-282",
+    "poczta": "Kruszyna\r"
+  },
+  {
+    "id": "1030",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "448",
+    "miejscowosc": "Widz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "16",
+    "kod": "42-282",
+    "poczta": "Kruszyna\r"
+  }
+]

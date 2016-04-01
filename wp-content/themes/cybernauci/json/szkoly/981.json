@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3512",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "981",
+    "miejscowosc": "Dubienka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "3 Maja",
+    "numer": "4",
+    "kod": "22-145",
+    "poczta": "Dubienka\r"
+  },
+  {
+    "id": "3510",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "981",
+    "miejscowosc": "Dubienka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "3 Maja",
+    "numer": "4",
+    "kod": "22-145",
+    "poczta": "Dubienka\r"
+  },
+  {
+    "id": "3511",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "981",
+    "miejscowosc": "Dubienka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "4",
+    "kod": "22-145",
+    "poczta": "Dubienka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13559",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4836",
+    "miejscowosc": "Pako\u015b\u0107",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. E. Estkowskiego",
+    "ulica": "Szkolna",
+    "numer": "44",
+    "kod": "88-170",
+    "poczta": "Pako\u015b\u0107\r"
+  },
+  {
+    "id": "13558",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4836",
+    "miejscowosc": "Pako\u015b\u0107",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich",
+    "ulica": "B\u0142onie",
+    "numer": "2",
+    "kod": "88-170",
+    "poczta": "Pako\u015b\u0107\r"
+  }
+]

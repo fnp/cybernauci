@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25119",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8580",
+    "miejscowosc": "D\u0119binki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "C. K. Norwida",
+    "numer": "26",
+    "kod": "07-230",
+    "poczta": "Zabrodzie\r"
+  },
+  {
+    "id": "23661",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8580",
+    "miejscowosc": "D\u0119binki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "D\u0119binki",
+    "numer": "12",
+    "kod": "05-191",
+    "poczta": "Nasielsk\r"
+  }
+]

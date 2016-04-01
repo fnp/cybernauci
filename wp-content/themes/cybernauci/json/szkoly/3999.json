@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11282",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3999",
+    "miejscowosc": "Rewal",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Sportowych Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "72-344",
+    "poczta": "Rewal\r"
+  },
+  {
+    "id": "11283",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3999",
+    "miejscowosc": "Rewal",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Sportowych Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "72-344",
+    "poczta": "Rewal\r"
+  }
+]

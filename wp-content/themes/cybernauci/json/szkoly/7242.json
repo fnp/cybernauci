@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20461",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7242",
+    "miejscowosc": "S\u0142o\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "9",
+    "kod": "66-436",
+    "poczta": "S\u0142o\u0144sk\r"
+  },
+  {
+    "id": "20462",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7242",
+    "miejscowosc": "S\u0142o\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "9",
+    "kod": "66-436",
+    "poczta": "S\u0142o\u0144sk\r"
+  }
+]

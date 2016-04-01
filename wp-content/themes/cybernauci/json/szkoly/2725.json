@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7821",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2725",
+    "miejscowosc": "Stopnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "23B",
+    "kod": "28-130",
+    "poczta": "Stopnica\r"
+  },
+  {
+    "id": "7824",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2725",
+    "miejscowosc": "Stopnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "23 A",
+    "kod": "28-130",
+    "poczta": "Stopnica\r"
+  },
+  {
+    "id": "7822",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2725",
+    "miejscowosc": "Stopnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "23",
+    "kod": "28-130",
+    "poczta": "Stopnica\r"
+  },
+  {
+    "id": "7825",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2725",
+    "miejscowosc": "Stopnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "23 a",
+    "kod": "28-130",
+    "poczta": "Stopnica\r"
+  }
+]

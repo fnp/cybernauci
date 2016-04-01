@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22283",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8058",
+    "miejscowosc": "Rudna Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5",
+    "ulica": "Rudna Wielka",
+    "numer": "60",
+    "kod": "36-054",
+    "poczta": "Mrowla\r"
+  },
+  {
+    "id": "22284",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8058",
+    "miejscowosc": "Rudna Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rudna Wielka",
+    "numer": "60",
+    "kod": "36-054",
+    "poczta": "Mrowla\r"
+  }
+]

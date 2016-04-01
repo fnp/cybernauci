@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4755",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1623",
+    "miejscowosc": "Mi\u0105czyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Hrubieszowska",
+    "numer": "50A",
+    "kod": "22-455",
+    "poczta": "Mi\u0105czyn\r"
+  },
+  {
+    "id": "4752",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1623",
+    "miejscowosc": "Mi\u0105czyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mi\u0105czyn",
+    "numer": "50A",
+    "kod": "22-455",
+    "poczta": "Mi\u0105czyn\r"
+  }
+]

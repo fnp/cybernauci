@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18799",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6670",
+    "miejscowosc": "Go\u015bciejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Go\u015bciejewo",
+    "numer": "14",
+    "kod": "64-611",
+    "poczta": "Go\u015bciejewo\r"
+  },
+  {
+    "id": "18800",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6670",
+    "miejscowosc": "Go\u015bciejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Go\u015bciejewo",
+    "numer": "14",
+    "kod": "64-611",
+    "poczta": "Go\u015bciejewo\r"
+  }
+]

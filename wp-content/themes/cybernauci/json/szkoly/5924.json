@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16836",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5924",
+    "miejscowosc": "Uniej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielnicka",
+    "numer": "26-28",
+    "kod": "99-210",
+    "poczta": "Uniej\u00f3w\r"
+  },
+  {
+    "id": "16837",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5924",
+    "miejscowosc": "Uniej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielnicka",
+    "numer": "26-28",
+    "kod": "99-210",
+    "poczta": "Uniej\u00f3w\r"
+  }
+]

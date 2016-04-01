@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9581",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3508",
+    "miejscowosc": "Pog\u00f3dki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych im. Piotra Szturmowskiego Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "83-236",
+    "poczta": "Pog\u00f3dki\r"
+  },
+  {
+    "id": "9582",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3508",
+    "miejscowosc": "Pog\u00f3dki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych im. Piotra Szturmowskiego Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "83-236",
+    "poczta": "Pog\u00f3dki\r"
+  }
+]

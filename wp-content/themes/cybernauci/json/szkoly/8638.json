@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23768",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8638",
+    "miejscowosc": "Wykrot",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Wykrot",
+    "numer": "21 C",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23769",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8638",
+    "miejscowosc": "Wykrot",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wykrot",
+    "numer": "21 C",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  }
+]

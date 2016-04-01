@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8588",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3102",
+    "miejscowosc": "Bogoria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Staszowska",
+    "numer": "12",
+    "kod": "28-210",
+    "poczta": "Bogoria\r"
+  },
+  {
+    "id": "8584",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3102",
+    "miejscowosc": "Bogoria",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Staszowska",
+    "numer": "10",
+    "kod": "28-210",
+    "poczta": "Bogoria\r"
+  },
+  {
+    "id": "8589",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3102",
+    "miejscowosc": "Bogoria",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Staszowska",
+    "numer": "12",
+    "kod": "28-210",
+    "poczta": "Bogoria\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10562",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3778",
+    "miejscowosc": "\u015aniadowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "29",
+    "kod": "18-411",
+    "poczta": "\u015aniadowo\r"
+  },
+  {
+    "id": "10563",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3778",
+    "miejscowosc": "\u015aniadowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "29",
+    "kod": "18-411",
+    "poczta": "\u015aniadowo\r"
+  }
+]

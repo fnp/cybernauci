@@ -1,0 +1,110 @@
+[
+  {
+    "id": "22580",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Miko\u0142aja Reja",
+    "numer": "7",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22581",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Bronis\u0142awa Zybury",
+    "numer": "4",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22583",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Miko\u0142aja Reja",
+    "numer": "7",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22585",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "101",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22576",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Le\u015bna",
+    "numer": "40",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22582",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Bronis\u0142awa Zybury",
+    "numer": "4",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22584",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Miko\u0142aja Reja",
+    "numer": "7",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22586",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "101",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  },
+  {
+    "id": "22587",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8188",
+    "miejscowosc": "Nowa D\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "101",
+    "kod": "39-460",
+    "poczta": "Nowa D\u0119ba\r"
+  }
+]

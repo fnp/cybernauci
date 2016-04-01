@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24922",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9185",
+    "miejscowosc": "Wierzbno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osadnicza",
+    "numer": "48",
+    "kod": "07-111",
+    "poczta": "Wierzbno\r"
+  },
+  {
+    "id": "24923",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9185",
+    "miejscowosc": "Wierzbno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "48",
+    "kod": "07-111",
+    "poczta": "Wierzbno\r"
+  }
+]

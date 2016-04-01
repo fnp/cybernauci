@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5951",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2101",
+    "miejscowosc": "Skomielna Bia\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Henryka \u0141asaka",
+    "ulica": "Folwark",
+    "numer": "1",
+    "kod": "32-434",
+    "poczta": "Skomielna Bia\u0142a\r"
+  },
+  {
+    "id": "5948",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2101",
+    "miejscowosc": "Skomielna Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Skomielna Bia\u0142a",
+    "numer": "",
+    "kod": "32-434",
+    "poczta": "Skomielna Bia\u0142a\r"
+  }
+]

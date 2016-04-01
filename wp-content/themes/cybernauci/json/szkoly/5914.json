@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17012",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5914",
+    "miejscowosc": "Domaniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Domaniew",
+    "numer": "53",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "16818",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5914",
+    "miejscowosc": "Domaniew",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Domaniew",
+    "numer": "42",
+    "kod": "99-205",
+    "poczta": "Dalik\u00f3w\r"
+  },
+  {
+    "id": "16819",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5914",
+    "miejscowosc": "Domaniew",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Domaniew",
+    "numer": "42",
+    "kod": "99-205",
+    "poczta": "Dalik\u00f3w\r"
+  }
+]

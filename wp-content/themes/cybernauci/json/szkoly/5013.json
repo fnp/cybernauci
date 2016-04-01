@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13936",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5013",
+    "miejscowosc": "\u015awiekatowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "20A",
+    "kod": "86-182",
+    "poczta": "\u015awiekatowo\r"
+  },
+  {
+    "id": "13935",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5013",
+    "miejscowosc": "\u015awiekatowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "20 A",
+    "kod": "86-182",
+    "poczta": "\u015awiekatowo\r"
+  }
+]

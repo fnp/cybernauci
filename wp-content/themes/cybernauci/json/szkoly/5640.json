@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17221",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5640",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jan\u00f3w",
+    "numer": "40",
+    "kod": "98-311",
+    "poczta": "Ostr\u00f3wek\r"
+  },
+  {
+    "id": "16264",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5640",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jan\u00f3w",
+    "numer": "1",
+    "kod": "97-400",
+    "poczta": "Be\u0142chat\u00f3w\r"
+  }
+]

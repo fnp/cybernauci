@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20217",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7134",
+    "miejscowosc": "R\u00f3\u017canki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0119bowa",
+    "numer": "3",
+    "kod": "66-415",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "20218",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7134",
+    "miejscowosc": "R\u00f3\u017canki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bowa",
+    "numer": "3",
+    "kod": "66-415",
+    "poczta": "K\u0142odawa\r"
+  }
+]

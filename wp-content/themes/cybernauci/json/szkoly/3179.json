@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8851",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3179",
+    "miejscowosc": "Parchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kartuska",
+    "numer": "19A",
+    "kod": "77-124",
+    "poczta": "Parchowo\r"
+  },
+  {
+    "id": "8852",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3179",
+    "miejscowosc": "Parchowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kartuska",
+    "numer": "19A",
+    "kod": "77-124",
+    "poczta": "Parchowo\r"
+  }
+]

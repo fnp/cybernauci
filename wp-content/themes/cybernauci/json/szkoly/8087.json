@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22368",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8087",
+    "miejscowosc": "Niebieszczany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niebieszczany",
+    "numer": "492",
+    "kod": "38-504",
+    "poczta": "Niebieszczany\r"
+  },
+  {
+    "id": "22361",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8087",
+    "miejscowosc": "Niebieszczany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Niebieszczany",
+    "numer": "492",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  }
+]

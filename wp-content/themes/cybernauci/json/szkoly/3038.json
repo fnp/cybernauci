@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8429",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3038",
+    "miejscowosc": "Sulis\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Sulis\u0142awice",
+    "numer": "120",
+    "kod": "27-670",
+    "poczta": "\u0141oni\u00f3w\r"
+  },
+  {
+    "id": "8430",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3038",
+    "miejscowosc": "Sulis\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sulis\u0142awice",
+    "numer": "120",
+    "kod": "27-670",
+    "poczta": "\u0141oni\u00f3w\r"
+  }
+]

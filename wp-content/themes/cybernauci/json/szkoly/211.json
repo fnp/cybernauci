@@ -1,0 +1,26 @@
+[
+  {
+    "id": "437",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "211",
+    "miejscowosc": "Rudniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Andrzeja Wajdy",
+    "ulica": "Wielu\u0144ska",
+    "numer": "15",
+    "kod": "46-325",
+    "poczta": "Rudniki\r"
+  },
+  {
+    "id": "436",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "211",
+    "miejscowosc": "Rudniki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Filia",
+    "ulica": "Wielu\u0144ska",
+    "numer": "15",
+    "kod": "46-325",
+    "poczta": "Rudniki\r"
+  }
+]

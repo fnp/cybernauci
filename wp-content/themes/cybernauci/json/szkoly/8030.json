@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22218",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8030",
+    "miejscowosc": "Przewrotne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Przewrotne",
+    "numer": "589",
+    "kod": "36-003",
+    "poczta": "Przewrotne\r"
+  },
+  {
+    "id": "22219",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8030",
+    "miejscowosc": "Przewrotne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Przewrotne",
+    "numer": "589",
+    "kod": "36-003",
+    "poczta": "Przewrotne\r"
+  }
+]

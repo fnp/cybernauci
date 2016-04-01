@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6858",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2521",
+    "miejscowosc": "Rzepiennik Biskupi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u017bo\u0142nierzy Armii Krajowej Oddzia\u0142u Regina II",
+    "ulica": "Rzepiennik Biskupi",
+    "numer": "321",
+    "kod": "33-163",
+    "poczta": "Rzepiennik Strzy\u017cewski\r"
+  },
+  {
+    "id": "6856",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2521",
+    "miejscowosc": "Rzepiennik Biskupi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzepiennik Biskupi",
+    "numer": "292",
+    "kod": "33-163",
+    "poczta": "Rzepiennik Strzy\u017cewski\r"
+  }
+]

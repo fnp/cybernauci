@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7187",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2654",
+    "miejscowosc": "Przybradz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "50",
+    "kod": "34-108",
+    "poczta": "Frydrychowice\r"
+  },
+  {
+    "id": "7188",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2654",
+    "miejscowosc": "Przybradz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "50",
+    "kod": "34-108",
+    "poczta": "Frydrychowice\r"
+  }
+]

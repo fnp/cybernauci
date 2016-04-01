@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15176",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5361",
+    "miejscowosc": "Rakowice Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rakowice Wielkie",
+    "numer": "48",
+    "kod": "59-600",
+    "poczta": "Lw\u00f3wek \u015al\u0105ski\r"
+  },
+  {
+    "id": "15177",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5361",
+    "miejscowosc": "Rakowice Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a ponadgimnazjalna",
+    "ulica": "Rakowice Wielkie",
+    "numer": "48",
+    "kod": "59-600",
+    "poczta": "Lw\u00f3wek \u015al\u0105ski\r"
+  },
+  {
+    "id": "15178",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5361",
+    "miejscowosc": "Rakowice Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rakowice Wielkie",
+    "numer": "48",
+    "kod": "59-600",
+    "poczta": "Lw\u00f3wek \u015al\u0105ski\r"
+  }
+]

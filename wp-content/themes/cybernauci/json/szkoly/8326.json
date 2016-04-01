@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23071",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8326",
+    "miejscowosc": "Solec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142. St. Reymonta ",
+    "ulica": "Solec",
+    "numer": "6",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23072",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8326",
+    "miejscowosc": "Solec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. St. Reymonta",
+    "ulica": "Solec",
+    "numer": "6",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  }
+]

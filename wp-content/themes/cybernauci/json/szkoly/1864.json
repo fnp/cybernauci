@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5520",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1864",
+    "miejscowosc": "\u0141u\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "\u0141u\u017cna",
+    "numer": "723",
+    "kod": "38-322",
+    "poczta": "\u0141u\u017cna\r"
+  },
+  {
+    "id": "5521",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1864",
+    "miejscowosc": "\u0141u\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 w Zespole Szk\u00f3\u0142 ",
+    "ulica": "\u0141u\u017cna",
+    "numer": "723",
+    "kod": "38-322",
+    "poczta": "\u0141u\u017cna\r"
+  },
+  {
+    "id": "5517",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1864",
+    "miejscowosc": "\u0141u\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "\u0141u\u017cna",
+    "numer": "90",
+    "kod": "38-322",
+    "poczta": "\u0141u\u017cna\r"
+  }
+]

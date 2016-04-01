@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14786",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5204",
+    "miejscowosc": "Serby",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Ogrodowa",
+    "numer": "18",
+    "kod": "67-210",
+    "poczta": "G\u0142og\u00f3w\r"
+  },
+  {
+    "id": "14787",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5204",
+    "miejscowosc": "Serby",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "18",
+    "kod": "67-210",
+    "poczta": "G\u0142og\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17194",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6086",
+    "miejscowosc": "Ujazd",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rokici\u0144ska",
+    "numer": "6",
+    "kod": "97-225",
+    "poczta": "Ujazd\r"
+  },
+  {
+    "id": "17195",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6086",
+    "miejscowosc": "Ujazd",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rokici\u0144ska",
+    "numer": "6",
+    "kod": "97-225",
+    "poczta": "Ujazd\r"
+  }
+]

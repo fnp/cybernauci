@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12746",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4504",
+    "miejscowosc": "Kobu\u0142ty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kobu\u0142ty",
+    "numer": "80",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12747",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4504",
+    "miejscowosc": "Kobu\u0142ty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kobu\u0142ty",
+    "numer": "80",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  }
+]

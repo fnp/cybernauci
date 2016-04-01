@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22902",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8237",
+    "miejscowosc": "Gumowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gumowo",
+    "numer": "6",
+    "kod": "06-452",
+    "poczta": "O\u015bcis\u0142owo\r"
+  },
+  {
+    "id": "22901",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8237",
+    "miejscowosc": "Gumowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gumowo",
+    "numer": "6",
+    "kod": "06-410",
+    "poczta": "Ciechan\u00f3w\r"
+  }
+]

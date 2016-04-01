@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25115",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9085",
+    "miejscowosc": "Rybno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wyszkowska",
+    "numer": "87",
+    "kod": "07-200",
+    "poczta": "Wyszk\u00f3w\r"
+  },
+  {
+    "id": "24704",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9085",
+    "miejscowosc": "Rybno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0142uga",
+    "numer": "11",
+    "kod": "96-514",
+    "poczta": "Rybno\r"
+  },
+  {
+    "id": "25116",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9085",
+    "miejscowosc": "Rybno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyszkowska",
+    "numer": "87",
+    "kod": "07-200",
+    "poczta": "Wyszk\u00f3w\r"
+  },
+  {
+    "id": "24705",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9085",
+    "miejscowosc": "Rybno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0142uga",
+    "numer": "11",
+    "kod": "96-514",
+    "poczta": "Rybno\r"
+  }
+]

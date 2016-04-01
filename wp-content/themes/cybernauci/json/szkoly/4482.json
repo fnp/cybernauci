@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12686",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4482",
+    "miejscowosc": "Sok\u00f3\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Sok\u00f3\u0142ki",
+    "numer": "54",
+    "kod": "19-420",
+    "poczta": "Kowale Oleckie\r"
+  },
+  {
+    "id": "12687",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4482",
+    "miejscowosc": "Sok\u00f3\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Sok\u00f3\u0142ki",
+    "numer": "47",
+    "kod": "19-420",
+    "poczta": "Kowale Oleckie\r"
+  }
+]

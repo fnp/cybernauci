@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1004",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "434",
+    "miejscowosc": "Zawada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "8",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "1043",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "434",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "18",
+    "kod": "42-244",
+    "poczta": "Mst\u00f3w\r"
+  },
+  {
+    "id": "1374",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "434",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawada",
+    "numer": "56",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1005",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "434",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "8",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16715",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5849",
+    "miejscowosc": "Kie\u0142czyg\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Adama Mickiewicza",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "8",
+    "kod": "98-358",
+    "poczta": "Kie\u0142czyg\u0142\u00f3w\r"
+  },
+  {
+    "id": "16716",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5849",
+    "miejscowosc": "Kie\u0142czyg\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Adama Mickiewicza",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "8",
+    "kod": "98-358",
+    "poczta": "Kie\u0142czyg\u0142\u00f3w\r"
+  }
+]

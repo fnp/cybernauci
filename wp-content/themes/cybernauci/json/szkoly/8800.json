@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24134",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8800",
+    "miejscowosc": "Nowa G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zbigniewa D\u0142u\u017cniewskiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  },
+  {
+    "id": "24131",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8800",
+    "miejscowosc": "Nowa G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Zbigniewa D\u0142u\u017cniewskiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  }
+]

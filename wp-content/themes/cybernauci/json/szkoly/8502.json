@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23485",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8502",
+    "miejscowosc": "Dobre",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-307",
+    "poczta": "Dobre\r"
+  },
+  {
+    "id": "23482",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8502",
+    "miejscowosc": "Dobre",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Konstantego Laszczki",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-307",
+    "poczta": "Dobre\r"
+  }
+]

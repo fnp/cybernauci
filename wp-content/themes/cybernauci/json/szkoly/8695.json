@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23910",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8695",
+    "miejscowosc": "Celestyn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi im. por. J\u00f3zefa Czumy \"Skrytego\"",
+    "ulica": "\u015aw. Kazimierza",
+    "numer": "55",
+    "kod": "05-430",
+    "poczta": "Celestyn\u00f3w\r"
+  },
+  {
+    "id": "23905",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8695",
+    "miejscowosc": "Celestyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wrzosowa",
+    "numer": "42",
+    "kod": "05-430",
+    "poczta": "Celestyn\u00f3w\r"
+  },
+  {
+    "id": "23908",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8695",
+    "miejscowosc": "Celestyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wiatraczna",
+    "numer": "13",
+    "kod": "05-430",
+    "poczta": "Celestyn\u00f3w\r"
+  }
+]

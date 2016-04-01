@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20246",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7150",
+    "miejscowosc": "Kamie\u0144 Ma\u0142y",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Kamie\u0144 Ma\u0142y",
+    "numer": "89",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20247",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7150",
+    "miejscowosc": "Kamie\u0144 Ma\u0142y",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kamie\u0144 Ma\u0142y",
+    "numer": "89",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20248",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7150",
+    "miejscowosc": "Kamie\u0144 Ma\u0142y",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Kamie\u0144 Ma\u0142y",
+    "numer": "89",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  }
+]

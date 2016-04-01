@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20686",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7339",
+    "miejscowosc": "Tuplice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "1",
+    "kod": "68-219",
+    "poczta": "Tuplice\r"
+  },
+  {
+    "id": "20687",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7339",
+    "miejscowosc": "Tuplice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "1",
+    "kod": "68-219",
+    "poczta": "Tuplice\r"
+  }
+]

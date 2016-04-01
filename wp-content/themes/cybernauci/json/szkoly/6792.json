@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19075",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6792",
+    "miejscowosc": "Czermin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Czermin",
+    "numer": "2B",
+    "kod": "63-304",
+    "poczta": "Czermin\r"
+  },
+  {
+    "id": "19076",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6792",
+    "miejscowosc": "Czermin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Lotnik\u00f3w Polskich",
+    "ulica": "Czermin",
+    "numer": "2B",
+    "kod": "63-304",
+    "poczta": "Czermin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6853",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2519",
+    "miejscowosc": "Lubcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lubcza",
+    "numer": "51",
+    "kod": "33-162",
+    "poczta": "Lubcza\r"
+  },
+  {
+    "id": "6854",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2519",
+    "miejscowosc": "Lubcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubcza",
+    "numer": "51",
+    "kod": "33-162",
+    "poczta": "Lubcza\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22236",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8039",
+    "miejscowosc": "\u0141owisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "\u0141owisko",
+    "numer": "",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22237",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8039",
+    "miejscowosc": "\u0141owisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "\u0141owisko",
+    "numer": "",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  }
+]

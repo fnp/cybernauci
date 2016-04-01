@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24304",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8860",
+    "miejscowosc": "Duczymin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Ojca Honoriusza Kowalczyka",
+    "ulica": "Duczymin",
+    "numer": "15",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24305",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8860",
+    "miejscowosc": "Duczymin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ojca Honoriusza Kowalczyka",
+    "ulica": "Duczymin",
+    "numer": "15",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  }
+]

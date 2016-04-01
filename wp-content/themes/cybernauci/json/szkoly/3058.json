@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8495",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3058",
+    "miejscowosc": "Bli\u017cyn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Piaskowa",
+    "numer": "26",
+    "kod": "26-120",
+    "poczta": "Bli\u017cyn\r"
+  },
+  {
+    "id": "8496",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3058",
+    "miejscowosc": "Bli\u017cyn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Piaskowa",
+    "numer": "26",
+    "kod": "26-120",
+    "poczta": "Bli\u017cyn\r"
+  }
+]

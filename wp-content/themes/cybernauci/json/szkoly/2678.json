@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7235",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2678",
+    "miejscowosc": "Stani\u0105tki",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Imienia \u015awi\u0119tego Wojciecha",
+    "ulica": "Stani\u0105tki",
+    "numer": "5",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7225",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2678",
+    "miejscowosc": "Stani\u0105tki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza ",
+    "ulica": "Stani\u0105tki",
+    "numer": "5",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  }
+]

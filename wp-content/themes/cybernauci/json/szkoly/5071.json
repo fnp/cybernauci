@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14031",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5071",
+    "miejscowosc": "\u015aliwice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "89-530",
+    "poczta": "\u015aliwice\r"
+  },
+  {
+    "id": "14028",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5071",
+    "miejscowosc": "\u015aliwice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "89-530",
+    "poczta": "\u015aliwice\r"
+  },
+  {
+    "id": "14032",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5071",
+    "miejscowosc": "\u015aliwice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "89-530",
+    "poczta": "\u015aliwice\r"
+  }
+]

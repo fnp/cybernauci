@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9044",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3268",
+    "miejscowosc": "Suchy D\u0105b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "11",
+    "kod": "83-022",
+    "poczta": "Suchy D\u0105b\r"
+  },
+  {
+    "id": "9045",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3268",
+    "miejscowosc": "Suchy D\u0105b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Westerplatte",
+    "ulica": "Sportowa",
+    "numer": "11",
+    "kod": "83-022",
+    "poczta": "Suchy D\u0105b\r"
+  }
+]

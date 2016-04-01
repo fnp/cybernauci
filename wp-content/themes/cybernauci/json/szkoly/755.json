@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1829",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "755",
+    "miejscowosc": "\u0141azy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. St. Konarskiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "1827",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "755",
+    "miejscowosc": "\u0141azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole",
+    "ulica": "Fabryczna",
+    "numer": "1A",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "1830",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "755",
+    "miejscowosc": "\u0141azy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "46",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "1822",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "755",
+    "miejscowosc": "\u0141azy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "19 Stycznia",
+    "numer": "14",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  },
+  {
+    "id": "1828",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "755",
+    "miejscowosc": "\u0141azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole",
+    "ulica": "Fabryczna",
+    "numer": "1A",
+    "kod": "42-450",
+    "poczta": "\u0141azy\r"
+  }
+]

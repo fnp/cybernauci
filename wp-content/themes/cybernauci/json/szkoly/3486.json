@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9521",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3486",
+    "miejscowosc": "Jezierzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "76-200",
+    "poczta": "S\u0142upsk\r"
+  },
+  {
+    "id": "9522",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3486",
+    "miejscowosc": "Jezierzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "76-200",
+    "poczta": "S\u0142upsk\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1779",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stanis\u0142awa Staszica",
+    "ulica": "Ludowego Wojska Polskiego",
+    "numer": "4",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1781",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Miko\u0142aja Kopernika",
+    "ulica": "Zak\u0142adowa",
+    "numer": "1",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1780",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Wojska Polskiego",
+    "ulica": "Ludowego Wojska Polskiego",
+    "numer": "4",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1414",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 11",
+    "ulica": "Gen. Karola \u015awierczewskiego",
+    "numer": "8",
+    "kod": "43-200",
+    "poczta": "Pszczyna\r"
+  },
+  {
+    "id": "1777",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wiedzy",
+    "numer": "3",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1778",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. J. Korczaka",
+    "ulica": "Gen. J. Zi\u0119tka",
+    "numer": "44",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1782",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. Miko\u0142aja Kopernika",
+    "ulica": "Zak\u0142adowa",
+    "numer": "1",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  },
+  {
+    "id": "1783",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "629",
+    "miejscowosc": "Por\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. Miko\u0142aja Kopernika ",
+    "ulica": "Zak\u0142adowa",
+    "numer": "1",
+    "kod": "42-480",
+    "poczta": "Por\u0119ba\r"
+  }
+]

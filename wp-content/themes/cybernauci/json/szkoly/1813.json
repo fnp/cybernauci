@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5400",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1813",
+    "miejscowosc": "Gr\u0119bosz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Stefanii \u0141\u0105ckiej",
+    "ulica": "Gr\u0119bosz\u00f3w",
+    "numer": "136",
+    "kod": "33-260",
+    "poczta": "Gr\u0119bosz\u00f3w\r"
+  },
+  {
+    "id": "5401",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1813",
+    "miejscowosc": "Gr\u0119bosz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. Henryka Sucharskiego",
+    "ulica": "Gr\u0119bosz\u00f3w",
+    "numer": "136",
+    "kod": "33-260",
+    "poczta": "Gr\u0119bosz\u00f3w\r"
+  }
+]

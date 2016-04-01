@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12209",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4269",
+    "miejscowosc": "Lelkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Or\u0142a Bia\u0142ego w Zespole Szk\u00f3\u0142",
+    "ulica": "Lelkowo",
+    "numer": "115",
+    "kod": "14-521",
+    "poczta": "Lelkowo\r"
+  },
+  {
+    "id": "12210",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4269",
+    "miejscowosc": "Lelkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Lelkowo",
+    "numer": "115",
+    "kod": "14-521",
+    "poczta": "Lelkowo\r"
+  }
+]

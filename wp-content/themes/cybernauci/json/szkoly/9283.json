@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25180",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9283",
+    "miejscowosc": "Syberia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Syberia",
+    "numer": "49",
+    "kod": "09-303",
+    "poczta": "Syberia\r"
+  },
+  {
+    "id": "25181",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9283",
+    "miejscowosc": "Syberia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Syberia",
+    "numer": "49",
+    "kod": "09-303",
+    "poczta": "Syberia\r"
+  }
+]

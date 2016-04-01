@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23819",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8663",
+    "miejscowosc": "Brok",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szosowa",
+    "numer": "17",
+    "kod": "07-306",
+    "poczta": "Brok\r"
+  },
+  {
+    "id": "23820",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8663",
+    "miejscowosc": "Brok",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "50",
+    "kod": "07-306",
+    "poczta": "Brok\r"
+  },
+  {
+    "id": "23821",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8663",
+    "miejscowosc": "Brok",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "50",
+    "kod": "07-306",
+    "poczta": "Brok\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18530",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6549",
+    "miejscowosc": "Morzyczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Morzyczyn",
+    "numer": "4",
+    "kod": "62-619",
+    "poczta": "Sadlno\r"
+  },
+  {
+    "id": "18531",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6549",
+    "miejscowosc": "Morzyczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Morzyczyn",
+    "numer": "4",
+    "kod": "62-619",
+    "poczta": "Sadlno\r"
+  }
+]

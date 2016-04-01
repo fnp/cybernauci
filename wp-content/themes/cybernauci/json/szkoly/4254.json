@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12183",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4254",
+    "miejscowosc": "Bisztynek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Kolejowa",
+    "numer": "5",
+    "kod": "11-230",
+    "poczta": "Bisztynek\r"
+  },
+  {
+    "id": "12180",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4254",
+    "miejscowosc": "Bisztynek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "7",
+    "kod": "11-230",
+    "poczta": "Bisztynek\r"
+  }
+]

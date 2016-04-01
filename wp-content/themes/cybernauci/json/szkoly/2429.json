@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6675",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2429",
+    "miejscowosc": "Proszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "7",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6678",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2429",
+    "miejscowosc": "Proszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "3 Maja",
+    "numer": "107",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6670",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2429",
+    "miejscowosc": "Proszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im T. Ko\u015bciuszki",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "15",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6679",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2429",
+    "miejscowosc": "Proszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "3 Maja",
+    "numer": "107",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  },
+  {
+    "id": "6680",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2429",
+    "miejscowosc": "Proszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "3 Maja",
+    "numer": "107",
+    "kod": "32-100",
+    "poczta": "Proszowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12553",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4417",
+    "miejscowosc": "Kraszewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Karola Wojty\u0142y",
+    "ulica": "Kraszewo",
+    "numer": "2",
+    "kod": "11-100",
+    "poczta": "Lidzbark Warmi\u0144ski\r"
+  },
+  {
+    "id": "12556",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4417",
+    "miejscowosc": "Kraszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kraszewo",
+    "numer": "8",
+    "kod": "11-100",
+    "poczta": "Lidzbark Warmi\u0144ski\r"
+  }
+]

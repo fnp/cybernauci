@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22537",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7961",
+    "miejscowosc": "Wi\u015bniowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wi\u015bniowa",
+    "numer": "76a",
+    "kod": "38-124",
+    "poczta": "Wi\u015bniowa\r"
+  },
+  {
+    "id": "22538",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7961",
+    "miejscowosc": "Wi\u015bniowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wi\u015bniowa",
+    "numer": "76",
+    "kod": "38-124",
+    "poczta": "Wi\u015bniowa\r"
+  },
+  {
+    "id": "22079",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7961",
+    "miejscowosc": "Wi\u015bniowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Konopnickiej Szko\u0142a Filialna",
+    "ulica": "Wi\u015bniowa",
+    "numer": "69",
+    "kod": "39-124",
+    "poczta": "Iwierzyce\r"
+  }
+]

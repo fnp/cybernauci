@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18283",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6406",
+    "miejscowosc": "Marchwacz-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Marchwacz",
+    "numer": "27",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  },
+  {
+    "id": "18284",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6406",
+    "miejscowosc": "Marchwacz-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marchwacz",
+    "numer": "27",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  }
+]

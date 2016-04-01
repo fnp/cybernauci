@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6092",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2166",
+    "miejscowosc": "Ro\u017cn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 1",
+    "ulica": "Ro\u017cn\u00f3w",
+    "numer": "269",
+    "kod": "33-316",
+    "poczta": "Ro\u017cn\u00f3w\r"
+  },
+  {
+    "id": "6093",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2166",
+    "miejscowosc": "Ro\u017cn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Ro\u017cn\u00f3w",
+    "numer": "269",
+    "kod": "33-316",
+    "poczta": "Ro\u017cn\u00f3w\r"
+  }
+]

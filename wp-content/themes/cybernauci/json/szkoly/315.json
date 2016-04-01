@@ -1,0 +1,26 @@
+[
+  {
+    "id": "625",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "315",
+    "miejscowosc": "\u017b\u0119dowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Strzelecka",
+    "numer": "35",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  },
+  {
+    "id": "626",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "315",
+    "miejscowosc": "\u017b\u0119dowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Strzelecka",
+    "numer": "35",
+    "kod": "47-120",
+    "poczta": "Zawadzkie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3415",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "923",
+    "miejscowosc": "D\u0105browica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "D\u0105browica",
+    "numer": "138a",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3416",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "923",
+    "miejscowosc": "D\u0105browica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0105browica",
+    "numer": "138a",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

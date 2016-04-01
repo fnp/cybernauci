@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8192",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2934",
+    "miejscowosc": "Radoszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ogrodowa",
+    "numer": "21",
+    "kod": "26-230",
+    "poczta": "Radoszyce\r"
+  },
+  {
+    "id": "8190",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2934",
+    "miejscowosc": "Radoszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "26-230",
+    "poczta": "Radoszyce\r"
+  }
+]

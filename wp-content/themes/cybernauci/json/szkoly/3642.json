@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10304",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3642",
+    "miejscowosc": "Dobrzyniewo Du\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "16-002",
+    "poczta": "Dobrzyniewo Du\u017ce\r"
+  },
+  {
+    "id": "10305",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3642",
+    "miejscowosc": "Dobrzyniewo Du\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "16-002",
+    "poczta": "Dobrzyniewo Du\u017ce\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "18757",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  },
+  {
+    "id": "18755",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Gen. K. Sosnkowskiego",
+    "ulica": "Farna",
+    "numer": "5",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  },
+  {
+    "id": "18758",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Prymasa Tysi\u0105clecia ks. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  },
+  {
+    "id": "18749",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "37",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  },
+  {
+    "id": "18759",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  },
+  {
+    "id": "18760",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6648",
+    "miejscowosc": "Opalenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "64-330",
+    "poczta": "Opalenica\r"
+  }
+]

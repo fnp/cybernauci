@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9275",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3380",
+    "miejscowosc": "Nebrowo Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "82-522",
+    "poczta": "Sadlinki\r"
+  },
+  {
+    "id": "9276",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3380",
+    "miejscowosc": "Nebrowo Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "82-522",
+    "poczta": "Sadlinki\r"
+  }
+]

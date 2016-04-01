@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16750",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5873",
+    "miejscowosc": "Czarnocin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szkolno-Gimnazjalnym",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "134",
+    "kod": "97-318",
+    "poczta": "Czarnocin\r"
+  },
+  {
+    "id": "16751",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5873",
+    "miejscowosc": "Czarnocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Gimnazjalnym",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "134",
+    "kod": "97-318",
+    "poczta": "Czarnocin\r"
+  },
+  {
+    "id": "16752",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5873",
+    "miejscowosc": "Czarnocin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "J. Poniatowskiego",
+    "numer": "5",
+    "kod": "97-318",
+    "poczta": "Czarnocin\r"
+  }
+]

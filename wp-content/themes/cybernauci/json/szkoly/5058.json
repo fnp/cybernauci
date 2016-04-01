@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14006",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5058",
+    "miejscowosc": "Rz\u0119czkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Rz\u0119czkowo",
+    "numer": "59",
+    "kod": "87-133",
+    "poczta": "Rz\u0119czkowo\r"
+  },
+  {
+    "id": "14007",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5058",
+    "miejscowosc": "Rz\u0119czkowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Rz\u0119czkowo",
+    "numer": "59",
+    "kod": "87-133",
+    "poczta": "Rz\u0119czkowo\r"
+  }
+]

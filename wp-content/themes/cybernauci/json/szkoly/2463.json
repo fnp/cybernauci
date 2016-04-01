@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6750",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2463",
+    "miejscowosc": "Stryszawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Stryszawa",
+    "numer": "400a",
+    "kod": "34-205",
+    "poczta": "Stryszawa\r"
+  },
+  {
+    "id": "6748",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2463",
+    "miejscowosc": "Stryszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Stryszawa",
+    "numer": "278 b",
+    "kod": "34-205",
+    "poczta": "Stryszawa\r"
+  },
+  {
+    "id": "6753",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2463",
+    "miejscowosc": "Stryszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Stryszawa",
+    "numer": "496",
+    "kod": "34-205",
+    "poczta": "Stryszawa\r"
+  }
+]

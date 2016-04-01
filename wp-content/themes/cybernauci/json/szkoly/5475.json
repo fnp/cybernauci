@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15722",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5475",
+    "miejscowosc": "Grodziszcze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Grodziszcze",
+    "numer": "4",
+    "kod": "57-200",
+    "poczta": "Z\u0105bkowice \u015al\u0105skie\r"
+  },
+  {
+    "id": "15723",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5475",
+    "miejscowosc": "Grodziszcze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Grodziszcze",
+    "numer": "4",
+    "kod": "57-200",
+    "poczta": "Z\u0105bkowice \u015al\u0105skie\r"
+  },
+  {
+    "id": "15496",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5475",
+    "miejscowosc": "Grodziszcze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Grodziszcze",
+    "numer": "63\/a",
+    "kod": "58-112",
+    "poczta": "Grodziszcze\r"
+  }
+]

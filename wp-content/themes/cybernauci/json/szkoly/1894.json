@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7263",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1894",
+    "miejscowosc": "Dobranowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dobranowice",
+    "numer": "121",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  },
+  {
+    "id": "5567",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1894",
+    "miejscowosc": "Dobranowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy ",
+    "ulica": "Dobranowice",
+    "numer": "67",
+    "kod": "32-125",
+    "poczta": "Wawrze\u0144czyce\r"
+  }
+]

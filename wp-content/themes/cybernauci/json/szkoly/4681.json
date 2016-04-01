@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13253",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4681",
+    "miejscowosc": "Brzozie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brzozie",
+    "numer": "51C",
+    "kod": "87-313",
+    "poczta": "Brzozie\r"
+  },
+  {
+    "id": "13250",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4681",
+    "miejscowosc": "Brzozie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzozie",
+    "numer": "51B",
+    "kod": "87-313",
+    "poczta": "Brzozie\r"
+  }
+]

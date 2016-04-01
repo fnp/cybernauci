@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16485",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5731",
+    "miejscowosc": "Stary Waliszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Stowarzyszenia Rozwoju Wsi Waliszew i Okolic im. Jana Paw\u0142a II",
+    "ulica": "Stary Waliszew",
+    "numer": "20a",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  },
+  {
+    "id": "16491",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5731",
+    "miejscowosc": "Stary Waliszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 Stowarzyszenia Rozwoju Wsi Waliszew i Okolic im. Jana Paw\u0142a II",
+    "ulica": "Stary Waliszew",
+    "numer": "20a",
+    "kod": "99-423",
+    "poczta": "Bielawy\r"
+  }
+]

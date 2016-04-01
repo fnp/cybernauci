@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13288",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4705",
+    "miejscowosc": "Ostromecko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  },
+  {
+    "id": "13289",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4705",
+    "miejscowosc": "Ostromecko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  }
+]

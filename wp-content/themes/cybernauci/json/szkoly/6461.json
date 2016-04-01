@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18392",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6461",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u00f3rki",
+    "numer": "18",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18387",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6461",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3rki",
+    "numer": "18",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  }
+]

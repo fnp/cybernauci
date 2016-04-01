@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10656",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3819",
+    "miejscowosc": "Czartajew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "D\u0142uga",
+    "numer": "130",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10657",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3819",
+    "miejscowosc": "Czartajew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane",
+    "ulica": "D\u0142uga",
+    "numer": "130",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10653",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3819",
+    "miejscowosc": "Czartajew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10658",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3819",
+    "miejscowosc": "Czartajew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "D\u0142uga",
+    "numer": "130",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10659",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3819",
+    "miejscowosc": "Czartajew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "D\u0142uga",
+    "numer": "130",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  }
+]

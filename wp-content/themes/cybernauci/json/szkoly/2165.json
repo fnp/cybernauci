@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6090",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2165",
+    "miejscowosc": "Gr\u00f3dek nad Dunajcem",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5 w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Gr\u00f3dek nad Dunajcem",
+    "numer": "195",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  },
+  {
+    "id": "6091",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2165",
+    "miejscowosc": "Gr\u00f3dek nad Dunajcem",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Gr\u00f3dek nad Dunajcem",
+    "numer": "195",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  }
+]

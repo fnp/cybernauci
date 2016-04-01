@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21209",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7509",
+    "miejscowosc": "\u0141azy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "\u0141azy",
+    "numer": "53",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21210",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7509",
+    "miejscowosc": "\u0141azy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "\u0141azy",
+    "numer": "53",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  }
+]

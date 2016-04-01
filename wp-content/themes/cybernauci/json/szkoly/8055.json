@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22276",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8055",
+    "miejscowosc": "Mrowla",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mrowla",
+    "numer": "",
+    "kod": "36-054",
+    "poczta": "Mrowla\r"
+  },
+  {
+    "id": "22273",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8055",
+    "miejscowosc": "Mrowla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mrowla",
+    "numer": "51",
+    "kod": "36-054",
+    "poczta": "Mrowla\r"
+  },
+  {
+    "id": "22277",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8055",
+    "miejscowosc": "Mrowla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mrowla",
+    "numer": "",
+    "kod": "36-054",
+    "poczta": "Mrowla\r"
+  }
+]

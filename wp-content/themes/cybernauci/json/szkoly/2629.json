@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7107",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2629",
+    "miejscowosc": "Izdebnik",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Izdebnik",
+    "numer": "219",
+    "kod": "34-144",
+    "poczta": "Izdebnik\r"
+  },
+  {
+    "id": "7108",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2629",
+    "miejscowosc": "Izdebnik",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Izdebnik",
+    "numer": "219",
+    "kod": "34-144",
+    "poczta": "Izdebnik\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3414",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "920",
+    "miejscowosc": "Korytk\u00f3w Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Korytk\u00f3w Du\u017cy",
+    "numer": "118",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3409",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "920",
+    "miejscowosc": "Korytk\u00f3w Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Korytk\u00f3w Du\u017cy",
+    "numer": "118",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

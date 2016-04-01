@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1919",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "785",
+    "miejscowosc": "Krzy\u017cowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "34-335",
+    "poczta": "Krzy\u017cowa\r"
+  },
+  {
+    "id": "1920",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "785",
+    "miejscowosc": "Krzy\u017cowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "34-335",
+    "poczta": "Krzy\u017cowa\r"
+  }
+]

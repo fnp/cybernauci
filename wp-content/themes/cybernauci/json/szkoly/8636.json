@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23761",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8636",
+    "miejscowosc": "Myszyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dzieci Polskich",
+    "numer": "5",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23764",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8636",
+    "miejscowosc": "Myszyniec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dzieci Polskich",
+    "numer": "1",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23765",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8636",
+    "miejscowosc": "Myszyniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dzieci Polskich",
+    "numer": "1",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23762",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8636",
+    "miejscowosc": "Myszyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dzieci Polskich",
+    "numer": "5",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23763",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8636",
+    "miejscowosc": "Myszyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dzieci Polskich",
+    "numer": "5",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  }
+]

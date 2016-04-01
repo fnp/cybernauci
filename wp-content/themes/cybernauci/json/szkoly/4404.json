@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12518",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4404",
+    "miejscowosc": "Wilkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Wilkowo",
+    "numer": "23",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  },
+  {
+    "id": "12519",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4404",
+    "miejscowosc": "Wilkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wilkowo",
+    "numer": "23",
+    "kod": "11-440",
+    "poczta": "Reszel\r"
+  }
+]

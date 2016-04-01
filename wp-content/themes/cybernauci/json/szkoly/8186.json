@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22573",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8186",
+    "miejscowosc": "Stale",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stale",
+    "numer": "1",
+    "kod": "39-400",
+    "poczta": "Tarnobrzeg\r"
+  },
+  {
+    "id": "22574",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8186",
+    "miejscowosc": "Stale",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stale",
+    "numer": "1",
+    "kod": "39-400",
+    "poczta": "Tarnobrzeg\r"
+  }
+]

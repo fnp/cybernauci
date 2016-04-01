@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8041",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stra\u017cacka",
+    "numer": "5",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8045",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Konecka",
+    "numer": "2",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8040",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Nr 1",
+    "ulica": "Konecka",
+    "numer": "2",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8042",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stra\u017cacka",
+    "numer": "5",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8046",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Konecka",
+    "numer": "2",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8047",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2854",
+    "miejscowosc": "\u0141opuszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Konecka",
+    "numer": "2",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  }
+]

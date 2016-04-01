@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24698",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9082",
+    "miejscowosc": "Koz\u0142\u00f3w Biskupi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "Olimpijska",
+    "numer": "1",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  },
+  {
+    "id": "24699",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9082",
+    "miejscowosc": "Koz\u0142\u00f3w Biskupi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Olimpijska",
+    "numer": "1",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  }
+]

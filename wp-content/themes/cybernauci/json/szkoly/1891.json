@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5558",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1891",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kamie\u0144",
+    "numer": "145",
+    "kod": "32-071",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "5559",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1891",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kamie\u0144",
+    "numer": "145",
+    "kod": "32-071",
+    "poczta": "Kamie\u0144\r"
+  }
+]

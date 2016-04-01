@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22593",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8195",
+    "miejscowosc": "Mchawa",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Mchawa",
+    "numer": "37",
+    "kod": "38-606",
+    "poczta": "Baligr\u00f3d\r"
+  },
+  {
+    "id": "22595",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8195",
+    "miejscowosc": "Mchawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mchawa",
+    "numer": "37",
+    "kod": "38-606",
+    "poczta": "Baligr\u00f3d\r"
+  }
+]

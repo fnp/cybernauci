@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20367",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7198",
+    "miejscowosc": "Lubi\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Lubi\u0119cin",
+    "numer": "82",
+    "kod": "67-108",
+    "poczta": "Nowa S\u00f3l\r"
+  },
+  {
+    "id": "20368",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7198",
+    "miejscowosc": "Lubi\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Lubi\u0119cin",
+    "numer": "82",
+    "kod": "67-108",
+    "poczta": "Nowa S\u00f3l\r"
+  }
+]

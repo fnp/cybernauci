@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6329",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piusa Jab\u0142o\u0144skiego",
+    "numer": "4",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6331",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bohater\u00f3w Westerplatte",
+    "ulica": "Podhala\u0144ska",
+    "numer": "3",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6328",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "podstawowa",
+    "nazwa": "Orawska Szko\u0142a Podstawowa",
+    "ulica": "Targowa",
+    "numer": "5",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6330",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Piusa Jab\u0142o\u0144skiego",
+    "numer": "4",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6327",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Jab\u0142once-Bory",
+    "ulica": "Kopernika",
+    "numer": "14",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6332",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Podhala\u0144ska",
+    "numer": "3",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6346",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa im. \u015bw. Jana Paw\u0142a II",
+    "ulica": "Sobieskiego",
+    "numer": "78",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6333",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2292",
+    "miejscowosc": "Jab\u0142onka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Rolnicza",
+    "ulica": "Podhala\u0144ska",
+    "numer": "3",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  }
+]

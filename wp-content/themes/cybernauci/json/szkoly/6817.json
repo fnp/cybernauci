@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19131",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Alberta Einsteina",
+    "ulica": "Wysoka",
+    "numer": "1",
+    "kod": "62-040",
+    "poczta": "Puszczykowo\r"
+  },
+  {
+    "id": "19132",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Kasprowicza",
+    "numer": "1",
+    "kod": "62-041",
+    "poczta": "Puszczykowo\r"
+  },
+  {
+    "id": "19133",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Sportowe",
+    "ulica": "Kasprowicza",
+    "numer": "3",
+    "kod": "62-041",
+    "poczta": "Puszczykowo\r"
+  },
+  {
+    "id": "19134",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Miko\u0142aja Kopernika ",
+    "ulica": "Kasprowicza",
+    "numer": "3",
+    "kod": "62-041",
+    "poczta": "Puszczykowo\r"
+  },
+  {
+    "id": "19129",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Adama Mickiewicza",
+    "ulica": "Wysoka",
+    "numer": "1",
+    "kod": "62-040",
+    "poczta": "Puszczykowo\r"
+  },
+  {
+    "id": "19130",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6817",
+    "miejscowosc": "Puszczykowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kasprowicza",
+    "numer": "1",
+    "kod": "62-041",
+    "poczta": "Puszczykowo\r"
+  }
+]

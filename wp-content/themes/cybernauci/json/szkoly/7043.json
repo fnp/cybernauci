@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19627",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7043",
+    "miejscowosc": "Glinno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Antoniewo",
+    "numer": "",
+    "kod": "62-085",
+    "poczta": "Skoki\r"
+  },
+  {
+    "id": "19628",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7043",
+    "miejscowosc": "Glinno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Antoniewo",
+    "numer": "",
+    "kod": "62-085",
+    "poczta": "Skoki\r"
+  },
+  {
+    "id": "19629",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7043",
+    "miejscowosc": "Glinno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Glinno",
+    "numer": "",
+    "kod": "62-085",
+    "poczta": "Skoki\r"
+  }
+]

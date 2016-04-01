@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4002",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1245",
+    "miejscowosc": "Niedrzwica Du\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Lubelska",
+    "numer": "21A",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  },
+  {
+    "id": "4005",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1245",
+    "miejscowosc": "Niedrzwica Du\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Be\u0142\u017cycka",
+    "numer": "77",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  },
+  {
+    "id": "3996",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1245",
+    "miejscowosc": "Niedrzwica Du\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubelska",
+    "numer": "21A",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  },
+  {
+    "id": "4006",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1245",
+    "miejscowosc": "Niedrzwica Du\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Be\u0142\u017cycka",
+    "numer": "77",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  }
+]

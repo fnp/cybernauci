@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5883",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2070",
+    "miejscowosc": "Por\u0119ba Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Por\u0119ba Wielka",
+    "numer": "222",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  },
+  {
+    "id": "6617",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2070",
+    "miejscowosc": "Por\u0119ba Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Artura Grottgera",
+    "ulica": "Aleja Parkowa",
+    "numer": "1",
+    "kod": "32-600",
+    "poczta": "O\u015bwi\u0119cim\r"
+  },
+  {
+    "id": "5884",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2070",
+    "miejscowosc": "Por\u0119ba Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Orkana",
+    "ulica": "Por\u0119ba Wielka",
+    "numer": "222",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  }
+]

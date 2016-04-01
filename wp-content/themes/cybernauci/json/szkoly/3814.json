@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10643",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3814",
+    "miejscowosc": "Grodzisk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "34",
+    "kod": "17-315",
+    "poczta": "Grodzisk\r"
+  },
+  {
+    "id": "10644",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3814",
+    "miejscowosc": "Grodzisk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza ",
+    "ulica": "1 Maja",
+    "numer": "34",
+    "kod": "17-315",
+    "poczta": "Grodzisk\r"
+  }
+]

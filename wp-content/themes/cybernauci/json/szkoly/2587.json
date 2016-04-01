@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7006",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2587",
+    "miejscowosc": "Bia\u0142y Dunajec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "184a",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  },
+  {
+    "id": "7008",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2587",
+    "miejscowosc": "Bia\u0142y Dunajec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Mi\u0142o\u015bnik\u00f3w Podhala",
+    "numer": "23",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  },
+  {
+    "id": "7007",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2587",
+    "miejscowosc": "Bia\u0142y Dunajec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "184a",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  },
+  {
+    "id": "7009",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2587",
+    "miejscowosc": "Bia\u0142y Dunajec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Mi\u0142o\u015bnik\u00f3w Podhala",
+    "numer": "23",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  }
+]

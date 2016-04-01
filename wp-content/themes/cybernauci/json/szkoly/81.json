@@ -1,0 +1,26 @@
+[
+  {
+    "id": "193",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "81",
+    "miejscowosc": "Lasowice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lasowice Wielkie",
+    "numer": "83",
+    "kod": "46-282",
+    "poczta": "Lasowice Wielkie\r"
+  },
+  {
+    "id": "196",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "81",
+    "miejscowosc": "Lasowice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lasowice Wielkie",
+    "numer": "83",
+    "kod": "46-282",
+    "poczta": "Lasowice Wielkie\r"
+  }
+]

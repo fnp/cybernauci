@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8415",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3026",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Zysmana",
+    "numer": "9",
+    "kod": "27-640",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "8416",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3026",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "B. Jasie\u0144skiego",
+    "numer": "1",
+    "kod": "27-640",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "8410",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3026",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jerzego Ossoli\u0144skiego ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "27-640",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "8417",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3026",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "B. Jasie\u0144skiego",
+    "numer": "1",
+    "kod": "27-640",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "8418",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3026",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "B. Jasie\u0144skiego",
+    "numer": "1",
+    "kod": "27-640",
+    "poczta": "Klimont\u00f3w\r"
+  }
+]

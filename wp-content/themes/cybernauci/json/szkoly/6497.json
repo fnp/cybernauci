@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18450",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6497",
+    "miejscowosc": "Budzis\u0142aw Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Przyrodnik\u00f3w Polskich",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "62-541",
+    "poczta": "Budzis\u0142aw Ko\u015bcielny\r"
+  },
+  {
+    "id": "18453",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6497",
+    "miejscowosc": "Budzis\u0142aw Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "62-541",
+    "poczta": "Budzis\u0142aw Ko\u015bcielny\r"
+  }
+]

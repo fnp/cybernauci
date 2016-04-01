@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17031",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6000",
+    "miejscowosc": "Brze\u017anio",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 im. Wac\u0142awy Matusiak",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "98-275",
+    "poczta": "Brze\u017anio\r"
+  },
+  {
+    "id": "17032",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6000",
+    "miejscowosc": "Brze\u017anio",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Wac\u0142awy Matusiak ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "98-275",
+    "poczta": "Brze\u017anio\r"
+  }
+]

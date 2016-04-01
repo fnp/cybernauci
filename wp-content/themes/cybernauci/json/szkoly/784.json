@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1921",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "784",
+    "miejscowosc": "Jele\u015bnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rynek",
+    "numer": "11",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1917",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "784",
+    "miejscowosc": "Jele\u015bnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u017bywiecka",
+    "numer": "17",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1922",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "784",
+    "miejscowosc": "Jele\u015bnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rynek",
+    "numer": "11",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1918",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "784",
+    "miejscowosc": "Jele\u015bnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Hugona Zapa\u0142owicza",
+    "ulica": "\u017bywiecka",
+    "numer": "17",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  }
+]

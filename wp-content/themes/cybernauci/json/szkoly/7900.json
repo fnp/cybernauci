@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21957",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7900",
+    "miejscowosc": "Drohoj\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Drohoj\u00f3w",
+    "numer": "151A",
+    "kod": "37-716",
+    "poczta": "Or\u0142y\r"
+  },
+  {
+    "id": "21956",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7900",
+    "miejscowosc": "Drohoj\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Drohoj\u00f3w",
+    "numer": "151A",
+    "kod": "37-716",
+    "poczta": "Or\u0142y\r"
+  }
+]

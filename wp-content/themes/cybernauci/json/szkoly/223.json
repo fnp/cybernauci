@@ -1,0 +1,26 @@
+[
+  {
+    "id": "460",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "223",
+    "miejscowosc": "Czarnow\u0105sy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kani",
+    "numer": "1",
+    "kod": "46-020",
+    "poczta": "Czarnow\u0105sy\r"
+  },
+  {
+    "id": "461",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "223",
+    "miejscowosc": "Czarnow\u0105sy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kani",
+    "numer": "1",
+    "kod": "46-020",
+    "poczta": "Czarnow\u0105sy\r"
+  }
+]

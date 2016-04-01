@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4590",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1533",
+    "miejscowosc": "Biskupice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "15",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  },
+  {
+    "id": "4591",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1533",
+    "miejscowosc": "Biskupice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Batorego",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "15",
+    "kod": "21-044",
+    "poczta": "Trawniki\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24847",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9145",
+    "miejscowosc": "Dziekan\u00f3w Le\u015bny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Akinsa",
+    "numer": "6",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24845",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9145",
+    "miejscowosc": "Dziekan\u00f3w Le\u015bny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Klinicznym Szpitalu Dzieci\u0119cym",
+    "ulica": "M. Konopnickiej",
+    "numer": "65",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24848",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9145",
+    "miejscowosc": "Dziekan\u00f3w Le\u015bny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Akinsa",
+    "numer": "6",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24846",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9145",
+    "miejscowosc": "Dziekan\u00f3w Le\u015bny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Klinicznym Szpitalu Dzieci\u0119cym",
+    "ulica": "M. Konopnickiej",
+    "numer": "65",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  }
+]

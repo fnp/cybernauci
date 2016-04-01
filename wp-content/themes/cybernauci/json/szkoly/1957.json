@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5661",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1957",
+    "miejscowosc": "Ska\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Integracyjnymi i Sportowymi ",
+    "ulica": "ks. Stanis\u0142awa Po\u0142etka",
+    "numer": "32",
+    "kod": "32-043",
+    "poczta": "Ska\u0142a\r"
+  },
+  {
+    "id": "5662",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1957",
+    "miejscowosc": "Ska\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "ks. Stanis\u0142awa Po\u0142etka",
+    "numer": "30",
+    "kod": "32-043",
+    "poczta": "Ska\u0142a\r"
+  },
+  {
+    "id": "5657",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1957",
+    "miejscowosc": "Ska\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa \u0141okietka",
+    "ulica": "Topolowa",
+    "numer": "25",
+    "kod": "32-043",
+    "poczta": "Ska\u0142a\r"
+  },
+  {
+    "id": "5663",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1957",
+    "miejscowosc": "Ska\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "ks. Stanis\u0142awa Po\u0142etka",
+    "numer": "30",
+    "kod": "32-043",
+    "poczta": "Ska\u0142a\r"
+  },
+  {
+    "id": "5664",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1957",
+    "miejscowosc": "Ska\u0142a",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "ks. Stanis\u0142awa Po\u0142etka",
+    "numer": "30",
+    "kod": "32-043",
+    "poczta": "Ska\u0142a\r"
+  }
+]

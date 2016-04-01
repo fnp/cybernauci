@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25020",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9217",
+    "miejscowosc": "Postoliska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pl. 3-go Maja",
+    "numer": "18",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25021",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9217",
+    "miejscowosc": "Postoliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kielaka",
+    "ulica": "Pl. 3-go Maja",
+    "numer": "18",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

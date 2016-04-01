@@ -1,0 +1,86 @@
+[
+  {
+    "id": "19204",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19211",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Sowiniecka",
+    "numer": "75",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19205",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Topolowa",
+    "numer": "2",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19200",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19212",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sowiniecka",
+    "numer": "75",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19206",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Topolowa",
+    "numer": "2",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  },
+  {
+    "id": "19207",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6852",
+    "miejscowosc": "Mosina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Topolowa",
+    "numer": "2",
+    "kod": "62-050",
+    "poczta": "Mosina\r"
+  }
+]

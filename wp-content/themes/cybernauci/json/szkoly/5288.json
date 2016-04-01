@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14995",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5288",
+    "miejscowosc": "Lewin K\u0142odzki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "57-343",
+    "poczta": "Lewin K\u0142odzki\r"
+  },
+  {
+    "id": "14996",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5288",
+    "miejscowosc": "Lewin K\u0142odzki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "57-343",
+    "poczta": "Lewin K\u0142odzki\r"
+  }
+]

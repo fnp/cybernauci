@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4283",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1411",
+    "miejscowosc": "Jab\u0142o\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W. Witosa",
+    "ulica": "Jadwigi Tokarskiej",
+    "numer": "2",
+    "kod": "21-205",
+    "poczta": "Jab\u0142o\u0144\r"
+  },
+  {
+    "id": "4284",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1411",
+    "miejscowosc": "Jab\u0142o\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. SGO Polesie",
+    "ulica": "Jadwigi Tokarskiej",
+    "numer": "2",
+    "kod": "21-205",
+    "poczta": "Jab\u0142o\u0144\r"
+  },
+  {
+    "id": "4285",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1411",
+    "miejscowosc": "Jab\u0142o\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "A. Zamoyskiego",
+    "numer": "4",
+    "kod": "21-205",
+    "poczta": "Jab\u0142o\u0144\r"
+  },
+  {
+    "id": "4286",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1411",
+    "miejscowosc": "Jab\u0142o\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "A. Zamoyskiego",
+    "numer": "4",
+    "kod": "21-205",
+    "poczta": "Jab\u0142o\u0144\r"
+  }
+]

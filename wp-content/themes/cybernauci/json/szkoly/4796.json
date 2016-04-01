@@ -1,0 +1,62 @@
+[
+  {
+    "id": "13456",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4796",
+    "miejscowosc": "\u0141asin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sk\u0142odowskiej",
+    "numer": "14",
+    "kod": "86-320",
+    "poczta": "\u0141asin\r"
+  },
+  {
+    "id": "13453",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4796",
+    "miejscowosc": "\u0141asin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Odrodzenia Polski",
+    "numer": "3",
+    "kod": "86-320",
+    "poczta": "\u0141asin\r"
+  },
+  {
+    "id": "13457",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4796",
+    "miejscowosc": "\u0141asin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sk\u0142odowskiej",
+    "numer": "14",
+    "kod": "86-320",
+    "poczta": "\u0141asin\r"
+  },
+  {
+    "id": "13454",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4796",
+    "miejscowosc": "\u0141asin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Odrodzenia Polski",
+    "numer": "3",
+    "kod": "86-320",
+    "poczta": "\u0141asin\r"
+  },
+  {
+    "id": "13455",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4796",
+    "miejscowosc": "\u0141asin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Odrodzenia Polski",
+    "numer": "3",
+    "kod": "86-320",
+    "poczta": "\u0141asin\r"
+  }
+]

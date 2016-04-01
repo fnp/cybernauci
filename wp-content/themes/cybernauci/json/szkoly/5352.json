@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15152",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5352",
+    "miejscowosc": "Gryf\u00f3w \u015al\u0105ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kombatant\u00f3w Ziemi Gryfowskiej",
+    "ulica": "Uczniowska",
+    "numer": "11",
+    "kod": "59-620",
+    "poczta": "Gryf\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "15153",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5352",
+    "miejscowosc": "Gryf\u00f3w \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolejowa",
+    "numer": "16",
+    "kod": "59-620",
+    "poczta": "Gryf\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "15150",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5352",
+    "miejscowosc": "Gryf\u00f3w \u015al\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Uczniowska",
+    "numer": "17",
+    "kod": "59-620",
+    "poczta": "Gryf\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "15154",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5352",
+    "miejscowosc": "Gryf\u00f3w \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kolejowa",
+    "numer": "16",
+    "kod": "59-620",
+    "poczta": "Gryf\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "15155",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5352",
+    "miejscowosc": "Gryf\u00f3w \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kolejowa",
+    "numer": "16",
+    "kod": "59-620",
+    "poczta": "Gryf\u00f3w \u015al\u0105ski\r"
+  }
+]

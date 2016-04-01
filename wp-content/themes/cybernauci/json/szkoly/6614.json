@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18670",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6614",
+    "miejscowosc": "\u015awi\u0119ciechowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "64-115",
+    "poczta": "\u015awi\u0119ciechowa\r"
+  },
+  {
+    "id": "18671",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6614",
+    "miejscowosc": "\u015awi\u0119ciechowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "64-115",
+    "poczta": "\u015awi\u0119ciechowa\r"
+  }
+]

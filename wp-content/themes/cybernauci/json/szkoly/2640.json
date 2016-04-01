@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7136",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2640",
+    "miejscowosc": "Radocza",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworska",
+    "numer": "8",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7131",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2640",
+    "miejscowosc": "Radocza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bowa",
+    "numer": "49",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7137",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2640",
+    "miejscowosc": "Radocza",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dworska",
+    "numer": "8",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7138",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2640",
+    "miejscowosc": "Radocza",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dworska",
+    "numer": "8",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  }
+]

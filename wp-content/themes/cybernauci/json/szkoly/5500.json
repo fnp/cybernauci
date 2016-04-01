@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15553",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5500",
+    "miejscowosc": "Kryniczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "55-114",
+    "poczta": "Wisznia Ma\u0142a\r"
+  },
+  {
+    "id": "15554",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5500",
+    "miejscowosc": "Kryniczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "55-114",
+    "poczta": "Wisznia Ma\u0142a\r"
+  }
+]

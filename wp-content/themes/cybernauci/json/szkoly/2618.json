@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7081",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2618",
+    "miejscowosc": "\u0141\u0105czany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Krakowska",
+    "numer": "87",
+    "kod": "34-115",
+    "poczta": "Rycz\u00f3w\r"
+  },
+  {
+    "id": "7082",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2618",
+    "miejscowosc": "\u0141\u0105czany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krakowska",
+    "numer": "87",
+    "kod": "34-115",
+    "poczta": "Rycz\u00f3w\r"
+  }
+]

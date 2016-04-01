@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23221",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8392",
+    "miejscowosc": "Garbatka-Letnisko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Hanki Lewandowicz",
+    "numer": "4",
+    "kod": "26-930",
+    "poczta": "Garbatka-Letnisko\r"
+  },
+  {
+    "id": "23224",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8392",
+    "miejscowosc": "Garbatka-Letnisko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Hanki Lewandowicz",
+    "numer": "2",
+    "kod": "26-930",
+    "poczta": "Garbatka-Letnisko\r"
+  },
+  {
+    "id": "23225",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8392",
+    "miejscowosc": "Garbatka-Letnisko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Hanki Lewandowicz",
+    "numer": "2",
+    "kod": "26-930",
+    "poczta": "Garbatka-Letnisko\r"
+  },
+  {
+    "id": "23222",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8392",
+    "miejscowosc": "Garbatka-Letnisko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Drzewne",
+    "ulica": "Hanki Lewandowicz",
+    "numer": "4",
+    "kod": "26-930",
+    "poczta": "Garbatka-Letnisko\r"
+  },
+  {
+    "id": "23223",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8392",
+    "miejscowosc": "Garbatka-Letnisko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne ",
+    "ulica": "Hanki Lewandowicz",
+    "numer": "4",
+    "kod": "26-930",
+    "poczta": "Garbatka-Letnisko\r"
+  }
+]

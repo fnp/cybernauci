@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17218",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6102",
+    "miejscowosc": "Osjak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Wielu\u0144ska",
+    "numer": "14",
+    "kod": "98-320",
+    "poczta": "Osjak\u00f3w\r"
+  },
+  {
+    "id": "17220",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6102",
+    "miejscowosc": "Osjak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych ",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "24",
+    "kod": "98-320",
+    "poczta": "Osjak\u00f3w\r"
+  }
+]

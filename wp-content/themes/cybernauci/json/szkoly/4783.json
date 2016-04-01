@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13436",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4783",
+    "miejscowosc": "Mokre",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Mokre",
+    "numer": "122",
+    "kod": "86-300",
+    "poczta": "Grudzi\u0105dz\r"
+  },
+  {
+    "id": "13437",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4783",
+    "miejscowosc": "Mokre",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mokre",
+    "numer": "122",
+    "kod": "86-300",
+    "poczta": "Grudzi\u0105dz\r"
+  }
+]

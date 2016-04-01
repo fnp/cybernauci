@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1196",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "534",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "42-152",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "1191",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "534",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Konopnickiej ",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "42-152",
+    "poczta": "Opat\u00f3w\r"
+  }
+]

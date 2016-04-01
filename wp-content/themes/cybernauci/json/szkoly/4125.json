@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11571",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4125",
+    "miejscowosc": "Bielice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "33a",
+    "kod": "74-202",
+    "poczta": "Bielice\r"
+  },
+  {
+    "id": "11572",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4125",
+    "miejscowosc": "Bielice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "33a",
+    "kod": "74-202",
+    "poczta": "Bielice\r"
+  }
+]

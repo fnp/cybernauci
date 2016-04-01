@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5178",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1704",
+    "miejscowosc": "Nowy Wi\u015bnicz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  },
+  {
+    "id": "5179",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1704",
+    "miejscowosc": "Nowy Wi\u015bnicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  }
+]

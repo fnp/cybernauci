@@ -1,0 +1,86 @@
+[
+  {
+    "id": "11181",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 w",
+    "ulica": "Chopina",
+    "numer": "10",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11184",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Gen. W\u0142adys\u0142awa Sikorskiego ",
+    "ulica": "Czwartak\u00f3w",
+    "numer": "2",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11182",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Okrzei",
+    "numer": "9",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11179",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "I-ej Dywizji WP",
+    "numer": "4a",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11180",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "F. Chopina",
+    "numer": "10",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11185",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. \u017bo\u0142nierza Polskiego",
+    "ulica": "Czwartak\u00f3w",
+    "numer": "2",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  },
+  {
+    "id": "11183",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3961",
+    "miejscowosc": "Z\u0142ocieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Okrzei",
+    "numer": "9",
+    "kod": "78-520",
+    "poczta": "Z\u0142ocieniec\r"
+  }
+]

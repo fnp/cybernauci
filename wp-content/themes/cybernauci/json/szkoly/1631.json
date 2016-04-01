@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4763",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1631",
+    "miejscowosc": "Gorajec-Stara Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gorajec-Stara Wie\u015b",
+    "numer": "114",
+    "kod": "22-463",
+    "poczta": "Radecznica\r"
+  },
+  {
+    "id": "4764",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1631",
+    "miejscowosc": "Gorajec-Stara Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gorajec-Stara Wie\u015b",
+    "numer": "114",
+    "kod": "22-463",
+    "poczta": "Radecznica\r"
+  }
+]

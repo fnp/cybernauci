@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6744",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wolno\u015bci",
+    "numer": "53",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6734",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. \u015bw. Jana Kantego",
+    "ulica": "Rynek",
+    "numer": "8",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6735",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane",
+    "ulica": "Rynek",
+    "numer": "8",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6745",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Wolno\u015bci",
+    "numer": "53",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6733",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6736",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rynek",
+    "numer": "8",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6737",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2457",
+    "miejscowosc": "Mak\u00f3w Podhala\u0144ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rynek",
+    "numer": "8",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  }
+]

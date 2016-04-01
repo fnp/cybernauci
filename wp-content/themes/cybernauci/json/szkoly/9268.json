@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25141",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9268",
+    "miejscowosc": "Tcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Tcz\u00f3w",
+    "numer": "113",
+    "kod": "26-706",
+    "poczta": "Tcz\u00f3w\r"
+  },
+  {
+    "id": "25142",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9268",
+    "miejscowosc": "Tcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Tcz\u00f3w",
+    "numer": "113",
+    "kod": "26-706",
+    "poczta": "Tcz\u00f3w\r"
+  }
+]

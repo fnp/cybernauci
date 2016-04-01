@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24472",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8954",
+    "miejscowosc": "Wierzchowiny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wierzchowiny",
+    "numer": "30",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  },
+  {
+    "id": "24473",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8954",
+    "miejscowosc": "Wierzchowiny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wierzchowiny",
+    "numer": "30",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  }
+]

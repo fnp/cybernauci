@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23791",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8652",
+    "miejscowosc": "Troszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gajowa",
+    "numer": "1",
+    "kod": "07-405",
+    "poczta": "Troszyn\r"
+  },
+  {
+    "id": "23790",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8652",
+    "miejscowosc": "Troszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "07-405",
+    "poczta": "Troszyn\r"
+  },
+  {
+    "id": "23792",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8652",
+    "miejscowosc": "Troszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "S\u0142owackiego",
+    "numer": "3",
+    "kod": "07-405",
+    "poczta": "Troszyn\r"
+  }
+]

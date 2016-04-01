@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "6",
+    "miejscowosc": "Lipowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "79",
+    "kod": "49-200",
+    "poczta": "Grodk\u00f3w\r"
+  },
+  {
+    "id": "321",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "6",
+    "miejscowosc": "Lipowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Gustawa Morcinka",
+    "ulica": "Lipowa",
+    "numer": "83",
+    "kod": "48-303",
+    "poczta": "Nysa\r"
+  }
+]

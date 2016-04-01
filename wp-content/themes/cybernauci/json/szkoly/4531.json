@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12800",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "G\u00f3rna",
+    "numer": "5",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  },
+  {
+    "id": "12801",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Klikowicza",
+    "numer": "4",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  },
+  {
+    "id": "12802",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Klikowicza",
+    "numer": "4",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  },
+  {
+    "id": "12796",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3dzka",
+    "numer": "2",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  },
+  {
+    "id": "12803",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarsko-Gastronomiczne Nr 1 ",
+    "ulica": "Zamkowa",
+    "numer": "6",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  },
+  {
+    "id": "12804",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4531",
+    "miejscowosc": "Olsztynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Zamkowa",
+    "numer": "6",
+    "kod": "11-015",
+    "poczta": "Olsztynek\r"
+  }
+]

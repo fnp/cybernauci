@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16890",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5938",
+    "miejscowosc": "Kamie\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-360",
+    "poczta": "Kamie\u0144sk\r"
+  },
+  {
+    "id": "16889",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5938",
+    "miejscowosc": "Kamie\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "97-360",
+    "poczta": "Kamie\u0144sk\r"
+  },
+  {
+    "id": "16888",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5938",
+    "miejscowosc": "Kamie\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "97-360",
+    "poczta": "Kamie\u0144sk\r"
+  },
+  {
+    "id": "16891",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5938",
+    "miejscowosc": "Kamie\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-360",
+    "poczta": "Kamie\u0144sk\r"
+  },
+  {
+    "id": "16892",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5938",
+    "miejscowosc": "Kamie\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-360",
+    "poczta": "Kamie\u0144sk\r"
+  }
+]

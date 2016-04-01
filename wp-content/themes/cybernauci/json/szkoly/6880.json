@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19270",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6880",
+    "miejscowosc": "Paczkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "62-021",
+    "poczta": "Paczkowo\r"
+  },
+  {
+    "id": "19271",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6880",
+    "miejscowosc": "Paczkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "62-021",
+    "poczta": "Paczkowo\r"
+  }
+]

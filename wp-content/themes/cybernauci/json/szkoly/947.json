@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3453",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "947",
+    "miejscowosc": "\u0141ukowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Paw\u0142a Adamca",
+    "ulica": "\u0141ukowa",
+    "numer": "341",
+    "kod": "23-412",
+    "poczta": "\u0141ukowa\r"
+  },
+  {
+    "id": "3452",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "947",
+    "miejscowosc": "\u0141ukowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141ukowa",
+    "numer": "341",
+    "kod": "23-412",
+    "poczta": "\u0141ukowa\r"
+  }
+]

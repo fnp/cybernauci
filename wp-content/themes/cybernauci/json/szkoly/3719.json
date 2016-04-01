@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10471",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3719",
+    "miejscowosc": "Bia\u0142owie\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Waszkiewicza",
+    "numer": "2",
+    "kod": "17-230",
+    "poczta": "Bia\u0142owie\u017ca\r"
+  },
+  {
+    "id": "10472",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3719",
+    "miejscowosc": "Bia\u0142owie\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Waszkiewicza",
+    "numer": "2",
+    "kod": "17-230",
+    "poczta": "Bia\u0142owie\u017ca\r"
+  },
+  {
+    "id": "10470",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3719",
+    "miejscowosc": "Bia\u0142owie\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne ",
+    "ulica": "Park Dyrekcyjny",
+    "numer": "1A",
+    "kod": "17-230",
+    "poczta": "Bia\u0142owie\u017ca\r"
+  }
+]

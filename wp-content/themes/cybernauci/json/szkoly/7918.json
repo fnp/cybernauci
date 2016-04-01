@@ -1,0 +1,98 @@
+[
+  {
+    "id": "21993",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Misi\u0105giewicza",
+    "numer": "10",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21995",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Krasickiego",
+    "numer": "9",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21994",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kr\u00f3la W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21990",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "M. Konopnickiej",
+    "numer": "5",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21991",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Hugona Ko\u0142\u0142\u0105taja",
+    "ulica": "Lwowska",
+    "numer": "11",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21992",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Gorliczy\u0144ska",
+    "numer": "148",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21996",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Krasickiego",
+    "numer": "9",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "21997",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7918",
+    "miejscowosc": "Przeworsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Krasickiego",
+    "numer": "9",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22040",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7940",
+    "miejscowosc": "Studzian",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Studzian",
+    "numer": "338",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22041",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7940",
+    "miejscowosc": "Studzian",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Studzian",
+    "numer": "338",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

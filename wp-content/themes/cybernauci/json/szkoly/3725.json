@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10481",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3725",
+    "miejscowosc": "Dubiny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "1b",
+    "kod": "17-200",
+    "poczta": "Hajn\u00f3wka\r"
+  },
+  {
+    "id": "10482",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3725",
+    "miejscowosc": "Dubiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142 ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "1b",
+    "kod": "17-200",
+    "poczta": "Hajn\u00f3wka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19549",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7003",
+    "miejscowosc": "Kaw\u0119czyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Kaw\u0119czyn",
+    "numer": "49a",
+    "kod": "62-704",
+    "poczta": "Kaw\u0119czyn\r"
+  },
+  {
+    "id": "19550",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7003",
+    "miejscowosc": "Kaw\u0119czyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Kaw\u0119czyn",
+    "numer": "49a",
+    "kod": "62-704",
+    "poczta": "Kaw\u0119czyn\r"
+  }
+]

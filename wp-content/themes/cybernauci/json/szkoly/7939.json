@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22038",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7939",
+    "miejscowosc": "Rozb\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rozb\u00f3rz",
+    "numer": "568",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22039",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7939",
+    "miejscowosc": "Rozb\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rozb\u00f3rz",
+    "numer": "568",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

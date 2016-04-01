@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22505",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8150",
+    "miejscowosc": "Po\u0142omia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Po\u0142omia",
+    "numer": "125",
+    "kod": "38-115",
+    "poczta": "Po\u0142omia\r"
+  },
+  {
+    "id": "22506",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8150",
+    "miejscowosc": "Po\u0142omia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Po\u0142omia",
+    "numer": "125",
+    "kod": "38-115",
+    "poczta": "Po\u0142omia\r"
+  }
+]

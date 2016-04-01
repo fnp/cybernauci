@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12665",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4469",
+    "miejscowosc": "Nowe Grodziczno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowe Grodziczno",
+    "numer": "83",
+    "kod": "13-324",
+    "poczta": "Grodziczno\r"
+  },
+  {
+    "id": "12666",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4469",
+    "miejscowosc": "Nowe Grodziczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym",
+    "ulica": "Nowe Grodziczno",
+    "numer": "83",
+    "kod": "13-324",
+    "poczta": "Grodziczno\r"
+  }
+]

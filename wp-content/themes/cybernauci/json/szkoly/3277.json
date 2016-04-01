@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9057",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3277",
+    "miejscowosc": "Miechucino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-334",
+    "poczta": "Miechucino\r"
+  },
+  {
+    "id": "9058",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3277",
+    "miejscowosc": "Miechucino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-334",
+    "poczta": "Miechucino\r"
+  }
+]

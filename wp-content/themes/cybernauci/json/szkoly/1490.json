@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4475",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1490",
+    "miejscowosc": "Wohy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "25",
+    "kod": "21-310",
+    "poczta": "Wohy\u0144\r"
+  },
+  {
+    "id": "4476",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1490",
+    "miejscowosc": "Wohy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "25",
+    "kod": "21-310",
+    "poczta": "Wohy\u0144\r"
+  }
+]

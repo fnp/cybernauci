@@ -1,0 +1,26 @@
+[
+  {
+    "id": "779",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "347",
+    "miejscowosc": "Rybarzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Beskidzka",
+    "numer": "242",
+    "kod": "43-378",
+    "poczta": "Rybarzowice\r"
+  },
+  {
+    "id": "780",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "347",
+    "miejscowosc": "Rybarzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Beskidzka",
+    "numer": "242",
+    "kod": "43-378",
+    "poczta": "Rybarzowice\r"
+  }
+]

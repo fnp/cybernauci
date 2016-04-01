@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22489",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8140",
+    "miejscowosc": "St\u0119pina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "St\u0119pina",
+    "numer": "54",
+    "kod": "38-125",
+    "poczta": "St\u0119pina\r"
+  },
+  {
+    "id": "22490",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8140",
+    "miejscowosc": "St\u0119pina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "St\u0119pina",
+    "numer": "54",
+    "kod": "38-125",
+    "poczta": "St\u0119pina\r"
+  }
+]

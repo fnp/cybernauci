@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8963",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3224",
+    "miejscowosc": "Czarne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "77-330",
+    "poczta": "Czarne\r"
+  },
+  {
+    "id": "8960",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3224",
+    "miejscowosc": "Czarne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "77-330",
+    "poczta": "Czarne\r"
+  },
+  {
+    "id": "8964",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3224",
+    "miejscowosc": "Czarne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "77-330",
+    "poczta": "Czarne\r"
+  },
+  {
+    "id": "8961",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3224",
+    "miejscowosc": "Czarne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "77-330",
+    "poczta": "Czarne\r"
+  },
+  {
+    "id": "8962",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3224",
+    "miejscowosc": "Czarne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "77-330",
+    "poczta": "Czarne\r"
+  }
+]

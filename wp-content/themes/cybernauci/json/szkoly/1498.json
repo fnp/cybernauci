@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4505",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1498",
+    "miejscowosc": "K\u0142oczew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "69",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  },
+  {
+    "id": "4506",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1498",
+    "miejscowosc": "K\u0142oczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "69",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  }
+]

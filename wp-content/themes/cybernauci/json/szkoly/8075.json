@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22344",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8075",
+    "miejscowosc": "Pobiedno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pobiedno",
+    "numer": "105",
+    "kod": "38-500",
+    "poczta": "Bukowsko\r"
+  },
+  {
+    "id": "22345",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8075",
+    "miejscowosc": "Pobiedno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pobiedno",
+    "numer": "105",
+    "kod": "38-500",
+    "poczta": "Bukowsko\r"
+  }
+]

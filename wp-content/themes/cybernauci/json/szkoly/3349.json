@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9210",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3349",
+    "miejscowosc": "Liniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-420",
+    "poczta": "Liniewo\r"
+  },
+  {
+    "id": "9211",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3349",
+    "miejscowosc": "Liniewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-420",
+    "poczta": "Liniewo\r"
+  }
+]

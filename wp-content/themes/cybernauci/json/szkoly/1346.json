@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4183",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1346",
+    "miejscowosc": "Tuchowicz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tuchowicz",
+    "numer": "66 C",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  },
+  {
+    "id": "4184",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1346",
+    "miejscowosc": "Tuchowicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tuchowicz",
+    "numer": "66 C",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  }
+]

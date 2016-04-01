@@ -1,0 +1,86 @@
+[
+  {
+    "id": "13944",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ksi\u0119dza Piotra Skargi",
+    "numer": "1",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13945",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Komisji Edukacji Narodowej",
+    "ulica": "Hallera",
+    "numer": "23",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13941",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Hallera",
+    "numer": "17",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13942",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Hallera",
+    "numer": "21",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13943",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Wyszy\u0144skiego",
+    "numer": "5",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13946",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Hallera",
+    "numer": "23",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  },
+  {
+    "id": "13947",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5017",
+    "miejscowosc": "Che\u0142m\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Hallera",
+    "numer": "23",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  }
+]

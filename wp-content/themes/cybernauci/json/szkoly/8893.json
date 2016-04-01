@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24359",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8893",
+    "miejscowosc": "Smogorz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Katolicka Szko\u0142a Podstawowa",
+    "ulica": "Mari\u00f3wka",
+    "numer": "3A",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24363",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8893",
+    "miejscowosc": "Smogorz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum",
+    "ulica": "Mari\u00f3wka",
+    "numer": "3A",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24364",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8893",
+    "miejscowosc": "Smogorz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mari\u00f3wka",
+    "numer": "3A",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  }
+]

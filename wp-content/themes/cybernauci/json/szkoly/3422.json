@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9399",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3422",
+    "miejscowosc": "Jastarnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stelmaszczyka",
+    "numer": "4",
+    "kod": "84-140",
+    "poczta": "Jastarnia\r"
+  },
+  {
+    "id": "9398",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3422",
+    "miejscowosc": "Jastarnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stelmaszczyka",
+    "numer": "4",
+    "kod": "84-140",
+    "poczta": "Jastarnia\r"
+  }
+]

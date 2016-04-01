@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25083",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9246",
+    "miejscowosc": "Somianka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Somianka",
+    "numer": "24b",
+    "kod": "07-203",
+    "poczta": "Somianka\r"
+  },
+  {
+    "id": "25084",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9246",
+    "miejscowosc": "Somianka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Somianka",
+    "numer": "24b",
+    "kod": "07-203",
+    "poczta": "Somianka\r"
+  }
+]

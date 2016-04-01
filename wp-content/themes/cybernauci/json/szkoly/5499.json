@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15551",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5499",
+    "miejscowosc": "Szewce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Strzeszowska",
+    "numer": "7",
+    "kod": "55-114",
+    "poczta": "Wisznia Ma\u0142a\r"
+  },
+  {
+    "id": "15552",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5499",
+    "miejscowosc": "Szewce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strzeszowska",
+    "numer": "7",
+    "kod": "55-114",
+    "poczta": "Wisznia Ma\u0142a\r"
+  }
+]

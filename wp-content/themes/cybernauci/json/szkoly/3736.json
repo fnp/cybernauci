@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10509",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3736",
+    "miejscowosc": "Lachowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lachowo",
+    "numer": "21",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10506",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3736",
+    "miejscowosc": "Lachowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lachowo",
+    "numer": "21",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  }
+]

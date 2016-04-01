@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3664",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1067",
+    "miejscowosc": "Bia\u0142a Druga",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Bia\u0142a Druga",
+    "numer": "142",
+    "kod": "23-300",
+    "poczta": "Jan\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3665",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1067",
+    "miejscowosc": "Bia\u0142a Druga",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Bia\u0142a Druga",
+    "numer": "142",
+    "kod": "23-300",
+    "poczta": "Jan\u00f3w Lubelski\r"
+  }
+]

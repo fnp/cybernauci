@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22349",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8078",
+    "miejscowosc": "Wis\u0142ok Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015bw. Brata Alberta Chmielowskiego",
+    "ulica": "Wis\u0142ok Wielki",
+    "numer": "26A",
+    "kod": "38-543",
+    "poczta": "Koma\u0144cza\r"
+  },
+  {
+    "id": "22350",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8078",
+    "miejscowosc": "Wis\u0142ok Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. b\u0142. Karoliny K\u00f3zki",
+    "ulica": "Wis\u0142ok Wielki",
+    "numer": "26A",
+    "kod": "38-543",
+    "poczta": "Koma\u0144cza\r"
+  }
+]

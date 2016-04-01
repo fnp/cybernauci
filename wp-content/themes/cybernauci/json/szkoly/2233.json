@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6207",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2233",
+    "miejscowosc": "Muszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stra\u017cy Granicznej II Rzeczpospolitej",
+    "ulica": "Rynek",
+    "numer": "13",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6205",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2233",
+    "miejscowosc": "Muszyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Kochanowskiego",
+    "ulica": "Rynek",
+    "numer": "13",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6208",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2233",
+    "miejscowosc": "Muszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Kurier\u00f3w S\u0105deckich",
+    "ulica": "Rynek",
+    "numer": "13",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6200",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2233",
+    "miejscowosc": "Muszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "54",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6206",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2233",
+    "miejscowosc": "Muszyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rynek",
+    "numer": "13",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  }
+]

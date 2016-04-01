@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19642",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7052",
+    "miejscowosc": "Bucz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Edwarda Tomi\u0144skiego",
+    "ulica": "Kasztanowa",
+    "numer": "8",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  },
+  {
+    "id": "19643",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7052",
+    "miejscowosc": "Bucz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Edwarda Tomi\u0144skiego",
+    "ulica": "Kasztanowa",
+    "numer": "8",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  }
+]

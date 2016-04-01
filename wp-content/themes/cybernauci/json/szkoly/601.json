@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1362",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "601",
+    "miejscowosc": "Niegowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "36",
+    "kod": "42-300",
+    "poczta": "Niegowa\r"
+  },
+  {
+    "id": "1358",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "601",
+    "miejscowosc": "Niegowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "36",
+    "kod": "42-320",
+    "poczta": "Niegowa\r"
+  }
+]

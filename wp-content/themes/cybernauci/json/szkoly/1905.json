@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5583",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1905",
+    "miejscowosc": "Iwanowice W\u0142o\u015bcia\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Iwanowice W\u0142o\u015bcia\u0144skie",
+    "numer": "98",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  },
+  {
+    "id": "5584",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1905",
+    "miejscowosc": "Iwanowice W\u0142o\u015bcia\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Iwanowice W\u0142o\u015bcia\u0144skie",
+    "numer": "98",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  }
+]

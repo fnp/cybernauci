@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1078",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "483",
+    "miejscowosc": "Przyr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142. St. Reymonta",
+    "ulica": "Szkolna",
+    "numer": "44",
+    "kod": "42-248",
+    "poczta": "Przyr\u00f3w\r"
+  },
+  {
+    "id": "1079",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "483",
+    "miejscowosc": "Przyr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Szkolna",
+    "numer": "44",
+    "kod": "42-248",
+    "poczta": "Przyr\u00f3w\r"
+  }
+]

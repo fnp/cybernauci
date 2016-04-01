@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4380",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1435",
+    "miejscowosc": "Kur\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Lubelska",
+    "numer": "16",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  },
+  {
+    "id": "4379",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1435",
+    "miejscowosc": "Kur\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubelska",
+    "numer": "16",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  }
+]

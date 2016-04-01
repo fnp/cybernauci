@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10487",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3728",
+    "miejscowosc": "Narewka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Nowa",
+    "numer": "4",
+    "kod": "17-220",
+    "poczta": "Narewka\r"
+  },
+  {
+    "id": "10488",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3728",
+    "miejscowosc": "Narewka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Nowa",
+    "numer": "4",
+    "kod": "17-220",
+    "poczta": "Narewka\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "19127",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Armii Pozna\u0144",
+    "numer": "27",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19128",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Ko\u0142\u0142\u0105taja",
+    "numer": "1",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19126",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Filipa Neri",
+    "ulica": "Armii Pozna\u0144",
+    "numer": "27",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19123",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Poniatowskiego",
+    "numer": "16",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19124",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Augusta hr. Cieszkowskiego",
+    "ulica": "\u017babikowska",
+    "numer": "40",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19122",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "D\u0105browskiego",
+    "numer": "2A",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  },
+  {
+    "id": "19125",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6816",
+    "miejscowosc": "Lubo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "1 Maja",
+    "numer": "10",
+    "kod": "62-030",
+    "poczta": "Lubo\u0144\r"
+  }
+]

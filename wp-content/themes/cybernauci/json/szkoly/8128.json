@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22465",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8128",
+    "miejscowosc": "Turbia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Turbia",
+    "numer": "37",
+    "kod": "37-416",
+    "poczta": "Zbydni\u00f3w\r"
+  },
+  {
+    "id": "22466",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8128",
+    "miejscowosc": "Turbia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3 im. Jana Paw\u0142a II",
+    "ulica": "Turbia",
+    "numer": "37",
+    "kod": "37-416",
+    "poczta": "Zbydni\u00f3w\r"
+  }
+]

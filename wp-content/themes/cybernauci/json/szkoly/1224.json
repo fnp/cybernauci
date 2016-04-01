@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3968",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1224",
+    "miejscowosc": "M\u0119t\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "M\u0119t\u00f3w",
+    "numer": "124",
+    "kod": "20-388",
+    "poczta": "Lublin\r"
+  },
+  {
+    "id": "3969",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1224",
+    "miejscowosc": "M\u0119t\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "M\u0119t\u00f3w",
+    "numer": "124",
+    "kod": "20-388",
+    "poczta": "Lublin\r"
+  }
+]

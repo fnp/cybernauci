@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4793",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ogrodowa",
+    "numer": "16",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4794",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zamojska",
+    "numer": "29",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4786",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Ogrodowa",
+    "numer": "16",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4787",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Zamojska",
+    "numer": "189",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4795",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zamojska",
+    "numer": "29",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4796",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechaniczne",
+    "ulica": "Zamojska",
+    "numer": "29",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  },
+  {
+    "id": "4797",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1644",
+    "miejscowosc": "Szczebrzeszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zamojska",
+    "numer": "29",
+    "kod": "22-460",
+    "poczta": "Szczebrzeszyn\r"
+  }
+]

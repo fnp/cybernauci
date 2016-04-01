@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12276",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4304",
+    "miejscowosc": "Hartowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Hartowiec",
+    "numer": "40",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  },
+  {
+    "id": "12272",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4304",
+    "miejscowosc": "Hartowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Hartowiec",
+    "numer": "40",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  }
+]

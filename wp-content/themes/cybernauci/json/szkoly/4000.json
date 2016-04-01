@@ -1,0 +1,86 @@
+[
+  {
+    "id": "11287",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Privata Res",
+    "ulica": "Torowa",
+    "numer": "1",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11288",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "Plac Lipowy",
+    "numer": "15",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11286",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wodna",
+    "numer": "2",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11284",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Kamieniecka",
+    "numer": "16",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11285",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "D\u0142uga",
+    "numer": "11",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11289",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Plac Lipowy",
+    "numer": "15",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  },
+  {
+    "id": "11290",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4000",
+    "miejscowosc": "Trzebiat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Wojew\u00f3dzkiego ZDZ",
+    "ulica": "Torowa",
+    "numer": "1",
+    "kod": "72-320",
+    "poczta": "Trzebiat\u00f3w\r"
+  }
+]

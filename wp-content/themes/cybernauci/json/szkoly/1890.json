@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5556",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1890",
+    "miejscowosc": "Czernich\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Czernich\u00f3w",
+    "numer": "26",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  },
+  {
+    "id": "5565",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1890",
+    "miejscowosc": "Czernich\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Czernich\u00f3w",
+    "numer": "1",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  },
+  {
+    "id": "5564",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1890",
+    "miejscowosc": "Czernich\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce po gimnazjum zaoczne",
+    "ulica": "Czernich\u00f3w",
+    "numer": "1",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  },
+  {
+    "id": "5557",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1890",
+    "miejscowosc": "Czernich\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Czernich\u00f3w",
+    "numer": "26",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  },
+  {
+    "id": "5566",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1890",
+    "miejscowosc": "Czernich\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Czernich\u00f3w",
+    "numer": "1",
+    "kod": "32-070",
+    "poczta": "Czernich\u00f3w\r"
+  }
+]

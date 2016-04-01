@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21291",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7540",
+    "miejscowosc": "Cieklin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. I. \u0141ukasiewicza",
+    "ulica": "Cieklin",
+    "numer": "337",
+    "kod": "38-222",
+    "poczta": "Cieklin\r"
+  },
+  {
+    "id": "21285",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7540",
+    "miejscowosc": "Cieklin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cieklin",
+    "numer": "337",
+    "kod": "38-222",
+    "poczta": "Cieklin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12179",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4246",
+    "miejscowosc": "Bezledy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stra\u017cy Granicznej ",
+    "ulica": "Bezledy",
+    "numer": "13A",
+    "kod": "11-200",
+    "poczta": "Bartoszyce\r"
+  },
+  {
+    "id": "12171",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4246",
+    "miejscowosc": "Bezledy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 20 Bartoszyckiej Brygady Zmechanizowanej ",
+    "ulica": "Bezledy",
+    "numer": "13A",
+    "kod": "11-200",
+    "poczta": "Bartoszyce\r"
+  }
+]

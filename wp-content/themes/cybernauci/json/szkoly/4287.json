@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12239",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4287",
+    "miejscowosc": "Malinowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Malinowo",
+    "numer": "10",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12240",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4287",
+    "miejscowosc": "Malinowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Malinowo",
+    "numer": "10",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  }
+]

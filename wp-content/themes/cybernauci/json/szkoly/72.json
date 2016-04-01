@@ -1,0 +1,26 @@
+[
+  {
+    "id": "169",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "72",
+    "miejscowosc": "Bogacica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Bohater\u00f3w II Brygady Pancernej",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "46-243",
+    "poczta": "Bogacica\r"
+  },
+  {
+    "id": "173",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "72",
+    "miejscowosc": "Bogacica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "46-243",
+    "poczta": "Bogacica\r"
+  }
+]

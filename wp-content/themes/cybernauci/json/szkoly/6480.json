@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18426",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6480",
+    "miejscowosc": "\u0141uczywno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141uczywno",
+    "numer": "4",
+    "kod": "62-613",
+    "poczta": "Osiek Ma\u0142y\r"
+  },
+  {
+    "id": "18425",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6480",
+    "miejscowosc": "\u0141uczywno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141uczywno",
+    "numer": "4",
+    "kod": "62-613",
+    "poczta": "Osiek Ma\u0142y\r"
+  }
+]

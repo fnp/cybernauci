@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6754",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2466",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 im. K. Pu\u0142askiego",
+    "ulica": "Krzesz\u00f3w",
+    "numer": "216",
+    "kod": "34-206",
+    "poczta": "Krzesz\u00f3w\r"
+  },
+  {
+    "id": "6755",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2466",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. F. Nowickiego",
+    "ulica": "Krzesz\u00f3w",
+    "numer": "216",
+    "kod": "34-206",
+    "poczta": "Krzesz\u00f3w\r"
+  }
+]

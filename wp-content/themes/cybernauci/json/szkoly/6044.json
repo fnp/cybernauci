@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17104",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6044",
+    "miejscowosc": "Lipce Reymontowskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Reymonta",
+    "numer": "15",
+    "kod": "96-127",
+    "poczta": "Lipce Reymontowskie\r"
+  },
+  {
+    "id": "17102",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6044",
+    "miejscowosc": "Lipce Reymontowskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Reymonta",
+    "numer": "15",
+    "kod": "96-127",
+    "poczta": "Lipce Reymontowskie\r"
+  }
+]

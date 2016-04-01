@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22231",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8037",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzywa Wie\u015b",
+    "numer": "35",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22229",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8037",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Floriana",
+    "ulica": "Podlesie",
+    "numer": "77B",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22230",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8037",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Kamie\u0144",
+    "numer": "119",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22235",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8037",
+    "miejscowosc": "Kamie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. \u015aw. Stanis\u0142awa Kostki",
+    "ulica": "Nowy Kamie\u0144",
+    "numer": "26",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  }
+]

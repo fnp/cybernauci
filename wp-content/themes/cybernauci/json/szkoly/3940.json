@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11138",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3940",
+    "miejscowosc": "Drawno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "73-220",
+    "poczta": "Drawno\r"
+  },
+  {
+    "id": "11137",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3940",
+    "miejscowosc": "Drawno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Szkolna",
+    "numer": "25",
+    "kod": "73-220",
+    "poczta": "Drawno\r"
+  }
+]

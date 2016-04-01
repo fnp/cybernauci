@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21730",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7776",
+    "miejscowosc": "Rakszawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rakszawa",
+    "numer": "325",
+    "kod": "37-111",
+    "poczta": "Rakszawa\r"
+  },
+  {
+    "id": "21731",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7776",
+    "miejscowosc": "Rakszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Rakszawa",
+    "numer": "347",
+    "kod": "37-111",
+    "poczta": "Rakszawa\r"
+  },
+  {
+    "id": "21726",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7776",
+    "miejscowosc": "Rakszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Stefana Mierzwy",
+    "ulica": "Rakszawa",
+    "numer": "677",
+    "kod": "37-111",
+    "poczta": "Rakszawa\r"
+  },
+  {
+    "id": "21727",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7776",
+    "miejscowosc": "Rakszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Rakszawa",
+    "numer": "946",
+    "kod": "37-111",
+    "poczta": "Rakszawa\r"
+  },
+  {
+    "id": "21732",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7776",
+    "miejscowosc": "Rakszawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u015arodkowa",
+    "numer": "325",
+    "kod": "37-111",
+    "poczta": "Rakszawa\r"
+  }
+]

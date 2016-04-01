@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3500",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "975",
+    "miejscowosc": "Nowosi\u00f3\u0142ki-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Nowosi\u00f3\u0142ki-Kolonia",
+    "numer": "54",
+    "kod": "22-151",
+    "poczta": "Staw\r"
+  },
+  {
+    "id": "3501",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "975",
+    "miejscowosc": "Nowosi\u00f3\u0142ki-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Nowosi\u00f3\u0142ki-Kolonia",
+    "numer": "54",
+    "kod": "22-151",
+    "poczta": "Staw\r"
+  }
+]

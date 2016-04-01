@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15576",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5509",
+    "miejscowosc": "Jedlina-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Miejskie im. Jana Paw\u0142a II",
+    "ulica": "S\u0142owackiego",
+    "numer": "5",
+    "kod": "58-330",
+    "poczta": "Jedlina-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15575",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5509",
+    "miejscowosc": "Jedlina-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Miejska Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "5",
+    "kod": "58-330",
+    "poczta": "Jedlina-Zdr\u00f3j\r"
+  }
+]

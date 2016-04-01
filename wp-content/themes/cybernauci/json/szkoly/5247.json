@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14885",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5247",
+    "miejscowosc": "Je\u017c\u00f3w Sudecki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "80",
+    "kod": "58-521",
+    "poczta": "Je\u017c\u00f3w Sudecki\r"
+  },
+  {
+    "id": "14886",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5247",
+    "miejscowosc": "Je\u017c\u00f3w Sudecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "80",
+    "kod": "58-521",
+    "poczta": "Je\u017c\u00f3w Sudecki\r"
+  }
+]

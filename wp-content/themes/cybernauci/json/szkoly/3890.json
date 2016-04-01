@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10788",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3890",
+    "miejscowosc": "Jab\u0142o\u0144 Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mazowiecka",
+    "numer": "1",
+    "kod": "18-212",
+    "poczta": "Nowe Piekuty\r"
+  },
+  {
+    "id": "10789",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3890",
+    "miejscowosc": "Jab\u0142o\u0144 Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mazowiecka",
+    "numer": "1",
+    "kod": "18-212",
+    "poczta": "Nowe Piekuty\r"
+  }
+]

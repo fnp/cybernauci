@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10668",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3829",
+    "miejscowosc": "D\u0105browa Bia\u0142ostocka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9A",
+    "kod": "16-200",
+    "poczta": "D\u0105browa Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10670",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3829",
+    "miejscowosc": "D\u0105browa Bia\u0142ostocka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "1000-lecia Pa\u0144stwa Polskiego",
+    "numer": "24",
+    "kod": "16-200",
+    "poczta": "D\u0105browa Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10669",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3829",
+    "miejscowosc": "D\u0105browa Bia\u0142ostocka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Po\u0142udniowa",
+    "numer": "13",
+    "kod": "16-200",
+    "poczta": "D\u0105browa Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10671",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3829",
+    "miejscowosc": "D\u0105browa Bia\u0142ostocka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "1000-lecia Pa\u0144stwa Polskiego",
+    "numer": "24",
+    "kod": "16-200",
+    "poczta": "D\u0105browa Bia\u0142ostocka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9670",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3543",
+    "miejscowosc": "Rudno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "83-121",
+    "poczta": "Rudno\r"
+  },
+  {
+    "id": "9671",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3543",
+    "miejscowosc": "Rudno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "83-121",
+    "poczta": "Rudno\r"
+  }
+]

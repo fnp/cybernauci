@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4227",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1375",
+    "miejscowosc": "Ratoszyn Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne",
+    "ulica": "Ratoszyn Drugi",
+    "numer": "192",
+    "kod": "24-350",
+    "poczta": "Chodel\r"
+  },
+  {
+    "id": "4228",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1375",
+    "miejscowosc": "Ratoszyn Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Ratoszyn Drugi",
+    "numer": "192",
+    "kod": "24-350",
+    "poczta": "Chodel\r"
+  }
+]

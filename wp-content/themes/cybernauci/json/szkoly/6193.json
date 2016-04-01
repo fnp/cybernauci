@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17452",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142. St. Reymonta",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "4",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17453",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Okrzei",
+    "numer": "1",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17455",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "5",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17450",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Moniuszki",
+    "numer": "21",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17451",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Andrzeja Frycza Modrzewskiego",
+    "ulica": "H. Sienkiewicza",
+    "numer": "17",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17456",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "5",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17454",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Okrzei",
+    "numer": "1",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "17457",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6193",
+    "miejscowosc": "Brzeziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "5",
+    "kod": "95-060",
+    "poczta": "Brzeziny\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24204",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8832",
+    "miejscowosc": "Stare Gralewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. St. Kostki",
+    "ulica": "Stare Gralewo",
+    "numer": "13",
+    "kod": "09-166",
+    "poczta": "Stare Gralewo\r"
+  },
+  {
+    "id": "24205",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8832",
+    "miejscowosc": "Stare Gralewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. St. Kostki",
+    "ulica": "Stare Gralewo",
+    "numer": "13",
+    "kod": "09-166",
+    "poczta": "Stare Gralewo\r"
+  }
+]

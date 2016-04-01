@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5267",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1749",
+    "miejscowosc": "\u0141ysa G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "\u0141ysa G\u00f3ra",
+    "numer": "251",
+    "kod": "32-853",
+    "poczta": "\u0141ysa G\u00f3ra\r"
+  },
+  {
+    "id": "5261",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1749",
+    "miejscowosc": "\u0141ysa G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Akademickie Korpusu Kadet\u00f3w",
+    "ulica": "\u0141ysa G\u00f3ra",
+    "numer": "251",
+    "kod": "32-853",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "5264",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1749",
+    "miejscowosc": "\u0141ysa G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kuratora Jana Smolenia",
+    "ulica": "\u0141ysa G\u00f3ra",
+    "numer": "275",
+    "kod": "32-853",
+    "poczta": "\u0141ysa G\u00f3ra\r"
+  },
+  {
+    "id": "5268",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1749",
+    "miejscowosc": "\u0141ysa G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141ysa G\u00f3ra",
+    "numer": "251",
+    "kod": "32-853",
+    "poczta": "\u0141ysa G\u00f3ra\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7156",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2650",
+    "miejscowosc": "Chocznia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "1",
+    "kod": "34-123",
+    "poczta": "Chocznia\r"
+  },
+  {
+    "id": "7158",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2650",
+    "miejscowosc": "Chocznia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "65",
+    "kod": "34-123",
+    "poczta": "Chocznia\r"
+  },
+  {
+    "id": "7157",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2650",
+    "miejscowosc": "Chocznia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "1",
+    "kod": "34-123",
+    "poczta": "Chocznia\r"
+  },
+  {
+    "id": "7159",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2650",
+    "miejscowosc": "Chocznia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "65",
+    "kod": "34-123",
+    "poczta": "Chocznia\r"
+  }
+]

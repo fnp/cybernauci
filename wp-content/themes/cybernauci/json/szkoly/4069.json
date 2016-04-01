@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11444",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4069",
+    "miejscowosc": "Tymie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Samorz\u0105dowe ",
+    "ulica": "Tymie\u0144",
+    "numer": "49",
+    "kod": "76-035",
+    "poczta": "Tymie\u0144\r"
+  },
+  {
+    "id": "11445",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4069",
+    "miejscowosc": "Tymie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tymie\u0144",
+    "numer": "49",
+    "kod": "76-035",
+    "poczta": "Tymie\u0144\r"
+  }
+]

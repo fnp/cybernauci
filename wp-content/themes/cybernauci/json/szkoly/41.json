@@ -1,0 +1,50 @@
+[
+  {
+    "id": "86",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "41",
+    "miejscowosc": "Kietrz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "G\u0142owackiego",
+    "numer": "37",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  },
+  {
+    "id": "87",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "41",
+    "miejscowosc": "Kietrz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "14",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  },
+  {
+    "id": "88",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "41",
+    "miejscowosc": "Kietrz",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "14",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  },
+  {
+    "id": "89",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "41",
+    "miejscowosc": "Kietrz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "14",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  }
+]

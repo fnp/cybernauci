@@ -1,0 +1,122 @@
+[
+  {
+    "id": "23052",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Polna",
+    "numer": "36",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23053",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "23",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23055",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce PUL im. Bohater\u00f3w Gostynina ",
+    "ulica": "Polna",
+    "numer": "36",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23058",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Kowalska",
+    "numer": "5",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23054",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "3 Maja",
+    "numer": "15",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23050",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "J\u00f3zefa Ozdowskiego",
+    "numer": "2",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23051",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "gen. J\u00f3zefa Bema",
+    "numer": "23",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23056",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Polna",
+    "numer": "39",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23059",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kowalska",
+    "numer": "5",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23057",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8319",
+    "miejscowosc": "Gostynin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Polna",
+    "numer": "39",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  }
+]

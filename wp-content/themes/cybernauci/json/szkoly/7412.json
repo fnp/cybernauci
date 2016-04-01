@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22249",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7412",
+    "miejscowosc": "Siedliska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedliska",
+    "numer": "355",
+    "kod": "36-042",
+    "poczta": "Lubenia\r"
+  },
+  {
+    "id": "21945",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7412",
+    "miejscowosc": "Siedliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedliska",
+    "numer": "115",
+    "kod": "37-705",
+    "poczta": "Przemy\u015bl\r"
+  },
+  {
+    "id": "20965",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7412",
+    "miejscowosc": "Siedliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedliska",
+    "numer": "36",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  }
+]

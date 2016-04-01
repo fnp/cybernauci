@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9153",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3328",
+    "miejscowosc": "Banino",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tuchomska",
+    "numer": "15",
+    "kod": "80-297",
+    "poczta": "Banino\r"
+  },
+  {
+    "id": "9154",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3328",
+    "miejscowosc": "Banino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. Pra\u0142ata J\u00f3zefa Bigusa",
+    "ulica": "Tuchomska",
+    "numer": "15",
+    "kod": "80-297",
+    "poczta": "Banino\r"
+  }
+]

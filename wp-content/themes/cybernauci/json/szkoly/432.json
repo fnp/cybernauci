@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1000",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "432",
+    "miejscowosc": "Rzerz\u0119czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Skrzyd\u0142owska",
+    "numer": "91",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "1001",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "432",
+    "miejscowosc": "Rzerz\u0119czyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Skrzyd\u0142owska",
+    "numer": "91",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]

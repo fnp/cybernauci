@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3349",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "894",
+    "miejscowosc": "Rokitno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Rokitno",
+    "numer": "57 a",
+    "kod": "21-504",
+    "poczta": "Rokitno\r"
+  },
+  {
+    "id": "3350",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "894",
+    "miejscowosc": "Rokitno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Rokitno",
+    "numer": "57 a",
+    "kod": "21-504",
+    "poczta": "Rokitno\r"
+  }
+]

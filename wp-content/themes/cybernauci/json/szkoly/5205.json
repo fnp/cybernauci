@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14790",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5205",
+    "miejscowosc": "Jerzmanowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142ogowska",
+    "numer": "19a",
+    "kod": "67-222",
+    "poczta": "Jerzmanowa\r"
+  },
+  {
+    "id": "14788",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5205",
+    "miejscowosc": "Jerzmanowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "G\u0142ogowska",
+    "numer": "19",
+    "kod": "67-222",
+    "poczta": "Jerzmanowa\r"
+  }
+]

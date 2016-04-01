@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13523",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4815",
+    "miejscowosc": "G\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "G\u0105ski",
+    "numer": "G\u0105ski",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  },
+  {
+    "id": "13525",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4815",
+    "miejscowosc": "G\u0105ski",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "G\u0105ski",
+    "numer": "19",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  }
+]

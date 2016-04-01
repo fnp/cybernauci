@@ -1,0 +1,110 @@
+[
+  {
+    "id": "24802",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zamkowa",
+    "numer": "1",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24803",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "39",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24797",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Wschodnia",
+    "numer": "19",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24806",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wschodnia",
+    "numer": "57",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24808",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Wschodnia",
+    "numer": "57",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24799",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Folwarczna",
+    "numer": "4",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24809",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Montessori",
+    "ulica": "Metalowa",
+    "numer": "29",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24804",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "39",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  },
+  {
+    "id": "24805",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9134",
+    "miejscowosc": "Szyd\u0142owiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "39",
+    "kod": "26-500",
+    "poczta": "Szyd\u0142owiec\r"
+  }
+]

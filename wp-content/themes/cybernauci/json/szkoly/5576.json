@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15711",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5576",
+    "miejscowosc": "\u017b\u00f3rawina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "14",
+    "kod": "55-020",
+    "poczta": "\u017b\u00f3rawina\r"
+  },
+  {
+    "id": "15710",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5576",
+    "miejscowosc": "\u017b\u00f3rawina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Miko\u0142aja Kopernika",
+    "numer": "15",
+    "kod": "55-020",
+    "poczta": "\u017b\u00f3rawina\r"
+  }
+]

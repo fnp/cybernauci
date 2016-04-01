@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9477",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3461",
+    "miejscowosc": "D\u0119bnica Kaszubska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Mi\u0142osza",
+    "ulica": "Jana III Sobieskiego",
+    "numer": "3",
+    "kod": "76-248",
+    "poczta": "D\u0119bnica Kaszubska\r"
+  },
+  {
+    "id": "9479",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3461",
+    "miejscowosc": "D\u0119bnica Kaszubska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Zjednoczenia",
+    "numer": "28",
+    "kod": "76-248",
+    "poczta": "D\u0119bnica Kaszubska\r"
+  }
+]

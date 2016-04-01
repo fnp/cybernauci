@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8182",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2928",
+    "miejscowosc": "Rog\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Kozubskiego",
+    "numer": "18 b",
+    "kod": "26-200",
+    "poczta": "Ko\u0144skie\r"
+  },
+  {
+    "id": "8183",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2928",
+    "miejscowosc": "Rog\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Kozubskiego",
+    "numer": "18 b",
+    "kod": "26-200",
+    "poczta": "Ko\u0144skie\r"
+  }
+]

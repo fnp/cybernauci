@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22121",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7976",
+    "miejscowosc": "Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ma\u0142a",
+    "numer": "35",
+    "kod": "39-107",
+    "poczta": "Nied\u017awiada\r"
+  },
+  {
+    "id": "22122",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7976",
+    "miejscowosc": "Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ma\u0142a",
+    "numer": "35",
+    "kod": "39-107",
+    "poczta": "Nied\u017awiada\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8409",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3022",
+    "miejscowosc": "S\u0142upcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0142upcza",
+    "numer": "76",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  },
+  {
+    "id": "8403",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3022",
+    "miejscowosc": "S\u0142upcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ziemi Sandomierskiej",
+    "ulica": "S\u0142upcza",
+    "numer": "76",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17351",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6164",
+    "miejscowosc": "Janiszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Janiszewice",
+    "numer": "17",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17352",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6164",
+    "miejscowosc": "Janiszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Janiszewice",
+    "numer": "17",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  }
+]

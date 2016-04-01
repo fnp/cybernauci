@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19252",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6874",
+    "miejscowosc": "Biedrusko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. 7 Pu\u0142ku Strzelc\u00f3w Konnych Wlkp.",
+    "ulica": "\u015awierczewskiego",
+    "numer": "46",
+    "kod": "62-003",
+    "poczta": "Biedrusko\r"
+  },
+  {
+    "id": "19249",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6874",
+    "miejscowosc": "Biedrusko",
+    "typ": "podstawowa",
+    "nazwa": "Prywatna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "7 Pu\u0142ku Strzelc\u00f3w konnych",
+    "numer": "35",
+    "kod": "62-003",
+    "poczta": "Biedrusko\r"
+  },
+  {
+    "id": "19251",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6874",
+    "miejscowosc": "Biedrusko",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum Nr 1",
+    "ulica": "7 Pu\u0142ku Strzelc\u00f3w Konnych",
+    "numer": "35",
+    "kod": "62-003",
+    "poczta": "Biedrusko\r"
+  },
+  {
+    "id": "19253",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6874",
+    "miejscowosc": "Biedrusko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. 7 Pu\u0142ku Strzelc\u00f3w Konnych Wlkp.",
+    "ulica": "\u015awierczewskiego",
+    "numer": "46",
+    "kod": "62-003",
+    "poczta": "Biedrusko\r"
+  }
+]

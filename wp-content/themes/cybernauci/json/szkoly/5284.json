@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14988",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5284",
+    "miejscowosc": "Wojb\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Wojb\u00f3rz",
+    "numer": "52",
+    "kod": "57-442",
+    "poczta": "Wojb\u00f3rz\r"
+  },
+  {
+    "id": "14987",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5284",
+    "miejscowosc": "Wojb\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Wojb\u00f3rz",
+    "numer": "52",
+    "kod": "57-442",
+    "poczta": "Wojb\u00f3rz\r"
+  }
+]

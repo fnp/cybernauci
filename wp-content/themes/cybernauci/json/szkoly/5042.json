@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13981",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5042",
+    "miejscowosc": "\u0141ysomice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Warszawska",
+    "numer": "5",
+    "kod": "87-148",
+    "poczta": "\u0141ysomice\r"
+  },
+  {
+    "id": "13982",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5042",
+    "miejscowosc": "\u0141ysomice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "1",
+    "kod": "87-148",
+    "poczta": "\u0141ysomice\r"
+  }
+]

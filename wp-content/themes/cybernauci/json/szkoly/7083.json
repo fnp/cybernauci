@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19701",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7083",
+    "miejscowosc": "Targowa G\u00f3rka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Kar\u015bnickiego",
+    "numer": "2",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  },
+  {
+    "id": "19702",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7083",
+    "miejscowosc": "Targowa G\u00f3rka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "Kar\u015bnickiego",
+    "numer": "2",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  }
+]

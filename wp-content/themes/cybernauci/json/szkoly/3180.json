@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8853",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3180",
+    "miejscowosc": "P\u00f3\u0142czno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Parchowo",
+    "numer": "1",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  },
+  {
+    "id": "8854",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3180",
+    "miejscowosc": "P\u00f3\u0142czno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u00f3\u0142czno",
+    "numer": "1",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8634",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3128",
+    "miejscowosc": "Czajk\u00f3w Po\u0142udniowy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Czajk\u00f3w Po\u0142udniowy",
+    "numer": "133",
+    "kod": "28-200",
+    "poczta": "Stasz\u00f3w\r"
+  },
+  {
+    "id": "8635",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3128",
+    "miejscowosc": "Czajk\u00f3w Po\u0142udniowy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Czajk\u00f3w Po\u0142udniowy",
+    "numer": "133",
+    "kod": "28-200",
+    "poczta": "Stasz\u00f3w\r"
+  }
+]

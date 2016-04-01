@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1838",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "765",
+    "miejscowosc": "Ogrodzieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Elizy Orzeszkowej",
+    "numer": "13",
+    "kod": "42-440",
+    "poczta": "Ogrodzieniec\r"
+  },
+  {
+    "id": "1839",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "765",
+    "miejscowosc": "Ogrodzieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "67",
+    "kod": "42-440",
+    "poczta": "Ogrodzieniec\r"
+  }
+]

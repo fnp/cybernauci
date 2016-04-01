@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14686",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5186",
+    "miejscowosc": "Iwiny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Iwiny",
+    "numer": "",
+    "kod": "59-720",
+    "poczta": "Raciborowice\r"
+  },
+  {
+    "id": "14687",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5186",
+    "miejscowosc": "Iwiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Iwiny",
+    "numer": "6",
+    "kod": "59-721",
+    "poczta": "Iwiny\r"
+  }
+]

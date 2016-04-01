@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1762",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "738",
+    "miejscowosc": "Gorzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Raciborska",
+    "numer": "55",
+    "kod": "44-350",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "1755",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "738",
+    "miejscowosc": "Gorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Raciborska",
+    "numer": "55",
+    "kod": "44-350",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "1756",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "738",
+    "miejscowosc": "Gorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Le\u015bna",
+    "numer": "46",
+    "kod": "44-350",
+    "poczta": "Gorzyce\r"
+  }
+]

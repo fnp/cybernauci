@@ -1,0 +1,26 @@
+[
+  {
+    "id": "444",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "216",
+    "miejscowosc": "D\u0119bska Ku\u017ania",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym Nr 3 ",
+    "ulica": "Wiejska",
+    "numer": "53",
+    "kod": "46-053",
+    "poczta": "Chrz\u0105stowice\r"
+  },
+  {
+    "id": "445",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "216",
+    "miejscowosc": "D\u0119bska Ku\u017ania",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szkolno-Przedszkolnym Nr 3",
+    "ulica": "Wiejska",
+    "numer": "53",
+    "kod": "46-053",
+    "poczta": "Chrz\u0105stowice\r"
+  }
+]

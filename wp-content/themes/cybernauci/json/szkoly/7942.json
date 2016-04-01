@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22044",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7942",
+    "miejscowosc": "Ujezna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ujezna",
+    "numer": "227",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22045",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7942",
+    "miejscowosc": "Ujezna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ujezna",
+    "numer": "227",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

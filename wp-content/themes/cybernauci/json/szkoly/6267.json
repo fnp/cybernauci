@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18019",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6267",
+    "miejscowosc": "Jankowo Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jankowo Dolne",
+    "numer": "9",
+    "kod": "62-200",
+    "poczta": "Gniezno\r"
+  },
+  {
+    "id": "18020",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6267",
+    "miejscowosc": "Jankowo Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Arkadego Fiedlera w Jankowie Dolny",
+    "ulica": "Jankowo Dolne",
+    "numer": "9",
+    "kod": "62-200",
+    "poczta": "Gniezno\r"
+  }
+]

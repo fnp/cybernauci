@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24422",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8925",
+    "miejscowosc": "Pniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "18 Maja",
+    "numer": "6",
+    "kod": "07-214",
+    "poczta": "Zatory\r"
+  },
+  {
+    "id": "24423",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8925",
+    "miejscowosc": "Pniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "18 Maja",
+    "numer": "6",
+    "kod": "07-214",
+    "poczta": "Zatory\r"
+  }
+]

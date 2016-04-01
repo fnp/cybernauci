@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21964",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7904",
+    "miejscowosc": "Hermanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Hermanowice",
+    "numer": "78",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  },
+  {
+    "id": "21965",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7904",
+    "miejscowosc": "Hermanowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Hermanowice",
+    "numer": "78",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24283",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8853",
+    "miejscowosc": "Raszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Unii Europejskiej",
+    "numer": "1",
+    "kod": "05-090",
+    "poczta": "Raszyn\r"
+  },
+  {
+    "id": "24280",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8853",
+    "miejscowosc": "Raszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Cypriana Godebskiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-090",
+    "poczta": "Raszyn\r"
+  }
+]

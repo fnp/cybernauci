@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23263",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8415",
+    "miejscowosc": "Magnuszew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bohater\u00f3w Wrze\u015bnia",
+    "numer": "10",
+    "kod": "26-910",
+    "poczta": "Magnuszew\r"
+  },
+  {
+    "id": "23264",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8415",
+    "miejscowosc": "Magnuszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bohater\u00f3w Wrze\u015bnia",
+    "numer": "10",
+    "kod": "26-910",
+    "poczta": "Magnuszew\r"
+  },
+  {
+    "id": "23265",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8415",
+    "miejscowosc": "Magnuszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bohater\u00f3w Wrze\u015bnia",
+    "numer": "10",
+    "kod": "26-910",
+    "poczta": "Magnuszew\r"
+  }
+]

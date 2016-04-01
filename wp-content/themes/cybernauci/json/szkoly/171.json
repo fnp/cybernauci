@@ -1,0 +1,122 @@
+[
+  {
+    "id": "373",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przysposabiaj\u0105ce do pracy",
+    "ulica": "Sienkiewicza",
+    "numer": "22",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "371",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u0142\u0142\u0105taja",
+    "numer": "9",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "366",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Stowarzyszenia Szansa dla Edukacji, Kultury i Nauki",
+    "ulica": "Sienkiewicza",
+    "numer": "22",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "365",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Stowarzyszeniowe",
+    "ulica": "Ko\u015bcielna",
+    "numer": "24",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "361",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "45",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "360",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3 im. Jana Paw\u0142a II ",
+    "ulica": "1 Maja",
+    "numer": "2",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "364",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Polskich Noblist\u00f3w",
+    "ulica": "Sienkiewicza",
+    "numer": "22",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "367",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Stowarzyszeniowe Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bcielna",
+    "numer": "24",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "368",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Stowarzyszeniowe Technikum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "24",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  },
+  {
+    "id": "372",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "171",
+    "miejscowosc": "Paczk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u0142\u0142\u0105taja",
+    "numer": "9",
+    "kod": "48-370",
+    "poczta": "Paczk\u00f3w\r"
+  }
+]

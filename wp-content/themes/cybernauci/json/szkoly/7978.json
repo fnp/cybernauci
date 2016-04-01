@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22139",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7978",
+    "miejscowosc": "Czarna S\u0119dziszowska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Czarna S\u0119dziszowska",
+    "numer": "145A",
+    "kod": "39-123",
+    "poczta": "Czarna S\u0119dziszowska\r"
+  },
+  {
+    "id": "22127",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7978",
+    "miejscowosc": "Czarna S\u0119dziszowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. W\u0142adys\u0142awa \u015awidra",
+    "ulica": "Czarna S\u0119dziszowska",
+    "numer": "145A",
+    "kod": "39-123",
+    "poczta": "Czarna S\u0119dziszowska\r"
+  }
+]

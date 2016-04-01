@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22555",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7621",
+    "miejscowosc": "Trze\u015b\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "21414",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7621",
+    "miejscowosc": "Trze\u015b\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trze\u015b\u0144",
+    "numer": "173",
+    "kod": "36-147",
+    "poczta": "Niwiska\r"
+  },
+  {
+    "id": "21792",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7621",
+    "miejscowosc": "Trze\u015b\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Trze\u015b\u0144",
+    "numer": "87",
+    "kod": "39-331",
+    "poczta": "Chorzel\u00f3w\r"
+  }
+]

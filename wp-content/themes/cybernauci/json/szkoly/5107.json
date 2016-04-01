@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14109",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5107",
+    "miejscowosc": "Fabianki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Fabianki",
+    "numer": "1",
+    "kod": "87-811",
+    "poczta": "Fabianki\r"
+  },
+  {
+    "id": "14111",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5107",
+    "miejscowosc": "Fabianki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Fabianki",
+    "numer": "1",
+    "kod": "87-811",
+    "poczta": "Fabianki\r"
+  }
+]

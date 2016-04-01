@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4615",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1538",
+    "miejscowosc": "Jarcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "22-664",
+    "poczta": "Jarcz\u00f3w\r"
+  },
+  {
+    "id": "4616",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1538",
+    "miejscowosc": "Jarcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "22-664",
+    "poczta": "Jarcz\u00f3w\r"
+  }
+]

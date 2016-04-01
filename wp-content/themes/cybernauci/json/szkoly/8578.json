@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23656",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8578",
+    "miejscowosc": "Leoncin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Isaaca Bashevisa Singera",
+    "numer": "3",
+    "kod": "05-155",
+    "poczta": "Leoncin\r"
+  },
+  {
+    "id": "23657",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8578",
+    "miejscowosc": "Leoncin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Isaaca Bashevisa Singera",
+    "numer": "3",
+    "kod": "05-155",
+    "poczta": "Leoncin\r"
+  }
+]

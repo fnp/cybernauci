@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18278",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6403",
+    "miejscowosc": "Staw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Karola \u015awierczewskiego",
+    "numer": "3",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  },
+  {
+    "id": "18279",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6403",
+    "miejscowosc": "Staw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Karola \u015awierczewskiego",
+    "numer": "3",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  }
+]

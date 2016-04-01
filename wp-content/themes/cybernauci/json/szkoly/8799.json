@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24210",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8799",
+    "miejscowosc": "Smardzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Smardzewo",
+    "numer": "85",
+    "kod": "09-110",
+    "poczta": "Sochocin\r"
+  },
+  {
+    "id": "24130",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8799",
+    "miejscowosc": "Smardzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Smardzewo",
+    "numer": "4",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  }
+]

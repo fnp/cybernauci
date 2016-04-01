@@ -1,0 +1,26 @@
+[
+  {
+    "id": "593",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "262",
+    "miejscowosc": "Raszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3ry \u015bw. Anny",
+    "numer": "91",
+    "kod": "47-150",
+    "poczta": "Le\u015bnica\r"
+  },
+  {
+    "id": "525",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "262",
+    "miejscowosc": "Raszowa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Stowarzyszenia Pro Liberis Silesiae Szko\u0142a Podstawowa",
+    "ulica": "Ozimska",
+    "numer": "55",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1844",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "767",
+    "miejscowosc": "Pilica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "17 Stycznia",
+    "numer": "2a",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  },
+  {
+    "id": "1841",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "767",
+    "miejscowosc": "Pilica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zamkowa",
+    "numer": "7",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  },
+  {
+    "id": "1845",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "767",
+    "miejscowosc": "Pilica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "17 Stycznia",
+    "numer": "2a",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  },
+  {
+    "id": "1842",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "767",
+    "miejscowosc": "Pilica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zamkowa",
+    "numer": "7",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  },
+  {
+    "id": "1843",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "767",
+    "miejscowosc": "Pilica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zamkowa",
+    "numer": "7",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  }
+]

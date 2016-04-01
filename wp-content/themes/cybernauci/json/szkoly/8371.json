@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23180",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8371",
+    "miejscowosc": "Jasieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Czerska",
+    "numer": "1",
+    "kod": "05-604",
+    "poczta": "Jasieniec\r"
+  },
+  {
+    "id": "23177",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8371",
+    "miejscowosc": "Jasieniec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "05-604",
+    "poczta": "Jasieniec\r"
+  },
+  {
+    "id": "23179",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8371",
+    "miejscowosc": "Jasieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "05-604",
+    "poczta": "Jasieniec\r"
+  },
+  {
+    "id": "23181",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8371",
+    "miejscowosc": "Jasieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Czerska",
+    "numer": "1",
+    "kod": "05-604",
+    "poczta": "Jasieniec\r"
+  },
+  {
+    "id": "23182",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8371",
+    "miejscowosc": "Jasieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Czerska",
+    "numer": "1",
+    "kod": "05-604",
+    "poczta": "Jasieniec\r"
+  }
+]

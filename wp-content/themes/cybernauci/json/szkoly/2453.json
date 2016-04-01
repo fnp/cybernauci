@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7174",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2453",
+    "miejscowosc": "Wysoka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wysoka",
+    "numer": "195",
+    "kod": "34-105",
+    "poczta": "Wysoka\r"
+  },
+  {
+    "id": "6728",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2453",
+    "miejscowosc": "Wysoka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wysoka",
+    "numer": "42",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6729",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2453",
+    "miejscowosc": "Wysoka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wysoka",
+    "numer": "42",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "7175",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2453",
+    "miejscowosc": "Wysoka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Poleg\u0142ych za Ojczyzn\u0119 w latach 1939-1945",
+    "ulica": "Wysoka",
+    "numer": "195",
+    "kod": "34-105",
+    "poczta": "Wysoka\r"
+  }
+]

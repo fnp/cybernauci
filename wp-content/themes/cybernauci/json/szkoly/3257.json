@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9146",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3257",
+    "miejscowosc": "Borkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9025",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3257",
+    "miejscowosc": "Borkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Akacjowa",
+    "numer": "2",
+    "kod": "80-180",
+    "poczta": "Gda\u0144sk\r"
+  }
+]

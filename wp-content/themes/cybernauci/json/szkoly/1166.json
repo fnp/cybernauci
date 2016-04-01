@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3869",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1166",
+    "miejscowosc": "Poizd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Poizd\u00f3w",
+    "numer": "",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3870",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1166",
+    "miejscowosc": "Poizd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Poizd\u00f3w",
+    "numer": "",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  }
+]

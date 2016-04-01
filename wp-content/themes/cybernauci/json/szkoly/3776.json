@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10559",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3776",
+    "miejscowosc": "Przytu\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kard. St. Wyszy\u0144skiego ",
+    "ulica": "Lipowa",
+    "numer": "28",
+    "kod": "18-423",
+    "poczta": "Przytu\u0142y\r"
+  },
+  {
+    "id": "10560",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3776",
+    "miejscowosc": "Przytu\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Lipowa",
+    "numer": "28",
+    "kod": "18-423",
+    "poczta": "Przytu\u0142y\r"
+  }
+]

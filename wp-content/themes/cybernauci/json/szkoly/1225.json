@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3970",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1225",
+    "miejscowosc": "Wilczopole",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stefana Kardyna\u0142a Wyszy\u0144skiego ",
+    "ulica": "Wilczopole",
+    "numer": "97",
+    "kod": "20-388",
+    "poczta": "Lublin \r"
+  },
+  {
+    "id": "3971",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1225",
+    "miejscowosc": "Wilczopole",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Wilczopole",
+    "numer": "97",
+    "kod": "20-388",
+    "poczta": "Lublin \r"
+  }
+]

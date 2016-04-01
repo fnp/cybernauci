@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11568",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4123",
+    "miejscowosc": "Trzebie\u017c",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "WOP",
+    "numer": "19A",
+    "kod": "72-020",
+    "poczta": "Trzebie\u017c\r"
+  },
+  {
+    "id": "11569",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4123",
+    "miejscowosc": "Trzebie\u017c",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "WOP",
+    "numer": "19A",
+    "kod": "72-020",
+    "poczta": "Trzebie\u017c\r"
+  }
+]

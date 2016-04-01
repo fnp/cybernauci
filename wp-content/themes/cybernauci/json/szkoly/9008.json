@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24546",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9008",
+    "miejscowosc": "Kotu\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Polna",
+    "numer": "6c",
+    "kod": "08-130",
+    "poczta": "Kotu\u0144\r"
+  },
+  {
+    "id": "24547",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9008",
+    "miejscowosc": "Kotu\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "08-130",
+    "poczta": "Kotu\u0144\r"
+  }
+]

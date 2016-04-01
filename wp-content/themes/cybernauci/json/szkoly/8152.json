@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22524",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8152",
+    "miejscowosc": "Wysoka Strzy\u017cowska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wysoka Strzy\u017cowska",
+    "numer": "127",
+    "kod": "38-123",
+    "poczta": "Wysoka Strzy\u017cowska\r"
+  },
+  {
+    "id": "22508",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8152",
+    "miejscowosc": "Wysoka Strzy\u017cowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wysoka Strzy\u017cowska",
+    "numer": "312",
+    "kod": "38-123",
+    "poczta": "Wysoka Strzy\u017cowska\r"
+  },
+  {
+    "id": "22525",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8152",
+    "miejscowosc": "Wysoka Strzy\u017cowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wysoka Strzy\u017cowska",
+    "numer": "127",
+    "kod": "38-123",
+    "poczta": "Wysoka Strzy\u017cowska\r"
+  }
+]

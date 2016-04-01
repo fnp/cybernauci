@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11111",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3934",
+    "miejscowosc": "Bierzwnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "KRN",
+    "numer": "18",
+    "kod": "73-240",
+    "poczta": "Bierzwnik\r"
+  },
+  {
+    "id": "11112",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3934",
+    "miejscowosc": "Bierzwnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sienkiewicza",
+    "numer": "17",
+    "kod": "73-240",
+    "poczta": "Bierzwnik\r"
+  }
+]

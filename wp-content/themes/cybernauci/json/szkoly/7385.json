@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20924",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7385",
+    "miejscowosc": "Domaradz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Domaradz",
+    "numer": "349",
+    "kod": "36-230",
+    "poczta": "Domaradz\r"
+  },
+  {
+    "id": "20925",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7385",
+    "miejscowosc": "Domaradz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Domaradz",
+    "numer": "349",
+    "kod": "36-230",
+    "poczta": "Domaradz\r"
+  },
+  {
+    "id": "20920",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7385",
+    "miejscowosc": "Domaradz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Domaradz",
+    "numer": "651",
+    "kod": "36-230",
+    "poczta": "Domaradz\r"
+  }
+]

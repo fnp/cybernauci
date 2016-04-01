@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3578",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1014",
+    "miejscowosc": "Horod\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "58",
+    "kod": "22-523",
+    "poczta": "Horod\u0142o\r"
+  },
+  {
+    "id": "3579",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1014",
+    "miejscowosc": "Horod\u0142o",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "58",
+    "kod": "22-523",
+    "poczta": "Horod\u0142o\r"
+  },
+  {
+    "id": "3580",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1014",
+    "miejscowosc": "Horod\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "58",
+    "kod": "22-523",
+    "poczta": "Horod\u0142o\r"
+  }
+]

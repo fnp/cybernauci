@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3320",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "872",
+    "miejscowosc": "Le\u015bna Podlaska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bialska",
+    "numer": "25",
+    "kod": "21-542",
+    "poczta": "Le\u015bna Podlaska\r"
+  },
+  {
+    "id": "3321",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "872",
+    "miejscowosc": "Le\u015bna Podlaska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bialska",
+    "numer": "25",
+    "kod": "21-542",
+    "poczta": "Le\u015bna Podlaska\r"
+  },
+  {
+    "id": "3323",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "872",
+    "miejscowosc": "Le\u015bna Podlaska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bialska",
+    "numer": "7",
+    "kod": "21-542",
+    "poczta": "Le\u015bna Podlaska\r"
+  },
+  {
+    "id": "3324",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "872",
+    "miejscowosc": "Le\u015bna Podlaska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bialska",
+    "numer": "7",
+    "kod": "21-542",
+    "poczta": "Le\u015bna Podlaska\r"
+  }
+]

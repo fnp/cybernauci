@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19116",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6815",
+    "miejscowosc": "Taczan\u00f3w Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Taczan\u00f3w Drugi",
+    "numer": "32c",
+    "kod": "63-300",
+    "poczta": "Pleszew\r"
+  },
+  {
+    "id": "19117",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6815",
+    "miejscowosc": "Taczan\u00f3w Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Taczan\u00f3w Drugi",
+    "numer": "32c",
+    "kod": "63-300",
+    "poczta": "Pleszew\r"
+  }
+]

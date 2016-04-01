@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10356",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3666",
+    "miejscowosc": "Radule",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Radule",
+    "numer": "88",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  },
+  {
+    "id": "10357",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3666",
+    "miejscowosc": "Radule",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Radule",
+    "numer": "88",
+    "kod": "16-080",
+    "poczta": "Tykocin\r"
+  }
+]

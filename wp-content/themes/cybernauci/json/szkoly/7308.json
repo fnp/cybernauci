@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20591",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7308",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Przec\u0142aw",
+    "numer": "83",
+    "kod": "67-312",
+    "poczta": "Niegos\u0142awice\r"
+  },
+  {
+    "id": "20590",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7308",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Przec\u0142aw",
+    "numer": "83",
+    "kod": "67-312",
+    "poczta": "Niegos\u0142awice\r"
+  }
+]

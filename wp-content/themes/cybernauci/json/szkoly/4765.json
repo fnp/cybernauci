@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13793",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4765",
+    "miejscowosc": "Ostrowite",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminy Brzuze",
+    "ulica": "Ostrowite",
+    "numer": "63",
+    "kod": "87-522",
+    "poczta": "Ostrowite\r"
+  },
+  {
+    "id": "13411",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4765",
+    "miejscowosc": "Ostrowite",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im Tadeusza J\u0119dryczki",
+    "ulica": "Ostrowite",
+    "numer": "42",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13789",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4765",
+    "miejscowosc": "Ostrowite",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ostrowite",
+    "numer": "62",
+    "kod": "87-522",
+    "poczta": "Ostrowite\r"
+  }
+]

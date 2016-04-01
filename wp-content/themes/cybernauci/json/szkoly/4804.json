@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13467",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4804",
+    "miejscowosc": "\u015awiecie nad Os\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awiecie nad Os\u0105",
+    "numer": "",
+    "kod": "86-341",
+    "poczta": "\u015awiecie nad Os\u0105\r"
+  },
+  {
+    "id": "13468",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4804",
+    "miejscowosc": "\u015awiecie nad Os\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awiecie nad Os\u0105",
+    "numer": "",
+    "kod": "86-341",
+    "poczta": "\u015awiecie nad Os\u0105\r"
+  }
+]

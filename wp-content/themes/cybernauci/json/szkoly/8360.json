@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23151",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8360",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "12",
+    "kod": "05-650",
+    "poczta": "Chyn\u00f3w\r"
+  },
+  {
+    "id": "23757",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8360",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "36A",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  }
+]

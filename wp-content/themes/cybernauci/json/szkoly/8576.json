@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23652",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8576",
+    "miejscowosc": "Sowia Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "Szkolna",
+    "numer": "108",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23653",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8576",
+    "miejscowosc": "Sowia Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "Szkolna",
+    "numer": "108",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

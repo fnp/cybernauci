@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15514",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5481",
+    "miejscowosc": "Mrowiny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "58-130",
+    "poczta": "\u017bar\u00f3w\r"
+  },
+  {
+    "id": "15509",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5481",
+    "miejscowosc": "Mrowiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Anny Jenke",
+    "ulica": "Wojska Polskiego",
+    "numer": "43",
+    "kod": "58-130",
+    "poczta": "\u017bar\u00f3w\r"
+  },
+  {
+    "id": "15515",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5481",
+    "miejscowosc": "Mrowiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "58-130",
+    "poczta": "\u017bar\u00f3w\r"
+  }
+]

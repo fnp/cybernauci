@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24640",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9056",
+    "miejscowosc": "Ro\u015bciszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Gimnazjum",
+    "ulica": "Reymonta",
+    "numer": "4",
+    "kod": "09-204",
+    "poczta": "Ro\u015bciszewo\r"
+  },
+  {
+    "id": "24641",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9056",
+    "miejscowosc": "Ro\u015bciszewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Szko\u0142a Podstawowa",
+    "ulica": "Reymonta",
+    "numer": "4",
+    "kod": "09-204",
+    "poczta": "Ro\u015bciszewo\r"
+  }
+]

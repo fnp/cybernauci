@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24263",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8846",
+    "miejscowosc": "\u017b\u00f3\u0142win",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "39",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  },
+  {
+    "id": "24264",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8846",
+    "miejscowosc": "\u017b\u00f3\u0142win",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "39",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22613",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8205",
+    "miejscowosc": "Uherce Mineralne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Uherce Mineralne",
+    "numer": "150",
+    "kod": "38-623",
+    "poczta": "Uherce Mineralne\r"
+  },
+  {
+    "id": "22614",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8205",
+    "miejscowosc": "Uherce Mineralne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Uherce Mineralne",
+    "numer": "150",
+    "kod": "38-623",
+    "poczta": "Uherce Mineralne\r"
+  }
+]

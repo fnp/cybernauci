@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3573",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1011",
+    "miejscowosc": "Hulcze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Hulcze",
+    "numer": "37",
+    "kod": "22-540",
+    "poczta": "Do\u0142hobycz\u00f3w\r"
+  },
+  {
+    "id": "3574",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1011",
+    "miejscowosc": "Hulcze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Hulcze",
+    "numer": "37",
+    "kod": "22-540",
+    "poczta": "Do\u0142hobycz\u00f3w\r"
+  }
+]

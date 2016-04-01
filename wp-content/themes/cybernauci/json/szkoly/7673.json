@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21506",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7673",
+    "miejscowosc": "Kro\u015bcienko Wy\u017cne",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "38-422",
+    "poczta": "Kro\u015bcienko Wy\u017cne\r"
+  },
+  {
+    "id": "21507",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7673",
+    "miejscowosc": "Kro\u015bcienko Wy\u017cne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "38-422",
+    "poczta": "Kro\u015bcienko Wy\u017cne\r"
+  }
+]

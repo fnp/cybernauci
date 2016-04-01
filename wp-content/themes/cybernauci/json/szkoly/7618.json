@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21416",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7618",
+    "miejscowosc": "Niwiska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Niwiska",
+    "numer": "465",
+    "kod": "36-147",
+    "poczta": "Niwiska\r"
+  },
+  {
+    "id": "21411",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7618",
+    "miejscowosc": "Niwiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tej Kr\u00f3lowej Jadwigi",
+    "ulica": "Niwiska",
+    "numer": "465",
+    "kod": "36-147",
+    "poczta": "Niwiska\r"
+  }
+]

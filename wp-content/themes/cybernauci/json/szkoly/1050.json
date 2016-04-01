@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3624",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1050",
+    "miejscowosc": "Batorz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marcina Borelowskiego - Lelewela",
+    "ulica": "Batorz",
+    "numer": "80",
+    "kod": "23-320",
+    "poczta": "Batorz\r"
+  },
+  {
+    "id": "3625",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1050",
+    "miejscowosc": "Batorz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Batorz",
+    "numer": "80",
+    "kod": "23-320",
+    "poczta": "Batorz\r"
+  }
+]

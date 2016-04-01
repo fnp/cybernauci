@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6720",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2449",
+    "miejscowosc": "\u0141\u0119townia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0119townia",
+    "numer": "286",
+    "kod": "34-242",
+    "poczta": "\u0141\u0119townia\r"
+  },
+  {
+    "id": "6721",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2449",
+    "miejscowosc": "\u0141\u0119townia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119townia",
+    "numer": "286",
+    "kod": "34-242",
+    "poczta": "\u0141\u0119townia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18143",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6323",
+    "miejscowosc": "Kamieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "2",
+    "kod": "64-061",
+    "poczta": "Kamieniec\r"
+  },
+  {
+    "id": "18139",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6323",
+    "miejscowosc": "Kamieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Stawowa",
+    "numer": "28",
+    "kod": "64-061",
+    "poczta": "Kamieniec\r"
+  }
+]

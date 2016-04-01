@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18694",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6626",
+    "miejscowosc": "Kwilcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kard. Wyszy\u0144skiego",
+    "numer": "20",
+    "kod": "64-420",
+    "poczta": "Kwilcz\r"
+  },
+  {
+    "id": "18695",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6626",
+    "miejscowosc": "Kwilcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kard. Wyszy\u0144skiego",
+    "numer": "20",
+    "kod": "64-420",
+    "poczta": "Kwilcz\r"
+  }
+]

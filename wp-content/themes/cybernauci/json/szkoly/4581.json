@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12894",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4581",
+    "miejscowosc": "Samborowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  },
+  {
+    "id": "12895",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4581",
+    "miejscowosc": "Samborowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  }
+]

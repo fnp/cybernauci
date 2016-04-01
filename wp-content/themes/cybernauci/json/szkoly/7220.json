@@ -1,0 +1,86 @@
+[
+  {
+    "id": "20432",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "plac Wolno\u015bci",
+    "numer": "8",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20433",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Portowa",
+    "numer": "1",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20434",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Konopnickiej",
+    "numer": "2",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20422",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20423",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Portowa",
+    "numer": "1",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20435",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Konopnickiej",
+    "numer": "2",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  },
+  {
+    "id": "20436",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7220",
+    "miejscowosc": "Drezdenko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Konopnickiej",
+    "numer": "2",
+    "kod": "66-530",
+    "poczta": "Drezdenko\r"
+  }
+]

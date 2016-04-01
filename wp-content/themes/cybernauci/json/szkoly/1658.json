@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4809",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1658",
+    "miejscowosc": "Sitaniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Sitaniec",
+    "numer": "422",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "4810",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1658",
+    "miejscowosc": "Sitaniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Sitaniec",
+    "numer": "422",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  }
+]

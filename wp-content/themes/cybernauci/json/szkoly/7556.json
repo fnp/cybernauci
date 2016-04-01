@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21315",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7556",
+    "miejscowosc": "Krajowice",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Krajowice",
+    "numer": "33",
+    "kod": "38-211",
+    "poczta": "Jas\u0142o\r"
+  },
+  {
+    "id": "21316",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7556",
+    "miejscowosc": "Krajowice",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Krajowice",
+    "numer": "33",
+    "kod": "38-211",
+    "poczta": "Jas\u0142o\r"
+  }
+]

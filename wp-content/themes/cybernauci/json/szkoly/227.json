@@ -1,0 +1,26 @@
+[
+  {
+    "id": "468",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "227",
+    "miejscowosc": "Komprachcice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "46-070",
+    "poczta": "Komprachcice\r"
+  },
+  {
+    "id": "472",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "227",
+    "miejscowosc": "Komprachcice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "46-070",
+    "poczta": "Komprachcice\r"
+  }
+]

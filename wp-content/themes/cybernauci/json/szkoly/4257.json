@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12184",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4257",
+    "miejscowosc": "Kandyty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kandyty",
+    "numer": "77",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12185",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4257",
+    "miejscowosc": "Kandyty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kandyty",
+    "numer": "77",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  }
+]

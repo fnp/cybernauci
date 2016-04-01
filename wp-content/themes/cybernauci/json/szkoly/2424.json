@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6663",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2424",
+    "miejscowosc": "Sieros\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Sieros\u0142awice",
+    "numer": "53",
+    "kod": "32-120",
+    "poczta": "Nowe Brzesko\r"
+  },
+  {
+    "id": "6664",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2424",
+    "miejscowosc": "Sieros\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sieros\u0142awice",
+    "numer": "53",
+    "kod": "32-120",
+    "poczta": "Nowe Brzesko\r"
+  }
+]

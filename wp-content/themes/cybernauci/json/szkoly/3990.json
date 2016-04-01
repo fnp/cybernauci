@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11264",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3990",
+    "miejscowosc": "Waniorowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Waniorowo",
+    "numer": "15",
+    "kod": "72-300",
+    "poczta": "Gryfice\r"
+  },
+  {
+    "id": "11265",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3990",
+    "miejscowosc": "Waniorowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Waniorowo",
+    "numer": "15",
+    "kod": "72-300",
+    "poczta": "Gryfice\r"
+  }
+]

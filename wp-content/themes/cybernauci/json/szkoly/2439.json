@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6688",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2439",
+    "miejscowosc": "Radziemice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Radziemice",
+    "numer": "2",
+    "kod": "32-107",
+    "poczta": "Radziemice\r"
+  },
+  {
+    "id": "6689",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2439",
+    "miejscowosc": "Radziemice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Radziemice",
+    "numer": "2",
+    "kod": "32-107",
+    "poczta": "Radziemice\r"
+  }
+]

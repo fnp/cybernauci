@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24769",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9113",
+    "miejscowosc": "Groch\u00f3w Szlachecki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 O\u015bwiatowy Publiczne Gimnazjum Nr 1",
+    "ulica": "W\u0142adyslawa Rawicza",
+    "numer": "1",
+    "kod": "08-300",
+    "poczta": "Soko\u0142\u00f3w Podlaski\r"
+  },
+  {
+    "id": "24770",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9113",
+    "miejscowosc": "Groch\u00f3w Szlachecki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 O\u015bwiatowy Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "W\u0142adyslawa Rawicza",
+    "numer": "1",
+    "kod": "08-300",
+    "poczta": "Soko\u0142\u00f3w Podlaski\r"
+  }
+]

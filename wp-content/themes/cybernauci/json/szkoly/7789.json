@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22287",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7789",
+    "miejscowosc": "Trzciana",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Trzciana",
+    "numer": "168",
+    "kod": "36-071",
+    "poczta": "Trzciana\r"
+  },
+  {
+    "id": "22280",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7789",
+    "miejscowosc": "Trzciana",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Trzciana",
+    "numer": "193",
+    "kod": "36-071",
+    "poczta": "Trzciana\r"
+  },
+  {
+    "id": "22288",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7789",
+    "miejscowosc": "Trzciana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzciana",
+    "numer": "168",
+    "kod": "36-071",
+    "poczta": "Trzciana\r"
+  },
+  {
+    "id": "21779",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7789",
+    "miejscowosc": "Trzciana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzciana",
+    "numer": "289",
+    "kod": "39-304",
+    "poczta": "Czermin\r"
+  },
+  {
+    "id": "22281",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7789",
+    "miejscowosc": "Trzciana",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Trzciana",
+    "numer": "193",
+    "kod": "36-071",
+    "poczta": "Trzciana\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6137",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2195",
+    "miejscowosc": "Koniuszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Koniuszowa",
+    "numer": "203",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "6138",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2195",
+    "miejscowosc": "Koniuszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Koniuszowa",
+    "numer": "203",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  }
+]

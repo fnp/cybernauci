@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5209",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1724",
+    "miejscowosc": "Rozdziele",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Rozdziele",
+    "numer": "156",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5210",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1724",
+    "miejscowosc": "Rozdziele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rozdziele",
+    "numer": "156",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5510",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1724",
+    "miejscowosc": "Rozdziele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rozdziele",
+    "numer": "50A",
+    "kod": "38-304",
+    "poczta": "Kryg\r"
+  }
+]

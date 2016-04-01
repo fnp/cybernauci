@@ -1,0 +1,26 @@
+[
+  {
+    "id": "249",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "115",
+    "miejscowosc": "Domaszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "3",
+    "kod": "46-146",
+    "poczta": "Domaszowice\r"
+  },
+  {
+    "id": "250",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "115",
+    "miejscowosc": "Domaszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "3",
+    "kod": "46-146",
+    "poczta": "Domaszowice\r"
+  }
+]

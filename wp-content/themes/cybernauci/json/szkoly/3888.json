@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10784",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3888",
+    "miejscowosc": "Kobylin-Borzymy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "17",
+    "kod": "18-204",
+    "poczta": "Kobylin Borzymy\r"
+  },
+  {
+    "id": "10785",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3888",
+    "miejscowosc": "Kobylin-Borzymy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Piotra Skargi ",
+    "ulica": "Lipowa",
+    "numer": "17",
+    "kod": "18-204",
+    "poczta": "Kobylin Borzymy\r"
+  }
+]

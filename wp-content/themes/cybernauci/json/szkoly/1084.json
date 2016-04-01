@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3711",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1084",
+    "miejscowosc": "Izbica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "22-375",
+    "poczta": "Izbica\r"
+  },
+  {
+    "id": "3712",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1084",
+    "miejscowosc": "Izbica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "22-375",
+    "poczta": "Izbica\r"
+  }
+]

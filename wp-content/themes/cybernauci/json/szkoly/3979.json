@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11235",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3979",
+    "miejscowosc": "Osina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osina",
+    "numer": "54",
+    "kod": "72-221",
+    "poczta": "Osina\r"
+  },
+  {
+    "id": "11236",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3979",
+    "miejscowosc": "Osina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osina",
+    "numer": "54",
+    "kod": "72-221",
+    "poczta": "Osina\r"
+  }
+]

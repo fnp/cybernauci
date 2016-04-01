@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5954",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1710",
+    "miejscowosc": "Krzecz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krzecz\u00f3w",
+    "numer": "174",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5185",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1710",
+    "miejscowosc": "Krzecz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. J. Korczaka",
+    "ulica": "Krzecz\u00f3w",
+    "numer": "200",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5955",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1710",
+    "miejscowosc": "Krzecz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzecz\u00f3w",
+    "numer": "174",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  }
+]

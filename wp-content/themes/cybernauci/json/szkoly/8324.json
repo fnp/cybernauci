@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23067",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8324",
+    "miejscowosc": "Lucie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lucie\u0144",
+    "numer": "46",
+    "kod": "09-504",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23068",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8324",
+    "miejscowosc": "Lucie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lucie\u0144",
+    "numer": "46",
+    "kod": "09-504",
+    "poczta": "Gostynin\r"
+  }
+]

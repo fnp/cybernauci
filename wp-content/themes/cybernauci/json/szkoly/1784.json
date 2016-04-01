@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5319",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1784",
+    "miejscowosc": "Zag\u00f3rze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "M. J. Pi\u0142sudskiego",
+    "numer": "139",
+    "kod": "32-555",
+    "poczta": "Zag\u00f3rze\r"
+  },
+  {
+    "id": "5320",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1784",
+    "miejscowosc": "Zag\u00f3rze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M. J. Pi\u0142sudskiego",
+    "numer": "139",
+    "kod": "32-555",
+    "poczta": "Zag\u00f3rze\r"
+  },
+  {
+    "id": "7227",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1784",
+    "miejscowosc": "Zag\u00f3rze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Zag\u00f3rze",
+    "numer": "81",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  }
+]

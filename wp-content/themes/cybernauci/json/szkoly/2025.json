@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5802",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2025",
+    "miejscowosc": "Wilkowisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wilkowisko",
+    "numer": "",
+    "kod": "34-617",
+    "poczta": "Wilkowisko\r"
+  },
+  {
+    "id": "5803",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2025",
+    "miejscowosc": "Wilkowisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilkowisko",
+    "numer": "",
+    "kod": "34-617",
+    "poczta": "Wilkowisko\r"
+  }
+]

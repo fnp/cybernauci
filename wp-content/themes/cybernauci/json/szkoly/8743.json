@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24043",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8743",
+    "miejscowosc": "Uwieliny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u017bo\u0142nierzy Armii Krajowej - Bohater\u00f3w Las\u00f3w Chojnowskich",
+    "ulica": "Szkolna",
+    "numer": "2 A",
+    "kod": "05-540",
+    "poczta": "Zalesie G\u00f3rne\r"
+  },
+  {
+    "id": "24039",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8743",
+    "miejscowosc": "Uwieliny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-540",
+    "poczta": "Zalesie G\u00f3rne\r"
+  }
+]

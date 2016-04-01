@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23588",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8541",
+    "miejscowosc": "Dzierzgowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "21A",
+    "kod": "06-520",
+    "poczta": "Dzierzgowo\r"
+  },
+  {
+    "id": "23587",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8541",
+    "miejscowosc": "Dzierzgowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "21",
+    "kod": "06-520",
+    "poczta": "Dzierzgowo\r"
+  }
+]

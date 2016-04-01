@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4093",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1302",
+    "miejscowosc": "Jaszcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jaszcz\u00f3w",
+    "numer": "24",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  },
+  {
+    "id": "4094",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1302",
+    "miejscowosc": "Jaszcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jaszcz\u00f3w",
+    "numer": "24",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23766",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8637",
+    "miejscowosc": "Wolkowe",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa przy ZS",
+    "ulica": "Wolkowe",
+    "numer": "1",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  },
+  {
+    "id": "23767",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8637",
+    "miejscowosc": "Wolkowe",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum przy ZS",
+    "ulica": "Wolkowe",
+    "numer": "1",
+    "kod": "07-430",
+    "poczta": "Myszyniec\r"
+  }
+]

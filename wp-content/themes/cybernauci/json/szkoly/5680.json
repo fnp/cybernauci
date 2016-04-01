@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16355",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5680",
+    "miejscowosc": "Byszew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Byszew",
+    "numer": "31",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  },
+  {
+    "id": "16356",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5680",
+    "miejscowosc": "Byszew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Byszew",
+    "numer": "31",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  }
+]

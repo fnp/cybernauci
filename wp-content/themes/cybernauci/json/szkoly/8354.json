@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23143",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8354",
+    "miejscowosc": "Wilk\u00f3w Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. ks. Mariana Panka",
+    "ulica": "Wilk\u00f3w Drugi",
+    "numer": "82",
+    "kod": "05-620",
+    "poczta": "B\u0142\u0119d\u00f3w\r"
+  },
+  {
+    "id": "23142",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8354",
+    "miejscowosc": "Wilk\u00f3w Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wilk\u00f3w Drugi",
+    "numer": "82",
+    "kod": "05-620",
+    "poczta": "B\u0142\u0119d\u00f3w\r"
+  }
+]

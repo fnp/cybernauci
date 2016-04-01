@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14041",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5074",
+    "miejscowosc": "Stobno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Stobno",
+    "numer": "33",
+    "kod": "89-502",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "14033",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5074",
+    "miejscowosc": "Stobno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Meggera",
+    "ulica": "Stobno",
+    "numer": "33",
+    "kod": "89-502",
+    "poczta": "Raci\u0105\u017c\r"
+  }
+]

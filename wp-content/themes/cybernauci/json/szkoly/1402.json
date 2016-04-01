@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4272",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1402",
+    "miejscowosc": "Wilk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Wilk\u00f3w",
+    "numer": "66A",
+    "kod": "24-313",
+    "poczta": "Wilk\u00f3w\r"
+  },
+  {
+    "id": "4273",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1402",
+    "miejscowosc": "Wilk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilk\u00f3w",
+    "numer": "66",
+    "kod": "24-313",
+    "poczta": "Wilk\u00f3w\r"
+  }
+]

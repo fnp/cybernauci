@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13883",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Bydgoska",
+    "numer": "4",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13886",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nowa",
+    "numer": "2",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13882",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowa",
+    "numer": "2",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13880",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "My\u015bliwska",
+    "numer": "2b",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13884",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Bydgoska",
+    "numer": "4",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13885",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a Zasadnicza",
+    "ulica": "Bydgoska",
+    "numer": "4",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13887",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "My\u015bliwska",
+    "numer": "1",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  },
+  {
+    "id": "13888",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4998",
+    "miejscowosc": "Nowe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "My\u015bliwska",
+    "numer": "1",
+    "kod": "86-170",
+    "poczta": "Nowe\r"
+  }
+]

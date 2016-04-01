@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20557",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7296",
+    "miejscowosc": "Gozdnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "M\u0142y\u0144ska",
+    "numer": "1",
+    "kod": "68-130",
+    "poczta": "Gozdnica\r"
+  },
+  {
+    "id": "20558",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7296",
+    "miejscowosc": "Gozdnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M\u0142y\u0144ska",
+    "numer": "1",
+    "kod": "68-130",
+    "poczta": "Gozdnica\r"
+  }
+]

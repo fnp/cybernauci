@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11776",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4200",
+    "miejscowosc": "Gwda Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Polna",
+    "numer": "21",
+    "kod": "78-422",
+    "poczta": "Gwda Wielka\r"
+  },
+  {
+    "id": "11771",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4200",
+    "miejscowosc": "Gwda Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "21",
+    "kod": "78-422",
+    "poczta": "Gwda Wielka\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9214",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3351",
+    "miejscowosc": "Lipusz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Derdowskiego",
+    "numer": "7A",
+    "kod": "83-424",
+    "poczta": "Lipusz\r"
+  },
+  {
+    "id": "9215",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3351",
+    "miejscowosc": "Lipusz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Derdowskiego",
+    "numer": "7A",
+    "kod": "83-424",
+    "poczta": "Lipusz\r"
+  },
+  {
+    "id": "9213",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3351",
+    "miejscowosc": "Lipusz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Ponadgimnazjalne",
+    "ulica": "Derdowskiego",
+    "numer": "7A",
+    "kod": "83-424",
+    "poczta": "Lipusz\r"
+  }
+]

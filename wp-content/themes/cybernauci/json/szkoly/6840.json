@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19176",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6840",
+    "miejscowosc": "Komorniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pocztowa",
+    "numer": "30",
+    "kod": "62-052",
+    "poczta": "Komorniki\r"
+  },
+  {
+    "id": "19175",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6840",
+    "miejscowosc": "Komorniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Staszica",
+    "numer": "25",
+    "kod": "62-052",
+    "poczta": "Komorniki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11865",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4240",
+    "miejscowosc": "W\u0119gorzyno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Or\u0142a Bia\u0142ego",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "29",
+    "kod": "73-155",
+    "poczta": "W\u0119gorzyno\r"
+  },
+  {
+    "id": "11864",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4240",
+    "miejscowosc": "W\u0119gorzyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grunwaldzka",
+    "numer": "2",
+    "kod": "73-155",
+    "poczta": "W\u0119gorzyno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7095",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2624",
+    "miejscowosc": "Zebrzydowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 4",
+    "ulica": "Zebrzydowice",
+    "numer": "193",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7096",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2624",
+    "miejscowosc": "Zebrzydowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Zebrzydowice",
+    "numer": "193",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  }
+]

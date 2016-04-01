@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5504",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1856",
+    "miejscowosc": "Szymbark",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szymbark",
+    "numer": "464",
+    "kod": "38-311",
+    "poczta": "Szymbark\r"
+  },
+  {
+    "id": "5505",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1856",
+    "miejscowosc": "Szymbark",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szymbark",
+    "numer": "464",
+    "kod": "38-311",
+    "poczta": "Szymbark\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13715",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4914",
+    "miejscowosc": "Samostrzel",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Samostrzel",
+    "numer": "9",
+    "kod": "89-110",
+    "poczta": "Sadki\r"
+  },
+  {
+    "id": "13716",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4914",
+    "miejscowosc": "Samostrzel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Samostrzel",
+    "numer": "9",
+    "kod": "89-110",
+    "poczta": "Sadki\r"
+  },
+  {
+    "id": "13717",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4914",
+    "miejscowosc": "Samostrzel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "Samostrzel",
+    "numer": "9",
+    "kod": "89-110",
+    "poczta": "Sadki\r"
+  }
+]

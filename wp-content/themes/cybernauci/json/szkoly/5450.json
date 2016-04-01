@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15389",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5450",
+    "miejscowosc": "Lutynia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "55-330",
+    "poczta": "Mi\u0119kinia\r"
+  },
+  {
+    "id": "15390",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5450",
+    "miejscowosc": "Lutynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "55-330",
+    "poczta": "Mi\u0119kinia\r"
+  }
+]

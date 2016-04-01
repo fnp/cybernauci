@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9197",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3341",
+    "miejscowosc": "\u0141ubiana",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. A. Mickiewicza ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-407",
+    "poczta": "\u0141ubiana\r"
+  },
+  {
+    "id": "9198",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3341",
+    "miejscowosc": "\u0141ubiana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Mickiewicza ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-407",
+    "poczta": "\u0141ubiana\r"
+  }
+]

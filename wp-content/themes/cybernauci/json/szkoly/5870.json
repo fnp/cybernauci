@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16748",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5870",
+    "miejscowosc": "D\u0105browa nad Czarn\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "D\u0105browa nad Czarn\u0105",
+    "numer": "60",
+    "kod": "26-337",
+    "poczta": "Aleksandr\u00f3w\r"
+  },
+  {
+    "id": "16746",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5870",
+    "miejscowosc": "D\u0105browa nad Czarn\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "D\u0105browa nad Czarn\u0105",
+    "numer": "60",
+    "kod": "26-337",
+    "poczta": "Aleksandr\u00f3w\r"
+  }
+]

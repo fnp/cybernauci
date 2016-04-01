@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7814",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2719",
+    "miejscowosc": "Rataje S\u0142upskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Rataje S\u0142upskie",
+    "numer": "39a",
+    "kod": "28-133",
+    "poczta": "Pacan\u00f3w\r"
+  },
+  {
+    "id": "7812",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2719",
+    "miejscowosc": "Rataje S\u0142upskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rataje S\u0142upskie",
+    "numer": "39a",
+    "kod": "28-133",
+    "poczta": "Pacan\u00f3w\r"
+  }
+]

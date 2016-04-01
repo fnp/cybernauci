@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20227",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7141",
+    "miejscowosc": "Baczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-432",
+    "poczta": "Baczyna\r"
+  },
+  {
+    "id": "20228",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7141",
+    "miejscowosc": "Baczyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-432",
+    "poczta": "Baczyna\r"
+  }
+]

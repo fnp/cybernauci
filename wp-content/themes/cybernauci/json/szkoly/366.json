@@ -1,0 +1,26 @@
+[
+  {
+    "id": "837",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "366",
+    "miejscowosc": "Kobiernice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-356",
+    "poczta": "Kobiernice\r"
+  },
+  {
+    "id": "838",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "366",
+    "miejscowosc": "Kobiernice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-356",
+    "poczta": "Kobiernice\r"
+  }
+]

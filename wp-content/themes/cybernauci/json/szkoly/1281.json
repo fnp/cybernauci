@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4466",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1281",
+    "miejscowosc": "Zakrzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zakrzew",
+    "numer": "27",
+    "kod": "21-307",
+    "poczta": "Ulan-Majorat\r"
+  },
+  {
+    "id": "4055",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1281",
+    "miejscowosc": "Zakrzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zakrzew",
+    "numer": "226",
+    "kod": "23-155",
+    "poczta": "Zakrzew\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22916",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8246",
+    "miejscowosc": "Grudusk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "06-460",
+    "poczta": "Grudusk\r"
+  },
+  {
+    "id": "22917",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8246",
+    "miejscowosc": "Grudusk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "06-460",
+    "poczta": "Grudusk\r"
+  }
+]

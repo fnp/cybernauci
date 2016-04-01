@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6141",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipnica Wielka",
+    "numer": "25",
+    "kod": "33-323",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6142",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipnica Wielka",
+    "numer": "25",
+    "kod": "33-323",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6355",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Gimnazjum",
+    "ulica": "Lipnica Wielka",
+    "numer": "523",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6356",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lipnica Wielka",
+    "numer": "523",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6358",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Lipnica Wielka",
+    "numer": "205",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6359",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Lipnica Wielka",
+    "numer": "517",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6360",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Lipnica Wielka",
+    "numer": "825",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6361",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Lipnica Wielka",
+    "numer": "1043",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  },
+  {
+    "id": "6362",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2197",
+    "miejscowosc": "Lipnica Wielka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Technikum",
+    "ulica": "Lipnica Wielka",
+    "numer": "523",
+    "kod": "34-483",
+    "poczta": "Lipnica Wielka\r"
+  }
+]

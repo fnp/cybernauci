@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18418",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6474",
+    "miejscowosc": "\u0141ubianka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "\u0141ubianka",
+    "numer": "21",
+    "kod": "62-641",
+    "poczta": "Olsz\u00f3wka\r"
+  },
+  {
+    "id": "18419",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6474",
+    "miejscowosc": "\u0141ubianka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "\u0141ubianka",
+    "numer": "21",
+    "kod": "62-641",
+    "poczta": "Olsz\u00f3wka\r"
+  }
+]

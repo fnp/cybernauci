@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10716",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3852",
+    "miejscowosc": "Szudzia\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-113",
+    "poczta": "Szudzia\u0142owo\r"
+  },
+  {
+    "id": "10717",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3852",
+    "miejscowosc": "Szudzia\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-113",
+    "poczta": "Szudzia\u0142owo\r"
+  }
+]

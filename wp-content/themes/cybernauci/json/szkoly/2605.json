@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7040",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2605",
+    "miejscowosc": "Nowe Bystre",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Nowe Bystre",
+    "numer": "61",
+    "kod": "34-521",
+    "poczta": "Z\u0105b\r"
+  },
+  {
+    "id": "7041",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2605",
+    "miejscowosc": "Nowe Bystre",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowe Bystre",
+    "numer": "61",
+    "kod": "34-521",
+    "poczta": "Z\u0105b\r"
+  },
+  {
+    "id": "7042",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2605",
+    "miejscowosc": "Nowe Bystre",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia na S\u0142odyczkach",
+    "ulica": "Nowe Bystre",
+    "numer": "180 B",
+    "kod": "34-521",
+    "poczta": "Z\u0105b\r"
+  }
+]

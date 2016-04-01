@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22839",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8215",
+    "miejscowosc": "Sucha",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szlachecka",
+    "numer": "88A",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "24490",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8215",
+    "miejscowosc": "Sucha",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sucha",
+    "numer": "38a",
+    "kod": "26-670",
+    "poczta": "Pionki\r"
+  }
+]

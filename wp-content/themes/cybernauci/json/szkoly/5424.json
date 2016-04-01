@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15330",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5424",
+    "miejscowosc": "Gr\u0119bocice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Nowaka-Jeziora\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "59-150",
+    "poczta": "Gr\u0119bocice\r"
+  },
+  {
+    "id": "15328",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5424",
+    "miejscowosc": "Gr\u0119bocice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "59-150",
+    "poczta": "Gr\u0119bocice\r"
+  }
+]

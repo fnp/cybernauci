@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1761",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "736",
+    "miejscowosc": "Turza \u015al\u0105ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. Dominika Lasoka",
+    "ulica": "Ligonia",
+    "numer": "2b",
+    "kod": "44-351",
+    "poczta": "Turza \u015al.\r"
+  },
+  {
+    "id": "1753",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "736",
+    "miejscowosc": "Turza \u015al\u0105ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. E. Kasperczyka ",
+    "ulica": "Ligonia",
+    "numer": "2b",
+    "kod": "44-351",
+    "poczta": "Turza \u015al.\r"
+  }
+]

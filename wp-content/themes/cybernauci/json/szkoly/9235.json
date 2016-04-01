@@ -1,0 +1,38 @@
+[
+  {
+    "id": "25068",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9235",
+    "miejscowosc": "D\u0142ugosiod\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Armii Krajowej",
+    "ulica": "Mickiewicza",
+    "numer": "14",
+    "kod": "07-210",
+    "poczta": "D\u0142ugosiod\u0142o\r"
+  },
+  {
+    "id": "25066",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9235",
+    "miejscowosc": "D\u0142ugosiod\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "07-210",
+    "poczta": "D\u0142ugosiod\u0142o\r"
+  },
+  {
+    "id": "25069",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9235",
+    "miejscowosc": "D\u0142ugosiod\u0142o",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Poniatowskiego",
+    "numer": "25",
+    "kod": "07-210",
+    "poczta": "D\u0142ugosiod\u0142o\r"
+  }
+]

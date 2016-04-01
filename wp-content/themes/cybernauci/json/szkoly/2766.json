@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7903",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2766",
+    "miejscowosc": "S\u0142upia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Romana Czerneckiego",
+    "ulica": "S\u0142upia",
+    "numer": "281",
+    "kod": "28-350",
+    "poczta": "S\u0142upia\r"
+  },
+  {
+    "id": "8200",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2766",
+    "miejscowosc": "S\u0142upia",
+    "typ": "gimnazjum",
+    "nazwa": "I Publiczne Gimnazjum",
+    "ulica": "S\u0142upia",
+    "numer": "36",
+    "kod": "26-234",
+    "poczta": "S\u0142upia\r"
+  },
+  {
+    "id": "7904",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2766",
+    "miejscowosc": "S\u0142upia",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "S\u0142upia",
+    "numer": "281",
+    "kod": "28-350",
+    "poczta": "S\u0142upia\r"
+  }
+]

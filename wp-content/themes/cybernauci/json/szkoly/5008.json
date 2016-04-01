@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13913",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5008",
+    "miejscowosc": "Gruczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "5",
+    "kod": "86-111",
+    "poczta": "Gruczno\r"
+  },
+  {
+    "id": "13901",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5008",
+    "miejscowosc": "Gruczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "5",
+    "kod": "86-111",
+    "poczta": "Gruczno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3819",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1140",
+    "miejscowosc": "Skorczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Skorczyce",
+    "numer": "52",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  },
+  {
+    "id": "3820",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1140",
+    "miejscowosc": "Skorczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Leona Hempla ",
+    "ulica": "Skorczyce",
+    "numer": "52",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  }
+]

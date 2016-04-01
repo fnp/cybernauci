@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21865",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7847",
+    "miejscowosc": "Stary Nart",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Stary Nart",
+    "numer": "57b",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21866",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7847",
+    "miejscowosc": "Stary Nart",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stary Nart",
+    "numer": "57b",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  }
+]

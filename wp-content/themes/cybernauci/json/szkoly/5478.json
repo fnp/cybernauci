@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15505",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5478",
+    "miejscowosc": "Bystrzyca G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Bystrzyca G\u00f3rna",
+    "numer": "48",
+    "kod": "58-114",
+    "poczta": "Lubach\u00f3w\r"
+  },
+  {
+    "id": "15499",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5478",
+    "miejscowosc": "Bystrzyca G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bystrzyca G\u00f3rna",
+    "numer": "64",
+    "kod": "58-114",
+    "poczta": "Lubach\u00f3w\r"
+  },
+  {
+    "id": "15506",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5478",
+    "miejscowosc": "Bystrzyca G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Bystrzyca G\u00f3rna",
+    "numer": "48",
+    "kod": "58-114",
+    "poczta": "Lubach\u00f3w\r"
+  }
+]

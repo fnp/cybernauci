@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22300",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7751",
+    "miejscowosc": "\u0141ukawiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141ukawiec",
+    "numer": "423",
+    "kod": "36-004",
+    "poczta": "\u0141\u0105ka\r"
+  },
+  {
+    "id": "21661",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7751",
+    "miejscowosc": "\u0141ukawiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u0141ukawiec",
+    "numer": "84",
+    "kod": "37-626",
+    "poczta": "\u0141ukawiec\r"
+  },
+  {
+    "id": "22301",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7751",
+    "miejscowosc": "\u0141ukawiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141ukawiec",
+    "numer": "423",
+    "kod": "36-004",
+    "poczta": "\u0141\u0105ka\r"
+  },
+  {
+    "id": "21662",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7751",
+    "miejscowosc": "\u0141ukawiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Wrze\u015bnia 1939 r.",
+    "ulica": "\u0141ukawiec",
+    "numer": "84",
+    "kod": "37-626",
+    "poczta": "\u0141ukawiec\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5140",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1682",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brze\u017anica",
+    "numer": "180",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "7077",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1682",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Adama Gorczy\u0144skiego",
+    "numer": "1",
+    "kod": "34-114",
+    "poczta": "Brze\u017anica\r"
+  },
+  {
+    "id": "5141",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1682",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brze\u017anica",
+    "numer": "180",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "7078",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1682",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Adama Gorczy\u0144skiego",
+    "numer": "1",
+    "kod": "34-114",
+    "poczta": "Brze\u017anica\r"
+  }
+]

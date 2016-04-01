@@ -1,0 +1,98 @@
+[
+  {
+    "id": "20466",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Park Bankowy",
+    "numer": "7",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20468",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "12",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20467",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Adama Mickiewicza",
+    "ulica": "Emilii Plater",
+    "numer": "1",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20470",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wincentego Witosa",
+    "numer": "49",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20463",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osiedle Kopernika",
+    "numer": "7",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20469",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "12",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20471",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wincentego Witosa",
+    "numer": "49",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  },
+  {
+    "id": "20472",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7243",
+    "miejscowosc": "Sul\u0119cin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wincentego Witosa",
+    "numer": "49",
+    "kod": "69-200",
+    "poczta": "Sul\u0119cin\r"
+  }
+]

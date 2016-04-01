@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7836",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2735",
+    "miejscowosc": "Motkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "28-313",
+    "poczta": "Imielno\r"
+  },
+  {
+    "id": "7837",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2735",
+    "miejscowosc": "Motkowice",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "28-313",
+    "poczta": "Imielno\r"
+  }
+]

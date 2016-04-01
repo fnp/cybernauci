@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8106",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2895",
+    "miejscowosc": "Piekosz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Gimnazjum Nr 1 ",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "110",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  },
+  {
+    "id": "8107",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2895",
+    "miejscowosc": "Piekosz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "110",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  }
+]

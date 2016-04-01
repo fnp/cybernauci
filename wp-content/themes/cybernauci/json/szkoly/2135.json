@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6036",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2135",
+    "miejscowosc": "Tokarnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Tokarnia",
+    "numer": "379",
+    "kod": "32-436",
+    "poczta": "Tokarnia\r"
+  },
+  {
+    "id": "6031",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2135",
+    "miejscowosc": "Tokarnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego Prymasa Tysi\u0105clecia",
+    "ulica": "Tokarnia",
+    "numer": "379",
+    "kod": "32-436",
+    "poczta": "Tokarnia\r"
+  },
+  {
+    "id": "6032",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2135",
+    "miejscowosc": "Tokarnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Stanis\u0142awa Marusarza",
+    "ulica": "Tokarnia",
+    "numer": "709",
+    "kod": "32-436",
+    "poczta": "Tokarnia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12815",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4543",
+    "miejscowosc": "\u015awi\u0105tki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u015awi\u0105tki",
+    "numer": "95",
+    "kod": "11-008",
+    "poczta": "\u015awi\u0105tki\r"
+  },
+  {
+    "id": "12816",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4543",
+    "miejscowosc": "\u015awi\u0105tki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awi\u0105tki",
+    "numer": "95",
+    "kod": "11-008",
+    "poczta": "\u015awi\u0105tki\r"
+  }
+]

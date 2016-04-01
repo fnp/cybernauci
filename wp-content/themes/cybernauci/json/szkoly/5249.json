@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14888",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5249",
+    "miejscowosc": "Mys\u0142akowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Su\u0142kowskiego",
+    "numer": "1",
+    "kod": "58-533",
+    "poczta": "Mys\u0142akowice\r"
+  },
+  {
+    "id": "14889",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5249",
+    "miejscowosc": "Mys\u0142akowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Su\u0142kowskiego",
+    "numer": "1",
+    "kod": "58-533",
+    "poczta": "Mys\u0142akowice\r"
+  }
+]

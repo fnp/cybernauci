@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3796",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1124",
+    "miejscowosc": "Polichna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Polichna Druga",
+    "numer": "26",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  },
+  {
+    "id": "3797",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1124",
+    "miejscowosc": "Polichna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Polichna Druga",
+    "numer": "26",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  }
+]

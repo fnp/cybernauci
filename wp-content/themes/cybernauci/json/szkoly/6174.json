@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17414",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6174",
+    "miejscowosc": "M\u0105kolice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "M\u0105kolice",
+    "numer": "96",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17415",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6174",
+    "miejscowosc": "M\u0105kolice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "M\u0105kolice",
+    "numer": "96",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  }
+]

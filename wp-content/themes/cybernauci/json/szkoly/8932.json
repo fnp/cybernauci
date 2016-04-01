@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24443",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8932",
+    "miejscowosc": "Kuczki-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kuczki-Kolonia",
+    "numer": "75",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  },
+  {
+    "id": "24444",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8932",
+    "miejscowosc": "Kuczki-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kuczki-Kolonia",
+    "numer": "75",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16901",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5945",
+    "miejscowosc": "Lgota Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "97-565",
+    "poczta": "Lgota Wielka\r"
+  },
+  {
+    "id": "16902",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5945",
+    "miejscowosc": "Lgota Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "97-565",
+    "poczta": "Lgota Wielka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16918",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5955",
+    "miejscowosc": "Szczepocice Rz\u0105dowe",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szczepocice Rz\u0105dowe",
+    "numer": "19c",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  },
+  {
+    "id": "16919",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5955",
+    "miejscowosc": "Szczepocice Rz\u0105dowe",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szczepocice Rz\u0105dowe",
+    "numer": "19c",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  }
+]

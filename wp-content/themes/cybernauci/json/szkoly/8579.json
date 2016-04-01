@@ -1,0 +1,110 @@
+[
+  {
+    "id": "23666",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce CN-B",
+    "ulica": "Staszica",
+    "numer": "1",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23673",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lipowa",
+    "numer": "10",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23671",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. J. Iwaszkiewicza",
+    "ulica": "Starzy\u0144skiego",
+    "numer": "10",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23664",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa \"Pod Fio\u0142kami\"",
+    "ulica": "Ogrodowa",
+    "numer": "9",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23665",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Staszica",
+    "numer": "1",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23672",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum przy Liceum Og\u00f3lnokszta\u0142c\u0105cym",
+    "ulica": "Starzy\u0144skiego",
+    "numer": "10",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23660",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "21",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23674",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Lipowa",
+    "numer": "10",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23675",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8579",
+    "miejscowosc": "Nasielsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lipowa",
+    "numer": "10",
+    "kod": "05-190",
+    "poczta": "Nasielsk\r"
+  }
+]

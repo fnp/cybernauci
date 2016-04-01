@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3494",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "973",
+    "miejscowosc": "\u017b\u00f3\u0142ta\u0144ce-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Metalowa",
+    "numer": "89",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  },
+  {
+    "id": "3495",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "973",
+    "miejscowosc": "\u017b\u00f3\u0142ta\u0144ce-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Metalowa",
+    "numer": "89",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  }
+]

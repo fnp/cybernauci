@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18741",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6647",
+    "miejscowosc": "Bukowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "75",
+    "kod": "64-300",
+    "poczta": "Nowy Tomy\u015bl\r"
+  },
+  {
+    "id": "18742",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6647",
+    "miejscowosc": "Bukowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "75",
+    "kod": "64-300",
+    "poczta": "Nowy Tomy\u015bl\r"
+  }
+]

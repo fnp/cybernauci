@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22448",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8120",
+    "miejscowosc": "Rzeczyca D\u0142uga",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Rzeczyca D\u0142uga",
+    "numer": "176",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  },
+  {
+    "id": "22449",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8120",
+    "miejscowosc": "Rzeczyca D\u0142uga",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rzeczyca D\u0142uga",
+    "numer": "176",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  }
+]

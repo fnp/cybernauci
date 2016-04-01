@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6125",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2185",
+    "miejscowosc": "Mystk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w Zespole Szk\u00f3\u0142 Podstawowo-Gimnazjalnych",
+    "ulica": "Mystk\u00f3w",
+    "numer": "208",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6126",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2185",
+    "miejscowosc": "Mystk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Podstawowo-Gimnazjalnych",
+    "ulica": "Mystk\u00f3w",
+    "numer": "208",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  }
+]

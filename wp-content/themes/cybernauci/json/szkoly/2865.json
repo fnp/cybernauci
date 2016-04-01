@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8060",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2865",
+    "miejscowosc": "Kostom\u0142oty Drugie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kielecka",
+    "numer": "9",
+    "kod": "26-085",
+    "poczta": "Miedziana G\u00f3ra\r"
+  },
+  {
+    "id": "8061",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2865",
+    "miejscowosc": "Kostom\u0142oty Drugie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kielecka",
+    "numer": "9",
+    "kod": "26-085",
+    "poczta": "Miedziana G\u00f3ra\r"
+  }
+]

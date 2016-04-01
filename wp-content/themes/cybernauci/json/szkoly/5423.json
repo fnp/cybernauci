@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15326",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5423",
+    "miejscowosc": "Gaworzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "211",
+    "kod": "59-180",
+    "poczta": "Gaworzyce\r"
+  },
+  {
+    "id": "15327",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5423",
+    "miejscowosc": "Gaworzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "211",
+    "kod": "59-180",
+    "poczta": "Gaworzyce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9434",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3432",
+    "miejscowosc": "Krokowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "84-110",
+    "poczta": "Krokowa\r"
+  },
+  {
+    "id": "9428",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3432",
+    "miejscowosc": "Krokowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "84-110",
+    "poczta": "Krokowa\r"
+  }
+]

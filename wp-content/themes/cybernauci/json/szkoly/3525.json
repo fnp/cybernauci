@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9607",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3525",
+    "miejscowosc": "Kokoszkowy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "24",
+    "kod": "83-207",
+    "poczta": "Kokoszkowy\r"
+  },
+  {
+    "id": "9608",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3525",
+    "miejscowosc": "Kokoszkowy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "24",
+    "kod": "83-207",
+    "poczta": "Kokoszkowy\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1349",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "596",
+    "miejscowosc": "Lgota G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "1350",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "596",
+    "miejscowosc": "Lgota G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "553",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "34",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "551",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Kr\u00f3la Jana Kazimierza",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "10",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "547",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "548",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Henryka Sienkiewicza",
+    "ulica": "Sobieskiego",
+    "numer": "6",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "552",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Batorego",
+    "numer": "2",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "554",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "34",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  },
+  {
+    "id": "555",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "279",
+    "miejscowosc": "G\u0142og\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "34",
+    "kod": "48-250",
+    "poczta": "G\u0142og\u00f3wek\r"
+  }
+]

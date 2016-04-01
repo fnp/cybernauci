@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7012",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2589",
+    "miejscowosc": "Sierockie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sierockie",
+    "numer": "90b",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  },
+  {
+    "id": "7013",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2589",
+    "miejscowosc": "Sierockie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sierockie",
+    "numer": "90b",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  }
+]

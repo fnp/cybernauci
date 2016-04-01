@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6143",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2198",
+    "miejscowosc": "Mogilno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mogilno",
+    "numer": "14",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  },
+  {
+    "id": "6144",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2198",
+    "miejscowosc": "Mogilno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mogilno",
+    "numer": "14",
+    "kod": "33-326",
+    "poczta": "Mogilno\r"
+  }
+]

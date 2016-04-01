@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9756",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3558",
+    "miejscowosc": "Kostkowo",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "ksi\u0119dza Galasa",
+    "numer": "1",
+    "kod": "84-252",
+    "poczta": "Zamostne\r"
+  },
+  {
+    "id": "9757",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3558",
+    "miejscowosc": "Kostkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum im. Ks. Stanis\u0142awa Galasa",
+    "ulica": "ksi\u0119dza Galasa",
+    "numer": "1",
+    "kod": "84-252",
+    "poczta": "Zamostne\r"
+  }
+]

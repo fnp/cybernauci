@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14150",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5131",
+    "miejscowosc": "Sm\u00f3lnik",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 z Oddzia\u0142ami Integracyjnymi Gimnazjum",
+    "ulica": "Sm\u00f3lnik",
+    "numer": "17A",
+    "kod": "87-815",
+    "poczta": "Sm\u00f3lnik\r"
+  },
+  {
+    "id": "14151",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5131",
+    "miejscowosc": "Sm\u00f3lnik",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 z Oddzia\u0142ami Integracyjnymi Szko\u0142a Podstawowa",
+    "ulica": "Sm\u00f3lnik",
+    "numer": "17A",
+    "kod": "87-815",
+    "poczta": "Sm\u00f3lnik\r"
+  }
+]

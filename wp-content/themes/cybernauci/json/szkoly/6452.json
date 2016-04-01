@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19390",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6452",
+    "miejscowosc": "Che\u0142mno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Che\u0142mno",
+    "numer": "26",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "18376",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6452",
+    "miejscowosc": "Che\u0142mno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Che\u0142mno",
+    "numer": "89B",
+    "kod": "62-660",
+    "poczta": "D\u0105bie\r"
+  }
+]

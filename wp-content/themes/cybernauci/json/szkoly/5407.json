@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15294",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5407",
+    "miejscowosc": "Wierzbno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Wierzbno",
+    "numer": "84",
+    "kod": "55-217",
+    "poczta": "Wierzbno\r"
+  },
+  {
+    "id": "15295",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5407",
+    "miejscowosc": "Wierzbno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Wierzbno",
+    "numer": "84",
+    "kod": "55-217",
+    "poczta": "Wierzbno\r"
+  }
+]

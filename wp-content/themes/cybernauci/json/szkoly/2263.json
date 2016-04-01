@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6251",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J. S\u0142owackiego ",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "23",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6253",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "15",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6250",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Cesarczyka",
+    "numer": "2",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6252",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "15",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6247",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "59",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6254",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "15",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  },
+  {
+    "id": "6255",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2263",
+    "miejscowosc": "Stary S\u0105cz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Daszy\u0144skiego",
+    "numer": "15",
+    "kod": "33-340",
+    "poczta": "Stary S\u0105cz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21714",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7770",
+    "miejscowosc": "Kraczkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kraczkowa",
+    "numer": "311",
+    "kod": "37-124",
+    "poczta": "Kraczkowa\r"
+  },
+  {
+    "id": "21715",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7770",
+    "miejscowosc": "Kraczkowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kraczkowa",
+    "numer": "311",
+    "kod": "37-124",
+    "poczta": "Kraczkowa\r"
+  }
+]

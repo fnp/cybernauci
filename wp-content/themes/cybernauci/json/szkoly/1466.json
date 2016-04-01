@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4440",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1466",
+    "miejscowosc": "Brzozowica Du\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Brzozowica Du\u017ca",
+    "numer": "83",
+    "kod": "21-302",
+    "poczta": "K\u0105kolewnica\r"
+  },
+  {
+    "id": "4441",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1466",
+    "miejscowosc": "Brzozowica Du\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Brzozowica Du\u017ca",
+    "numer": "83",
+    "kod": "21-302",
+    "poczta": "K\u0105kolewnica\r"
+  }
+]

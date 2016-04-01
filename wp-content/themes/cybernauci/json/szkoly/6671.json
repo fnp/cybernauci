@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18801",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6671",
+    "miejscowosc": "Parkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Parkowo",
+    "numer": "6",
+    "kod": "64-608",
+    "poczta": "Parkowo\r"
+  },
+  {
+    "id": "18802",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6671",
+    "miejscowosc": "Parkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Parkowo",
+    "numer": "6",
+    "kod": "64-608",
+    "poczta": "Parkowo\r"
+  }
+]

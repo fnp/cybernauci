@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14013",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5062",
+    "miejscowosc": "Gostycyn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "S\u0119pole\u0144ska",
+    "numer": "12a",
+    "kod": "89-520",
+    "poczta": "Gostycyn\r"
+  },
+  {
+    "id": "14014",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5062",
+    "miejscowosc": "Gostycyn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "S\u0119pole\u0144ska",
+    "numer": "12a",
+    "kod": "89-520",
+    "poczta": "Gostycyn\r"
+  }
+]

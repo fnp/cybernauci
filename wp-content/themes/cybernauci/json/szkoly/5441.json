@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15368",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5441",
+    "miejscowosc": "Lud\u00f3w Polski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Lud\u00f3w Polski",
+    "numer": "16",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15369",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5441",
+    "miejscowosc": "Lud\u00f3w Polski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Lud\u00f3w Polski",
+    "numer": "16",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  }
+]

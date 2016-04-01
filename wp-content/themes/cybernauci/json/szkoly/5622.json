@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15827",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5622",
+    "miejscowosc": "Zagrodno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zagrodno",
+    "numer": "135",
+    "kod": "59-516",
+    "poczta": "Zagrodno\r"
+  },
+  {
+    "id": "15828",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5622",
+    "miejscowosc": "Zagrodno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zagrodno",
+    "numer": "181a",
+    "kod": "59-516",
+    "poczta": "Zagrodno\r"
+  }
+]

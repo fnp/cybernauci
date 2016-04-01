@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11205",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3968",
+    "miejscowosc": "Mosty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Mosty",
+    "numer": "4",
+    "kod": "72-132",
+    "poczta": "Mosty\r"
+  },
+  {
+    "id": "11206",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3968",
+    "miejscowosc": "Mosty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mosty",
+    "numer": "4",
+    "kod": "72-132",
+    "poczta": "Mosty\r"
+  }
+]

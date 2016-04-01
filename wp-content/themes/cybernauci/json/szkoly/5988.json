@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17018",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5988",
+    "miejscowosc": "Kalinowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kalinowa",
+    "numer": "86",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17010",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5988",
+    "miejscowosc": "Kalinowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Moniuszki",
+    "ulica": "Kalinowa",
+    "numer": "",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  }
+]

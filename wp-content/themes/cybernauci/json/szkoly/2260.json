@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6244",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2260",
+    "miejscowosc": "Rytro",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. J. Wo\u017aniackiego",
+    "ulica": "Rytro",
+    "numer": "99",
+    "kod": "33-343",
+    "poczta": "Rytro\r"
+  },
+  {
+    "id": "6243",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2260",
+    "miejscowosc": "Rytro",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Pawlika",
+    "ulica": "Rytro",
+    "numer": "8",
+    "kod": "33-343",
+    "poczta": "Rytro\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21828",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7822",
+    "miejscowosc": "Tusz\u00f3w Narodowy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tusz\u00f3w Narodowy",
+    "numer": "231",
+    "kod": "39-332",
+    "poczta": "Tusz\u00f3w Narodowy\r"
+  },
+  {
+    "id": "21826",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7822",
+    "miejscowosc": "Tusz\u00f3w Narodowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Tusz\u00f3w Narodowy",
+    "numer": "218",
+    "kod": "39-332",
+    "poczta": "Tusz\u00f3w Narodowy\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25138",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8522",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Jan\u00f3w",
+    "numer": "28a",
+    "kod": "26-706",
+    "poczta": "Tcz\u00f3w\r"
+  },
+  {
+    "id": "23511",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8522",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stra\u017cacka",
+    "numer": "18",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  },
+  {
+    "id": "24695",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8522",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jan\u00f3w",
+    "numer": "71 A",
+    "kod": "96-512",
+    "poczta": "M\u0142odzieszyn\r"
+  },
+  {
+    "id": "23512",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8522",
+    "miejscowosc": "Jan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. A. Tyszki ",
+    "ulica": "Stra\u017cacka",
+    "numer": "18",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  }
+]

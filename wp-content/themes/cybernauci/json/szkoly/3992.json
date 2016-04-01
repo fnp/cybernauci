@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11271",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3992",
+    "miejscowosc": "Karnice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "72-343",
+    "poczta": "Karnice\r"
+  },
+  {
+    "id": "11272",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3992",
+    "miejscowosc": "Karnice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "72-343",
+    "poczta": "Karnice\r"
+  }
+]

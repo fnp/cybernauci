@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1064",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "474",
+    "miejscowosc": "Kusi\u0119ta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kusi\u0119ta",
+    "numer": "208",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  },
+  {
+    "id": "1065",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "474",
+    "miejscowosc": "Kusi\u0119ta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kusi\u0119ta",
+    "numer": "208",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  }
+]

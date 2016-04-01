@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9793",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3583",
+    "miejscowosc": "Bojano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "J\u00f3zefa Wybickiego",
+    "numer": "38",
+    "kod": "84-207",
+    "poczta": "Koleczkowo\r"
+  },
+  {
+    "id": "9794",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3583",
+    "miejscowosc": "Bojano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "J\u00f3zefa Wybickiego",
+    "numer": "38",
+    "kod": "84-207",
+    "poczta": "Koleczkowo\r"
+  }
+]

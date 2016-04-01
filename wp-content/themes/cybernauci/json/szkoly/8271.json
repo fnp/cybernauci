@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22975",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8271",
+    "miejscowosc": "Mi\u0119tne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Rolniczych Centrum Kszta\u0142cenia Praktycznego i Centrum Kszta\u0142cenia Ustawicznego im. St. Staszica",
+    "ulica": "Gl\u00f3wna",
+    "numer": "49",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22976",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8271",
+    "miejscowosc": "Mi\u0119tne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Rolniczych Centrum Kszta\u0142cenia Praktycznego i Centrum Kszta\u0142cenia Ustawicznego im. St. Staszica",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "49",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  }
+]

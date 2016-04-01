@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16357",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5681",
+    "miejscowosc": "Go\u0142\u0119biewek Nowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "Go\u0142\u0119biewek Nowy",
+    "numer": "54",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  },
+  {
+    "id": "16358",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5681",
+    "miejscowosc": "Go\u0142\u0119biewek Nowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142 ",
+    "ulica": "Go\u0142\u0119biewek Nowy",
+    "numer": "54",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  }
+]

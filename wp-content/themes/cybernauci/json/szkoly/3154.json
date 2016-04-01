@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9599",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3154",
+    "miejscowosc": "D\u0105br\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Starogardzka",
+    "numer": "47",
+    "kod": "83-212",
+    "poczta": "Bobowo\r"
+  },
+  {
+    "id": "8795",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3154",
+    "miejscowosc": "D\u0105br\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Filialna przy Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0105br\u00f3wka",
+    "numer": "21",
+    "kod": "77-100",
+    "poczta": "Byt\u00f3w\r"
+  }
+]

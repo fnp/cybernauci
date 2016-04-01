@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4309",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1423",
+    "miejscowosc": "Sosnowica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wojska Polskiego",
+    "numer": "27",
+    "kod": "21-230",
+    "poczta": "Sosnowica\r"
+  },
+  {
+    "id": "4310",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1423",
+    "miejscowosc": "Sosnowica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. T. Ko\u015bciuszki ",
+    "ulica": "Wojska Polskiego",
+    "numer": "27",
+    "kod": "21-230",
+    "poczta": "Sosnowica\r"
+  }
+]

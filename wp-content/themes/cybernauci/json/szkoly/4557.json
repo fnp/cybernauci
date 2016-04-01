@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12857",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4557",
+    "miejscowosc": "Ma\u0142dyty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "13C",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  },
+  {
+    "id": "12855",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4557",
+    "miejscowosc": "Ma\u0142dyty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  }
+]

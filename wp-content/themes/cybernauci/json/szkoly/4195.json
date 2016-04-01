@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11764",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4195",
+    "miejscowosc": "\u0141ubowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zak\u0105tna",
+    "numer": "10",
+    "kod": "78-445",
+    "poczta": "\u0141ubowo\r"
+  },
+  {
+    "id": "11765",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4195",
+    "miejscowosc": "\u0141ubowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zak\u0105tna",
+    "numer": "10",
+    "kod": "78-445",
+    "poczta": "\u0141ubowo\r"
+  }
+]

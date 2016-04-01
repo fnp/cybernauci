@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23326",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8441",
+    "miejscowosc": "Ciepiel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. dr M. Papuzi\u0144skiego",
+    "ulica": "Lekarska",
+    "numer": "1",
+    "kod": "27-310",
+    "poczta": "Ciepiel\u00f3w\r"
+  },
+  {
+    "id": "23327",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8441",
+    "miejscowosc": "Ciepiel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Plac Zwyci\u0119stwa",
+    "numer": "37",
+    "kod": "27-310",
+    "poczta": "Ciepiel\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3421",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "926",
+    "miejscowosc": "Hedwi\u017cyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Hedwi\u017cyn",
+    "numer": "88B",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3422",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "926",
+    "miejscowosc": "Hedwi\u017cyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Hedwi\u017cyn",
+    "numer": "88B",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

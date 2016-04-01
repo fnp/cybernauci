@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23930",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8712",
+    "miejscowosc": "Sobienie-Jeziory",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Garwoli\u0144ska",
+    "numer": "12",
+    "kod": "08-443",
+    "poczta": "Sobienie Jeziory\r"
+  },
+  {
+    "id": "23929",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8712",
+    "miejscowosc": "Sobienie-Jeziory",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Garwoli\u0144ska",
+    "numer": "14",
+    "kod": "08-443",
+    "poczta": "Sobienie Jeziory\r"
+  }
+]

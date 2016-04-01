@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3621",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1048",
+    "miejscowosc": "Werbkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "17",
+    "kod": "22-550",
+    "poczta": "Werbkowice\r"
+  },
+  {
+    "id": "3622",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1048",
+    "miejscowosc": "Werbkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "17",
+    "kod": "22-550",
+    "poczta": "Werbkowice\r"
+  }
+]

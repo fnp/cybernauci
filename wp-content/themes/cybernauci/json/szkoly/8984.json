@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24515",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8984",
+    "miejscowosc": "Wierzbica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "\u017beromskiego",
+    "numer": "62",
+    "kod": "26-680",
+    "poczta": "Wierzbica\r"
+  },
+  {
+    "id": "24520",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8984",
+    "miejscowosc": "Wierzbica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wiatraczna",
+    "numer": "8",
+    "kod": "26-680",
+    "poczta": "Wierzbica\r"
+  }
+]

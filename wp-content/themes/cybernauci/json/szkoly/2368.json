@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6512",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2368",
+    "miejscowosc": "Jangrot",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Jangrot",
+    "numer": "83",
+    "kod": "32-353",
+    "poczta": "Trzyci\u0105\u017c\r"
+  },
+  {
+    "id": "6513",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2368",
+    "miejscowosc": "Jangrot",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Jangrot",
+    "numer": "83",
+    "kod": "32-353",
+    "poczta": "Trzyci\u0105\u017c\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11203",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3967",
+    "miejscowosc": "Kliniska Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Piastowska",
+    "numer": "11",
+    "kod": "72-123",
+    "poczta": "Kliniska Wielkie\r"
+  },
+  {
+    "id": "11204",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3967",
+    "miejscowosc": "Kliniska Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Piastowska",
+    "numer": "11",
+    "kod": "72-123",
+    "poczta": "Kliniska Wielkie\r"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6763",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Babiog\u00f3rskie Liceum Ekonomiki i Organizacji Turystyki",
+    "ulica": "Zawoja",
+    "numer": "1570",
+    "kod": "34-223",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6761",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Zawoja",
+    "numer": "1551",
+    "kod": "34-222",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6764",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Zawoja",
+    "numer": "1570",
+    "kod": "34-223",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6765",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zawoja",
+    "numer": "1570",
+    "kod": "34-223",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6758",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawoja",
+    "numer": "900",
+    "kod": "34-222",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6762",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Zawoja",
+    "numer": "1551",
+    "kod": "34-222",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6766",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Zawoja",
+    "numer": "1570",
+    "kod": "34-223",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6756",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 ",
+    "ulica": "Zawoja",
+    "numer": "886",
+    "kod": "34-222",
+    "poczta": "Zawoja\r"
+  },
+  {
+    "id": "6757",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2467",
+    "miejscowosc": "Zawoja",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Zawoja",
+    "numer": "35A",
+    "kod": "34-222",
+    "poczta": "Zawoja\r"
+  }
+]

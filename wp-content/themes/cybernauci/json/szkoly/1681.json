@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5138",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1681",
+    "miejscowosc": "Stanis\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stanis\u0142awice",
+    "numer": "346",
+    "kod": "32-015",
+    "poczta": "K\u0142aj\r"
+  },
+  {
+    "id": "5139",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1681",
+    "miejscowosc": "Stanis\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stanis\u0142awice",
+    "numer": "306",
+    "kod": "32-015",
+    "poczta": "K\u0142aj\r"
+  }
+]

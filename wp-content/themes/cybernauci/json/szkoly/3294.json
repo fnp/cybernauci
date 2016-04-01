@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9091",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3294",
+    "miejscowosc": "Pomieczyno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "Kartuska",
+    "numer": "14",
+    "kod": "83-305",
+    "poczta": "Pomieczyno\r"
+  },
+  {
+    "id": "9092",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3294",
+    "miejscowosc": "Pomieczyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142 ",
+    "ulica": "Kartuska",
+    "numer": "14",
+    "kod": "83-305",
+    "poczta": "Pomieczyno\r"
+  }
+]

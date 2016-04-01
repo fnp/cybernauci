@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9026",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3256",
+    "miejscowosc": "\u0141\u0119gowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "83-031",
+    "poczta": "\u0141\u0119gowo\r"
+  },
+  {
+    "id": "9027",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3256",
+    "miejscowosc": "\u0141\u0119gowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "83-031",
+    "poczta": "\u0141\u0119gowo\r"
+  },
+  {
+    "id": "9023",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3256",
+    "miejscowosc": "\u0141\u0119gowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rataja",
+    "numer": "12",
+    "kod": "83-031",
+    "poczta": "\u0141\u0119gowo\r"
+  },
+  {
+    "id": "9024",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3256",
+    "miejscowosc": "\u0141\u0119gowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rataja",
+    "numer": "12",
+    "kod": "83-031",
+    "poczta": "\u0141\u0119gowo\r"
+  }
+]

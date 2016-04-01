@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14152",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4730",
+    "miejscowosc": "Kruszyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "87-853",
+    "poczta": "Kruszyn\r"
+  },
+  {
+    "id": "14153",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4730",
+    "miejscowosc": "Kruszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "87-853",
+    "poczta": "Kruszyn\r"
+  },
+  {
+    "id": "13339",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4730",
+    "miejscowosc": "Kruszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "86-014",
+    "poczta": "Sicienko\r"
+  }
+]

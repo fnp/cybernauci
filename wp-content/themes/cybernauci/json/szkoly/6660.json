@@ -1,0 +1,122 @@
+[
+  {
+    "id": "18785",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Obrzycka",
+    "numer": "88",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18775",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 im. Miko\u0142aja Kopernika ",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "28",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18777",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Adama Mickiewicza",
+    "numer": "3",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18774",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Polsko-Angielska Szko\u0142a Podstawowa im. Johna Deweya",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "62a",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18776",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum Nr 1 ",
+    "ulica": "Adama Mickiewicza",
+    "numer": "3",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18771",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Wojska Polskiego",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18772",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Czarnkowska",
+    "numer": "57",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18786",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Obrzycka",
+    "numer": "88",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18790",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "ks. Szyma\u0144skiego",
+    "numer": "5",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18791",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6660",
+    "miejscowosc": "Oborniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "ks. Szyma\u0144skiego",
+    "numer": "5",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5600",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1913",
+    "miejscowosc": "Luborzyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Luborzyca",
+    "numer": "98",
+    "kod": "32-010",
+    "poczta": "Luborzyca\r"
+  },
+  {
+    "id": "5595",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1913",
+    "miejscowosc": "Luborzyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 600-lecia UJ",
+    "ulica": "Luborzyca",
+    "numer": "",
+    "kod": "32-010",
+    "poczta": "Luborzyca\r"
+  }
+]

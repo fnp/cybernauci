@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11623",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4142",
+    "miejscowosc": "D\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 im. Ratownik\u00f3w Morskich ",
+    "ulica": "Dar\u0142owska",
+    "numer": "6",
+    "kod": "76-156",
+    "poczta": "D\u0105bki\r"
+  },
+  {
+    "id": "11624",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4142",
+    "miejscowosc": "D\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ratownik\u00f3w Morskich ",
+    "ulica": "Dar\u0142owska",
+    "numer": "6",
+    "kod": "76-156",
+    "poczta": "D\u0105bki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23513",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8523",
+    "miejscowosc": "Cielechowizna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Osadnicza",
+    "numer": "1a",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  },
+  {
+    "id": "23514",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8523",
+    "miejscowosc": "Cielechowizna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Osadnicza",
+    "numer": "1a",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  }
+]

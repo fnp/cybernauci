@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13323",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4721",
+    "miejscowosc": "Wtelno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Wtelno",
+    "numer": "165",
+    "kod": "86-011",
+    "poczta": "Wtelno\r"
+  },
+  {
+    "id": "13324",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4721",
+    "miejscowosc": "Wtelno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "86-011",
+    "poczta": "Wtelno\r"
+  }
+]

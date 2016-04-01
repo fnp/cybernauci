@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20375",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7201",
+    "miejscowosc": "Niedoradz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Marii Markiewiczowej",
+    "numer": "7",
+    "kod": "67-106",
+    "poczta": "Oty\u0144\r"
+  },
+  {
+    "id": "20376",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7201",
+    "miejscowosc": "Niedoradz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Marii Markiewiczowej",
+    "numer": "7",
+    "kod": "67-106",
+    "poczta": "Oty\u0144\r"
+  }
+]

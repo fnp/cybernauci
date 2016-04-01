@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16962",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5974",
+    "miejscowosc": "Ciel\u0105dz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. O .pp\u0142k. F. Mientkiego",
+    "ulica": "Ciel\u0105dz",
+    "numer": "38",
+    "kod": "96-214",
+    "poczta": "Ciel\u0105dz\r"
+  },
+  {
+    "id": "16963",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5974",
+    "miejscowosc": "Ciel\u0105dz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. O. pp\u0142k. F. Mientkiego",
+    "ulica": "Ciel\u0105dz",
+    "numer": "38",
+    "kod": "96-214",
+    "poczta": "Ciel\u0105dz\r"
+  }
+]

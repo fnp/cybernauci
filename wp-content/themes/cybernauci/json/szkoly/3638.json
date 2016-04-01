@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10297",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3638",
+    "miejscowosc": "Czarna Bia\u0142ostocka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Boles\u0142awa Prusa",
+    "numer": "1",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10298",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3638",
+    "miejscowosc": "Czarna Bia\u0142ostocka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Sienkiewicza",
+    "numer": "7",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10296",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3638",
+    "miejscowosc": "Czarna Bia\u0142ostocka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Romualda Traugutta",
+    "ulica": "Traugutta",
+    "numer": "28",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  },
+  {
+    "id": "10299",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3638",
+    "miejscowosc": "Czarna Bia\u0142ostocka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Sienkiewicza",
+    "numer": "7",
+    "kod": "16-020",
+    "poczta": "Czarna Bia\u0142ostocka\r"
+  }
+]

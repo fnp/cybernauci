@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5886",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2071",
+    "miejscowosc": "S\u0142opnice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "S\u0142opnice",
+    "numer": "732",
+    "kod": "34-615",
+    "poczta": "S\u0142opnice\r"
+  },
+  {
+    "id": "5887",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2071",
+    "miejscowosc": "S\u0142opnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "S\u0142opnice",
+    "numer": "732",
+    "kod": "34-615",
+    "poczta": "S\u0142opnice\r"
+  },
+  {
+    "id": "5888",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2071",
+    "miejscowosc": "S\u0142opnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 Filia",
+    "ulica": "S\u0142opnice",
+    "numer": "731",
+    "kod": "34-615",
+    "poczta": "S\u0142opnice\r"
+  },
+  {
+    "id": "5889",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2071",
+    "miejscowosc": "S\u0142opnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "S\u0142opnice",
+    "numer": "336",
+    "kod": "34-615",
+    "poczta": "S\u0142opnice\r"
+  },
+  {
+    "id": "5885",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2071",
+    "miejscowosc": "S\u0142opnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 ",
+    "ulica": "S\u0142opnice",
+    "numer": "363",
+    "kod": "34-615",
+    "poczta": "S\u0142opnice\r"
+  }
+]

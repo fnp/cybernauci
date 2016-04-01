@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21096",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7463",
+    "miejscowosc": "Machowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Machowa",
+    "numer": "75",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21097",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7463",
+    "miejscowosc": "Machowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Machowa",
+    "numer": "75",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  }
+]

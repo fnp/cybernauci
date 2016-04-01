@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13277",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4696",
+    "miejscowosc": "\u015awiedziebnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awiedziebnia",
+    "numer": "51A",
+    "kod": "87-335",
+    "poczta": "\u015awiedziebnia\r"
+  },
+  {
+    "id": "13274",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4696",
+    "miejscowosc": "\u015awiedziebnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awiedziebnia",
+    "numer": "51",
+    "kod": "87-335",
+    "poczta": "\u015awiedziebnia\r"
+  }
+]

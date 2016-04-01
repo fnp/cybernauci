@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13219",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4665",
+    "miejscowosc": "Brudnowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brudnowo",
+    "numer": "25",
+    "kod": "87-731",
+    "poczta": "Waganiec\r"
+  },
+  {
+    "id": "13220",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4665",
+    "miejscowosc": "Brudnowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brudnowo",
+    "numer": "25",
+    "kod": "87-731",
+    "poczta": "Waganiec\r"
+  }
+]

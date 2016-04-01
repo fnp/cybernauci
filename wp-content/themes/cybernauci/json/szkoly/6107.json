@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17227",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6107",
+    "miejscowosc": "P\u0105tn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0105tn\u00f3w",
+    "numer": "105",
+    "kod": "98-335",
+    "poczta": "P\u0105tn\u00f3w\r"
+  },
+  {
+    "id": "17228",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6107",
+    "miejscowosc": "P\u0105tn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0105tn\u00f3w",
+    "numer": "105",
+    "kod": "98-335",
+    "poczta": "P\u0105tn\u00f3w\r"
+  }
+]

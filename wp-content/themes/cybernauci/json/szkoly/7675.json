@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21519",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7675",
+    "miejscowosc": "Targowiska",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "ks. Macieja Suchodolskiego",
+    "numer": "38",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  },
+  {
+    "id": "21511",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7675",
+    "miejscowosc": "Targowiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Filialna Szko\u0142y Podstawowej im. \u015bw. Jana Kantego",
+    "ulica": "Targowiska",
+    "numer": "120",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  },
+  {
+    "id": "21515",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7675",
+    "miejscowosc": "Targowiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "38",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  },
+  {
+    "id": "21510",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7675",
+    "miejscowosc": "Targowiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jana Kantego",
+    "ulica": "ks. Suchodolskiego",
+    "numer": "38",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16575",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5784",
+    "miejscowosc": "Bia\u0142acz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stanis\u0142awa Ma\u0142achowskiego",
+    "ulica": "Szkolna",
+    "numer": "36",
+    "kod": "26-307",
+    "poczta": "Bia\u0142acz\u00f3w\r"
+  },
+  {
+    "id": "16572",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5784",
+    "miejscowosc": "Bia\u0142acz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza ",
+    "ulica": "Szkolna",
+    "numer": "36",
+    "kod": "26-307",
+    "poczta": "Bia\u0142acz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5581",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1902",
+    "miejscowosc": "Sieciechowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Szarych Szereg\u00f3w",
+    "ulica": "Sieciechowice",
+    "numer": "105",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  },
+  {
+    "id": "5577",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1902",
+    "miejscowosc": "Sieciechowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Szarych Szereg\u00f3w",
+    "ulica": "Sieciechowice",
+    "numer": "105",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  }
+]

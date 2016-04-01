@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5269",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1753",
+    "miejscowosc": "Sufczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sufczyn",
+    "numer": "250",
+    "kod": "32-852",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "5270",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1753",
+    "miejscowosc": "Sufczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sufczyn",
+    "numer": "250",
+    "kod": "32-852",
+    "poczta": "D\u0119bno\r"
+  }
+]

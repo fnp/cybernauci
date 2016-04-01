@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4075",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Kr\u00f3la Boles\u0142awa Chrobrego",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "12",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4083",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Ja\u015bminowa",
+    "numer": "6",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4077",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Zamoyskiego",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4072",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Szkolna",
+    "numer": "53",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4084",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Ja\u015bminowa",
+    "numer": "6",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4081",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bogdanowicza",
+    "numer": "9",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4079",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Elektryczne",
+    "ulica": "Bogdanowicza",
+    "numer": "9",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4080",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum G\u00f3rnicze",
+    "ulica": "Bogdanowicza",
+    "numer": "9",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4078",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Trzyletnie Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Stowarzyszenia \"Szansa\"",
+    "ulica": "Ja\u015bminowa",
+    "numer": "6",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4082",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1294",
+    "miejscowosc": "\u0141\u0119czna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bogdanowicza",
+    "numer": "9",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3619",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1047",
+    "miejscowosc": "Sahry\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Sahry\u0144",
+    "numer": "62",
+    "kod": "22-546",
+    "poczta": "Turkowice\r"
+  },
+  {
+    "id": "3620",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1047",
+    "miejscowosc": "Sahry\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sahry\u0144",
+    "numer": "62",
+    "kod": "22-546",
+    "poczta": "Turkowice\r"
+  }
+]

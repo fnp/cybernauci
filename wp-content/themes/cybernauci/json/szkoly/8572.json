@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23644",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8572",
+    "miejscowosc": "Cz\u0105stk\u00f3w Mazowiecki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Cz\u0105stk\u00f3w Mazowiecki",
+    "numer": "55",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23645",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8572",
+    "miejscowosc": "Cz\u0105stk\u00f3w Mazowiecki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0105stk\u00f3w Mazowiecki",
+    "numer": "55",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

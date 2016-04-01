@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5148",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1687",
+    "miejscowosc": "Grobla",
+    "typ": "podstawowa",
+    "nazwa": "PUBLICZNA SZKO\u0141A PODSTAWOWA",
+    "ulica": "Grobla",
+    "numer": "134",
+    "kod": "32-709",
+    "poczta": "Drwinia\r"
+  },
+  {
+    "id": "5149",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1687",
+    "miejscowosc": "Grobla",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 ",
+    "ulica": "Grobla",
+    "numer": "134",
+    "kod": "32-709",
+    "poczta": "Drwinia\r"
+  }
+]

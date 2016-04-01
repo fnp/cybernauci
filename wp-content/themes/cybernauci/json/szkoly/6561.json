@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18561",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6561",
+    "miejscowosc": "Jerka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  },
+  {
+    "id": "18562",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6561",
+    "miejscowosc": "Jerka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  }
+]

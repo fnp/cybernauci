@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5159",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1695",
+    "miejscowosc": "Grabie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Grabie",
+    "numer": "60",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  },
+  {
+    "id": "7250",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1695",
+    "miejscowosc": "Grabie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Macieja Szarka ",
+    "ulica": "Grabie",
+    "numer": "2",
+    "kod": "32-002",
+    "poczta": "W\u0119grzce Wielkie\r"
+  }
+]

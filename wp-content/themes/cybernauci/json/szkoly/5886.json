@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16772",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5886",
+    "miejscowosc": "Moszczenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Piotrkowska",
+    "numer": "13",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  },
+  {
+    "id": "16769",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5886",
+    "miejscowosc": "Moszczenica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  }
+]

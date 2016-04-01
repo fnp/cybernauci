@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10531",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3754",
+    "miejscowosc": "Jedwabne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mickiewicza",
+    "numer": "2",
+    "kod": "18-420",
+    "poczta": "Jedwabne\r"
+  },
+  {
+    "id": "10532",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3754",
+    "miejscowosc": "Jedwabne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Mickiewicza",
+    "numer": "2",
+    "kod": "18-420",
+    "poczta": "Jedwabne\r"
+  },
+  {
+    "id": "10529",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3754",
+    "miejscowosc": "Jedwabne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "17",
+    "kod": "18-420",
+    "poczta": "Jedwabne\r"
+  },
+  {
+    "id": "10533",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3754",
+    "miejscowosc": "Jedwabne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Mickiewicza",
+    "numer": "2",
+    "kod": "18-420",
+    "poczta": "Jedwabne\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "16795",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Konecka",
+    "numer": "45",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  },
+  {
+    "id": "16796",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Milejowska",
+    "numer": "21",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  },
+  {
+    "id": "16788",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II ",
+    "ulica": "Konecka",
+    "numer": "45",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  },
+  {
+    "id": "16789",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Rycerska",
+    "numer": "10",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  },
+  {
+    "id": "16797",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Milejowska",
+    "numer": "21",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  },
+  {
+    "id": "16798",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5899",
+    "miejscowosc": "Sulej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Milejowska",
+    "numer": "21",
+    "kod": "97-330",
+    "poczta": "Sulej\u00f3w\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "299",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolonia Kaszubska",
+    "numer": "2",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "298",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Boles\u0142awa Chrobrego",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "10",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "283",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Krzysztofa Kamila Baczy\u0144skiego",
+    "ulica": "M. C. Sk\u0142odowskiej",
+    "numer": "9",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "284",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 im. J\u00f3zefa Wybickiego",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "9",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "295",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Kraszewskiego",
+    "numer": "30",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "296",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "S\u0142owackiego",
+    "numer": "1",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "300",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kolonia Kaszubska",
+    "numer": "2",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  },
+  {
+    "id": "301",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "133",
+    "miejscowosc": "G\u0142ucho\u0142azy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kolonia Kaszubska",
+    "numer": "2",
+    "kod": "48-340",
+    "poczta": "G\u0142ucho\u0142azy\r"
+  }
+]

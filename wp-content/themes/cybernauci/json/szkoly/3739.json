@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10510",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3739",
+    "miejscowosc": "Zabiele",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zabiele",
+    "numer": "110",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10511",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3739",
+    "miejscowosc": "Zabiele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zabiele",
+    "numer": "110",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  }
+]

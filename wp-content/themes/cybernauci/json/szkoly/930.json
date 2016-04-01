@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3427",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "930",
+    "miejscowosc": "Biszcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Biszcza",
+    "numer": "228",
+    "kod": "23-425",
+    "poczta": "Biszcza\r"
+  },
+  {
+    "id": "3428",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "930",
+    "miejscowosc": "Biszcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biszcza",
+    "numer": "228",
+    "kod": "23-425",
+    "poczta": "Biszcza\r"
+  }
+]

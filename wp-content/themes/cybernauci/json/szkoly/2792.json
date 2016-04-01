@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7941",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2792",
+    "miejscowosc": "Wielgus",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Samorz\u0105dowe",
+    "ulica": "Wielgus",
+    "numer": "59",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7942",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2792",
+    "miejscowosc": "Wielgus",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Wielgus",
+    "numer": "59",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  }
+]

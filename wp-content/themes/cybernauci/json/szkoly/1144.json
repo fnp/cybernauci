@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3824",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1144",
+    "miejscowosc": "Wilko\u0142az Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wilko\u0142az Pierwszy",
+    "numer": "7",
+    "kod": "23-212",
+    "poczta": "Wilko\u0142az\r"
+  },
+  {
+    "id": "3825",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1144",
+    "miejscowosc": "Wilko\u0142az Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilko\u0142az Pierwszy",
+    "numer": "7",
+    "kod": "23-212",
+    "poczta": "Wilko\u0142az\r"
+  }
+]

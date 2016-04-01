@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1273",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "580",
+    "miejscowosc": "Wo\u017aniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Florianek",
+    "numer": "18A",
+    "kod": "42-289",
+    "poczta": "Wo\u017aniki\r"
+  },
+  {
+    "id": "1270",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "580",
+    "miejscowosc": "Wo\u017aniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "42-289",
+    "poczta": "Wo\u017aniki\r"
+  },
+  {
+    "id": "1268",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "580",
+    "miejscowosc": "Wo\u017aniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Lompy",
+    "ulica": "Powsta\u0144c\u00f3w \u015al.",
+    "numer": "7",
+    "kod": "42-289",
+    "poczta": "Wo\u017aniki\r"
+  }
+]

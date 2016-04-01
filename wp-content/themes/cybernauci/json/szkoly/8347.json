@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23134",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8347",
+    "miejscowosc": "Belsk Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-622",
+    "poczta": "Belsk Du\u017cy\r"
+  },
+  {
+    "id": "23138",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8347",
+    "miejscowosc": "Belsk Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-622",
+    "poczta": "Belsk Du\u017cy\r"
+  }
+]

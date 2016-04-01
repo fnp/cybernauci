@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14814",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5217",
+    "miejscowosc": "Jemielno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jemielno",
+    "numer": "41 A",
+    "kod": "56-509",
+    "poczta": "Jemielno\r"
+  },
+  {
+    "id": "14815",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5217",
+    "miejscowosc": "Jemielno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jemielno",
+    "numer": "41 A",
+    "kod": "56-509",
+    "poczta": "Jemielno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23619",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8563",
+    "miejscowosc": "Wieczfnia Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Wieczfnia Ko\u015bcielna",
+    "numer": "56 C",
+    "kod": "06-513",
+    "poczta": "Wieczfnia Ko\u015bcielna\r"
+  },
+  {
+    "id": "23620",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8563",
+    "miejscowosc": "Wieczfnia Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Wieczfnia Ko\u015bcielna",
+    "numer": "56 C",
+    "kod": "06-513",
+    "poczta": "Wieczfnia Ko\u015bcielna\r"
+  }
+]

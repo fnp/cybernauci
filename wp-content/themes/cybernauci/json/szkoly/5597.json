@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15779",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5597",
+    "miejscowosc": "Poraj\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi im. Jana III Sobieskiego",
+    "ulica": "G\u00f3rnicza",
+    "numer": "1 c",
+    "kod": "59-921",
+    "poczta": "Sieniawka\r"
+  },
+  {
+    "id": "15780",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5597",
+    "miejscowosc": "Poraj\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi im. Jana III Sobieskiego",
+    "ulica": "G\u00f3rnicza",
+    "numer": "1 c",
+    "kod": "59-921",
+    "poczta": "Sieniawka\r"
+  }
+]

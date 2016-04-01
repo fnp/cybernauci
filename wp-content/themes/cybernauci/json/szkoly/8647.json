@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23784",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8647",
+    "miejscowosc": "Laskowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mazurska",
+    "numer": "28",
+    "kod": "07-401",
+    "poczta": "Ostro\u0142\u0119ka\r"
+  },
+  {
+    "id": "23781",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8647",
+    "miejscowosc": "Laskowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ksi\u0119dza Antoniego P\u0119ksy",
+    "ulica": "D\u0142uga",
+    "numer": "90",
+    "kod": "07-401",
+    "poczta": "Ostro\u0142\u0119ka\r"
+  },
+  {
+    "id": "23785",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8647",
+    "miejscowosc": "Laskowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Mazurska",
+    "numer": "28",
+    "kod": "07-401",
+    "poczta": "Ostro\u0142\u0119ka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1502",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "658",
+    "miejscowosc": "Bie\u0144kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "47-451",
+    "poczta": "Twork\u00f3w\r"
+  },
+  {
+    "id": "1503",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "658",
+    "miejscowosc": "Bie\u0144kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "47-451",
+    "poczta": "Twork\u00f3w\r"
+  }
+]

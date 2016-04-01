@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7921",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2780",
+    "miejscowosc": "Wodzis\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "28-330",
+    "poczta": "Wodzis\u0142aw\r"
+  },
+  {
+    "id": "7923",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2780",
+    "miejscowosc": "Wodzis\u0142aw",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Konopnickiej ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "28-330",
+    "poczta": "Wodzis\u0142aw\r"
+  },
+  {
+    "id": "7922",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2780",
+    "miejscowosc": "Wodzis\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "28-330",
+    "poczta": "Wodzis\u0142aw\r"
+  }
+]

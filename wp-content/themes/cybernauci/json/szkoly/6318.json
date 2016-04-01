@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18664",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6318",
+    "miejscowosc": "K\u0105kolewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Krzywi\u0144ska",
+    "numer": "14",
+    "kod": "64-113",
+    "poczta": "Osieczna\r"
+  },
+  {
+    "id": "18665",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6318",
+    "miejscowosc": "K\u0105kolewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzywi\u0144ska",
+    "numer": "14",
+    "kod": "64-113",
+    "poczta": "Osieczna\r"
+  },
+  {
+    "id": "18125",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6318",
+    "miejscowosc": "K\u0105kolewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Andrzeja Grubby",
+    "ulica": "K\u0105kolewo",
+    "numer": "64",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  }
+]

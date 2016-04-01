@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11454",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4072",
+    "miejscowosc": "Bobolice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Agaty Mr\u00f3z-Olszewskiej",
+    "ulica": "G\u0142owackiego",
+    "numer": "7 D",
+    "kod": "76-020",
+    "poczta": "Bobolice\r"
+  },
+  {
+    "id": "11455",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4072",
+    "miejscowosc": "Bobolice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Nauta\"",
+    "ulica": "G\u0142owackiego",
+    "numer": "7D",
+    "kod": "76-020",
+    "poczta": "Bobolice\r"
+  },
+  {
+    "id": "11450",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4072",
+    "miejscowosc": "Bobolice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "76-020",
+    "poczta": "Bobolice\r"
+  }
+]

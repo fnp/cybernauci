@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5481",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Boh. Bobowa",
+    "numer": "6",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  },
+  {
+    "id": "5484",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "D\u0142ugoszowskich",
+    "numer": "1",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  },
+  {
+    "id": "5475",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Boh. Bobowa",
+    "numer": "6",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  },
+  {
+    "id": "5485",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "D\u0142ugoszowskich",
+    "numer": "1",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  },
+  {
+    "id": "5486",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Grunwaldzka",
+    "numer": "10",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  },
+  {
+    "id": "5487",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1843",
+    "miejscowosc": "Bobowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Grunwaldzka",
+    "numer": "10",
+    "kod": "38-350",
+    "poczta": "Bobowa\r"
+  }
+]

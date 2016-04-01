@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23934",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8713",
+    "miejscowosc": "Glinianka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi im. Jana Paw\u0142a II",
+    "ulica": "Napoleo\u0144ska",
+    "numer": "53a",
+    "kod": "05-408",
+    "poczta": "Glinianka\r"
+  },
+  {
+    "id": "23931",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8713",
+    "miejscowosc": "Glinianka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Witosa",
+    "ulica": "Napoleo\u0144ska",
+    "numer": "1",
+    "kod": "05-408",
+    "poczta": "Glinianka\r"
+  }
+]

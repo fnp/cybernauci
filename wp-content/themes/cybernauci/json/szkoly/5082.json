@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14060",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5082",
+    "miejscowosc": "D\u0119bowa \u0141\u0105ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0119bowa \u0141\u0105ka",
+    "numer": "127",
+    "kod": "87-207",
+    "poczta": "D\u0119bowa \u0141\u0105ka\r"
+  },
+  {
+    "id": "14061",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5082",
+    "miejscowosc": "D\u0119bowa \u0141\u0105ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bowa \u0141\u0105ka",
+    "numer": "127",
+    "kod": "87-207",
+    "poczta": "D\u0119bowa \u0141\u0105ka\r"
+  }
+]

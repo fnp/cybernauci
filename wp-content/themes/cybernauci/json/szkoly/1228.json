@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3975",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1228",
+    "miejscowosc": "Jab\u0142onna Pierwsza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Jab\u0142onna Pierwsza",
+    "numer": "45",
+    "kod": "23-114",
+    "poczta": "Jab\u0142onna\r"
+  },
+  {
+    "id": "3977",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1228",
+    "miejscowosc": "Jab\u0142onna Pierwsza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jab\u0142onna Pierwsza",
+    "numer": "45",
+    "kod": "23-114",
+    "poczta": "Jab\u0142onna\r"
+  }
+]

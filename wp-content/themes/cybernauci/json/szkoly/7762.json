@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21698",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7762",
+    "miejscowosc": "Medynia \u0141a\u0144cucka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Medynia \u0141a\u0144cucka",
+    "numer": "105",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  },
+  {
+    "id": "21699",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7762",
+    "miejscowosc": "Medynia \u0141a\u0144cucka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Medynia \u0141a\u0144cucka",
+    "numer": "105",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  }
+]

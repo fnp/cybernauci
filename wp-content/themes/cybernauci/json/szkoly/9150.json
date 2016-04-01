@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24861",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9150",
+    "miejscowosc": "Stare Babice",
+    "typ": "podstawowa",
+    "nazwa": "BIG BEN Niepubliczna Polsko-Brytyjska Szko\u0142a Podstawowa",
+    "ulica": "Pohulanka",
+    "numer": "23",
+    "kod": "05-082",
+    "poczta": "Stare Babice\r"
+  },
+  {
+    "id": "24862",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9150",
+    "miejscowosc": "Stare Babice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa EduLab",
+    "ulica": "Polna",
+    "numer": "36B",
+    "kod": "05-082",
+    "poczta": "Stare Babice\r"
+  },
+  {
+    "id": "24860",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9150",
+    "miejscowosc": "Stare Babice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "40",
+    "kod": "05-082",
+    "poczta": "Stare Babice\r"
+  }
+]

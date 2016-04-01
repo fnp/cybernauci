@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23368",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8460",
+    "miejscowosc": "Niemojki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niemojki",
+    "numer": "157",
+    "kod": "08-200",
+    "poczta": "\u0141osice\r"
+  },
+  {
+    "id": "23369",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8460",
+    "miejscowosc": "Niemojki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Niemojki",
+    "numer": "157",
+    "kod": "08-200",
+    "poczta": "\u0141osice\r"
+  }
+]

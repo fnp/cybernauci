@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16774",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5889",
+    "miejscowosc": "Srock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "5",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  },
+  {
+    "id": "16775",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5889",
+    "miejscowosc": "Srock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "5",
+    "kod": "97-310",
+    "poczta": "Moszczenica\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4679",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1580",
+    "miejscowosc": "Tyszowce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Konfederacji Tyszowieckiej",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "22-630",
+    "poczta": "Tyszowce\r"
+  },
+  {
+    "id": "4680",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1580",
+    "miejscowosc": "Tyszowce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce przy Zespole Szk\u00f3\u0142 Nr 5",
+    "ulica": "Ko\u015bcielna",
+    "numer": "25",
+    "kod": "22-630",
+    "poczta": "Tyszowce\r"
+  },
+  {
+    "id": "4677",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1580",
+    "miejscowosc": "Tyszowce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "25",
+    "kod": "22-630",
+    "poczta": "Tyszowce\r"
+  }
+]

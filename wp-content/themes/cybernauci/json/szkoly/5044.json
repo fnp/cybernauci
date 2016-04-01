@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13984",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5044",
+    "miejscowosc": "Turzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "87-148",
+    "poczta": "\u0141ysomice\r"
+  },
+  {
+    "id": "13985",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5044",
+    "miejscowosc": "Turzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "87-148",
+    "poczta": "\u0141ysomice\r"
+  }
+]

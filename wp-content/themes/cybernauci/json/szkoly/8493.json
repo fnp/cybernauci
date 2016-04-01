@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23442",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8493",
+    "miejscowosc": "G\u0105sewo Poduchowne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Reymonta",
+    "numer": "12",
+    "kod": "06-213",
+    "poczta": "Sypniewo\r"
+  },
+  {
+    "id": "23443",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8493",
+    "miejscowosc": "G\u0105sewo Poduchowne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta",
+    "ulica": "Reymonta",
+    "numer": "12",
+    "kod": "06-213",
+    "poczta": "Sypniewo\r"
+  }
+]

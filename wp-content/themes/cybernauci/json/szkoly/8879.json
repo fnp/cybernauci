@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24333",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8879",
+    "miejscowosc": "Grabowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Grabowo",
+    "numer": "34a",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  },
+  {
+    "id": "24334",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8879",
+    "miejscowosc": "Grabowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grabowo",
+    "numer": "34a",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  }
+]

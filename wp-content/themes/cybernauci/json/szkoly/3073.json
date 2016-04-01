@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8546",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3073",
+    "miejscowosc": "Krynki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "27-230",
+    "poczta": "Brody\r"
+  },
+  {
+    "id": "8552",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3073",
+    "miejscowosc": "Krynki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "27-230",
+    "poczta": "Brody\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17182",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6077",
+    "miejscowosc": "Rzeczyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Kochanowskiego ",
+    "ulica": "Kitowicza",
+    "numer": "4",
+    "kod": "97-220",
+    "poczta": "Rzeczyca\r"
+  },
+  {
+    "id": "17179",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6077",
+    "miejscowosc": "Rzeczyca",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kitowicza",
+    "numer": "4",
+    "kod": "97-220",
+    "poczta": "Rzeczyca\r"
+  }
+]

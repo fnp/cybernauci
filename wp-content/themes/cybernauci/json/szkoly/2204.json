@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6154",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2204",
+    "miejscowosc": "Tylicz",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Centrum Edukacji Szkolnej Publiczne Gimnazjum",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "9",
+    "kod": "33-383",
+    "poczta": "Tylicz\r"
+  },
+  {
+    "id": "6155",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2204",
+    "miejscowosc": "Tylicz",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowe Centrum Edukacji Szkolnej Szko\u0142a Podstawowa",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "9",
+    "kod": "33-383",
+    "poczta": "Tylicz\r"
+  }
+]

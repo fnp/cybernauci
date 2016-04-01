@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5464",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1840",
+    "miejscowosc": "Ro\u017cnowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ro\u017cnowice",
+    "numer": "325",
+    "kod": "38-323",
+    "poczta": "Ro\u017cnowice\r"
+  },
+  {
+    "id": "5465",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1840",
+    "miejscowosc": "Ro\u017cnowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ro\u017cnowice",
+    "numer": "325",
+    "kod": "38-323",
+    "poczta": "Ro\u017cnowice\r"
+  }
+]

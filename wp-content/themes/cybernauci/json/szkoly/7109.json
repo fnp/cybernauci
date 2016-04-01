@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19781",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7109",
+    "miejscowosc": "Okonek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "23 i 24",
+    "kod": "64-965",
+    "poczta": "Okonek\r"
+  },
+  {
+    "id": "19779",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7109",
+    "miejscowosc": "Okonek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "45",
+    "kod": "64-965",
+    "poczta": "Okonek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15403",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5453",
+    "miejscowosc": "Szczepan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015aredzka",
+    "numer": "14",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15404",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5453",
+    "miejscowosc": "Szczepan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015aredzka",
+    "numer": "14",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21336",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7566",
+    "miejscowosc": "Nowy \u017bmigr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. ks. W\u0142adys\u0142awa Findysza - M\u0119czennika w Zespole Szk\u00f3\u0142",
+    "ulica": "Mickiewicza",
+    "numer": "4",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "21334",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7566",
+    "miejscowosc": "Nowy \u017bmigr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Nowy \u017bmigr\u00f3d",
+    "numer": "309",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "21331",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7566",
+    "miejscowosc": "Nowy \u017bmigr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Miko\u0142aja Kopernika",
+    "ulica": "Mickiewicza",
+    "numer": "18",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "21337",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7566",
+    "miejscowosc": "Nowy \u017bmigr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. b\u0142. ks. W\u0142adys\u0142awa Findysza - M\u0119czennika w Zespole Szk\u00f3\u0142",
+    "ulica": "Mickiewicza",
+    "numer": "4",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "21335",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7566",
+    "miejscowosc": "Nowy \u017bmigr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Nowy \u017bmigr\u00f3d",
+    "numer": "309",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  }
+]

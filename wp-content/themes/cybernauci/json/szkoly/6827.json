@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19223",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6827",
+    "miejscowosc": "Murowana Go\u015blina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "M\u015bciszewska",
+    "numer": "10",
+    "kod": "62-095",
+    "poczta": "Murowana Go\u015blina\r"
+  },
+  {
+    "id": "19222",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6827",
+    "miejscowosc": "Murowana Go\u015blina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Gen. T. Kutrzeby",
+    "numer": "3",
+    "kod": "62-095",
+    "poczta": "Murowana Go\u015blina\r"
+  },
+  {
+    "id": "19218",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6827",
+    "miejscowosc": "Murowana Go\u015blina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "62-095",
+    "poczta": "Murowana Go\u015blina\r"
+  },
+  {
+    "id": "19219",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6827",
+    "miejscowosc": "Murowana Go\u015blina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Gen. T. Kutrzeby",
+    "numer": "3",
+    "kod": "62-095",
+    "poczta": "Murowana Go\u015blina\r"
+  },
+  {
+    "id": "19156",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6827",
+    "miejscowosc": "Murowana Go\u015blina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "62-095",
+    "poczta": "Murowana Go\u015blina\r"
+  }
+]

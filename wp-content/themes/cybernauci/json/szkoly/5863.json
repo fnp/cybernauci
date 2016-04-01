@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16740",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5863",
+    "miejscowosc": "Strzelce Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "8A",
+    "kod": "98-337",
+    "poczta": "Strzelce Wielkie\r"
+  },
+  {
+    "id": "16737",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5863",
+    "miejscowosc": "Strzelce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "8a",
+    "kod": "98-337",
+    "poczta": "Strzelce Wielkie\r"
+  }
+]

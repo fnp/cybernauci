@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24327",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8875",
+    "miejscowosc": "Krzynow\u0142oga Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-316",
+    "poczta": "Krzynow\u0142oga Ma\u0142a\r"
+  },
+  {
+    "id": "24328",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8875",
+    "miejscowosc": "Krzynow\u0142oga Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-316",
+    "poczta": "Krzynow\u0142oga Ma\u0142a\r"
+  }
+]

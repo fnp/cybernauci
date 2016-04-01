@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5271",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1754",
+    "miejscowosc": "Wola D\u0119bi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wola D\u0119bi\u0144ska",
+    "numer": "330",
+    "kod": "32-852",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "5272",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1754",
+    "miejscowosc": "Wola D\u0119bi\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wola D\u0119bi\u0144ska",
+    "numer": "330",
+    "kod": "32-852",
+    "poczta": "D\u0119bno\r"
+  }
+]

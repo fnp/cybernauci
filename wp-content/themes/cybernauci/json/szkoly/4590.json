@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12909",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4590",
+    "miejscowosc": "Orzysz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza ",
+    "ulica": "Osiedle Robotnicze",
+    "numer": "11",
+    "kod": "12-250",
+    "poczta": "Orzysz\r"
+  },
+  {
+    "id": "12915",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4590",
+    "miejscowosc": "Orzysz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla m\u0142odzie\u017cy",
+    "ulica": "Wojska Polskiego",
+    "numer": "3",
+    "kod": "12-250",
+    "poczta": "Orzysz\r"
+  },
+  {
+    "id": "12910",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4590",
+    "miejscowosc": "Orzysz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "14",
+    "kod": "12-250",
+    "poczta": "Orzysz\r"
+  }
+]

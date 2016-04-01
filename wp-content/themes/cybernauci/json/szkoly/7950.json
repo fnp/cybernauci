@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22059",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7950",
+    "miejscowosc": "Gniewczyna \u0141a\u0144cucka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. gen. Antoniego Chru\u015bciela ps. \"Monter\"",
+    "ulica": "Gniewczyna \u0141a\u0144cucka",
+    "numer": "608",
+    "kod": "37-203",
+    "poczta": "Gniewczyna \u0141a\u0144cucka\r"
+  },
+  {
+    "id": "22060",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7950",
+    "miejscowosc": "Gniewczyna \u0141a\u0144cucka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. gen. Antoniego Chru\u015bciela ps. \"Monter\"",
+    "ulica": "Gniewczyna \u0141a\u0144cucka",
+    "numer": "608",
+    "kod": "37-203",
+    "poczta": "Gniewczyna \u0141a\u0144cucka\r"
+  }
+]

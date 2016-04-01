@@ -1,0 +1,50 @@
+[
+  {
+    "id": "16275",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5645",
+    "miejscowosc": "Kleszcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "97-410",
+    "poczta": "Kleszcz\u00f3w\r"
+  },
+  {
+    "id": "16276",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5645",
+    "miejscowosc": "Kleszcz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "97-410",
+    "poczta": "Kleszcz\u00f3w\r"
+  },
+  {
+    "id": "16273",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5645",
+    "miejscowosc": "Kleszcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-410",
+    "poczta": "Kleszcz\u00f3w\r"
+  },
+  {
+    "id": "16277",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5645",
+    "miejscowosc": "Kleszcz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nowoczesnych Technologii",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "97-410",
+    "poczta": "Kleszcz\u00f3w\r"
+  }
+]

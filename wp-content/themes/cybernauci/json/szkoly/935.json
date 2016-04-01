@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3433",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "935",
+    "miejscowosc": "Frampol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gorajska",
+    "numer": "16",
+    "kod": "23-440",
+    "poczta": "Frampol\r"
+  },
+  {
+    "id": "3434",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "935",
+    "miejscowosc": "Frampol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Pi\u0142sudskiego ",
+    "ulica": "Gorajska",
+    "numer": "16",
+    "kod": "23-440",
+    "poczta": "Frampol\r"
+  }
+]

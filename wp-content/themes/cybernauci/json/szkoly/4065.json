@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11438",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4065",
+    "miejscowosc": "Ustronie Morskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "8",
+    "kod": "78-111",
+    "poczta": "Ustronie Morskie\r"
+  },
+  {
+    "id": "11439",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4065",
+    "miejscowosc": "Ustronie Morskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "8",
+    "kod": "78-111",
+    "poczta": "Ustronie Morskie\r"
+  }
+]

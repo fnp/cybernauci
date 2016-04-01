@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21106",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7469",
+    "miejscowosc": "\u017byrak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "\u017byrak\u00f3w",
+    "numer": "77",
+    "kod": "39-204",
+    "poczta": "\u017byrak\u00f3w\r"
+  },
+  {
+    "id": "21107",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7469",
+    "miejscowosc": "\u017byrak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "\u017byrak\u00f3w",
+    "numer": "77",
+    "kod": "39-204",
+    "poczta": "\u017byrak\u00f3w\r"
+  }
+]

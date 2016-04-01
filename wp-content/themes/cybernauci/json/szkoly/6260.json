@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18009",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6260",
+    "miejscowosc": "\u017bydowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "24",
+    "kod": "62-241",
+    "poczta": "\u017bydowo\r"
+  },
+  {
+    "id": "18010",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6260",
+    "miejscowosc": "\u017bydowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "24",
+    "kod": "62-241",
+    "poczta": "\u017bydowo\r"
+  }
+]

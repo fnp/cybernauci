@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4648",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1560",
+    "miejscowosc": "Majdan Sopocki Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Majdan Sopocki Pierwszy",
+    "numer": "113",
+    "kod": "22-672",
+    "poczta": "Susiec\r"
+  },
+  {
+    "id": "4649",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1560",
+    "miejscowosc": "Majdan Sopocki Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Majdan Sopocki Pierwszy",
+    "numer": "113",
+    "kod": "22-672",
+    "poczta": "Susiec\r"
+  }
+]

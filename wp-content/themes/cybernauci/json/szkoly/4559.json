@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12858",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4559",
+    "miejscowosc": "Dobrocin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Dobrocin",
+    "numer": "3",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  },
+  {
+    "id": "12859",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4559",
+    "miejscowosc": "Dobrocin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dobrocin",
+    "numer": "3",
+    "kod": "14-330",
+    "poczta": "Ma\u0142dyty\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9811",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3594",
+    "miejscowosc": "Miko\u0142ajki Pomorskie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne ",
+    "ulica": "Szreibera",
+    "numer": "12",
+    "kod": "82-433",
+    "poczta": "Miko\u0142ajki Pomorskie\r"
+  },
+  {
+    "id": "9812",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3594",
+    "miejscowosc": "Miko\u0142ajki Pomorskie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "Szreibera",
+    "numer": "12-pa\u017a",
+    "kod": "82-433",
+    "poczta": "Miko\u0142ajki Pomorskie\r"
+  }
+]

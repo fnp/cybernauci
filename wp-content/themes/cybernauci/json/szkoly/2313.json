@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6390",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2313",
+    "miejscowosc": "Klikuszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Klikuszowa",
+    "numer": "240",
+    "kod": "34-404",
+    "poczta": "Klikuszowa\r"
+  },
+  {
+    "id": "6381",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2313",
+    "miejscowosc": "Klikuszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Klikuszowa",
+    "numer": "240",
+    "kod": "34-404",
+    "poczta": "Klikuszowa\r"
+  }
+]

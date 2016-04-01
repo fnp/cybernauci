@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9444",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3444",
+    "miejscowosc": "Po\u0142chowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "2",
+    "kod": "84-123",
+    "poczta": "Po\u0142chowo\r"
+  },
+  {
+    "id": "9446",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3444",
+    "miejscowosc": "Po\u0142chowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W. Czapiewskiego",
+    "numer": "1",
+    "kod": "84-123",
+    "poczta": "Po\u0142chowo\r"
+  }
+]

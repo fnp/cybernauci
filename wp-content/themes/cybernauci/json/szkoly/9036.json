@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24594",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9036",
+    "miejscowosc": "\u015amiary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015amiary",
+    "numer": "68",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  },
+  {
+    "id": "24595",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9036",
+    "miejscowosc": "\u015amiary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015amiary",
+    "numer": "68",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  }
+]

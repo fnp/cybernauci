@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24278",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8851",
+    "miejscowosc": "Nadarzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Jana Paw\u0142a II",
+    "ulica": "\u017b\u00f3\u0142wi\u0144ska",
+    "numer": "41",
+    "kod": "05-830",
+    "poczta": "Nadarzyn\r"
+  },
+  {
+    "id": "24279",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8851",
+    "miejscowosc": "Nadarzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Promienie Fundacji Sternik",
+    "ulica": "Komorowska",
+    "numer": "63",
+    "kod": "05-830",
+    "poczta": "Nadarzyn\r"
+  },
+  {
+    "id": "24275",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8851",
+    "miejscowosc": "Nadarzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sitarskich",
+    "numer": "4",
+    "kod": "05-830",
+    "poczta": "Nadarzyn\r"
+  },
+  {
+    "id": "24277",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8851",
+    "miejscowosc": "Nadarzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Strumienie Fundacji Sternik",
+    "ulica": "Komorowska",
+    "numer": "63",
+    "kod": "05-830",
+    "poczta": "Nadarzyn\r"
+  }
+]

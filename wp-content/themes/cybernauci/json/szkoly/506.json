@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1138",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "506",
+    "miejscowosc": "So\u015bnicowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Unii Europejskiej",
+    "ulica": "Gimnazjalna",
+    "numer": "6",
+    "kod": "44-153",
+    "poczta": "So\u015bnicowice\r"
+  },
+  {
+    "id": "1134",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "506",
+    "miejscowosc": "So\u015bnicowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gliwicka",
+    "numer": "21",
+    "kod": "44-153",
+    "poczta": "So\u015bnicowice\r"
+  }
+]

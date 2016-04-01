@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17040",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6006",
+    "miejscowosc": "Chlewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Chlewo",
+    "numer": "51A",
+    "kod": "98-215",
+    "poczta": "Goszczan\u00f3w\r"
+  },
+  {
+    "id": "17041",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6006",
+    "miejscowosc": "Chlewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chlewo",
+    "numer": "51A",
+    "kod": "98-215",
+    "poczta": "Goszczan\u00f3w\r"
+  }
+]

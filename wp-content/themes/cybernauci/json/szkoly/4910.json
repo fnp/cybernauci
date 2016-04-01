@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13706",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4910",
+    "miejscowosc": "Paterek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kcy\u0144ska",
+    "numer": "6a",
+    "kod": "89-100",
+    "poczta": "Nak\u0142o nad Noteci\u0105\r"
+  },
+  {
+    "id": "13707",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4910",
+    "miejscowosc": "Paterek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kcy\u0144ska",
+    "numer": "6a",
+    "kod": "89-100",
+    "poczta": "Nak\u0142o nad Noteci\u0105\r"
+  }
+]

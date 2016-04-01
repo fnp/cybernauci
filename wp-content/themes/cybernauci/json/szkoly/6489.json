@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18440",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6489",
+    "miejscowosc": "Grodziec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pl. Ks. Abp. B. D\u0105browskiego",
+    "numer": "4",
+    "kod": "62-580",
+    "poczta": "Grodziec\r"
+  },
+  {
+    "id": "18441",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6489",
+    "miejscowosc": "Grodziec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej ",
+    "ulica": "Pl. Ks. Abp. B. D\u0105browskiego",
+    "numer": "4",
+    "kod": "62-580",
+    "poczta": "Grodziec\r"
+  }
+]

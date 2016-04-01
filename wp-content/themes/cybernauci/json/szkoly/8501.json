@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23480",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8501",
+    "miejscowosc": "D\u0119be Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Warszawska",
+    "numer": "78a",
+    "kod": "05-311",
+    "poczta": "D\u0119be Wielkie\r"
+  },
+  {
+    "id": "23481",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8501",
+    "miejscowosc": "D\u0119be Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "78",
+    "kod": "05-311",
+    "poczta": "D\u0119be Wielkie\r"
+  }
+]

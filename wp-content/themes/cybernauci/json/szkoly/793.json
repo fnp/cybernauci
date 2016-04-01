@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1942",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "793",
+    "miejscowosc": "Twardorzeczka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Twardorzeczka",
+    "numer": "333",
+    "kod": "34-324",
+    "poczta": "Lipowa\r"
+  },
+  {
+    "id": "1940",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "793",
+    "miejscowosc": "Twardorzeczka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Twardorzeczka",
+    "numer": "333",
+    "kod": "34-324",
+    "poczta": "Lipowa\r"
+  }
+]

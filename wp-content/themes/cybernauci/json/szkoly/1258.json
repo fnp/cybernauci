@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4019",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1258",
+    "miejscowosc": "Niemce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  },
+  {
+    "id": "4015",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1258",
+    "miejscowosc": "Niemce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "R\u00f3\u017cana",
+    "numer": "8",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  },
+  {
+    "id": "4020",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1258",
+    "miejscowosc": "Niemce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  },
+  {
+    "id": "4016",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1258",
+    "miejscowosc": "Niemce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "R\u00f3\u017cana",
+    "numer": "8",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  }
+]

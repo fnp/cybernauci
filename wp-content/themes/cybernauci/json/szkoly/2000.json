@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5735",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2000",
+    "miejscowosc": "Zabierz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Matejki",
+    "ulica": "Kolejowa",
+    "numer": "15",
+    "kod": "32-080",
+    "poczta": "Zabierz\u00f3w\r"
+  },
+  {
+    "id": "5737",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2000",
+    "miejscowosc": "Zabierz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. II Armii Wojska Polskiego ",
+    "ulica": "Szkolna",
+    "numer": "50",
+    "kod": "32-080",
+    "poczta": "Zabierz\u00f3w\r"
+  }
+]

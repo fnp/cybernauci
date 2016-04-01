@@ -1,0 +1,86 @@
+[
+  {
+    "id": "24854",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w Powstania Warszawskiego",
+    "ulica": "Szkolma",
+    "numer": "2",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24856",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wincentego Pallottiego",
+    "ulica": "Pozna\u0144ska",
+    "numer": "183",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24857",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pozna\u0144ska",
+    "numer": "129\/131",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24858",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum",
+    "ulica": "Pozna\u0144ska",
+    "numer": "129\/131",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24852",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24853",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Obro\u0144c\u00f3w Warszawy",
+    "ulica": "Lipowa",
+    "numer": "11",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "24859",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9149",
+    "miejscowosc": "O\u017car\u00f3w Mazowiecki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "129\/131",
+    "kod": "05-850",
+    "poczta": "O\u017car\u00f3w Mazowiecki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6769",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2471",
+    "miejscowosc": "Tarnawa Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Tarnawa Dolna",
+    "numer": "272",
+    "kod": "34-210",
+    "poczta": "Zembrzyce\r"
+  },
+  {
+    "id": "6770",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2471",
+    "miejscowosc": "Tarnawa Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tarnawa Dolna",
+    "numer": "272",
+    "kod": "34-210",
+    "poczta": "Zembrzyce\r"
+  }
+]

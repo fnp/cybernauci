@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1760",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "737",
+    "miejscowosc": "Czy\u017cowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. dr Gustawa Klapucha",
+    "ulica": "Wodzis\u0142awska",
+    "numer": "111",
+    "kod": "44-352",
+    "poczta": "Czy\u017cowice\r"
+  },
+  {
+    "id": "1754",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "737",
+    "miejscowosc": "Czy\u017cowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Wo\u017aniaka ",
+    "ulica": "Wodzis\u0142awska",
+    "numer": "111",
+    "kod": "44-352",
+    "poczta": "Czy\u017cowice\r"
+  }
+]

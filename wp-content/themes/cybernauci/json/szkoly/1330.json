@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4158",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1330",
+    "miejscowosc": "Go\u0142\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Go\u0142\u0105bki",
+    "numer": "33",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  },
+  {
+    "id": "4159",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1330",
+    "miejscowosc": "Go\u0142\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Go\u0142\u0105bki",
+    "numer": "33",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  }
+]

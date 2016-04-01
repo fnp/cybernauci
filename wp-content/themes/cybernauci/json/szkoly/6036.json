@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17090",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6036",
+    "miejscowosc": "G\u0142uch\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rawska",
+    "numer": "9",
+    "kod": "96-130",
+    "poczta": "G\u0142uch\u00f3w\r"
+  },
+  {
+    "id": "17087",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6036",
+    "miejscowosc": "G\u0142uch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marcina Wasilewskiego",
+    "ulica": "Rawska",
+    "numer": "9",
+    "kod": "96-130",
+    "poczta": "G\u0142uch\u00f3w\r"
+  },
+  {
+    "id": "17091",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6036",
+    "miejscowosc": "G\u0142uch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "plac Uniwersytecki",
+    "numer": "3",
+    "kod": "96-130",
+    "poczta": "G\u0142uch\u00f3w\r"
+  }
+]

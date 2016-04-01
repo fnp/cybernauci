@@ -1,0 +1,122 @@
+[
+  {
+    "id": "21615",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "145",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21617",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "161",
+    "kod": "37-600",
+    "poczta": "Lubaczow\r"
+  },
+  {
+    "id": "21614",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "26",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21612",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Konopnickiej",
+    "numer": "5a",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21613",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Kopernika",
+    "numer": "22",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21610",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Konopnickiej",
+    "numer": "5",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21611",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "S\u0142owackiego",
+    "numer": "9",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21616",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 w M\u0142odzie\u017cowym O\u015brodku Wychowawczym",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "145",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21618",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "161",
+    "kod": "37-600",
+    "poczta": "Lubaczow\r"
+  },
+  {
+    "id": "21619",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7726",
+    "miejscowosc": "Lubacz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "161",
+    "kod": "37-600",
+    "poczta": "Lubaczow\r"
+  }
+]

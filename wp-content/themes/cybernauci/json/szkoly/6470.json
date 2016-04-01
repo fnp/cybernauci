@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18408",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6470",
+    "miejscowosc": "Powiercie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Or\u0142a Bia\u0142ego",
+    "ulica": "Powiercie",
+    "numer": "3",
+    "kod": "62-600",
+    "poczta": "Ko\u0142o\r"
+  },
+  {
+    "id": "18409",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6470",
+    "miejscowosc": "Powiercie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego",
+    "ulica": "Powiercie",
+    "numer": "3",
+    "kod": "62-600",
+    "poczta": "Ko\u0142o\r"
+  },
+  {
+    "id": "18406",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6470",
+    "miejscowosc": "Powiercie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Powiercie",
+    "numer": "31",
+    "kod": "62-600",
+    "poczta": "Ko\u0142o\r"
+  },
+  {
+    "id": "18407",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6470",
+    "miejscowosc": "Powiercie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Powiercie",
+    "numer": "31",
+    "kod": "62-600",
+    "poczta": "Ko\u0142o\r"
+  }
+]

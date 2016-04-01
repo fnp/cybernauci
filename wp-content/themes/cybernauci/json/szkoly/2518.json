@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6848",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2518",
+    "miejscowosc": "Zalasowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Karpacka",
+    "numer": "21",
+    "kod": "33-159",
+    "poczta": "Zalasowa\r"
+  },
+  {
+    "id": "6849",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2518",
+    "miejscowosc": "Zalasowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karpacka",
+    "numer": "21",
+    "kod": "33-159",
+    "poczta": "Zalasowa\r"
+  }
+]

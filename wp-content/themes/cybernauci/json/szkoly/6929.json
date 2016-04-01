@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19371",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6929",
+    "miejscowosc": "Obrzycko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Plac Lipowy",
+    "numer": "12",
+    "kod": "64-520",
+    "poczta": "Obrzycko\r"
+  },
+  {
+    "id": "19372",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6929",
+    "miejscowosc": "Obrzycko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Plac Lipowy",
+    "numer": "12",
+    "kod": "64-520",
+    "poczta": "Obrzycko\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14904",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Lubawska",
+    "numer": "8",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14905",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "2",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14906",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "2",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14903",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Edukacji Europejskiej",
+    "ulica": "Jeleniog\u00f3rska",
+    "numer": "7",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14901",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Plac Ko\u015bcielny",
+    "numer": "1",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14902",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Jeleniog\u00f3rska",
+    "numer": "7",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14907",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Traugutta",
+    "numer": "2",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "14908",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5259",
+    "miejscowosc": "Kamienna G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna dla M\u0142odocianych Pracownik\u00f3w",
+    "ulica": "Traugutta",
+    "numer": "2",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  }
+]

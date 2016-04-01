@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17444",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6190",
+    "miejscowosc": "Gieczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "95-001",
+    "poczta": "Bia\u0142a\r"
+  },
+  {
+    "id": "17445",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6190",
+    "miejscowosc": "Gieczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "95-001",
+    "poczta": "Bia\u0142a\r"
+  }
+]

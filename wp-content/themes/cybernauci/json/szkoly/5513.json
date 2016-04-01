@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15590",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Grunwaldzka",
+    "numer": "37",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  },
+  {
+    "id": "15591",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane w Zespole Szk\u00f3\u0142",
+    "ulica": "Parkowa",
+    "numer": "9",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  },
+  {
+    "id": "15587",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sienkiewicza",
+    "numer": "53",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  },
+  {
+    "id": "15588",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Kolejowa",
+    "numer": "8",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  },
+  {
+    "id": "15592",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "Parkowa",
+    "numer": "9",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  },
+  {
+    "id": "15593",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5513",
+    "miejscowosc": "G\u0142uszyca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Zespole Szk\u00f3\u0142",
+    "ulica": "Parkowa",
+    "numer": "9",
+    "kod": "58-340",
+    "poczta": "G\u0142uszyca\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21500",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7670",
+    "miejscowosc": "Kombornia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kombornia",
+    "numer": "60",
+    "kod": "38-420",
+    "poczta": "Korczyna\r"
+  },
+  {
+    "id": "21501",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7670",
+    "miejscowosc": "Kombornia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kombornia",
+    "numer": "60",
+    "kod": "38-420",
+    "poczta": "Korczyna\r"
+  }
+]

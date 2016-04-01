@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16820",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5915",
+    "miejscowosc": "P\u0119czniew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "15",
+    "kod": "99-235",
+    "poczta": "P\u0119czniew\r"
+  },
+  {
+    "id": "16821",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5915",
+    "miejscowosc": "P\u0119czniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "15",
+    "kod": "99-235",
+    "poczta": "P\u0119czniew\r"
+  }
+]

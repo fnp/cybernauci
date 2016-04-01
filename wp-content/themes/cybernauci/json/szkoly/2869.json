@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8065",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2869",
+    "miejscowosc": "Mni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Centralna",
+    "numer": "11",
+    "kod": "26-080",
+    "poczta": "Mni\u00f3w\r"
+  },
+  {
+    "id": "8066",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2869",
+    "miejscowosc": "Mni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Centralna",
+    "numer": "11",
+    "kod": "26-080",
+    "poczta": "Mni\u00f3w\r"
+  }
+]

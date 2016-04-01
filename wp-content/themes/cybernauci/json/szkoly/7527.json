@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22008",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7527",
+    "miejscowosc": "Manasterz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Jana Kantego",
+    "ulica": "Manasterz",
+    "numer": "575",
+    "kod": "37-230",
+    "poczta": "Manasterz\r"
+  },
+  {
+    "id": "21237",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7527",
+    "miejscowosc": "Manasterz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Manasterz",
+    "numer": "57",
+    "kod": "37-522",
+    "poczta": "Wi\u0105zownica\r"
+  },
+  {
+    "id": "22009",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7527",
+    "miejscowosc": "Manasterz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jana Kantego",
+    "ulica": "Manasterz",
+    "numer": "575",
+    "kod": "37-230",
+    "poczta": "Manasterz\r"
+  }
+]

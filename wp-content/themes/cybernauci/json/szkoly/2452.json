@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6726",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2452",
+    "miejscowosc": "Osielec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142 ",
+    "ulica": "Osielec",
+    "numer": "440",
+    "kod": "34-234",
+    "poczta": "Osielec\r"
+  },
+  {
+    "id": "6727",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2452",
+    "miejscowosc": "Osielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142 ",
+    "ulica": "Osielec",
+    "numer": "440",
+    "kod": "34-234",
+    "poczta": "Osielec\r"
+  }
+]

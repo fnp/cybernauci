@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21321",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7559",
+    "miejscowosc": "Sowina",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Sowina",
+    "numer": "1",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  },
+  {
+    "id": "21322",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7559",
+    "miejscowosc": "Sowina",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Sowina",
+    "numer": "1",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  }
+]

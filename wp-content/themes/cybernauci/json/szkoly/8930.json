@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24439",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8930",
+    "miejscowosc": "Ma\u0142\u0119czyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "64",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  },
+  {
+    "id": "24440",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8930",
+    "miejscowosc": "Ma\u0142\u0119czyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "64",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  }
+]

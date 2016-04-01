@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16515",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5752",
+    "miejscowosc": "\u0141yszkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ksi\u0119stwa \u0141owickiego",
+    "numer": "11",
+    "kod": "99-420",
+    "poczta": "\u0141yszkowice\r"
+  },
+  {
+    "id": "16516",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5752",
+    "miejscowosc": "\u0141yszkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ksi\u0119stwa \u0141owickiego",
+    "numer": "11",
+    "kod": "99-420",
+    "poczta": "\u0141yszkowice\r"
+  }
+]

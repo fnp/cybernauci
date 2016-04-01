@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17039",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6003",
+    "miejscowosc": "Goszczan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. Jana Paw\u0142a II",
+    "ulica": "Kaliska",
+    "numer": "13",
+    "kod": "98-215",
+    "poczta": "Goszczan\u00f3w\r"
+  },
+  {
+    "id": "17036",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6003",
+    "miejscowosc": "Goszczan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kaliska",
+    "numer": "5",
+    "kod": "98-215",
+    "poczta": "Goszczan\u00f3w\r"
+  }
+]

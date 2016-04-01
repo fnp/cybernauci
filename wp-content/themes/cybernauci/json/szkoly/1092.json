@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3724",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1092",
+    "miejscowosc": "Kra\u015bniczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "22-310",
+    "poczta": "Kra\u015bniczyn\r"
+  },
+  {
+    "id": "3725",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1092",
+    "miejscowosc": "Kra\u015bniczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "22-310",
+    "poczta": "Kra\u015bniczyn\r"
+  }
+]

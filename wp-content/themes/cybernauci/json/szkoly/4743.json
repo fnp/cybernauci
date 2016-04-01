@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13373",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4743",
+    "miejscowosc": "Kijewo Kr\u00f3lewskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015aw. Wawrzy\u0144ca",
+    "numer": "6",
+    "kod": "86-253",
+    "poczta": "Kijewo Kr\u00f3lewskie\r"
+  },
+  {
+    "id": "13374",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4743",
+    "miejscowosc": "Kijewo Kr\u00f3lewskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015bw. Wawrzy\u0144ca",
+    "numer": "6",
+    "kod": "86-253",
+    "poczta": "Kijewo Kr\u00f3lewskie\r"
+  }
+]

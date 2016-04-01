@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13709",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4911",
+    "miejscowosc": "Wyst\u0119p",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 6",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "89-100",
+    "poczta": "Nak\u0142o nad Noteci\u0105\r"
+  },
+  {
+    "id": "13708",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4911",
+    "miejscowosc": "Wyst\u0119p",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "89-100",
+    "poczta": "Nak\u0142o nad Noteci\u0105\r"
+  }
+]

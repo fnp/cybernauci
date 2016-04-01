@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22232",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8038",
+    "miejscowosc": "Nowy Kamie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015aw. St. Kostki",
+    "ulica": "Nowy Kamie\u0144",
+    "numer": "26",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22233",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8038",
+    "miejscowosc": "Nowy Kamie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. \u015aw. St. Kostki",
+    "ulica": "Nowy Kamie\u0144",
+    "numer": "26",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "22234",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8038",
+    "miejscowosc": "Nowy Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowy Kamie\u0144",
+    "numer": "26",
+    "kod": "36-053",
+    "poczta": "Kamie\u0144\r"
+  }
+]

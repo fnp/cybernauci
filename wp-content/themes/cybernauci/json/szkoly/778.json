@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1907",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "778",
+    "miejscowosc": "Mi\u0119dzybrodzie Bialskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bielska",
+    "numer": "2",
+    "kod": "34-312",
+    "poczta": "Mi\u0119dzybrodzie Bialskie\r"
+  },
+  {
+    "id": "1908",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "778",
+    "miejscowosc": "Mi\u0119dzybrodzie Bialskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. \u015bw. Jana Kantego",
+    "ulica": "Bielska",
+    "numer": "2",
+    "kod": "34-312",
+    "poczta": "Mi\u0119dzybrodzie Bialskie\r"
+  },
+  {
+    "id": "1905",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "778",
+    "miejscowosc": "Mi\u0119dzybrodzie Bialskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kasperk\u00f3w",
+    "numer": "8",
+    "kod": "34-312",
+    "poczta": "Mi\u0119dzybrodzie Bialskie\r"
+  }
+]

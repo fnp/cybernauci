@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5299",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1769",
+    "miejscowosc": "Szczurowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "32-820",
+    "poczta": "Szczurowa\r"
+  },
+  {
+    "id": "5297",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1769",
+    "miejscowosc": "Szczurowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "32-820",
+    "poczta": "Szczurowa\r"
+  },
+  {
+    "id": "5293",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1769",
+    "miejscowosc": "Szczurowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "32-820",
+    "poczta": "Szczurowa\r"
+  },
+  {
+    "id": "5300",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1769",
+    "miejscowosc": "Szczurowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "32-820",
+    "poczta": "Szczurowa\r"
+  },
+  {
+    "id": "5301",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1769",
+    "miejscowosc": "Szczurowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "32-820",
+    "poczta": "Szczurowa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12896",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4582",
+    "miejscowosc": "Lipowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Lipowo",
+    "numer": "16",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  },
+  {
+    "id": "12897",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4582",
+    "miejscowosc": "Lipowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Konstantego Ildefonsa Ga\u0142czy\u0144skiego",
+    "ulica": "Lipowo",
+    "numer": "16",
+    "kod": "14-100",
+    "poczta": "Ostr\u00f3da\r"
+  }
+]

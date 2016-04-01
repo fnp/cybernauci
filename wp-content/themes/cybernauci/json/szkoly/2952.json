@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8219",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2952",
+    "miejscowosc": "Iwaniska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Opatowska",
+    "numer": "26",
+    "kod": "27-570",
+    "poczta": "Iwaniska\r"
+  },
+  {
+    "id": "8224",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2952",
+    "miejscowosc": "Iwaniska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Opatowska",
+    "numer": "25",
+    "kod": "27-570",
+    "poczta": "Iwaniska\r"
+  }
+]

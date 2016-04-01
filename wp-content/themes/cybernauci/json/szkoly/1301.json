@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4090",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1301",
+    "miejscowosc": "Milej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Partyzancka",
+    "numer": "62",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  },
+  {
+    "id": "4091",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1301",
+    "miejscowosc": "Milej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Partyzancka",
+    "numer": "62",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  },
+  {
+    "id": "4092",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1301",
+    "miejscowosc": "Milej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Partyzancka",
+    "numer": "62",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14784",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5203",
+    "miejscowosc": "Przedmo\u015bcie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "67-210",
+    "poczta": "G\u0142og\u00f3w\r"
+  },
+  {
+    "id": "14785",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5203",
+    "miejscowosc": "Przedmo\u015bcie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "67-210",
+    "poczta": "G\u0142og\u00f3w\r"
+  }
+]

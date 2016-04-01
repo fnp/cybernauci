@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12881",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4569",
+    "miejscowosc": "\u017babi R\u00f3g",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u017babi R\u00f3g",
+    "numer": "115A",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12874",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4569",
+    "miejscowosc": "\u017babi R\u00f3g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u017babi R\u00f3g",
+    "numer": "115A",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  }
+]

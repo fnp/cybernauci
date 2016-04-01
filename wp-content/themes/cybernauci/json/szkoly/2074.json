@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5892",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2074",
+    "miejscowosc": "Zawadka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawadka",
+    "numer": "18",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  },
+  {
+    "id": "7146",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2074",
+    "miejscowosc": "Zawadka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zawadka",
+    "numer": "90",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  }
+]

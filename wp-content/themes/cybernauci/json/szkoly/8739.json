@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24032",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8739",
+    "miejscowosc": "Zalesie G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sarenki",
+    "numer": "20",
+    "kod": "05-540",
+    "poczta": "Zalesie G\u00f3rne\r"
+  },
+  {
+    "id": "24010",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8739",
+    "miejscowosc": "Zalesie G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Prywatna Szko\u0142a Podstawowa Eureka",
+    "ulica": "Przebudzenia Wiosny",
+    "numer": "32",
+    "kod": "05-540",
+    "poczta": "Zalesie G\u00f3rne\r"
+  },
+  {
+    "id": "24033",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8739",
+    "miejscowosc": "Zalesie G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wsp\u00f3lnej Europy",
+    "ulica": "Sarenki",
+    "numer": "20",
+    "kod": "05-540",
+    "poczta": "Zalesie G\u00f3rne\r"
+  }
+]

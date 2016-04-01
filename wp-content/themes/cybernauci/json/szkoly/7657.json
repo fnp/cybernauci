@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22393",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7657",
+    "miejscowosc": "D\u0142ugie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142ugie",
+    "numer": "321",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  },
+  {
+    "id": "21479",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7657",
+    "miejscowosc": "D\u0142ugie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142ugie",
+    "numer": "10",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "22387",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7657",
+    "miejscowosc": "D\u0142ugie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Stapi\u0144skiego",
+    "ulica": "D\u0142ugie",
+    "numer": "321",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  }
+]

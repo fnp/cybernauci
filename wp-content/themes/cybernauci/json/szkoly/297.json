@@ -1,0 +1,26 @@
+[
+  {
+    "id": "592",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "297",
+    "miejscowosc": "Le\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nad Wod\u0105",
+    "numer": "15",
+    "kod": "47-150",
+    "poczta": "Le\u015bnica\r"
+  },
+  {
+    "id": "591",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "297",
+    "miejscowosc": "Le\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zdzieszowicka",
+    "numer": "23",
+    "kod": "47-150",
+    "poczta": "Le\u015bnica\r"
+  }
+]

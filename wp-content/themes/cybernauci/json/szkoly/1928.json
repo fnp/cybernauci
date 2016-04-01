@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6947",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1928",
+    "miejscowosc": "Filipowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Filipowice",
+    "numer": "125",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "5611",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1928",
+    "miejscowosc": "Filipowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Filipowice",
+    "numer": "",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  }
+]

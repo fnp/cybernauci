@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14993",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5287",
+    "miejscowosc": "L\u0105dek-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. gen. Stanis\u0142awa Maczka",
+    "ulica": "Zamenhofa",
+    "numer": "2",
+    "kod": "57-540",
+    "poczta": "L\u0105dek- Zdr\u00f3j\r"
+  },
+  {
+    "id": "14994",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5287",
+    "miejscowosc": "L\u0105dek-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Andrzeja Zawady",
+    "ulica": "Polna",
+    "numer": "2",
+    "kod": "57-540",
+    "poczta": "L\u0105dek- Zdr\u00f3j\r"
+  },
+  {
+    "id": "14992",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5287",
+    "miejscowosc": "L\u0105dek-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka",
+    "ulica": "Ko\u015bcielna",
+    "numer": "31",
+    "kod": "57-540",
+    "poczta": "L\u0105dek Zdr\u00f3j\r"
+  }
+]

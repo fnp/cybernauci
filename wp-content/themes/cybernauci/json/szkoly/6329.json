@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18149",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6329",
+    "miejscowosc": "Rakoniewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szkolno-Gimnazjalnym ",
+    "ulica": "Nowotomyska",
+    "numer": "1",
+    "kod": "62-067",
+    "poczta": "Rakoniewice\r"
+  },
+  {
+    "id": "18150",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6329",
+    "miejscowosc": "Rakoniewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Wielkopolskich",
+    "ulica": "Nowotomyska",
+    "numer": "1",
+    "kod": "62-067",
+    "poczta": "Rakoniewice\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "24160",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. mjra Henryka Dobrza\u0144skiego \"Hubala\"",
+    "ulica": "Kili\u0144skiego",
+    "numer": "64",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24158",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kili\u0144skiego",
+    "numer": "62B",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24163",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce STO ",
+    "ulica": "P\u0142ocka",
+    "numer": "28",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24159",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. St. Konarskiego",
+    "ulica": "Kili\u0144skiego",
+    "numer": "62B",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24161",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kili\u0144skiego",
+    "numer": "64",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24162",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8807",
+    "miejscowosc": "Raci\u0105\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kili\u0144skiego",
+    "numer": "64",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  }
+]

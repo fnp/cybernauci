@@ -1,0 +1,62 @@
+[
+  {
+    "id": "14843",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5226",
+    "miejscowosc": "Bolk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Rycerstwa Polskiego",
+    "ulica": "Bolka",
+    "numer": "8b",
+    "kod": "59-420",
+    "poczta": "Bolk\u00f3w\r"
+  },
+  {
+    "id": "14844",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5226",
+    "miejscowosc": "Bolk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "17",
+    "kod": "59-420",
+    "poczta": "Bolk\u00f3w\r"
+  },
+  {
+    "id": "14839",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5226",
+    "miejscowosc": "Bolk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bolka",
+    "numer": "8c",
+    "kod": "59-420",
+    "poczta": "Bolk\u00f3w\r"
+  },
+  {
+    "id": "14845",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5226",
+    "miejscowosc": "Bolk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "17",
+    "kod": "59-420",
+    "poczta": "Bolk\u00f3w\r"
+  },
+  {
+    "id": "14846",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5226",
+    "miejscowosc": "Bolk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna Wielozawodowa",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "17",
+    "kod": "59-420",
+    "poczta": "Bolk\u00f3w\r"
+  }
+]

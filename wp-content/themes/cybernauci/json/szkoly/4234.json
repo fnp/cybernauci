@@ -1,0 +1,86 @@
+[
+  {
+    "id": "11850",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Integracyjne",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "17",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11851",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "54",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11849",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Krajowej",
+    "numer": "25",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11847",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Marii Sk\u0142odowskiej-Curie ",
+    "ulica": "Bema",
+    "numer": "6",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11848",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Spokojna",
+    "numer": "4",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11852",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "54",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  },
+  {
+    "id": "11853",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4234",
+    "miejscowosc": "\u0141obez",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "54",
+    "kod": "73-150",
+    "poczta": "\u0141obez\r"
+  }
+]

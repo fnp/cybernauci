@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17919",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6226",
+    "miejscowosc": "J\u0119drzejewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "J\u0119drzejewo",
+    "numer": "40A",
+    "kod": "64-720",
+    "poczta": "Lubasz\r"
+  },
+  {
+    "id": "17900",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6226",
+    "miejscowosc": "J\u0119drzejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "J\u0119drzejewo",
+    "numer": "25",
+    "kod": "64-713",
+    "poczta": "J\u0119drzejewo\r"
+  },
+  {
+    "id": "17901",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6226",
+    "miejscowosc": "J\u0119drzejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "J\u0119drzejewo",
+    "numer": "25",
+    "kod": "64-713",
+    "poczta": "J\u0119drzejewo\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1578",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "696",
+    "miejscowosc": "Miasteczko \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "8",
+    "kod": "42-610",
+    "poczta": "Miasteczko \u015al\u0105skie\r"
+  },
+  {
+    "id": "1577",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "696",
+    "miejscowosc": "Miasteczko \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Dworcowa",
+    "numer": "5",
+    "kod": "42-610",
+    "poczta": "Miasteczko \u015al\u0105skie\r"
+  },
+  {
+    "id": "1579",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "696",
+    "miejscowosc": "Miasteczko \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Harcerska",
+    "numer": "5",
+    "kod": "42-610",
+    "poczta": "Miasteczko \u015al\u0105skie\r"
+  }
+]

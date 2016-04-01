@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3646",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1063",
+    "miejscowosc": "Zdzi\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zdzi\u0142owice",
+    "numer": "96",
+    "kod": "23-302",
+    "poczta": "Godzisz\u00f3w\r"
+  },
+  {
+    "id": "3647",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1063",
+    "miejscowosc": "Zdzi\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zdzi\u0142owice Czwarte",
+    "numer": "96A",
+    "kod": "23-302",
+    "poczta": "Godzisz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14081",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5093",
+    "miejscowosc": "Baruchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Kretkowskiej",
+    "ulica": "Baruchowo",
+    "numer": "19",
+    "kod": "87-821",
+    "poczta": "Baruchowo\r"
+  },
+  {
+    "id": "14082",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5093",
+    "miejscowosc": "Baruchowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I Armii Wojska Polskiego",
+    "ulica": "Baruchowo",
+    "numer": "19",
+    "kod": "87-821",
+    "poczta": "Baruchowo\r"
+  }
+]

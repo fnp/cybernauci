@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3740",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1101",
+    "miejscowosc": "Zaburze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zaburze",
+    "numer": "46",
+    "kod": "22-335",
+    "poczta": "\u017b\u00f3\u0142kiewka-Osada\r"
+  },
+  {
+    "id": "4760",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1101",
+    "miejscowosc": "Zaburze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Zaburze",
+    "numer": "100",
+    "kod": "22-463",
+    "poczta": "Radecznica\r"
+  },
+  {
+    "id": "3741",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1101",
+    "miejscowosc": "Zaburze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zaburze",
+    "numer": "46",
+    "kod": "22-335",
+    "poczta": "\u017b\u00f3\u0142kiewka-Osada\r"
+  },
+  {
+    "id": "3742",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1101",
+    "miejscowosc": "Zaburze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zaburze",
+    "numer": "46",
+    "kod": "22-335",
+    "poczta": "\u017b\u00f3\u0142kiewka-Osada\r"
+  }
+]

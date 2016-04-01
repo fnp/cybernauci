@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9080",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3289",
+    "miejscowosc": "Staniszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Staniszewo",
+    "numer": "2:00 AM",
+    "kod": "83-328",
+    "poczta": "Sianowo\r"
+  },
+  {
+    "id": "9081",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3289",
+    "miejscowosc": "Staniszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Staniszewo",
+    "numer": "2:00 AM",
+    "kod": "83-328",
+    "poczta": "Sianowo\r"
+  }
+]

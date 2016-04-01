@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7789",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2708",
+    "miejscowosc": "Zbludowice",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum",
+    "ulica": "\u015awi\u0119tokrzyska",
+    "numer": "9",
+    "kod": "28-100",
+    "poczta": "Busko-Zdr\u00f3j\r"
+  },
+  {
+    "id": "7790",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2708",
+    "miejscowosc": "Zbludowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "\u015awi\u0119tokrzyska",
+    "numer": "9",
+    "kod": "28-100",
+    "poczta": "Busko-Zdr\u00f3j\r"
+  }
+]

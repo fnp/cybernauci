@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6391",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2314",
+    "miejscowosc": "Krempachy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 z Oddzia\u0142ami Dwuj\u0119zycznymi im. Jana Paw\u0142a II ",
+    "ulica": "Kamieniec",
+    "numer": "46",
+    "kod": "34-433",
+    "poczta": "Krempachy\r"
+  },
+  {
+    "id": "6382",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2314",
+    "miejscowosc": "Krempachy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "17",
+    "kod": "34-433",
+    "poczta": "Nowa Bia\u0142a\r"
+  }
+]

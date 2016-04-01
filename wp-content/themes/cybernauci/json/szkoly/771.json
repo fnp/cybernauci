@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1853",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "771",
+    "miejscowosc": "Goleniowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Wespazjana Kochowskiego",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "20",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1854",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "771",
+    "miejscowosc": "Goleniowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Wespazjana Kochowskiego",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "20",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  }
+]

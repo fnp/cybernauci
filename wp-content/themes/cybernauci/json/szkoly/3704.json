@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10435",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3704",
+    "miejscowosc": "Radzi\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "19-213",
+    "poczta": "Radzi\u0142\u00f3w\r"
+  },
+  {
+    "id": "10433",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3704",
+    "miejscowosc": "Radzi\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "19-213",
+    "poczta": "Radzi\u0142\u00f3w\r"
+  }
+]

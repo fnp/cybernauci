@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24491",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8399",
+    "miejscowosc": "August\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "August\u00f3w",
+    "numer": "102b",
+    "kod": "26-670",
+    "poczta": "Pionki\r"
+  },
+  {
+    "id": "23236",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8399",
+    "miejscowosc": "August\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "19",
+    "kod": "26-902",
+    "poczta": "Grab\u00f3w nad Pilic\u0105\r"
+  }
+]

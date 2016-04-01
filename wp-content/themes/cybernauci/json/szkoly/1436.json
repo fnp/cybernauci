@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4385",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1436",
+    "miejscowosc": "Klementowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Niepubliczne",
+    "ulica": "Klementowice",
+    "numer": "365",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  },
+  {
+    "id": "4382",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1436",
+    "miejscowosc": "Klementowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Klementowice",
+    "numer": "365",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  },
+  {
+    "id": "4383",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1436",
+    "miejscowosc": "Klementowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Klementowice",
+    "numer": "365",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  },
+  {
+    "id": "4384",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1436",
+    "miejscowosc": "Klementowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Klementowice",
+    "numer": "365",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  },
+  {
+    "id": "4381",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1436",
+    "miejscowosc": "Klementowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Klementowice",
+    "numer": "230",
+    "kod": "24-170",
+    "poczta": "Kur\u00f3w\r"
+  }
+]

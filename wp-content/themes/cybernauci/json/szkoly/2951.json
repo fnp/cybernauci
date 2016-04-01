@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8217",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2951",
+    "miejscowosc": "Ba\u0107kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Ba\u0107kowice",
+    "numer": "100",
+    "kod": "27-552",
+    "poczta": "Ba\u0107kowice\r"
+  },
+  {
+    "id": "8218",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2951",
+    "miejscowosc": "Ba\u0107kowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Ba\u0107kowice",
+    "numer": "100",
+    "kod": "27-552",
+    "poczta": "Ba\u0107kowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19660",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7060",
+    "miejscowosc": "Chobienice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chobienice",
+    "numer": "145",
+    "kod": "64-214",
+    "poczta": "Chobienice\r"
+  },
+  {
+    "id": "19661",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7060",
+    "miejscowosc": "Chobienice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chobienice",
+    "numer": "145",
+    "kod": "64-214",
+    "poczta": "Chobienice\r"
+  }
+]

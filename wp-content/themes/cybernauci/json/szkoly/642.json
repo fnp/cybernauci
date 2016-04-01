@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1450",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "642",
+    "miejscowosc": "Suszec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "130",
+    "kod": "43-267",
+    "poczta": "Suszec\r"
+  },
+  {
+    "id": "1448",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "642",
+    "miejscowosc": "Suszec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "130",
+    "kod": "43-267",
+    "poczta": "Suszec\r"
+  }
+]

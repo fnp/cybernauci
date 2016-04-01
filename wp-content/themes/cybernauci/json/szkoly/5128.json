@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14142",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5128",
+    "miejscowosc": "Lubraniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Brzeska",
+    "numer": "51",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  },
+  {
+    "id": "14144",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5128",
+    "miejscowosc": "Lubraniec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Aleksandra Kami\u0144skiego",
+    "ulica": "Nowa",
+    "numer": "6",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  },
+  {
+    "id": "14145",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5128",
+    "miejscowosc": "Lubraniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Lubra\u0144skiego",
+    "ulica": "Nowa",
+    "numer": "6",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  },
+  {
+    "id": "14143",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5128",
+    "miejscowosc": "Lubraniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Brzeska",
+    "numer": "51",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  }
+]

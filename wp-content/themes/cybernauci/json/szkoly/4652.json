@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13198",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4652",
+    "miejscowosc": "Nieszawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zjazd",
+    "numer": "5",
+    "kod": "87-730",
+    "poczta": "Nieszawa\r"
+  },
+  {
+    "id": "13199",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4652",
+    "miejscowosc": "Nieszawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zjazd",
+    "numer": "5",
+    "kod": "87-730",
+    "poczta": "Nieszawa\r"
+  },
+  {
+    "id": "13200",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4652",
+    "miejscowosc": "Nieszawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "87-730",
+    "poczta": "Nieszawa\r"
+  }
+]

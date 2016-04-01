@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4501",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1496",
+    "miejscowosc": "Czernic",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Czernic",
+    "numer": "95",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  },
+  {
+    "id": "4502",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1496",
+    "miejscowosc": "Czernic",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czernic",
+    "numer": "95",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  }
+]

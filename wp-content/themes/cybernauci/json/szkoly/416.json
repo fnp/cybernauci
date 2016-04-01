@@ -1,0 +1,38 @@
+[
+  {
+    "id": "975",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "416",
+    "miejscowosc": "Blachownia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bankowa",
+    "numer": "13",
+    "kod": "42-290",
+    "poczta": "Blachownia\r"
+  },
+  {
+    "id": "974",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "416",
+    "miejscowosc": "Blachownia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Henryka Sienkiewicza",
+    "numer": "8",
+    "kod": "42-290",
+    "poczta": "Blachownia\r"
+  },
+  {
+    "id": "976",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "416",
+    "miejscowosc": "Blachownia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "5",
+    "kod": "42-290",
+    "poczta": "Blachownia\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23695",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8596",
+    "miejscowosc": "Czarnia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Czarnia",
+    "numer": "42",
+    "kod": "07-431",
+    "poczta": "Czarnia\r"
+  },
+  {
+    "id": "23696",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8596",
+    "miejscowosc": "Czarnia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Czarnia",
+    "numer": "42",
+    "kod": "07-431",
+    "poczta": "Czarnia\r"
+  },
+  {
+    "id": "23710",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8596",
+    "miejscowosc": "Czarnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czarnia",
+    "numer": "67",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

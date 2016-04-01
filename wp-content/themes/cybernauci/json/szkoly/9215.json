@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25014",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9215",
+    "miejscowosc": "Mokra Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. W\u0142adys\u0142awa Podkowi\u0144skiego",
+    "ulica": "Marii Konopnickiej",
+    "numer": "12",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25015",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9215",
+    "miejscowosc": "Mokra Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. W\u0142adys\u0142awa Podkowi\u0144skiego",
+    "ulica": "Marii Konopnickiej",
+    "numer": "12",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

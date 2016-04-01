@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21276",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7535",
+    "miejscowosc": "B\u0142a\u017ckowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "B\u0142a\u017ckowa",
+    "numer": "125",
+    "kod": "38-212",
+    "poczta": "Brzyska\r"
+  },
+  {
+    "id": "21278",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7535",
+    "miejscowosc": "B\u0142a\u017ckowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "B\u0142a\u017ckowa",
+    "numer": "125",
+    "kod": "38-212",
+    "poczta": "Brzyska\r"
+  }
+]

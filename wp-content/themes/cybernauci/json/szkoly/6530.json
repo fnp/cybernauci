@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18498",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6530",
+    "miejscowosc": "Lubst\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1A",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  },
+  {
+    "id": "18499",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6530",
+    "miejscowosc": "Lubst\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1A",
+    "kod": "62-610",
+    "poczta": "Sompolno\r"
+  }
+]

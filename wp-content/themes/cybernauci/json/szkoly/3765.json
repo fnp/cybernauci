@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10545",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3765",
+    "miejscowosc": "Miastkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "10",
+    "kod": "18-413",
+    "poczta": "Miastkowo\r"
+  },
+  {
+    "id": "10543",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3765",
+    "miejscowosc": "Miastkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "15",
+    "kod": "18-413",
+    "poczta": "Miastkowo\r"
+  }
+]

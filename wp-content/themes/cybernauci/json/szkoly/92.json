@@ -1,0 +1,50 @@
+[
+  {
+    "id": "210",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "92",
+    "miejscowosc": "Gogolin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 im. Kornela Makuszy\u0144skiego",
+    "ulica": "Strzelecka",
+    "numer": "39",
+    "kod": "47-320",
+    "poczta": "Gogolin\r"
+  },
+  {
+    "id": "208",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "92",
+    "miejscowosc": "Gogolin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3 im. Jana Brzechwy",
+    "ulica": "Krapkowicka",
+    "numer": "141",
+    "kod": "47-320",
+    "poczta": "Gogolin\r"
+  },
+  {
+    "id": "212",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "92",
+    "miejscowosc": "Gogolin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi im. Komisji Edukacji Narodowej",
+    "ulica": "Szkolna",
+    "numer": "27",
+    "kod": "47-320",
+    "poczta": "Gogolin\r"
+  },
+  {
+    "id": "213",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "92",
+    "miejscowosc": "Gogolin",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi i Integracyjnymi im. Alberta Einsteina",
+    "ulica": "Szkolna",
+    "numer": "27",
+    "kod": "47-320",
+    "poczta": "Gogolin\r"
+  }
+]

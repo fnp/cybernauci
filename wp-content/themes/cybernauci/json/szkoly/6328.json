@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19777",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6328",
+    "miejscowosc": "\u0141\u0105kie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0105kie",
+    "numer": "89",
+    "kod": "77-420",
+    "poczta": "Lipka\r"
+  },
+  {
+    "id": "19778",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6328",
+    "miejscowosc": "\u0141\u0105kie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105kie",
+    "numer": "89",
+    "kod": "77-420",
+    "poczta": "Lipka\r"
+  },
+  {
+    "id": "18148",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6328",
+    "miejscowosc": "\u0141\u0105kie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105kie",
+    "numer": "81",
+    "kod": "62-068",
+    "poczta": "Rostarzewo\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9300",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3383",
+    "miejscowosc": "\u0141eba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nadmorska",
+    "numer": "21",
+    "kod": "84-360",
+    "poczta": "\u0141eba\r"
+  },
+  {
+    "id": "9301",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3383",
+    "miejscowosc": "\u0141eba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nadmorska",
+    "numer": "21",
+    "kod": "84-360",
+    "poczta": "\u0141eba\r"
+  },
+  {
+    "id": "9302",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3383",
+    "miejscowosc": "\u0141eba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Technikum Technologii \u017bywno\u015bci i Hotelarstwa",
+    "ulica": "Nadmorska",
+    "numer": "21",
+    "kod": "84-360",
+    "poczta": "\u0141eba\r"
+  },
+  {
+    "id": "9299",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3383",
+    "miejscowosc": "\u0141eba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "11",
+    "kod": "84-360",
+    "poczta": "\u0141eba\r"
+  }
+]

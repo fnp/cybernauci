@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24827",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9141",
+    "miejscowosc": "Kampinos",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi im. Fryderyka Chopina",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "05-085",
+    "poczta": "Kampinos\r"
+  },
+  {
+    "id": "24828",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9141",
+    "miejscowosc": "Kampinos",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi im. Zygmunta Padlewskiego",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "05-085",
+    "poczta": "Kampinos\r"
+  }
+]

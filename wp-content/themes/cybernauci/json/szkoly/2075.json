@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5893",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2075",
+    "miejscowosc": "Piekie\u0142ko",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Piekie\u0142ko",
+    "numer": "",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  },
+  {
+    "id": "5895",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2075",
+    "miejscowosc": "Piekie\u0142ko",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Piekie\u0142ko",
+    "numer": "40",
+    "kod": "34-650",
+    "poczta": "Tymbark\r"
+  }
+]

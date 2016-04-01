@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21694",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7760",
+    "miejscowosc": "Krzemienica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krzemienica",
+    "numer": "631",
+    "kod": "37-127",
+    "poczta": "Krzemienica\r"
+  },
+  {
+    "id": "21695",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7760",
+    "miejscowosc": "Krzemienica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzemienica",
+    "numer": "631",
+    "kod": "37-127",
+    "poczta": "Krzemienica\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21973",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7908",
+    "miejscowosc": "Kalnik\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Kalnik\u00f3w",
+    "numer": "87",
+    "kod": "37-724",
+    "poczta": "Kalnik\u00f3w\r"
+  },
+  {
+    "id": "21974",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7908",
+    "miejscowosc": "Kalnik\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Kalnik\u00f3w",
+    "numer": "87",
+    "kod": "37-724",
+    "poczta": "Kalnik\u00f3w\r"
+  }
+]

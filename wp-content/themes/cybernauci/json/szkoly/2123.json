@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6009",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2123",
+    "miejscowosc": "Raciechowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Raciechowice",
+    "numer": "106",
+    "kod": "32-415",
+    "poczta": "Raciechowice\r"
+  },
+  {
+    "id": "6010",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2123",
+    "miejscowosc": "Raciechowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Raciechowice",
+    "numer": "106",
+    "kod": "32-415",
+    "poczta": "Raciechowice\r"
+  }
+]

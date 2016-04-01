@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24542",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9005",
+    "miejscowosc": "Korczew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "08-108",
+    "poczta": "Korczew\r"
+  },
+  {
+    "id": "24543",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9005",
+    "miejscowosc": "Korczew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "08-108",
+    "poczta": "Korczew\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19798",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7120",
+    "miejscowosc": "\u015awi\u0119ta",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Jana Paw\u0142a II ",
+    "ulica": "\u015awi\u0119ta",
+    "numer": "40",
+    "kod": "77-400",
+    "poczta": "Z\u0142ot\u00f3w\r"
+  },
+  {
+    "id": "19799",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7120",
+    "miejscowosc": "\u015awi\u0119ta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "\u015awi\u0119ta",
+    "numer": "40",
+    "kod": "77-400",
+    "poczta": "Z\u0142ot\u00f3w\r"
+  }
+]

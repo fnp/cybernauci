@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3830",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1149",
+    "miejscowosc": "Zakrz\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stefana \u017beromskiego",
+    "ulica": "W\u00f3jtowicza",
+    "numer": "35",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  },
+  {
+    "id": "3834",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1149",
+    "miejscowosc": "Zakrz\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sienkiewicza",
+    "numer": "1",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  },
+  {
+    "id": "3835",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1149",
+    "miejscowosc": "Zakrz\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sienkiewicza",
+    "numer": "1",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  },
+  {
+    "id": "3831",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1149",
+    "miejscowosc": "Zakrz\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "W\u00f3jtowicza",
+    "numer": "35",
+    "kod": "23-213",
+    "poczta": "Zakrz\u00f3wek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23428",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8487",
+    "miejscowosc": "P\u0142oniawy-Bramura",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0142oniawy-Bramura",
+    "numer": "80A",
+    "kod": "06-210",
+    "poczta": "P\u0142oniawy-Bramura\r"
+  },
+  {
+    "id": "23429",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8487",
+    "miejscowosc": "P\u0142oniawy-Bramura",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0142oniawy-Bramura",
+    "numer": "80A",
+    "kod": "06-210",
+    "poczta": "P\u0142oniawy-Bramura\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6104",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2176",
+    "miejscowosc": "Ptaszkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ptaszkowa",
+    "numer": "406",
+    "kod": "33-333",
+    "poczta": "Ptaszkowa\r"
+  },
+  {
+    "id": "6106",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2176",
+    "miejscowosc": "Ptaszkowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ptaszkowa",
+    "numer": "406",
+    "kod": "33-333",
+    "poczta": "Ptaszkowa\r"
+  },
+  {
+    "id": "6105",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2176",
+    "miejscowosc": "Ptaszkowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Ptaszkowa",
+    "numer": "495",
+    "kod": "33-333",
+    "poczta": "Ptaszkowa\r"
+  }
+]

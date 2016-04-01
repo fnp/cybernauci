@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13304",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4714",
+    "miejscowosc": "Wudzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zamkowa",
+    "numer": "12",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  },
+  {
+    "id": "13305",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4714",
+    "miejscowosc": "Wudzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. por. Wac\u0142awa Tarnowskiego",
+    "ulica": "Zamkowa",
+    "numer": "12",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  }
+]

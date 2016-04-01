@@ -1,0 +1,26 @@
+[
+  {
+    "id": "84",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "37",
+    "miejscowosc": "Nasiedle",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  },
+  {
+    "id": "81",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "37",
+    "miejscowosc": "Nasiedle",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym im. Marii Konopnickiej Stowarzyszenia Przyjaci\u00f3\u0142 Szko\u0142y Podstawowej w Nasiedlu",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "48-130",
+    "poczta": "Kietrz\r"
+  }
+]

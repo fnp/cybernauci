@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18672",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6615",
+    "miejscowosc": "D\u0142ugie Stare",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Leszczy\u0144ska",
+    "numer": "1",
+    "kod": "64-100",
+    "poczta": "Leszno\r"
+  },
+  {
+    "id": "18673",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6615",
+    "miejscowosc": "D\u0142ugie Stare",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Leszczy\u0144ska",
+    "numer": "1",
+    "kod": "64-100",
+    "poczta": "Leszno\r"
+  }
+]

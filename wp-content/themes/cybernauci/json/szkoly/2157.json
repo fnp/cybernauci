@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6075",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2157",
+    "miejscowosc": "\u015awiniarsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015awiniarsko",
+    "numer": "132",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  },
+  {
+    "id": "6076",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2157",
+    "miejscowosc": "\u015awiniarsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u015awiniarsko",
+    "numer": "132",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  }
+]

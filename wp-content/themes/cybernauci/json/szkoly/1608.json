@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4736",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1608",
+    "miejscowosc": "Komar\u00f3w-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "22-435",
+    "poczta": "Komar\u00f3w-Osada\r"
+  },
+  {
+    "id": "4731",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1608",
+    "miejscowosc": "Komar\u00f3w-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "22-435",
+    "poczta": "Komar\u00f3w-Osada\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22546",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8174",
+    "miejscowosc": "Baran\u00f3w Sandomierski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  },
+  {
+    "id": "22547",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8174",
+    "miejscowosc": "Baran\u00f3w Sandomierski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  },
+  {
+    "id": "22548",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8174",
+    "miejscowosc": "Baran\u00f3w Sandomierski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  }
+]

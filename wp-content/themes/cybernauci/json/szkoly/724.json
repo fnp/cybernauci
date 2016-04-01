@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1686",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "724",
+    "miejscowosc": "Bojszowy",
+    "typ": "podstawowa",
+    "nazwa": "Gminna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi ",
+    "ulica": "Sierpowa",
+    "numer": "38",
+    "kod": "43-220",
+    "poczta": "Bojszowy\r"
+  },
+  {
+    "id": "1689",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "724",
+    "miejscowosc": "Bojszowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum z Oddzia\u0142ami Integracyjnymi im. Roku Jubileuszowego",
+    "ulica": "\u015awi\u0119tego Jana",
+    "numer": "33 a",
+    "kod": "43-220",
+    "poczta": "Bojszowy\r"
+  },
+  {
+    "id": "1687",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "724",
+    "miejscowosc": "Bojszowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Kassolika",
+    "ulica": "\u017bubr\u00f3w",
+    "numer": "13",
+    "kod": "43-220",
+    "poczta": "Bojszowy\r"
+  },
+  {
+    "id": "1688",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "724",
+    "miejscowosc": "Bojszowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wilhelma Gawlikowicza",
+    "ulica": "\u015awi\u0119tego Jana",
+    "numer": "33",
+    "kod": "43-220",
+    "poczta": "Bojszowy\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3637",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1058",
+    "miejscowosc": "Krzemie\u0144 Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Krzemie\u0144 Pierwszy",
+    "numer": "192",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  },
+  {
+    "id": "3638",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1058",
+    "miejscowosc": "Krzemie\u0144 Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Krzemie\u0144 Pierwszy",
+    "numer": "192",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  }
+]

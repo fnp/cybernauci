@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6211",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2237",
+    "miejscowosc": "Z\u0142ockie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Z\u0142ockie",
+    "numer": "69",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6212",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2237",
+    "miejscowosc": "Z\u0142ockie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Z\u0142ockie",
+    "numer": "69",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6204",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2237",
+    "miejscowosc": "Z\u0142ockie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Cechu Rzemios\u0142 R\u00f3\u017cnych i Przedsi\u0119biorczo\u015bci",
+    "ulica": "Z\u0142ockie",
+    "numer": "69",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24615",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9047",
+    "miejscowosc": "Borki-Wyrki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Borki-Wyrki",
+    "numer": "17",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  },
+  {
+    "id": "24616",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9047",
+    "miejscowosc": "Borki-Wyrki",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. Kornela Makuszy\u0144skiego",
+    "ulica": "Borki-Wyrki",
+    "numer": "17",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  }
+]

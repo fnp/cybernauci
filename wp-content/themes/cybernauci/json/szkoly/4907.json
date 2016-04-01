@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13698",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4907",
+    "miejscowosc": "\u015alesin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "89-121",
+    "poczta": "\u015alesin\r"
+  },
+  {
+    "id": "13699",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4907",
+    "miejscowosc": "\u015alesin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "9",
+    "kod": "89-121",
+    "poczta": "\u015alesin\r"
+  }
+]

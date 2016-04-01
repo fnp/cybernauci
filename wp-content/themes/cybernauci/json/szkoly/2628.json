@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7102",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2628",
+    "miejscowosc": "Barwa\u0142d \u015aredni",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015aw. Jana Kantego",
+    "ulica": "Barwa\u0142d \u015aredni",
+    "numer": "70",
+    "kod": "23-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  },
+  {
+    "id": "7103",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2628",
+    "miejscowosc": "Barwa\u0142d \u015aredni",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Jana Kantego",
+    "ulica": "Barwa\u0142d \u015aredni",
+    "numer": "70",
+    "kod": "23-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  }
+]

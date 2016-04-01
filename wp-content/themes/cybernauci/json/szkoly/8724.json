@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23953",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8724",
+    "miejscowosc": "Brze\u015bce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wilanowska",
+    "numer": "55",
+    "kod": "05-507",
+    "poczta": "S\u0142omczyn\r"
+  },
+  {
+    "id": "23954",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8724",
+    "miejscowosc": "Brze\u015bce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilanowska",
+    "numer": "55",
+    "kod": "05-507",
+    "poczta": "S\u0142omczyn\r"
+  }
+]

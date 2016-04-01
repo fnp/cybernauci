@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1271",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "582",
+    "miejscowosc": "Kamie\u0144skie M\u0142yny",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "42-287",
+    "poczta": "Lubsza\r"
+  },
+  {
+    "id": "1274",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "582",
+    "miejscowosc": "Kamie\u0144skie M\u0142yny",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "42-287",
+    "poczta": "Lubsza\r"
+  }
+]

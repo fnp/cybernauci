@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24495",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8970",
+    "miejscowosc": "Jedlnia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Jedlnia",
+    "numer": "93",
+    "kod": "26-670",
+    "poczta": "Pionki\r"
+  },
+  {
+    "id": "24496",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8970",
+    "miejscowosc": "Jedlnia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jedlnia",
+    "numer": "93",
+    "kod": "26-670",
+    "poczta": "Pionki\r"
+  }
+]

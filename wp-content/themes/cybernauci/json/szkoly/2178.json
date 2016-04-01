@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6112",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2178",
+    "miejscowosc": "Sio\u0142kowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. T. Ko\u015bciuszki ",
+    "ulica": "Sio\u0142kowa",
+    "numer": "300",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6113",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2178",
+    "miejscowosc": "Sio\u0142kowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sio\u0142kowa",
+    "numer": "300",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  }
+]

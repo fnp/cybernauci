@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21399",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7609",
+    "miejscowosc": "Wide\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wide\u0142ka",
+    "numer": "191",
+    "kod": "36-145",
+    "poczta": "Wide\u0142ka\r"
+  },
+  {
+    "id": "21400",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7609",
+    "miejscowosc": "Wide\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wide\u0142ka",
+    "numer": "191",
+    "kod": "36-145",
+    "poczta": "Wide\u0142ka\r"
+  }
+]

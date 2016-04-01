@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24500",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8973",
+    "miejscowosc": "Przytyk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Przyjaci\u00f3\u0142 Dzieci",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "26-650",
+    "poczta": "Przytyk\r"
+  },
+  {
+    "id": "24502",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8973",
+    "miejscowosc": "Przytyk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "26-650",
+    "poczta": "Przytyk\r"
+  }
+]

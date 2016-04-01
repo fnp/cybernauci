@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1821",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "752",
+    "miejscowosc": "Kroczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sienkiewicza",
+    "numer": "7",
+    "kod": "42-425",
+    "poczta": "Kroczyce\r"
+  },
+  {
+    "id": "1818",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "752",
+    "miejscowosc": "Kroczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "29",
+    "kod": "42-425",
+    "poczta": "Kroczyce\r"
+  }
+]

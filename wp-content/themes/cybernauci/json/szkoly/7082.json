@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19699",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7082",
+    "miejscowosc": "Nekla",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szczepa\u0144skiego",
+    "numer": "7",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  },
+  {
+    "id": "19700",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7082",
+    "miejscowosc": "Nekla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szczepa\u0144skiego",
+    "numer": "7",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  }
+]

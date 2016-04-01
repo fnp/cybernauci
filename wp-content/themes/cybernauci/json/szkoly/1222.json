@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3963",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1222",
+    "miejscowosc": "Domin\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Domin\u00f3w",
+    "numer": "81C",
+    "kod": "20-388",
+    "poczta": "Lublin\r"
+  },
+  {
+    "id": "4567",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1222",
+    "miejscowosc": "Domin\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Domin\u00f3w",
+    "numer": "78",
+    "kod": "21-007",
+    "poczta": "Me\u0142giew\r"
+  },
+  {
+    "id": "3964",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1222",
+    "miejscowosc": "Domin\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Domin\u00f3w",
+    "numer": "81C",
+    "kod": "20-388",
+    "poczta": "Lublin\r"
+  },
+  {
+    "id": "3965",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1222",
+    "miejscowosc": "Domin\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Domin\u00f3w",
+    "numer": "81C",
+    "kod": "20-388",
+    "poczta": "Lublin\r"
+  }
+]

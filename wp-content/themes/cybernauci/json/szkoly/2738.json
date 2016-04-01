@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7841",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2738",
+    "miejscowosc": "W\u0119gleniec",
+    "typ": "podstawowa",
+    "nazwa": "Filia Szko\u0142y Podstawowej Nr 3",
+    "ulica": "W\u0119gleniec",
+    "numer": "1",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  },
+  {
+    "id": "7860",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2738",
+    "miejscowosc": "W\u0119gleniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "W\u0119gleniec",
+    "numer": "1",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  },
+  {
+    "id": "7862",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2738",
+    "miejscowosc": "W\u0119gleniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "W\u0119gleniec",
+    "numer": "1",
+    "kod": "28-300",
+    "poczta": "J\u0119drzej\u00f3w\r"
+  }
+]

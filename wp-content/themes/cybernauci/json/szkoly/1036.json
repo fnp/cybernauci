@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3607",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1036",
+    "miejscowosc": "Trzeszczany Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Trzeszczany Pierwsze",
+    "numer": "199",
+    "kod": "22-554",
+    "poczta": "Trzeszczany\r"
+  },
+  {
+    "id": "3606",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1036",
+    "miejscowosc": "Trzeszczany Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Trzeszczany Pierwsze",
+    "numer": "199",
+    "kod": "22-554",
+    "poczta": "Trzeszczany\r"
+  }
+]

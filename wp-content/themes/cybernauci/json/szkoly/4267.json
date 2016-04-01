@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12206",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4267",
+    "miejscowosc": "Frombork",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Katedralna",
+    "numer": "9",
+    "kod": "14-530",
+    "poczta": "Frombork\r"
+  },
+  {
+    "id": "12207",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4267",
+    "miejscowosc": "Frombork",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Katedralna",
+    "numer": "9",
+    "kod": "14-530",
+    "poczta": "Frombork\r"
+  }
+]

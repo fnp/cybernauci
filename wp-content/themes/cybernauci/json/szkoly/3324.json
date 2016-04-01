@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9159",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gdy\u0144ska",
+    "numer": "5",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9149",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "podstawowa",
+    "nazwa": "Parafialna Szko\u0142a Podstawowa",
+    "ulica": "Klasztorna",
+    "numer": "18",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9150",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Jana Heweliusza",
+    "ulica": "Armii Krajowej",
+    "numer": "2E",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9145",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Wybrze\u017ca",
+    "ulica": "Gdy\u0144ska",
+    "numer": "7",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9160",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gdy\u0144ska",
+    "numer": "5",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  },
+  {
+    "id": "9161",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3324",
+    "miejscowosc": "\u017bukowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gdy\u0144ska",
+    "numer": "5",
+    "kod": "83-330",
+    "poczta": "\u017bukowo\r"
+  }
+]

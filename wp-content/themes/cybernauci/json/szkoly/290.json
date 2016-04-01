@@ -1,0 +1,26 @@
+[
+  {
+    "id": "580",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "290",
+    "miejscowosc": "Izbicko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminy Izbicko Publiczna Szko\u0142a Podstawowa",
+    "ulica": "15 Grudnia",
+    "numer": "32",
+    "kod": "47-180",
+    "poczta": "Izbicko\r"
+  },
+  {
+    "id": "583",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "290",
+    "miejscowosc": "Izbicko",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminy Izbicko Publiczne Gimnazjum",
+    "ulica": "15 Grudnia",
+    "numer": "32",
+    "kod": "47-180",
+    "poczta": "Izbicko\r"
+  }
+]

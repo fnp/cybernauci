@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8456",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3053",
+    "miejscowosc": "Zawichost",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w ZSO ",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "27-630",
+    "poczta": "Zawichost\r"
+  },
+  {
+    "id": "8457",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3053",
+    "miejscowosc": "Zawichost",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w ZSO",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "27-630",
+    "poczta": "Zawichost\r"
+  },
+  {
+    "id": "8455",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3053",
+    "miejscowosc": "Zawichost",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ziemi Zawichojskiej",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "27-630",
+    "poczta": "Zawichost\r"
+  }
+]

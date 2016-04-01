@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17190",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6084",
+    "miejscowosc": "Wiaderno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wiademo",
+    "numer": "1",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "17191",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6084",
+    "miejscowosc": "Wiaderno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wiademo",
+    "numer": "1",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  }
+]

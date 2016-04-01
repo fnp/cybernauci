@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9450",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3449",
+    "miejscowosc": "Darzlubie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pucka",
+    "numer": "74",
+    "kod": "84-100",
+    "poczta": "Puck\r"
+  },
+  {
+    "id": "9451",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3449",
+    "miejscowosc": "Darzlubie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pucka",
+    "numer": "74",
+    "kod": "84-100",
+    "poczta": "Puck\r"
+  }
+]

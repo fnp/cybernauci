@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23488",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8507",
+    "miejscowosc": "Brzeziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne ",
+    "ulica": "Brzeziny",
+    "numer": "3",
+    "kod": "05-074",
+    "poczta": "Halin\u00f3w\r"
+  },
+  {
+    "id": "23489",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8507",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzeziny",
+    "numer": "3",
+    "kod": "05-074",
+    "poczta": "Halin\u00f3w\r"
+  }
+]

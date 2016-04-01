@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4670",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1575",
+    "miejscowosc": "Sabaudia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Sabaudia",
+    "numer": "47",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  },
+  {
+    "id": "4671",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1575",
+    "miejscowosc": "Sabaudia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sabaudia",
+    "numer": "47",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  }
+]

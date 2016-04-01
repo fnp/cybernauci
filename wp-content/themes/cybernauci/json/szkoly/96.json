@@ -1,0 +1,110 @@
+[
+  {
+    "id": "223",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Ks. Fr. Duszy",
+    "numer": "7",
+    "kod": "47-303",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "224",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ks. Fr. Duszy",
+    "numer": "7",
+    "kod": "47-303",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "225",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Sportowa Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Osiedle XXX-lecia",
+    "numer": "24",
+    "kod": "47-303",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "215",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "47-300",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "219",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 4",
+    "ulica": "\u017beromskiego",
+    "numer": "34",
+    "kod": "47-303",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "218",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Kwiatowa",
+    "numer": "7",
+    "kod": "47-300",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "226",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Sportowe Gimnazjum Nr 1",
+    "ulica": "Osiedle XXX-lecia",
+    "numer": "24",
+    "kod": "47-303",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "227",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zamkowa",
+    "numer": "5",
+    "kod": "47-300",
+    "poczta": "Krapkowice\r"
+  },
+  {
+    "id": "228",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "96",
+    "miejscowosc": "Krapkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zamkowa",
+    "numer": "5",
+    "kod": "47-300",
+    "poczta": "Krapkowice\r"
+  }
+]

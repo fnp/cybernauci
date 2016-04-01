@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11176",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3959",
+    "miejscowosc": "Wierzchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "D\u0142uga",
+    "numer": "26 A",
+    "kod": "78-530",
+    "poczta": "Wierzchowo\r"
+  },
+  {
+    "id": "11778",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3959",
+    "miejscowosc": "Wierzchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wierzchowo",
+    "numer": "59",
+    "kod": "78-411",
+    "poczta": "Wierzchowo\r"
+  },
+  {
+    "id": "11175",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3959",
+    "miejscowosc": "Wierzchowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0142uga",
+    "numer": "23a",
+    "kod": "78-530",
+    "poczta": "Wierzchowo\r"
+  },
+  {
+    "id": "11773",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3959",
+    "miejscowosc": "Wierzchowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wierzchowo",
+    "numer": "40",
+    "kod": "78-411",
+    "poczta": "Wierzchowo\r"
+  }
+]

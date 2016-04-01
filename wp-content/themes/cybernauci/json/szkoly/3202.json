@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8907",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3202",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "K\u0142odawa",
+    "numer": "49",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  },
+  {
+    "id": "9047",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3202",
+    "miejscowosc": "K\u0142odawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Kownackiej",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "83-035",
+    "poczta": "K\u0142odawa\r"
+  }
+]

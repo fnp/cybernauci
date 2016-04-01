@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13755",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4930",
+    "miejscowosc": "Pocierzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pocierzyn",
+    "numer": "35",
+    "kod": "88-220",
+    "poczta": "Osi\u0119ciny\r"
+  },
+  {
+    "id": "13753",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4930",
+    "miejscowosc": "Pocierzyn",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Pocierzyn",
+    "numer": "35",
+    "kod": "88-220",
+    "poczta": "Osi\u0119ciny\r"
+  }
+]

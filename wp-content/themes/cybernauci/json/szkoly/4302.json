@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12277",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4302",
+    "miejscowosc": "Rybno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "24",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  },
+  {
+    "id": "12278",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4302",
+    "miejscowosc": "Rybno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sportowa",
+    "numer": "24",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  },
+  {
+    "id": "12270",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4302",
+    "miejscowosc": "Rybno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "12",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  },
+  {
+    "id": "12279",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4302",
+    "miejscowosc": "Rybno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sportowa",
+    "numer": "24",
+    "kod": "13-220",
+    "poczta": "Rybno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1993",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "821",
+    "miejscowosc": "Pewel Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "15",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  },
+  {
+    "id": "1997",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "821",
+    "miejscowosc": "Pewel Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "15",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  }
+]

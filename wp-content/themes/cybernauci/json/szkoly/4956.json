@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13809",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4956",
+    "miejscowosc": "Skrwilno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bie\u017cu\u0144ska",
+    "numer": "16",
+    "kod": "87-510",
+    "poczta": "Skrwilno\r"
+  },
+  {
+    "id": "13810",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4956",
+    "miejscowosc": "Skrwilno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bie\u017cu\u0144ska",
+    "numer": "16",
+    "kod": "87-510",
+    "poczta": "Skrwilno\r"
+  }
+]

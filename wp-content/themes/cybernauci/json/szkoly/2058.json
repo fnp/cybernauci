@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5858",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2058",
+    "miejscowosc": "Przyszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Przyszowa",
+    "numer": "484",
+    "kod": "34-604",
+    "poczta": "Przyszowa\r"
+  },
+  {
+    "id": "5859",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2058",
+    "miejscowosc": "Przyszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Przyszowa",
+    "numer": "484",
+    "kod": "34-604",
+    "poczta": "Przyszowa\r"
+  },
+  {
+    "id": "5856",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2058",
+    "miejscowosc": "Przyszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Henryka Sienkiewicza",
+    "ulica": "Przyszowa",
+    "numer": "34",
+    "kod": "34-604",
+    "poczta": "Przyszowa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16280",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5649",
+    "miejscowosc": "Kluki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wandy Malczewskiej",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-415",
+    "poczta": "Kluki\r"
+  },
+  {
+    "id": "16281",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5649",
+    "miejscowosc": "Kluki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-415",
+    "poczta": "Kluki\r"
+  }
+]

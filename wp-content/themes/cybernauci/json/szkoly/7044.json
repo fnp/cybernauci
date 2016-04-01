@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19630",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7044",
+    "miejscowosc": "Wapno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "pl. Mickiewicza",
+    "numer": "2",
+    "kod": "62-120",
+    "poczta": "Wapno\r"
+  },
+  {
+    "id": "19631",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7044",
+    "miejscowosc": "Wapno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "pl. Mickiewicza",
+    "numer": "2",
+    "kod": "62-120",
+    "poczta": "Wapno\r"
+  }
+]

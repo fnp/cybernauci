@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23976",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8728",
+    "miejscowosc": "S\u0142omczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Wilanowska",
+    "numer": "218",
+    "kod": "05-520",
+    "poczta": "Konstancin-Jeziorna\r"
+  },
+  {
+    "id": "23977",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8728",
+    "miejscowosc": "S\u0142omczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Wilanowska",
+    "numer": "218",
+    "kod": "05-520",
+    "poczta": "Konstancin-Jeziorna\r"
+  }
+]

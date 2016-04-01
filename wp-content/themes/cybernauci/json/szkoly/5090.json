@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14072",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5090",
+    "miejscowosc": "Ziele\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ziele\u0144",
+    "numer": "56",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14073",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5090",
+    "miejscowosc": "Ziele\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ziele\u0144",
+    "numer": "56",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  }
+]

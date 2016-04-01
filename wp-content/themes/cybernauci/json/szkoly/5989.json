@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17019",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5989",
+    "miejscowosc": "B\u0142aszki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Wojska Polskiego",
+    "ulica": "pl. L. Sulwi\u0144skiego",
+    "numer": "31",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17016",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5989",
+    "miejscowosc": "B\u0142aszki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pomorska",
+    "numer": "6",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17011",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5989",
+    "miejscowosc": "B\u0142aszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17020",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5989",
+    "miejscowosc": "B\u0142aszki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sulwinskiego",
+    "numer": "31",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17021",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5989",
+    "miejscowosc": "B\u0142aszki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "pl. L. Sulwi\u0144skiego",
+    "numer": "31",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  }
+]

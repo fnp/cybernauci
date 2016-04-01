@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14999",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5290",
+    "miejscowosc": "Mi\u0119dzylesie",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "2",
+    "kod": "57-530",
+    "poczta": "Mi\u0119dzylesie\r"
+  },
+  {
+    "id": "15000",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5290",
+    "miejscowosc": "Mi\u0119dzylesie",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum Nr 1",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "2",
+    "kod": "57-530",
+    "poczta": "Mi\u0119dzylesie\r"
+  }
+]

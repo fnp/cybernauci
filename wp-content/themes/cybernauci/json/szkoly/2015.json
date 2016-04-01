@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5787",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2015",
+    "miejscowosc": "Skrzydlna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Skrzydlna",
+    "numer": "186",
+    "kod": "34-625",
+    "poczta": "Skrzydlna\r"
+  },
+  {
+    "id": "5788",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2015",
+    "miejscowosc": "Skrzydlna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Skrzydlna",
+    "numer": "186",
+    "kod": "34-625",
+    "poczta": "Skrzydlna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23199",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8383",
+    "miejscowosc": "Kruszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Kruszew",
+    "numer": "57A",
+    "kod": "05-652",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "23200",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8383",
+    "miejscowosc": "Kruszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kruszew",
+    "numer": "57b",
+    "kod": "05-652",
+    "poczta": "Pniewy\r"
+  }
+]

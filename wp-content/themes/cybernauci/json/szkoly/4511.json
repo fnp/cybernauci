@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12763",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4511",
+    "miejscowosc": "Smolajny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum SPSK ",
+    "ulica": "Smolajny",
+    "numer": "39",
+    "kod": "11-040",
+    "poczta": "Dobre Miasto\r"
+  },
+  {
+    "id": "12759",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4511",
+    "miejscowosc": "Smolajny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa SPSK",
+    "ulica": "Smolajny",
+    "numer": "39",
+    "kod": "11-040",
+    "poczta": "Dobre Miasto\r"
+  }
+]

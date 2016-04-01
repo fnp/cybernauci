@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3423",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "927",
+    "miejscowosc": "S\u00f3l",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "S\u00f3l",
+    "numer": "279",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3424",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "927",
+    "miejscowosc": "S\u00f3l",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa ",
+    "ulica": "S\u00f3l",
+    "numer": "279",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

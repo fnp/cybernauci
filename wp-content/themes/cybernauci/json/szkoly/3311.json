@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9126",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3311",
+    "miejscowosc": "Kamienica Szlachecka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. A. Pepli\u0144skiego",
+    "ulica": "D\u0142uga",
+    "numer": "13",
+    "kod": "83-323",
+    "poczta": "Kamienica Szlachecka\r"
+  },
+  {
+    "id": "9127",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3311",
+    "miejscowosc": "Kamienica Szlachecka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. A. Pepli\u0144skiego",
+    "ulica": "D\u0142uga",
+    "numer": "13",
+    "kod": "83-323",
+    "poczta": "Kamienica Szlachecka\r"
+  }
+]

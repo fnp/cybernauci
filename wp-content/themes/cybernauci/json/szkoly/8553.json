@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23606",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8553",
+    "miejscowosc": "Stupsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Sienkiewicza",
+    "numer": "11",
+    "kod": "06-561",
+    "poczta": "Stupsk\r"
+  },
+  {
+    "id": "23607",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8553",
+    "miejscowosc": "Stupsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sienkiewicza",
+    "numer": "11",
+    "kod": "06-561",
+    "poczta": "Stupsk\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6474",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2351",
+    "miejscowosc": "Bydlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Legionist\u00f3w J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Legion\u00f3w",
+    "numer": "32",
+    "kod": "32-310",
+    "poczta": "Klucze\r"
+  },
+  {
+    "id": "6467",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2351",
+    "miejscowosc": "Bydlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Legion\u00f3w",
+    "numer": "32",
+    "kod": "32-310",
+    "poczta": "Klucze\r"
+  }
+]

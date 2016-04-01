@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15526",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15527",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15524",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kownackiego",
+    "numer": "4",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15522",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "24",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15523",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "ul. Trzebnicka",
+    "numer": "33",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15528",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15529",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5488",
+    "miejscowosc": "Oborniki \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  }
+]

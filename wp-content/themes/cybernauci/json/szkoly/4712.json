@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13300",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4712",
+    "miejscowosc": "Dobrcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "33",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  },
+  {
+    "id": "13301",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4712",
+    "miejscowosc": "Dobrcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "33",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6677",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2430",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Ostr\u00f3w",
+    "numer": "1",
+    "kod": "32-112",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "6916",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2430",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "139",
+    "kod": "33-122",
+    "poczta": "Wierzchos\u0142awice\r"
+  },
+  {
+    "id": "6671",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2430",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "1",
+    "kod": "32-112",
+    "poczta": "Klimont\u00f3w\r"
+  }
+]

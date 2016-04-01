@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18034",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6275",
+    "miejscowosc": "\u0141ubowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u0141ubowo",
+    "numer": "13d",
+    "kod": "62-260",
+    "poczta": "\u0141ubowo\r"
+  },
+  {
+    "id": "18033",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6275",
+    "miejscowosc": "\u0141ubowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u0141ubowo",
+    "numer": "13 c",
+    "kod": "62-260",
+    "poczta": "\u0141ubowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14090",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5098",
+    "miejscowosc": "Stary Brze\u015b\u0107",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stary Brze\u015b\u0107",
+    "numer": "14",
+    "kod": "87-880",
+    "poczta": "Brze\u015b\u0107 Kujawski\r"
+  },
+  {
+    "id": "14091",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5098",
+    "miejscowosc": "Stary Brze\u015b\u0107",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stary Brze\u015b\u0107",
+    "numer": "14",
+    "kod": "87-880",
+    "poczta": "Brze\u015b\u0107 Kujawski\r"
+  }
+]

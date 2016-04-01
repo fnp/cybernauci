@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5128",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1676",
+    "miejscowosc": "Pogwizd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pogwizd\u00f3w",
+    "numer": "26",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5129",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1676",
+    "miejscowosc": "Pogwizd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pogwizd\u00f3w",
+    "numer": "26",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5898",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1676",
+    "miejscowosc": "Pogwizd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pogwizd\u00f3w",
+    "numer": "58",
+    "kod": "32-250",
+    "poczta": "Charsznica\r"
+  }
+]

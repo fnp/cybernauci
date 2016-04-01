@@ -1,0 +1,122 @@
+[
+  {
+    "id": "13013",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Noblist\u00f3w Polskich ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "30",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13015",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Paw\u0142a II",
+    "ulica": "Ksi\u0119dza Popie\u0142uszki",
+    "numer": "2",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13016",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zaoczne Mazursko-Podlaskiego Centrum Edukacji",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "25",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13017",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zaoczne ZDZ",
+    "ulica": "Mazurska",
+    "numer": "25",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13014",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Boczna",
+    "numer": "1",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13006",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi im. Miko\u0142aja Kopernika",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13007",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "1 Maja",
+    "numer": "25",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13008",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "25",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13020",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ja\u0107wieska",
+    "numer": "14",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  },
+  {
+    "id": "13021",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4636",
+    "miejscowosc": "Go\u0142dap",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ja\u0107wieska",
+    "numer": "14",
+    "kod": "19-500",
+    "poczta": "Go\u0142dap\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1396",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "G\u00f3rnicza",
+    "numer": "47",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1392",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 z Oddzia\u0142ami Integracyjnymi im. ks. prof. J\u00f3zefa Tischnera ",
+    "ulica": "Przemys\u0142owa",
+    "numer": "7",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1398",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Poprzeczna",
+    "numer": "1a",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1390",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Bronis\u0142awa Malinowskiego",
+    "ulica": "G\u00f3rnicza",
+    "numer": "47",
+    "kod": "34-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1391",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 z Oddzia\u0142ami Integracyjnymi im. Jana Paw\u0142a II ",
+    "ulica": "Lipowa",
+    "numer": "3",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1397",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "G\u00f3rnicza",
+    "numer": "47",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1399",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Poprzeczna",
+    "numer": "1a",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  },
+  {
+    "id": "1400",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "620",
+    "miejscowosc": "Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Poprzeczna",
+    "numer": "1a",
+    "kod": "43-225",
+    "poczta": "Wola\r"
+  }
+]

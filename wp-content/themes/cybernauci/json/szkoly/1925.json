@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5616",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1925",
+    "miejscowosc": "Krzeszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ogrodowa",
+    "numer": "3",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  },
+  {
+    "id": "5615",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1925",
+    "miejscowosc": "Krzeszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "22",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  },
+  {
+    "id": "5608",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1925",
+    "miejscowosc": "Krzeszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  },
+  {
+    "id": "5623",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1925",
+    "miejscowosc": "Krzeszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Krakowska",
+    "numer": "15",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  },
+  {
+    "id": "5624",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1925",
+    "miejscowosc": "Krzeszowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Krakowska",
+    "numer": "15",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  }
+]

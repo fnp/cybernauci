@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8969",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3227",
+    "miejscowosc": "Rychnowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Rychnowy",
+    "numer": "5",
+    "kod": "77-300",
+    "poczta": "Cz\u0142uch\u00f3w\r"
+  },
+  {
+    "id": "8967",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3227",
+    "miejscowosc": "Rychnowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rychnowy",
+    "numer": "5",
+    "kod": "77-300",
+    "poczta": "Cz\u0142uch\u00f3w\r"
+  }
+]

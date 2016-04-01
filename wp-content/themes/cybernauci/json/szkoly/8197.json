@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22596",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8197",
+    "miejscowosc": "Cisna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. p\u0142k. K. Iranka-Osmeckiego",
+    "ulica": "Cisna",
+    "numer": "58",
+    "kod": "38-607",
+    "poczta": "Cisna\r"
+  },
+  {
+    "id": "22597",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8197",
+    "miejscowosc": "Cisna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. A. Fredry",
+    "ulica": "Cisna",
+    "numer": "58",
+    "kod": "38-607",
+    "poczta": "Cisna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5868",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2064",
+    "miejscowosc": "Kasina Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Gimnazjum",
+    "ulica": "Kasina Wielka",
+    "numer": "nie ma",
+    "kod": "34-741",
+    "poczta": "Kasina Wielka\r"
+  },
+  {
+    "id": "5869",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2064",
+    "miejscowosc": "Kasina Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Kasina Wielka",
+    "numer": "nie ma",
+    "kod": "34-741",
+    "poczta": "Kasina Wielka\r"
+  }
+]

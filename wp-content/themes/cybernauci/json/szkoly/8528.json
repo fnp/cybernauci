@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24353",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8528",
+    "miejscowosc": "Lipiny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lipiny",
+    "numer": "40",
+    "kod": "26-425",
+    "poczta": "Odrzyw\u00f3\u0142\r"
+  },
+  {
+    "id": "23521",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8528",
+    "miejscowosc": "Lipiny",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Lipiny",
+    "numer": "71",
+    "kod": "05-317",
+    "poczta": "Jeruzal\r"
+  },
+  {
+    "id": "24354",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8528",
+    "miejscowosc": "Lipiny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Lipiny",
+    "numer": "40",
+    "kod": "26-425",
+    "poczta": "Odrzyw\u00f3\u0142\r"
+  },
+  {
+    "id": "24355",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8528",
+    "miejscowosc": "Lipiny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lipiny",
+    "numer": "40",
+    "kod": "26-425",
+    "poczta": "Odrzyw\u00f3\u0142\r"
+  }
+]

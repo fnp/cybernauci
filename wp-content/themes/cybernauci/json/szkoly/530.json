@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1186",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "530",
+    "miejscowosc": "Mied\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015awi\u0119tej Jadwigi Kr\u00f3lowej ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-120",
+    "poczta": "Mied\u017ano\r"
+  },
+  {
+    "id": "1185",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "530",
+    "miejscowosc": "Mied\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-120",
+    "poczta": "Mied\u017ano\r"
+  }
+]

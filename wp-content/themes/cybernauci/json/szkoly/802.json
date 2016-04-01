@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1962",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "802",
+    "miejscowosc": "Mil\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Sportowa",
+    "numer": "15",
+    "kod": "34-360",
+    "poczta": "Mil\u00f3wka\r"
+  },
+  {
+    "id": "1964",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "802",
+    "miejscowosc": "Mil\u00f3wka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworcowa",
+    "numer": "17",
+    "kod": "34-360",
+    "poczta": "Mil\u00f3wka\r"
+  },
+  {
+    "id": "1957",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "802",
+    "miejscowosc": "Mil\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "34-360",
+    "poczta": "Mil\u00f3wka\r"
+  },
+  {
+    "id": "1965",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "802",
+    "miejscowosc": "Mil\u00f3wka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dworcowa",
+    "numer": "17",
+    "kod": "34-360",
+    "poczta": "Mil\u00f3wka\r"
+  },
+  {
+    "id": "1966",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "802",
+    "miejscowosc": "Mil\u00f3wka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Dworcowa",
+    "numer": "17",
+    "kod": "34-360",
+    "poczta": "Mil\u00f3wka\r"
+  }
+]

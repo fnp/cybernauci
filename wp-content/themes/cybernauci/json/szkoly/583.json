@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1279",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ogrodowa",
+    "numer": "48",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1281",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Cieszy\u0144ska",
+    "numer": "12",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1280",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "6",
+    "kod": "43-173",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1276",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Dworcowa",
+    "numer": "4",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1282",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Cieszy\u0144ska",
+    "numer": "12",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1277",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "43-173",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1278",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 6 z Oddzia\u0142ami Integracyjnymi im. Jana Paw\u0142a II",
+    "ulica": "Wyrska",
+    "numer": "4",
+    "kod": "43-173",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1283",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Chopina",
+    "numer": "11b",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  },
+  {
+    "id": "1284",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "583",
+    "miejscowosc": "\u0141aziska G\u00f3rne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Chopina",
+    "numer": "11b",
+    "kod": "43-170",
+    "poczta": "\u0141aziska G\u00f3rne\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "17081",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6030",
+    "miejscowosc": "Bolim\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Soko\u0142owska",
+    "numer": "24",
+    "kod": "99-417",
+    "poczta": "Bolim\u00f3w\r"
+  },
+  {
+    "id": "17082",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6030",
+    "miejscowosc": "Bolim\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Soko\u0142owska",
+    "numer": "24",
+    "kod": "99-417",
+    "poczta": "Bolim\u00f3w\r"
+  },
+  {
+    "id": "17078",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6030",
+    "miejscowosc": "Bolim\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka D\u0105browskiego",
+    "ulica": "Soko\u0142owska",
+    "numer": "24",
+    "kod": "00-417",
+    "poczta": "Bolim\u00f3w\r"
+  },
+  {
+    "id": "17083",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6030",
+    "miejscowosc": "Bolim\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Soko\u0142owska",
+    "numer": "24",
+    "kod": "99-417",
+    "poczta": "Bolim\u00f3w\r"
+  }
+]

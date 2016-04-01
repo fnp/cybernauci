@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6629",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2404",
+    "miejscowosc": "Przecisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "93",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  },
+  {
+    "id": "6631",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2404",
+    "miejscowosc": "Przecisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 w Zespole",
+    "ulica": "Podlesie",
+    "numer": "92",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  },
+  {
+    "id": "6630",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2404",
+    "miejscowosc": "Przecisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ignacego Fika",
+    "ulica": "Szkolna",
+    "numer": "93",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  },
+  {
+    "id": "6632",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2404",
+    "miejscowosc": "Przecisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Podlesie",
+    "numer": "92",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  }
+]

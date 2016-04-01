@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19514",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6994",
+    "miejscowosc": "Zbrudzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015aremska",
+    "numer": "49",
+    "kod": "63-100",
+    "poczta": "\u015arem\r"
+  },
+  {
+    "id": "19515",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6994",
+    "miejscowosc": "Zbrudzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015aremska",
+    "numer": "49",
+    "kod": "63-100",
+    "poczta": "\u015arem\r"
+  }
+]

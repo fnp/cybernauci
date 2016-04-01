@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14804",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5213",
+    "miejscowosc": "Czernina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14805",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5213",
+    "miejscowosc": "Czernina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  }
+]

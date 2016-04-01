@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6040",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2141",
+    "miejscowosc": "Lipnik",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Gimnazjum",
+    "ulica": "Lipnik",
+    "numer": "",
+    "kod": "32-412",
+    "poczta": "Wi\u015bniowa\r"
+  },
+  {
+    "id": "6041",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2141",
+    "miejscowosc": "Lipnik",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Lipnik",
+    "numer": "",
+    "kod": "32-412",
+    "poczta": "Wi\u015bniowa\r"
+  }
+]

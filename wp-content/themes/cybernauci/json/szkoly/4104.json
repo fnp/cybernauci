@@ -1,0 +1,122 @@
+[
+  {
+    "id": "11523",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Czteroletnie Technikum Nr 2",
+    "ulica": "Za Bramk\u0105",
+    "numer": "8",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11518",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pionier\u00f3w",
+    "numer": "13",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11524",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Za Bramk\u0105",
+    "numer": "8",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11525",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Za Bramk\u0105",
+    "numer": "8",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11519",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Armii Polskiej",
+    "numer": "13",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11520",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Broniewskiego",
+    "numer": "16",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11514",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "18",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11515",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Lipowa",
+    "numer": "18A",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11526",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Strzelecka",
+    "numer": "51",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11527",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4104",
+    "miejscowosc": "My\u015blib\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Strzelecka",
+    "numer": "51",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  }
+]

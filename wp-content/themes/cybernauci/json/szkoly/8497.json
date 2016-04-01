@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23474",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8497",
+    "miejscowosc": "Ceg\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Poprzeczna",
+    "numer": "27",
+    "kod": "05-319",
+    "poczta": "Ceg\u0142\u00f3w\r"
+  },
+  {
+    "id": "23476",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8497",
+    "miejscowosc": "Ceg\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Poprzeczna",
+    "numer": "27",
+    "kod": "05-319",
+    "poczta": "Ceg\u0142\u00f3w\r"
+  }
+]

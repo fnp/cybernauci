@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6780",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2479",
+    "miejscowosc": "P\u0142awna",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "P\u0142awna",
+    "numer": "22",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  },
+  {
+    "id": "6782",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2479",
+    "miejscowosc": "P\u0142awna",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "P\u0142awna",
+    "numer": "22",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  }
+]

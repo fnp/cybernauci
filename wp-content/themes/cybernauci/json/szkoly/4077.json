@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11458",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4077",
+    "miejscowosc": "Bonin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bonin",
+    "numer": "2",
+    "kod": "76-009",
+    "poczta": "Bonin\r"
+  },
+  {
+    "id": "11461",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4077",
+    "miejscowosc": "Bonin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum dla m\u0142odzie\u017cy",
+    "ulica": "Bonin",
+    "numer": "1",
+    "kod": "76-009",
+    "poczta": "Bonin\r"
+  },
+  {
+    "id": "11462",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4077",
+    "miejscowosc": "Bonin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa dla m\u0142odzie\u017cy",
+    "ulica": "Bonin",
+    "numer": "1",
+    "kod": "76-009",
+    "poczta": "Bonin\r"
+  }
+]

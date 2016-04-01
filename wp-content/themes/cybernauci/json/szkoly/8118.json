@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22444",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8118",
+    "miejscowosc": "Chwa\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Chwa\u0142owice",
+    "numer": "130",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  },
+  {
+    "id": "22445",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8118",
+    "miejscowosc": "Chwa\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Chwa\u0142owice",
+    "numer": "130",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  }
+]

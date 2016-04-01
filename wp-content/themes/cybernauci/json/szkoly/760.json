@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1831",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "760",
+    "miejscowosc": "Niegowonice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-454",
+    "poczta": "Niegowonice\r"
+  },
+  {
+    "id": "1832",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "760",
+    "miejscowosc": "Niegowonice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-454",
+    "poczta": "Niegowonice\r"
+  }
+]

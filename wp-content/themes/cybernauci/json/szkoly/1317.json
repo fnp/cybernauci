@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4137",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1317",
+    "miejscowosc": "Zak\u0119pie",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Zak\u0119pie",
+    "numer": "17A",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  },
+  {
+    "id": "4135",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1317",
+    "miejscowosc": "Zak\u0119pie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zak\u0119pie",
+    "numer": "17A",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17465",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6197",
+    "miejscowosc": "Dmosin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dmosin",
+    "numer": "1 C",
+    "kod": "95-061",
+    "poczta": "Dmosin\r"
+  },
+  {
+    "id": "17462",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6197",
+    "miejscowosc": "Dmosin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Dmosin",
+    "numer": "1C",
+    "kod": "95-061",
+    "poczta": "Dmosin\r"
+  }
+]

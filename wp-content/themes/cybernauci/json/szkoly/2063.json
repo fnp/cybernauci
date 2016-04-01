@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5866",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2063",
+    "miejscowosc": "Mszana G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Mszana G\u00f3rna",
+    "numer": "589",
+    "kod": "34-733",
+    "poczta": "Mszana G\u00f3rna\r"
+  },
+  {
+    "id": "5867",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2063",
+    "miejscowosc": "Mszana G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mszana G\u00f3rna",
+    "numer": "589",
+    "kod": "34-733",
+    "poczta": "Mszana G\u00f3rna\r"
+  },
+  {
+    "id": "5876",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2063",
+    "miejscowosc": "Mszana G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mszana G\u00f3rna",
+    "numer": "358",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  }
+]

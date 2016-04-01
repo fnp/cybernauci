@@ -1,0 +1,122 @@
+[
+  {
+    "id": "23254",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "25",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23256",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "72",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23253",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa ZDZ",
+    "ulica": "G\u0142owaczowska",
+    "numer": "41",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23255",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum Zawodowe ZDZ",
+    "ulica": "G\u0142owaczowska",
+    "numer": "41",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23240",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi im. Urszuli Kochanowskiej",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23249",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3 z Oddzia\u0142ami Integracyjnymi im. Jana Kochanowskiego",
+    "ulica": "Konarskiego",
+    "numer": "4",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23251",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Nowy \u015awiat",
+    "numer": "24",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23252",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Kr\u00f3la Zygmunta Starego",
+    "ulica": "G\u0142owaczowska",
+    "numer": "33",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23257",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Warszawska",
+    "numer": "72",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  },
+  {
+    "id": "23258",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8402",
+    "miejscowosc": "Kozienice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Warszawska",
+    "numer": "72",
+    "kod": "26-900",
+    "poczta": "Kozienice\r"
+  }
+]

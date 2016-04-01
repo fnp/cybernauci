@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13221",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4666",
+    "miejscowosc": "Zbrachlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zbrachlin",
+    "numer": "16",
+    "kod": "87-731",
+    "poczta": "Waganiec\r"
+  },
+  {
+    "id": "13900",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4666",
+    "miejscowosc": "Zbrachlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 im. Ziemi Nadwi\u015bla\u0144skiej",
+    "ulica": "Zbrachlin",
+    "numer": "17",
+    "kod": "86-120",
+    "poczta": "Pruszcz\r"
+  },
+  {
+    "id": "13222",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4666",
+    "miejscowosc": "Zbrachlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zbrachlin",
+    "numer": "16",
+    "kod": "87-731",
+    "poczta": "Waganiec\r"
+  }
+]

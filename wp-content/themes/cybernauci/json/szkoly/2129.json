@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6944",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. Krystyna Gondka",
+    "ulica": "Malczewskiego",
+    "numer": "56",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6949",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Grabina",
+    "numer": "57",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6945",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Lanckoro\u0144skich",
+    "ulica": "Malczewskiego",
+    "numer": "56",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6019",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Prymasa Tysi\u0105clecia Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Podg\u00f3rska",
+    "numer": "123",
+    "kod": "32-406",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6950",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Grabina",
+    "numer": "57",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6951",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2129",
+    "miejscowosc": "Zakliczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Grabina",
+    "numer": "57",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  }
+]

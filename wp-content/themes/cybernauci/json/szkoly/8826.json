@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24191",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8826",
+    "miejscowosc": "Nowe Miasto",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ciechanowska",
+    "numer": "15",
+    "kod": "09-120",
+    "poczta": "Nowe Miasto\r"
+  },
+  {
+    "id": "24192",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8826",
+    "miejscowosc": "Nowe Miasto",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ciechanowska",
+    "numer": "15",
+    "kod": "09-120",
+    "poczta": "Nowe Miasto\r"
+  },
+  {
+    "id": "24193",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8826",
+    "miejscowosc": "Nowe Miasto",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ciechanowska",
+    "numer": "15",
+    "kod": "09-120",
+    "poczta": "Nowe Miasto\r"
+  },
+  {
+    "id": "24194",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8826",
+    "miejscowosc": "Nowe Miasto",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "Ciechanowska",
+    "numer": "15",
+    "kod": "09-120",
+    "poczta": "Nowe Miasto\r"
+  }
+]

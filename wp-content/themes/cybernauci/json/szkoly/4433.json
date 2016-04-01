@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12594",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4433",
+    "miejscowosc": "Marcinkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Marcinkowo",
+    "numer": "27",
+    "kod": "11-700",
+    "poczta": "Mr\u0105gowo\r"
+  },
+  {
+    "id": "12595",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4433",
+    "miejscowosc": "Marcinkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marcinkowo",
+    "numer": "27",
+    "kod": "11-700",
+    "poczta": "Mr\u0105gowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16816",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5913",
+    "miejscowosc": "Dalik\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "3",
+    "kod": "99-205",
+    "poczta": "Dalik\u00f3w\r"
+  },
+  {
+    "id": "16817",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5913",
+    "miejscowosc": "Dalik\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "3",
+    "kod": "99-205",
+    "poczta": "Dalik\u00f3w\r"
+  }
+]

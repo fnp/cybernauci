@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6457",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2347",
+    "miejscowosc": "Bukowno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "S\u0142awkowska",
+    "numer": "133",
+    "kod": "32-332",
+    "poczta": "Bukowno\r"
+  },
+  {
+    "id": "6458",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2347",
+    "miejscowosc": "Bukowno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "S\u0142awkowska",
+    "numer": "133",
+    "kod": "32-332",
+    "poczta": "Bukowno\r"
+  },
+  {
+    "id": "6455",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2347",
+    "miejscowosc": "Bukowno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "32-332",
+    "poczta": "Bukowno\r"
+  },
+  {
+    "id": "6456",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2347",
+    "miejscowosc": "Bukowno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Szko\u0142a Podstawowa Nr 1 im. 1000-lecia Pa\u0144stwa Polskiego",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "32-332",
+    "poczta": "Bukowno\r"
+  }
+]

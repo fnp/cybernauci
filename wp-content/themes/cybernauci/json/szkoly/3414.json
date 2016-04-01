@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9384",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3414",
+    "miejscowosc": "Ostaszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marynarki Wojennej RP",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "22",
+    "kod": "82-112",
+    "poczta": "Ostaszewo\r"
+  },
+  {
+    "id": "9385",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3414",
+    "miejscowosc": "Ostaszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marynarki Wojennej RP",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "22",
+    "kod": "82-112",
+    "poczta": "Ostaszewo\r"
+  }
+]

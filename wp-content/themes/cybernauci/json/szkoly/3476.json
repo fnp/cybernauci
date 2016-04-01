@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9505",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3476",
+    "miejscowosc": "Kobylnica",
+    "typ": "podstawowa",
+    "nazwa": "Angloj\u0119zyczna Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Prof. Pozna\u0144skiego",
+    "numer": "1",
+    "kod": "76-200",
+    "poczta": "Kobylnica\r"
+  },
+  {
+    "id": "9506",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3476",
+    "miejscowosc": "Kobylnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zjednoczonej Europy",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "63",
+    "kod": "76-251",
+    "poczta": "Kobylnica\r"
+  },
+  {
+    "id": "9507",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3476",
+    "miejscowosc": "Kobylnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "63",
+    "kod": "76-251",
+    "poczta": "Kobylnica\r"
+  }
+]

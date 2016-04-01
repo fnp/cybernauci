@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6310",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2277",
+    "miejscowosc": "Ciche",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ciche",
+    "numer": "152",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6312",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2277",
+    "miejscowosc": "Ciche",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Ciche",
+    "numer": "453A",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6311",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2277",
+    "miejscowosc": "Ciche",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Ciche",
+    "numer": "152",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6313",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2277",
+    "miejscowosc": "Ciche",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Ciche",
+    "numer": "453A",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6297",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2277",
+    "miejscowosc": "Ciche",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Ciche",
+    "numer": "611a",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  }
+]

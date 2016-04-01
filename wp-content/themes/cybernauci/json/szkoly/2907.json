@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8585",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2907",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "24",
+    "kod": "28-210",
+    "poczta": "Bogoria\r"
+  },
+  {
+    "id": "8126",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2907",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "56",
+    "kod": "26-067",
+    "poczta": "Strawczyn\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15076",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5325",
+    "miejscowosc": "\u015awierad\u00f3w-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "2",
+    "kod": "59-850",
+    "poczta": "\u015awierad\u00f3w-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15077",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5325",
+    "miejscowosc": "\u015awierad\u00f3w-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "2",
+    "kod": "59-850",
+    "poczta": "\u015awierad\u00f3w-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15075",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5325",
+    "miejscowosc": "\u015awierad\u00f3w-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Jana Paw\u0142a II",
+    "ulica": "Sanatoryjna",
+    "numer": "3",
+    "kod": "59-850",
+    "poczta": "\u015awierad\u00f3w-Zdr\u00f3j\r"
+  }
+]

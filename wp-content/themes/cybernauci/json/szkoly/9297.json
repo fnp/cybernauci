@@ -1,0 +1,62 @@
+[
+  {
+    "id": "25230",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9297",
+    "miejscowosc": "Mszczon\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J. A. Maklakiewicza",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "96-320",
+    "poczta": "Mszczon\u00f3w\r"
+  },
+  {
+    "id": "25231",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9297",
+    "miejscowosc": "Mszczon\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Maklakiewicza",
+    "numer": "18",
+    "kod": "96-320",
+    "poczta": "Mszczon\u00f3w\r"
+  },
+  {
+    "id": "25225",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9297",
+    "miejscowosc": "Mszczon\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 25 Pu\u0142ku Artylerii Pancernej",
+    "ulica": "Warszawska",
+    "numer": "27",
+    "kod": "96-320",
+    "poczta": "Mszczon\u00f3w\r"
+  },
+  {
+    "id": "25234",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9297",
+    "miejscowosc": "Mszczon\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141ugowa",
+    "numer": "13",
+    "kod": "96-320",
+    "poczta": "Mszczon\u00f3w\r"
+  },
+  {
+    "id": "25235",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9297",
+    "miejscowosc": "Mszczon\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141ugowa",
+    "numer": "13",
+    "kod": "96-320",
+    "poczta": "Mszczon\u00f3w\r"
+  }
+]

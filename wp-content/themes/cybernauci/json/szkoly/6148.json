@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17299",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6148",
+    "miejscowosc": "Walichnowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum pod Starym D\u0119bem",
+    "ulica": "Szkolna",
+    "numer": "28A",
+    "kod": "98-420",
+    "poczta": "Sokolniki\r"
+  },
+  {
+    "id": "17300",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6148",
+    "miejscowosc": "Walichnowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 32 Eskadry Rozpoznawczej Lotnictwa Armii \"\u0141\u00f3d\u017a\"",
+    "ulica": "Szkolna",
+    "numer": "28A",
+    "kod": "98-420",
+    "poczta": "Sokolniki\r"
+  }
+]

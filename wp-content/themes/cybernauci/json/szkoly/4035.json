@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11419",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4035",
+    "miejscowosc": "Wrzosowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wrzosowo",
+    "numer": "55",
+    "kod": "78-114",
+    "poczta": "Wrzosowo\r"
+  },
+  {
+    "id": "11420",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4035",
+    "miejscowosc": "Wrzosowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wrzosowo",
+    "numer": "55",
+    "kod": "78-114",
+    "poczta": "Wrzosowo\r"
+  },
+  {
+    "id": "11356",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4035",
+    "miejscowosc": "Wrzosowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wrzosowo",
+    "numer": "37",
+    "kod": "72-400",
+    "poczta": "Kamie\u0144 Pomorski\r"
+  }
+]

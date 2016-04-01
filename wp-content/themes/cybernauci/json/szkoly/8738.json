@@ -1,0 +1,74 @@
+[
+  {
+    "id": "24005",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Podstawowa Szko\u0142a Odkrywc\u00f3w",
+    "ulica": "Ogrodowa",
+    "numer": "14",
+    "kod": "05-509",
+    "poczta": "J\u00f3zefos\u0142aw\r"
+  },
+  {
+    "id": "24006",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Gaudeamus",
+    "ulica": "Ogrodowa",
+    "numer": "20b",
+    "kod": "05-509",
+    "poczta": "J\u00f3zefos\u0142aw\r"
+  },
+  {
+    "id": "24007",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczne Przedszkole The International School",
+    "ulica": "Dzia\u0142kowa",
+    "numer": "34",
+    "kod": "05-509",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "24008",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Podstawowa Szko\u0142a Mi\u0119dzynarodowa The International School",
+    "ulica": "Dzia\u0142kowa",
+    "numer": "34",
+    "kod": "05-509",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "24030",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kameralna",
+    "numer": "11",
+    "kod": "05-509",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "24031",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8738",
+    "miejscowosc": "J\u00f3zefos\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kameralna",
+    "numer": "11",
+    "kod": "05-509",
+    "poczta": "Piaseczno\r"
+  }
+]

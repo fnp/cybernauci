@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4408",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1447",
+    "miejscowosc": "Zarzecze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Zarzecze",
+    "numer": "1A",
+    "kod": "24-100",
+    "poczta": "Pu\u0142awy\r"
+  },
+  {
+    "id": "4405",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1447",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zarzecze",
+    "numer": "1A",
+    "kod": "24-100",
+    "poczta": "Pu\u0142awy\r"
+  }
+]

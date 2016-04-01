@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5483",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1847",
+    "miejscowosc": "Siedliska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Siedliska",
+    "numer": "259",
+    "kod": "38-324",
+    "poczta": "Siedliska\r"
+  },
+  {
+    "id": "6912",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1847",
+    "miejscowosc": "Siedliska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedliska",
+    "numer": "232",
+    "kod": "33-172",
+    "poczta": "Siedliska\r"
+  },
+  {
+    "id": "6913",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1847",
+    "miejscowosc": "Siedliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedliska",
+    "numer": "232",
+    "kod": "33-172",
+    "poczta": "Siedliska\r"
+  },
+  {
+    "id": "5479",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1847",
+    "miejscowosc": "Siedliska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedliska",
+    "numer": "259",
+    "kod": "38-324",
+    "poczta": "Siedliska\r"
+  }
+]

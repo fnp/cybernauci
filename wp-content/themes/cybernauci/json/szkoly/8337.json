@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23104",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8337",
+    "miejscowosc": "Bo\u017ca Wola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "13",
+    "kod": "96-314",
+    "poczta": "Baran\u00f3w\r"
+  },
+  {
+    "id": "23105",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8337",
+    "miejscowosc": "Bo\u017ca Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "13",
+    "kod": "96-314",
+    "poczta": "Baran\u00f3w\r"
+  }
+]

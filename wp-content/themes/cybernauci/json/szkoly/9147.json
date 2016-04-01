@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24855",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9147",
+    "miejscowosc": "P\u0142ochocin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. K. I. Ga\u0142czy\u0144skiego",
+    "ulica": "Lipowa",
+    "numer": "3",
+    "kod": "05-860",
+    "poczta": "P\u0142ochocin\r"
+  },
+  {
+    "id": "24850",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9147",
+    "miejscowosc": "P\u0142ochocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "3",
+    "kod": "05-860",
+    "poczta": "P\u0142ochocin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6367",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2304",
+    "miejscowosc": "\u0141apsze Ni\u017cne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "D\u0142uga",
+    "numer": "12",
+    "kod": "34-442",
+    "poczta": "\u0141apsze Ni\u017cne\r"
+  },
+  {
+    "id": "6368",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2304",
+    "miejscowosc": "\u0141apsze Ni\u017cne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. B\u0142ogos\u0142awionego Ks. J\u00f3zefa Stanka ",
+    "ulica": "D\u0142uga",
+    "numer": "12",
+    "kod": "34-442",
+    "poczta": "\u0141apsze Ni\u017cne\r"
+  }
+]

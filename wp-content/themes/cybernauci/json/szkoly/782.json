@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1931",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "782",
+    "miejscowosc": "Pewel Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 8",
+    "ulica": "Pewel Wielka",
+    "numer": "",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1915",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "782",
+    "miejscowosc": "Pewel Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Pewel Wielka",
+    "numer": "355",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1932",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "782",
+    "miejscowosc": "Pewel Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Pewel Wielka",
+    "numer": "",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  }
+]

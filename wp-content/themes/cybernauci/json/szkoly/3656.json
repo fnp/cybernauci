@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10338",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3656",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Po\u015bwi\u0119tne",
+    "numer": "10a",
+    "kod": "18-112",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  },
+  {
+    "id": "10339",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3656",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Po\u015bwi\u0119tne",
+    "numer": "10a",
+    "kod": "18-112",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23721",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8610",
+    "miejscowosc": "Jazgarka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jazgarka",
+    "numer": "54",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23722",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8610",
+    "miejscowosc": "Jazgarka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "Jazgarka",
+    "numer": "54",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

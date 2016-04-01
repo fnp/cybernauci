@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10598",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3799",
+    "miejscowosc": "Trzcianne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "3 Maja",
+    "numer": "9",
+    "kod": "19-104",
+    "poczta": "Trzcianne\r"
+  },
+  {
+    "id": "10599",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3799",
+    "miejscowosc": "Trzcianne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "3 Maja",
+    "numer": "9",
+    "kod": "19-104",
+    "poczta": "Trzcianne\r"
+  }
+]

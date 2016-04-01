@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6004",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2120",
+    "miejscowosc": "Pcim",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Jana Paw\u0142a II ",
+    "ulica": "Pcim",
+    "numer": "599",
+    "kod": "32-432",
+    "poczta": "Pcim\r"
+  },
+  {
+    "id": "6000",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2120",
+    "miejscowosc": "Pcim",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Pcim",
+    "numer": "599",
+    "kod": "32-432",
+    "poczta": "Pcim\r"
+  },
+  {
+    "id": "6003",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2120",
+    "miejscowosc": "Pcim",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Armii Krajowej",
+    "ulica": "Pcim",
+    "numer": "598",
+    "kod": "32-432",
+    "poczta": "Pcim\r"
+  }
+]

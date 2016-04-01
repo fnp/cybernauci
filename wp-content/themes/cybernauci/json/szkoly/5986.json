@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17017",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5986",
+    "miejscowosc": "Gruszczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gruszczyce",
+    "numer": "45",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  },
+  {
+    "id": "17008",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5986",
+    "miejscowosc": "Gruszczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Gruszczyce",
+    "numer": "45",
+    "kod": "98-235",
+    "poczta": "B\u0142aszki\r"
+  }
+]

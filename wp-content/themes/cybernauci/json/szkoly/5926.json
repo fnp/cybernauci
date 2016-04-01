@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16839",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5926",
+    "miejscowosc": "Wartkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Legion\u00f3w Polskich",
+    "numer": "5",
+    "kod": "99-220",
+    "poczta": "Wartkowice\r"
+  },
+  {
+    "id": "16840",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5926",
+    "miejscowosc": "Wartkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Legion\u00f3w Polskich",
+    "numer": "5",
+    "kod": "99-220",
+    "poczta": "Wartkowice\r"
+  }
+]

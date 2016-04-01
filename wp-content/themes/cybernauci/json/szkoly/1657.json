@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4807",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1657",
+    "miejscowosc": "P\u0142oskie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "P\u0142oskie",
+    "numer": "139",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "4808",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1657",
+    "miejscowosc": "P\u0142oskie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "P\u0142oskie",
+    "numer": "139",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  }
+]

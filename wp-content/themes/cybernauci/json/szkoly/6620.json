@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18681",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6620",
+    "miejscowosc": "W\u0142oszakowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Karola Kurpi\u0144skiego",
+    "numer": "30",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  },
+  {
+    "id": "18682",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6620",
+    "miejscowosc": "W\u0142oszakowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Karola Kurpi\u0144skiego",
+    "numer": "30",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  },
+  {
+    "id": "18683",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6620",
+    "miejscowosc": "W\u0142oszakowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karola Kurpi\u0144skiego",
+    "numer": "30",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  },
+  {
+    "id": "18684",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6620",
+    "miejscowosc": "W\u0142oszakowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Karola Kurpi\u0144skiego",
+    "numer": "30",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  }
+]

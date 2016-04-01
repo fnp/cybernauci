@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3310",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "863",
+    "miejscowosc": "Do\u0142ha",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im ks. Jana Twardowskiego",
+    "ulica": "Do\u0142ha",
+    "numer": "1",
+    "kod": "21-570",
+    "poczta": "Drel\u00f3w\r"
+  },
+  {
+    "id": "3304",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "863",
+    "miejscowosc": "Do\u0142ha",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Do\u0142ha",
+    "numer": "1",
+    "kod": "21-570",
+    "poczta": "Drel\u00f3w\r"
+  }
+]

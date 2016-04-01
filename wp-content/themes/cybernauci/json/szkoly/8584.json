@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23669",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8584",
+    "miejscowosc": "Cieksyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "43",
+    "kod": "05-192",
+    "poczta": "Cieksyn\r"
+  },
+  {
+    "id": "23670",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8584",
+    "miejscowosc": "Cieksyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "43",
+    "kod": "05-192",
+    "poczta": "Cieksyn\r"
+  }
+]

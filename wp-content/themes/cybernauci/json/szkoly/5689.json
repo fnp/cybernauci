@@ -1,0 +1,86 @@
+[
+  {
+    "id": "16374",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza ",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "21",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16375",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Adama Mickiewicza ",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "21",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16371",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "1-go Maja",
+    "numer": "25",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16373",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "\u017beromskiego",
+    "numer": "8",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16376",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Narutowicza",
+    "numer": "88",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16377",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technikum Elektroniczne",
+    "ulica": "Narutowicza",
+    "numer": "88",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  },
+  {
+    "id": "16378",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5689",
+    "miejscowosc": "\u017bychlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Narutowicza",
+    "numer": "88",
+    "kod": "99-320",
+    "poczta": "\u017bychlin\r"
+  }
+]

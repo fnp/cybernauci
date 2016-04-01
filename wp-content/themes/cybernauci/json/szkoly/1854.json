@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5500",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1854",
+    "miejscowosc": "Ropica Polska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ropica Polska",
+    "numer": "71",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  },
+  {
+    "id": "5501",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1854",
+    "miejscowosc": "Ropica Polska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ropica Polska",
+    "numer": "71",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  }
+]

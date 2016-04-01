@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7939",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2787",
+    "miejscowosc": "Cudzynowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Cudzynowice",
+    "numer": "176",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7930",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2787",
+    "miejscowosc": "Cudzynowice",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Cudzynowice",
+    "numer": "195",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7940",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2787",
+    "miejscowosc": "Cudzynowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Cudzynowice",
+    "numer": "176",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  }
+]

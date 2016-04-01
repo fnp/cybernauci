@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15656",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5543",
+    "miejscowosc": "D\u0142ugo\u0142\u0119ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "40",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  },
+  {
+    "id": "15657",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5543",
+    "miejscowosc": "D\u0142ugo\u0142\u0119ka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "40",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  },
+  {
+    "id": "15658",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5543",
+    "miejscowosc": "D\u0142ugo\u0142\u0119ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "40",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  }
+]

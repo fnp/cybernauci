@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22935",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8258",
+    "miejscowosc": "So\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-430",
+    "poczta": "So\u0144sk\r"
+  },
+  {
+    "id": "22933",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8258",
+    "miejscowosc": "So\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-430",
+    "poczta": "So\u0144sk\r"
+  }
+]

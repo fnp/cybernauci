@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4277",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1406",
+    "miejscowosc": "D\u0119bowa K\u0142oda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "D\u0119bowa K\u0142oda",
+    "numer": "2",
+    "kod": "21-211",
+    "poczta": "D\u0119bowa K\u0142oda\r"
+  },
+  {
+    "id": "4278",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1406",
+    "miejscowosc": "D\u0119bowa K\u0142oda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0119bowa K\u0142oda",
+    "numer": "2",
+    "kod": "21-211",
+    "poczta": "D\u0119bowa K\u0142oda\r"
+  }
+]

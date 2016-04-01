@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9113",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3305",
+    "miejscowosc": "Tuchlino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Tuchlino",
+    "numer": "16B",
+    "kod": "83-340",
+    "poczta": "Sierakowice\r"
+  },
+  {
+    "id": "9114",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3305",
+    "miejscowosc": "Tuchlino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Tuchlino",
+    "numer": "16B",
+    "kod": "83-340",
+    "poczta": "Sierakowice\r"
+  }
+]

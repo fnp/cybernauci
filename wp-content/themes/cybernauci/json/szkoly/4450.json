@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12627",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4450",
+    "miejscowosc": "Szkotowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Szkotowo",
+    "numer": "51",
+    "kod": "13-124",
+    "poczta": "Koz\u0142owo\r"
+  },
+  {
+    "id": "12628",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4450",
+    "miejscowosc": "Szkotowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Szkotowo",
+    "numer": "51",
+    "kod": "13-124",
+    "poczta": "Koz\u0142owo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12966",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4610",
+    "miejscowosc": "Jedwabno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "12-122",
+    "poczta": "Jedwabno\r"
+  },
+  {
+    "id": "12967",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4610",
+    "miejscowosc": "Jedwabno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "12-122",
+    "poczta": "Jedwabno\r"
+  }
+]

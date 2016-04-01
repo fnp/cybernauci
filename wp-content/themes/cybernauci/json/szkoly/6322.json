@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18135",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6322",
+    "miejscowosc": "Ptaszkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ptaszkowo",
+    "numer": "31 A",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18136",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6322",
+    "miejscowosc": "Ptaszkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ptaszkowo",
+    "numer": "31 A",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  }
+]

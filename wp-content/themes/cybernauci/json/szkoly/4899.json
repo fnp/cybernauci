@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13682",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4899",
+    "miejscowosc": "Dziewierzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dziewierzewo",
+    "numer": "34",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13683",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4899",
+    "miejscowosc": "Dziewierzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dziewierzewo",
+    "numer": "34",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  }
+]

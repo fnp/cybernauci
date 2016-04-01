@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21057",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7447",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zawada",
+    "numer": "154",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21058",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7447",
+    "miejscowosc": "Zawada",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zawada",
+    "numer": "154",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  }
+]

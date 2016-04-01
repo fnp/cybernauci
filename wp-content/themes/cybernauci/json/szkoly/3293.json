@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9089",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3293",
+    "miejscowosc": "Przodkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bursztynowa",
+    "numer": "3",
+    "kod": "83-304",
+    "poczta": "Przodkowo\r"
+  },
+  {
+    "id": "9090",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3293",
+    "miejscowosc": "Przodkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "83-304",
+    "poczta": "Przodkowo\r"
+  },
+  {
+    "id": "9093",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3293",
+    "miejscowosc": "Przodkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bursztynowa",
+    "numer": "3",
+    "kod": "83-304",
+    "poczta": "Przodkowo\r"
+  },
+  {
+    "id": "9094",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3293",
+    "miejscowosc": "Przodkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bursztynowa",
+    "numer": "3",
+    "kod": "83-304",
+    "poczta": "Przodkowo\r"
+  }
+]

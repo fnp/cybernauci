@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22014",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7927",
+    "miejscowosc": "Ka\u0144czuga",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22027",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7927",
+    "miejscowosc": "Ka\u0144czuga",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marii Konopnickiej",
+    "numer": "6",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22013",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7927",
+    "miejscowosc": "Ka\u0144czuga",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la Jana III Sobieskiego",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22028",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7927",
+    "miejscowosc": "Ka\u0144czuga",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Marii Konopnickiej",
+    "numer": "6",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  }
+]

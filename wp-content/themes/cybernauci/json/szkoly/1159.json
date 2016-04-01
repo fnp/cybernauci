@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3858",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1159",
+    "miejscowosc": "Przytoczno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Przytoczno",
+    "numer": "25",
+    "kod": "21-146",
+    "poczta": "Jeziorzany\r"
+  },
+  {
+    "id": "3859",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1159",
+    "miejscowosc": "Przytoczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Przytoczno",
+    "numer": "25",
+    "kod": "21-146",
+    "poczta": "Jeziorzany\r"
+  }
+]

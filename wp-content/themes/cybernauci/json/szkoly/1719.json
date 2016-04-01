@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5198",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1719",
+    "miejscowosc": "Trzciana",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Trzciana",
+    "numer": "3",
+    "kod": "32-733",
+    "poczta": "Trzciana\r"
+  },
+  {
+    "id": "5199",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1719",
+    "miejscowosc": "Trzciana",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Trzciana",
+    "numer": "403",
+    "kod": "32-733",
+    "poczta": "Trzciana\r"
+  }
+]

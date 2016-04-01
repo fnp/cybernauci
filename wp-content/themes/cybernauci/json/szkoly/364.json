@@ -1,0 +1,26 @@
+[
+  {
+    "id": "833",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "364",
+    "miejscowosc": "Por\u0105bka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kozubnicka",
+    "numer": "5",
+    "kod": "43-353",
+    "poczta": "Por\u0105bka\r"
+  },
+  {
+    "id": "832",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "364",
+    "miejscowosc": "Por\u0105bka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika ",
+    "ulica": "Krakowska",
+    "numer": "4",
+    "kod": "43-353",
+    "poczta": "Por\u0105bka\r"
+  }
+]

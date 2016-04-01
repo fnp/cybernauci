@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9324",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3398",
+    "miejscowosc": "Wicko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wicko",
+    "numer": "37",
+    "kod": "84-352",
+    "poczta": "Wicko\r"
+  },
+  {
+    "id": "9325",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3398",
+    "miejscowosc": "Wicko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Wicko",
+    "numer": "37",
+    "kod": "84-352",
+    "poczta": "Wicko\r"
+  }
+]

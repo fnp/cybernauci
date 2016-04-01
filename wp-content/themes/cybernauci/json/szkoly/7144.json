@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20231",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7144",
+    "miejscowosc": "Lipki Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szosowa",
+    "numer": "109",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  },
+  {
+    "id": "20234",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7144",
+    "miejscowosc": "Lipki Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Nowa",
+    "numer": "16",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  },
+  {
+    "id": "20232",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7144",
+    "miejscowosc": "Lipki Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szosowa",
+    "numer": "109",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  },
+  {
+    "id": "20235",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7144",
+    "miejscowosc": "Lipki Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa",
+    "numer": "16",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  },
+  {
+    "id": "20233",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7144",
+    "miejscowosc": "Lipki Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Szosowa",
+    "numer": "109",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  }
+]

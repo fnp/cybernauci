@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11695",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4167",
+    "miejscowosc": "Dolice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Ogrodowa",
+    "numer": "46",
+    "kod": "73-115",
+    "poczta": "Dolice\r"
+  },
+  {
+    "id": "11693",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4167",
+    "miejscowosc": "Dolice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pyrzycka",
+    "numer": "1",
+    "kod": "73-115",
+    "poczta": "Dolice\r"
+  }
+]

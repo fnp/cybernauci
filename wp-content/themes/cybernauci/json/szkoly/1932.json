@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5617",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1932",
+    "miejscowosc": "Wola Filipowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Plac\u00f3wek O\u015bwiatowych ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  },
+  {
+    "id": "5618",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1932",
+    "miejscowosc": "Wola Filipowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "32-065",
+    "poczta": "Krzeszowice\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "22558",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Edukacji Narodowej",
+    "numer": "3",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22553",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "45",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22559",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Edukacji Narodowej",
+    "numer": "3",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22560",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "2",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22061",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Gorzyce",
+    "numer": "284",
+    "kod": "37-204",
+    "poczta": "Try\u0144cza\r"
+  },
+  {
+    "id": "22062",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Gorzyce",
+    "numer": "284",
+    "kod": "37-204",
+    "poczta": "Try\u0144cza\r"
+  },
+  {
+    "id": "22561",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7951",
+    "miejscowosc": "Gorzyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "2",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  }
+]

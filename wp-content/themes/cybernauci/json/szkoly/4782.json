@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13434",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4782",
+    "miejscowosc": "Ruda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ruda",
+    "numer": "53",
+    "kod": "86-302",
+    "poczta": "Grudzi\u0105dz\r"
+  },
+  {
+    "id": "13435",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4782",
+    "miejscowosc": "Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ruda",
+    "numer": "53",
+    "kod": "86-302",
+    "poczta": "Grudzi\u0105dz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18689",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6623",
+    "miejscowosc": "Krzycko Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-117",
+    "poczta": "Krzycko Ma\u0142e\r"
+  },
+  {
+    "id": "18690",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6623",
+    "miejscowosc": "Krzycko Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-117",
+    "poczta": "Krzycko Ma\u0142e\r"
+  }
+]

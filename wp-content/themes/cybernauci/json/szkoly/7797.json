@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21789",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7797",
+    "miejscowosc": "Chorzel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chorzel\u00f3w",
+    "numer": "316",
+    "kod": "39-331",
+    "poczta": "Chorzel\u00f3w\r"
+  },
+  {
+    "id": "21790",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7797",
+    "miejscowosc": "Chorzel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chorzel\u00f3w",
+    "numer": "316",
+    "kod": "39-331",
+    "poczta": "Chorzel\u00f3w\r"
+  }
+]

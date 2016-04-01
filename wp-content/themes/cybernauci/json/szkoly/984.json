@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3515",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "984",
+    "miejscowosc": "Strachos\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Strachos\u0142aw",
+    "numer": "76b",
+    "kod": "22-113",
+    "poczta": "Kamie\u0144\r"
+  },
+  {
+    "id": "3516",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "984",
+    "miejscowosc": "Strachos\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Konstytucji 3 Maja ",
+    "ulica": "Strachos\u0142aw",
+    "numer": "76b",
+    "kod": "22-113",
+    "poczta": "Kamie\u0144\r"
+  }
+]

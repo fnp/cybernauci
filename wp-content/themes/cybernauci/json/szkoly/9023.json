@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24574",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9023",
+    "miejscowosc": "Stok Lacki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "135",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24575",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9023",
+    "miejscowosc": "Stok Lacki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "135",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  }
+]

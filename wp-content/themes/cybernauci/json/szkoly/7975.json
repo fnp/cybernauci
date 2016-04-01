@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22119",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7975",
+    "miejscowosc": "\u0141\u0105czki Kucharskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0105czki Kucharskie",
+    "numer": "469",
+    "kod": "39-106",
+    "poczta": "\u0141\u0105czki Kucharskie\r"
+  },
+  {
+    "id": "22120",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7975",
+    "miejscowosc": "\u0141\u0105czki Kucharskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105czki Kucharskie",
+    "numer": "469",
+    "kod": "39-106",
+    "poczta": "\u0141\u0105czki Kucharskie\r"
+  }
+]

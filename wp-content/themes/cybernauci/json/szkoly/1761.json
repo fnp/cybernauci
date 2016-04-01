@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5282",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1761",
+    "miejscowosc": "Iwkowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Iwkowa",
+    "numer": "525",
+    "kod": "32-861",
+    "poczta": "Iwkowa\r"
+  },
+  {
+    "id": "5283",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1761",
+    "miejscowosc": "Iwkowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Iwkowa",
+    "numer": "463",
+    "kod": "32-861",
+    "poczta": "Iwkowa\r"
+  },
+  {
+    "id": "5285",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1761",
+    "miejscowosc": "Iwkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Iwkowa",
+    "numer": "525",
+    "kod": "32-861",
+    "poczta": "Iwkowa\r"
+  }
+]

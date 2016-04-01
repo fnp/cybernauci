@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15791",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5602",
+    "miejscowosc": "Sulik\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gminne Gimnazjum",
+    "ulica": "Zgorzelecka",
+    "numer": "28",
+    "kod": "59-975",
+    "poczta": "Sulik\u00f3w\r"
+  },
+  {
+    "id": "15792",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5602",
+    "miejscowosc": "Sulik\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zgorzelecka",
+    "numer": "28",
+    "kod": "59-975",
+    "poczta": "Sulik\u00f3w\r"
+  }
+]

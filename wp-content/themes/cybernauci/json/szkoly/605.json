@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1363",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "605",
+    "miejscowosc": "Sokolniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Sokolniki",
+    "numer": "76",
+    "kod": "42-320",
+    "poczta": "Niegowa\r"
+  },
+  {
+    "id": "1364",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "605",
+    "miejscowosc": "Sokolniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Sokolniki",
+    "numer": "76",
+    "kod": "42-320",
+    "poczta": "Niegowa\r"
+  }
+]

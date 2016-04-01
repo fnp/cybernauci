@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8979",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3233",
+    "miejscowosc": "Kocza\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Alfonsa Zab\u0142o\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "77-220",
+    "poczta": "Kocza\u0142a\r"
+  },
+  {
+    "id": "8980",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3233",
+    "miejscowosc": "Kocza\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I Armii Wojska Polskiego",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "77-220",
+    "poczta": "Kocza\u0142a\r"
+  }
+]

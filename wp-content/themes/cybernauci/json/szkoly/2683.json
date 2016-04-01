@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7265",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2683",
+    "miejscowosc": "Ko\u017amice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u017amice Wielkie",
+    "numer": "605",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  },
+  {
+    "id": "7242",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2683",
+    "miejscowosc": "Ko\u017amice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u017amice Wielkie",
+    "numer": "1",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  }
+]

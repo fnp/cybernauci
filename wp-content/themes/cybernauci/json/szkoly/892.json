@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3345",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "892",
+    "miejscowosc": "Choty\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Publiczne Gimnazjum Nr 1 im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Zaleska",
+    "numer": "2",
+    "kod": "21-530",
+    "poczta": "Piszczac\r"
+  },
+  {
+    "id": "3346",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "892",
+    "miejscowosc": "Choty\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Zaleska",
+    "numer": "2",
+    "kod": "21-530",
+    "poczta": "Piszczac\r"
+  }
+]

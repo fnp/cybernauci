@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3972",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "983",
+    "miejscowosc": "Czerniej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Czerniej\u00f3w",
+    "numer": "",
+    "kod": "23-114",
+    "poczta": "Jab\u0142onna\r"
+  },
+  {
+    "id": "3514",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "983",
+    "miejscowosc": "Czerniej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Czerniej\u00f3w",
+    "numer": "8",
+    "kod": "22-113",
+    "poczta": "Kamie\u0144\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14742",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5200",
+    "miejscowosc": "Niemcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "B. Chrobrego",
+    "numer": "25",
+    "kod": "58-230",
+    "poczta": "Niemcza\r"
+  },
+  {
+    "id": "14743",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5200",
+    "miejscowosc": "Niemcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B. Chrobrego",
+    "numer": "25",
+    "kod": "58-230",
+    "poczta": "Niemcza\r"
+  }
+]

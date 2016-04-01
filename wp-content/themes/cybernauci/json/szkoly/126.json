@@ -1,0 +1,38 @@
+[
+  {
+    "id": "449",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "126",
+    "miejscowosc": "D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "49-120",
+    "poczta": "D\u0105browa\r"
+  },
+  {
+    "id": "450",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "126",
+    "miejscowosc": "D\u0105browa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "49-120",
+    "poczta": "D\u0105browa\r"
+  },
+  {
+    "id": "276",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "126",
+    "miejscowosc": "D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ostapa D\u0142uskiego",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "46-112",
+    "poczta": "\u015awiercz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6314",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2284",
+    "miejscowosc": "Piekielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piekielnik",
+    "numer": "202",
+    "kod": "34-472",
+    "poczta": "Piekielnik\r"
+  },
+  {
+    "id": "6315",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2284",
+    "miejscowosc": "Piekielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Piekielnik",
+    "numer": "202",
+    "kod": "34-472",
+    "poczta": "Piekielnik\r"
+  }
+]

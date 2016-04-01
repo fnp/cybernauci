@@ -1,0 +1,26 @@
+[
+  {
+    "id": "923",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "390",
+    "miejscowosc": "Golesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "43-440",
+    "poczta": "Golesz\u00f3w\r"
+  },
+  {
+    "id": "921",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "390",
+    "miejscowosc": "Golesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "1",
+    "kod": "43-440",
+    "poczta": "Golesz\u00f3w\r"
+  }
+]

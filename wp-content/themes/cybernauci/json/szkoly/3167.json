@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8828",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3167",
+    "miejscowosc": "Borowy M\u0142yn",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. ksi\u0119dza Bernarda Go\u0144cza",
+    "ulica": "Kaszubska",
+    "numer": "1",
+    "kod": "77-138",
+    "poczta": "Borowy M\u0142yn\r"
+  },
+  {
+    "id": "8829",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3167",
+    "miejscowosc": "Borowy M\u0142yn",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. ksi\u0119dza Bernarda Go\u0144cza",
+    "ulica": "Kaszubska",
+    "numer": "1",
+    "kod": "77-138",
+    "poczta": "Borowy M\u0142yn\r"
+  }
+]

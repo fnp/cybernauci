@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20507",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7267",
+    "miejscowosc": "Rogoziniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rogoziniec",
+    "numer": "115\/2",
+    "kod": "66-210",
+    "poczta": "Zb\u0105szynek\r"
+  },
+  {
+    "id": "20508",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7267",
+    "miejscowosc": "Rogoziniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rogoziniec",
+    "numer": "115\/2",
+    "kod": "66-210",
+    "poczta": "Zb\u0105szynek\r"
+  }
+]

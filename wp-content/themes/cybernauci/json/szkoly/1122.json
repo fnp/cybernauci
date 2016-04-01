@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3794",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1122",
+    "miejscowosc": "Str\u00f3\u017ca-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Akacjowa",
+    "numer": "2",
+    "kod": "23-206",
+    "poczta": "Str\u00f3\u017ca\r"
+  },
+  {
+    "id": "3793",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1122",
+    "miejscowosc": "Str\u00f3\u017ca-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Akacjowa",
+    "numer": "2A",
+    "kod": "23-206",
+    "poczta": "Str\u00f3\u017ca\r"
+  }
+]

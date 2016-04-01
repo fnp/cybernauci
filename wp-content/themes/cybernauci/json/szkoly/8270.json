@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22973",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8270",
+    "miejscowosc": "Wola R\u0119bkowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "D\u0142uga",
+    "numer": "90",
+    "kod": "08-410",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22972",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8270",
+    "miejscowosc": "Wola R\u0119bkowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "D\u0142uga",
+    "numer": "90",
+    "kod": "08-410",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22974",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8270",
+    "miejscowosc": "Wola R\u0119bkowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "D\u0142uga",
+    "numer": "90",
+    "kod": "08-410",
+    "poczta": "Garwolin\r"
+  }
+]

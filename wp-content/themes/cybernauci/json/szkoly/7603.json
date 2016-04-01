@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21389",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7603",
+    "miejscowosc": "Werynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Czteroletnie Technikum",
+    "ulica": "Werynia",
+    "numer": "501",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21384",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7603",
+    "miejscowosc": "Werynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. J\u00f3zefa Batorego",
+    "ulica": "Werynia",
+    "numer": "382",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  },
+  {
+    "id": "21390",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7603",
+    "miejscowosc": "Werynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Werynia",
+    "numer": "501",
+    "kod": "36-100",
+    "poczta": "Kolbuszowa\r"
+  }
+]

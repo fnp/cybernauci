@@ -1,0 +1,74 @@
+[
+  {
+    "id": "728",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana III Sobieskiego",
+    "numer": "211b",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "729",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sobieskiego",
+    "numer": "298",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "730",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0179ra\u0142k\u00f3w",
+    "numer": "1",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "726",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Jana III Sobieskiego",
+    "numer": "29",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "727",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "\u0179ra\u0142k\u00f3w",
+    "numer": "1",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "731",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "319",
+    "miejscowosc": "Wojkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Architektury Krajobrazu",
+    "ulica": "\u0179ra\u0142k\u00f3w",
+    "numer": "1",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  }
+]

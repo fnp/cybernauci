@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21308",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7553",
+    "miejscowosc": "Warzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Warzyce",
+    "numer": "205",
+    "kod": "38-200",
+    "poczta": "Jas\u0142o\r"
+  },
+  {
+    "id": "21309",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7553",
+    "miejscowosc": "Warzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warzyce",
+    "numer": "205",
+    "kod": "38-200",
+    "poczta": "Jas\u0142o\r"
+  }
+]

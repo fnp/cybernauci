@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5879",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2069",
+    "miejscowosc": "Podobin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Podobin",
+    "numer": "0",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  },
+  {
+    "id": "5880",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2069",
+    "miejscowosc": "Podobin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Podobin",
+    "numer": "257",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  }
+]

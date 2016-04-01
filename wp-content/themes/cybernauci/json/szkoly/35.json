@@ -1,0 +1,26 @@
+[
+  {
+    "id": "78",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "35",
+    "miejscowosc": "Lisi\u0119cice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "48-118",
+    "poczta": "Lisi\u0119cice\r"
+  },
+  {
+    "id": "79",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "35",
+    "miejscowosc": "Lisi\u0119cice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "48-118",
+    "poczta": "Lisi\u0119cice\r"
+  }
+]

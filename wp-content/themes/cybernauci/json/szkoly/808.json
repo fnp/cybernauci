@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1970",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "808",
+    "miejscowosc": "Wieprz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Mi\u0119dzynarodowego Partnerstwa z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Szkolna",
+    "numer": "800",
+    "kod": "34-382",
+    "poczta": "Bystra\r"
+  },
+  {
+    "id": "1968",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "808",
+    "miejscowosc": "Wieprz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Klicha ",
+    "ulica": "Szkolna",
+    "numer": "800",
+    "kod": "34-382",
+    "poczta": "Bystra\r"
+  }
+]

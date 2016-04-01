@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24702",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9084",
+    "miejscowosc": "Nowa Sucha",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowa Sucha",
+    "numer": "16",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  },
+  {
+    "id": "24703",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9084",
+    "miejscowosc": "Nowa Sucha",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "16",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  }
+]

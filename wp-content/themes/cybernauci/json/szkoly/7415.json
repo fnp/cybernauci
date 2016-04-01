@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20971",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7415",
+    "miejscowosc": "Wara",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wara",
+    "numer": "247",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  },
+  {
+    "id": "20972",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7415",
+    "miejscowosc": "Wara",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wara",
+    "numer": "247",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  }
+]

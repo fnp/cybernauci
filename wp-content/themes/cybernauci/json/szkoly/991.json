@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3524",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "991",
+    "miejscowosc": "Liszno",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum ",
+    "ulica": "Liszno",
+    "numer": "52",
+    "kod": "22-171",
+    "poczta": "Kanie\r"
+  },
+  {
+    "id": "3525",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "991",
+    "miejscowosc": "Liszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Liszno",
+    "numer": "52",
+    "kod": "22-171",
+    "poczta": "Kanie\r"
+  }
+]

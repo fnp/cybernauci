@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8074",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2876",
+    "miejscowosc": "Morawica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  },
+  {
+    "id": "8075",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2876",
+    "miejscowosc": "Morawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  }
+]

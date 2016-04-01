@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8822",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3164",
+    "miejscowosc": "No\u017cyno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "No\u017cyno",
+    "numer": "40",
+    "kod": "77-115",
+    "poczta": "No\u017cyno\r"
+  },
+  {
+    "id": "8823",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3164",
+    "miejscowosc": "No\u017cyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "No\u017cyno",
+    "numer": "40",
+    "kod": "77-115",
+    "poczta": "No\u017cyno\r"
+  }
+]

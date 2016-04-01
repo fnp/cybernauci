@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23305",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8429",
+    "miejscowosc": "Serock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Romualda Traugutta",
+    "ulica": "Pu\u0142tuska",
+    "numer": "68",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  },
+  {
+    "id": "23306",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8429",
+    "miejscowosc": "Serock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "W\u0142odzimierza Wolskiego",
+    "numer": "8",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  },
+  {
+    "id": "23304",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8429",
+    "miejscowosc": "Serock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Pu\u0142tuska",
+    "numer": "68",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  },
+  {
+    "id": "23307",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8429",
+    "miejscowosc": "Serock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "W\u0142odzimierza Wolskiego",
+    "numer": "8",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  },
+  {
+    "id": "23308",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8429",
+    "miejscowosc": "Serock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "W\u0142odzimierza Wolskiego",
+    "numer": "8",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  }
+]

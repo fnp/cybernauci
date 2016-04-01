@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21477",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7656",
+    "miejscowosc": "Iwonicz-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21478",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7656",
+    "miejscowosc": "Iwonicz-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21471",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7656",
+    "miejscowosc": "Iwonicz-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Piwarskiego",
+    "numer": "19",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21472",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7656",
+    "miejscowosc": "Iwonicz-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Piwarskiego",
+    "numer": "19",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  }
+]

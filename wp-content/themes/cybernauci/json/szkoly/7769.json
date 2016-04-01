@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21712",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7769",
+    "miejscowosc": "Kosina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kosina",
+    "numer": "268",
+    "kod": "37-112",
+    "poczta": "Kosina\r"
+  },
+  {
+    "id": "21713",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7769",
+    "miejscowosc": "Kosina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kosina",
+    "numer": "268",
+    "kod": "37-112",
+    "poczta": "Kosina\r"
+  }
+]

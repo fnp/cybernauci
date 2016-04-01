@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9016",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3250",
+    "miejscowosc": "Kolbudy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gen. J. Wybickiego",
+    "numer": "33",
+    "kod": "83-050",
+    "poczta": "Kolbudy\r"
+  },
+  {
+    "id": "9017",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3250",
+    "miejscowosc": "Kolbudy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gen. J. Wybickiego",
+    "numer": "33",
+    "kod": "83-050",
+    "poczta": "Kolbudy\r"
+  }
+]

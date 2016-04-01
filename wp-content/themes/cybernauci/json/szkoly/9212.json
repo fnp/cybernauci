@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25007",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9212",
+    "miejscowosc": "Strach\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kmieci\u0144skiego",
+    "numer": "3",
+    "kod": "05-282",
+    "poczta": "Strach\u00f3wka\r"
+  },
+  {
+    "id": "25006",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9212",
+    "miejscowosc": "Strach\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kmieci\u0144skiego",
+    "numer": "3",
+    "kod": "05-282",
+    "poczta": "Strach\u00f3wka\r"
+  }
+]

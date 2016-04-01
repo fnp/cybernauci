@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4717",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1603",
+    "miejscowosc": "Wola Uhruska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Gimnazjalna",
+    "numer": "34",
+    "kod": "22-230",
+    "poczta": "Wola Uhruska\r"
+  },
+  {
+    "id": "4718",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1603",
+    "miejscowosc": "Wola Uhruska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. I. Kraszewskiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "22-230",
+    "poczta": "Wola Uhruska\r"
+  }
+]

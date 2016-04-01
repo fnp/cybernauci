@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15239",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5382",
+    "miejscowosc": "Bierut\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "7",
+    "kod": "56-420",
+    "poczta": "Bierut\u00f3w\r"
+  },
+  {
+    "id": "15240",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5382",
+    "miejscowosc": "Bierut\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "plac Ko\u015bcielny",
+    "numer": "2",
+    "kod": "56-420",
+    "poczta": "Bierut\u00f3w\r"
+  },
+  {
+    "id": "15237",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5382",
+    "miejscowosc": "Bierut\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I Dywizji Wojska Polskiego im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Krasi\u0144skiego",
+    "numer": "3",
+    "kod": "56-420",
+    "poczta": "Bierut\u00f3w\r"
+  },
+  {
+    "id": "15241",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5382",
+    "miejscowosc": "Bierut\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "plac Ko\u015bcielny",
+    "numer": "2",
+    "kod": "56-420",
+    "poczta": "Bierut\u00f3w\r"
+  }
+]

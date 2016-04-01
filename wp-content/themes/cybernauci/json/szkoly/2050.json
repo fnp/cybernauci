@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5847",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2050",
+    "miejscowosc": "Pisarzowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Pisarzowa",
+    "numer": "346",
+    "kod": "34-654",
+    "poczta": "M\u0119cina\r"
+  },
+  {
+    "id": "5848",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2050",
+    "miejscowosc": "Pisarzowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pisarzowa",
+    "numer": "346",
+    "kod": "34-654",
+    "poczta": "M\u0119cina\r"
+  }
+]

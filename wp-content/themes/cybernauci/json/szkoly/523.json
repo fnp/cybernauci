@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1173",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Adama Mickiewicza",
+    "numer": "17",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  },
+  {
+    "id": "1174",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. W\u0142. Broniewskiego",
+    "ulica": "Ry\u0142y",
+    "numer": "26",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  },
+  {
+    "id": "1170",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. A. Mickiewicza",
+    "ulica": "Adama Mickiewicza",
+    "numer": "13\/17",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  },
+  {
+    "id": "1171",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sk\u0142odowskiej",
+    "numer": "21",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  },
+  {
+    "id": "1175",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ry\u0142y",
+    "numer": "26",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  },
+  {
+    "id": "1176",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "523",
+    "miejscowosc": "Krzepice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ry\u0142y",
+    "numer": "26",
+    "kod": "42-160",
+    "poczta": "Krzepice\r"
+  }
+]

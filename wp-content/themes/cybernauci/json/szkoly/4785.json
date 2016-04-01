@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13440",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4785",
+    "miejscowosc": "Wa\u0142dowo Szlacheckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Wa\u0142dowo Szlacheckie",
+    "numer": "57",
+    "kod": "86-300",
+    "poczta": "Grudzi\u0105dz\r"
+  },
+  {
+    "id": "13441",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4785",
+    "miejscowosc": "Wa\u0142dowo Szlacheckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wa\u0142dowo Szlacheckie",
+    "numer": "57",
+    "kod": "86-300",
+    "poczta": "Grudzi\u0105dz\r"
+  }
+]

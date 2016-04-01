@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17057",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6021",
+    "miejscowosc": "Rossoszyca",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum SPiRRiO",
+    "ulica": "Sieradzka",
+    "numer": "7",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17060",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6021",
+    "miejscowosc": "Rossoszyca",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sieradzka",
+    "numer": "7",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17061",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6021",
+    "miejscowosc": "Rossoszyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sieradzka",
+    "numer": "7",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  }
+]

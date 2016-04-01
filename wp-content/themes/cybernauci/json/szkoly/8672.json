@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23839",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8672",
+    "miejscowosc": "Stare Lubiejewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "07-300",
+    "poczta": "Ost\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23850",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8672",
+    "miejscowosc": "Stare Lubiejewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Klonowa",
+    "numer": "4",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23851",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8672",
+    "miejscowosc": "Stare Lubiejewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Klonowa",
+    "numer": "4",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  }
+]

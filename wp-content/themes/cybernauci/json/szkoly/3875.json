@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10765",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3875",
+    "miejscowosc": "Ciechanowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "Sosnowa",
+    "numer": "2",
+    "kod": "18-230",
+    "poczta": "Ciechanowiec\r"
+  },
+  {
+    "id": "10766",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3875",
+    "miejscowosc": "Ciechanowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-230",
+    "poczta": "Ciechanowiec\r"
+  },
+  {
+    "id": "10761",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3875",
+    "miejscowosc": "Ciechanowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "11 listopada",
+    "numer": "5",
+    "kod": "18-230",
+    "poczta": "Ciechanowiec\r"
+  },
+  {
+    "id": "10767",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3875",
+    "miejscowosc": "Ciechanowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-230",
+    "poczta": "Ciechanowiec\r"
+  },
+  {
+    "id": "10768",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3875",
+    "miejscowosc": "Ciechanowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-230",
+    "poczta": "Ciechanowiec\r"
+  }
+]

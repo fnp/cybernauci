@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22339",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8072",
+    "miejscowosc": "Besko",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "54",
+    "kod": "38-524",
+    "poczta": "Besko\r"
+  },
+  {
+    "id": "22340",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8072",
+    "miejscowosc": "Besko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "54",
+    "kod": "38-524",
+    "poczta": "Besko\r"
+  }
+]

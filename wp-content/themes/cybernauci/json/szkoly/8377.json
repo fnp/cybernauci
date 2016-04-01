@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24270",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8377",
+    "miejscowosc": "Micha\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "05-816",
+    "poczta": "Micha\u0142owice\r"
+  },
+  {
+    "id": "23187",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8377",
+    "miejscowosc": "Micha\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Micha\u0142owice",
+    "numer": "1",
+    "kod": "05-640",
+    "poczta": "Mogielnica\r"
+  },
+  {
+    "id": "24271",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8377",
+    "miejscowosc": "Micha\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "05-816",
+    "poczta": "Micha\u0142owice\r"
+  }
+]

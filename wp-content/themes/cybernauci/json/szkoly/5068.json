@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14023",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5068",
+    "miejscowosc": "Lubiewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "16",
+    "kod": "89-526",
+    "poczta": "Lubiewo\r"
+  },
+  {
+    "id": "14024",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5068",
+    "miejscowosc": "Lubiewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "16",
+    "kod": "89-526",
+    "poczta": "Lubiewo\r"
+  }
+]

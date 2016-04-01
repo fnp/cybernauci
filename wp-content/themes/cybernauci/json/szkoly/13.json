@@ -1,0 +1,26 @@
+[
+  {
+    "id": "39",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "13",
+    "miejscowosc": "Lewin Brzeski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zamkowa",
+    "numer": "3",
+    "kod": "49-340",
+    "poczta": "Lewin Brzeski\r"
+  },
+  {
+    "id": "37",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "13",
+    "miejscowosc": "Lewin Brzeski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "61",
+    "kod": "49-340",
+    "poczta": "Lewin Brzeski\r"
+  }
+]

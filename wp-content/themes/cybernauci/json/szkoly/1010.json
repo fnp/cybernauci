@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3571",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1010",
+    "miejscowosc": "Do\u0142hobycz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4a",
+    "kod": "22-540",
+    "poczta": "Do\u0142hobycz\u00f3w\r"
+  },
+  {
+    "id": "3572",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1010",
+    "miejscowosc": "Do\u0142hobycz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Wojsk Ochrony Pogranicza",
+    "ulica": "Szkolna",
+    "numer": "4a",
+    "kod": "22-540",
+    "poczta": "Do\u0142hobycz\u00f3w\r"
+  }
+]

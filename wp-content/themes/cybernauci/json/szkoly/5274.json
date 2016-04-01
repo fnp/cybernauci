@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14977",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "St. Sempo\u0142owskiej",
+    "numer": "13",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14978",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "St. Sempo\u0142owskiej",
+    "numer": "13",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14971",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wojska Polskiego",
+    "numer": "8",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14970",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "68",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14979",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "S\u0142owackiego",
+    "numer": "4",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14980",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5274",
+    "miejscowosc": "Bystrzyca K\u0142odzka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza szko\u0142a Ponadgimnazjalna",
+    "ulica": "S\u0142owackiego",
+    "numer": "4",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  }
+]

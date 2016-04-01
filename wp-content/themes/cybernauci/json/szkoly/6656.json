@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18762",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6656",
+    "miejscowosc": "Zb\u0105szy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mostowa",
+    "numer": "10",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  },
+  {
+    "id": "18768",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6656",
+    "miejscowosc": "Zb\u0105szy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "43",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  },
+  {
+    "id": "18767",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6656",
+    "miejscowosc": "Zb\u0105szy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Arkadego Fiedlera",
+    "ulica": "Mostowa",
+    "numer": "10",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  },
+  {
+    "id": "18769",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6656",
+    "miejscowosc": "Zb\u0105szy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe ",
+    "ulica": "17 Stycznia 1920 r.",
+    "numer": "27",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  },
+  {
+    "id": "18770",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6656",
+    "miejscowosc": "Zb\u0105szy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "17 Stycznia 1920 r.",
+    "numer": "27",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  }
+]

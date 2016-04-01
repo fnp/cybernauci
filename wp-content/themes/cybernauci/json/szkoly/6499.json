@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18533",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6499",
+    "miejscowosc": "Wilczog\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wilczog\u00f3ra",
+    "numer": "7",
+    "kod": "62-550",
+    "poczta": "Wilczyn\r"
+  },
+  {
+    "id": "18534",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6499",
+    "miejscowosc": "Wilczog\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wilczog\u00f3ra",
+    "numer": "8",
+    "kod": "62-550",
+    "poczta": "Wilczyn\r"
+  },
+  {
+    "id": "18456",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6499",
+    "miejscowosc": "Wilczog\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wilczog\u00f3ra",
+    "numer": "7",
+    "kod": "62-550",
+    "poczta": "Wilczyn\r"
+  }
+]

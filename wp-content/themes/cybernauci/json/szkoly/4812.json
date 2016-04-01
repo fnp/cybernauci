@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13524",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4812",
+    "miejscowosc": "Gniewkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Dwrorcowa",
+    "numer": "11",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  },
+  {
+    "id": "13527",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4812",
+    "miejscowosc": "Gniewkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prestige Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworcowa",
+    "numer": "11",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  },
+  {
+    "id": "13520",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4812",
+    "miejscowosc": "Gniewkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Toru\u0144ska",
+    "numer": "40",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  },
+  {
+    "id": "13526",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4812",
+    "miejscowosc": "Gniewkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a Zawodowa",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "5",
+    "kod": "88-140",
+    "poczta": "Gniewkowo\r"
+  }
+]

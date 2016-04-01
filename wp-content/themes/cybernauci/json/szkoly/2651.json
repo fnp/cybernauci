@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7179",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2651",
+    "miejscowosc": "Nidek",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im. M. Kopernika Gimnazjum",
+    "ulica": "Nidek",
+    "numer": "43",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  },
+  {
+    "id": "7180",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2651",
+    "miejscowosc": "Nidek",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny im. M. Kopernika Szko\u0142a Podstawowa",
+    "ulica": "Nidek",
+    "numer": "43",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  }
+]

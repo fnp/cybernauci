@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13754",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4929",
+    "miejscowosc": "Osi\u0119ciny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Traugutta",
+    "numer": "7",
+    "kod": "88-220",
+    "poczta": "Osi\u0119ciny\r"
+  },
+  {
+    "id": "13752",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4929",
+    "miejscowosc": "Osi\u0119ciny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. H. Sucharskiego",
+    "ulica": "Traugutta",
+    "numer": "1",
+    "kod": "88-220",
+    "poczta": "Osi\u0119ciny\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8048",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2857",
+    "miejscowosc": "Gnie\u017adziska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gnie\u017adziska",
+    "numer": "85",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  },
+  {
+    "id": "8049",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2857",
+    "miejscowosc": "Gnie\u017adziska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Gnie\u017adziska",
+    "numer": "85",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  }
+]

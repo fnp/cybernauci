@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21102",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7467",
+    "miejscowosc": "G\u00f3ra Motyczna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stanis\u0142awa Mroczki",
+    "ulica": "G\u00f3ra Motyczna",
+    "numer": "31",
+    "kod": "39-200",
+    "poczta": "\u017byrak\u00f3w\r"
+  },
+  {
+    "id": "21103",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7467",
+    "miejscowosc": "G\u00f3ra Motyczna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u00f3ra Motyczna",
+    "numer": "31",
+    "kod": "39-200",
+    "poczta": "\u017byrak\u00f3w\r"
+  }
+]

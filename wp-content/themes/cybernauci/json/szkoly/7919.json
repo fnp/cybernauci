@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22001",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7919",
+    "miejscowosc": "Adam\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Adam\u00f3wka",
+    "numer": "180",
+    "kod": "37-534",
+    "poczta": "Adam\u00f3wka\r"
+  },
+  {
+    "id": "21998",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7919",
+    "miejscowosc": "Adam\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Adam\u00f3wka",
+    "numer": "26",
+    "kod": "37-534",
+    "poczta": "Adam\u00f3wka\r"
+  }
+]

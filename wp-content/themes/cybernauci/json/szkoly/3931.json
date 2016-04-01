@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11107",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3931",
+    "miejscowosc": "Dobrowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Dobrowo",
+    "numer": "24",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  },
+  {
+    "id": "11108",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3931",
+    "miejscowosc": "Dobrowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Dobrowo",
+    "numer": "24",
+    "kod": "78-220",
+    "poczta": "Tychowo\r"
+  }
+]

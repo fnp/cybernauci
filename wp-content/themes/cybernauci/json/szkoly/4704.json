@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13286",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4704",
+    "miejscowosc": "\u0141ochowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wierzbowa",
+    "numer": "2",
+    "kod": "86-065",
+    "poczta": "\u0141ochowo\r"
+  },
+  {
+    "id": "13287",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4704",
+    "miejscowosc": "\u0141ochowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wierzbowa",
+    "numer": "2",
+    "kod": "86-065",
+    "poczta": "\u0141ochowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10275",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3624",
+    "miejscowosc": "Lipsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-315",
+    "poczta": "Lipsk\r"
+  },
+  {
+    "id": "10276",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3624",
+    "miejscowosc": "Lipsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-315",
+    "poczta": "Lipsk\r"
+  }
+]

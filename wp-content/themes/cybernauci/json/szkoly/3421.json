@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9395",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3421",
+    "miejscowosc": "Hel",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-150",
+    "poczta": "Hel\r"
+  },
+  {
+    "id": "9396",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3421",
+    "miejscowosc": "Hel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-150",
+    "poczta": "Hel\r"
+  },
+  {
+    "id": "9397",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3421",
+    "miejscowosc": "Hel",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-150",
+    "poczta": "Hel\r"
+  }
+]

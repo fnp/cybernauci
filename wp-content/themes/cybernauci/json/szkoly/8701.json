@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23914",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8701",
+    "miejscowosc": "Karczew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bieli\u0144skiego",
+    "numer": "7",
+    "kod": "05-480",
+    "poczta": "Karczew\r"
+  },
+  {
+    "id": "23913",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8701",
+    "miejscowosc": "Karczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Otwocka",
+    "numer": "13",
+    "kod": "05-480",
+    "poczta": "Karczew\r"
+  },
+  {
+    "id": "23915",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8701",
+    "miejscowosc": "Karczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stefana Wyszy\u0144skiego",
+    "numer": "4",
+    "kod": "05-480",
+    "poczta": "Karczew\r"
+  },
+  {
+    "id": "23916",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8701",
+    "miejscowosc": "Karczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stefana Wyszy\u0144skiego",
+    "numer": "4",
+    "kod": "05-480",
+    "poczta": "Karczew\r"
+  }
+]

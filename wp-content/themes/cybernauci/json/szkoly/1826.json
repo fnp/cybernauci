@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5431",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1826",
+    "miejscowosc": "Szczucin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w Wrze\u015bnia",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "30",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  },
+  {
+    "id": "5423",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1826",
+    "miejscowosc": "Szczucin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Witosa",
+    "numer": "2",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  },
+  {
+    "id": "5432",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1826",
+    "miejscowosc": "Szczucin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "30",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  },
+  {
+    "id": "5424",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1826",
+    "miejscowosc": "Szczucin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Witosa",
+    "numer": "2",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  },
+  {
+    "id": "5425",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1826",
+    "miejscowosc": "Szczucin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Witosa",
+    "numer": "2",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  }
+]

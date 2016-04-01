@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6718",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2448",
+    "miejscowosc": "Sidzina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sidzina",
+    "numer": "701",
+    "kod": "34-236",
+    "poczta": "Sidzina\r"
+  },
+  {
+    "id": "6719",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2448",
+    "miejscowosc": "Sidzina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Sidzina",
+    "numer": "701",
+    "kod": "34-236",
+    "poczta": "Sidzina\r"
+  }
+]

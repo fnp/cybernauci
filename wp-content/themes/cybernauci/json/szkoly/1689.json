@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5152",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1689",
+    "miejscowosc": "Lipnica Murowana",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lipnica Murowana",
+    "numer": "59",
+    "kod": "32-724",
+    "poczta": "Lipnica Murowana\r"
+  },
+  {
+    "id": "5155",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1689",
+    "miejscowosc": "Lipnica Murowana",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lipnica Murowana",
+    "numer": "59",
+    "kod": "32-724",
+    "poczta": "Lipnica Murowana\r"
+  }
+]

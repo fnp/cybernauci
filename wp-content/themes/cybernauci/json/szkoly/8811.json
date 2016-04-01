@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24168",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8811",
+    "miejscowosc": "Polesie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Polesie",
+    "numer": "9",
+    "kod": "09-130",
+    "poczta": "Baboszewo\r"
+  },
+  {
+    "id": "24169",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8811",
+    "miejscowosc": "Polesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brodeckiego",
+    "ulica": "Polesie",
+    "numer": "9",
+    "kod": "09-130",
+    "poczta": "Baboszewo\r"
+  }
+]

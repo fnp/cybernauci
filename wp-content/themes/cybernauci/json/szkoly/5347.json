@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15140",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5347",
+    "miejscowosc": "Rudna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piaskowa",
+    "numer": "3b",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  },
+  {
+    "id": "15141",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5347",
+    "miejscowosc": "Rudna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piaskowa",
+    "numer": "3",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  },
+  {
+    "id": "15142",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5347",
+    "miejscowosc": "Rudna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kolejowa",
+    "numer": "5",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  },
+  {
+    "id": "15143",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5347",
+    "miejscowosc": "Rudna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kolejowa",
+    "numer": "5",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  }
+]

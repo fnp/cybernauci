@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7142",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2647",
+    "miejscowosc": "Barwa\u0142d Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Kr\u00f3lowej Jadwigi",
+    "ulica": "Barwa\u0142d Dolny",
+    "numer": "64",
+    "kod": "34-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  },
+  {
+    "id": "7148",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2647",
+    "miejscowosc": "Barwa\u0142d Dolny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. \u015aw. Kr\u00f3lowej Jadwigi",
+    "ulica": "Barwa\u0142d Dolny",
+    "numer": "64",
+    "kod": "34-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  }
+]

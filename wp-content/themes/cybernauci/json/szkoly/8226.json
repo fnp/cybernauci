@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22856",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8226",
+    "miejscowosc": "Stara B\u0142otnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stara B\u0142otnica",
+    "numer": "49",
+    "kod": "26-806",
+    "poczta": "Stara B\u0142otnica\r"
+  },
+  {
+    "id": "22857",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8226",
+    "miejscowosc": "Stara B\u0142otnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stara B\u0142otnica",
+    "numer": "49",
+    "kod": "26-806",
+    "poczta": "Stara B\u0142otnica\r"
+  }
+]

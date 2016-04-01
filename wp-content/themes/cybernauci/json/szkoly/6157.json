@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17342",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6157",
+    "miejscowosc": "Szadek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Prusinowska",
+    "numer": "4",
+    "kod": "98-240",
+    "poczta": "Szadek\r"
+  },
+  {
+    "id": "17343",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6157",
+    "miejscowosc": "Szadek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. T. Ko\u015bciuszki",
+    "ulica": "Prusinowska",
+    "numer": "4",
+    "kod": "98-240",
+    "poczta": "Szadek\r"
+  }
+]

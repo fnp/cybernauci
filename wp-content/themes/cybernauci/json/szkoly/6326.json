@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18144",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6326",
+    "miejscowosc": "Rostarzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Przedszkolno-Szkolno-Gimnazjalnym ",
+    "ulica": "Rakoniewicka",
+    "numer": "23",
+    "kod": "62-068",
+    "poczta": "Rostarzewo\r"
+  },
+  {
+    "id": "18145",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6326",
+    "miejscowosc": "Rostarzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Krzysztofa \u017begockiego w Zespole Przedszkolno-Szkolno-Gimnazjalnym",
+    "ulica": "Rakoniewicka",
+    "numer": "23",
+    "kod": "62-068",
+    "poczta": "Rostarzewo\r"
+  }
+]

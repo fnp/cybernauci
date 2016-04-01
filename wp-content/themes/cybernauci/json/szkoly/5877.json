@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16762",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5877",
+    "miejscowosc": "Brzoza",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Brzoza",
+    "numer": "18",
+    "kod": "97-306",
+    "poczta": "Grabica\r"
+  },
+  {
+    "id": "16757",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5877",
+    "miejscowosc": "Brzoza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Mickiewicza ",
+    "ulica": "Brzoza",
+    "numer": "18",
+    "kod": "97-306",
+    "poczta": "Grabica\r"
+  }
+]

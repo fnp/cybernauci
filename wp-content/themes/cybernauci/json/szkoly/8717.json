@@ -1,0 +1,98 @@
+[
+  {
+    "id": "23948",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ks. Sajny",
+    "numer": "16",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23949",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ks. Sajny",
+    "numer": "16",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23959",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Budowlanych",
+    "numer": "14",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23942",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kalwaryjska",
+    "numer": "3",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23957",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a Zawodowa w Zespole",
+    "ulica": "Dominika\u0144ska",
+    "numer": "9 E",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23958",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1 w Zespole",
+    "ulica": "Dominika\u0144ska",
+    "numer": "9 E",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23960",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Budowlanych",
+    "numer": "14",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23961",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8717",
+    "miejscowosc": "G\u00f3ra Kalwaria",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Budowlanych",
+    "numer": "14",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  }
+]

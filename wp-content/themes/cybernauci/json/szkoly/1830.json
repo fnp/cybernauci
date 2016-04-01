@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5429",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1830",
+    "miejscowosc": "Borki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Borki",
+    "numer": "164",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  },
+  {
+    "id": "5430",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1830",
+    "miejscowosc": "Borki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Borki",
+    "numer": "164",
+    "kod": "33-230",
+    "poczta": "Szczucin\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "14872",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5242",
+    "miejscowosc": "Piechowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u015awierczewskiego",
+    "numer": "21",
+    "kod": "58-573",
+    "poczta": "Piechowice\r"
+  },
+  {
+    "id": "14871",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5242",
+    "miejscowosc": "Piechowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "28",
+    "kod": "58-573",
+    "poczta": "Piechowice\r"
+  },
+  {
+    "id": "14870",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5242",
+    "miejscowosc": "Piechowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "58-573",
+    "poczta": "Piechowice\r"
+  },
+  {
+    "id": "14873",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5242",
+    "miejscowosc": "Piechowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Technicznych i Licealnych",
+    "ulica": "\u015awierczewskiego",
+    "numer": "21",
+    "kod": "58-573",
+    "poczta": "Piechowice\r"
+  },
+  {
+    "id": "14874",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5242",
+    "miejscowosc": "Piechowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "\u015awierczewskiego",
+    "numer": "21",
+    "kod": "58-573",
+    "poczta": "Piechowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22228",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8032",
+    "miejscowosc": "Hy\u017cne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Hy\u017cne",
+    "numer": "614",
+    "kod": "36-024",
+    "poczta": "Hy\u017cne\r"
+  },
+  {
+    "id": "22222",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8032",
+    "miejscowosc": "Hy\u017cne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. W\u0142adys\u0142awa Sikorskiego",
+    "ulica": "Hy\u017cne",
+    "numer": "615",
+    "kod": "36-024",
+    "poczta": "Hy\u017cne\r"
+  }
+]

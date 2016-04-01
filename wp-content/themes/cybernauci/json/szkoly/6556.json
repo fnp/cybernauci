@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18554",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6556",
+    "miejscowosc": "Stare Oborzyska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-000",
+    "poczta": "Ko\u015bcian\r"
+  },
+  {
+    "id": "18559",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6556",
+    "miejscowosc": "Stare Oborzyska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-000",
+    "poczta": "Ko\u015bcian\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8664",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3145",
+    "miejscowosc": "Secemin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Koniecpolska",
+    "numer": "1",
+    "kod": "29-145",
+    "poczta": "Secemin\r"
+  },
+  {
+    "id": "8665",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3145",
+    "miejscowosc": "Secemin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Koniecpolska",
+    "numer": "1",
+    "kod": "29-145",
+    "poczta": "Secemin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12484",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4393",
+    "miejscowosc": "Dobrzyki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Dobrzyki",
+    "numer": "25",
+    "kod": "14-230",
+    "poczta": "Zalewo\r"
+  },
+  {
+    "id": "12485",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4393",
+    "miejscowosc": "Dobrzyki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dobrzyki",
+    "numer": "25",
+    "kod": "14-230",
+    "poczta": "Zalewo\r"
+  }
+]

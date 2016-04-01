@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5292",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1768",
+    "miejscowosc": "Zabor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zabor\u00f3w",
+    "numer": "63",
+    "kod": "23-821",
+    "poczta": "Zabor\u00f3w\r"
+  },
+  {
+    "id": "5296",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1768",
+    "miejscowosc": "Zabor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. J\u0119drzeja Cierniaka",
+    "ulica": "Zabor\u00f3w",
+    "numer": "63",
+    "kod": "32-821",
+    "poczta": "Zabor\u00f3w\r"
+  }
+]

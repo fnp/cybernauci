@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23706",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8603",
+    "miejscowosc": "Gowor\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Gowor\u00f3wek",
+    "numer": "43a",
+    "kod": "07-440",
+    "poczta": "Goworowo\r"
+  },
+  {
+    "id": "23707",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8603",
+    "miejscowosc": "Gowor\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Kopernika",
+    "ulica": "Gowor\u00f3wek",
+    "numer": "43a",
+    "kod": "07-440",
+    "poczta": "Goworowo\r"
+  }
+]

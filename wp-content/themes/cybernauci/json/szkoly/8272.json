@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22977",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8272",
+    "miejscowosc": "Jagodne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Micha\u0142\u00f3wka",
+    "numer": "3",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22978",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8272",
+    "miejscowosc": "Jagodne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Micha\u0142\u00f3wka",
+    "numer": "3",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  }
+]

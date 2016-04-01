@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11476",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4085",
+    "miejscowosc": "Sian\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne ",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "4",
+    "kod": "76-004",
+    "poczta": "Sian\u00f3w\r"
+  },
+  {
+    "id": "11472",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4085",
+    "miejscowosc": "Sian\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Armii Polskiej",
+    "numer": "33",
+    "kod": "76-004",
+    "poczta": "Sian\u00f3w\r"
+  },
+  {
+    "id": "11473",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4085",
+    "miejscowosc": "Sian\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Dworcowa",
+    "numer": "26a",
+    "kod": "76-004",
+    "poczta": "Sian\u00f3w\r"
+  }
+]

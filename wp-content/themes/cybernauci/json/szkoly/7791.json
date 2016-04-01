@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21782",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7791",
+    "miejscowosc": "Gaw\u0142uszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gaw\u0142uszowice",
+    "numer": "5",
+    "kod": "39-307",
+    "poczta": "Gaw\u0142uszowice\r"
+  },
+  {
+    "id": "21783",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7791",
+    "miejscowosc": "Gaw\u0142uszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gaw\u0142uszowice",
+    "numer": "5",
+    "kod": "39-307",
+    "poczta": "Gaw\u0142uszowice\r"
+  }
+]

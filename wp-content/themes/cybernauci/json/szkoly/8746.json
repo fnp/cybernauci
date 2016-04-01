@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24042",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8746",
+    "miejscowosc": "Pra\u017cm\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Franciszka Ryxa",
+    "numer": "72",
+    "kod": "05-505",
+    "poczta": "Pra\u017cm\u00f3w\r"
+  },
+  {
+    "id": "24045",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8746",
+    "miejscowosc": "Pra\u017cm\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Franciszka Ryxa",
+    "numer": "72",
+    "kod": "05-505",
+    "poczta": "Pra\u017cm\u00f3w\r"
+  }
+]

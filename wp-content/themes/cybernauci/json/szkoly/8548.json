@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25075",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8548",
+    "miejscowosc": "D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia na rzecz Rozwoju Wsi D\u0105browa",
+    "ulica": "D\u0105browo",
+    "numer": "40",
+    "kod": "07-205",
+    "poczta": "Rz\u0105\u015bnik\r"
+  },
+  {
+    "id": "23598",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8548",
+    "miejscowosc": "D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0105browa",
+    "numer": "85",
+    "kod": "06-445",
+    "poczta": "Strzegowo\r"
+  }
+]

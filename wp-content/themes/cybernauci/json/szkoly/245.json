@@ -1,0 +1,98 @@
+[
+  {
+    "id": "497",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Janusza Korczaka",
+    "numer": "12",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "492",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "26",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "499",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "24",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "500",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "24",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "501",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "24",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "502",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "24",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "495",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej",
+    "ulica": "Daniecka",
+    "numer": "14",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  },
+  {
+    "id": "498",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "245",
+    "miejscowosc": "Ozimek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Janusza Korczaka",
+    "numer": "12",
+    "kod": "46-040",
+    "poczta": "Ozimek\r"
+  }
+]

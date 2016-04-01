@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23752",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8629",
+    "miejscowosc": "Zalas",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zalas",
+    "numer": "1",
+    "kod": "07-438",
+    "poczta": "Zalas\r"
+  },
+  {
+    "id": "23753",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8629",
+    "miejscowosc": "Zalas",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalas",
+    "numer": "1",
+    "kod": "07-438",
+    "poczta": "Zalas\r"
+  }
+]

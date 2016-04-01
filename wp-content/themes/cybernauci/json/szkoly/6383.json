@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18243",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6383",
+    "miejscowosc": "Godziesze Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Kordeckiego",
+    "numer": "10",
+    "kod": "62-872",
+    "poczta": "Godziesze Ma\u0142e\r"
+  },
+  {
+    "id": "18244",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6383",
+    "miejscowosc": "Godziesze Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kordeckiego",
+    "numer": "10",
+    "kod": "62-872",
+    "poczta": "Godziesze Ma\u0142e\r"
+  },
+  {
+    "id": "18242",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6383",
+    "miejscowosc": "Godziesze Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kordeckiego",
+    "numer": "8",
+    "kod": "62-872",
+    "poczta": "Godziesze Ma\u0142e\r"
+  }
+]

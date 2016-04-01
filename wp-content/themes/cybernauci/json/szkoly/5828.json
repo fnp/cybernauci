@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16644",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5828",
+    "miejscowosc": "\u017barn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "26-330",
+    "poczta": "\u017barn\u00f3w\r"
+  },
+  {
+    "id": "16645",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5828",
+    "miejscowosc": "\u017barn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "17-go Stycznia",
+    "numer": "15",
+    "kod": "26-330",
+    "poczta": "\u017barn\u00f3w\r"
+  },
+  {
+    "id": "16643",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5828",
+    "miejscowosc": "\u017barn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Przedborska",
+    "numer": "10",
+    "kod": "26-330",
+    "poczta": "\u017barn\u00f3w\r"
+  },
+  {
+    "id": "16646",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5828",
+    "miejscowosc": "\u017barn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum\u00a0",
+    "ulica": "17-go Stycznia",
+    "numer": "15",
+    "kod": "26-330",
+    "poczta": "\u017barn\u00f3w\r"
+  },
+  {
+    "id": "16647",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5828",
+    "miejscowosc": "\u017barn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "17-go Stycznia",
+    "numer": "15",
+    "kod": "26-330",
+    "poczta": "\u017barn\u00f3w\r"
+  }
+]

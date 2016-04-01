@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24772",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9114",
+    "miejscowosc": "Sterdy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. H. Sienkiewicza",
+    "ulica": "Wojska Polskiego",
+    "numer": "17",
+    "kod": "08-320",
+    "poczta": "Sterdy\u0144\r"
+  },
+  {
+    "id": "24773",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9114",
+    "miejscowosc": "Sterdy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Krzywo\u0144",
+    "ulica": "Wojska Polskiego",
+    "numer": "17",
+    "kod": "08-320",
+    "poczta": "Sterdy\u0144\r"
+  }
+]

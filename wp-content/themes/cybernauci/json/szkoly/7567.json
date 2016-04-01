@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21332",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7567",
+    "miejscowosc": "\u0141\u0119\u017cyny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "\u0141\u0119\u017cyny",
+    "numer": "144",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  },
+  {
+    "id": "21333",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7567",
+    "miejscowosc": "\u0141\u0119\u017cyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "\u0141\u0119\u017cyny",
+    "numer": "144",
+    "kod": "38-230",
+    "poczta": "Nowy \u017bmigr\u00f3d\r"
+  }
+]

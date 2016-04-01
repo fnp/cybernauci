@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10720",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3854",
+    "miejscowosc": "Filip\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Marii Konopnickiej",
+    "numer": "6",
+    "kod": "16-424",
+    "poczta": "Filip\u00f3w\r"
+  },
+  {
+    "id": "10721",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3854",
+    "miejscowosc": "Filip\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Marii Konopnickiej",
+    "numer": "6",
+    "kod": "16-424",
+    "poczta": "Filip\u00f3w\r"
+  }
+]

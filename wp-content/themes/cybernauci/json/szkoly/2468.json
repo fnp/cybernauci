@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6759",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2468",
+    "miejscowosc": "Skawica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Skawica",
+    "numer": "278",
+    "kod": "34-221",
+    "poczta": "Skawica\r"
+  },
+  {
+    "id": "6760",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2468",
+    "miejscowosc": "Skawica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa Nr 1 im. Zenona Klemensiewicza",
+    "ulica": "Skawica",
+    "numer": "278",
+    "kod": "34-221",
+    "poczta": "Skawica\r"
+  }
+]

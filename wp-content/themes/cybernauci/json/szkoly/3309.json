@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9122",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3309",
+    "miejscowosc": "Somonino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Osiedlowa",
+    "numer": "17",
+    "kod": "83-314",
+    "poczta": "Somonino\r"
+  },
+  {
+    "id": "9119",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3309",
+    "miejscowosc": "Somonino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wolno\u015bci",
+    "numer": "39",
+    "kod": "83-314",
+    "poczta": "Somonino\r"
+  },
+  {
+    "id": "9123",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3309",
+    "miejscowosc": "Somonino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osiedlowa",
+    "numer": "17",
+    "kod": "83-314",
+    "poczta": "Somonino\r"
+  },
+  {
+    "id": "9120",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3309",
+    "miejscowosc": "Somonino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Wolno\u015bci",
+    "numer": "39",
+    "kod": "83-314",
+    "poczta": "Somonino\r"
+  },
+  {
+    "id": "9121",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3309",
+    "miejscowosc": "Somonino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Wolno\u015bci",
+    "numer": "39",
+    "kod": "83-314",
+    "poczta": "Somonino\r"
+  }
+]

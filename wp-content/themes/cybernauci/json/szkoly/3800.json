@@ -1,0 +1,110 @@
+[
+  {
+    "id": "10601",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Adama Mickiewicza",
+    "numer": "36",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10604",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "1",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10607",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Litewskim J\u0119zykiem Nauczania \"\u017diburys\"",
+    "ulica": "22 Lipca",
+    "numer": "18b",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10605",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Szymona Konarskiego",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "1",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10600",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. Henryka Dobrza\u0144skiego \"Hubala\"",
+    "ulica": "Wojska Polskiego",
+    "numer": "64",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10608",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Litewskim J\u0119zykiem Nauczania \"\u017diburys\"",
+    "ulica": "22 Lipca",
+    "numer": "18b",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10602",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Konarskiego",
+    "numer": "23",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10606",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "1",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  },
+  {
+    "id": "10603",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3800",
+    "miejscowosc": "Sejny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Konarskiego",
+    "numer": "23",
+    "kod": "16-500",
+    "poczta": "Sejny\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12258",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4294",
+    "miejscowosc": "Lidzbark",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Nowa",
+    "numer": "10",
+    "kod": "13-230",
+    "poczta": "Lidzbark\r"
+  },
+  {
+    "id": "12259",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4294",
+    "miejscowosc": "Lidzbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi im. K. K. Baczy\u0144skiego ",
+    "ulica": "Garbuzy",
+    "numer": "20",
+    "kod": "13-230",
+    "poczta": "Lidzbark\r"
+  },
+  {
+    "id": "12253",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4294",
+    "miejscowosc": "Lidzbark",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Dzia\u0142dowska",
+    "numer": "13",
+    "kod": "13-230",
+    "poczta": "Lidzbark\r"
+  },
+  {
+    "id": "12260",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4294",
+    "miejscowosc": "Lidzbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Przemys\u0142owa",
+    "numer": "1",
+    "kod": "13-230",
+    "poczta": "Lidzbark\r"
+  },
+  {
+    "id": "12261",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4294",
+    "miejscowosc": "Lidzbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Przemys\u0142owa",
+    "numer": "1",
+    "kod": "13-230",
+    "poczta": "Lidzbark\r"
+  }
+]

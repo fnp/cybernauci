@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1144",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "514",
+    "miejscowosc": "Wielowie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Zamkowa",
+    "numer": "24",
+    "kod": "44-187",
+    "poczta": "Wielowie\u015b\r"
+  },
+  {
+    "id": "1146",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "514",
+    "miejscowosc": "Wielowie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "12a",
+    "kod": "44-187",
+    "poczta": "Wielowie\u015b\r"
+  }
+]

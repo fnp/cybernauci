@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5121",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1672",
+    "miejscowosc": "Siedlec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. Bohater\u00f3w Westerplatte Gimnazjum",
+    "ulica": "Siedlec",
+    "numer": "143",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  },
+  {
+    "id": "5122",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1672",
+    "miejscowosc": "Siedlec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. Bohater\u00f3w Westerplatte Szko\u0142a Podstawowa",
+    "ulica": "Siedlec",
+    "numer": "143",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  }
+]

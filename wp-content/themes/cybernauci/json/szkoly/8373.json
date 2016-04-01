@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23188",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8373",
+    "miejscowosc": "Mogielnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nowomiejska",
+    "numer": "1",
+    "kod": "05-640",
+    "poczta": "Mogielnica\r"
+  },
+  {
+    "id": "23183",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8373",
+    "miejscowosc": "Mogielnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. I Marsza\u0142ka Polski J. Pi\u0142sudskiego",
+    "ulica": "Przylesie",
+    "numer": "10A",
+    "kod": "05-640",
+    "poczta": "Mogielnica\r"
+  },
+  {
+    "id": "23189",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8373",
+    "miejscowosc": "Mogielnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowomiejska",
+    "numer": "1",
+    "kod": "05-640",
+    "poczta": "Mogielnica\r"
+  }
+]

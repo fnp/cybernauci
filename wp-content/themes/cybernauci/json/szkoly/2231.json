@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6195",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2231",
+    "miejscowosc": "T\u0119goborze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "T\u0119goborze",
+    "numer": "6",
+    "kod": "33-312",
+    "poczta": "T\u0119goborze\r"
+  },
+  {
+    "id": "6194",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2231",
+    "miejscowosc": "T\u0119goborze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "T\u0119goborze",
+    "numer": "128",
+    "kod": "33-312",
+    "poczta": "T\u0119goborze\r"
+  },
+  {
+    "id": "6198",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2231",
+    "miejscowosc": "T\u0119goborze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "T\u0119goborze",
+    "numer": "193",
+    "kod": "33-312",
+    "poczta": "T\u0119goborze\r"
+  },
+  {
+    "id": "6199",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2231",
+    "miejscowosc": "T\u0119goborze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "T\u0119goborze",
+    "numer": "193",
+    "kod": "33-312",
+    "poczta": "T\u0119goborze\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16396",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5700",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ostr\u00f3w",
+    "numer": "55",
+    "kod": "98-100",
+    "poczta": "\u0141ask\r"
+  },
+  {
+    "id": "17029",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5700",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliana Tuwima",
+    "ulica": "Ostr\u00f3w",
+    "numer": "21",
+    "kod": "98-275",
+    "poczta": "Brze\u017anio\r"
+  },
+  {
+    "id": "16397",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5700",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ostr\u00f3w",
+    "numer": "55",
+    "kod": "98-100",
+    "poczta": "\u0141ask\r"
+  },
+  {
+    "id": "16398",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5700",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ostr\u00f3w",
+    "numer": "55",
+    "kod": "98-100",
+    "poczta": "\u0141ask\r"
+  },
+  {
+    "id": "16399",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5700",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "55",
+    "kod": "98-100",
+    "poczta": "\u0141ask\r"
+  }
+]

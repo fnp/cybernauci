@@ -1,0 +1,26 @@
+[
+  {
+    "id": "984",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "423",
+    "miejscowosc": "Piasek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Armii Krajowej",
+    "ulica": "\u017burawska",
+    "numer": "2",
+    "kod": "42-253",
+    "poczta": "Jan\u00f3w\r"
+  },
+  {
+    "id": "1437",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "423",
+    "miejscowosc": "Piasek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 10",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "43-211",
+    "poczta": "Piasek\r"
+  }
+]

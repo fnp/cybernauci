@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8562",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3087",
+    "miejscowosc": "Mirzec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Mirzec Stary",
+    "numer": "10",
+    "kod": "27-220",
+    "poczta": "Mirzec\r"
+  },
+  {
+    "id": "8563",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3087",
+    "miejscowosc": "Mirzec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mirzec Stary",
+    "numer": "10",
+    "kod": "27-220",
+    "poczta": "Mirzec\r"
+  }
+]

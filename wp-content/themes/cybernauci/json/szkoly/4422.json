@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12560",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4422",
+    "miejscowosc": "Lubomino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "4A",
+    "kod": "11-135",
+    "poczta": "Lubomino\r"
+  },
+  {
+    "id": "12561",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4422",
+    "miejscowosc": "Lubomino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kopernika",
+    "numer": "4",
+    "kod": "11-135",
+    "poczta": "Lubomino\r"
+  }
+]

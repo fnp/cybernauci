@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20401",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7215",
+    "miejscowosc": "Kowal\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rzepi\u0144ska",
+    "numer": "10",
+    "kod": "69-110",
+    "poczta": "Rzepin\r"
+  },
+  {
+    "id": "20402",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7215",
+    "miejscowosc": "Kowal\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzepi\u0144ska",
+    "numer": "10",
+    "kod": "69-110",
+    "poczta": "Rzepin\r"
+  }
+]

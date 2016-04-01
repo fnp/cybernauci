@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9496",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3470",
+    "miejscowosc": "Biesowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Biesowice",
+    "numer": "38",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  },
+  {
+    "id": "9497",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3470",
+    "miejscowosc": "Biesowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biesowice",
+    "numer": "38",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  }
+]

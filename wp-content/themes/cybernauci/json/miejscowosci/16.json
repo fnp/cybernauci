@@ -1,0 +1,1617 @@
+[
+  {
+    "id": "4004",
+    "wojewodztwo_id": "16",
+    "nazwa": "Banie"
+  },
+  {
+    "id": "4095",
+    "wojewodztwo_id": "16",
+    "nazwa": "Barlinek"
+  },
+  {
+    "id": "4102",
+    "wojewodztwo_id": "16",
+    "nazwa": "Barn\u00f3wko"
+  },
+  {
+    "id": "4187",
+    "wojewodztwo_id": "16",
+    "nazwa": "Barwice"
+  },
+  {
+    "id": "3944",
+    "wojewodztwo_id": "16",
+    "nazwa": "B\u0119dargowo"
+  },
+  {
+    "id": "4039",
+    "wojewodztwo_id": "16",
+    "nazwa": "Benice"
+  },
+  {
+    "id": "4112",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bezrzecze"
+  },
+  {
+    "id": "4233",
+    "wojewodztwo_id": "16",
+    "nazwa": "Be\u0142czna"
+  },
+  {
+    "id": "3921",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bia\u0142ogard"
+  },
+  {
+    "id": "3966",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bia\u0142u\u0144"
+  },
+  {
+    "id": "4189",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bia\u0142y B\u00f3r"
+  },
+  {
+    "id": "4125",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bielice"
+  },
+  {
+    "id": "4214",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bierzwnica"
+  },
+  {
+    "id": "3934",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bierzwnik"
+  },
+  {
+    "id": "4070",
+    "wojewodztwo_id": "16",
+    "nazwa": "Biesiekierz"
+  },
+  {
+    "id": "4072",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bobolice"
+  },
+  {
+    "id": "4157",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bobrowice"
+  },
+  {
+    "id": "4096",
+    "wojewodztwo_id": "16",
+    "nazwa": "Boleszkowice"
+  },
+  {
+    "id": "4209",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bolkowo"
+  },
+  {
+    "id": "4077",
+    "wojewodztwo_id": "16",
+    "nazwa": "Bonin"
+  },
+  {
+    "id": "4192",
+    "wojewodztwo_id": "16",
+    "nazwa": "Borne Sulinowo"
+  },
+  {
+    "id": "3949",
+    "wojewodztwo_id": "16",
+    "nazwa": "Broczyno"
+  },
+  {
+    "id": "3984",
+    "wojewodztwo_id": "16",
+    "nazwa": "Brojce"
+  },
+  {
+    "id": "4011",
+    "wojewodztwo_id": "16",
+    "nazwa": "Brwice"
+  },
+  {
+    "id": "4132",
+    "wojewodztwo_id": "16",
+    "nazwa": "Brzesko"
+  },
+  {
+    "id": "4206",
+    "wojewodztwo_id": "16",
+    "nazwa": "Brze\u017cno"
+  },
+  {
+    "id": "3974",
+    "wojewodztwo_id": "16",
+    "nazwa": "B\u0142otno"
+  },
+  {
+    "id": "4006",
+    "wojewodztwo_id": "16",
+    "nazwa": "Cedynia"
+  },
+  {
+    "id": "3991",
+    "wojewodztwo_id": "16",
+    "nazwa": "Cerkwica"
+  },
+  {
+    "id": "4063",
+    "wojewodztwo_id": "16",
+    "nazwa": "Charzyno"
+  },
+  {
+    "id": "4177",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chleb\u00f3wko"
+  },
+  {
+    "id": "4163",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chociwel"
+  },
+  {
+    "id": "4009",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chojna"
+  },
+  {
+    "id": "3937",
+    "wojewodztwo_id": "16",
+    "nazwa": "Choszczno"
+  },
+  {
+    "id": "3943",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chrapowo"
+  },
+  {
+    "id": "4017",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chwarstnica"
+  },
+  {
+    "id": "4231",
+    "wojewodztwo_id": "16",
+    "nazwa": "Chwiram"
+  },
+  {
+    "id": "4099",
+    "wojewodztwo_id": "16",
+    "nazwa": "Cychry"
+  },
+  {
+    "id": "3950",
+    "wojewodztwo_id": "16",
+    "nazwa": "Czaplinek"
+  },
+  {
+    "id": "3980",
+    "wojewodztwo_id": "16",
+    "nazwa": "Czarnog\u0142owy"
+  },
+  {
+    "id": "4021",
+    "wojewodztwo_id": "16",
+    "nazwa": "Czelin"
+  },
+  {
+    "id": "4052",
+    "wojewodztwo_id": "16",
+    "nazwa": "Czernin"
+  },
+  {
+    "id": "4218",
+    "wojewodztwo_id": "16",
+    "nazwa": "Cz\u0142opa"
+  },
+  {
+    "id": "4142",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0105bki"
+  },
+  {
+    "id": "4089",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0105browa"
+  },
+  {
+    "id": "4076",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dargi\u0144"
+  },
+  {
+    "id": "4045",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dargob\u0105dz"
+  },
+  {
+    "id": "4100",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dargomy\u015bl"
+  },
+  {
+    "id": "3985",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dargos\u0142aw"
+  },
+  {
+    "id": "4139",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dar\u0142owo"
+  },
+  {
+    "id": "3927",
+    "wojewodztwo_id": "16",
+    "nazwa": "Daszewo"
+  },
+  {
+    "id": "4060",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0119bica"
+  },
+  {
+    "id": "3969",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0119bice"
+  },
+  {
+    "id": "4097",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0119bno"
+  },
+  {
+    "id": "4230",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0119bo\u0142\u0119ka"
+  },
+  {
+    "id": "4146",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobies\u0142aw"
+  },
+  {
+    "id": "4113",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobra"
+  },
+  {
+    "id": "4166",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobropole Pyrzyckie"
+  },
+  {
+    "id": "3931",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobrowo"
+  },
+  {
+    "id": "4164",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobrzany"
+  },
+  {
+    "id": "4067",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dobrzyca"
+  },
+  {
+    "id": "4167",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dolice"
+  },
+  {
+    "id": "4114",
+    "wojewodztwo_id": "16",
+    "nazwa": "Do\u0142uje"
+  },
+  {
+    "id": "3940",
+    "wojewodztwo_id": "16",
+    "nazwa": "Drawno"
+  },
+  {
+    "id": "3954",
+    "wojewodztwo_id": "16",
+    "nazwa": "Drawsko Pomorskie"
+  },
+  {
+    "id": "4061",
+    "wojewodztwo_id": "16",
+    "nazwa": "Drozdowo"
+  },
+  {
+    "id": "4074",
+    "wojewodztwo_id": "16",
+    "nazwa": "Drzewiany"
+  },
+  {
+    "id": "4057",
+    "wojewodztwo_id": "16",
+    "nazwa": "Drzonowo"
+  },
+  {
+    "id": "4090",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dunowo"
+  },
+  {
+    "id": "4053",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dygowo"
+  },
+  {
+    "id": "4032",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dziwn\u00f3w"
+  },
+  {
+    "id": "4056",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u017awirzyno"
+  },
+  {
+    "id": "4174",
+    "wojewodztwo_id": "16",
+    "nazwa": "Dzwonowo"
+  },
+  {
+    "id": "3972",
+    "wojewodztwo_id": "16",
+    "nazwa": "D\u0142ugo\u0142\u0119ka"
+  },
+  {
+    "id": "4018",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gardno"
+  },
+  {
+    "id": "4010",
+    "wojewodztwo_id": "16",
+    "nazwa": "Godk\u00f3w"
+  },
+  {
+    "id": "4175",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gogolewo"
+  },
+  {
+    "id": "4026",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gogolice"
+  },
+  {
+    "id": "4034",
+    "wojewodztwo_id": "16",
+    "nazwa": "Golczewo"
+  },
+  {
+    "id": "4103",
+    "wojewodztwo_id": "16",
+    "nazwa": "Golenice"
+  },
+  {
+    "id": "3962",
+    "wojewodztwo_id": "16",
+    "nazwa": "Goleni\u00f3w"
+  },
+  {
+    "id": "4029",
+    "wojewodztwo_id": "16",
+    "nazwa": "G\u00f3ralice"
+  },
+  {
+    "id": "4058",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gorawino"
+  },
+  {
+    "id": "4037",
+    "wojewodztwo_id": "16",
+    "nazwa": "G\u00f3rki"
+  },
+  {
+    "id": "3988",
+    "wojewodztwo_id": "16",
+    "nazwa": "G\u00f3rzyca"
+  },
+  {
+    "id": "4055",
+    "wojewodztwo_id": "16",
+    "nazwa": "Go\u015bcino"
+  },
+  {
+    "id": "4226",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gostomia"
+  },
+  {
+    "id": "4044",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gosty\u0144"
+  },
+  {
+    "id": "3942",
+    "wojewodztwo_id": "16",
+    "nazwa": "Granowo"
+  },
+  {
+    "id": "3987",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gryfice"
+  },
+  {
+    "id": "4016",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gryfino"
+  },
+  {
+    "id": "4180",
+    "wojewodztwo_id": "16",
+    "nazwa": "Grz\u0119dzice"
+  },
+  {
+    "id": "4198",
+    "wojewodztwo_id": "16",
+    "nazwa": "Grzmi\u0105ca"
+  },
+  {
+    "id": "4012",
+    "wojewodztwo_id": "16",
+    "nazwa": "Grzybno"
+  },
+  {
+    "id": "4200",
+    "wojewodztwo_id": "16",
+    "nazwa": "Gwda Wielka"
+  },
+  {
+    "id": "4169",
+    "wojewodztwo_id": "16",
+    "nazwa": "I\u0144sko"
+  },
+  {
+    "id": "4088",
+    "wojewodztwo_id": "16",
+    "nazwa": "Iwi\u0119cino"
+  },
+  {
+    "id": "4196",
+    "wojewodztwo_id": "16",
+    "nazwa": "Iwin"
+  },
+  {
+    "id": "4152",
+    "wojewodztwo_id": "16",
+    "nazwa": "Jaros\u0142awiec"
+  },
+  {
+    "id": "4038",
+    "wojewodztwo_id": "16",
+    "nazwa": "Jarszewo"
+  },
+  {
+    "id": "4193",
+    "wojewodztwo_id": "16",
+    "nazwa": "Jele\u0144"
+  },
+  {
+    "id": "4128",
+    "wojewodztwo_id": "16",
+    "nazwa": "Jesionowo"
+  },
+  {
+    "id": "4144",
+    "wojewodztwo_id": "16",
+    "nazwa": "Je\u017cyczki"
+  },
+  {
+    "id": "4191",
+    "wojewodztwo_id": "16",
+    "nazwa": "Juchowo"
+  },
+  {
+    "id": "3955",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kalisz Pomorski"
+  },
+  {
+    "id": "4036",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kamie\u0144 Pomorski"
+  },
+  {
+    "id": "4162",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kamienny Most"
+  },
+  {
+    "id": "3926",
+    "wojewodztwo_id": "16",
+    "nazwa": "Karlino"
+  },
+  {
+    "id": "3992",
+    "wojewodztwo_id": "16",
+    "nazwa": "Karnice"
+  },
+  {
+    "id": "3928",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kar\u015bcino"
+  },
+  {
+    "id": "4225",
+    "wojewodztwo_id": "16",
+    "nazwa": "Karsib\u00f3r"
+  },
+  {
+    "id": "4108",
+    "wojewodztwo_id": "16",
+    "nazwa": "Karsko"
+  },
+  {
+    "id": "3929",
+    "wojewodztwo_id": "16",
+    "nazwa": "Karwin"
+  },
+  {
+    "id": "4105",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kierzk\u00f3w"
+  },
+  {
+    "id": "3967",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kliniska Wielkie"
+  },
+  {
+    "id": "4170",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kobylanka"
+  },
+  {
+    "id": "3963",
+    "wojewodztwo_id": "16",
+    "nazwa": "Komarowo"
+  },
+  {
+    "id": "4047",
+    "wojewodztwo_id": "16",
+    "nazwa": "Koniewo"
+  },
+  {
+    "id": "4091",
+    "wojewodztwo_id": "16",
+    "nazwa": "Konikowo"
+  },
+  {
+    "id": "4143",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kopnica"
+  },
+  {
+    "id": "4155",
+    "wojewodztwo_id": "16",
+    "nazwa": "Korlino"
+  },
+  {
+    "id": "3936",
+    "wojewodztwo_id": "16",
+    "nazwa": "Korytowo"
+  },
+  {
+    "id": "3922",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ko\u015bciernica"
+  },
+  {
+    "id": "4241",
+    "wojewodztwo_id": "16",
+    "nazwa": "Koszalin"
+  },
+  {
+    "id": "4126",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kozielice"
+  },
+  {
+    "id": "4025",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ko\u0142bacz"
+  },
+  {
+    "id": "4117",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ko\u0142baskowo"
+  },
+  {
+    "id": "4046",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ko\u0142czewo"
+  },
+  {
+    "id": "4051",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ko\u0142obrzeg"
+  },
+  {
+    "id": "3964",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kr\u0119psko"
+  },
+  {
+    "id": "3941",
+    "wojewodztwo_id": "16",
+    "nazwa": "Krz\u0119cin"
+  },
+  {
+    "id": "4013",
+    "wojewodztwo_id": "16",
+    "nazwa": "Krzym\u00f3w"
+  },
+  {
+    "id": "4030",
+    "wojewodztwo_id": "16",
+    "nazwa": "Krzywin"
+  },
+  {
+    "id": "4171",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kunowo"
+  },
+  {
+    "id": "4075",
+    "wojewodztwo_id": "16",
+    "nazwa": "Kurowo"
+  },
+  {
+    "id": "4073",
+    "wojewodztwo_id": "16",
+    "nazwa": "K\u0142anino"
+  },
+  {
+    "id": "4130",
+    "wojewodztwo_id": "16",
+    "nazwa": "K\u0142odzino"
+  },
+  {
+    "id": "3924",
+    "wojewodztwo_id": "16",
+    "nazwa": "Laski"
+  },
+  {
+    "id": "4147",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lejkowo"
+  },
+  {
+    "id": "4215",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lekowo"
+  },
+  {
+    "id": "4127",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lipiany"
+  },
+  {
+    "id": "4008",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lisie Pole"
+  },
+  {
+    "id": "4002",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lubanowo"
+  },
+  {
+    "id": "3965",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lubczyna"
+  },
+  {
+    "id": "3946",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lubiana"
+  },
+  {
+    "id": "3948",
+    "wojewodztwo_id": "16",
+    "nazwa": "Lubieni\u00f3w"
+  },
+  {
+    "id": "4149",
+    "wojewodztwo_id": "16",
+    "nazwa": "Malechowo"
+  },
+  {
+    "id": "4079",
+    "wojewodztwo_id": "16",
+    "nazwa": "Manowo"
+  },
+  {
+    "id": "4221",
+    "wojewodztwo_id": "16",
+    "nazwa": "Marcinkowice"
+  },
+  {
+    "id": "4173",
+    "wojewodztwo_id": "16",
+    "nazwa": "Marianowo"
+  },
+  {
+    "id": "3970",
+    "wojewodztwo_id": "16",
+    "nazwa": "Maszewo"
+  },
+  {
+    "id": "4181",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ma\u0142kocin"
+  },
+  {
+    "id": "3993",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mechowo"
+  },
+  {
+    "id": "4040",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mi\u0119dzyzdroje"
+  },
+  {
+    "id": "4133",
+    "wojewodztwo_id": "16",
+    "nazwa": "Miel\u0119cin"
+  },
+  {
+    "id": "3953",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mielenko Drawskie"
+  },
+  {
+    "id": "4081",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mielno"
+  },
+  {
+    "id": "4110",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mierzyn"
+  },
+  {
+    "id": "4197",
+    "wojewodztwo_id": "16",
+    "nazwa": "Miesza\u0142ki"
+  },
+  {
+    "id": "4020",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mieszkowice"
+  },
+  {
+    "id": "4219",
+    "wojewodztwo_id": "16",
+    "nazwa": "Miros\u0142awiec"
+  },
+  {
+    "id": "3995",
+    "wojewodztwo_id": "16",
+    "nazwa": "Modlimowo"
+  },
+  {
+    "id": "4023",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mory\u0144"
+  },
+  {
+    "id": "4094",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mostkowo"
+  },
+  {
+    "id": "3968",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mosty"
+  },
+  {
+    "id": "4001",
+    "wojewodztwo_id": "16",
+    "nazwa": "Mrze\u017cyno"
+  },
+  {
+    "id": "4068",
+    "wojewodztwo_id": "16",
+    "nazwa": "M\u015bcice"
+  },
+  {
+    "id": "4104",
+    "wojewodztwo_id": "16",
+    "nazwa": "My\u015blib\u00f3rz"
+  },
+  {
+    "id": "4007",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nawodna"
+  },
+  {
+    "id": "4106",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nawrocko"
+  },
+  {
+    "id": "3952",
+    "wojewodztwo_id": "16",
+    "nazwa": "N\u0119tno"
+  },
+  {
+    "id": "3997",
+    "wojewodztwo_id": "16",
+    "nazwa": "Niechorze"
+  },
+  {
+    "id": "4124",
+    "wojewodztwo_id": "16",
+    "nazwa": "Niek\u0142o\u0144czyca"
+  },
+  {
+    "id": "4211",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nielep"
+  },
+  {
+    "id": "4148",
+    "wojewodztwo_id": "16",
+    "nazwa": "Niemica"
+  },
+  {
+    "id": "4118",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nowe Warpno"
+  },
+  {
+    "id": "3957",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nowe Worowo"
+  },
+  {
+    "id": "3973",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nowogard"
+  },
+  {
+    "id": "4109",
+    "wojewodztwo_id": "16",
+    "nazwa": "Nowogr\u00f3dek Pomorski"
+  },
+  {
+    "id": "4134",
+    "wojewodztwo_id": "16",
+    "nazwa": "Okunica"
+  },
+  {
+    "id": "4216",
+    "wojewodztwo_id": "16",
+    "nazwa": "Oparzno"
+  },
+  {
+    "id": "3975",
+    "wojewodztwo_id": "16",
+    "nazwa": "Orzechowo"
+  },
+  {
+    "id": "3979",
+    "wojewodztwo_id": "16",
+    "nazwa": "Osina"
+  },
+  {
+    "id": "3958",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ostrowice"
+  },
+  {
+    "id": "4150",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ostrowiec"
+  },
+  {
+    "id": "4176",
+    "wojewodztwo_id": "16",
+    "nazwa": "Parlino"
+  },
+  {
+    "id": "4201",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pars\u0119cko"
+  },
+  {
+    "id": "4179",
+    "wojewodztwo_id": "16",
+    "nazwa": "P\u0119zino"
+  },
+  {
+    "id": "3945",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pe\u0142czyce"
+  },
+  {
+    "id": "4005",
+    "wojewodztwo_id": "16",
+    "nazwa": "Piasek"
+  },
+  {
+    "id": "4186",
+    "wojewodztwo_id": "16",
+    "nazwa": "Piaski"
+  },
+  {
+    "id": "4220",
+    "wojewodztwo_id": "16",
+    "nazwa": "Piecnik"
+  },
+  {
+    "id": "4153",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pieszcz"
+  },
+  {
+    "id": "4122",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pilchowo"
+  },
+  {
+    "id": "3998",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pobierowo"
+  },
+  {
+    "id": "4084",
+    "wojewodztwo_id": "16",
+    "nazwa": "Polan\u00f3w"
+  },
+  {
+    "id": "4119",
+    "wojewodztwo_id": "16",
+    "nazwa": "Police"
+  },
+  {
+    "id": "3925",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pomianowo"
+  },
+  {
+    "id": "3956",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pomierzyn"
+  },
+  {
+    "id": "4154",
+    "wojewodztwo_id": "16",
+    "nazwa": "Postomino"
+  },
+  {
+    "id": "4208",
+    "wojewodztwo_id": "16",
+    "nazwa": "Po\u0142czyn-Zdr\u00f3j"
+  },
+  {
+    "id": "3989",
+    "wojewodztwo_id": "16",
+    "nazwa": "Prusinowo"
+  },
+  {
+    "id": "4115",
+    "wojewodztwo_id": "16",
+    "nazwa": "Przec\u0142aw"
+  },
+  {
+    "id": "4131",
+    "wojewodztwo_id": "16",
+    "nazwa": "Przelewice"
+  },
+  {
+    "id": "4120",
+    "wojewodztwo_id": "16",
+    "nazwa": "Prz\u0119socin"
+  },
+  {
+    "id": "3981",
+    "wojewodztwo_id": "16",
+    "nazwa": "Przybiern\u00f3w"
+  },
+  {
+    "id": "4116",
+    "wojewodztwo_id": "16",
+    "nazwa": "Przylep"
+  },
+  {
+    "id": "4136",
+    "wojewodztwo_id": "16",
+    "nazwa": "Pyrzyce"
+  },
+  {
+    "id": "4222",
+    "wojewodztwo_id": "16",
+    "nazwa": "P\u0142ociczno"
+  },
+  {
+    "id": "3994",
+    "wojewodztwo_id": "16",
+    "nazwa": "P\u0142oty"
+  },
+  {
+    "id": "4212",
+    "wojewodztwo_id": "16",
+    "nazwa": "R\u0105bino"
+  },
+  {
+    "id": "3982",
+    "wojewodztwo_id": "16",
+    "nazwa": "Racimierz"
+  },
+  {
+    "id": "4235",
+    "wojewodztwo_id": "16",
+    "nazwa": "Radowo Ma\u0142e"
+  },
+  {
+    "id": "4015",
+    "wojewodztwo_id": "16",
+    "nazwa": "Radziszewo"
+  },
+  {
+    "id": "3947",
+    "wojewodztwo_id": "16",
+    "nazwa": "Recz"
+  },
+  {
+    "id": "4210",
+    "wojewodztwo_id": "16",
+    "nazwa": "Red\u0142o"
+  },
+  {
+    "id": "4107",
+    "wojewodztwo_id": "16",
+    "nazwa": "Renice"
+  },
+  {
+    "id": "4172",
+    "wojewodztwo_id": "16",
+    "nazwa": "Reptowo"
+  },
+  {
+    "id": "4236",
+    "wojewodztwo_id": "16",
+    "nazwa": "Resko"
+  },
+  {
+    "id": "3999",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rewal"
+  },
+  {
+    "id": "4054",
+    "wojewodztwo_id": "16",
+    "nazwa": "Robu\u0144"
+  },
+  {
+    "id": "3923",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rogowo"
+  },
+  {
+    "id": "4078",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rosnowo"
+  },
+  {
+    "id": "4101",
+    "wojewodztwo_id": "16",
+    "nazwa": "R\u00f3\u017ca\u0144sko"
+  },
+  {
+    "id": "4227",
+    "wojewodztwo_id": "16",
+    "nazwa": "R\u00f3\u017cewo"
+  },
+  {
+    "id": "3971",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ro\u017cnowo Nowogardzkie"
+  },
+  {
+    "id": "4239",
+    "wojewodztwo_id": "16",
+    "nazwa": "Runowo Pomorskie"
+  },
+  {
+    "id": "4059",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ryma\u0144"
+  },
+  {
+    "id": "4111",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rz\u0119dziny"
+  },
+  {
+    "id": "4205",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rzepczyno"
+  },
+  {
+    "id": "4165",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rzeplino"
+  },
+  {
+    "id": "4083",
+    "wojewodztwo_id": "16",
+    "nazwa": "Rzyszczewko"
+  },
+  {
+    "id": "4168",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0105d\u00f3w"
+  },
+  {
+    "id": "4080",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sarbinowo"
+  },
+  {
+    "id": "4190",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0119polno Wielkie"
+  },
+  {
+    "id": "4085",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sian\u00f3w"
+  },
+  {
+    "id": "4064",
+    "wojewodztwo_id": "16",
+    "nazwa": "Siemy\u015bl"
+  },
+  {
+    "id": "4050",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sieros\u0142aw"
+  },
+  {
+    "id": "4194",
+    "wojewodztwo_id": "16",
+    "nazwa": "Silnowo"
+  },
+  {
+    "id": "4098",
+    "wojewodztwo_id": "16",
+    "nazwa": "Smolnica"
+  },
+  {
+    "id": "4182",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sowno"
+  },
+  {
+    "id": "4202",
+    "wojewodztwo_id": "16",
+    "nazwa": "Spore"
+  },
+  {
+    "id": "4151",
+    "wojewodztwo_id": "16",
+    "nazwa": "Staniewice"
+  },
+  {
+    "id": "4178",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stara D\u0105browa"
+  },
+  {
+    "id": "4071",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stare Bielice"
+  },
+  {
+    "id": "4161",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stargard Szczeci\u0144ski"
+  },
+  {
+    "id": "4062",
+    "wojewodztwo_id": "16",
+    "nazwa": "Starnin"
+  },
+  {
+    "id": "4238",
+    "wojewodztwo_id": "16",
+    "nazwa": "Starogard"
+  },
+  {
+    "id": "4188",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stary Chwalim"
+  },
+  {
+    "id": "4141",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stary Jaros\u0142aw"
+  },
+  {
+    "id": "4138",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stary Przylep"
+  },
+  {
+    "id": "3983",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stepnica"
+  },
+  {
+    "id": "4027",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sto\u0142eczna"
+  },
+  {
+    "id": "4183",
+    "wojewodztwo_id": "16",
+    "nazwa": "Strachocin"
+  },
+  {
+    "id": "4224",
+    "wojewodztwo_id": "16",
+    "nazwa": "Str\u0105czno"
+  },
+  {
+    "id": "3976",
+    "wojewodztwo_id": "16",
+    "nazwa": "Strzelewo"
+  },
+  {
+    "id": "4043",
+    "wojewodztwo_id": "16",
+    "nazwa": "Stuchowo"
+  },
+  {
+    "id": "4086",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sucha Koszali\u0144ska"
+  },
+  {
+    "id": "4184",
+    "wojewodztwo_id": "16",
+    "nazwa": "Sucha\u0144"
+  },
+  {
+    "id": "3938",
+    "wojewodztwo_id": "16",
+    "nazwa": "Suliszewo"
+  },
+  {
+    "id": "4204",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u015awidwin"
+  },
+  {
+    "id": "3960",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u015awierczyna"
+  },
+  {
+    "id": "4042",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u015awierzno"
+  },
+  {
+    "id": "4093",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u015awieszyno"
+  },
+  {
+    "id": "4243",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u015awinouj\u015bcie"
+  },
+  {
+    "id": "4003",
+    "wojewodztwo_id": "16",
+    "nazwa": "Swobnica"
+  },
+  {
+    "id": "4242",
+    "wojewodztwo_id": "16",
+    "nazwa": "Szczecin"
+  },
+  {
+    "id": "4185",
+    "wojewodztwo_id": "16",
+    "nazwa": "Szczecinek"
+  },
+  {
+    "id": "4087",
+    "wojewodztwo_id": "16",
+    "nazwa": "Szczeglino"
+  },
+  {
+    "id": "4228",
+    "wojewodztwo_id": "16",
+    "nazwa": "Szwecja"
+  },
+  {
+    "id": "3939",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0142aw\u0119cin"
+  },
+  {
+    "id": "4140",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0142awno"
+  },
+  {
+    "id": "4213",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0142awoborze"
+  },
+  {
+    "id": "4159",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0142awsko"
+  },
+  {
+    "id": "4145",
+    "wojewodztwo_id": "16",
+    "nazwa": "S\u0142owino"
+  },
+  {
+    "id": "4121",
+    "wojewodztwo_id": "16",
+    "nazwa": "Tanowo"
+  },
+  {
+    "id": "4207",
+    "wojewodztwo_id": "16",
+    "nazwa": "Toporzyk"
+  },
+  {
+    "id": "4022",
+    "wojewodztwo_id": "16",
+    "nazwa": "Troszyn"
+  },
+  {
+    "id": "3951",
+    "wojewodztwo_id": "16",
+    "nazwa": "Trzciniec"
+  },
+  {
+    "id": "4028",
+    "wojewodztwo_id": "16",
+    "nazwa": "Trzci\u0144sko-Zdr\u00f3j"
+  },
+  {
+    "id": "4000",
+    "wojewodztwo_id": "16",
+    "nazwa": "Trzebiat\u00f3w"
+  },
+  {
+    "id": "4123",
+    "wojewodztwo_id": "16",
+    "nazwa": "Trzebie\u017c"
+  },
+  {
+    "id": "3986",
+    "wojewodztwo_id": "16",
+    "nazwa": "Trzyg\u0142\u00f3w"
+  },
+  {
+    "id": "4223",
+    "wojewodztwo_id": "16",
+    "nazwa": "Tuczno"
+  },
+  {
+    "id": "4199",
+    "wojewodztwo_id": "16",
+    "nazwa": "Turowo"
+  },
+  {
+    "id": "3930",
+    "wojewodztwo_id": "16",
+    "nazwa": "Tychowo"
+  },
+  {
+    "id": "4069",
+    "wojewodztwo_id": "16",
+    "nazwa": "Tymie\u0144"
+  },
+  {
+    "id": "4065",
+    "wojewodztwo_id": "16",
+    "nazwa": "Ustronie Morskie"
+  },
+  {
+    "id": "3990",
+    "wojewodztwo_id": "16",
+    "nazwa": "Waniorowo"
+  },
+  {
+    "id": "4041",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wapnica"
+  },
+  {
+    "id": "4137",
+    "wojewodztwo_id": "16",
+    "nazwa": "Warnice"
+  },
+  {
+    "id": "4156",
+    "wojewodztwo_id": "16",
+    "nazwa": "Warszkowo"
+  },
+  {
+    "id": "4217",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wa\u0142cz"
+  },
+  {
+    "id": "4240",
+    "wojewodztwo_id": "16",
+    "nazwa": "W\u0119gorzyno"
+  },
+  {
+    "id": "4031",
+    "wojewodztwo_id": "16",
+    "nazwa": "Widuchowa"
+  },
+  {
+    "id": "3977",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wierzbi\u0119cin"
+  },
+  {
+    "id": "3959",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wierzchowo"
+  },
+  {
+    "id": "4229",
+    "wojewodztwo_id": "16",
+    "nazwa": "Witankowo"
+  },
+  {
+    "id": "4024",
+    "wojewodztwo_id": "16",
+    "nazwa": "Witnica"
+  },
+  {
+    "id": "4232",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wojtaszyce"
+  },
+  {
+    "id": "4048",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wolin"
+  },
+  {
+    "id": "4160",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wrze\u015bnica"
+  },
+  {
+    "id": "4035",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wrzosowo"
+  },
+  {
+    "id": "4033",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wysoka Kamie\u0144ska"
+  },
+  {
+    "id": "3996",
+    "wojewodztwo_id": "16",
+    "nazwa": "Wyszob\u00f3r"
+  },
+  {
+    "id": "4014",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017babnica"
+  },
+  {
+    "id": "4135",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017bab\u00f3w"
+  },
+  {
+    "id": "3978",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017babowo"
+  },
+  {
+    "id": "3935",
+    "wojewodztwo_id": "16",
+    "nazwa": "Zam\u0119cin"
+  },
+  {
+    "id": "4092",
+    "wojewodztwo_id": "16",
+    "nazwa": "Zegrze Pomorskie"
+  },
+  {
+    "id": "3933",
+    "wojewodztwo_id": "16",
+    "nazwa": "Zieleniewo"
+  },
+  {
+    "id": "4019",
+    "wojewodztwo_id": "16",
+    "nazwa": "Zielin"
+  },
+  {
+    "id": "4203",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017b\u00f3\u0142tnica"
+  },
+  {
+    "id": "4129",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017buk\u00f3w"
+  },
+  {
+    "id": "4158",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017bukowo"
+  },
+  {
+    "id": "4082",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u017bydowo"
+  },
+  {
+    "id": "3961",
+    "wojewodztwo_id": "16",
+    "nazwa": "Z\u0142ocieniec"
+  },
+  {
+    "id": "4049",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141adzin"
+  },
+  {
+    "id": "3932",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141asko"
+  },
+  {
+    "id": "4066",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141ekno"
+  },
+  {
+    "id": "4234",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141obez"
+  },
+  {
+    "id": "4237",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141oso\u015bnica"
+  },
+  {
+    "id": "4195",
+    "wojewodztwo_id": "16",
+    "nazwa": "\u0141ubowo"
+  }
+]

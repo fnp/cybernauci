@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14062",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5083",
+    "miejscowosc": "Ksi\u0105\u017cki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "87-222",
+    "poczta": "Ksi\u0105\u017cki\r"
+  },
+  {
+    "id": "14063",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5083",
+    "miejscowosc": "Ksi\u0105\u017cki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "87-222",
+    "poczta": "Ksi\u0105\u017cki\r"
+  }
+]

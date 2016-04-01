@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8022",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2843",
+    "miejscowosc": "B\u0119czk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "B\u0119czk\u00f3w",
+    "numer": "195",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "8023",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2843",
+    "miejscowosc": "B\u0119czk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u0119czk\u00f3w",
+    "numer": "195",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  }
+]

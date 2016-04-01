@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5174",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1702",
+    "miejscowosc": "Kobyle",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. ks. Jana Twardowskiego ",
+    "ulica": "Kobyle",
+    "numer": "81",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  },
+  {
+    "id": "5175",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1702",
+    "miejscowosc": "Kobyle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. ks. Jana Twardowskiego ",
+    "ulica": "Kobyle",
+    "numer": "81",
+    "kod": "32-720",
+    "poczta": "Nowy Wi\u015bnicz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7951",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2797",
+    "miejscowosc": "Topola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Topola",
+    "numer": "259",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  },
+  {
+    "id": "7952",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2797",
+    "miejscowosc": "Topola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Topola",
+    "numer": "259",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  }
+]

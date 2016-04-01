@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11601",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4137",
+    "miejscowosc": "Warnice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Warnice",
+    "numer": "30",
+    "kod": "74-201",
+    "poczta": "Warnice\r"
+  },
+  {
+    "id": "11599",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4137",
+    "miejscowosc": "Warnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu",
+    "ulica": "Warnice",
+    "numer": "30",
+    "kod": "74-201",
+    "poczta": "Warnice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15525",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5486",
+    "miejscowosc": "P\u0119g\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "101",
+    "kod": "55-120",
+    "poczta": "Oborniki \u015al\u0105skie\r"
+  },
+  {
+    "id": "15520",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5486",
+    "miejscowosc": "P\u0119g\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "101",
+    "kod": "55-120",
+    "poczta": "Oborniki Sl\u0105skie\r"
+  }
+]

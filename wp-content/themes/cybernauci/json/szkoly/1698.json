@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6511",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1698",
+    "miejscowosc": "Tarnawa",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Tarnawa",
+    "numer": "152",
+    "kod": "32-353",
+    "poczta": "Trzyci\u0105\u017c\r"
+  },
+  {
+    "id": "5168",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1698",
+    "miejscowosc": "Tarnawa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Tarnawa",
+    "numer": "119",
+    "kod": "32-741",
+    "poczta": "Tarnawa\r"
+  },
+  {
+    "id": "5169",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1698",
+    "miejscowosc": "Tarnawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tarnawa",
+    "numer": "119",
+    "kod": "32-741",
+    "poczta": "Tarnawa\r"
+  }
+]

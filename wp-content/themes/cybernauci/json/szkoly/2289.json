@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6336",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2289",
+    "miejscowosc": "Lipnica Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipnica Ma\u0142a",
+    "numer": "512",
+    "kod": "34-482",
+    "poczta": "Lipnica Ma\u0142a\r"
+  },
+  {
+    "id": "6323",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2289",
+    "miejscowosc": "Lipnica Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Lipnica Ma\u0142a",
+    "numer": "117",
+    "kod": "34-482",
+    "poczta": "Lipnica Ma\u0142a\r"
+  },
+  {
+    "id": "6322",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2289",
+    "miejscowosc": "Lipnica Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Lipnica Ma\u0142a",
+    "numer": "346",
+    "kod": "34-482",
+    "poczta": "Lipnica Ma\u0142a\r"
+  },
+  {
+    "id": "6337",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2289",
+    "miejscowosc": "Lipnica Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Lipnica Ma\u0142a",
+    "numer": "512",
+    "kod": "34-482",
+    "poczta": "Lipnica Ma\u0142a\r"
+  }
+]

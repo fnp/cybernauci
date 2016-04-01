@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5972",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2113",
+    "miejscowosc": "Bysina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ksi\u0119cia kard. Adama Stefana Sapiehy",
+    "ulica": "Bysina",
+    "numer": "284",
+    "kod": "32-400",
+    "poczta": "My\u015blenice\r"
+  },
+  {
+    "id": "5987",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2113",
+    "miejscowosc": "Bysina",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Bysina",
+    "numer": "284",
+    "kod": "32-400",
+    "poczta": "My\u015blenice\r"
+  }
+]

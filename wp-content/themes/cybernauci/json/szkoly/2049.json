@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5845",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2049",
+    "miejscowosc": "Pasierbiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pasierbiec",
+    "numer": "----",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "5846",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2049",
+    "miejscowosc": "Pasierbiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pasierbiec",
+    "numer": "----",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  }
+]

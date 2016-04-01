@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12550",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4415",
+    "miejscowosc": "Kiwity",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kiwity",
+    "numer": "63A",
+    "kod": "11-106",
+    "poczta": "Kiwity\r"
+  },
+  {
+    "id": "12551",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4415",
+    "miejscowosc": "Kiwity",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kiwity",
+    "numer": "63A",
+    "kod": "11-106",
+    "poczta": "Kiwity\r"
+  }
+]

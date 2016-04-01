@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4683",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1584",
+    "miejscowosc": "Ulh\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Tomaszowska",
+    "numer": "138",
+    "kod": "22-678",
+    "poczta": "Ulh\u00f3wek\r"
+  },
+  {
+    "id": "4684",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1584",
+    "miejscowosc": "Ulh\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sadowa",
+    "numer": "3",
+    "kod": "22-678",
+    "poczta": "Ulh\u00f3wek\r"
+  }
+]

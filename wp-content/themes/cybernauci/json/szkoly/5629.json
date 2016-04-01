@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15836",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5629",
+    "miejscowosc": "Rokitnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Rokitnica",
+    "numer": "35",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  },
+  {
+    "id": "15835",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5629",
+    "miejscowosc": "Rokitnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rokitnica",
+    "numer": "",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  }
+]

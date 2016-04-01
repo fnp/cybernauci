@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17878",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6217",
+    "miejscowosc": "Margonin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Polna",
+    "numer": "6",
+    "kod": "64-830",
+    "poczta": "Margonin\r"
+  },
+  {
+    "id": "17879",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6217",
+    "miejscowosc": "Margonin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Polna",
+    "numer": "6",
+    "kod": "64-830",
+    "poczta": "Margonin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22085",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7966",
+    "miejscowosc": "Ocieka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Ocieka",
+    "numer": "352",
+    "kod": "39-104",
+    "poczta": "Ocieka\r"
+  },
+  {
+    "id": "22093",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7966",
+    "miejscowosc": "Ocieka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ocieka",
+    "numer": "352",
+    "kod": "39-104",
+    "poczta": "Ocieka\r"
+  }
+]

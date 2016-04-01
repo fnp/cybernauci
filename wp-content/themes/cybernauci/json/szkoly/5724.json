@@ -1,0 +1,50 @@
+[
+  {
+    "id": "16450",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5724",
+    "miejscowosc": "Pi\u0105tek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. Stefana Pie\u0144kowskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "99-120",
+    "poczta": "Pi\u0105tek\r"
+  },
+  {
+    "id": "16448",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5724",
+    "miejscowosc": "Pi\u0105tek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "99-120",
+    "poczta": "Pi\u0105tek\r"
+  },
+  {
+    "id": "16451",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5724",
+    "miejscowosc": "Pi\u0105tek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Mechanizacji Rolnictwa Technikum",
+    "ulica": "Kutnowska",
+    "numer": "19",
+    "kod": "99-120",
+    "poczta": "Pi\u0105tek\r"
+  },
+  {
+    "id": "16452",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5724",
+    "miejscowosc": "Pi\u0105tek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Mechanizacji Rolnictwa Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Kutnowska",
+    "numer": "19",
+    "kod": "99-120",
+    "poczta": "Pi\u0105tek\r"
+  }
+]

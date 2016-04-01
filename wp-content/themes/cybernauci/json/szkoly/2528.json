@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6866",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2528",
+    "miejscowosc": "Pog\u00f3rska Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pog\u00f3rska Wola",
+    "numer": "88c",
+    "kod": "33-152",
+    "poczta": "Pog\u00f3rska Wola\r"
+  },
+  {
+    "id": "6867",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2528",
+    "miejscowosc": "Pog\u00f3rska Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pog\u00f3rska Wola",
+    "numer": "88c",
+    "kod": "33-152",
+    "poczta": "Pog\u00f3rska Wola\r"
+  }
+]

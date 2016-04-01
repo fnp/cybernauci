@@ -1,0 +1,122 @@
+[
+  {
+    "id": "17362",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Miejskie im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17366",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kopernika",
+    "numer": "24\/26",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17364",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "10",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17363",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Paw\u0142a II ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "11\/13",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17365",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "gimnazjum",
+    "nazwa": "Sportowe Gimnazjum Powiatowe Nr 2",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "10",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17359",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Plac Reymonta",
+    "numer": "2",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17360",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Andersa",
+    "numer": "37",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17361",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Karasicka",
+    "numer": "35",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17367",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kopernika",
+    "numer": "24\/26",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17368",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6166",
+    "miejscowosc": "G\u0142owno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Kopernika",
+    "numer": "24\/26",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  }
+]

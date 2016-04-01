@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22556",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8178",
+    "miejscowosc": "Sokolniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Sandomierska",
+    "numer": "80",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22557",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8178",
+    "miejscowosc": "Sokolniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  }
+]

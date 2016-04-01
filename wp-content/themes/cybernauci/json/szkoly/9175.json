@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24905",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9175",
+    "miejscowosc": "Miedzna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bcielna",
+    "numer": "15B",
+    "kod": "07-106",
+    "poczta": "Miedzna\r"
+  },
+  {
+    "id": "24904",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9175",
+    "miejscowosc": "Miedzna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ko\u015bcielna",
+    "numer": "15",
+    "kod": "07-106",
+    "poczta": "Miedzna\r"
+  }
+]

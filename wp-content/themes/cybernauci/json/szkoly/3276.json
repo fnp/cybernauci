@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9055",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3276",
+    "miejscowosc": "Chmielno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bernarda Grz\u0119dzickiego",
+    "numer": "28",
+    "kod": "83-333",
+    "poczta": "Chmielno\r"
+  },
+  {
+    "id": "9056",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3276",
+    "miejscowosc": "Chmielno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bernarda Grz\u0119dzickiego",
+    "numer": "28",
+    "kod": "83-333",
+    "poczta": "Chmielno\r"
+  }
+]

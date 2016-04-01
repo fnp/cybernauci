@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1216",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "555",
+    "miejscowosc": "Truskolasy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-134",
+    "poczta": "Truskolasy\r"
+  },
+  {
+    "id": "1217",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "555",
+    "miejscowosc": "Truskolasy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-134",
+    "poczta": "Truskolasy\r"
+  }
+]

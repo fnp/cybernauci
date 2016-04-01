@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6473",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2350",
+    "miejscowosc": "Klucze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Zawiercia\u0144ska",
+    "numer": "30",
+    "kod": "32-310",
+    "poczta": "Klucze\r"
+  },
+  {
+    "id": "6466",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2350",
+    "miejscowosc": "Klucze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Zawiercia\u0144ska",
+    "numer": "30",
+    "kod": "32-310",
+    "poczta": "Klucze\r"
+  }
+]

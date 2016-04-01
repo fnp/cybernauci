@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7045",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2397",
+    "miejscowosc": "Brzezinka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "S\u0142oneczna",
+    "numer": "5",
+    "kod": "34-120",
+    "poczta": "Andrych\u00f3w\r"
+  },
+  {
+    "id": "6619",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2397",
+    "miejscowosc": "Brzezinka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Pomnik Dzieci Wi\u0119\u017ani\u00f3w O\u015bwi\u0119cimia",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "32-600",
+    "poczta": "O\u015bwi\u0119cim\r"
+  }
+]

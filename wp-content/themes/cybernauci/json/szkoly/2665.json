@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7209",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2665",
+    "miejscowosc": "Niegowi\u0107",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ksi\u0119dza Karola Wojty\u0142y",
+    "ulica": "Niegowi\u0107",
+    "numer": "62",
+    "kod": "32-420",
+    "poczta": "Gd\u00f3w\r"
+  },
+  {
+    "id": "7201",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2665",
+    "miejscowosc": "Niegowi\u0107",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "ulica": "Niegowi\u0107",
+    "numer": "62",
+    "kod": "32-420",
+    "poczta": "Gd\u00f3w\r"
+  }
+]

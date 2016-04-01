@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22046",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7943",
+    "miejscowosc": "Urzejowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Urzejowice",
+    "numer": "542",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22047",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7943",
+    "miejscowosc": "Urzejowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Urzejowice",
+    "numer": "542",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

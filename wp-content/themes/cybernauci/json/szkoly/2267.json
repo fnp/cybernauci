@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6258",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2267",
+    "miejscowosc": "Go\u0142kowice G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Go\u0142kowice G\u00f3rne",
+    "numer": "65",
+    "kod": "33-388",
+    "poczta": "Go\u0142kowice Dolne\r"
+  },
+  {
+    "id": "6259",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2267",
+    "miejscowosc": "Go\u0142kowice G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Go\u0142kowice G\u00f3rne",
+    "numer": "65",
+    "kod": "33-388",
+    "poczta": "Go\u0142kowice Dolne\r"
+  }
+]

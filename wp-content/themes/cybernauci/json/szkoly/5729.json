@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16460",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5729",
+    "miejscowosc": "Witonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "99-335",
+    "poczta": "Witonia\r"
+  },
+  {
+    "id": "16459",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5729",
+    "miejscowosc": "Witonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "99-335",
+    "poczta": "Witonia\r"
+  }
+]

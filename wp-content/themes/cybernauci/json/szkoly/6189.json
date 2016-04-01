@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17442",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6189",
+    "miejscowosc": "Grotniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brzozowa",
+    "numer": "4",
+    "kod": "95-073",
+    "poczta": "Grotniki\r"
+  },
+  {
+    "id": "17443",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6189",
+    "miejscowosc": "Grotniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzozowa",
+    "numer": "4",
+    "kod": "95-073",
+    "poczta": "Grotniki\r"
+  }
+]

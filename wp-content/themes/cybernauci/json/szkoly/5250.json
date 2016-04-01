@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14890",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5250",
+    "miejscowosc": "\u0141omnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "160",
+    "kod": "58-508",
+    "poczta": "Jelenia G\u00f3ra\r"
+  },
+  {
+    "id": "14891",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5250",
+    "miejscowosc": "\u0141omnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "160",
+    "kod": "58-508",
+    "poczta": "Jelenia G\u00f3ra\r"
+  }
+]

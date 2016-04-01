@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15186",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5365",
+    "miejscowosc": "Mirsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wodna",
+    "numer": "2",
+    "kod": "59-630",
+    "poczta": "Mirsk\r"
+  },
+  {
+    "id": "15187",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5365",
+    "miejscowosc": "Mirsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wodna",
+    "numer": "2",
+    "kod": "59-630",
+    "poczta": "Mirsk\r"
+  },
+  {
+    "id": "15185",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5365",
+    "miejscowosc": "Mirsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Osadnik\u00f3w Ziemi Mirskiej",
+    "ulica": "Kpt. Betleja",
+    "numer": "32",
+    "kod": "59-630",
+    "poczta": "Mirsk\r"
+  },
+  {
+    "id": "15188",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5365",
+    "miejscowosc": "Mirsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarsko-Turystyczne",
+    "ulica": "Wodna",
+    "numer": "2",
+    "kod": "56-630",
+    "poczta": "Mirsk\r"
+  }
+]

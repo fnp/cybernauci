@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16725",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5855",
+    "miejscowosc": "Paj\u0119czno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "98-330",
+    "poczta": "Paj\u0119czno\r"
+  },
+  {
+    "id": "16724",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5855",
+    "miejscowosc": "Paj\u0119czno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sienkiewicza",
+    "numer": "42562",
+    "kod": "98-330",
+    "poczta": "Paj\u0119czno\r"
+  },
+  {
+    "id": "16723",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5855",
+    "miejscowosc": "Paj\u0119czno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wi\u015bniowa",
+    "numer": "7",
+    "kod": "98-330",
+    "poczta": "Paj\u0119czno\r"
+  },
+  {
+    "id": "16726",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5855",
+    "miejscowosc": "Paj\u0119czno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "98-330",
+    "poczta": "Paj\u0119czno\r"
+  },
+  {
+    "id": "16727",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5855",
+    "miejscowosc": "Paj\u0119czno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "98-330",
+    "poczta": "Paj\u0119czno\r"
+  }
+]

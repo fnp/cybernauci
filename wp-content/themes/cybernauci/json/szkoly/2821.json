@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7991",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2821",
+    "miejscowosc": "Ch\u0119ciny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Kacpra Fodygi",
+    "ulica": "Kielecka",
+    "numer": "20",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7986",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2821",
+    "miejscowosc": "Ch\u0119ciny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Bia\u0142ego Zag\u0142\u0119bia",
+    "numer": "1",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7992",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2821",
+    "miejscowosc": "Ch\u0119ciny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Kielecka",
+    "numer": "20",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7987",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2821",
+    "miejscowosc": "Ch\u0119ciny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1 ",
+    "ulica": "Bia\u0142ego Zag\u0142\u0119bia",
+    "numer": "1",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  },
+  {
+    "id": "7988",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2821",
+    "miejscowosc": "Ch\u0119ciny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bia\u0142ego Zag\u0142\u0119bia",
+    "numer": "1",
+    "kod": "26-060",
+    "poczta": "Ch\u0119ciny\r"
+  }
+]

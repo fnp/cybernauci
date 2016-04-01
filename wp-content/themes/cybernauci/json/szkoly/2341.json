@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6441",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2341",
+    "miejscowosc": "Ba\u0144ska Ni\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Papieska",
+    "numer": "141",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6442",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2341",
+    "miejscowosc": "Ba\u0144ska Ni\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Papieska",
+    "numer": "141",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10573",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3786",
+    "miejscowosc": "Goni\u0105dz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "18",
+    "kod": "19-110",
+    "poczta": "Goni\u0105dz\r"
+  },
+  {
+    "id": "10574",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3786",
+    "miejscowosc": "Goni\u0105dz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "18",
+    "kod": "19-110",
+    "poczta": "Goni\u0105dz\r"
+  }
+]

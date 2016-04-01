@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13700",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4908",
+    "miejscowosc": "Potulice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "89-120",
+    "poczta": "Potulice\r"
+  },
+  {
+    "id": "13701",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4908",
+    "miejscowosc": "Potulice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "89-120",
+    "poczta": "Potulice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19612",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7033",
+    "miejscowosc": "Smogulec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Smogulec",
+    "numer": "13",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  },
+  {
+    "id": "19613",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7033",
+    "miejscowosc": "Smogulec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Smogulec",
+    "numer": "13",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  }
+]

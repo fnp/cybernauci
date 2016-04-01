@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21970",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7906",
+    "miejscowosc": "Ujkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "Ujkowice",
+    "numer": "159",
+    "kod": "37-713",
+    "poczta": "Ma\u0107kowice\r"
+  },
+  {
+    "id": "21971",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7906",
+    "miejscowosc": "Ujkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142",
+    "ulica": "Ujkowice",
+    "numer": "159",
+    "kod": "37-713",
+    "poczta": "Ma\u0107kowice\r"
+  }
+]

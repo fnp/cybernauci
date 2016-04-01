@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8611",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3116",
+    "miejscowosc": "Po\u0142aniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ruszcza\u0144ska",
+    "numer": "23",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  },
+  {
+    "id": "8607",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3116",
+    "miejscowosc": "Po\u0142aniec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki ",
+    "ulica": "\u017bapniowska",
+    "numer": "1",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  },
+  {
+    "id": "8608",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3116",
+    "miejscowosc": "Po\u0142aniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "\u017bapniowska",
+    "numer": "1",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  },
+  {
+    "id": "8612",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3116",
+    "miejscowosc": "Po\u0142aniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ruszcza\u0144ska",
+    "numer": "23",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  },
+  {
+    "id": "8613",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3116",
+    "miejscowosc": "Po\u0142aniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ruszcza\u0144ska",
+    "numer": "23",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13989",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5045",
+    "miejscowosc": "Dobrzejewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Dobrzejewice",
+    "numer": "58 B",
+    "kod": "87-123",
+    "poczta": "Dobrzejewice\r"
+  },
+  {
+    "id": "13990",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5045",
+    "miejscowosc": "Dobrzejewice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole",
+    "ulica": "Dobrzejewice",
+    "numer": "58 B",
+    "kod": "87-123",
+    "poczta": "Dobrzejewice\r"
+  },
+  {
+    "id": "13986",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5045",
+    "miejscowosc": "Dobrzejewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dobrzejewice",
+    "numer": "57A",
+    "kod": "87-123",
+    "poczta": "Dobrzejewice\r"
+  }
+]

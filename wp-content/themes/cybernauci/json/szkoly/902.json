@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3364",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "902",
+    "miejscowosc": "Kobylany",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "11",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  },
+  {
+    "id": "3365",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "902",
+    "miejscowosc": "Kobylany",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "11",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  }
+]

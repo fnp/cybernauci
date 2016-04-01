@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16456",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5727",
+    "miejscowosc": "\u015awinice Warckie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum im. \u015aw. Faustyny",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "99-140",
+    "poczta": "\u015awinice Warckie\r"
+  },
+  {
+    "id": "16457",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5727",
+    "miejscowosc": "\u015awinice Warckie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa im. M. Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "99-140",
+    "poczta": "\u015awinice Warckie\r"
+  }
+]

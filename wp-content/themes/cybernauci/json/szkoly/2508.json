@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6833",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2508",
+    "miejscowosc": "Wola Rad\u0142owska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. B\u0142. Karoliny K\u00f3zk\u00f3wny ",
+    "ulica": "Wola Rad\u0142owska",
+    "numer": "67",
+    "kod": "33-133",
+    "poczta": "Wa\u0142 Ruda\r"
+  },
+  {
+    "id": "6834",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2508",
+    "miejscowosc": "Wola Rad\u0142owska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego ",
+    "ulica": "Wola Rad\u0142owska",
+    "numer": "67",
+    "kod": "33-133",
+    "poczta": "Wa\u0142 Ruda\r"
+  }
+]

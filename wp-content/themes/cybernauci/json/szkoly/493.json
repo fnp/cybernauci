@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1117",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "493",
+    "miejscowosc": "Pani\u00f3wki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "44",
+    "kod": "44-177",
+    "poczta": "Pani\u00f3wki\r"
+  },
+  {
+    "id": "1118",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "493",
+    "miejscowosc": "Pani\u00f3wki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "44",
+    "kod": "44-177",
+    "poczta": "Pani\u00f3wki\r"
+  }
+]

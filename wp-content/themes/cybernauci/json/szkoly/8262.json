@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22957",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Szarych Szereg\u00f3w",
+    "ulica": "Alejowa",
+    "numer": "23",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22958",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Alejowa",
+    "numer": "23",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22960",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kolejowa",
+    "numer": "13",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22961",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Kolejowa",
+    "numer": "13",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22959",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Szarych Szereg\u00f3w",
+    "ulica": "Alejowa",
+    "numer": "23",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22962",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8262",
+    "miejscowosc": "\u0141askarzew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kolejowa",
+    "numer": "13",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  }
+]

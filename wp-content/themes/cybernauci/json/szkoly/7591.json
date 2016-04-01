@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21367",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7591",
+    "miejscowosc": "Tarnowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tarnowiec",
+    "numer": "230",
+    "kod": "38-204",
+    "poczta": "Tarnowiec\r"
+  },
+  {
+    "id": "21368",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7591",
+    "miejscowosc": "Tarnowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. T Ko\u015bciuszki",
+    "ulica": "Tarnowiec",
+    "numer": "230",
+    "kod": "38-204",
+    "poczta": "Tarnowiec\r"
+  }
+]

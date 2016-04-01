@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10645",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3815",
+    "miejscowosc": "Mielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brzeska",
+    "numer": "132",
+    "kod": "17-307",
+    "poczta": "Mielnik\r"
+  },
+  {
+    "id": "10646",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3815",
+    "miejscowosc": "Mielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzeska",
+    "numer": "132",
+    "kod": "17-307",
+    "poczta": "Mielnik\r"
+  }
+]

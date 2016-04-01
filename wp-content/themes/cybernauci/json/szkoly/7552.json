@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21304",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7552",
+    "miejscowosc": "Szebnie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Szebnie",
+    "numer": "222",
+    "kod": "38-203",
+    "poczta": "Szebnie\r"
+  },
+  {
+    "id": "21305",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7552",
+    "miejscowosc": "Szebnie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szebnie",
+    "numer": "222",
+    "kod": "38-203",
+    "poczta": "Szebnie\r"
+  }
+]

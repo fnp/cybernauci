@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18157",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6335",
+    "miejscowosc": "Wielichowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Ko\u015bcielna",
+    "numer": "7a",
+    "kod": "64-050",
+    "poczta": "Wielichowo\r"
+  },
+  {
+    "id": "18158",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6335",
+    "miejscowosc": "Wielichowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Ko\u015bcielna",
+    "numer": "7a",
+    "kod": "64-050",
+    "poczta": "Wielichowo\r"
+  }
+]

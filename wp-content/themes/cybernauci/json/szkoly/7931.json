@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22021",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7931",
+    "miejscowosc": "\u0141opuszka Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141opuszka Wielka",
+    "numer": "488",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22022",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7931",
+    "miejscowosc": "\u0141opuszka Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141opuszka Wielka",
+    "numer": "488",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  }
+]

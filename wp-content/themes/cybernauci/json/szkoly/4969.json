@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13833",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4969",
+    "miejscowosc": "Lutowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lutowo",
+    "numer": "1",
+    "kod": "89-406",
+    "poczta": "Lutowo\r"
+  },
+  {
+    "id": "13834",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4969",
+    "miejscowosc": "Lutowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lutowo",
+    "numer": "1",
+    "kod": "89-406",
+    "poczta": "Lutowo\r"
+  }
+]

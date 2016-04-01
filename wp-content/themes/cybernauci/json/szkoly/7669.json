@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21498",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7669",
+    "miejscowosc": "Iskrzynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "38-422",
+    "poczta": "Kro\u015bcienko Wy\u017cne\r"
+  },
+  {
+    "id": "21499",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7669",
+    "miejscowosc": "Iskrzynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "38-422",
+    "poczta": "Kro\u015bcienko Wy\u017cne\r"
+  }
+]

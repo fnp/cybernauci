@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4442",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1467",
+    "miejscowosc": "K\u0105kolewnica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 O\u015bwiatowy-Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "21-302",
+    "poczta": "K\u0105kolewnica\r"
+  },
+  {
+    "id": "4443",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1467",
+    "miejscowosc": "K\u0105kolewnica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 O\u015bwiatowy-Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "21-302",
+    "poczta": "K\u0105kolewnica\r"
+  }
+]

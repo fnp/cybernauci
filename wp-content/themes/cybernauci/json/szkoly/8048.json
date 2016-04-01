@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22270",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8048",
+    "miejscowosc": "Trzebo\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22271",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8048",
+    "miejscowosc": "Trzebo\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22251",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8048",
+    "miejscowosc": "Trzebo\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. S. Kostki",
+    "ulica": "Podlas",
+    "numer": "29",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22252",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8048",
+    "miejscowosc": "Trzebo\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Dolna",
+    "numer": "240",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  }
+]

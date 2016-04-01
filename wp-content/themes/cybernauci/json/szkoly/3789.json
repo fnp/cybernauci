@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10578",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3789",
+    "miejscowosc": "Ja\u015bwi\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ja\u015bwi\u0142y",
+    "numer": "71",
+    "kod": "19-124",
+    "poczta": "Ja\u015bwi\u0142y\r"
+  },
+  {
+    "id": "10579",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3789",
+    "miejscowosc": "Ja\u015bwi\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ja\u015bwi\u0142y",
+    "numer": "71",
+    "kod": "19-124",
+    "poczta": "Ja\u015bwi\u0142y\r"
+  }
+]

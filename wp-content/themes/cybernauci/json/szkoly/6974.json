@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19478",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6974",
+    "miejscowosc": "Pig\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Pig\u0142owice",
+    "numer": "32A",
+    "kod": "63-021",
+    "poczta": "\u015anieciska\r"
+  },
+  {
+    "id": "19476",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6974",
+    "miejscowosc": "Pig\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Pig\u0142owice",
+    "numer": "32A",
+    "kod": "63-021",
+    "poczta": "\u015anieciska\r"
+  }
+]

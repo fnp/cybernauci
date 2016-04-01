@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15796",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5605",
+    "miejscowosc": "W\u0119gliniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2 i 5",
+    "kod": "59-940",
+    "poczta": "W\u0119gliniec\r"
+  },
+  {
+    "id": "15797",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5605",
+    "miejscowosc": "W\u0119gliniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2 i 5",
+    "kod": "59-940",
+    "poczta": "W\u0119gliniec\r"
+  }
+]

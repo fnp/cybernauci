@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4576",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1525",
+    "miejscowosc": "Piaski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Antoniego Norberta Patka",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "19",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "4577",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1525",
+    "miejscowosc": "Piaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce 3-letnie",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "19",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "4574",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1525",
+    "miejscowosc": "Piaski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "2",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "4578",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1525",
+    "miejscowosc": "Piaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "19",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "4579",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1525",
+    "miejscowosc": "Piaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "19",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  }
+]

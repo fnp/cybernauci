@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6145",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2199",
+    "miejscowosc": "Siedlce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Siedlce",
+    "numer": "162",
+    "kod": "33-322",
+    "poczta": "Korzenna\r"
+  },
+  {
+    "id": "6146",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2199",
+    "miejscowosc": "Siedlce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlce",
+    "numer": "162",
+    "kod": "33-322",
+    "poczta": "Korzenna\r"
+  }
+]

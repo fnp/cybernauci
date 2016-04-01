@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16527",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5761",
+    "miejscowosc": "Nowe Zduny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Nowe Zduny",
+    "numer": "88",
+    "kod": "99-440",
+    "poczta": "Zduny\r"
+  },
+  {
+    "id": "16526",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5761",
+    "miejscowosc": "Nowe Zduny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Nowe Zduny",
+    "numer": "88",
+    "kod": "99-440",
+    "poczta": "Zduny\r"
+  }
+]

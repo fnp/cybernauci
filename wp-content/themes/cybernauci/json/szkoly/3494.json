@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9534",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3494",
+    "miejscowosc": "Czarna Woda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "83-262",
+    "poczta": "Czarna Woda\r"
+  },
+  {
+    "id": "9533",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3494",
+    "miejscowosc": "Czarna Woda",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "83-262",
+    "poczta": "Czarna Woda\r"
+  },
+  {
+    "id": "9535",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3494",
+    "miejscowosc": "Czarna Woda",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Mickiewicza",
+    "numer": "1J",
+    "kod": "83-262",
+    "poczta": "Czarna Woda\r"
+  },
+  {
+    "id": "9536",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3494",
+    "miejscowosc": "Czarna Woda",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Mickiewicza",
+    "numer": "1J",
+    "kod": "83-262",
+    "poczta": "Czarna Woda\r"
+  }
+]

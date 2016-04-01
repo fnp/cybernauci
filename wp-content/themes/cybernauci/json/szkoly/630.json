@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1426",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "630",
+    "miejscowosc": "Studzionka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 5",
+    "ulica": "Jordana",
+    "numer": "3",
+    "kod": "43-245",
+    "poczta": "Studzionka\r"
+  },
+  {
+    "id": "1415",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "630",
+    "miejscowosc": "Studzionka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 12",
+    "ulica": "Jordana",
+    "numer": "3A",
+    "kod": "43-245",
+    "poczta": "Studzionka\r"
+  }
+]

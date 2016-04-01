@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8244",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Stowarzyszeniu Na Rzecz Rozwoju Zespo\u0142u Szk\u00f3\u0142 im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "56",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8246",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych im. Edwarda Szylki",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "54",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8249",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "56",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8247",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych im. Edwarda Szylki",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "54",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8248",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych im. Edwarda Szylki",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "54",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8250",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "56",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8251",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2964",
+    "miejscowosc": "O\u017car\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Osiedle Wzg\u00f3rze",
+    "numer": "56",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  }
+]

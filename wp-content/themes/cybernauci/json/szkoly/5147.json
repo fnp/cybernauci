@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14195",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5147",
+    "miejscowosc": "Go\u015bcieszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Go\u015bcieszyn",
+    "numer": "20",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "14196",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5147",
+    "miejscowosc": "Go\u015bcieszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Go\u015bcieszyn",
+    "numer": "20",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  }
+]

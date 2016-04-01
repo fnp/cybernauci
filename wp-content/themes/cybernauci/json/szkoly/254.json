@@ -1,0 +1,50 @@
+[
+  {
+    "id": "510",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "254",
+    "miejscowosc": "Pr\u00f3szk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "46-060",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  },
+  {
+    "id": "514",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "254",
+    "miejscowosc": "Pr\u00f3szk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Pomologia",
+    "numer": "11",
+    "kod": "46-060",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  },
+  {
+    "id": "511",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "254",
+    "miejscowosc": "Pr\u00f3szk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. ks. Hugo Kwiotka",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "46-060",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  },
+  {
+    "id": "515",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "254",
+    "miejscowosc": "Pr\u00f3szk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Pomologia",
+    "numer": "11",
+    "kod": "46-060",
+    "poczta": "Pr\u00f3szk\u00f3w\r"
+  }
+]

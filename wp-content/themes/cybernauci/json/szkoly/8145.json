@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22501",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8145",
+    "miejscowosc": "Lutcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Lutcza",
+    "numer": "629",
+    "kod": "38-112",
+    "poczta": "Lutcza\r"
+  },
+  {
+    "id": "22502",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8145",
+    "miejscowosc": "Lutcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Lutcza",
+    "numer": "629",
+    "kod": "38-112",
+    "poczta": "Lutcza\r"
+  },
+  {
+    "id": "22495",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8145",
+    "miejscowosc": "Lutcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Lutcza",
+    "numer": "",
+    "kod": "38-112",
+    "poczta": "Lutcza\r"
+  }
+]

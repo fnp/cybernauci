@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3354",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "897",
+    "miejscowosc": "S\u0142awatycze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. J. I. Kraszewskiego",
+    "ulica": "Kode\u0144ska",
+    "numer": "12",
+    "kod": "21-515",
+    "poczta": "S\u0142awatycze\r"
+  },
+  {
+    "id": "3355",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "897",
+    "miejscowosc": "S\u0142awatycze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kode\u0144ska",
+    "numer": "12",
+    "kod": "21-515",
+    "poczta": "S\u0142awatycze\r"
+  }
+]

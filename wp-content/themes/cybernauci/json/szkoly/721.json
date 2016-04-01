@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1670",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Karola Wierzgonia",
+    "ulica": "Warszawska",
+    "numer": "294",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1671",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. \u015bw. Walentego",
+    "ulica": "Licealna",
+    "numer": "17a",
+    "kod": "43-150",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1672",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Licealna",
+    "numer": "17",
+    "kod": "43-150",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1667",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Miel\u0119ckiego",
+    "numer": "29",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1668",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Kamienna",
+    "numer": "17",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1666",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Or\u0142a Bia\u0142ego",
+    "ulica": "W\u0119glowa",
+    "numer": "11",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1669",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi Nr 1",
+    "ulica": "Krakowska",
+    "numer": "28",
+    "kod": "43-150",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1673",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Granitowa",
+    "numer": "130",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  },
+  {
+    "id": "1674",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "721",
+    "miejscowosc": "Bieru\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Granitowa",
+    "numer": "130",
+    "kod": "43-155",
+    "poczta": "Bieru\u0144\r"
+  }
+]

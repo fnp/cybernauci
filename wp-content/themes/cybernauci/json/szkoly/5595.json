@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15777",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "M\u0142odych Energetyk\u00f3w",
+    "numer": "24",
+    "kod": "59-916",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15776",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "5",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15775",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Ziemi Bogaty\u0144skiej",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "5",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15772",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Plac Bohater\u00f3w Warszawy",
+    "numer": "1",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15783",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Wycz\u00f3\u0142kowskiego",
+    "numer": "42a",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15778",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 5",
+    "ulica": "M\u0142odych Energetyk\u00f3w",
+    "numer": "24",
+    "kod": "59-916",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15774",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Chopina",
+    "numer": "15",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15784",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Wycz\u00f3\u0142kowskiego",
+    "numer": "42a",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15785",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "33",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15786",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5595",
+    "miejscowosc": "Bogatynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "33",
+    "kod": "59-920",
+    "poczta": "Bogatynia\r"
+  }
+]

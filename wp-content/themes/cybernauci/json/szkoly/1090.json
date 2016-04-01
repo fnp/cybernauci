@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3721",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1090",
+    "miejscowosc": "Siennica Nadolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z klasami integracyjnymi",
+    "ulica": "Siennica Nadolna",
+    "numer": "79a",
+    "kod": "22-302",
+    "poczta": "Siennica Nadolna\r"
+  },
+  {
+    "id": "3722",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1090",
+    "miejscowosc": "Siennica Nadolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siennica Nadolna",
+    "numer": "79a",
+    "kod": "22-302",
+    "poczta": "Siennica Nadolna\r"
+  }
+]

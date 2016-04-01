@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19377",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6933",
+    "miejscowosc": "Grzebienisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Lecha Krzy\u017caniaka",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "64-553",
+    "poczta": "Grzebienisko\r"
+  },
+  {
+    "id": "19378",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6933",
+    "miejscowosc": "Grzebienisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J\u00f3zefa Gibowskiego",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "64-553",
+    "poczta": "Grzebienisko\r"
+  }
+]

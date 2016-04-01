@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16743",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5868",
+    "miejscowosc": "Sulmierzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-338",
+    "poczta": "Sulmierzyce\r"
+  },
+  {
+    "id": "16744",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5868",
+    "miejscowosc": "Sulmierzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-338",
+    "poczta": "Sulmierzyce\r"
+  }
+]

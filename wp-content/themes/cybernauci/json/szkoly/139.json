@@ -1,0 +1,26 @@
+[
+  {
+    "id": "297",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "139",
+    "miejscowosc": "Jarno\u0142t\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek",
+    "ulica": "Jarno\u0142t\u00f3wek",
+    "numer": "109",
+    "kod": "48-267",
+    "poczta": "Jarno\u0142t\u00f3wek\r"
+  },
+  {
+    "id": "290",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "139",
+    "miejscowosc": "Jarno\u0142t\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Rozwoju Wsi Jarno\u0142t\u00f3wek",
+    "ulica": "Jarno\u0142t\u00f3wek",
+    "numer": "109",
+    "kod": "48-267",
+    "poczta": "Jarno\u0142t\u00f3wek\r"
+  }
+]

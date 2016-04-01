@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23996",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8731",
+    "miejscowosc": "Mysiad\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kwiatowa",
+    "numer": "28",
+    "kod": "05-515",
+    "poczta": "Mysiad\u0142o\r"
+  },
+  {
+    "id": "23982",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8731",
+    "miejscowosc": "Mysiad\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Integracyjna Szko\u0142a Podstawowa",
+    "ulica": "Kr\u00f3tka",
+    "numer": "11B",
+    "kod": "05-515",
+    "poczta": "Mysiad\u0142o\r"
+  },
+  {
+    "id": "23985",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8731",
+    "miejscowosc": "Mysiad\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. Ferdynanda Magellana",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "05-500",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "23988",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8731",
+    "miejscowosc": "Mysiad\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Kr\u00f3tka",
+    "numer": "11",
+    "kod": "05-515",
+    "poczta": "Mysiad\u0142o\r"
+  },
+  {
+    "id": "23997",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8731",
+    "miejscowosc": "Mysiad\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kwiatowa",
+    "numer": "28",
+    "kod": "05-515",
+    "poczta": "Mysiad\u0142o\r"
+  }
+]

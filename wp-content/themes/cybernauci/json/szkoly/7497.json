@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21189",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7497",
+    "miejscowosc": "Wierzbna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wierzbna",
+    "numer": "2",
+    "kod": "37-500",
+    "poczta": "Jaros\u0142aw\r"
+  },
+  {
+    "id": "21190",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7497",
+    "miejscowosc": "Wierzbna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wierzbna",
+    "numer": "2",
+    "kod": "37-500",
+    "poczta": "Jaros\u0142aw\r"
+  }
+]

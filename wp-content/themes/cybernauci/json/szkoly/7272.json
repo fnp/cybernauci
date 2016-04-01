@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20517",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7272",
+    "miejscowosc": "Bojad\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-130",
+    "poczta": "Bojad\u0142a\r"
+  },
+  {
+    "id": "20518",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7272",
+    "miejscowosc": "Bojad\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-130",
+    "poczta": "Bojad\u0142a\r"
+  }
+]

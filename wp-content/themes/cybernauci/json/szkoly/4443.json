@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12608",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4443",
+    "miejscowosc": "Sorkwity",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "17B",
+    "kod": "11-731",
+    "poczta": "Sorkwity\r"
+  },
+  {
+    "id": "12609",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4443",
+    "miejscowosc": "Sorkwity",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "11-731",
+    "poczta": "Sorkwity\r"
+  }
+]

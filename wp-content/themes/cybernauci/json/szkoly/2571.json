@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6966",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2571",
+    "miejscowosc": "\u017babno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rynek",
+    "numer": "26",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  },
+  {
+    "id": "6957",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2571",
+    "miejscowosc": "\u017babno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jagie\u0142\u0142y",
+    "numer": "18",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  },
+  {
+    "id": "6953",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2571",
+    "miejscowosc": "\u017babno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Jagie\u0142\u0142y",
+    "numer": "18",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  },
+  {
+    "id": "6967",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2571",
+    "miejscowosc": "\u017babno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rynek",
+    "numer": "26",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  },
+  {
+    "id": "6968",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2571",
+    "miejscowosc": "\u017babno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rynek",
+    "numer": "26",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  }
+]

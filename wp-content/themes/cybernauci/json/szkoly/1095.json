@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3728",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1095",
+    "miejscowosc": "\u0141opiennik Nadrzeczny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "\u0141opiennik Nadrzeczny",
+    "numer": "5a",
+    "kod": "22-351",
+    "poczta": "\u0141opiennik G\u00f3rny\r"
+  },
+  {
+    "id": "3729",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1095",
+    "miejscowosc": "\u0141opiennik Nadrzeczny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u0141opiennik Nadrzeczny",
+    "numer": "5a",
+    "kod": "22-351",
+    "poczta": "\u0141opiennik G\u00f3rny\r"
+  }
+]

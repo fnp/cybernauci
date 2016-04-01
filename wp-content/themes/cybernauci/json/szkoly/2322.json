@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6394",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2322",
+    "miejscowosc": "\u0141opuszna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "34-432",
+    "poczta": "\u0141opuszna\r"
+  },
+  {
+    "id": "6395",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2322",
+    "miejscowosc": "\u0141opuszna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kazimierza Przerwy-Tetmajera",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "34-432",
+    "poczta": "\u0141opuszna\r"
+  }
+]

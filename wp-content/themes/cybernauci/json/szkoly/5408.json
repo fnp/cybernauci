@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15296",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5408",
+    "miejscowosc": "Domani\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Domani\u00f3w",
+    "numer": "144",
+    "kod": "55-216",
+    "poczta": "Domani\u00f3w\r"
+  },
+  {
+    "id": "15297",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5408",
+    "miejscowosc": "Domani\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Domani\u00f3w",
+    "numer": "144",
+    "kod": "55-216",
+    "poczta": "Domani\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4394",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1440",
+    "miejscowosc": "Sadurki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sadurki",
+    "numer": "106",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4390",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1440",
+    "miejscowosc": "Sadurki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. B. Prusa",
+    "ulica": "Sadurki",
+    "numer": "106",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  }
+]

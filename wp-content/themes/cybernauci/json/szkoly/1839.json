@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5462",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1839",
+    "miejscowosc": "Libusza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Libusza",
+    "numer": "679",
+    "kod": "38-306",
+    "poczta": "Libusza\r"
+  },
+  {
+    "id": "5463",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1839",
+    "miejscowosc": "Libusza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Libusza",
+    "numer": "679",
+    "kod": "38-306",
+    "poczta": "Libusza\r"
+  }
+]

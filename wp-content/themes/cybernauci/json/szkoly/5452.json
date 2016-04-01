@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15394",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "62",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15398",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wroc\u0142awska",
+    "numer": "12",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15395",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kili\u0144skiego",
+    "numer": "33",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15396",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kili\u0144skiego",
+    "numer": "33",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15393",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "G\u00f3rna",
+    "numer": "1\/6",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15399",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Wroc\u0142awska",
+    "numer": "12",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15401",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "\u015aw. Andrzeja",
+    "numer": "4",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15397",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kili\u0144skiego",
+    "numer": "33",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15400",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna Nr 1",
+    "ulica": "Wroc\u0142awska",
+    "numer": "12",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15402",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5452",
+    "miejscowosc": "\u015aroda \u015al\u0105ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna Nr 2",
+    "ulica": "\u015aw. Andrzeja",
+    "numer": "4",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  }
+]

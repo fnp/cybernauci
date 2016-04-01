@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19232",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6865",
+    "miejscowosc": "Jerzykowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Spokojna",
+    "numer": "3",
+    "kod": "62-007",
+    "poczta": "Biskupice\r"
+  },
+  {
+    "id": "19233",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6865",
+    "miejscowosc": "Jerzykowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Spokojna",
+    "numer": "3",
+    "kod": "62-007",
+    "poczta": "Biskupice\r"
+  }
+]

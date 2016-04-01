@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21444",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7643",
+    "miejscowosc": "Kopytowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopytowa",
+    "numer": "59",
+    "kod": "38-459",
+    "poczta": "Kopytowa\r"
+  },
+  {
+    "id": "21445",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7643",
+    "miejscowosc": "Kopytowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kopytowa",
+    "numer": "59",
+    "kod": "38-459",
+    "poczta": "Kopytowa\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4818",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1660",
+    "miejscowosc": "Zwierzyniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Armii Krajowej",
+    "numer": "36",
+    "kod": "22-470",
+    "poczta": "Zwierzyniec\r"
+  },
+  {
+    "id": "4815",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1660",
+    "miejscowosc": "Zwierzyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Browarna",
+    "numer": "1",
+    "kod": "22-470",
+    "poczta": "Zwierzyniec\r"
+  },
+  {
+    "id": "4819",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1660",
+    "miejscowosc": "Zwierzyniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "3",
+    "kod": "22-470",
+    "poczta": "Zwierzyniec\r"
+  },
+  {
+    "id": "4816",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1660",
+    "miejscowosc": "Zwierzyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ochrony \u015arodowiska",
+    "ulica": "Browarna",
+    "numer": "1",
+    "kod": "22-470",
+    "poczta": "Zwierzyniec\r"
+  },
+  {
+    "id": "4817",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1660",
+    "miejscowosc": "Zwierzyniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Przemys\u0142u Drzewnego",
+    "ulica": "Browarna",
+    "numer": "1",
+    "kod": "22-470",
+    "poczta": "Zwierzyniec\r"
+  }
+]

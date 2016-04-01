@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3487",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "969",
+    "miejscowosc": "Rejowiec Fabryczny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Lubelska",
+    "numer": "18",
+    "kod": "22-170",
+    "poczta": "Rejowiec Fabryczny\r"
+  },
+  {
+    "id": "3488",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "969",
+    "miejscowosc": "Rejowiec Fabryczny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Reja",
+    "ulica": "Lubelska",
+    "numer": "18",
+    "kod": "22-170",
+    "poczta": "Rejowiec Fabryczny\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24559",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9015",
+    "miejscowosc": "Radzik\u00f3w Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "08-140",
+    "poczta": "Mordy\r"
+  },
+  {
+    "id": "24560",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9015",
+    "miejscowosc": "Radzik\u00f3w Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "08-140",
+    "poczta": "Mordy\r"
+  }
+]

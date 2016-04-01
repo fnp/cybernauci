@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9519",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3485",
+    "miejscowosc": "Siemianice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142upska",
+    "numer": "42",
+    "kod": "76-200",
+    "poczta": "Siemianice\r"
+  },
+  {
+    "id": "9520",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3485",
+    "miejscowosc": "Siemianice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142upska",
+    "numer": "42",
+    "kod": "76-200",
+    "poczta": "Siemianice\r"
+  }
+]

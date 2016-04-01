@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16968",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5978",
+    "miejscowosc": "Stara Wojska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Stara Wojska",
+    "numer": "30B",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  },
+  {
+    "id": "16969",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5978",
+    "miejscowosc": "Stara Wojska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Stara Wojska",
+    "numer": "30B",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  }
+]

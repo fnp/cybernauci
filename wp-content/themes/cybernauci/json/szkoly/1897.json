@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5571",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1897",
+    "miejscowosc": "Wawrze\u0144czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015aw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Wawrze\u0144czyce",
+    "numer": "",
+    "kod": "32-125",
+    "poczta": "Wawrze\u0144czyce\r"
+  },
+  {
+    "id": "5572",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1897",
+    "miejscowosc": "Wawrze\u0144czyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Wawrze\u0144czyce",
+    "numer": "",
+    "kod": "32-125",
+    "poczta": "Wawrze\u0144czyce\r"
+  }
+]

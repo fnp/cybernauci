@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25029",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9222",
+    "miejscowosc": "Le\u015bniakowizna",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Podstawowa Szko\u0142a Montessori",
+    "ulica": "Kasprzykiewicza",
+    "numer": "153",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  },
+  {
+    "id": "25035",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9222",
+    "miejscowosc": "Le\u015bniakowizna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kasprzykiewicza",
+    "numer": "153",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  }
+]

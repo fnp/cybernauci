@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22346",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8076",
+    "miejscowosc": "Nowotaniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Nowotaniec",
+    "numer": "77",
+    "kod": "38-505",
+    "poczta": "Bukowsko\r"
+  },
+  {
+    "id": "22347",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8076",
+    "miejscowosc": "Nowotaniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Nowotaniec",
+    "numer": "77",
+    "kod": "38-505",
+    "poczta": "Bukowsko\r"
+  }
+]

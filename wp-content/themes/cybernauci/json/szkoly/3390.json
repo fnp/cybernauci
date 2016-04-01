@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9310",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3390",
+    "miejscowosc": "Bukowina",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa ",
+    "ulica": "Bukowina",
+    "numer": "5",
+    "kod": "84-312",
+    "poczta": "Cewice\r"
+  },
+  {
+    "id": "9311",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3390",
+    "miejscowosc": "Bukowina",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Bukowina",
+    "numer": "5",
+    "kod": "84-312",
+    "poczta": "Cewice\r"
+  }
+]

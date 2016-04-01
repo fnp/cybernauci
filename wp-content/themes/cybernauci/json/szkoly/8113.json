@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22437",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8113",
+    "miejscowosc": "K\u0142y\u017c\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Mickiewicza",
+    "numer": "70",
+    "kod": "37-403",
+    "poczta": "Pysznica\r"
+  },
+  {
+    "id": "22434",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8113",
+    "miejscowosc": "K\u0142y\u017c\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Krzaki Nowa",
+    "numer": "15",
+    "kod": "37-403",
+    "poczta": "Pysznica\r"
+  },
+  {
+    "id": "22438",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8113",
+    "miejscowosc": "K\u0142y\u017c\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "70",
+    "kod": "37-403",
+    "poczta": "Pysznica\r"
+  }
+]

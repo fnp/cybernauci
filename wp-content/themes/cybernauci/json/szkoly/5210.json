@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14798",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5210",
+    "miejscowosc": "Nielubia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Nielubia",
+    "numer": "80",
+    "kod": "67-231",
+    "poczta": "\u017bukowice\r"
+  },
+  {
+    "id": "14797",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5210",
+    "miejscowosc": "Nielubia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nielubia",
+    "numer": "80",
+    "kod": "67-231",
+    "poczta": "\u017bukowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23828",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8669",
+    "miejscowosc": "Prosty\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. Jana Paw\u0142a II Publiczne Gimnazjum",
+    "ulica": "Prosty\u0144",
+    "numer": "60",
+    "kod": "07-319",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23829",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8669",
+    "miejscowosc": "Prosty\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. Jana Paw\u0142a II Szko\u0142a Podstawowa",
+    "ulica": "Prosty\u0144",
+    "numer": "60",
+    "kod": "07-319",
+    "poczta": "Ma\u0142kinia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23335",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8445",
+    "miejscowosc": "Kr\u0119pa Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kr\u0119pa Ko\u015bcielna",
+    "numer": "48",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  },
+  {
+    "id": "23336",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8445",
+    "miejscowosc": "Kr\u0119pa Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kr\u0119pa Ko\u015bcielna",
+    "numer": "48",
+    "kod": "27-300",
+    "poczta": "Lipsko\r"
+  }
+]

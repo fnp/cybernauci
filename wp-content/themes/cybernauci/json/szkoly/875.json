@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3326",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "875",
+    "miejscowosc": "\u0141omazy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "18A",
+    "kod": "21-532",
+    "poczta": "\u0141omazy\r"
+  },
+  {
+    "id": "3327",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "875",
+    "miejscowosc": "\u0141omazy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18A",
+    "kod": "21-532",
+    "poczta": "\u0141omazy\r"
+  }
+]

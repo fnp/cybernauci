@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10312",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3648",
+    "miejscowosc": "Juchnowiec Dolny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "16-061",
+    "poczta": "Juchnowiec Ko\u015bcielny\r"
+  },
+  {
+    "id": "10313",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3648",
+    "miejscowosc": "Juchnowiec Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "16-061",
+    "poczta": "Juchnowiec Ko\u015bcielny\r"
+  }
+]

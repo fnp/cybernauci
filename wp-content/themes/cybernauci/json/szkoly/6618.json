@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18678",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6618",
+    "miejscowosc": "Brenno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Powsta\u0144c\u00f3w Wielkopolskich Gimnazjum ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "64-150",
+    "poczta": "Wijewo\r"
+  },
+  {
+    "id": "18677",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6618",
+    "miejscowosc": "Brenno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Powsta\u0144c\u00f3w Wielkopolskich Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "64-150",
+    "poczta": "Wijewo\r"
+  }
+]

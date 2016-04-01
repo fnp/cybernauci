@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4199",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1354",
+    "miejscowosc": "Szyszki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szyszki",
+    "numer": "66",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "4200",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1354",
+    "miejscowosc": "Szyszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szyszki",
+    "numer": "66",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  }
+]

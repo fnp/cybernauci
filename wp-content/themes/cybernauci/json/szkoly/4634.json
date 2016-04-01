@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13005",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4634",
+    "miejscowosc": "Dubeninki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "19-504",
+    "poczta": "Dubeninki\r"
+  },
+  {
+    "id": "13003",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4634",
+    "miejscowosc": "Dubeninki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "19-504",
+    "poczta": "Dubeninki\r"
+  }
+]

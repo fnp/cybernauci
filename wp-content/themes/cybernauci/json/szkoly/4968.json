@@ -1,0 +1,110 @@
+[
+  {
+    "id": "13825",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Wojska Polskiego",
+    "numer": "34",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13829",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13824",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "M\u0142y\u0144ska",
+    "numer": "42",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13827",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Hallera",
+    "numer": "29",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13826",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wojska Polskiego",
+    "numer": "34",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13828",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Hallera",
+    "numer": "29",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13830",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13831",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Przemys\u0142owa",
+    "numer": "15",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  },
+  {
+    "id": "13832",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4968",
+    "miejscowosc": "S\u0119p\u00f3lno Kraje\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Przemys\u0142owa",
+    "numer": "15",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  }
+]

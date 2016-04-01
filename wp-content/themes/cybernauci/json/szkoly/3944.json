@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11537",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3944",
+    "miejscowosc": "B\u0119dargowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u0119dargowo",
+    "numer": "1",
+    "kod": "72-005",
+    "poczta": "Przec\u0142aw\r"
+  },
+  {
+    "id": "11143",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3944",
+    "miejscowosc": "B\u0119dargowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "B\u0119dargowo",
+    "numer": "14",
+    "kod": "73-260",
+    "poczta": "Pe\u0142czyce\r"
+  }
+]

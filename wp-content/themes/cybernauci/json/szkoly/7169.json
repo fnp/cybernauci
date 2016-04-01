@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20288",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7169",
+    "miejscowosc": "W\u0119\u017cyska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "W\u0119\u017cyska",
+    "numer": "162",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20289",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7169",
+    "miejscowosc": "W\u0119\u017cyska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u0119\u017cyska",
+    "numer": "162",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  }
+]

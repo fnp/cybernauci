@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4298",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. M. Kopernika",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4297",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "7",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4294",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki",
+    "ulica": "11 Listopada",
+    "numer": "90",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4295",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. Kr\u00f3lowej Jadwigi",
+    "ulica": "Polna",
+    "numer": "34",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4300",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojska Polskiego",
+    "numer": "1",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4299",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zak\u0142adu Doskonalenia Zawodowego",
+    "ulica": "Harcerska",
+    "numer": "8",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  },
+  {
+    "id": "4301",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1416",
+    "miejscowosc": "Parczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "1",
+    "kod": "21-200",
+    "poczta": "Parczew\r"
+  }
+]

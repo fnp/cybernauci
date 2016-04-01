@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7948",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2796",
+    "miejscowosc": "Skalbmierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum",
+    "ulica": "Kanonijska",
+    "numer": "7",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  },
+  {
+    "id": "7949",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2796",
+    "miejscowosc": "Skalbmierz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ppor. Soko\u0142a",
+    "numer": "55",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  },
+  {
+    "id": "7950",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2796",
+    "miejscowosc": "Skalbmierz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ppor. Soko\u0142a",
+    "numer": "55",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  },
+  {
+    "id": "7953",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2796",
+    "miejscowosc": "Skalbmierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kanonijska",
+    "numer": "7",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  },
+  {
+    "id": "7954",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2796",
+    "miejscowosc": "Skalbmierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kanonijska",
+    "numer": "7",
+    "kod": "28-530",
+    "poczta": "Skalbmierz\r"
+  }
+]

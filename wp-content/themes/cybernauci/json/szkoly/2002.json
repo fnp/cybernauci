@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5738",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2002",
+    "miejscowosc": "Rudawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi im. H. Sienkiewicza",
+    "ulica": "Stanis\u0142awa Polaczaka",
+    "numer": "25",
+    "kod": "32-064",
+    "poczta": "Rudawa\r"
+  },
+  {
+    "id": "5739",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2002",
+    "miejscowosc": "Rudawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Krajowej",
+    "ulica": "Stanis\u0142awa Polaczaka",
+    "numer": "25",
+    "kod": "32-064",
+    "poczta": "Rudawa\r"
+  }
+]

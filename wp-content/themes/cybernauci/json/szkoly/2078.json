@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5901",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2078",
+    "miejscowosc": "Tczyca",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Tczyca",
+    "numer": "177",
+    "kod": "32-250",
+    "poczta": "Charsznica\r"
+  },
+  {
+    "id": "5902",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2078",
+    "miejscowosc": "Tczyca",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Tczyca",
+    "numer": "177",
+    "kod": "32-250",
+    "poczta": "Charsznica\r"
+  }
+]

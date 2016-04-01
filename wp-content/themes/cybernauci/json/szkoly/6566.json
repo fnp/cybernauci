@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18572",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6566",
+    "miejscowosc": "Niet\u0105\u017ckowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dudycza",
+    "numer": "4",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  },
+  {
+    "id": "18573",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6566",
+    "miejscowosc": "Niet\u0105\u017ckowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dudycza",
+    "numer": "4",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  },
+  {
+    "id": "18574",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6566",
+    "miejscowosc": "Niet\u0105\u017ckowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dudycza",
+    "numer": "4",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  }
+]

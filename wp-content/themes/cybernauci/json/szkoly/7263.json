@@ -1,0 +1,110 @@
+[
+  {
+    "id": "20502",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Park Chopina",
+    "numer": "2",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20494",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Park Chopina",
+    "numer": "1",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20495",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 6 ",
+    "ulica": "os. \u0141u\u017cyckie",
+    "numer": "28",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20496",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 7",
+    "ulica": "Gen. \u015awierczewskiego",
+    "numer": "74a",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20498",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Genera\u0142a Sikorskiego",
+    "numer": "11",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20499",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "\u0141u\u017cycka",
+    "numer": "33",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20497",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Szpitalna",
+    "numer": "3",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20500",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "76a",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  },
+  {
+    "id": "20501",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7263",
+    "miejscowosc": "\u015awiebodzin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "76a",
+    "kod": "66-200",
+    "poczta": "\u015awiebodzin\r"
+  }
+]

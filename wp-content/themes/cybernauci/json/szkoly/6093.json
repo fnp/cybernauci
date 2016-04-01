@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17205",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6093",
+    "miejscowosc": "Czarno\u017cy\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Czarno\u017cy\u0142y",
+    "numer": "17A",
+    "kod": "98-310",
+    "poczta": "Czarno\u017cy\u0142y\r"
+  },
+  {
+    "id": "17204",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6093",
+    "miejscowosc": "Czarno\u017cy\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Czarno\u017cy\u0142y",
+    "numer": "17a",
+    "kod": "98-310",
+    "poczta": "Czarno\u017cy\u0142y\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23527",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8529",
+    "miejscowosc": "Jeruzal",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "05-317",
+    "poczta": "Jeruzal\r"
+  },
+  {
+    "id": "23528",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8529",
+    "miejscowosc": "Jeruzal",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "05-317",
+    "poczta": "Jeruzal\r"
+  }
+]

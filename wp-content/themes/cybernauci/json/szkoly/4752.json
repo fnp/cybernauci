@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13386",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4752",
+    "miejscowosc": "Robakowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Robakowo",
+    "numer": "95",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  },
+  {
+    "id": "13387",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4752",
+    "miejscowosc": "Robakowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojska Polskiego",
+    "ulica": "Robakowo",
+    "numer": "95",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  }
+]

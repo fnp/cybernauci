@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12620",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4448",
+    "miejscowosc": "Janowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chorzelska",
+    "numer": "21",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  },
+  {
+    "id": "12621",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4448",
+    "miejscowosc": "Janowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chorzelska",
+    "numer": "21",
+    "kod": "13-113",
+    "poczta": "Janowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5506",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1857",
+    "miejscowosc": "Zag\u00f3rzany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zag\u00f3rzany",
+    "numer": "230",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  },
+  {
+    "id": "5507",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1857",
+    "miejscowosc": "Zag\u00f3rzany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zag\u00f3rzany",
+    "numer": "230",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  }
+]

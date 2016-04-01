@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5134",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1679",
+    "miejscowosc": "D\u0105browica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0105browica",
+    "numer": "67",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  },
+  {
+    "id": "5135",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1679",
+    "miejscowosc": "D\u0105browica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0105browica",
+    "numer": "67",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  }
+]

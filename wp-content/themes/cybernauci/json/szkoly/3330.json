@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9157",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3330",
+    "miejscowosc": "Chwaszczyno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "A. Mickiewicza",
+    "numer": "16",
+    "kod": "80-209",
+    "poczta": "Chwaszczyno\r"
+  },
+  {
+    "id": "9158",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3330",
+    "miejscowosc": "Chwaszczyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "A. Mickiewicza",
+    "numer": "16",
+    "kod": "80-209",
+    "poczta": "Chwaszczyno\r"
+  }
+]

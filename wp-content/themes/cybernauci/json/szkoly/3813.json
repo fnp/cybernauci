@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10641",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3813",
+    "miejscowosc": "Dziadkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Jana Paw\u0142a II ",
+    "ulica": "Dziadkowice",
+    "numer": "1d",
+    "kod": "17-306",
+    "poczta": "Dziadkowice\r"
+  },
+  {
+    "id": "10642",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3813",
+    "miejscowosc": "Dziadkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Dziadkowice",
+    "numer": "1d",
+    "kod": "17-306",
+    "poczta": "Dziadkowice\r"
+  }
+]

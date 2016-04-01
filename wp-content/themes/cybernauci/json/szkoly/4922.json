@@ -1,0 +1,74 @@
+[
+  {
+    "id": "13741",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. W\u0142adys\u0142awa \u0141okietka",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13739",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "28",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13740",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "28",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13742",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Powiatowe",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13743",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "58",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  },
+  {
+    "id": "13744",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4922",
+    "miejscowosc": "Radziej\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "58",
+    "kod": "88-200",
+    "poczta": "Radziej\u00f3w\r"
+  }
+]

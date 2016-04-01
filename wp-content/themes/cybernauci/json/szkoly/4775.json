@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13425",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4775",
+    "miejscowosc": "Klonowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Klonowo",
+    "numer": "62",
+    "kod": "87-645",
+    "poczta": "Zb\u00f3jno\r"
+  },
+  {
+    "id": "14022",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4775",
+    "miejscowosc": "Klonowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Klonowo",
+    "numer": "21",
+    "kod": "89-526",
+    "poczta": "Lubiewo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6372",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2306",
+    "miejscowosc": "Frydman",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "34-435",
+    "poczta": "Frydman\r"
+  },
+  {
+    "id": "6373",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2306",
+    "miejscowosc": "Frydman",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. B. Czecha",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "34-435",
+    "poczta": "Frydman\r"
+  }
+]

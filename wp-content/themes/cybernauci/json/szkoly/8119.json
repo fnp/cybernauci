@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22446",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8119",
+    "miejscowosc": "Radomy\u015bl nad Sanem",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Legion\u00f3w",
+    "numer": "22",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  },
+  {
+    "id": "22447",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8119",
+    "miejscowosc": "Radomy\u015bl nad Sanem",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Legion\u00f3w",
+    "numer": "22",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21710",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7768",
+    "miejscowosc": "G\u0142uch\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142uch\u00f3w",
+    "numer": "443",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21711",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7768",
+    "miejscowosc": "G\u0142uch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142uch\u00f3w",
+    "numer": "443",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  }
+]

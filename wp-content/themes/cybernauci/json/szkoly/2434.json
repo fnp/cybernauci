@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6681",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2434",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Klimont\u00f3w",
+    "numer": "180",
+    "kod": "32-112",
+    "poczta": "Klimont\u00f3w\r"
+  },
+  {
+    "id": "6682",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2434",
+    "miejscowosc": "Klimont\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Klimont\u00f3w",
+    "numer": "180",
+    "kod": "32-112",
+    "poczta": "Klimont\u00f3w\r"
+  }
+]

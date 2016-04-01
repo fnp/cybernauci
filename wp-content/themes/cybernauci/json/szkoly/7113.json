@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19789",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7113",
+    "miejscowosc": "Zakrzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "29 Stycznia",
+    "numer": "29",
+    "kod": "77-424",
+    "poczta": "Zakrzewo\r"
+  },
+  {
+    "id": "19787",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7113",
+    "miejscowosc": "Zakrzewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. ks. dra Boles\u0142awa Doma\u0144skiego",
+    "ulica": "29 Stycznia",
+    "numer": "29",
+    "kod": "77-424",
+    "poczta": "Zakrzewo\r"
+  }
+]

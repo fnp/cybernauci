@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9678",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3545",
+    "miejscowosc": "Subkowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zjednoczonej Europy ",
+    "ulica": "Wybickiego",
+    "numer": "19 b",
+    "kod": "83-120",
+    "poczta": "Subkowy\r"
+  },
+  {
+    "id": "9679",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3545",
+    "miejscowosc": "Subkowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Leonida Teligi",
+    "ulica": "Zamkowa",
+    "numer": "2",
+    "kod": "83-120",
+    "poczta": "Subkowy\r"
+  }
+]

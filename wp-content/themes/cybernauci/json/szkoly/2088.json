@@ -1,0 +1,122 @@
+[
+  {
+    "id": "5925",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sikorskiego",
+    "numer": "15B",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5928",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "M. Konopnickiej",
+    "numer": "2",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5926",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Zak\u0142adu Doskonalenia Zawodowego",
+    "ulica": "Ks. Skorupki",
+    "numer": "3",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5929",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zak\u0142adu Doskonalenia Zawodowego",
+    "ulica": "Ks. Skorupki",
+    "numer": "3",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5927",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum \u201eOmega\u201d",
+    "ulica": "Konopnickiej",
+    "numer": "2",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5919",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "M. Konopnickiej",
+    "numer": "13",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5920",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "os. Sikorskiego",
+    "numer": "15A",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5930",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Rac\u0142awicka",
+    "numer": "23",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5932",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "B.Prusa",
+    "numer": "2",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  },
+  {
+    "id": "5931",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2088",
+    "miejscowosc": "Miech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Rac\u0142awicka",
+    "numer": "23",
+    "kod": "32-200",
+    "poczta": "Miech\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1510",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "663",
+    "miejscowosc": "Ku\u017ania Raciborska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piaskowa",
+    "numer": "28",
+    "kod": "47-420",
+    "poczta": "Ku\u017ania Raciborska\r"
+  },
+  {
+    "id": "1511",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "663",
+    "miejscowosc": "Ku\u017ania Raciborska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Wawrzynka",
+    "ulica": "Piaskowa",
+    "numer": "28",
+    "kod": "47-420",
+    "poczta": "Ku\u017ania Raciborska\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11417",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4053",
+    "miejscowosc": "Dygowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "10",
+    "kod": "78-113",
+    "poczta": "Dygowo\r"
+  },
+  {
+    "id": "11418",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4053",
+    "miejscowosc": "Dygowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "10",
+    "kod": "78-113",
+    "poczta": "Dygowo\r"
+  }
+]

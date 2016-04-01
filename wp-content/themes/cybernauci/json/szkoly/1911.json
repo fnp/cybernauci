@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5592",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1911",
+    "miejscowosc": "Przeginia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Przeginia",
+    "numer": "403",
+    "kod": "32-049",
+    "poczta": "Przeginia\r"
+  },
+  {
+    "id": "5593",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1911",
+    "miejscowosc": "Przeginia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la Jana III Sobieskiego ",
+    "ulica": "Przeginia",
+    "numer": "403",
+    "kod": "32-049",
+    "poczta": "Przeginia\r"
+  }
+]

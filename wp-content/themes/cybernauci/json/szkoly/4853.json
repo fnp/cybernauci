@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13599",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4853",
+    "miejscowosc": "Chalin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Lecha Wa\u0142\u0119sy",
+    "ulica": "Chalin",
+    "numer": "36",
+    "kod": "87-606",
+    "poczta": "Chalin\r"
+  },
+  {
+    "id": "13595",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4853",
+    "miejscowosc": "Chalin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Polskich Noblist\u00f3w",
+    "ulica": "Chalin",
+    "numer": "36",
+    "kod": "87-606",
+    "poczta": "Chalin\r"
+  }
+]

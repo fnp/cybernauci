@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1861",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "772",
+    "miejscowosc": "W\u0142odowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Kowala",
+    "ulica": "Krakowska",
+    "numer": "13",
+    "kod": "42-421",
+    "poczta": "W\u0142odowice\r"
+  },
+  {
+    "id": "1858",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "772",
+    "miejscowosc": "W\u0142odowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Krakowska",
+    "numer": "13",
+    "kod": "42-421",
+    "poczta": "W\u0142odowice\r"
+  }
+]

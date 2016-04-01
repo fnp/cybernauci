@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6306",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2282",
+    "miejscowosc": "Czarny Dunajec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "144",
+    "kod": "34-470",
+    "poczta": "Czarny Dunajec\r"
+  },
+  {
+    "id": "6305",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2282",
+    "miejscowosc": "Czarny Dunajec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Integracyjnymi Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Kmietowicza",
+    "numer": "2",
+    "kod": "34-470",
+    "poczta": "Czarny Dunajec\r"
+  },
+  {
+    "id": "6307",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2282",
+    "miejscowosc": "Czarny Dunajec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "144",
+    "kod": "34-470",
+    "poczta": "Czarny Dunajec\r"
+  },
+  {
+    "id": "6304",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2282",
+    "miejscowosc": "Czarny Dunajec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ZDZ ",
+    "ulica": "Mo\u015bcickiego",
+    "numer": "8",
+    "kod": "34-470",
+    "poczta": "Czarny Dunajec\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13878",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4995",
+    "miejscowosc": "Lniano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1 im. Miko\u0142aja Kopernika",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "86-141",
+    "poczta": "Lniano\r"
+  },
+  {
+    "id": "13876",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4995",
+    "miejscowosc": "Lniano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "86-141",
+    "poczta": "Lniano\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6324",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2290",
+    "miejscowosc": "Podwilk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Podwilk",
+    "numer": "287",
+    "kod": "34-722",
+    "poczta": "Podwilk\r"
+  },
+  {
+    "id": "6340",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2290",
+    "miejscowosc": "Podwilk",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Podwilk",
+    "numer": "157",
+    "kod": "34-722",
+    "poczta": "Podwilk\r"
+  },
+  {
+    "id": "6341",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2290",
+    "miejscowosc": "Podwilk",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Podwilk",
+    "numer": "157",
+    "kod": "34-722",
+    "poczta": "Podwilk\r"
+  }
+]

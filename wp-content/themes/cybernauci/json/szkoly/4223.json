@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11833",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4223",
+    "miejscowosc": "Tuczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "43",
+    "kod": "78-640",
+    "poczta": "Tuczno\r"
+  },
+  {
+    "id": "11834",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4223",
+    "miejscowosc": "Tuczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "41",
+    "kod": "78-640",
+    "poczta": "Tuczno\r"
+  }
+]

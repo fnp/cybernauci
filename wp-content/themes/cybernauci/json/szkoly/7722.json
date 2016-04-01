@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21604",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7722",
+    "miejscowosc": "Wola Zarczycka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wola Zarczycka",
+    "numer": "128",
+    "kod": "37-311",
+    "poczta": "Wola Zarczycka\r"
+  },
+  {
+    "id": "21599",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7722",
+    "miejscowosc": "Wola Zarczycka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Zarczycka",
+    "numer": "128",
+    "kod": "37-311",
+    "poczta": "Wola Zarczycka\r"
+  }
+]

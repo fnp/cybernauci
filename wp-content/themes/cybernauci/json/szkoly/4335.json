@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12351",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4335",
+    "miejscowosc": "Straduny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "40",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  },
+  {
+    "id": "12352",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4335",
+    "miejscowosc": "Straduny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "40",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  }
+]

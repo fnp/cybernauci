@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12313",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4326",
+    "miejscowosc": "Rychliki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Rychliki",
+    "numer": "34",
+    "kod": "14-411",
+    "poczta": "Rychliki\r"
+  },
+  {
+    "id": "12314",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4326",
+    "miejscowosc": "Rychliki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Rychliki",
+    "numer": "34",
+    "kod": "14-411",
+    "poczta": "Rychliki\r"
+  }
+]

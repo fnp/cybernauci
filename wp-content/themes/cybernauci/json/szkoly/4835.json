@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13556",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4835",
+    "miejscowosc": "Kobylniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Park",
+    "numer": "3",
+    "kod": "88-150",
+    "poczta": "Kruszwica\r"
+  },
+  {
+    "id": "13557",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4835",
+    "miejscowosc": "Kobylniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Park",
+    "numer": "3",
+    "kod": "88-150",
+    "poczta": "Kruszwica\r"
+  }
+]

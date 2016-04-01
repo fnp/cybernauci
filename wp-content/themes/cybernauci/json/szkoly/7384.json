@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20918",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7384",
+    "miejscowosc": "Turze Pole",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. Waleriana Pa\u0144ki",
+    "ulica": "Turze Pole",
+    "numer": "152",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20919",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7384",
+    "miejscowosc": "Turze Pole",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. prof. Waleriana Pa\u0144ki",
+    "ulica": "Turze Pole",
+    "numer": "152",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

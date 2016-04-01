@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14026",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5070",
+    "miejscowosc": "Bys\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kwiatowa",
+    "numer": "9",
+    "kod": "89-510",
+    "poczta": "Bys\u0142aw\r"
+  },
+  {
+    "id": "14027",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5070",
+    "miejscowosc": "Bys\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kwiatowa",
+    "numer": "9",
+    "kod": "89-510",
+    "poczta": "Bys\u0142aw\r"
+  }
+]

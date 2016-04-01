@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23440",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8492",
+    "miejscowosc": "Sypniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. A. Mickiewicza",
+    "ulica": "W\u0142. Broniewskiego",
+    "numer": "4",
+    "kod": "06-216",
+    "poczta": "Sypniewo\r"
+  },
+  {
+    "id": "23441",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8492",
+    "miejscowosc": "Sypniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. W\u0142. Broniewskiego",
+    "ulica": "W\u0142. Broniewskiego",
+    "numer": "2A",
+    "kod": "06-216",
+    "poczta": "Sypniewo\r"
+  }
+]

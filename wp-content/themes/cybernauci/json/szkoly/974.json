@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3498",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "974",
+    "miejscowosc": "Staw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Staw",
+    "numer": "72",
+    "kod": "22-151",
+    "poczta": "Staw\r"
+  },
+  {
+    "id": "3499",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "974",
+    "miejscowosc": "Staw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Staw",
+    "numer": "72",
+    "kod": "22-151",
+    "poczta": "Staw\r"
+  }
+]

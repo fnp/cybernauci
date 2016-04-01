@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8132",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2911",
+    "miejscowosc": "Strawczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "\u017beromskiego",
+    "numer": "9",
+    "kod": "26-067",
+    "poczta": "Strawczyn\r"
+  },
+  {
+    "id": "8133",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2911",
+    "miejscowosc": "Strawczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u017beromskiego",
+    "numer": "9",
+    "kod": "26-067",
+    "poczta": "Strawczyn\r"
+  }
+]

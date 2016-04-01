@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21009",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7419",
+    "miejscowosc": "Brzostek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Mys\u0142owskiego",
+    "numer": "11",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  },
+  {
+    "id": "21004",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7419",
+    "miejscowosc": "Brzostek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  },
+  {
+    "id": "21010",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7419",
+    "miejscowosc": "Brzostek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "Klecie",
+    "numer": "125",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  },
+  {
+    "id": "21011",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7419",
+    "miejscowosc": "Brzostek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Klecie",
+    "numer": "125",
+    "kod": "39-230",
+    "poczta": "Brzostek\r"
+  }
+]

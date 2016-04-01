@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6653",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2418",
+    "miejscowosc": "Bi\u00f3rk\u00f3w Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bi\u00f3rk\u00f3w Wielki",
+    "numer": "111",
+    "kod": "32-104",
+    "poczta": "Koniusza\r"
+  },
+  {
+    "id": "6654",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2418",
+    "miejscowosc": "Bi\u00f3rk\u00f3w Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bi\u00f3rk\u00f3w Wielki",
+    "numer": "111",
+    "kod": "32-104",
+    "poczta": "Koniusza\r"
+  }
+]

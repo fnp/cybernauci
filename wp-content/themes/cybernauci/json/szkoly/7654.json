@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21468",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Zagrodniki",
+    "numer": "21",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21474",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zadw\u00f3r",
+    "numer": "15",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21466",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Antoniego Podg\u00f3rskiego",
+    "ulica": "Zagrodniki",
+    "numer": "21",
+    "kod": "38-440",
+    "poczta": "Iwonicz Zdr\u00f3j\r"
+  },
+  {
+    "id": "21475",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zadw\u00f3r",
+    "numer": "15",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21476",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zadw\u00f3r",
+    "numer": "15",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  },
+  {
+    "id": "21473",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7654",
+    "miejscowosc": "Iwonicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Zadw\u00f3r",
+    "numer": "5",
+    "kod": "38-440",
+    "poczta": "Iwonicz-Zdr\u00f3j\r"
+  }
+]

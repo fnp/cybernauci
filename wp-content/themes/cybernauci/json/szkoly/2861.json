@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8053",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2861",
+    "miejscowosc": "Mas\u0142\u00f3w Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "26-001",
+    "poczta": "Mas\u0142ow\r"
+  },
+  {
+    "id": "8054",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2861",
+    "miejscowosc": "Mas\u0142\u00f3w Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "26-001",
+    "poczta": "Mas\u0142ow\r"
+  }
+]

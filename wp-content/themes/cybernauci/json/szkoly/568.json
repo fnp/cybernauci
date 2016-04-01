@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1249",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "568",
+    "miejscowosc": "Kochanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-713",
+    "poczta": "Kochanowice\r"
+  },
+  {
+    "id": "1250",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "568",
+    "miejscowosc": "Kochanowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-713",
+    "poczta": "Kochanowice\r"
+  }
+]

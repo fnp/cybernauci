@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23383",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8464",
+    "miejscowosc": "Olszanka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osadnicza",
+    "numer": "38A",
+    "kod": "08-207",
+    "poczta": "Olszanka\r"
+  },
+  {
+    "id": "25092",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8464",
+    "miejscowosc": "Olszanka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Olszanka",
+    "numer": "39",
+    "kod": "07-200",
+    "poczta": "Wyszk\u00f3w\r"
+  },
+  {
+    "id": "23384",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8464",
+    "miejscowosc": "Olszanka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "38A",
+    "kod": "08-207",
+    "poczta": "Olszanka\r"
+  }
+]

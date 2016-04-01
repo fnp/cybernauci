@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24478",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8958",
+    "miejscowosc": "Jedlnia-Letnisko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "5",
+    "kod": "26-630",
+    "poczta": "Jedlnia-Letnisko\r"
+  },
+  {
+    "id": "24479",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8958",
+    "miejscowosc": "Jedlnia-Letnisko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "5",
+    "kod": "26-630",
+    "poczta": "Jedlnia-Letnisko\r"
+  }
+]

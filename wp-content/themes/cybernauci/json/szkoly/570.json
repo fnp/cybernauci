@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1257",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "570",
+    "miejscowosc": "Strzebi\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Armii Krajowej",
+    "ulica": "Lompy",
+    "numer": "9",
+    "kod": "42-288",
+    "poczta": "Strzebi\u0144\r"
+  },
+  {
+    "id": "1253",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "570",
+    "miejscowosc": "Strzebi\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lompy",
+    "numer": "9",
+    "kod": "42-288",
+    "poczta": "Strzebi\u0144\r"
+  }
+]

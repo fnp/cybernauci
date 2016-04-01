@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3919",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1197",
+    "miejscowosc": "Wola Sernicka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza ",
+    "ulica": "Wola Sernicka",
+    "numer": "243",
+    "kod": "21-107",
+    "poczta": "Serniki\r"
+  },
+  {
+    "id": "3917",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1197",
+    "miejscowosc": "Wola Sernicka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Wola Sernicka",
+    "numer": "243b",
+    "kod": "21-107",
+    "poczta": "Serniki\r"
+  }
+]

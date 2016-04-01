@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7141",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2646",
+    "miejscowosc": "Stanis\u0142aw G\u00f3rny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Stanis\u0142aw G\u00f3rny",
+    "numer": "132",
+    "kod": "34-105",
+    "poczta": "Wysoka\r"
+  },
+  {
+    "id": "7147",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2646",
+    "miejscowosc": "Stanis\u0142aw G\u00f3rny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Stanis\u0142aw G\u00f3rny",
+    "numer": "132",
+    "kod": "34-105",
+    "poczta": "Wysoka\r"
+  }
+]

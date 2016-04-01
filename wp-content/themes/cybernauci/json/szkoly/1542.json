@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4620",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1542",
+    "miejscowosc": "Krynice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Batalion\u00f3w Ch\u0142opskich",
+    "ulica": "Krynice",
+    "numer": "9",
+    "kod": "22-610",
+    "poczta": "Krynice\r"
+  },
+  {
+    "id": "4621",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1542",
+    "miejscowosc": "Krynice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Romualda Traugutta",
+    "ulica": "Krynice",
+    "numer": "9",
+    "kod": "22-610",
+    "poczta": "Krynice\r"
+  }
+]

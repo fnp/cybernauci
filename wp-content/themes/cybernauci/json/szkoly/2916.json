@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8142",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2916",
+    "miejscowosc": "Tumlin-W\u0119gle",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Grodowa",
+    "numer": "2",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  },
+  {
+    "id": "8143",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2916",
+    "miejscowosc": "Tumlin-W\u0119gle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grodowa",
+    "numer": "2",
+    "kod": "26-050",
+    "poczta": "Zagna\u0144sk\r"
+  }
+]

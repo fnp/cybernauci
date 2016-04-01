@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6827",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2506",
+    "miejscowosc": "Rzuchowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Rzuchowa",
+    "numer": "278",
+    "kod": "33-114",
+    "poczta": "Rzuchowa\r"
+  },
+  {
+    "id": "6828",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2506",
+    "miejscowosc": "Rzuchowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzuchowa",
+    "numer": "278",
+    "kod": "33-114",
+    "poczta": "Rzuchowa\r"
+  }
+]

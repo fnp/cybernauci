@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5502",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1855",
+    "miejscowosc": "Str\u00f3\u017c\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Str\u00f3\u017c\u00f3wka",
+    "numer": "159",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  },
+  {
+    "id": "5503",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1855",
+    "miejscowosc": "Str\u00f3\u017c\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Str\u00f3\u017c\u00f3wka",
+    "numer": "159",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  }
+]

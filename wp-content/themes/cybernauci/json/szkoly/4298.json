@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12266",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4298",
+    "miejscowosc": "Gr\u00f3dki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Gr\u00f3dki",
+    "numer": "29",
+    "kod": "13-206",
+    "poczta": "P\u0142o\u015bnica\r"
+  },
+  {
+    "id": "12267",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4298",
+    "miejscowosc": "Gr\u00f3dki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gr\u00f3dki",
+    "numer": "30",
+    "kod": "13-206",
+    "poczta": "P\u0142o\u015bnica\r"
+  },
+  {
+    "id": "12262",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4298",
+    "miejscowosc": "Gr\u00f3dki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gr\u00f3dki",
+    "numer": "51a",
+    "kod": "13-206",
+    "poczta": "P\u0142o\u015bnica\r"
+  },
+  {
+    "id": "12268",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4298",
+    "miejscowosc": "Gr\u00f3dki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gr\u00f3dki",
+    "numer": "30",
+    "kod": "13-206",
+    "poczta": "P\u0142o\u015bnica\r"
+  },
+  {
+    "id": "12269",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4298",
+    "miejscowosc": "Gr\u00f3dki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gr\u00f3dki",
+    "numer": "30",
+    "kod": "13-206",
+    "poczta": "P\u0142o\u015bnica\r"
+  }
+]

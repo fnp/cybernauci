@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14997",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5289",
+    "miejscowosc": "Domaszk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "10",
+    "kod": "57-522",
+    "poczta": "Domaszk\u00f3w\r"
+  },
+  {
+    "id": "14998",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5289",
+    "miejscowosc": "Domaszk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum Nr 2",
+    "ulica": "Mi\u0119dzyleska",
+    "numer": "33",
+    "kod": "57-522",
+    "poczta": "Domaszk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7016",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2592",
+    "miejscowosc": "Rzepiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Bryj\u00f3w Potok",
+    "numer": "1",
+    "kod": "34-532",
+    "poczta": "Jurg\u00f3w\r"
+  },
+  {
+    "id": "7017",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2592",
+    "miejscowosc": "Rzepiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Jana Paw\u0142a II ",
+    "ulica": "Grochol\u00f3w Potok",
+    "numer": "8",
+    "kod": "34-532",
+    "poczta": "Jurg\u00f3w\r"
+  }
+]

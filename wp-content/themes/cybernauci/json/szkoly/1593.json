@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4704",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1593",
+    "miejscowosc": "Stary Brus",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Stary Brus",
+    "numer": "94",
+    "kod": "22-244",
+    "poczta": "Stary Brus\r"
+  },
+  {
+    "id": "4705",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1593",
+    "miejscowosc": "Stary Brus",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stary Brus",
+    "numer": "94",
+    "kod": "22-244",
+    "poczta": "Stary Brus\r"
+  }
+]

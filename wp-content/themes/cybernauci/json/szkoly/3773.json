@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10554",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3773",
+    "miejscowosc": "Pi\u0105tnica Poduchowna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ofiar Katynia",
+    "ulica": "Szkolna",
+    "numer": "31",
+    "kod": "18-421",
+    "poczta": "Pi\u0105tnica Poduchowna\r"
+  },
+  {
+    "id": "10555",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3773",
+    "miejscowosc": "Pi\u0105tnica Poduchowna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. W\u0142. Raginisa",
+    "ulica": "Szkolna",
+    "numer": "31",
+    "kod": "18-421",
+    "poczta": "Pi\u0105tnica\r"
+  }
+]

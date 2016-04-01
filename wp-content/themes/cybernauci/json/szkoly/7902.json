@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21960",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7902",
+    "miejscowosc": "Nehrybka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nehrybka",
+    "numer": "188a",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  },
+  {
+    "id": "21961",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7902",
+    "miejscowosc": "Nehrybka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nehrybka",
+    "numer": "188a",
+    "kod": "37-733",
+    "poczta": "Pikulice\r"
+  }
+]

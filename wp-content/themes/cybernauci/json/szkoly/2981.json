@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8322",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2981",
+    "miejscowosc": "Szewna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "M. Langiewicza",
+    "numer": "3",
+    "kod": "27-400",
+    "poczta": "Ostrowiec \u015awi\u0119tokrzyski\r"
+  },
+  {
+    "id": "8318",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2981",
+    "miejscowosc": "Szewna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Langiewicza",
+    "numer": "3",
+    "kod": "27-400",
+    "poczta": "Ostrowiec \u015awi\u0119tokrzyski\r"
+  }
+]

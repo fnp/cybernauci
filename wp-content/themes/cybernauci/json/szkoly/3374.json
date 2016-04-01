@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9267",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3374",
+    "miejscowosc": "Prabuty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grunwaldzka",
+    "numer": "6",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  },
+  {
+    "id": "9263",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3374",
+    "miejscowosc": "Prabuty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Obro\u0144c\u00f3w Westerplatte",
+    "numer": "11",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  },
+  {
+    "id": "9270",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3374",
+    "miejscowosc": "Prabuty",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  },
+  {
+    "id": "9271",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3374",
+    "miejscowosc": "Prabuty",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  }
+]

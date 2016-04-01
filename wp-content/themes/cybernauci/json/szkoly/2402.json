@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6626",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2402",
+    "miejscowosc": "Polanka Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Karola Wojty\u0142y",
+    "ulica": "D\u0142uga",
+    "numer": "175",
+    "kod": "32-607",
+    "poczta": "Polanka Wielka\r"
+  },
+  {
+    "id": "6625",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2402",
+    "miejscowosc": "Polanka Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "14",
+    "kod": "32-607",
+    "poczta": "Polanka Wielka\r"
+  }
+]

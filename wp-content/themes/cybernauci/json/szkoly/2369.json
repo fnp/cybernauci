@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6514",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2369",
+    "miejscowosc": "Zadro\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Zadro\u017ce",
+    "numer": "69",
+    "kod": "32-353",
+    "poczta": "Trzyci\u0105\u017c\r"
+  },
+  {
+    "id": "6515",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2369",
+    "miejscowosc": "Zadro\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Zadro\u017ce",
+    "numer": "69",
+    "kod": "32-353",
+    "poczta": "Trzyci\u0105\u017c\r"
+  }
+]

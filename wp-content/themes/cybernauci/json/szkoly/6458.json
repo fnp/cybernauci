@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18383",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6458",
+    "miejscowosc": "Grzegorzew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "62-640",
+    "poczta": "Grzegorzew\r"
+  },
+  {
+    "id": "18384",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6458",
+    "miejscowosc": "Grzegorzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "62-640",
+    "poczta": "Grzegorzew\r"
+  }
+]

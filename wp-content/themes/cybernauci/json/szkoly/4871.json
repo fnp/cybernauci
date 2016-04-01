@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13628",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4871",
+    "miejscowosc": "Wielgie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "87-603",
+    "poczta": "Wielgie\r"
+  },
+  {
+    "id": "13629",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4871",
+    "miejscowosc": "Wielgie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "87-603",
+    "poczta": "Wielgie\r"
+  }
+]

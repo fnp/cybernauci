@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3850",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1154",
+    "miejscowosc": "Abram\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "22 Lipca",
+    "numer": "31",
+    "kod": "21-143",
+    "poczta": "Abram\u00f3w\r"
+  },
+  {
+    "id": "3851",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1154",
+    "miejscowosc": "Abram\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "22 Lipca",
+    "numer": "31",
+    "kod": "21-143",
+    "poczta": "Abram\u00f3w\r"
+  }
+]

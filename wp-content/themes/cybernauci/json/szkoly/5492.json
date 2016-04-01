@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15540",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "\u015aw. Jadwigi",
+    "numer": "10",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15539",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "podstawowa",
+    "nazwa": "J\u0119zykowa Integracyjna Szko\u0142a Podstawowa",
+    "ulica": "Wroc\u0142awska",
+    "numer": "10",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15541",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wojska Polskiego",
+    "numer": "17",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15542",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "gimnazjum",
+    "nazwa": "Powiatowe Gimnazjum Sportowo-J\u0119zykowe",
+    "ulica": "Wojska Polskiego",
+    "numer": "17",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15545",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Przy Szpitalu im. \u015awi\u0119tej Jadwigi \u015al\u0105skiej",
+    "ulica": "Prusicka",
+    "numer": "53\/55",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15534",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "3 Maja",
+    "numer": "5",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15535",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Marii Konopnickiej",
+    "numer": "14",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15546",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 im. Janusza Korczaka przy szpitalu im. \u015awi\u0119tej Jadwigi \u015al\u0105skiej",
+    "ulica": "Prusicka",
+    "numer": "53\/55",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15543",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017beromskiego",
+    "numer": "25",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  },
+  {
+    "id": "15544",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5492",
+    "miejscowosc": "Trzebnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "\u017beromskiego",
+    "numer": "25",
+    "kod": "55-100",
+    "poczta": "Trzebnica\r"
+  }
+]

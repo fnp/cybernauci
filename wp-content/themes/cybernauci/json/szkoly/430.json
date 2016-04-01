@@ -1,0 +1,26 @@
+[
+  {
+    "id": "996",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "430",
+    "miejscowosc": "K\u0142omnice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "997",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "430",
+    "miejscowosc": "K\u0142omnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]

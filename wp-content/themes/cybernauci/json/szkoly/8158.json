@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22520",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8158",
+    "miejscowosc": "Dobrzech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Dobrzech\u00f3w",
+    "numer": "197",
+    "kod": "38-100",
+    "poczta": "Strzy\u017c\u00f3w\r"
+  },
+  {
+    "id": "22521",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8158",
+    "miejscowosc": "Dobrzech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dobrzech\u00f3w",
+    "numer": "197",
+    "kod": "38-100",
+    "poczta": "Strzy\u017c\u00f3w\r"
+  }
+]

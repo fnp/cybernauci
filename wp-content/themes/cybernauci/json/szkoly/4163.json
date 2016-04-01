@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11687",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4163",
+    "miejscowosc": "Chociwel",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Henryka D\u0105browskiego",
+    "numer": "15",
+    "kod": "73-120",
+    "poczta": "Chociwel\r"
+  },
+  {
+    "id": "11688",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4163",
+    "miejscowosc": "Chociwel",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Henryka D\u0105browskiego",
+    "numer": "15",
+    "kod": "73-120",
+    "poczta": "Chociwel\r"
+  }
+]

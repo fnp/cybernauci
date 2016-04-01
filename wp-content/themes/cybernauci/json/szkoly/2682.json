@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7232",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2682",
+    "miejscowosc": "Zabierz\u00f3w Boche\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Niepubliczne im. ks. J. Twardowskiego",
+    "ulica": "Zabierz\u00f3w Boche\u0144ski",
+    "numer": "323",
+    "kod": "32-007",
+    "poczta": "Zabierz\u00f3w Boche\u0144ski\r"
+  },
+  {
+    "id": "7240",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2682",
+    "miejscowosc": "Zabierz\u00f3w Boche\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zabierz\u00f3w Boche\u0144ski",
+    "numer": "465",
+    "kod": "32-007",
+    "poczta": "Zabierz\u00f3w Boche\u0144ski\r"
+  }
+]

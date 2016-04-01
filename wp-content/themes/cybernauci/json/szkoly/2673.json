@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7216",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2673",
+    "miejscowosc": "K\u0142aj",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "K\u0142aj",
+    "numer": "361",
+    "kod": "32-015",
+    "poczta": "K\u0142aj\r"
+  },
+  {
+    "id": "7217",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2673",
+    "miejscowosc": "K\u0142aj",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "K\u0142aj",
+    "numer": "361",
+    "kod": "32-015",
+    "poczta": "K\u0142aj\r"
+  }
+]

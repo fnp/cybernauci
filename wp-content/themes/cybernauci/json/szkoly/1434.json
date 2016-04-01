@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4377",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1434",
+    "miejscowosc": "Ko\u0144skowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubelska",
+    "numer": "81",
+    "kod": "24-130",
+    "poczta": "Ko\u0144skowola\r"
+  },
+  {
+    "id": "4378",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1434",
+    "miejscowosc": "Ko\u0144skowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubelska",
+    "numer": "81",
+    "kod": "24-130",
+    "poczta": "Ko\u0144skowola\r"
+  }
+]

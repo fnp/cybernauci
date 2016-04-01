@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4392",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. E. M. Andriollego",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "17",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4397",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Boles\u0142awa Prusa",
+    "numer": "13",
+    "kod": "24-140",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4398",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane",
+    "ulica": "Boles\u0142awa Prusa",
+    "numer": "13",
+    "kod": "24-140",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4389",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Prusa",
+    "numer": "11",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4395",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "17",
+    "kod": "24-140",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4396",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1439",
+    "miejscowosc": "Na\u0142\u0119cz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "17",
+    "kod": "24-140",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  }
+]

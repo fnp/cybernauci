@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14881",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5244",
+    "miejscowosc": "Janowice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Gminnym Zespole Szk\u00f3\u0142 im. Wandy Rutkiewicz",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "4",
+    "kod": "58-520",
+    "poczta": "Janowice Wielkie\r"
+  },
+  {
+    "id": "14882",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5244",
+    "miejscowosc": "Janowice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Gminnym Zespole Szk\u00f3\u0142 im. Wandy Rutkiewicz",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "4",
+    "kod": "58-520",
+    "poczta": "Janowice Wielkie\r"
+  }
+]

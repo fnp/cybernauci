@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5695",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1975",
+    "miejscowosc": "S\u0142omniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "\u015awierczewskiego",
+    "numer": "2",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5696",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1975",
+    "miejscowosc": "S\u0142omniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "2",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5697",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1975",
+    "miejscowosc": "S\u0142omniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u015awierczewskiego",
+    "numer": "2",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5698",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1975",
+    "miejscowosc": "S\u0142omniki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u015awierczewskiego",
+    "numer": "2",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  }
+]

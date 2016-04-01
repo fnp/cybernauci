@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20313",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7182",
+    "miejscowosc": "Przytoczna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Polna",
+    "numer": "17",
+    "kod": "66-340",
+    "poczta": "Przytoczna\r"
+  },
+  {
+    "id": "20312",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7182",
+    "miejscowosc": "Przytoczna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "\u015bw. Jana Bosco",
+    "numer": "1",
+    "kod": "66-340",
+    "poczta": "Przytoczna\r"
+  }
+]

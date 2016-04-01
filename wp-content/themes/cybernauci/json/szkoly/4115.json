@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11541",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4115",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Przec\u0142aw",
+    "numer": "27C",
+    "kod": "72-005",
+    "poczta": "Przec\u0142aw\r"
+  },
+  {
+    "id": "11538",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4115",
+    "miejscowosc": "Przec\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Przec\u0142aw",
+    "numer": "27A",
+    "kod": "72-005",
+    "poczta": "Przec\u0142aw\r"
+  }
+]

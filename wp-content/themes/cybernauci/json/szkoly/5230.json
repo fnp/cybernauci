@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14847",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5230",
+    "miejscowosc": "Piotrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piotrowice",
+    "numer": "139",
+    "kod": "59-424",
+    "poczta": "M\u0119cinka\r"
+  },
+  {
+    "id": "15385",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5230",
+    "miejscowosc": "Piotrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa \"Nasza Szko\u0142a\"",
+    "ulica": "Piotrowice",
+    "numer": "31",
+    "kod": "55-311",
+    "poczta": "Kostom\u0142oty\r"
+  }
+]

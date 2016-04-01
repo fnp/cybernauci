@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6959",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2575",
+    "miejscowosc": "Nieciecza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Katolicka Szko\u0142a Podstawowa im. Armii Krajowej",
+    "ulica": "Nieciecza",
+    "numer": "175",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  },
+  {
+    "id": "6960",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2575",
+    "miejscowosc": "Nieciecza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Katolickie Gimnazjum im. Armii Krajowej ",
+    "ulica": "Nieciecza",
+    "numer": "175",
+    "kod": "33-240",
+    "poczta": "\u017babno\r"
+  }
+]

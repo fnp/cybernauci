@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13850",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4977",
+    "miejscowosc": "Sypniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kwiatowa",
+    "numer": "3",
+    "kod": "89-422",
+    "poczta": "Sypniewo\r"
+  },
+  {
+    "id": "13851",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4977",
+    "miejscowosc": "Sypniewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kwiatowa",
+    "numer": "3",
+    "kod": "89-422",
+    "poczta": "Sypniewo\r"
+  },
+  {
+    "id": "13854",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4977",
+    "miejscowosc": "Sypniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-422",
+    "poczta": "Sypniewo\r"
+  },
+  {
+    "id": "13855",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4977",
+    "miejscowosc": "Sypniewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-422",
+    "poczta": "Sypniewo\r"
+  }
+]

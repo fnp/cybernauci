@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19656",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7058",
+    "miejscowosc": "Bel\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bel\u0119cin",
+    "numer": "76",
+    "kod": "64-231",
+    "poczta": "Bel\u0119cin\r"
+  },
+  {
+    "id": "19657",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7058",
+    "miejscowosc": "Bel\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bel\u0119cin",
+    "numer": "76",
+    "kod": "64-231",
+    "poczta": "Bel\u0119cin\r"
+  }
+]

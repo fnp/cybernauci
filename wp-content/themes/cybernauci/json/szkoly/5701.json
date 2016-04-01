@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16405",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5701",
+    "miejscowosc": "S\u0119dziejowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Powsta\u0144c\u00f3w 1863 r.",
+    "numer": "6",
+    "kod": "98-160",
+    "poczta": "S\u0119dziejowice\r"
+  },
+  {
+    "id": "16406",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5701",
+    "miejscowosc": "S\u0119dziejowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Powsta\u0144c\u00f3w 1863 r.",
+    "numer": "6",
+    "kod": "98-160",
+    "poczta": "S\u0119dziejowice\r"
+  }
+]

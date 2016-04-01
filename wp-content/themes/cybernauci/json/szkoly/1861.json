@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5513",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1861",
+    "miejscowosc": "Kryg",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kryg",
+    "numer": "397",
+    "kod": "38-304",
+    "poczta": "Kryg\r"
+  },
+  {
+    "id": "5514",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1861",
+    "miejscowosc": "Kryg",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kryg",
+    "numer": "397",
+    "kod": "38-304",
+    "poczta": "Kryg\r"
+  }
+]

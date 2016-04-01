@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1106",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Strzelc\u00f3w Bytomskich",
+    "numer": "1",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1110",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1107",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "37",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1104",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Wojska Polskiego",
+    "numer": "23",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1111",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1105",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 6 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Wyzwolenia",
+    "numer": "4",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1108",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "37",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  },
+  {
+    "id": "1109",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "489",
+    "miejscowosc": "Pyskowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "37",
+    "kod": "44-120",
+    "poczta": "Pyskowice\r"
+  }
+]

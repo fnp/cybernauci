@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6608",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2394",
+    "miejscowosc": "Bulowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bielska",
+    "numer": "59",
+    "kod": "32-652",
+    "poczta": "Bulowice\r"
+  },
+  {
+    "id": "6609",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2394",
+    "miejscowosc": "Bulowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bielska",
+    "numer": "59",
+    "kod": "32-652",
+    "poczta": "Bulowice\r"
+  }
+]

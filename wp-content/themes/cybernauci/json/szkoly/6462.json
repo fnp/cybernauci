@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18393",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6462",
+    "miejscowosc": "Korzecznik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Korzecznik",
+    "numer": "41",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18388",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6462",
+    "miejscowosc": "Korzecznik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Korzecznik",
+    "numer": "41",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18395",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6462",
+    "miejscowosc": "Korzecznik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Budownictwa",
+    "ulica": "Korzecznik",
+    "numer": "41",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18396",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6462",
+    "miejscowosc": "Korzecznik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Rolnicze",
+    "ulica": "Korzecznik",
+    "numer": "41",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  },
+  {
+    "id": "18394",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6462",
+    "miejscowosc": "Korzecznik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Korzecznik",
+    "numer": "41",
+    "kod": "62-650",
+    "poczta": "K\u0142odawa\r"
+  }
+]

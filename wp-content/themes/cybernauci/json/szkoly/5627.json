@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15838",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5627",
+    "miejscowosc": "Wilk\u00f3w-Osiedle",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kochanowskiego",
+    "numer": "2",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  },
+  {
+    "id": "15833",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5627",
+    "miejscowosc": "Wilk\u00f3w-Osiedle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. S. Staszica",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "59-500",
+    "poczta": "Z\u0142otoryja\r"
+  }
+]

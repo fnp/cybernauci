@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3773",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1109",
+    "miejscowosc": "Annopol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce trzyletnie",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "22",
+    "kod": "23-235",
+    "poczta": "Annopol\r"
+  },
+  {
+    "id": "3771",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1109",
+    "miejscowosc": "Annopol",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "8",
+    "kod": "23-235",
+    "poczta": "Annopol\r"
+  },
+  {
+    "id": "3772",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1109",
+    "miejscowosc": "Annopol",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "8",
+    "kod": "23-235",
+    "poczta": "Annopol\r"
+  },
+  {
+    "id": "3774",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1109",
+    "miejscowosc": "Annopol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "22",
+    "kod": "23-235",
+    "poczta": "Annopol\r"
+  },
+  {
+    "id": "3775",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1109",
+    "miejscowosc": "Annopol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa wielozawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "22",
+    "kod": "23-235",
+    "poczta": "Annopol\r"
+  }
+]

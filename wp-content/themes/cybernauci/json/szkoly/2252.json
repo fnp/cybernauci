@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6240",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2252",
+    "miejscowosc": "Brzezna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Brzezna",
+    "numer": "447",
+    "kod": "33-386",
+    "poczta": "Podegrodzie\r"
+  },
+  {
+    "id": "6236",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2252",
+    "miejscowosc": "Brzezna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Brzezna",
+    "numer": "245",
+    "kod": "33-386",
+    "poczta": "Podegrodzie\r"
+  },
+  {
+    "id": "6232",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2252",
+    "miejscowosc": "Brzezna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ojca \u015aw. Jana Paw\u0142a II",
+    "ulica": "Brzezna",
+    "numer": "255",
+    "kod": "33-386",
+    "poczta": "Podegrodzie\r"
+  }
+]

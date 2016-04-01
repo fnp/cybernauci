@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14794",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5208",
+    "miejscowosc": "Bia\u0142o\u0142\u0119ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bia\u0142o\u0142\u0119ka",
+    "numer": "20A",
+    "kod": "67-221",
+    "poczta": "Bia\u0142o\u0142\u0119ka\r"
+  },
+  {
+    "id": "14795",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5208",
+    "miejscowosc": "Bia\u0142o\u0142\u0119ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142o\u0142\u0119ka",
+    "numer": "20A",
+    "kod": "67-221",
+    "poczta": "Bia\u0142o\u0142\u0119ka\r"
+  }
+]

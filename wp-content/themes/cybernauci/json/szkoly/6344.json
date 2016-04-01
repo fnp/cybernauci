@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18173",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6344",
+    "miejscowosc": "Witaszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1a",
+    "kod": "63-230",
+    "poczta": "Witaszyce\r"
+  },
+  {
+    "id": "18169",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6344",
+    "miejscowosc": "Witaszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1a",
+    "kod": "63-230",
+    "poczta": "Witaszyce\r"
+  }
+]

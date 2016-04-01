@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17188",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6083",
+    "miejscowosc": "Komor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Huberta",
+    "ulica": "Tomaszowska",
+    "numer": "1",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "17189",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6083",
+    "miejscowosc": "Komor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Huberta",
+    "ulica": "Tomaszowska",
+    "numer": "1",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  }
+]

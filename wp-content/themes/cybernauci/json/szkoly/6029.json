@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17075",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szeroka",
+    "numer": "",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  },
+  {
+    "id": "17073",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Andrzeja Ruszkowskiego",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  },
+  {
+    "id": "17072",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Burzeni\u0144ska",
+    "numer": "",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  },
+  {
+    "id": "17076",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szeroka",
+    "numer": "",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  },
+  {
+    "id": "17074",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Trzyletnie Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Lider\"",
+    "ulica": "Z\u0142oczew",
+    "numer": "",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  },
+  {
+    "id": "17077",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6029",
+    "miejscowosc": "Z\u0142oczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szeroka",
+    "numer": "",
+    "kod": "98-270",
+    "poczta": "Z\u0142oczew\r"
+  }
+]

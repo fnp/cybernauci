@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12318",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4328",
+    "miejscowosc": "Tolkmicko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "20",
+    "kod": "82-340",
+    "poczta": "Tolkmicko\r"
+  },
+  {
+    "id": "12316",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4328",
+    "miejscowosc": "Tolkmicko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szpitalna",
+    "numer": "6",
+    "kod": "82-340",
+    "poczta": "Tolkmicko\r"
+  }
+]

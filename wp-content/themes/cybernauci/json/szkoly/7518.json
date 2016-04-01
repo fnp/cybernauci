@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21224",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7518",
+    "miejscowosc": "Rokietnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rokietnica",
+    "numer": "525",
+    "kod": "37-562",
+    "poczta": "Rokietnica\r"
+  },
+  {
+    "id": "21225",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7518",
+    "miejscowosc": "Rokietnica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Rokietnica",
+    "numer": "108",
+    "kod": "37-562",
+    "poczta": "Rokietnica\r"
+  },
+  {
+    "id": "21226",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7518",
+    "miejscowosc": "Rokietnica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Rokietnica",
+    "numer": "108",
+    "kod": "37-562",
+    "poczta": "Rokietnica\r"
+  }
+]

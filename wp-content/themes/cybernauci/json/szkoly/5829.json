@@ -1,0 +1,98 @@
+[
+  {
+    "id": "16651",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "7",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16653",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Ignacew",
+    "numer": "9",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16652",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kili\u0144skiego",
+    "numer": "75",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16648",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Kr\u00f3lowej Jadwigi",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "117",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16649",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Boles\u0142awa \u015acibiorka",
+    "ulica": "Lutomierska",
+    "numer": "4",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16650",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5 im. I Armii Wojska Polskiego",
+    "ulica": "Sadowa",
+    "numer": "7",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16654",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 6",
+    "ulica": "Ignacew",
+    "numer": "9",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "16655",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5829",
+    "miejscowosc": "Konstantyn\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ignacew",
+    "numer": "9",
+    "kod": "95-050",
+    "poczta": "Konstantyn\u00f3w \u0141\u00f3dzki\r"
+  }
+]

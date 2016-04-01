@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19551",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7004",
+    "miejscowosc": "Kowale Pa\u0144skie-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kowale Pa\u0144skie-Kolonia",
+    "numer": "34",
+    "kod": "62-704",
+    "poczta": "Kaw\u0119czyn\r"
+  },
+  {
+    "id": "19552",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7004",
+    "miejscowosc": "Kowale Pa\u0144skie-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kowale Pa\u0144skie-Kolonia",
+    "numer": "34",
+    "kod": "62-704",
+    "poczta": "Kaw\u0119czyn\r"
+  }
+]

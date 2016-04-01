@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21079",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7454",
+    "miejscowosc": "Dobrk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dobrk\u00f3w",
+    "numer": "68",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21080",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7454",
+    "miejscowosc": "Dobrk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dobrk\u00f3w",
+    "numer": "68",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17184",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6081",
+    "miejscowosc": "Smardzewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "10",
+    "kod": "97-213",
+    "poczta": "Smardzewice\r"
+  },
+  {
+    "id": "17185",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6081",
+    "miejscowosc": "Smardzewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "10",
+    "kod": "97-213",
+    "poczta": "Smardzewice\r"
+  }
+]

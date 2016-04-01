@@ -1,0 +1,98 @@
+[
+  {
+    "id": "24948",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Prywatna Szko\u0142a Podstawowa im. Ks. Jerzego Popie\u0142uszki",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "95 c",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24951",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Katolicka Szko\u0142a Podstawowa",
+    "ulica": "11 Listopada",
+    "numer": "4",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24949",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Harcerska",
+    "numer": "9",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24950",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Batorego",
+    "numer": "37",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24952",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Katolickie Gimnazjum",
+    "ulica": "11 Listopada",
+    "numer": "4",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24945",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "35",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24947",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Batorego",
+    "numer": "11",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  },
+  {
+    "id": "24946",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9188",
+    "miejscowosc": "Z\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Ma\u0142ego Powsta\u0144ca",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "05-091",
+    "poczta": "Z\u0105bki\r"
+  }
+]

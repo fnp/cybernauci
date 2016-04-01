@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13319",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4719",
+    "miejscowosc": "M\u0105kowarsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tucholska",
+    "numer": "8",
+    "kod": "86-013",
+    "poczta": "M\u0105kowarsko\r"
+  },
+  {
+    "id": "13320",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4719",
+    "miejscowosc": "M\u0105kowarsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tucholska",
+    "numer": "8",
+    "kod": "86-013",
+    "poczta": "M\u0105kowarsko\r"
+  }
+]

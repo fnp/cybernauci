@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1351",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "597",
+    "miejscowosc": "Kozieg\u0142owy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "3 Maja",
+    "numer": "12",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "1352",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "597",
+    "miejscowosc": "Kozieg\u0142owy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "3 Maja",
+    "numer": "12",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "1353",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "597",
+    "miejscowosc": "Kozieg\u0142owy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "12",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  }
+]

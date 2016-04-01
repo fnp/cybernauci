@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13650",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4886",
+    "miejscowosc": "Bielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "4-letnie Technikum",
+    "ulica": "Bielice",
+    "numer": "",
+    "kod": "88-330",
+    "poczta": "G\u0119bice\r"
+  },
+  {
+    "id": "13651",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4886",
+    "miejscowosc": "Bielice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bielice",
+    "numer": "",
+    "kod": "88-330",
+    "poczta": "G\u0119bice\r"
+  },
+  {
+    "id": "13652",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4886",
+    "miejscowosc": "Bielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bielice",
+    "numer": "",
+    "kod": "88-330",
+    "poczta": "G\u0119bice\r"
+  },
+  {
+    "id": "13653",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4886",
+    "miejscowosc": "Bielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bielice",
+    "numer": "",
+    "kod": "88-330",
+    "poczta": "G\u0119bice\r"
+  }
+]

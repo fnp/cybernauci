@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9489",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3466",
+    "miejscowosc": "Stowi\u0119cino",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Stowi\u0119cino",
+    "numer": "37",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9490",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3466",
+    "miejscowosc": "Stowi\u0119cino",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Stowi\u0119cino",
+    "numer": "37",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  }
+]

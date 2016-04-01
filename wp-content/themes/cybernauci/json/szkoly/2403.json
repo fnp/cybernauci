@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6627",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2403",
+    "miejscowosc": "Piotrowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Andrychowska",
+    "numer": "222",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  },
+  {
+    "id": "6628",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2403",
+    "miejscowosc": "Piotrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Andrychowska",
+    "numer": "222",
+    "kod": "32-641",
+    "poczta": "Przecisz\u00f3w\r"
+  }
+]

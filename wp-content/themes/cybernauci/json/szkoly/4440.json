@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12623",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4440",
+    "miejscowosc": "Koz\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna ",
+    "numer": "6",
+    "kod": "13-124",
+    "poczta": "Koz\u0142owo\r"
+  },
+  {
+    "id": "12604",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4440",
+    "miejscowosc": "Koz\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Stowarzyszenie \"Edukator\" Szko\u0142a Podstawowa",
+    "ulica": "Koz\u0142owo",
+    "numer": "3",
+    "kod": "11-731",
+    "poczta": "Sorkwity\r"
+  },
+  {
+    "id": "12624",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4440",
+    "miejscowosc": "Koz\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna ",
+    "numer": "6",
+    "kod": "13-124",
+    "poczta": "Koz\u0142owo\r"
+  }
+]

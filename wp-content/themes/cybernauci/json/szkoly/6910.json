@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19338",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6910",
+    "miejscowosc": "R\u00f3\u017canna",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "R\u00f3\u017canna",
+    "numer": "9",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  },
+  {
+    "id": "19340",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6910",
+    "miejscowosc": "R\u00f3\u017canna",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "R\u00f3\u017canna",
+    "numer": "9",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  }
+]

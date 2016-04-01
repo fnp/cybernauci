@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9109",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3303",
+    "miejscowosc": "Gowidlino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Prymasa Wyszy\u0144skiego",
+    "numer": "5",
+    "kod": "83-341",
+    "poczta": "Gowidlino\r"
+  },
+  {
+    "id": "9110",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3303",
+    "miejscowosc": "Gowidlino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Prymasa Wyszy\u0144skiego",
+    "numer": "5",
+    "kod": "83-341",
+    "poczta": "Gowidlino\r"
+  }
+]

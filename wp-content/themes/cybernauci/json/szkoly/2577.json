@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6963",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2577",
+    "miejscowosc": "Otfin\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Otfin\u00f3w",
+    "numer": "58",
+    "kod": "33-250",
+    "poczta": "Otfin\u00f3w\r"
+  },
+  {
+    "id": "6964",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2577",
+    "miejscowosc": "Otfin\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. S. Staszica",
+    "ulica": "Otfin\u00f3w",
+    "numer": "58",
+    "kod": "33-250",
+    "poczta": "Otfin\u00f3w\r"
+  }
+]

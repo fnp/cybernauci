@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16553",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5773",
+    "miejscowosc": "Ga\u0142k\u00f3w Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dzieci Polskich",
+    "numer": "14",
+    "kod": "95-041",
+    "poczta": "Ga\u0142k\u00f3w Du\u017cy\r"
+  },
+  {
+    "id": "16554",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5773",
+    "miejscowosc": "Ga\u0142k\u00f3w Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dzieci Polskich",
+    "numer": "14",
+    "kod": "95-041",
+    "poczta": "Ga\u0142k\u00f3w Du\u017cy\r"
+  }
+]

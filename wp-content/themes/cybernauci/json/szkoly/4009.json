@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11308",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bohater\u00f3w spod Siekierek",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  },
+  {
+    "id": "11307",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  },
+  {
+    "id": "11302",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "10",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  },
+  {
+    "id": "11309",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Budowlane im. ppor. Ryszarda Kuleszy",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  },
+  {
+    "id": "11310",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe im. ppor. Ryszarda Kuleszy ",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  },
+  {
+    "id": "11311",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4009",
+    "miejscowosc": "Chojna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. ppor. Ryszarda Kuleszy",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "74-500",
+    "poczta": "Chojna\r"
+  }
+]

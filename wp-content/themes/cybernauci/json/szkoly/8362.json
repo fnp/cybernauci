@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23154",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8362",
+    "miejscowosc": "Drwalew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "05-651",
+    "poczta": "Chyn\u00f3w\r"
+  },
+  {
+    "id": "23155",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8362",
+    "miejscowosc": "Drwalew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "05-651",
+    "poczta": "Chyn\u00f3w\r"
+  }
+]

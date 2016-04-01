@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6903",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Reymonta",
+    "numer": "19",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6899",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Miko\u0142aja Kopernika",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "10",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6901",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "6",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6902",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "6",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6904",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Reymonta",
+    "numer": "19",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6905",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2548",
+    "miejscowosc": "Tuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Reymonta",
+    "numer": "19",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  }
+]

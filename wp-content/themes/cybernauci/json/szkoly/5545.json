@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15660",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5545",
+    "miejscowosc": "\u0141ozina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Milicka",
+    "numer": "10",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  },
+  {
+    "id": "15661",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5545",
+    "miejscowosc": "\u0141ozina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Milicka",
+    "numer": "10",
+    "kod": "55-095",
+    "poczta": "Mirk\u00f3w\r"
+  }
+]

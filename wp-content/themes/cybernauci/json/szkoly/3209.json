@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8917",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3209",
+    "miejscowosc": "Silno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "39",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  },
+  {
+    "id": "8918",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3209",
+    "miejscowosc": "Silno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "39",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  }
+]

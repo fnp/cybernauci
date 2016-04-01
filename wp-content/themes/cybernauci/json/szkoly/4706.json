@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13290",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4706",
+    "miejscowosc": "D\u0105browa Che\u0142mi\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  },
+  {
+    "id": "13291",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4706",
+    "miejscowosc": "D\u0105browa Che\u0142mi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  }
+]

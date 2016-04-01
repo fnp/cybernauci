@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16411",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5706",
+    "miejscowosc": "Chociw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Chociw",
+    "numer": "191",
+    "kod": "98-170",
+    "poczta": "Widawa\r"
+  },
+  {
+    "id": "16412",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5706",
+    "miejscowosc": "Chociw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Chociw",
+    "numer": "191",
+    "kod": "98-170",
+    "poczta": "Widawa\r"
+  }
+]

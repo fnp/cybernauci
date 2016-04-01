@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23415",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8478",
+    "miejscowosc": "Karniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "06-425",
+    "poczta": "Karniewo\r"
+  },
+  {
+    "id": "23414",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8478",
+    "miejscowosc": "Karniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9B",
+    "kod": "06-425",
+    "poczta": "Karniewo\r"
+  }
+]

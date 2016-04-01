@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9492",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3468",
+    "miejscowosc": "K\u0119pice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Karola Wojty\u0142y",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  },
+  {
+    "id": "9498",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3468",
+    "miejscowosc": "K\u0119pice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ppor. Tadeusza Bielaka",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  }
+]

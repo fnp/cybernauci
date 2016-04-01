@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13292",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4707",
+    "miejscowosc": "Czar\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "47",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  },
+  {
+    "id": "13293",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4707",
+    "miejscowosc": "Czar\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Che\u0142mi\u0144ska",
+    "numer": "47",
+    "kod": "86-070",
+    "poczta": "D\u0105browa Che\u0142mi\u0144ska\r"
+  }
+]

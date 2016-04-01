@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16916",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5954",
+    "miejscowosc": "Dziep\u00f3\u0142\u0107",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Dziep\u00f3\u0142\u0107",
+    "numer": "97",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  },
+  {
+    "id": "16917",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5954",
+    "miejscowosc": "Dziep\u00f3\u0142\u0107",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Janusza Korczaka",
+    "ulica": "Dziep\u00f3\u0142\u0107",
+    "numer": "97",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  }
+]

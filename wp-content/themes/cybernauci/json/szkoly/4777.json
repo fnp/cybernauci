@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13427",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4777",
+    "miejscowosc": "Zb\u00f3jno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zb\u00f3jno",
+    "numer": "178",
+    "kod": "87-645",
+    "poczta": "Zb\u00f3jno\r"
+  },
+  {
+    "id": "13429",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4777",
+    "miejscowosc": "Zb\u00f3jno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zb\u00f3jno",
+    "numer": "178A",
+    "kod": "87-645",
+    "poczta": "Zb\u00f3jno\r"
+  }
+]

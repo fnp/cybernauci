@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6610",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2395",
+    "miejscowosc": "Witkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Beskidzka",
+    "numer": "98",
+    "kod": "32-650",
+    "poczta": "K\u0119ty\r"
+  },
+  {
+    "id": "6611",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2395",
+    "miejscowosc": "Witkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bronis\u0142awa Obary ",
+    "ulica": "Beskidzka",
+    "numer": "98",
+    "kod": "32-650",
+    "poczta": "K\u0119ty\r"
+  }
+]

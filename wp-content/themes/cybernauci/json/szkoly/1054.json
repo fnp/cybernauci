@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3630",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1054",
+    "miejscowosc": "Chrzan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Chrzan\u00f3w Pierwszy",
+    "numer": "81",
+    "kod": "23-305",
+    "poczta": "Chrzan\u00f3w\r"
+  },
+  {
+    "id": "3631",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1054",
+    "miejscowosc": "Chrzan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Chrzan\u00f3w Pierwszy",
+    "numer": "81",
+    "kod": "23-305",
+    "poczta": "Chrzan\u00f3w\r"
+  }
+]

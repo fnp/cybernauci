@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9570",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3501",
+    "miejscowosc": "Osieczna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "83-242",
+    "poczta": "Osieczna\r"
+  },
+  {
+    "id": "9571",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3501",
+    "miejscowosc": "Osieczna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "83-242",
+    "poczta": "Osieczna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9754",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3557",
+    "miejscowosc": "Gniewino",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-250",
+    "poczta": "Gniewino\r"
+  },
+  {
+    "id": "9755",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3557",
+    "miejscowosc": "Gniewino",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-250",
+    "poczta": "Gniewino\r"
+  }
+]

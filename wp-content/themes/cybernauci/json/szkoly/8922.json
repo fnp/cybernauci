@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24417",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8922",
+    "miejscowosc": "Gol\u0105dkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Gol\u0105dkowo",
+    "numer": "41 G",
+    "kod": "06-120",
+    "poczta": "Winnica\r"
+  },
+  {
+    "id": "24418",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8922",
+    "miejscowosc": "Gol\u0105dkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gol\u0105dkowo",
+    "numer": "41 G",
+    "kod": "06-120",
+    "poczta": "Winnica\r"
+  }
+]

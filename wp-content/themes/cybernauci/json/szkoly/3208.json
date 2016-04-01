@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8915",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3208",
+    "miejscowosc": "Paw\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wandy Chotomskiej",
+    "ulica": "Tucholska",
+    "numer": "16",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  },
+  {
+    "id": "8916",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3208",
+    "miejscowosc": "Paw\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wandy Chotomskiej",
+    "ulica": "Tucholska",
+    "numer": "16",
+    "kod": "89-620",
+    "poczta": "Chojnice\r"
+  }
+]

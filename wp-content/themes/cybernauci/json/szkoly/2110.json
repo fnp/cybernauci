@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5979",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2110",
+    "miejscowosc": "Trzeme\u015bnia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Trzeme\u015bnia",
+    "numer": "250",
+    "kod": "32-425",
+    "poczta": "Trzeme\u015bnia\r"
+  },
+  {
+    "id": "5968",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2110",
+    "miejscowosc": "Trzeme\u015bnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzeme\u015bnia",
+    "numer": "250",
+    "kod": "32-425",
+    "poczta": "Trzeme\u015bnia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4747",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1617",
+    "miejscowosc": "\u0141abunie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zamojska",
+    "numer": "1",
+    "kod": "22-437",
+    "poczta": "\u0141abunie\r"
+  },
+  {
+    "id": "4744",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1617",
+    "miejscowosc": "\u0141abunie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zamojska",
+    "numer": "1",
+    "kod": "22-437",
+    "poczta": "\u0141abunie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16805",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5908",
+    "miejscowosc": "Wola Krzysztoporska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "32",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  },
+  {
+    "id": "16806",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5908",
+    "miejscowosc": "Wola Krzysztoporska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "32",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  }
+]

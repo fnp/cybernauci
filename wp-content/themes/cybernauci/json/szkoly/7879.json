@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21929",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7879",
+    "miejscowosc": "Fredropol",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Aleksandra Fredry",
+    "ulica": "Fredropol",
+    "numer": "42",
+    "kod": "37-734",
+    "poczta": "Fredropol\r"
+  },
+  {
+    "id": "21930",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7879",
+    "miejscowosc": "Fredropol",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Aleksandra Fredry",
+    "ulica": "Fredropol",
+    "numer": "42",
+    "kod": "37-734",
+    "poczta": "Fredropol\r"
+  }
+]

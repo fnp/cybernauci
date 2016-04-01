@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5310",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1779",
+    "miejscowosc": "Kwacza\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "2",
+    "kod": "32-566",
+    "poczta": "Alwernia\r"
+  },
+  {
+    "id": "5311",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1779",
+    "miejscowosc": "Kwacza\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "2",
+    "kod": "32-566",
+    "poczta": "Alwernia\r"
+  }
+]

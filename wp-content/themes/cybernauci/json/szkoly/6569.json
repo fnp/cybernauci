@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18579",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6569",
+    "miejscowosc": "Stara Przysieka Druga",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Stara Przysieka Druga",
+    "numer": "34",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  },
+  {
+    "id": "18580",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6569",
+    "miejscowosc": "Stara Przysieka Druga",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stara Przysieka Druga",
+    "numer": "34",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  }
+]

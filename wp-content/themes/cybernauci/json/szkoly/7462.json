@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21094",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7462",
+    "miejscowosc": "Zwiernik",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zwiernik",
+    "numer": "256",
+    "kod": "39-221",
+    "poczta": "\u0141\u0119ki G\u00f3rne\r"
+  },
+  {
+    "id": "21095",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7462",
+    "miejscowosc": "Zwiernik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zwiernik",
+    "numer": "256",
+    "kod": "39-221",
+    "poczta": "\u0141\u0119ki G\u00f3rne\r"
+  }
+]

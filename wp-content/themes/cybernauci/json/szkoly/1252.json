@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4007",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1252",
+    "miejscowosc": "Niedrzwica Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Lipowa",
+    "numer": "26",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  },
+  {
+    "id": "4008",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1252",
+    "miejscowosc": "Niedrzwica Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "26",
+    "kod": "24-220",
+    "poczta": "Niedrzwica Du\u017ca\r"
+  }
+]

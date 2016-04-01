@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6184",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2220",
+    "miejscowosc": "\u0141\u0105cko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141\u0105cko",
+    "numer": "26",
+    "kod": "33-300",
+    "poczta": "\u0141\u0105cko\r"
+  },
+  {
+    "id": "6185",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2220",
+    "miejscowosc": "\u0141\u0105cko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141\u0105cko",
+    "numer": "26",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  },
+  {
+    "id": "6186",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2220",
+    "miejscowosc": "\u0141\u0105cko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141\u0105cko",
+    "numer": "26",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  },
+  {
+    "id": "6178",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2220",
+    "miejscowosc": "\u0141\u0105cko",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Gimnazjum",
+    "ulica": "\u0141\u0105cko",
+    "numer": "284",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  },
+  {
+    "id": "6179",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2220",
+    "miejscowosc": "\u0141\u0105cko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105cko",
+    "numer": "284",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  }
+]

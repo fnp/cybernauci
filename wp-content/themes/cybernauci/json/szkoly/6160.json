@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17355",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6160",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wojs\u0142awice",
+    "numer": "118",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17356",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6160",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wojs\u0142awice",
+    "numer": "118",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17347",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6160",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Mickiewicza",
+    "ulica": "Wojs\u0142awice",
+    "numer": "105",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17357",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6160",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojs\u0142awice",
+    "numer": "118",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17358",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6160",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wojs\u0142awice",
+    "numer": "118",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  }
+]

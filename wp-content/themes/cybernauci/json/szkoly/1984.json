@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5711",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1984",
+    "miejscowosc": "Wrz\u0105sowice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa VICTORIA CENTER PRIMARY SCHOOL",
+    "ulica": "Spacerowa",
+    "numer": "8",
+    "kod": "32-040",
+    "poczta": "Wrz\u0105sowice\r"
+  },
+  {
+    "id": "5710",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1984",
+    "miejscowosc": "Wrz\u0105sowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "32-040",
+    "poczta": "Wrz\u0105sowice\r"
+  }
+]

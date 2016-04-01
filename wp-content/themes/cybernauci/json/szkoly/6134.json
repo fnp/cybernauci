@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17281",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6134",
+    "miejscowosc": "Galewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "M. Konopnickiej",
+    "numer": "22",
+    "kod": "98-405",
+    "poczta": "Galewice\r"
+  },
+  {
+    "id": "17277",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6134",
+    "miejscowosc": "Galewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marii Konopnickiej",
+    "numer": "22",
+    "kod": "98-405",
+    "poczta": "Galewice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8549",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3076",
+    "miejscowosc": "Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Widok",
+    "numer": "1",
+    "kod": "27-230",
+    "poczta": "Brody\r"
+  },
+  {
+    "id": "8553",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3076",
+    "miejscowosc": "Ruda",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Widok",
+    "numer": "1",
+    "kod": "27-230",
+    "poczta": "Brody\r"
+  }
+]

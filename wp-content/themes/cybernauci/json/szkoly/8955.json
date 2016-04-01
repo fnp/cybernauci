@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24474",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8955",
+    "miejscowosc": "Wsola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  },
+  {
+    "id": "24475",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8955",
+    "miejscowosc": "Wsola",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  }
+]

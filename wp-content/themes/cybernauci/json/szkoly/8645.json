@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23783",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8645",
+    "miejscowosc": "Rzeku\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-411",
+    "poczta": "Rzeku\u0144\r"
+  },
+  {
+    "id": "23779",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8645",
+    "miejscowosc": "Rzeku\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. J\u00f3zefa Bema",
+    "ulica": "Nowa",
+    "numer": "7",
+    "kod": "07-411",
+    "poczta": "Rzeku\u0144\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23505",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8518",
+    "miejscowosc": "Latowicz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Rynek",
+    "numer": "24",
+    "kod": "05-334",
+    "poczta": "Latowicz\r"
+  },
+  {
+    "id": "23506",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8518",
+    "miejscowosc": "Latowicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Rynek",
+    "numer": "24",
+    "kod": "05-334",
+    "poczta": "Latowicz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6107",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2177",
+    "miejscowosc": "K\u0105clowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "K\u0105clowa",
+    "numer": "280",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6108",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2177",
+    "miejscowosc": "K\u0105clowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Leszczyc-Przywary",
+    "ulica": "K\u0105clowa",
+    "numer": "280",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  }
+]

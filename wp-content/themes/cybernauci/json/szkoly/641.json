@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1449",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "641",
+    "miejscowosc": "Radostowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Dworcowa",
+    "numer": "56",
+    "kod": "43-262",
+    "poczta": "Radostowice\r"
+  },
+  {
+    "id": "1447",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "641",
+    "miejscowosc": "Radostowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Dworcowa",
+    "numer": "56",
+    "kod": "43-262",
+    "poczta": "Radostowice\r"
+  }
+]

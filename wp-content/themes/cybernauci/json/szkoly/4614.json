@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12971",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4614",
+    "miejscowosc": "Pasym",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "4",
+    "kod": "12-130",
+    "poczta": "Pasym\r"
+  },
+  {
+    "id": "12972",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4614",
+    "miejscowosc": "Pasym",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojciecha K\u0119trzy\u0144skiego ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "4",
+    "kod": "12-130",
+    "poczta": "Pasym\r"
+  }
+]

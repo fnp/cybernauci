@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21576",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7707",
+    "miejscowosc": "Kury\u0142\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kury\u0142\u00f3wka",
+    "numer": "431",
+    "kod": "37-303",
+    "poczta": "Kury\u0142\u00f3wka\r"
+  },
+  {
+    "id": "21577",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7707",
+    "miejscowosc": "Kury\u0142\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kury\u0142\u00f3wka",
+    "numer": "431",
+    "kod": "37-303",
+    "poczta": "Kury\u0142\u00f3wka\r"
+  }
+]

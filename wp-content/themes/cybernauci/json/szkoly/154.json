@@ -1,0 +1,50 @@
+[
+  {
+    "id": "316",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "154",
+    "miejscowosc": "\u0141ambinowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "48-316",
+    "poczta": "\u0141ambinowice\r"
+  },
+  {
+    "id": "314",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "154",
+    "miejscowosc": "\u0141ambinowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Obozowa",
+    "numer": "13",
+    "kod": "48-316",
+    "poczta": "\u0141ambinowice\r"
+  },
+  {
+    "id": "317",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "154",
+    "miejscowosc": "\u0141ambinowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "48-316",
+    "poczta": "\u0141ambinowice\r"
+  },
+  {
+    "id": "318",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "154",
+    "miejscowosc": "\u0141ambinowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "48-316",
+    "poczta": "\u0141ambinowice\r"
+  }
+]

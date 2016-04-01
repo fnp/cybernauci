@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5150",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1688",
+    "miejscowosc": "Rajbrot",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Rajbrot",
+    "numer": "362",
+    "kod": "32-725",
+    "poczta": "Rajbrot\r"
+  },
+  {
+    "id": "5151",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1688",
+    "miejscowosc": "Rajbrot",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Antoniny Prorokowej",
+    "ulica": "Rajbrot",
+    "numer": "362",
+    "kod": "32-725",
+    "poczta": "Rajbrot\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5117",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1670",
+    "miejscowosc": "Nieszkowice Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nieszkowice Wielkie",
+    "numer": "67",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5118",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1670",
+    "miejscowosc": "Nieszkowice Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Nieszkowice Wielkie",
+    "numer": "67",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  }
+]

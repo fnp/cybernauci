@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1251",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "569",
+    "miejscowosc": "Lubecko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipska",
+    "numer": "21",
+    "kod": "42-700",
+    "poczta": "Lubliniec\r"
+  },
+  {
+    "id": "1252",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "569",
+    "miejscowosc": "Lubecko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lipska",
+    "numer": "21",
+    "kod": "42-700",
+    "poczta": "Lubliniec\r"
+  }
+]

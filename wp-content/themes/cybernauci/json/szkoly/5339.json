@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15099",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5339",
+    "miejscowosc": "Zar\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Juliusza S\u0142owackiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "59-800",
+    "poczta": "Luba\u0144\r"
+  },
+  {
+    "id": "15100",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5339",
+    "miejscowosc": "Zar\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "59-800",
+    "poczta": "Luba\u0144\r"
+  }
+]

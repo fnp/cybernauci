@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23432",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8489",
+    "miejscowosc": "R\u00f3\u017can",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "06-230",
+    "poczta": "R\u00f3\u017can\r"
+  },
+  {
+    "id": "23434",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8489",
+    "miejscowosc": "R\u00f3\u017can",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "06-230",
+    "poczta": "R\u00f3\u017can\r"
+  },
+  {
+    "id": "23435",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8489",
+    "miejscowosc": "R\u00f3\u017can",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "34",
+    "kod": "06-230",
+    "poczta": "R\u00f3\u017can\r"
+  },
+  {
+    "id": "23436",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8489",
+    "miejscowosc": "R\u00f3\u017can",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Technikum",
+    "ulica": "Warszawska",
+    "numer": "34",
+    "kod": "06-230",
+    "poczta": "R\u00f3\u017can\r"
+  },
+  {
+    "id": "23437",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8489",
+    "miejscowosc": "R\u00f3\u017can",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Warszawska",
+    "numer": "434",
+    "kod": "06-230",
+    "poczta": "R\u00f3\u017can\r"
+  }
+]

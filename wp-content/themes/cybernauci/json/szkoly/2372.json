@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6535",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Pod Lasem",
+    "numer": "1",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6524",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4 ",
+    "ulica": "os. W\u0142adys\u0142awa \u0141okietka",
+    "numer": "10",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6537",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Skalska",
+    "numer": "18",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6519",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mariacka",
+    "numer": "28",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6536",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Adama Mickiewicza",
+    "ulica": "Pod Lasem",
+    "numer": "1",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6538",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Skalska",
+    "numer": "18",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6539",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2372",
+    "miejscowosc": "Wolbrom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Skalska",
+    "numer": "18",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  }
+]

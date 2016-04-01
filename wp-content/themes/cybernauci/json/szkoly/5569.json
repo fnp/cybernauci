@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15705",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5569",
+    "miejscowosc": "Siechnice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gen. Karola \u015awierczewskiego",
+    "numer": "40",
+    "kod": "55-011",
+    "poczta": "SIECHNICE\r"
+  },
+  {
+    "id": "15701",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5569",
+    "miejscowosc": "Siechnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "55-011",
+    "poczta": "Siechnice\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17287",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6137",
+    "miejscowosc": "Lutut\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Komisji Edukacji Narodowej",
+    "ulica": "Jana Paw\u0142a Stalskiego",
+    "numer": "5",
+    "kod": "98-360",
+    "poczta": "Lutut\u00f3w\r"
+  },
+  {
+    "id": "17282",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6137",
+    "miejscowosc": "Lutut\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wieruszowska",
+    "numer": "28a",
+    "kod": "98-360",
+    "poczta": "Lutut\u00f3w\r"
+  },
+  {
+    "id": "17284",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6137",
+    "miejscowosc": "Lutut\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "19",
+    "kod": "98-360",
+    "poczta": "Lutut\u00f3w\r"
+  },
+  {
+    "id": "17288",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6137",
+    "miejscowosc": "Lutut\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Rolniczych",
+    "ulica": "Klonowska",
+    "numer": "3",
+    "kod": "98-360",
+    "poczta": "Lutut\u00f3w\r"
+  },
+  {
+    "id": "17289",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6137",
+    "miejscowosc": "Lutut\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Rolniczych",
+    "ulica": "Klonowska",
+    "numer": "3",
+    "kod": "98-360",
+    "poczta": "Lutut\u00f3w\r"
+  }
+]

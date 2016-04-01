@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1679",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Janusza Korczaka",
+    "ulica": "Pokoju",
+    "numer": "29",
+    "kod": "43-140",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1684",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 ",
+    "ulica": "Go\u0142awiecka",
+    "numer": "36",
+    "kod": "43-144",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1680",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi Nr 2",
+    "ulica": "Ho\u0142dunowska",
+    "numer": "72",
+    "kod": "43-143",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1681",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pokoju",
+    "numer": "4",
+    "kod": "43-140",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1682",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Technikum im. Anielina Fabery",
+    "ulica": "Pokoju",
+    "numer": "4",
+    "kod": "43-140",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1683",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Powiatowy Zesp\u00f3\u0142 Szk\u00f3\u0142 Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pokoju",
+    "numer": "4",
+    "kod": "43-140",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1677",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Jana Chrystiana Ruberga",
+    "ulica": "Ho\u0142dunowska",
+    "numer": "13",
+    "kod": "43-143",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1685",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 z Oddzia\u0142em Przedszkolnym",
+    "ulica": "Go\u0142awiecka",
+    "numer": "36",
+    "kod": "43-144",
+    "poczta": "L\u0119dziny\r"
+  },
+  {
+    "id": "1678",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "723",
+    "miejscowosc": "L\u0119dziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi Nr 1 im. Karola Miarki",
+    "ulica": "Paderewskiego",
+    "numer": "5",
+    "kod": "43-140",
+    "poczta": "L\u0119dziny\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8326",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2984",
+    "miejscowosc": "Brz\u00f3stowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brz\u00f3stowa",
+    "numer": "200A",
+    "kod": "27-440",
+    "poczta": "\u0106miel\u00f3w\r"
+  },
+  {
+    "id": "8323",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2984",
+    "miejscowosc": "Brz\u00f3stowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Brz\u00f3stowa",
+    "numer": "200A",
+    "kod": "27-440",
+    "poczta": "\u0106miel\u00f3w\r"
+  }
+]

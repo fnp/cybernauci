@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23387",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8467",
+    "miejscowosc": "Plater\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "7",
+    "kod": "08-210",
+    "poczta": "Plater\u00f3w\r"
+  },
+  {
+    "id": "23388",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8467",
+    "miejscowosc": "Plater\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "7",
+    "kod": "08-210",
+    "poczta": "Plater\u00f3w\r"
+  }
+]

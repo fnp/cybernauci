@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22528",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8161",
+    "miejscowosc": "\u017byzn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "\u017byzn\u00f3w",
+    "numer": "124",
+    "kod": "38-100",
+    "poczta": "Strzy\u017c\u00f3w\r"
+  },
+  {
+    "id": "22529",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8161",
+    "miejscowosc": "\u017byzn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017byzn\u00f3w",
+    "numer": "124",
+    "kod": "38-100",
+    "poczta": "Strzy\u017c\u00f3w\r"
+  }
+]

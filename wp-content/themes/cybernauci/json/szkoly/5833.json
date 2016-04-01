@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16685",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5833",
+    "miejscowosc": "Dobro\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "W. Witosa",
+    "numer": "1A",
+    "kod": "95-082",
+    "poczta": "Dobro\u0144\r"
+  },
+  {
+    "id": "16686",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5833",
+    "miejscowosc": "Dobro\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "W. Witosa",
+    "numer": "1A",
+    "kod": "95-082",
+    "poczta": "Dobro\u0144\r"
+  },
+  {
+    "id": "16683",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5833",
+    "miejscowosc": "Dobro\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sienkiewicza",
+    "numer": "39",
+    "kod": "95-082",
+    "poczta": "Dobro\u00b5\r"
+  }
+]

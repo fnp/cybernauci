@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20944",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7400",
+    "miejscowosc": "Hacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Wy\u017cykowskiego",
+    "ulica": "Hacz\u00f3w",
+    "numer": "593",
+    "kod": "36-213",
+    "poczta": "Hacz\u00f3w\r"
+  },
+  {
+    "id": "20943",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7400",
+    "miejscowosc": "Hacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Hacz\u00f3w",
+    "numer": "593",
+    "kod": "36-213",
+    "poczta": "Hacz\u00f3w\r"
+  }
+]

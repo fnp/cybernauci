@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22342",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8074",
+    "miejscowosc": "Bukowsko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bukowsko",
+    "numer": "142",
+    "kod": "38-505",
+    "poczta": "Bukowsko\r"
+  },
+  {
+    "id": "22343",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8074",
+    "miejscowosc": "Bukowsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bukowsko",
+    "numer": "142",
+    "kod": "38-505",
+    "poczta": "Bukowsko\r"
+  }
+]

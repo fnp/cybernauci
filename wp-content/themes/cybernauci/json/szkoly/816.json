@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1987",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "816",
+    "miejscowosc": "\u015alemie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "34-323",
+    "poczta": "\u015alemie\u0144\r"
+  },
+  {
+    "id": "1988",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "816",
+    "miejscowosc": "\u015alemie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. Jana Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "34-323",
+    "poczta": "\u015alemie\u0144\r"
+  }
+]

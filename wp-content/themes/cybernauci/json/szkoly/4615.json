@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12976",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4615",
+    "miejscowosc": "Rozogi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "24 Stycznia",
+    "numer": "13",
+    "kod": "12-114",
+    "poczta": "Rozogi\r"
+  },
+  {
+    "id": "12977",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4615",
+    "miejscowosc": "Rozogi",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "24 Stycznia",
+    "numer": "13",
+    "kod": "12-114",
+    "poczta": "Rozogi\r"
+  },
+  {
+    "id": "12973",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4615",
+    "miejscowosc": "Rozogi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "24 Stycznia",
+    "numer": "13",
+    "kod": "12-114",
+    "poczta": "Rozogi\r"
+  },
+  {
+    "id": "12978",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4615",
+    "miejscowosc": "Rozogi",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "24 Stycznia",
+    "numer": "13",
+    "kod": "12-114",
+    "poczta": "Rozogi\r"
+  }
+]

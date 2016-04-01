@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12681",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4479",
+    "miejscowosc": "Jamielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "13-332",
+    "poczta": "Jamielnik\r"
+  },
+  {
+    "id": "12682",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4479",
+    "miejscowosc": "Jamielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "13-332",
+    "poczta": "Jamielnik\r"
+  }
+]

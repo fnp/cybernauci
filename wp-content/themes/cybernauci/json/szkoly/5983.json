@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16978",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5983",
+    "miejscowosc": "Sadkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Sadkowice",
+    "numer": "128",
+    "kod": "96-206",
+    "poczta": "Sadkowice\r"
+  },
+  {
+    "id": "16979",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5983",
+    "miejscowosc": "Sadkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusz Korczaka",
+    "ulica": "Sadkowice",
+    "numer": "128",
+    "kod": "96-206",
+    "poczta": "Sadkowice\r"
+  }
+]

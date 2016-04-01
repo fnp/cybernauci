@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7181",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2652",
+    "miejscowosc": "Giera\u0142towice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015aw. Marcina",
+    "numer": "7",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  },
+  {
+    "id": "7182",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2652",
+    "miejscowosc": "Giera\u0142towice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015aw. Marcina",
+    "numer": "7",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  }
+]

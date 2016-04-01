@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19544",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6999",
+    "miejscowosc": "Dobra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142uga Wie\u015b",
+    "numer": "28",
+    "kod": "62-730",
+    "poczta": "Dobra\r"
+  },
+  {
+    "id": "19545",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6999",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "D\u0142uga Wie\u015b",
+    "numer": "28",
+    "kod": "62-730",
+    "poczta": "Dobra\r"
+  }
+]

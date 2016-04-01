@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6430",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2337",
+    "miejscowosc": "Ponice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ponice",
+    "numer": "105",
+    "kod": "34-700",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  },
+  {
+    "id": "6431",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2337",
+    "miejscowosc": "Ponice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Antoniny Zachary-Wn\u0119kowej",
+    "ulica": "Ponice",
+    "numer": "105",
+    "kod": "34-700",
+    "poczta": "Rabka-Zdr\u00f3j\r"
+  }
+]

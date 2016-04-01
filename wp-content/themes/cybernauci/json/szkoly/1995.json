@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5733",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1995",
+    "miejscowosc": "Bolechowice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa HORYZONT",
+    "ulica": "Zielona",
+    "numer": "2a",
+    "kod": "32-082",
+    "poczta": "Bolechowice\r"
+  },
+  {
+    "id": "5729",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1995",
+    "miejscowosc": "Bolechowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "32-082",
+    "poczta": "Bolechowice\r"
+  }
+]

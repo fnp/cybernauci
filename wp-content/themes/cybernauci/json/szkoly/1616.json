@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4741",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1616",
+    "miejscowosc": "Krasnobr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lelewela",
+    "numer": "37",
+    "kod": "22-440",
+    "poczta": "Krasnobr\u00f3d\r"
+  },
+  {
+    "id": "4742",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1616",
+    "miejscowosc": "Krasnobr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lelewela",
+    "numer": "37",
+    "kod": "22-440",
+    "poczta": "Krasnobr\u00f3d\r"
+  },
+  {
+    "id": "4743",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1616",
+    "miejscowosc": "Krasnobr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lelewela",
+    "numer": "37",
+    "kod": "22-440",
+    "poczta": "Krasnobr\u00f3d\r"
+  }
+]

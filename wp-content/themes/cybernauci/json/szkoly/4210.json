@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11797",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4210",
+    "miejscowosc": "Red\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Red\u0142o",
+    "numer": "12",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11798",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4210",
+    "miejscowosc": "Red\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Red\u0142o",
+    "numer": "12",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  }
+]

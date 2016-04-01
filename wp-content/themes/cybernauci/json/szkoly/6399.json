@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18270",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6399",
+    "miejscowosc": "Rajsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rajsko",
+    "numer": "4",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18271",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6399",
+    "miejscowosc": "Rajsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rajsko",
+    "numer": "4",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  }
+]

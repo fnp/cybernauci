@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21451",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7647",
+    "miejscowosc": "G\u0142ojsce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  },
+  {
+    "id": "21450",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7647",
+    "miejscowosc": "G\u0142ojsce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  }
+]

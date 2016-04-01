@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12646",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4456",
+    "miejscowosc": "Nowe Miasto Lubawskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Filomat\u00f3w Nowomiejskich ",
+    "ulica": "Dzia\u0142y\u0144skich",
+    "numer": "14",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  },
+  {
+    "id": "12648",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4456",
+    "miejscowosc": "Nowe Miasto Lubawskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 im. C. K. Norwida",
+    "ulica": "3 Maja",
+    "numer": "24",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  },
+  {
+    "id": "12647",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4456",
+    "miejscowosc": "Nowe Miasto Lubawskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "3",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  },
+  {
+    "id": "12649",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4456",
+    "miejscowosc": "Nowe Miasto Lubawskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "33",
+    "kod": "13-300",
+    "poczta": "Nowe Miasto Lubawskie\r"
+  }
+]

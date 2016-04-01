@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21212",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7510",
+    "miejscowosc": "Nienowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Nienowice",
+    "numer": "122",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21211",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7510",
+    "miejscowosc": "Nienowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Nienowice",
+    "numer": "122",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  }
+]

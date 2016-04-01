@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19138",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6820",
+    "miejscowosc": "Buk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. p\u0142k. Kazimierza Zenktelera",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "8",
+    "kod": "64-320",
+    "poczta": "Buk\r"
+  },
+  {
+    "id": "19140",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6820",
+    "miejscowosc": "Buk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Dworcowa",
+    "numer": "44",
+    "kod": "64-320",
+    "poczta": "Buk\r"
+  },
+  {
+    "id": "19137",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6820",
+    "miejscowosc": "Buk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Bukowskich",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "64-320",
+    "poczta": "Buk\r"
+  },
+  {
+    "id": "19141",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6820",
+    "miejscowosc": "Buk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Dworcowa",
+    "numer": "44",
+    "kod": "64-320",
+    "poczta": "Buk\r"
+  }
+]

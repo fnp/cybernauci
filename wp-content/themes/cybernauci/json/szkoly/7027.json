@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19585",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7027",
+    "miejscowosc": "Wyszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Spo\u0142eczne",
+    "ulica": "Turkowska",
+    "numer": "1",
+    "kod": "62-710",
+    "poczta": "W\u0142adys\u0142aw\u00f3w\r"
+  },
+  {
+    "id": "19584",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7027",
+    "miejscowosc": "Wyszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Turkowska",
+    "numer": "1",
+    "kod": "62-710",
+    "poczta": "W\u0142adys\u0142aw\u00f3w\r"
+  }
+]

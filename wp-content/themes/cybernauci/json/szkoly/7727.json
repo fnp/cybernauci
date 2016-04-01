@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21627",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7727",
+    "miejscowosc": "Dachn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dachn\u00f3w",
+    "numer": "106",
+    "kod": "37-611",
+    "poczta": "Cieszan\u00f3w\r"
+  },
+  {
+    "id": "21620",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7727",
+    "miejscowosc": "Dachn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Moralewicz",
+    "ulica": "Dachn\u00f3w",
+    "numer": "106",
+    "kod": "37-611",
+    "poczta": "Cieszan\u00f3w\r"
+  }
+]

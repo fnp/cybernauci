@@ -1,0 +1,62 @@
+[
+  {
+    "id": "829",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "362",
+    "miejscowosc": "Kozy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "20",
+    "kod": "43-340",
+    "poczta": "Kozy\r"
+  },
+  {
+    "id": "830",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "362",
+    "miejscowosc": "Kozy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "pl. ks. Karola Kochaja",
+    "numer": "1",
+    "kod": "43-340",
+    "poczta": "Kozy\r"
+  },
+  {
+    "id": "828",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "362",
+    "miejscowosc": "Kozy",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. Kard. Karola Wojty\u0142y",
+    "ulica": "Sobieskiego",
+    "numer": "81a",
+    "kod": "43-340",
+    "poczta": "Kozy\r"
+  },
+  {
+    "id": "826",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "362",
+    "miejscowosc": "Kozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "pl. ks. K. Kochaja",
+    "numer": "1",
+    "kod": "43-340",
+    "poczta": "Kozy\r"
+  },
+  {
+    "id": "827",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "362",
+    "miejscowosc": "Kozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 Kozy",
+    "ulica": "Przecznia",
+    "numer": "1",
+    "kod": "43-340",
+    "poczta": "Kozy\r"
+  }
+]

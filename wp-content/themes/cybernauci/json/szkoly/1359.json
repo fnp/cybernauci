@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4209",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1359",
+    "miejscowosc": "D\u0119bowica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "D\u0119bowica",
+    "numer": "70",
+    "kod": "21-404",
+    "poczta": "Trzebiesz\u00f3w\r"
+  },
+  {
+    "id": "4205",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1359",
+    "miejscowosc": "D\u0119bowica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bowice",
+    "numer": "70",
+    "kod": "21-404",
+    "poczta": "Trzebiesz\u00f3w\r"
+  }
+]

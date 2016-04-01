@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16880",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5933",
+    "miejscowosc": "Gidle",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "97-540",
+    "poczta": "Gidle\r"
+  },
+  {
+    "id": "16881",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5933",
+    "miejscowosc": "Gidle",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "97-540",
+    "poczta": "Gidle\r"
+  }
+]

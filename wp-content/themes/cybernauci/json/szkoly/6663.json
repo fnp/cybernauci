@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18779",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6663",
+    "miejscowosc": "Ro\u017cnowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "42",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  },
+  {
+    "id": "18780",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6663",
+    "miejscowosc": "Ro\u017cnowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "42",
+    "kod": "64-600",
+    "poczta": "Oborniki\r"
+  }
+]

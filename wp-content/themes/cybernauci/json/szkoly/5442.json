@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15375",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5442",
+    "miejscowosc": "Kuropatnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15376",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5442",
+    "miejscowosc": "Kuropatnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  }
+]

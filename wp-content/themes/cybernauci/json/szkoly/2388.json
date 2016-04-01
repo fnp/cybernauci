@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6576",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Krakowska",
+    "numer": "18",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6583",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "9",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6581",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Marsza\u0142ka Pi\u0142sudskiego",
+    "numer": "1",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6584",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "9",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6582",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Brzozowa",
+    "numer": "7",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6577",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Krakowska",
+    "numer": "18",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  },
+  {
+    "id": "6578",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2388",
+    "miejscowosc": "Che\u0142mek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Krakowska",
+    "numer": "18",
+    "kod": "32-660",
+    "poczta": "Che\u0142mek\r"
+  }
+]

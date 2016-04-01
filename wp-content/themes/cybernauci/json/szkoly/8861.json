@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24306",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8861",
+    "miejscowosc": "Krzynow\u0142oga Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Krzynow\u0142oga Wielka",
+    "numer": "18",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24307",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8861",
+    "miejscowosc": "Krzynow\u0142oga Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krzynow\u0142oga Wielka",
+    "numer": "18",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  }
+]

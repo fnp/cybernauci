@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5689",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1973",
+    "miejscowosc": "Prandocin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Prandocin",
+    "numer": "64a",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5690",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1973",
+    "miejscowosc": "Prandocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Prandocin",
+    "numer": "64a",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  }
+]

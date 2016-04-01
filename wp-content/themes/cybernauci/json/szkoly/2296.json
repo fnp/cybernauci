@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6352",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stefana \u017beromskiego",
+    "ulica": "Zdrojowa",
+    "numer": "11",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  },
+  {
+    "id": "6350",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bia\u0142y Potok",
+    "numer": "1",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  },
+  {
+    "id": "6347",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Pieni\u0144ska",
+    "numer": "2",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  },
+  {
+    "id": "6351",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "gimnazjum",
+    "nazwa": "VI Gimnazjum Ma\u0142opolskiego Centrum Edukacji",
+    "ulica": "Zdrojowa",
+    "numer": "11",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  },
+  {
+    "id": "6353",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych i Plac\u00f3wek Technikum",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "4",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  },
+  {
+    "id": "6354",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2296",
+    "miejscowosc": "Kro\u015bcienko nad Dunajcem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych i Plac\u00f3wek Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "4",
+    "kod": "34-450",
+    "poczta": "Kro\u015bcienko nad Dunajcem\r"
+  }
+]

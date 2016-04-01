@@ -1,0 +1,26 @@
+[
+  {
+    "id": "486",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "242",
+    "miejscowosc": "Gracze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Niemodli\u0144ska",
+    "numer": "21",
+    "kod": "49-156",
+    "poczta": "Gracze\r"
+  },
+  {
+    "id": "485",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "242",
+    "miejscowosc": "Gracze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Niemodli\u0144ska",
+    "numer": "21",
+    "kod": "49-156",
+    "poczta": "Gracze\r"
+  }
+]

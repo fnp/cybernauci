@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8832",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3169",
+    "miejscowosc": "Lipnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "77-130",
+    "poczta": "Lipnica\r"
+  },
+  {
+    "id": "8833",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3169",
+    "miejscowosc": "Lipnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "77-130",
+    "poczta": "Lipnica\r"
+  }
+]

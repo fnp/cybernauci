@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16914",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5953",
+    "miejscowosc": "Przedb\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Piotrkowska",
+    "numer": "1",
+    "kod": "97-570",
+    "poczta": "Przedb\u00f3rz\r"
+  },
+  {
+    "id": "16912",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5953",
+    "miejscowosc": "Przedb\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mostowa",
+    "numer": "35 A",
+    "kod": "97-570",
+    "poczta": "Przedb\u00f3rz\r"
+  },
+  {
+    "id": "16913",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5953",
+    "miejscowosc": "Przedb\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mostowa",
+    "numer": "35A",
+    "kod": "97-570",
+    "poczta": "Przedb\u00f3rz\r"
+  },
+  {
+    "id": "16911",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5953",
+    "miejscowosc": "Przedb\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Logos\"",
+    "ulica": "Mostowa",
+    "numer": "35 A",
+    "kod": "97-570",
+    "poczta": "Przedb\u00f3rz\r"
+  },
+  {
+    "id": "16915",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5953",
+    "miejscowosc": "Przedb\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa CKZ Oddzia\u0142 Terenowy",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "54",
+    "kod": "97-570",
+    "poczta": "Przedb\u00f3rz\r"
+  }
+]

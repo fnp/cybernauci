@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12467",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4383",
+    "miejscowosc": "Pr\u0105tnica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Teofila Ruczy\u0144skiego",
+    "ulica": "Pr\u0105tnica",
+    "numer": "9",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12468",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4383",
+    "miejscowosc": "Pr\u0105tnica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Teofila Ruczy\u0144skiego ",
+    "ulica": "Pr\u0105tnica",
+    "numer": "9",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  }
+]

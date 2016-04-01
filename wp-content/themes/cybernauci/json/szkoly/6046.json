@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17111",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6046",
+    "miejscowosc": "Mak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum \u015awi\u0119tego Wojciecha",
+    "ulica": "Akacjowa",
+    "numer": "2",
+    "kod": "96-124",
+    "poczta": "Mak\u00f3w\r"
+  },
+  {
+    "id": "17105",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6046",
+    "miejscowosc": "Mak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ksi\u0119dza Jana Twardowskiego",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "4",
+    "kod": "96-124",
+    "poczta": "Mak\u00f3w\r"
+  }
+]

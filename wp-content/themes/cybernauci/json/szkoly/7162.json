@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20272",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7162",
+    "miejscowosc": "Chlebowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chlebowo",
+    "numer": "123",
+    "kod": "66-620",
+    "poczta": "Gubin\r"
+  },
+  {
+    "id": "20273",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7162",
+    "miejscowosc": "Chlebowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chlebowo",
+    "numer": "123",
+    "kod": "66-620",
+    "poczta": "Gubin\r"
+  }
+]

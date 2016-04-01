@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12852",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4555",
+    "miejscowosc": "\u0141ukta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Warszawska",
+    "numer": "17",
+    "kod": "14-105",
+    "poczta": "\u0141ukta\r"
+  },
+  {
+    "id": "12853",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4555",
+    "miejscowosc": "\u0141ukta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Warszawska",
+    "numer": "17",
+    "kod": "14-105",
+    "poczta": "\u0141ukta\r"
+  }
+]

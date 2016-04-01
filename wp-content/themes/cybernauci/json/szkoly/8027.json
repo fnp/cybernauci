@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22215",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8027",
+    "miejscowosc": "G\u0142og\u00f3w Ma\u0142opolski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22211",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8027",
+    "miejscowosc": "G\u0142og\u00f3w Ma\u0142opolski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Kard. S. Wyszy\u0144skiego",
+    "numer": "2",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22212",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8027",
+    "miejscowosc": "G\u0142og\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kard. S. Wyszy\u0144skiego",
+    "numer": "2",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22216",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8027",
+    "miejscowosc": "G\u0142og\u00f3w Ma\u0142opolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "36-060",
+    "poczta": "G\u0142og\u00f3w Ma\u0142opolski\r"
+  }
+]

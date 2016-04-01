@@ -1,0 +1,86 @@
+[
+  {
+    "id": "22602",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "5",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22601",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "7",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22600",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Pola",
+    "ulica": "Smolki",
+    "numer": "2",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22608",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "al. Jana Paw\u0142a II",
+    "numer": "18a",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22603",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22604",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  },
+  {
+    "id": "22609",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8200",
+    "miejscowosc": "Lesko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "al. Jana Paw\u0142a II",
+    "numer": "18a",
+    "kod": "38-600",
+    "poczta": "Lesko\r"
+  }
+]

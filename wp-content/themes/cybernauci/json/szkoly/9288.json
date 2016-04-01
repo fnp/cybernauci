@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25188",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9288",
+    "miejscowosc": "Lutocin",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum",
+    "ulica": "\u017beromskiego",
+    "numer": "2 B",
+    "kod": "09-317",
+    "poczta": "Lutocin\r"
+  },
+  {
+    "id": "25187",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9288",
+    "miejscowosc": "Lutocin",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "09-317",
+    "poczta": "Lutocin\r"
+  }
+]

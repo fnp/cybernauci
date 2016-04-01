@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1992",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "820",
+    "miejscowosc": "\u015awinna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "58",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  },
+  {
+    "id": "1998",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "820",
+    "miejscowosc": "\u015awinna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "58",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  }
+]

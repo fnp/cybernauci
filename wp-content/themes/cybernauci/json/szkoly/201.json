@@ -1,0 +1,26 @@
+[
+  {
+    "id": "418",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "201",
+    "miejscowosc": "Wierzbie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Wierzbie",
+    "numer": "44",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "421",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "201",
+    "miejscowosc": "Wierzbie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Wierzbie",
+    "numer": "44",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  }
+]

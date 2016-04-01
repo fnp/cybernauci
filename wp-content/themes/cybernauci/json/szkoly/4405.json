@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12520",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4405",
+    "miejscowosc": "Garbno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Garbno",
+    "numer": "36",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  },
+  {
+    "id": "12521",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4405",
+    "miejscowosc": "Garbno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Garbno",
+    "numer": "36",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  }
+]

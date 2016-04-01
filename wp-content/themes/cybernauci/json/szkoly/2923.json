@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8155",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2923",
+    "miejscowosc": "Grabk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Grabk\u00f3w",
+    "numer": "16c",
+    "kod": "26-200",
+    "poczta": "Ko\u0144skie\r"
+  },
+  {
+    "id": "8572",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2923",
+    "miejscowosc": "Grabk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Grabk\u00f3w",
+    "numer": "24",
+    "kod": "27-225",
+    "poczta": "Paw\u0142\u00f3w\r"
+  }
+]

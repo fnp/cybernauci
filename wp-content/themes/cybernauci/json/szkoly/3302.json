@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9104",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3302",
+    "miejscowosc": "Szopa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szopa",
+    "numer": "8",
+    "kod": "83-334",
+    "poczta": "Miechucino\r"
+  },
+  {
+    "id": "9102",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3302",
+    "miejscowosc": "Szopa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym \"Ma\u0142a Szko\u0142a\"",
+    "ulica": "Szopa",
+    "numer": "8",
+    "kod": "83-334",
+    "poczta": "Miechucino\r"
+  }
+]

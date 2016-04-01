@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24971",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9193",
+    "miejscowosc": "Jad\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Andrzeja Zamoyskiego",
+    "ulica": "11 Listopada",
+    "numer": "15",
+    "kod": "05-280",
+    "poczta": "Jad\u00f3w\r"
+  },
+  {
+    "id": "24968",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9193",
+    "miejscowosc": "Jad\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "11. Listopada",
+    "numer": "15\/17",
+    "kod": "05-280",
+    "poczta": "Jad\u00f3w\r"
+  }
+]

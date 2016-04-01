@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5206",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1721",
+    "miejscowosc": "\u017begocina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u017begocina",
+    "numer": "50",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5207",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1721",
+    "miejscowosc": "\u017begocina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "\u017begocina",
+    "numer": "50",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5202",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1721",
+    "miejscowosc": "\u017begocina",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u017begocina",
+    "numer": "50",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  },
+  {
+    "id": "5208",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1721",
+    "miejscowosc": "\u017begocina",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "\u017begocina",
+    "numer": "50",
+    "kod": "32-731",
+    "poczta": "\u017begocina\r"
+  }
+]

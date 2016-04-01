@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21851",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7842",
+    "miejscowosc": "Jarocin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Jarocin",
+    "numer": "116",
+    "kod": "37-405",
+    "poczta": "Jarocin\r"
+  },
+  {
+    "id": "21852",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7842",
+    "miejscowosc": "Jarocin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jarocin",
+    "numer": "116",
+    "kod": "37-405",
+    "poczta": "Jarocin\r"
+  }
+]

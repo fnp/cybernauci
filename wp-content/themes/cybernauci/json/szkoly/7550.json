@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21298",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7550",
+    "miejscowosc": "Opacie",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Opacie",
+    "numer": "",
+    "kod": "38-211",
+    "poczta": "Jas\u0142o\r"
+  },
+  {
+    "id": "21297",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7550",
+    "miejscowosc": "Opacie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Opacie",
+    "numer": "",
+    "kod": "38-211",
+    "poczta": "Jas\u0142o\r"
+  }
+]

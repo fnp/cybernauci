@@ -1,0 +1,38 @@
+[
+  {
+    "id": "910",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "381",
+    "miejscowosc": "Chybie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bielska",
+    "numer": "80",
+    "kod": "43-520",
+    "poczta": "Chybie\r"
+  },
+  {
+    "id": "908",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "381",
+    "miejscowosc": "Chybie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Bielska",
+    "numer": "80",
+    "kod": "43-520",
+    "poczta": "Chybie\r"
+  },
+  {
+    "id": "909",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "381",
+    "miejscowosc": "Chybie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "43-520",
+    "poczta": "Chybie\r"
+  }
+]

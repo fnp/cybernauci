@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24128",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8798",
+    "miejscowosc": "Stare Proboszczewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Floria\u0144ska",
+    "numer": "4",
+    "kod": "09-412",
+    "poczta": "Stare Proboszczewice\r"
+  },
+  {
+    "id": "24129",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8798",
+    "miejscowosc": "Stare Proboszczewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Floria\u0144ska",
+    "numer": "4",
+    "kod": "09-412",
+    "poczta": "Stare Proboszczewice\r"
+  }
+]

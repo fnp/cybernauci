@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16366",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5686",
+    "miejscowosc": "Szczyt",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szczyt",
+    "numer": "",
+    "kod": "99-311",
+    "poczta": "Bedlno\r"
+  },
+  {
+    "id": "16367",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5686",
+    "miejscowosc": "Szczyt",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szczyt",
+    "numer": "",
+    "kod": "99-311",
+    "poczta": "Bedlno\r"
+  }
+]

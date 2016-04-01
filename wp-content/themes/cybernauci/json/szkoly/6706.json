@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18893",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6706",
+    "miejscowosc": "Chynowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chynowa",
+    "numer": "70a",
+    "kod": "63-421",
+    "poczta": "Przygodzice\r"
+  },
+  {
+    "id": "18894",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6706",
+    "miejscowosc": "Chynowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Chynowa",
+    "numer": "70a",
+    "kod": "63-421",
+    "poczta": "Przygodzice\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20583",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7302",
+    "miejscowosc": "I\u0142owa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Piaskowa",
+    "numer": "2a",
+    "kod": "68-120",
+    "poczta": "I\u0142owa\r"
+  },
+  {
+    "id": "20580",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7302",
+    "miejscowosc": "I\u0142owa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piaskowa",
+    "numer": "2",
+    "kod": "68-120",
+    "poczta": "I\u0142owa\r"
+  },
+  {
+    "id": "20584",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7302",
+    "miejscowosc": "I\u0142owa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pa\u0142acowa",
+    "numer": "1",
+    "kod": "68-120",
+    "poczta": "I\u0142owa\r"
+  },
+  {
+    "id": "20585",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7302",
+    "miejscowosc": "I\u0142owa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pa\u0142acowa",
+    "numer": "1",
+    "kod": "68-120",
+    "poczta": "I\u0142owa\r"
+  }
+]

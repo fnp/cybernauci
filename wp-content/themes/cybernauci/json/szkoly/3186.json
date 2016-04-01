@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8862",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3186",
+    "miejscowosc": "Kramarzyny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pomorska",
+    "numer": "56",
+    "kod": "77-133",
+    "poczta": "Tuchomie\r"
+  },
+  {
+    "id": "8863",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3186",
+    "miejscowosc": "Kramarzyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pomorska",
+    "numer": "56",
+    "kod": "77-133",
+    "poczta": "Tuchomie\r"
+  }
+]

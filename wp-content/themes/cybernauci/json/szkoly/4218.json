@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11826",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4218",
+    "miejscowosc": "Cz\u0142opa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Plac Zwyci\u0119stwa",
+    "numer": "6",
+    "kod": "78-630",
+    "poczta": "Cz\u0142opa\r"
+  },
+  {
+    "id": "11825",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4218",
+    "miejscowosc": "Cz\u0142opa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Plac Zwyci\u0119stwa",
+    "numer": "6",
+    "kod": "78-630",
+    "poczta": "Cz\u0142opa\r"
+  }
+]

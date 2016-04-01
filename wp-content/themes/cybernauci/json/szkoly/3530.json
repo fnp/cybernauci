@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9617",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3530",
+    "miejscowosc": "Borzechowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. O. Flawiana S\u0142omi\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "3A",
+    "kod": "83-224",
+    "poczta": "Borzechowo\r"
+  },
+  {
+    "id": "9618",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3530",
+    "miejscowosc": "Borzechowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. O. Flawiana S\u0142omi\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "3A",
+    "kod": "83-224",
+    "poczta": "Borzechowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13564",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4839",
+    "miejscowosc": "Rojewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rojewo",
+    "numer": "111",
+    "kod": "88-111",
+    "poczta": "Rojewo\r"
+  },
+  {
+    "id": "13565",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4839",
+    "miejscowosc": "Rojewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rojewo",
+    "numer": "131",
+    "kod": "88-111",
+    "poczta": "Rojewo\r"
+  }
+]

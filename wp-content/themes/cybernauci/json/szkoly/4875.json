@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13634",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4875",
+    "miejscowosc": "D\u0105browa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "88-306",
+    "poczta": "D\u0105browa\r"
+  },
+  {
+    "id": "13635",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4875",
+    "miejscowosc": "D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "88-306",
+    "poczta": "D\u0105browa\r"
+  }
+]

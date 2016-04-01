@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11802",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4213",
+    "miejscowosc": "S\u0142awoborze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Lipowa",
+    "numer": "19",
+    "kod": "78-314",
+    "poczta": "S\u0142awoborze\r"
+  },
+  {
+    "id": "11803",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4213",
+    "miejscowosc": "S\u0142awoborze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Lipowa",
+    "numer": "19",
+    "kod": "78-314",
+    "poczta": "S\u0142awoborze\r"
+  }
+]

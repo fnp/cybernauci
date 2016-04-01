@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13302",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4713",
+    "miejscowosc": "Kotomierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Koronowska",
+    "numer": "2",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  },
+  {
+    "id": "13303",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4713",
+    "miejscowosc": "Kotomierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Koronowska",
+    "numer": "2",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  }
+]

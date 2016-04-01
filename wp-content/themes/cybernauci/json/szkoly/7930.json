@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22019",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7930",
+    "miejscowosc": "Krzeczowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krzeczowice",
+    "numer": "56a",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22020",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7930",
+    "miejscowosc": "Krzeczowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Poleg\u0142ych w Strajku w 1936 r.",
+    "ulica": "Krzeczowice",
+    "numer": "56a",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  }
+]

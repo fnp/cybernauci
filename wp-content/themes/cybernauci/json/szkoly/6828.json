@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19164",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6828",
+    "miejscowosc": "Sk\u00f3rzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ignacego Jana Paderewskiego ",
+    "ulica": "ks. St. Kozierowskiego",
+    "numer": "1",
+    "kod": "60-185",
+    "poczta": "Pozna\u0144\r"
+  },
+  {
+    "id": "19158",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6828",
+    "miejscowosc": "Sk\u00f3rzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Fryderyka Chopina ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "70",
+    "kod": "60-185",
+    "poczta": "Pozna\u0144\r"
+  }
+]

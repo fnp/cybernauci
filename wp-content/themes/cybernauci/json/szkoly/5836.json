@@ -1,0 +1,50 @@
+[
+  {
+    "id": "16689",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5836",
+    "miejscowosc": "Ksawer\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zachodnia",
+    "numer": "33",
+    "kod": "95-054",
+    "poczta": "Ksawer\u00f3w\r"
+  },
+  {
+    "id": "16688",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5836",
+    "miejscowosc": "Ksawer\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zachodnia",
+    "numer": "33",
+    "kod": "95-054",
+    "poczta": "Ksawer\u00f3w\r"
+  },
+  {
+    "id": "16690",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5836",
+    "miejscowosc": "Ksawer\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "95-054",
+    "poczta": "Ksawer\u00f3w\r"
+  },
+  {
+    "id": "16691",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5836",
+    "miejscowosc": "Ksawer\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "95-054",
+    "poczta": "Ksawer\u00f3w\r"
+  }
+]

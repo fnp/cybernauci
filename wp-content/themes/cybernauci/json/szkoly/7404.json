@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20951",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7404",
+    "miejscowosc": "Trze\u015bni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Trze\u015bni\u00f3w",
+    "numer": "107",
+    "kod": "36-212",
+    "poczta": "Trze\u015bni\u00f3w\r"
+  },
+  {
+    "id": "20952",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7404",
+    "miejscowosc": "Trze\u015bni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trze\u015bni\u00f3w",
+    "numer": "107",
+    "kod": "36-212",
+    "poczta": "Trze\u015bni\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5525",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1868",
+    "miejscowosc": "Moszczenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. abp. Leona Wa\u0142\u0119gi",
+    "ulica": "Moszczenica",
+    "numer": "940",
+    "kod": "38-321",
+    "poczta": "Moszczenica\r"
+  },
+  {
+    "id": "5524",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1868",
+    "miejscowosc": "Moszczenica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bronis\u0142awa Wanata ",
+    "ulica": "Moszczenica",
+    "numer": "250",
+    "kod": "38-321",
+    "poczta": "Moszczenica\r"
+  }
+]

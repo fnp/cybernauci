@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22551",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8176",
+    "miejscowosc": "Wola Baranowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  },
+  {
+    "id": "22552",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8176",
+    "miejscowosc": "Wola Baranowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  }
+]

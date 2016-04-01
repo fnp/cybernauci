@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5691",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1974",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "21a",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5881",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1974",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "131",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  },
+  {
+    "id": "5692",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1974",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "21a",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5882",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1974",
+    "miejscowosc": "Nied\u017awied\u017a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nied\u017awied\u017a",
+    "numer": "131",
+    "kod": "34-735",
+    "poczta": "Nied\u017awied\u017a\r"
+  }
+]

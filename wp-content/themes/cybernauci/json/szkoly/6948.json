@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19415",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6948",
+    "miejscowosc": "Otorowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "3",
+    "kod": "64-551",
+    "poczta": "Otorowo\r"
+  },
+  {
+    "id": "19416",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6948",
+    "miejscowosc": "Otorowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "3",
+    "kod": "64-551",
+    "poczta": "Otorowo\r"
+  }
+]

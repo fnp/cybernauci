@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4302",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1418",
+    "miejscowosc": "Podedw\u00f3rze",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Podedw\u00f3rze",
+    "numer": "96",
+    "kod": "21-222",
+    "poczta": "Podedw\u00f3rze\r"
+  },
+  {
+    "id": "4303",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1418",
+    "miejscowosc": "Podedw\u00f3rze",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Podedw\u00f3rze",
+    "numer": "96",
+    "kod": "21-222",
+    "poczta": "Podedw\u00f3rze\r"
+  }
+]

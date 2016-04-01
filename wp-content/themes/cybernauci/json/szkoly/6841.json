@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19178",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6841",
+    "miejscowosc": "Kostrzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Rady Europy",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "28 A",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  },
+  {
+    "id": "19179",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6841",
+    "miejscowosc": "Kostrzyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "28a",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  },
+  {
+    "id": "19177",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6841",
+    "miejscowosc": "Kostrzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ewarysta Estkowskiego",
+    "ulica": "Piasta",
+    "numer": "1",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  }
+]

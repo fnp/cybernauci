@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10528",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3753",
+    "miejscowosc": "Turo\u015bl",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "28A",
+    "kod": "18-525",
+    "poczta": "Turo\u015bl\r"
+  },
+  {
+    "id": "10527",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3753",
+    "miejscowosc": "Turo\u015bl",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi im. ks. Jana Twardowskiego",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "28",
+    "kod": "18-525",
+    "poczta": "Turo\u015bl\r"
+  }
+]

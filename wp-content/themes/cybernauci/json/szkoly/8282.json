@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22991",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8282",
+    "miejscowosc": "Stary Pilczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stary Pilczyn",
+    "numer": "36",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  },
+  {
+    "id": "22992",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8282",
+    "miejscowosc": "Stary Pilczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stary Pilczyn",
+    "numer": "36",
+    "kod": "08-450",
+    "poczta": "\u0141askarzew\r"
+  }
+]

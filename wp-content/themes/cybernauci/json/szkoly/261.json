@@ -1,0 +1,26 @@
+[
+  {
+    "id": "522",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "261",
+    "miejscowosc": "Przywory",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Szko\u0142a Filialna",
+    "ulica": "Krapkowicka",
+    "numer": "14",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  },
+  {
+    "id": "524",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "261",
+    "miejscowosc": "Przywory",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krapkowicka",
+    "numer": "4",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  }
+]

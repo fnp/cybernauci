@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1113",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "491",
+    "miejscowosc": "Przyszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "44-178",
+    "poczta": "Pani\u00f3wki\r"
+  },
+  {
+    "id": "1114",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "491",
+    "miejscowosc": "Przyszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Miarki ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "44-178",
+    "poczta": "Pani\u00f3wki\r"
+  }
+]

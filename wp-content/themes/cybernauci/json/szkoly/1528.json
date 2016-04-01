@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4582",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1528",
+    "miejscowosc": "Rybczewice Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rybczewice Pierwsze",
+    "numer": "119A",
+    "kod": "21-065",
+    "poczta": "Rybczewice\r"
+  },
+  {
+    "id": "4583",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1528",
+    "miejscowosc": "Rybczewice Pierwsze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rybczewice Pierwsze",
+    "numer": "119A",
+    "kod": "21-065",
+    "poczta": "Rybczewice\r"
+  },
+  {
+    "id": "4584",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1528",
+    "miejscowosc": "Rybczewice Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rybczewice Pierwsze",
+    "numer": "119A",
+    "kod": "21-065",
+    "poczta": "Rybczewice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1348",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "594",
+    "miejscowosc": "Mys\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Myszkowska",
+    "numer": "22",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "1346",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "594",
+    "miejscowosc": "Mys\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Myszkowska",
+    "numer": "22",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  }
+]

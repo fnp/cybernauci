@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4407",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1444",
+    "miejscowosc": "G\u00f3ra Pu\u0142awska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ogrodowa",
+    "numer": "18",
+    "kod": "24-100",
+    "poczta": "G\u00f3ra Pu\u0142awska\r"
+  },
+  {
+    "id": "4402",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1444",
+    "miejscowosc": "G\u00f3ra Pu\u0142awska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "18",
+    "kod": "24-100",
+    "poczta": "Pu\u0142awy\r"
+  }
+]

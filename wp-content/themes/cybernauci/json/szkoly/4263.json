@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12191",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4263",
+    "miejscowosc": "S\u0119popol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wojska Polskiego",
+    "numer": "8",
+    "kod": "11-210",
+    "poczta": "S\u0119popol\r"
+  },
+  {
+    "id": "12192",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4263",
+    "miejscowosc": "S\u0119popol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "8",
+    "kod": "11-210",
+    "poczta": "S\u0119popol\r"
+  }
+]

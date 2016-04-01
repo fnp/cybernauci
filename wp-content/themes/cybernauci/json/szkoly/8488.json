@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23430",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8488",
+    "miejscowosc": "Szczuki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szczuki",
+    "numer": "18",
+    "kod": "06-211",
+    "poczta": "P\u0142oniawy - Bramura\r"
+  },
+  {
+    "id": "23431",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8488",
+    "miejscowosc": "Szczuki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szczuki",
+    "numer": "18",
+    "kod": "06-211",
+    "poczta": "P\u0142oniawy - Bramura\r"
+  }
+]

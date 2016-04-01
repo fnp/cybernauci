@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24921",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9184",
+    "miejscowosc": "Krypy",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Krypy",
+    "numer": "59",
+    "kod": "07-111",
+    "poczta": "Wierzbno\r"
+  },
+  {
+    "id": "24920",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9184",
+    "miejscowosc": "Krypy",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Krypy",
+    "numer": "59",
+    "kod": "07-111",
+    "poczta": "Wierzbno\r"
+  }
+]

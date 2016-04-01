@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20384",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7206",
+    "miejscowosc": "Cybinka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "69-108",
+    "poczta": "Cybinka\r"
+  },
+  {
+    "id": "20385",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7206",
+    "miejscowosc": "Cybinka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego ",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "69-108",
+    "poczta": "Cybinka\r"
+  }
+]

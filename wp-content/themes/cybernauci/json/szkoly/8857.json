@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24301",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8857",
+    "miejscowosc": "Chorzele",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24297",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8857",
+    "miejscowosc": "Chorzele",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24300",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8857",
+    "miejscowosc": "Chorzele",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4b",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24302",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8857",
+    "miejscowosc": "Chorzele",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Obs\u0142ugi Turystycznej",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  },
+  {
+    "id": "24303",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8857",
+    "miejscowosc": "Chorzele",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "06-330",
+    "poczta": "Chorzele\r"
+  }
+]

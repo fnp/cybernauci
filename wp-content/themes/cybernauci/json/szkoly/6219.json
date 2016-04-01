@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17881",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6219",
+    "miejscowosc": "Lipia G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Lipia G\u00f3ra",
+    "numer": "64",
+    "kod": "64-820",
+    "poczta": "Szamocin\r"
+  },
+  {
+    "id": "17882",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6219",
+    "miejscowosc": "Lipia G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Lipia G\u00f3ra",
+    "numer": "64",
+    "kod": "64-820",
+    "poczta": "Szamocin\r"
+  }
+]

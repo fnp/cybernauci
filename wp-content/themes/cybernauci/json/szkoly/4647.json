@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13033",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4647",
+    "miejscowosc": "Radzieje",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "W\u0119gorzewska",
+    "numer": "16",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  },
+  {
+    "id": "13034",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4647",
+    "miejscowosc": "Radzieje",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u0119gorzewska",
+    "numer": "16",
+    "kod": "11-600",
+    "poczta": "W\u0119gorzewo\r"
+  }
+]

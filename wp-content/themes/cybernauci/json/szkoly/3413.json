@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9377",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3413",
+    "miejscowosc": "Marz\u0119cino",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "82-100",
+    "poczta": "Nowy Dw\u00f3r Gdanski\r"
+  },
+  {
+    "id": "9378",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3413",
+    "miejscowosc": "Marz\u0119cino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "82-100",
+    "poczta": "Nowy Dw\u00f3r Gdanski\r"
+  }
+]

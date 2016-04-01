@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10831",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3911",
+    "miejscowosc": "Szumowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "18-305",
+    "poczta": "Szumowo\r"
+  },
+  {
+    "id": "10832",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3911",
+    "miejscowosc": "Szumowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "18-305",
+    "poczta": "Szumowo\r"
+  }
+]

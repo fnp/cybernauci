@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1676",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "722",
+    "miejscowosc": "Imielin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Wojciecha Sapety",
+    "numer": "8",
+    "kod": "41-407",
+    "poczta": "Imielin\r"
+  },
+  {
+    "id": "1675",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "722",
+    "miejscowosc": "Imielin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Karola Miarki",
+    "numer": "7",
+    "kod": "41-407",
+    "poczta": "Imielin\r"
+  }
+]

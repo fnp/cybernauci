@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20526",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7278",
+    "miejscowosc": "Kargowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-120",
+    "poczta": "Kargowa\r"
+  },
+  {
+    "id": "20527",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7278",
+    "miejscowosc": "Kargowa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Marchlewskiego",
+    "numer": "45",
+    "kod": "66-120",
+    "poczta": "Kargowa\r"
+  }
+]

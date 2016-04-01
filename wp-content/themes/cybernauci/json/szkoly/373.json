@@ -1,0 +1,38 @@
+[
+  {
+    "id": "849",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "373",
+    "miejscowosc": "Bystra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Juliana Fa\u0142ata",
+    "ulica": "Szczyrkowska",
+    "numer": "2",
+    "kod": "43-360",
+    "poczta": "Bystra\r"
+  },
+  {
+    "id": "848",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "373",
+    "miejscowosc": "Bystra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Klimczoka",
+    "numer": "68",
+    "kod": "43-360",
+    "poczta": "Bystra\r"
+  },
+  {
+    "id": "1973",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "373",
+    "miejscowosc": "Bystra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bystra",
+    "numer": "81",
+    "kod": "34-382",
+    "poczta": "Bystra\r"
+  }
+]

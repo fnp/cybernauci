@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5839",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2048",
+    "miejscowosc": "Rupni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rupni\u00f3w",
+    "numer": "206",
+    "kod": "34-652",
+    "poczta": "Nowe Rybie\r"
+  },
+  {
+    "id": "5840",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2048",
+    "miejscowosc": "Rupni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Rupni\u00f3w",
+    "numer": "206",
+    "kod": "34-652",
+    "poczta": "Nowe Rybie\r"
+  }
+]

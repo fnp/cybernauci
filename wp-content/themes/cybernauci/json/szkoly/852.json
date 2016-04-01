@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3290",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "852",
+    "miejscowosc": "Terespol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1",
+    "ulica": "Sienkiewicza",
+    "numer": "27",
+    "kod": "21-550",
+    "poczta": "Terespol\r"
+  },
+  {
+    "id": "3287",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "852",
+    "miejscowosc": "Terespol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "88",
+    "kod": "21-550",
+    "poczta": "Terespol\r"
+  },
+  {
+    "id": "3288",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "852",
+    "miejscowosc": "Terespol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wojska Polskiego",
+    "numer": "88",
+    "kod": "21-550",
+    "poczta": "Terespol\r"
+  },
+  {
+    "id": "3291",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "852",
+    "miejscowosc": "Terespol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Sienkiewicza",
+    "numer": "27",
+    "kod": "21-550",
+    "poczta": "Terespol\r"
+  },
+  {
+    "id": "3289",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "852",
+    "miejscowosc": "Terespol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "88",
+    "kod": "21-550",
+    "poczta": "Terespol\r"
+  }
+]

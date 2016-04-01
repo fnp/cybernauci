@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12656",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4463",
+    "miejscowosc": "Bielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bielice",
+    "numer": "120",
+    "kod": "13-330",
+    "poczta": "Krotoszyny\r"
+  },
+  {
+    "id": "12657",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4463",
+    "miejscowosc": "Bielice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Narod\u00f3w Zjednoczonej Europy ",
+    "ulica": "Bielice",
+    "numer": "120",
+    "kod": "13-330",
+    "poczta": "Krotoszyny\r"
+  },
+  {
+    "id": "12658",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4463",
+    "miejscowosc": "Bielice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Bielice",
+    "numer": "120",
+    "kod": "13-330",
+    "poczta": "Krotoszyny\r"
+  }
+]

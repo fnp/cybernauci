@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1066",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "475",
+    "miejscowosc": "Zr\u0119bice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "143",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  },
+  {
+    "id": "1067",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "475",
+    "miejscowosc": "Zr\u0119bice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "143",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  }
+]

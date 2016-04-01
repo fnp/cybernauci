@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1021",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "443",
+    "miejscowosc": "Hutki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Hutki",
+    "numer": "161",
+    "kod": "42-274",
+    "poczta": "Konopiska\r"
+  },
+  {
+    "id": "1022",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "443",
+    "miejscowosc": "Hutki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Hutki",
+    "numer": "161",
+    "kod": "42-274",
+    "poczta": "Konopiska\r"
+  }
+]

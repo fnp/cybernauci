@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24793",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9131",
+    "miejscowosc": "Oro\u0144sko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "26-505",
+    "poczta": "Oro\u0144sko\r"
+  },
+  {
+    "id": "24795",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9131",
+    "miejscowosc": "Oro\u0144sko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "26-505",
+    "poczta": "Oro\u0144sko\r"
+  }
+]

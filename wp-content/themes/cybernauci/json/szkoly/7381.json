@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21771",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7381",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3rki",
+    "numer": "29",
+    "kod": "39-306",
+    "poczta": "G\u00f3rki\r"
+  },
+  {
+    "id": "21772",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7381",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "G\u00f3rki",
+    "numer": "29",
+    "kod": "39-306",
+    "poczta": "G\u00f3rki\r"
+  },
+  {
+    "id": "20912",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7381",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "G\u00f3rki",
+    "numer": "78A",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20913",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7381",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3rki",
+    "numer": "78A",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

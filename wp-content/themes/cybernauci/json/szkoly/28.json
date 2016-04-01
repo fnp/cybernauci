@@ -1,0 +1,26 @@
+[
+  {
+    "id": "58",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "28",
+    "miejscowosc": "Branice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "8",
+    "kod": "48-140",
+    "poczta": "Branice\r"
+  },
+  {
+    "id": "59",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "28",
+    "miejscowosc": "Branice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "48-140",
+    "poczta": "Branice\r"
+  }
+]

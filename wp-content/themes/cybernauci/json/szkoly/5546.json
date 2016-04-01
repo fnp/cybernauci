@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15662",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5546",
+    "miejscowosc": "Brzezia \u0141\u0105ka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "55-093",
+    "poczta": "Kie\u0142cz\u00f3w\r"
+  },
+  {
+    "id": "15663",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5546",
+    "miejscowosc": "Brzezia \u0141\u0105ka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "55-093",
+    "poczta": "Kie\u0142cz\u00f3w\r"
+  }
+]

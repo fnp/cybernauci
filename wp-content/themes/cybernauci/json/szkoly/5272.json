@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14965",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. dr. J\u00f3zefa Matuszewskiego",
+    "ulica": "Zdrojowa",
+    "numer": "34",
+    "kod": "57-320",
+    "poczta": "Polanica-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14966",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia \"EDUKATOR\"",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "15",
+    "kod": "57-320",
+    "poczta": "Polanica Zdr\u00f3j\r"
+  },
+  {
+    "id": "14963",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wojska Polskiego",
+    "numer": "23",
+    "kod": "57-320",
+    "poczta": "Polanica-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14964",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia \"EDUKATOR\"",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "13",
+    "kod": "57-320",
+    "poczta": "Polanica Zdr\u00f3j\r"
+  },
+  {
+    "id": "14967",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojska Polskiego",
+    "numer": "23",
+    "kod": "57-350",
+    "poczta": "Polanica-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14968",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5272",
+    "miejscowosc": "Polanica-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Wojska Polskiego",
+    "numer": "23",
+    "kod": "57-320",
+    "poczta": "Polanica-Zdr\u00f3j\r"
+  }
+]

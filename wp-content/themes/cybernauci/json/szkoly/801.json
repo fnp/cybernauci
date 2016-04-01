@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1955",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "801",
+    "miejscowosc": "Pietrzykowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "120",
+    "kod": "34-326",
+    "poczta": "Pietrzykowice\r"
+  },
+  {
+    "id": "1956",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "801",
+    "miejscowosc": "Pietrzykowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "120",
+    "kod": "34-326",
+    "poczta": "Pietrzykowice\r"
+  }
+]

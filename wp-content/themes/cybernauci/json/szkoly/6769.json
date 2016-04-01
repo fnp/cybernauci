@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19038",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6769",
+    "miejscowosc": "Brzostowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Brzostowo",
+    "numer": "69",
+    "kod": "89-350",
+    "poczta": "Miasteczko Kraje\u0144skie\r"
+  },
+  {
+    "id": "19039",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6769",
+    "miejscowosc": "Brzostowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Brzostowo",
+    "numer": "69",
+    "kod": "89-350",
+    "poczta": "Miasteczko Kraje\u0144skie\r"
+  }
+]

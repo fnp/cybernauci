@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22291",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8060",
+    "miejscowosc": "Trzebownisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Trzebownisko",
+    "numer": "968",
+    "kod": "36-001",
+    "poczta": "Trzebownisko\r"
+  },
+  {
+    "id": "22289",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8060",
+    "miejscowosc": "Trzebownisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Trzebownisko",
+    "numer": "965",
+    "kod": "36-001",
+    "poczta": "Trzebownisko\r"
+  }
+]

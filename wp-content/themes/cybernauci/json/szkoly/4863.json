@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13614",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4863",
+    "miejscowosc": "Wichowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Wichowo",
+    "numer": "5a",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  },
+  {
+    "id": "13615",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4863",
+    "miejscowosc": "Wichowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Wichowo",
+    "numer": "5a",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  }
+]

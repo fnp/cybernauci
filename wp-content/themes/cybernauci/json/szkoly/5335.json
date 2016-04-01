@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15092",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5335",
+    "miejscowosc": "Olszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum Publiczne",
+    "ulica": "Wolno\u015bci",
+    "numer": "17",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  },
+  {
+    "id": "15090",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5335",
+    "miejscowosc": "Olszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "\u015awierczewskiego",
+    "numer": "20",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  },
+  {
+    "id": "15091",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5335",
+    "miejscowosc": "Olszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Wolno\u015bci",
+    "numer": "17",
+    "kod": "59-830",
+    "poczta": "Olszyna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10754",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3873",
+    "miejscowosc": "Wi\u017cajny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Korpusu Ochrony Pogranicza",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "16-407",
+    "poczta": "Wi\u017cajny\r"
+  },
+  {
+    "id": "10753",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3873",
+    "miejscowosc": "Wi\u017cajny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Sejne\u0144ska",
+    "numer": "43",
+    "kod": "16-407",
+    "poczta": "Wi\u017cajny\r"
+  }
+]

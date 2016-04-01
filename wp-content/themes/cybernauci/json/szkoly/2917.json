@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8146",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2917",
+    "miejscowosc": "Fa\u0142k\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Glinianki",
+    "numer": "47",
+    "kod": "26-260",
+    "poczta": "Fa\u0142k\u00f3w\r"
+  },
+  {
+    "id": "8148",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2917",
+    "miejscowosc": "Fa\u0142k\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Glinianki",
+    "numer": "47",
+    "kod": "26-260",
+    "poczta": "Fa\u0142k\u00f3w\r"
+  }
+]

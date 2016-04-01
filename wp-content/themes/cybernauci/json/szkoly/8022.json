@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22203",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8022",
+    "miejscowosc": "Paw\u0142okoma",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Paw\u0142okoma",
+    "numer": "24",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22204",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8022",
+    "miejscowosc": "Paw\u0142okoma",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Paw\u0142okoma",
+    "numer": "24",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  }
+]

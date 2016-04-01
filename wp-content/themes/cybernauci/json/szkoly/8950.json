@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24467",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8950",
+    "miejscowosc": "Jedli\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  },
+  {
+    "id": "24471",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8950",
+    "miejscowosc": "Jedli\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Biskupa Piotra Go\u0142\u0119biowskiego",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "26-660",
+    "poczta": "Jedli\u0144sk\r"
+  }
+]

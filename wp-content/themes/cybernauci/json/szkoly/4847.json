@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13588",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4847",
+    "miejscowosc": "Bobrowniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ziemi Dobrzy\u0144skiej",
+    "ulica": "Ko\u015bcielna",
+    "numer": "5",
+    "kod": "87-617",
+    "poczta": "Bobrowniki\r"
+  },
+  {
+    "id": "13586",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4847",
+    "miejscowosc": "Bobrowniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y",
+    "ulica": "Wyzwolenia",
+    "numer": "16",
+    "kod": "87-617",
+    "poczta": "Bobrowniki\r"
+  }
+]

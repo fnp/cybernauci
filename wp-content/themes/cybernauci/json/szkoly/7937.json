@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22034",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7937",
+    "miejscowosc": "Mirocin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Przeworsk",
+    "numer": "384",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22035",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7937",
+    "miejscowosc": "Mirocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Przeworsk",
+    "numer": "384",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

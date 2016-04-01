@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22259",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8052",
+    "miejscowosc": "W\u00f3lka Nied\u017awiedzka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "W\u00f3lka Nied\u017awiedzka",
+    "numer": "400",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22260",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8052",
+    "miejscowosc": "W\u00f3lka Nied\u017awiedzka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u00f3lka Nied\u017awiedzka",
+    "numer": "400",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  }
+]

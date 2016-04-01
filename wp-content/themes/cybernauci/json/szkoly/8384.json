@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23201",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8384",
+    "miejscowosc": "Jurki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Jurki",
+    "numer": "32",
+    "kod": "05-652",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "23202",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8384",
+    "miejscowosc": "Jurki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jurki",
+    "numer": "32",
+    "kod": "05-652",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "23203",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8384",
+    "miejscowosc": "Jurki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "Jurki",
+    "numer": "32",
+    "kod": "05-652",
+    "poczta": "Pniewy\r"
+  }
+]

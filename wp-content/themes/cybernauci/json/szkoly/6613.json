@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18669",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6613",
+    "miejscowosc": "Rydzyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Su\u0142kowskich",
+    "ulica": "Wolno\u015bci",
+    "numer": "14A",
+    "kod": "64-130",
+    "poczta": "Rydzyna\r"
+  },
+  {
+    "id": "18668",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6613",
+    "miejscowosc": "Rydzyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zamkowa",
+    "numer": "3",
+    "kod": "64-130",
+    "poczta": "Rydzyna\r"
+  }
+]

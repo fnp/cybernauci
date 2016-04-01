@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9763",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3562",
+    "miejscowosc": "Strzepcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 w Zespole",
+    "ulica": "Derdowskiego",
+    "numer": "3",
+    "kod": "84-223",
+    "poczta": "Linia\r"
+  },
+  {
+    "id": "9762",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3562",
+    "miejscowosc": "Strzepcz",
+    "typ": "podstawowa",
+    "nazwa": "O\u015brodek Edukacji Kaszubskiej Szko\u0142a Podstawowa",
+    "ulica": "G\u0142odnica",
+    "numer": "24",
+    "kod": "84-222",
+    "poczta": "Strzepcz\r"
+  },
+  {
+    "id": "9764",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3562",
+    "miejscowosc": "Strzepcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Derdowskiego",
+    "numer": "3",
+    "kod": "84-223",
+    "poczta": "Linia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16349",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5676",
+    "miejscowosc": "Wa\u0142y B",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Mieczys\u0142aw\u00f3w",
+    "numer": "2",
+    "kod": "99-314",
+    "poczta": "Krzy\u017can\u00f3w\r"
+  },
+  {
+    "id": "16350",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5676",
+    "miejscowosc": "Wa\u0142y B",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Mieczys\u0142aw\u00f3w",
+    "numer": "2",
+    "kod": "99-314",
+    "poczta": "Krzy\u017can\u00f3w\r"
+  }
+]

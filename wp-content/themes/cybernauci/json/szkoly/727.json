@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1703",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Kornela Makuszy\u0144skiego",
+    "numer": "17",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1706",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "podstawowa",
+    "nazwa": "Sportowa Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi Nr 2",
+    "ulica": "mjr P. Rogozina",
+    "numer": "55",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1707",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "gimnazjum",
+    "nazwa": "Sportowe Gimnazjum Nr 2",
+    "ulica": "mjr P. Rogozina",
+    "numer": "55",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1701",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Rymera",
+    "numer": "170",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1702",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 ",
+    "ulica": "Wiosny Lud\u00f3w",
+    "numer": "287",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1704",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Orkana",
+    "numer": "23",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  },
+  {
+    "id": "1705",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "727",
+    "miejscowosc": "Radlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Orkana",
+    "numer": "23",
+    "kod": "44-310",
+    "poczta": "Radlin\r"
+  }
+]

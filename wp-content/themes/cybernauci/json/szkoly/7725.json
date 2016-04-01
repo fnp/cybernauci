@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21608",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7725",
+    "miejscowosc": "Sarzyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "Sarzyna",
+    "numer": "1265",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  },
+  {
+    "id": "21609",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7725",
+    "miejscowosc": "Sarzyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Stefana Kard. Wyszy\u0144skiego",
+    "ulica": "Sarzyna",
+    "numer": "1265",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  }
+]

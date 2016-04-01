@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24078",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8766",
+    "miejscowosc": "Bulkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-454",
+    "poczta": "Bulkowo\r"
+  },
+  {
+    "id": "24079",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8766",
+    "miejscowosc": "Bulkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-454",
+    "poczta": "Bulkowo\r"
+  }
+]

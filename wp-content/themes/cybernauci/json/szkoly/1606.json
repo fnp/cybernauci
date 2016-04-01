@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4721",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1606",
+    "miejscowosc": "Wyryki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wyryki",
+    "numer": "208",
+    "kod": "22-205",
+    "poczta": "Wyryki\r"
+  },
+  {
+    "id": "4722",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1606",
+    "miejscowosc": "Wyryki",
+    "typ": "podstawowa",
+    "nazwa": "Sze\u015bcioletnia Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wyryki",
+    "numer": "208",
+    "kod": "22-205",
+    "poczta": "Wyryki\r"
+  }
+]

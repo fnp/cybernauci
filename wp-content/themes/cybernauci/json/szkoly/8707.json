@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23923",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8707",
+    "miejscowosc": "Ko\u0142biel",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5A",
+    "kod": "05-340",
+    "poczta": "Ko\u0142biel\r"
+  },
+  {
+    "id": "23922",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8707",
+    "miejscowosc": "Ko\u0142biel",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "05-340",
+    "poczta": "Ko\u0142biel\r"
+  }
+]

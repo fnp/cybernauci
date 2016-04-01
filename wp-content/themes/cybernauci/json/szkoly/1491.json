@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4477",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1491",
+    "miejscowosc": "Suchowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Suchowola",
+    "numer": "133",
+    "kod": "21-310",
+    "poczta": "Wohy\u0144\r"
+  },
+  {
+    "id": "4723",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1491",
+    "miejscowosc": "Suchowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "Suchowola",
+    "numer": "238",
+    "kod": "22-442",
+    "poczta": "Adam\u00f3w\r"
+  },
+  {
+    "id": "4478",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1491",
+    "miejscowosc": "Suchowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Suchowola",
+    "numer": "133",
+    "kod": "21-310",
+    "poczta": "Wohy\u0144\r"
+  },
+  {
+    "id": "4724",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1491",
+    "miejscowosc": "Suchowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142",
+    "ulica": "Suchowola",
+    "numer": "238",
+    "kod": "22-442",
+    "poczta": "Adam\u00f3w\r"
+  }
+]

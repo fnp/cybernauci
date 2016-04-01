@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3315",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "869",
+    "miejscowosc": "Kode\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "27",
+    "kod": "21-509",
+    "poczta": "Kode\u0144\r"
+  },
+  {
+    "id": "3316",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "869",
+    "miejscowosc": "Kode\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "27",
+    "kod": "21-509",
+    "poczta": "Kode\u0144\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5468",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Grodzka",
+    "numer": "22",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5470",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Ks. Jana Bochniewicza",
+    "numer": "2",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5458",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "2",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5469",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Grodzka",
+    "numer": "22",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5471",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Ks. Jana Bochniewicza",
+    "numer": "2",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5472",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "11",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5473",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1836",
+    "miejscowosc": "Biecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "11",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  }
+]

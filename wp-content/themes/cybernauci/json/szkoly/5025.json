@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13960",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5025",
+    "miejscowosc": "Czernikowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "87-640",
+    "poczta": "Czernikowo\r"
+  },
+  {
+    "id": "13961",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5025",
+    "miejscowosc": "Czernikowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "87-640",
+    "poczta": "Czernikowo\r"
+  },
+  {
+    "id": "13956",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5025",
+    "miejscowosc": "Czernikowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. K. Baczy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "87-640",
+    "poczta": "Czernikowo\r"
+  }
+]

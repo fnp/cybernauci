@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5899",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2077",
+    "miejscowosc": "Miech\u00f3w-Charsznica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. A. Malaty\u0144skiego",
+    "ulica": "Miech\u00f3w-Charsznica",
+    "numer": "14",
+    "kod": "32-250",
+    "poczta": "Charsznica\r"
+  },
+  {
+    "id": "5900",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2077",
+    "miejscowosc": "Miech\u00f3w-Charsznica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Malaty\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "32-250",
+    "poczta": "Charsznica\r"
+  }
+]

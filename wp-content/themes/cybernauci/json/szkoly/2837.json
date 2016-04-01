@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8014",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2837",
+    "miejscowosc": "Daleszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Sienkiewicza",
+    "numer": "11B",
+    "kod": "26-021",
+    "poczta": "Daleszyce\r"
+  },
+  {
+    "id": "8015",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2837",
+    "miejscowosc": "Daleszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. p\u0142k. Mariana So\u0142tysika \"Barabasza\"",
+    "ulica": "Sienkiewicza",
+    "numer": "11",
+    "kod": "26-021",
+    "poczta": "Daleszyce\r"
+  }
+]

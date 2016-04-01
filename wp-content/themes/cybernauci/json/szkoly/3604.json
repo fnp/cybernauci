@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9824",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3604",
+    "miejscowosc": "Czernin",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 2 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Donimirskich",
+    "numer": "19",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9825",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3604",
+    "miejscowosc": "Czernin",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Rodziny Donimirskich z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Donimirskich",
+    "numer": "19",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  }
+]

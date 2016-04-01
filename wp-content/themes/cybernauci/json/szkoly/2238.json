@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6209",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2238",
+    "miejscowosc": "Powro\u017anik",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum",
+    "ulica": "Powro\u017cnik",
+    "numer": "42",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  },
+  {
+    "id": "6210",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2238",
+    "miejscowosc": "Powro\u017anik",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Powro\u017cnik",
+    "numer": "42",
+    "kod": "33-370",
+    "poczta": "Muszyna\r"
+  }
+]

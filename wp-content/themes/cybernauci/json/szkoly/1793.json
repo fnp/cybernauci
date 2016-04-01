@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5358",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1793",
+    "miejscowosc": "P\u0142oki",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-543",
+    "poczta": "My\u015blachowice\r"
+  },
+  {
+    "id": "5368",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1793",
+    "miejscowosc": "P\u0142oki",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-543",
+    "poczta": "My\u015blachowice\r"
+  }
+]

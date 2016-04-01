@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11506",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4098",
+    "miejscowosc": "Smolnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Smolnica",
+    "numer": "51",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11496",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4098",
+    "miejscowosc": "Smolnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Smolnica",
+    "numer": "20",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11505",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4098",
+    "miejscowosc": "Smolnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Smolnica",
+    "numer": "51",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "11507",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4098",
+    "miejscowosc": "Smolnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Smolnica",
+    "numer": "51",
+    "kod": "74-400",
+    "poczta": "D\u0119bno\r"
+  }
+]

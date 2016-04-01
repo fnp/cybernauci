@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10612",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3803",
+    "miejscowosc": "Krasnopol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "63",
+    "kod": "16-503",
+    "poczta": "Krasnopol\r"
+  },
+  {
+    "id": "10613",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3803",
+    "miejscowosc": "Krasnopol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polskiego",
+    "numer": "63",
+    "kod": "16-503",
+    "poczta": "Krasnopol\r"
+  }
+]

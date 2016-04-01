@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24096",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8777",
+    "miejscowosc": "Dobrzyk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Obro\u0144c\u00f3w Dobrzykowa",
+    "numer": "65",
+    "kod": "09-522",
+    "poczta": "Dobrzyk\u00f3w\r"
+  },
+  {
+    "id": "24094",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8777",
+    "miejscowosc": "Dobrzyk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Dobrzykowa z 1939 r.",
+    "ulica": "Obro\u0144c\u00f3w Dobrzykowa",
+    "numer": "65",
+    "kod": "09-530",
+    "poczta": "G\u0105bin\r"
+  }
+]

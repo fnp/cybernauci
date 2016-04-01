@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16360",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5682",
+    "miejscowosc": "\u0141ani\u0119ta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. Jana Paw\u0142a II",
+    "ulica": "\u0141ani\u0119ta",
+    "numer": "13a",
+    "kod": "99-306",
+    "poczta": "\u0141ani\u0119ta\r"
+  },
+  {
+    "id": "16359",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5682",
+    "miejscowosc": "\u0141ani\u0119ta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "\u0141ani\u0119ta",
+    "numer": "13a",
+    "kod": "99-306",
+    "poczta": "\u0141ani\u0119ta\r"
+  }
+]

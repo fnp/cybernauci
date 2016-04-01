@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8245",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2855",
+    "miejscowosc": "Lasocin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Rynek",
+    "numer": "17",
+    "kod": "27-530",
+    "poczta": "O\u017car\u00f3w\r"
+  },
+  {
+    "id": "8043",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2855",
+    "miejscowosc": "Lasocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "Lasocin",
+    "numer": "4",
+    "kod": "26-070",
+    "poczta": "\u0141opuszno\r"
+  }
+]

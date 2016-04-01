@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9476",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3460",
+    "miejscowosc": "Niepogl\u0119dzie",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Niepogl\u0119dzie",
+    "numer": "19",
+    "kod": "76-248",
+    "poczta": "D\u0119bnica Kaszubska\r"
+  },
+  {
+    "id": "9478",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3460",
+    "miejscowosc": "Niepogl\u0119dzie",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Niepogl\u0119dzie",
+    "numer": "19",
+    "kod": "76-248",
+    "poczta": "D\u0119bnica Kaszubska\r"
+  }
+]

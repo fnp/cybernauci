@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11456",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4076",
+    "miejscowosc": "Dargi\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Mi\u0142osza",
+    "ulica": "Dargi\u0144",
+    "numer": "47",
+    "kod": "76-020",
+    "poczta": "Bobolice\r"
+  },
+  {
+    "id": "11457",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4076",
+    "miejscowosc": "Dargi\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dargi\u0144",
+    "numer": "47",
+    "kod": "76-020",
+    "poczta": "Bobolice\r"
+  }
+]

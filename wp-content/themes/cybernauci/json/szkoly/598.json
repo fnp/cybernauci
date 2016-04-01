@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1354",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "598",
+    "miejscowosc": "Pi\u0144czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015al\u0105ska",
+    "numer": "3",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  },
+  {
+    "id": "1355",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "598",
+    "miejscowosc": "Pi\u0144czyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015al\u0105ska",
+    "numer": "3",
+    "kod": "42-350",
+    "poczta": "Kozieg\u0142owy\r"
+  }
+]

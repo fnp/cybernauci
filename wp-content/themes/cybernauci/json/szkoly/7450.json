@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21071",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Jod\u0142owa",
+    "numer": "5",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  },
+  {
+    "id": "21069",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jod\u0142owa",
+    "numer": "888",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  },
+  {
+    "id": "21072",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ks. Franciszka Blachnickiego",
+    "ulica": "Jod\u0142owa",
+    "numer": "5",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  },
+  {
+    "id": "21066",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej",
+    "ulica": "Jod\u0142owa",
+    "numer": "347",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  },
+  {
+    "id": "21067",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Jod\u0142owa",
+    "numer": "798",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  },
+  {
+    "id": "21070",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7450",
+    "miejscowosc": "Jod\u0142owa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jod\u0142owa",
+    "numer": "888",
+    "kod": "39-225",
+    "poczta": "Jod\u0142owa\r"
+  }
+]

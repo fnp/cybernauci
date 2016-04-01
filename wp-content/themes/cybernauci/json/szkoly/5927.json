@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16841",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5927",
+    "miejscowosc": "Zadzim",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Zadzim",
+    "numer": "38",
+    "kod": "99-232",
+    "poczta": "Zadzim\r"
+  },
+  {
+    "id": "16842",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5927",
+    "miejscowosc": "Zadzim",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zadzim",
+    "numer": "38",
+    "kod": "99-232",
+    "poczta": "Zadzim\r"
+  }
+]

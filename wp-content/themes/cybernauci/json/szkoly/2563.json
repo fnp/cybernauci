@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6935",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2563",
+    "miejscowosc": "Biadoliny Rad\u0142owskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Biadoliny Rad\u0142owskie",
+    "numer": "135",
+    "kod": "32-828",
+    "poczta": "Biadoliny Szlacheckie\r"
+  },
+  {
+    "id": "6936",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2563",
+    "miejscowosc": "Biadoliny Rad\u0142owskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biadoliny Rad\u0142owskie",
+    "numer": "135",
+    "kod": "32-828",
+    "poczta": "Biadoliny Szlacheckie\r"
+  }
+]

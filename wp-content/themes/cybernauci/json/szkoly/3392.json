@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9313",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3392",
+    "miejscowosc": "\u0141ebie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Jana Paw\u0142a II Gimnazjum",
+    "ulica": "\u0141ebie\u0144",
+    "numer": "93a",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  },
+  {
+    "id": "9314",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3392",
+    "miejscowosc": "\u0141ebie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Jana Paw\u0142a II Szko\u0142a Podstawowa",
+    "ulica": "\u0141ebie\u0144",
+    "numer": "93a",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  }
+]

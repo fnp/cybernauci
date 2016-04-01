@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18365",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6446",
+    "miejscowosc": "Babiak",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pozna\u0144ska",
+    "numer": "22a",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  },
+  {
+    "id": "18366",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6446",
+    "miejscowosc": "Babiak",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "22a",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  },
+  {
+    "id": "18364",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6446",
+    "miejscowosc": "Babiak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Pozna\u0144ska",
+    "numer": "5",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6742",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2460",
+    "miejscowosc": "Juszczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Juszczyn",
+    "numer": "268",
+    "kod": "34-231",
+    "poczta": "Juszczyn\r"
+  },
+  {
+    "id": "6743",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2460",
+    "miejscowosc": "Juszczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Juszczyn",
+    "numer": "268",
+    "kod": "34-231",
+    "poczta": "Juszczyn\r"
+  }
+]

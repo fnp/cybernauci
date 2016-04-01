@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3887",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1177",
+    "miejscowosc": "Lis\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechaniczne",
+    "ulica": "Lis\u00f3w",
+    "numer": "155a",
+    "kod": "21-100",
+    "poczta": "Lubart\u00f3w\r"
+  },
+  {
+    "id": "3888",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1177",
+    "miejscowosc": "Lis\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lis\u00f3w",
+    "numer": "155a",
+    "kod": "21-100",
+    "poczta": "Lubart\u00f3w\r"
+  }
+]

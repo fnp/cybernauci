@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12728",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4498",
+    "miejscowosc": "Lamkowo",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Lamkowo",
+    "numer": "29",
+    "kod": "11-010",
+    "poczta": "Barczewo\r"
+  },
+  {
+    "id": "12729",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4498",
+    "miejscowosc": "Lamkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum im. Gazety Olszty\u0144skiej",
+    "ulica": "Lamkowo",
+    "numer": "29",
+    "kod": "11-010",
+    "poczta": "Barczewo\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22263",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8054",
+    "miejscowosc": "Nienad\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Nienad\u00f3wka",
+    "numer": "686",
+    "kod": "36-052",
+    "poczta": "Nienad\u00f3wka\r"
+  },
+  {
+    "id": "22264",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8054",
+    "miejscowosc": "Nienad\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Henryka Sienkiewicza",
+    "ulica": "Nienad\u00f3wka",
+    "numer": "686",
+    "kod": "36-052",
+    "poczta": "Nienad\u00f3wka\r"
+  },
+  {
+    "id": "22265",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8054",
+    "miejscowosc": "Nienad\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 Publiczne Gimnazjum",
+    "ulica": "Nienad\u00f3wka",
+    "numer": "788",
+    "kod": "36-052",
+    "poczta": "Nienad\u00f3wka\r"
+  },
+  {
+    "id": "22266",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8054",
+    "miejscowosc": "Nienad\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Nienad\u00f3wka",
+    "numer": "788",
+    "kod": "36-052",
+    "poczta": "Nienad\u00f3wka\r"
+  }
+]

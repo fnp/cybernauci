@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15501",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5480",
+    "miejscowosc": "Mokrzesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mokrzesz\u00f3w",
+    "numer": "23A",
+    "kod": "58-160",
+    "poczta": "\u015awiebodzice\r"
+  },
+  {
+    "id": "15507",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5480",
+    "miejscowosc": "Mokrzesz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego",
+    "ulica": "Mokrzesz\u00f3w",
+    "numer": "111",
+    "kod": "58-160",
+    "poczta": "\u015awiebodzice\r"
+  },
+  {
+    "id": "15508",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5480",
+    "miejscowosc": "Mokrzesz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna w Zespole Szk\u00f3\u0142 Centrum Kszta\u0142cenia Rolniczego",
+    "ulica": "Mokrzesz\u00f3w",
+    "numer": "111",
+    "kod": "58-160",
+    "poczta": "\u015awiebodzice\r"
+  }
+]

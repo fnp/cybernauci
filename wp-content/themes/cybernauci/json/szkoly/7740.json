@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21642",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7740",
+    "miejscowosc": "\u0141ukawica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141ukawica",
+    "numer": "9",
+    "kod": "37-610",
+    "poczta": "Narol\r"
+  },
+  {
+    "id": "21643",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7740",
+    "miejscowosc": "\u0141ukawica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141ukawica",
+    "numer": "9",
+    "kod": "37-610",
+    "poczta": "Narol\r"
+  }
+]

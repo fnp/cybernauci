@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18482",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6520",
+    "miejscowosc": "Rychwa\u0142",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im Jana Paw\u0142a II ",
+    "ulica": "Koni\u0144ska",
+    "numer": "46a",
+    "kod": "62-570",
+    "poczta": "Rychwa\u0142\r"
+  },
+  {
+    "id": "18483",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6520",
+    "miejscowosc": "Rychwa\u0142",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. A. Fiedlera ",
+    "ulica": "Koni\u0144ska",
+    "numer": "46a",
+    "kod": "62-570",
+    "poczta": "Rychwa\u0142\r"
+  }
+]

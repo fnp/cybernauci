@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22394",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8107",
+    "miejscowosc": "Zarszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bieszczadzka",
+    "numer": "19",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  },
+  {
+    "id": "22392",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8107",
+    "miejscowosc": "Zarszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bieszczadzka",
+    "numer": "19",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  }
+]

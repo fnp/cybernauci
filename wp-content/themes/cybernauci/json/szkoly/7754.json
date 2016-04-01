@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21680",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7754",
+    "miejscowosc": "Budy \u0141a\u0144cuckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. H. Sienkiewicza",
+    "ulica": "Budy \u0141a\u0144cuckie",
+    "numer": "333",
+    "kod": "37-114",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "21682",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7754",
+    "miejscowosc": "Budy \u0141a\u0144cuckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Budy \u0141a\u0144cuckie",
+    "numer": "68",
+    "kod": "37-114",
+    "poczta": "Bia\u0142obrzegi\r"
+  }
+]

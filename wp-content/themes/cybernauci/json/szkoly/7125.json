@@ -1,0 +1,98 @@
+[
+  {
+    "id": "20201",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "7",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20202",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Miko\u0142aja Reja",
+    "numer": "32 A",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20203",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kopernika",
+    "numer": "4a",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20204",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "2",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20199",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Banaszaka",
+    "numer": "1",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20200",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Henryka Sienkiewicza",
+    "numer": "6",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20205",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "2",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  },
+  {
+    "id": "20206",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7125",
+    "miejscowosc": "Kostrzyn nad Odr\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "2",
+    "kod": "66-470",
+    "poczta": "Kostrzyn nad Odr\u0105\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6572",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  },
+  {
+    "id": "6566",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Lipowa",
+    "numer": "3",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  },
+  {
+    "id": "6573",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  },
+  {
+    "id": "6574",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "3",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  },
+  {
+    "id": "6567",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  },
+  {
+    "id": "6568",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2383",
+    "miejscowosc": "Brzeszcze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "1",
+    "kod": "32-620",
+    "poczta": "Brzeszcze\r"
+  }
+]

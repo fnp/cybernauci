@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5545",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1883",
+    "miejscowosc": "Brunary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brunary",
+    "numer": "50",
+    "kod": "38-315",
+    "poczta": "U\u015bcie Gorlickie\r"
+  },
+  {
+    "id": "5546",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1883",
+    "miejscowosc": "Brunary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kr\u00f3la Kazimierza Wielkiego",
+    "ulica": "Brunary",
+    "numer": "50",
+    "kod": "38-315",
+    "poczta": "U\u015bcie Gorlickie\r"
+  }
+]

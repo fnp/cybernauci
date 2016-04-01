@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4017",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1259",
+    "miejscowosc": "Krasienin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Krasienin",
+    "numer": "39",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  },
+  {
+    "id": "4018",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1259",
+    "miejscowosc": "Krasienin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krasienin",
+    "numer": "39",
+    "kod": "21-025",
+    "poczta": "Niemce\r"
+  }
+]

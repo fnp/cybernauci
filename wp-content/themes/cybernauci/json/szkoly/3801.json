@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10611",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3801",
+    "miejscowosc": "Giby",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ofiar Ob\u0142awy Augustowskiej",
+    "ulica": "Giby",
+    "numer": "75",
+    "kod": "16-506",
+    "poczta": "Giby\r"
+  },
+  {
+    "id": "10609",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3801",
+    "miejscowosc": "Giby",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Giby",
+    "numer": "75",
+    "kod": "16-506",
+    "poczta": "Giby\r"
+  }
+]

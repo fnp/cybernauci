@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24186",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8823",
+    "miejscowosc": "Nacpolsk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "09-162",
+    "poczta": "Nacpolsk\r"
+  },
+  {
+    "id": "24187",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8823",
+    "miejscowosc": "Nacpolsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "09-162",
+    "poczta": "Nacpolsk\r"
+  }
+]

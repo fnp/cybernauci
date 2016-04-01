@@ -1,0 +1,74 @@
+[
+  {
+    "id": "17063",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "3-go Maja",
+    "numer": "29",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17058",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Leona Kruczkowskiego",
+    "ulica": "3 Maja",
+    "numer": "29",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17056",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. p\u0142k. pil. Stanis\u0142awa Skar\u017cy\u0144skiego",
+    "ulica": "\u015awi\u0119toja\u0144ska",
+    "numer": "5",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17062",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. pil. Stanis\u0142awa Skar\u017cy\u0144skiego",
+    "ulica": "Ko\u017ami\u0144ska",
+    "numer": "11",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17064",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "3-go Maja",
+    "numer": "29",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  },
+  {
+    "id": "17059",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6020",
+    "miejscowosc": "Warta",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "3 Maja",
+    "numer": "29",
+    "kod": "98-290",
+    "poczta": "Warta\r"
+  }
+]

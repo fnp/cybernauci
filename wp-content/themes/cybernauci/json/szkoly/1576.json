@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4672",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1576",
+    "miejscowosc": "Szarowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Szarowola",
+    "numer": "126",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  },
+  {
+    "id": "4673",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1576",
+    "miejscowosc": "Szarowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szarowola",
+    "numer": "126",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  }
+]

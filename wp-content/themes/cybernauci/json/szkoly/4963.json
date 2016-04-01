@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13818",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4963",
+    "miejscowosc": "Kamie\u0144 Kraje\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0119pole\u0144ska",
+    "numer": "3",
+    "kod": "89-430",
+    "poczta": "Kamie\u0144 Kraje\u0144ski\r"
+  },
+  {
+    "id": "13819",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4963",
+    "miejscowosc": "Kamie\u0144 Kraje\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I Armii Wojska Polskiego",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "89-430",
+    "poczta": "Kamie\u0144 Kraje\u0144ski\r"
+  }
+]

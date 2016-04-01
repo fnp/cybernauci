@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24719",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9094",
+    "miejscowosc": "Szyman\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "25",
+    "kod": "96-516",
+    "poczta": "Szyman\u00f3w\r"
+  },
+  {
+    "id": "24721",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9094",
+    "miejscowosc": "Szyman\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum Si\u00f3str Niepokalanek im. Matki Bo\u017cej Jaz\u0142owieckiej",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "96-516",
+    "poczta": "Szyman\u00f3w\r"
+  },
+  {
+    "id": "24722",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9094",
+    "miejscowosc": "Szyman\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Si\u00f3str Niepokalanek im. Matki Bo\u017cej Cz\u0119stochowskiej",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "96-516",
+    "poczta": "Szyman\u00f3w\r"
+  },
+  {
+    "id": "24717",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9094",
+    "miejscowosc": "Szyman\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Szkolna",
+    "numer": "35",
+    "kod": "96-516",
+    "poczta": "Szyman\u00f3w\r"
+  }
+]

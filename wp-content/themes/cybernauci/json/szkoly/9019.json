@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24566",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9019",
+    "miejscowosc": "Przesmyki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Narutowicza",
+    "numer": "17",
+    "kod": "08-109",
+    "poczta": "Przesmyki\r"
+  },
+  {
+    "id": "24567",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9019",
+    "miejscowosc": "Przesmyki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Narutowicza",
+    "numer": "17",
+    "kod": "08-109",
+    "poczta": "Przesmyki\r"
+  }
+]

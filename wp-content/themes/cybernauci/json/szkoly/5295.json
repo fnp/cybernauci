@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15009",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5295",
+    "miejscowosc": "W\u0142odowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "W\u0142odowice",
+    "numer": "25",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "15010",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5295",
+    "miejscowosc": "W\u0142odowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Wojciecha",
+    "ulica": "W\u0142odowice",
+    "numer": "25",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  }
+]

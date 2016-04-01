@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10325",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3654",
+    "miejscowosc": "P\u0142onka Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "P\u0142onka Ko\u015bcielna",
+    "numer": "82",
+    "kod": "18-100",
+    "poczta": "\u0141apy\r"
+  },
+  {
+    "id": "10326",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3654",
+    "miejscowosc": "P\u0142onka Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "P\u0142onka Ko\u015bcielna",
+    "numer": "82",
+    "kod": "18-100",
+    "poczta": "\u0141apy\r"
+  }
+]

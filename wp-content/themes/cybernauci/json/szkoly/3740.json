@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10516",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3740",
+    "miejscowosc": "Ma\u0142y P\u0142ock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Jana Kochanowskiego",
+    "numer": "25",
+    "kod": "18-516",
+    "poczta": "Ma\u0142y P\u0142ock\r"
+  },
+  {
+    "id": "10512",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3740",
+    "miejscowosc": "Ma\u0142y P\u0142ock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Jana Kochanowskiego",
+    "numer": "25",
+    "kod": "18-516",
+    "poczta": "Ma\u0142y P\u0142ock\r"
+  }
+]

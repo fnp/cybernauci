@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15011",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5296",
+    "miejscowosc": "Dzikowiec",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Dzikowiec",
+    "numer": "95",
+    "kod": "57-432",
+    "poczta": "Dzikowiec\r"
+  },
+  {
+    "id": "15012",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5296",
+    "miejscowosc": "Dzikowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Dzikowiec",
+    "numer": "95",
+    "kod": "57-432",
+    "poczta": "Dzikowiec\r"
+  }
+]

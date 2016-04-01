@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9201",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3343",
+    "miejscowosc": "Skorzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pepli\u0144skiego",
+    "numer": "6",
+    "kod": "83-400",
+    "poczta": "Ko\u015bcierzyna\r"
+  },
+  {
+    "id": "9202",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3343",
+    "miejscowosc": "Skorzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pepli\u0144skiego",
+    "numer": "6",
+    "kod": "83-400",
+    "poczta": "Ko\u015bcierzyna\r"
+  }
+]

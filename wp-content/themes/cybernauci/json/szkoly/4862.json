@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13612",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4862",
+    "miejscowosc": "Radomice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Radomice",
+    "numer": "115",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  },
+  {
+    "id": "13613",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4862",
+    "miejscowosc": "Radomice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Radomice",
+    "numer": "115",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  }
+]

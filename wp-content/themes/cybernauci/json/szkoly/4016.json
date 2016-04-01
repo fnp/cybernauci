@@ -1,0 +1,122 @@
+[
+  {
+    "id": "11326",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Olimpijczyk\u00f3w Polskich ",
+    "ulica": "Iwaszkiewicza",
+    "numer": "70",
+    "kod": "74-101",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11317",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "16",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11318",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "16",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11319",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141u\u017cycka",
+    "numer": "91",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11316",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "16",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11314",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 z Oddzia\u0142ami Integracyjnymi im. Marii D\u0105browskiej ",
+    "ulica": "\u0141u\u017cycka",
+    "numer": "22",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11315",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. kpt. \u017c. w. Mamerta Stankiewicza ",
+    "ulica": "9 Maja",
+    "numer": "4",
+    "kod": "74-101",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11327",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Iwaszkiewicza",
+    "numer": "70",
+    "kod": "74-101",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11320",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "\u0141u\u017cycka",
+    "numer": "91",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11321",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4016",
+    "miejscowosc": "Gryfino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141u\u017cycka",
+    "numer": "91",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  }
+]

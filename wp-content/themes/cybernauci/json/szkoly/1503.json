@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4514",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1503",
+    "miejscowosc": "Oszczywilk",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Oszczywilk",
+    "numer": "11a",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  },
+  {
+    "id": "4516",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1503",
+    "miejscowosc": "Oszczywilk",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Oszczywilk",
+    "numer": "11a",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  }
+]

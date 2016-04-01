@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20916",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7383",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stara Wie\u015b",
+    "numer": "790",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20917",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7383",
+    "miejscowosc": "Stara Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stara Wie\u015b",
+    "numer": "790",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

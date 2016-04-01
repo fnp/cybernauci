@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3441",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "940",
+    "miejscowosc": "Majdan Nepryski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Majdan Nepryski",
+    "numer": "18",
+    "kod": "23-460",
+    "poczta": "J\u00f3zef\u00f3w\r"
+  },
+  {
+    "id": "3440",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "940",
+    "miejscowosc": "Majdan Nepryski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Majdan Nepryski",
+    "numer": "",
+    "kod": "23-460",
+    "poczta": "J\u00f3zef\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21882",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7852",
+    "miejscowosc": "Nowosielec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nowosielec",
+    "numer": "134",
+    "kod": "37-400",
+    "poczta": "Nisko\r"
+  },
+  {
+    "id": "21883",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7852",
+    "miejscowosc": "Nowosielec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowosielec",
+    "numer": "134",
+    "kod": "37-400",
+    "poczta": "Nisko\r"
+  }
+]

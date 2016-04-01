@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6928",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1986",
+    "miejscowosc": "Wielka Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wielka Wie\u015b",
+    "numer": "210",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6929",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1986",
+    "miejscowosc": "Wielka Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wielka Wie\u015b",
+    "numer": "210",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "5716",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1986",
+    "miejscowosc": "Wielka Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. St. Konarskiego",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "32-089",
+    "poczta": "Wielka Wie\u015b\r"
+  }
+]

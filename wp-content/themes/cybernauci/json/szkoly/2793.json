@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7943",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2793",
+    "miejscowosc": "Odon\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Odon\u00f3w",
+    "numer": "54",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  },
+  {
+    "id": "7944",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2793",
+    "miejscowosc": "Odon\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Odon\u00f3w",
+    "numer": "54",
+    "kod": "28-500",
+    "poczta": "Kazimierza Wielka\r"
+  }
+]

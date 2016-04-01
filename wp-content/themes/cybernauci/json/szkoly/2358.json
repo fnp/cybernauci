@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6614",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2358",
+    "miejscowosc": "Osiek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "123",
+    "kod": "32-608",
+    "poczta": "Osiek\r"
+  },
+  {
+    "id": "6476",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2358",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Osiek",
+    "numer": "79b",
+    "kod": "32-300",
+    "poczta": "Olkusz\r"
+  },
+  {
+    "id": "6615",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2358",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "123",
+    "kod": "32-608",
+    "poczta": "Osiek\r"
+  },
+  {
+    "id": "6612",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2358",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "450",
+    "kod": "32-608",
+    "poczta": "Osiek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17936",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6244",
+    "miejscowosc": "Po\u0142ajewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "64-710",
+    "poczta": "Po\u0142ajewo\r"
+  },
+  {
+    "id": "17933",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6244",
+    "miejscowosc": "Po\u0142ajewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "64-710",
+    "poczta": "Po\u0142ajewo\r"
+  }
+]

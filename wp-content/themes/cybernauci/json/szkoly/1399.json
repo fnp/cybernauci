@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4268",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1399",
+    "miejscowosc": "Poniatowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "24-320",
+    "poczta": "Poniatowa\r"
+  },
+  {
+    "id": "4269",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1399",
+    "miejscowosc": "Poniatowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Fabryczna",
+    "numer": "16c",
+    "kod": "24-320",
+    "poczta": "Poniatowa\r"
+  },
+  {
+    "id": "4266",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1399",
+    "miejscowosc": "Poniatowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "24-320",
+    "poczta": "Poniatowa\r"
+  },
+  {
+    "id": "4270",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1399",
+    "miejscowosc": "Poniatowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Fabryczna",
+    "numer": "16c",
+    "kod": "24-320",
+    "poczta": "Poniatowa\r"
+  }
+]

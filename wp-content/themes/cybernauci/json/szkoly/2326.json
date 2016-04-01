@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6407",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2326",
+    "miejscowosc": "Ochotnica G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 ",
+    "ulica": "Zawady",
+    "numer": "207",
+    "kod": "34-453",
+    "poczta": "Ochotnica G\u00f3rna\r"
+  },
+  {
+    "id": "6402",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2326",
+    "miejscowosc": "Ochotnica G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Konopnickiej ",
+    "ulica": "Zawady",
+    "numer": "207",
+    "kod": "34-453",
+    "poczta": "Ochotnica G\u00f3rna\r"
+  }
+]

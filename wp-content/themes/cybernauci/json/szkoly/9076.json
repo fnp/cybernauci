@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24690",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9076",
+    "miejscowosc": "I\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0142ocka",
+    "numer": "14",
+    "kod": "96-520",
+    "poczta": "I\u0142\u00f3w\r"
+  },
+  {
+    "id": "24688",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9076",
+    "miejscowosc": "I\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "P\u0142ocka",
+    "numer": "14",
+    "kod": "96-520",
+    "poczta": "I\u0142\u00f3w\r"
+  }
+]

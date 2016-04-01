@@ -1,0 +1,26 @@
+[
+  {
+    "id": "41",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "12",
+    "miejscowosc": "Skorogoszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "ks. Jerzego Popie\u0142uszki",
+    "numer": "8",
+    "kod": "49-345",
+    "poczta": "Skorogoszcz\r"
+  },
+  {
+    "id": "36",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "12",
+    "miejscowosc": "Skorogoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zamkowa",
+    "numer": "6",
+    "kod": "49-345",
+    "poczta": "Skorogoszcz\r"
+  }
+]

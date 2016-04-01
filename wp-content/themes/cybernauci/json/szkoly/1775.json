@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5304",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1775",
+    "miejscowosc": "Grojec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bartosza G\u0142owackiego",
+    "numer": "11",
+    "kod": "32-566",
+    "poczta": "Alwernia\r"
+  },
+  {
+    "id": "6618",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1775",
+    "miejscowosc": "Grojec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Al. Ogrodowa",
+    "numer": "2",
+    "kod": "32-615",
+    "poczta": "Grojec\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6976",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2584",
+    "miejscowosc": "Czermna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. B\u0142. Karoliny K\u00f3zki",
+    "ulica": "Czermna",
+    "numer": "115",
+    "kod": "38-245",
+    "poczta": "Czermna\r"
+  },
+  {
+    "id": "6977",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2584",
+    "miejscowosc": "Czermna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. B\u0142. Karoliny K\u00f3zki",
+    "ulica": "Czermna",
+    "numer": "115",
+    "kod": "38-245",
+    "poczta": "Czermna\r"
+  }
+]

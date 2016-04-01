@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5621",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1934",
+    "miejscowosc": "Tenczynek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-067",
+    "poczta": "Tenczynek\r"
+  },
+  {
+    "id": "5622",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1934",
+    "miejscowosc": "Tenczynek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "32-067",
+    "poczta": "Tenczynek\r"
+  }
+]

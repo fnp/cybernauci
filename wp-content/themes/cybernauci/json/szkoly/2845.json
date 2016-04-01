@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8026",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2845",
+    "miejscowosc": "Krajno Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Krajno Pierwsze",
+    "numer": "153a",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "8027",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2845",
+    "miejscowosc": "Krajno Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jerzego Popie\u0142uszki ",
+    "ulica": "Krajno Pierwsze",
+    "numer": "153a",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  }
+]

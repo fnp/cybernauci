@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24659",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9068",
+    "miejscowosc": "Zawidz Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Mazowiecka",
+    "numer": "47b",
+    "kod": "09-226",
+    "poczta": "Zawidz Ko\u015bcielny\r"
+  },
+  {
+    "id": "24660",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9068",
+    "miejscowosc": "Zawidz Ko\u015bcielny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mazowiecka",
+    "numer": "47b",
+    "kod": "09-226",
+    "poczta": "Zawidz Ko\u015bcielny\r"
+  },
+  {
+    "id": "24657",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9068",
+    "miejscowosc": "Zawidz Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mazowiecka",
+    "numer": "47",
+    "kod": "09-226",
+    "poczta": "Zawidz Ko\u015bcielny\r"
+  },
+  {
+    "id": "24661",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9068",
+    "miejscowosc": "Zawidz Ko\u015bcielny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Mazowiecka",
+    "numer": "47b",
+    "kod": "09-226",
+    "poczta": "Zawidz Ko\u015bcielny\r"
+  }
+]

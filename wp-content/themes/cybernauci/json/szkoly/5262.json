@@ -1,0 +1,62 @@
+[
+  {
+    "id": "14911",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5262",
+    "miejscowosc": "Pisarzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pisarzowice",
+    "numer": "149",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "15085",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5262",
+    "miejscowosc": "Pisarzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. A. Fredry",
+    "ulica": "Pisarzowice",
+    "numer": "",
+    "kod": "59-800",
+    "poczta": "Luba\u0144\r"
+  },
+  {
+    "id": "15388",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5262",
+    "miejscowosc": "Pisarzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3 A",
+    "kod": "55-330",
+    "poczta": "Mi\u0119kinia\r"
+  },
+  {
+    "id": "14912",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5262",
+    "miejscowosc": "Pisarzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pisarzowice",
+    "numer": "149",
+    "kod": "58-400",
+    "poczta": "Kamienna G\u00f3ra\r"
+  },
+  {
+    "id": "15086",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5262",
+    "miejscowosc": "Pisarzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Noblist\u00f3w Polskich",
+    "ulica": "Pisarzowice",
+    "numer": "285b",
+    "kod": "59-800",
+    "poczta": "Luba\u0144\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21840",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7616",
+    "miejscowosc": "Hucisko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Hucisko",
+    "numer": "76a",
+    "kod": "37-413",
+    "poczta": "Harasiuki\r"
+  },
+  {
+    "id": "21580",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7616",
+    "miejscowosc": "Hucisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Hucisko",
+    "numer": "153",
+    "kod": "37-311",
+    "poczta": "Wola Zarczycka\r"
+  },
+  {
+    "id": "22220",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7616",
+    "miejscowosc": "Hucisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Hucisko",
+    "numer": "",
+    "kod": "36-003",
+    "poczta": "Przewrotne\r"
+  },
+  {
+    "id": "21409",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7616",
+    "miejscowosc": "Hucisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Hucisko",
+    "numer": "51",
+    "kod": "36-147",
+    "poczta": "Niwiska\r"
+  }
+]

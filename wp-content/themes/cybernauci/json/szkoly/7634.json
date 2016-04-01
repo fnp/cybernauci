@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21442",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7634",
+    "miejscowosc": "Zr\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "\u0141ukasiewicza",
+    "numer": "31",
+    "kod": "38-457",
+    "poczta": "Zr\u0119cin\r"
+  },
+  {
+    "id": "21434",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7634",
+    "miejscowosc": "Zr\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jana",
+    "ulica": "\u0141ukasiewicza",
+    "numer": "31",
+    "kod": "38-457",
+    "poczta": "Zr\u0119cin\r"
+  }
+]

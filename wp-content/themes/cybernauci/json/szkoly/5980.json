@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16973",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5980",
+    "miejscowosc": "Regn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Ciasia w Zespole Szk\u00f3\u0142",
+    "ulica": "Regn\u00f3w",
+    "numer": "95",
+    "kod": "96-232",
+    "poczta": "Regn\u00f3w\r"
+  },
+  {
+    "id": "16972",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5980",
+    "miejscowosc": "Regn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Ciasia w Zespole Szk\u00f3\u0142",
+    "ulica": "Regn\u00f3w",
+    "numer": "95",
+    "kod": "96-232",
+    "poczta": "Regn\u00f3w\r"
+  }
+]

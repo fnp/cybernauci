@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23126",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8342",
+    "miejscowosc": "Jaktor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Che\u0142mo\u0144skiego",
+    "numer": "4",
+    "kod": "96-313",
+    "poczta": "Jaktor\u00f3w\r"
+  },
+  {
+    "id": "23127",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8342",
+    "miejscowosc": "Jaktor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "88",
+    "kod": "96-313",
+    "poczta": "Jaktor\u00f3w\r"
+  }
+]

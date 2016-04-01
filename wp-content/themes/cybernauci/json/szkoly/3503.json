@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9574",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3503",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Partyzant\u00f3w Kociewskich",
+    "numer": "51",
+    "kod": "83-221",
+    "poczta": "Osiek\r"
+  },
+  {
+    "id": "9575",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3503",
+    "miejscowosc": "Osiek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Partyzant\u00f3w Kociewskich",
+    "numer": "51",
+    "kod": "83-221",
+    "poczta": "Osiek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15502",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5476",
+    "miejscowosc": "Witosz\u00f3w Dolny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ksi\u0105\u017c\u0105t \u015awidnickich",
+    "ulica": "Witosz\u00f3w Dolny",
+    "numer": "59-60",
+    "kod": "58-100",
+    "poczta": "\u015awidnica\r"
+  },
+  {
+    "id": "15497",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5476",
+    "miejscowosc": "Witosz\u00f3w Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ludwiki Wawrzy\u0144skiej",
+    "ulica": "Witosz\u00f3w Dolny",
+    "numer": "59 - 60",
+    "kod": "58-100",
+    "poczta": "\u015awidnica\r"
+  }
+]

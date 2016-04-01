@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23852",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8681",
+    "miejscowosc": "Jelonki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Jelonki",
+    "numer": "16",
+    "kod": "07-302",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23853",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8681",
+    "miejscowosc": "Jelonki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 4",
+    "ulica": "Jelonki",
+    "numer": "16",
+    "kod": "07-302",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  }
+]

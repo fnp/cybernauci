@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8334",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2989",
+    "miejscowosc": "Kun\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Fabryczna",
+    "numer": "1",
+    "kod": "27-415",
+    "poczta": "Kun\u00f3w\r"
+  },
+  {
+    "id": "8330",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2989",
+    "miejscowosc": "Kun\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "27-415",
+    "poczta": "Kun\u00f3w\r"
+  }
+]

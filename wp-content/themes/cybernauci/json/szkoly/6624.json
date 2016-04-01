@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18691",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6624",
+    "miejscowosc": "Chrzypsko Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "64-412",
+    "poczta": "Chrzypsko Wielkie\r"
+  },
+  {
+    "id": "18692",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6624",
+    "miejscowosc": "Chrzypsko Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika ",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "64-412",
+    "poczta": "Chrzypsko Wielkie\r"
+  }
+]

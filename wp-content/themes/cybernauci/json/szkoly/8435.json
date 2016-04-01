@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23316",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8435",
+    "miejscowosc": "Wieliszew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. T. Ko\u015bciuszki",
+    "ulica": "Modli\u0144ska",
+    "numer": "60",
+    "kod": "05-135",
+    "poczta": "Wieliszew\r"
+  },
+  {
+    "id": "23317",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8435",
+    "miejscowosc": "Wieliszew",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142",
+    "ulica": "Ko\u015bcielna",
+    "numer": "27",
+    "kod": "05-135",
+    "poczta": "Wieliszew\r"
+  }
+]

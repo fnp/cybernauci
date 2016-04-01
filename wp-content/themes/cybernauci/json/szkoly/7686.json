@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21539",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7686",
+    "miejscowosc": "Ryman\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  },
+  {
+    "id": "21540",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7686",
+    "miejscowosc": "Ryman\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  },
+  {
+    "id": "21541",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7686",
+    "miejscowosc": "Ryman\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  }
+]

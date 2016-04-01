@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23501",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8514",
+    "miejscowosc": "Ka\u0142uszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. 6. Pu\u0142ku Piechoty Legion\u00f3w J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Pocztowa",
+    "numer": "4",
+    "kod": "05-310",
+    "poczta": "Ka\u0142uszyn\r"
+  },
+  {
+    "id": "23499",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8514",
+    "miejscowosc": "Ka\u0142uszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Prusa",
+    "ulica": "Pocztowa",
+    "numer": "4",
+    "kod": "05-310",
+    "poczta": "Ka\u0142uszyn\r"
+  }
+]

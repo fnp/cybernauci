@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17124",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6061",
+    "miejscowosc": "Winna G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Winna G\u00f3ra",
+    "numer": "40",
+    "kod": "96-128",
+    "poczta": "S\u0142upia\r"
+  },
+  {
+    "id": "17125",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6061",
+    "miejscowosc": "Winna G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Winna G\u00f3ra",
+    "numer": "40",
+    "kod": "96-128",
+    "poczta": "S\u0142upia\r"
+  }
+]

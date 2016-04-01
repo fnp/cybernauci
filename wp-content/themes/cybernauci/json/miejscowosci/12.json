@@ -1,0 +1,2672 @@
+[
+  {
+    "id": "691",
+    "wojewodztwo_id": "12",
+    "nazwa": "Adamowice"
+  },
+  {
+    "id": "441",
+    "wojewodztwo_id": "12",
+    "nazwa": "Aleksandria"
+  },
+  {
+    "id": "539",
+    "wojewodztwo_id": "12",
+    "nazwa": "Aleksandr\u00f3w"
+  },
+  {
+    "id": "666",
+    "wojewodztwo_id": "12",
+    "nazwa": "Babice"
+  },
+  {
+    "id": "407",
+    "wojewodztwo_id": "12",
+    "nazwa": "B\u0105k\u00f3w"
+  },
+  {
+    "id": "507",
+    "wojewodztwo_id": "12",
+    "nazwa": "Barg\u0142\u00f3wka"
+  },
+  {
+    "id": "388",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ba\u017canowice"
+  },
+  {
+    "id": "317",
+    "wojewodztwo_id": "12",
+    "nazwa": "B\u0119dzin"
+  },
+  {
+    "id": "342",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bestwina"
+  },
+  {
+    "id": "341",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bestwinka"
+  },
+  {
+    "id": "683",
+    "wojewodztwo_id": "12",
+    "nazwa": "Be\u0142k"
+  },
+  {
+    "id": "520",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bia\u0142a"
+  },
+  {
+    "id": "832",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bielsko-Bia\u0142a"
+  },
+  {
+    "id": "658",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bie\u0144kowice"
+  },
+  {
+    "id": "800",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bierna"
+  },
+  {
+    "id": "721",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bieru\u0144"
+  },
+  {
+    "id": "549",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bie\u017ce\u0144"
+  },
+  {
+    "id": "471",
+    "wojewodztwo_id": "12",
+    "nazwa": "Biskupice"
+  },
+  {
+    "id": "416",
+    "wojewodztwo_id": "12",
+    "nazwa": "Blachownia"
+  },
+  {
+    "id": "606",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bli\u017cyce"
+  },
+  {
+    "id": "739",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bluszcz\u00f3w"
+  },
+  {
+    "id": "320",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bobrowniki"
+  },
+  {
+    "id": "327",
+    "wojewodztwo_id": "12",
+    "nazwa": "Boguchwa\u0142owice"
+  },
+  {
+    "id": "498",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bojsz\u00f3w"
+  },
+  {
+    "id": "724",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bojszowy"
+  },
+  {
+    "id": "659",
+    "wojewodztwo_id": "12",
+    "nazwa": "Boles\u0142aw"
+  },
+  {
+    "id": "547",
+    "wojewodztwo_id": "12",
+    "nazwa": "B\u00f3r Zajaci\u0144ski"
+  },
+  {
+    "id": "558",
+    "wojewodztwo_id": "12",
+    "nazwa": "Boron\u00f3w"
+  },
+  {
+    "id": "552",
+    "wojewodztwo_id": "12",
+    "nazwa": "Borowe"
+  },
+  {
+    "id": "466",
+    "wojewodztwo_id": "12",
+    "nazwa": "Borowno"
+  },
+  {
+    "id": "652",
+    "wojewodztwo_id": "12",
+    "nazwa": "Borucin"
+  },
+  {
+    "id": "712",
+    "wojewodztwo_id": "12",
+    "nazwa": "Boruszowice"
+  },
+  {
+    "id": "378",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brenna"
+  },
+  {
+    "id": "351",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bron\u00f3w"
+  },
+  {
+    "id": "338",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brudzowice"
+  },
+  {
+    "id": "710",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brynek"
+  },
+  {
+    "id": "632",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brze\u017ace"
+  },
+  {
+    "id": "675",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brze\u017anica"
+  },
+  {
+    "id": "809",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brzu\u015bnik"
+  },
+  {
+    "id": "454",
+    "wojewodztwo_id": "12",
+    "nazwa": "Brzysz\u00f3w"
+  },
+  {
+    "id": "345",
+    "wojewodztwo_id": "12",
+    "nazwa": "Buczkowice"
+  },
+  {
+    "id": "661",
+    "wojewodztwo_id": "12",
+    "nazwa": "Budziska"
+  },
+  {
+    "id": "365",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bujak\u00f3w"
+  },
+  {
+    "id": "500",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bycina"
+  },
+  {
+    "id": "373",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bystra"
+  },
+  {
+    "id": "833",
+    "wojewodztwo_id": "12",
+    "nazwa": "Bytom"
+  },
+  {
+    "id": "657",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cha\u0142upki"
+  },
+  {
+    "id": "499",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chech\u0142o"
+  },
+  {
+    "id": "725",
+    "wojewodztwo_id": "12",
+    "nazwa": "Che\u0142m \u015al\u0105ski"
+  },
+  {
+    "id": "774",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chlina"
+  },
+  {
+    "id": "611",
+    "wojewodztwo_id": "12",
+    "nazwa": "Choro\u0144"
+  },
+  {
+    "id": "834",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chorz\u00f3w"
+  },
+  {
+    "id": "761",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chruszczobr\u00f3d"
+  },
+  {
+    "id": "490",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chud\u00f3w"
+  },
+  {
+    "id": "381",
+    "wojewodztwo_id": "12",
+    "nazwa": "Chybie"
+  },
+  {
+    "id": "759",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ci\u0105gowice"
+  },
+  {
+    "id": "560",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ciasna"
+  },
+  {
+    "id": "829",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ci\u0119cina"
+  },
+  {
+    "id": "375",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cieszyn"
+  },
+  {
+    "id": "415",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cisie"
+  },
+  {
+    "id": "831",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cisiec"
+  },
+  {
+    "id": "387",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cisownica"
+  },
+  {
+    "id": "633",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0106wiklice"
+  },
+  {
+    "id": "590",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cynk\u00f3w"
+  },
+  {
+    "id": "672",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cyprzan\u00f3w"
+  },
+  {
+    "id": "363",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czaniec"
+  },
+  {
+    "id": "637",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czark\u00f3w"
+  },
+  {
+    "id": "469",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czarny Las"
+  },
+  {
+    "id": "349",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czechowice-Dziedzice"
+  },
+  {
+    "id": "713",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czekan\u00f3w"
+  },
+  {
+    "id": "318",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czelad\u017a"
+  },
+  {
+    "id": "685",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czernica"
+  },
+  {
+    "id": "779",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czernich\u00f3w"
+  },
+  {
+    "id": "678",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czerwionka-Leszczyny"
+  },
+  {
+    "id": "835",
+    "wojewodztwo_id": "12",
+    "nazwa": "Cz\u0119stochowa"
+  },
+  {
+    "id": "737",
+    "wojewodztwo_id": "12",
+    "nazwa": "Czy\u017cowice"
+  },
+  {
+    "id": "331",
+    "wojewodztwo_id": "12",
+    "nazwa": "D\u0105bie"
+  },
+  {
+    "id": "836",
+    "wojewodztwo_id": "12",
+    "nazwa": "D\u0105browa G\u00f3rnicza"
+  },
+  {
+    "id": "420",
+    "wojewodztwo_id": "12",
+    "nazwa": "D\u0105browa Zielona"
+  },
+  {
+    "id": "602",
+    "wojewodztwo_id": "12",
+    "nazwa": "D\u0105browno"
+  },
+  {
+    "id": "370",
+    "wojewodztwo_id": "12",
+    "nazwa": "Dankowice"
+  },
+  {
+    "id": "383",
+    "wojewodztwo_id": "12",
+    "nazwa": "D\u0119bowiec"
+  },
+  {
+    "id": "323",
+    "wojewodztwo_id": "12",
+    "nazwa": "Dobieszowice"
+  },
+  {
+    "id": "453",
+    "wojewodztwo_id": "12",
+    "nazwa": "Drochlin"
+  },
+  {
+    "id": "409",
+    "wojewodztwo_id": "12",
+    "nazwa": "Drogomy\u015bl"
+  },
+  {
+    "id": "754",
+    "wojewodztwo_id": "12",
+    "nazwa": "Dzibice"
+  },
+  {
+    "id": "389",
+    "wojewodztwo_id": "12",
+    "nazwa": "Dzi\u0119giel\u00f3w"
+  },
+  {
+    "id": "766",
+    "wojewodztwo_id": "12",
+    "nazwa": "Dzwono-Sierbowice"
+  },
+  {
+    "id": "619",
+    "wojewodztwo_id": "12",
+    "nazwa": "Frydek"
+  },
+  {
+    "id": "673",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gam\u00f3w"
+  },
+  {
+    "id": "428",
+    "wojewodztwo_id": "12",
+    "nazwa": "Garnek"
+  },
+  {
+    "id": "684",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gaszowice"
+  },
+  {
+    "id": "762",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gieb\u0142o"
+  },
+  {
+    "id": "492",
+    "wojewodztwo_id": "12",
+    "nazwa": "Giera\u0142towice"
+  },
+  {
+    "id": "621",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gilowice"
+  },
+  {
+    "id": "561",
+    "wojewodztwo_id": "12",
+    "nazwa": "Glinica"
+  },
+  {
+    "id": "827",
+    "wojewodztwo_id": "12",
+    "nazwa": "Glinka"
+  },
+  {
+    "id": "837",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gliwice"
+  },
+  {
+    "id": "591",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gniazd\u00f3w"
+  },
+  {
+    "id": "616",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gocza\u0142kowice-Zdr\u00f3j"
+  },
+  {
+    "id": "732",
+    "wojewodztwo_id": "12",
+    "nazwa": "God\u00f3w"
+  },
+  {
+    "id": "348",
+    "wojewodztwo_id": "12",
+    "nazwa": "Godziszka"
+  },
+  {
+    "id": "747",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gogo\u0142owa"
+  },
+  {
+    "id": "627",
+    "wojewodztwo_id": "12",
+    "nazwa": "Golasowice"
+  },
+  {
+    "id": "771",
+    "wojewodztwo_id": "12",
+    "nazwa": "Goleniowy"
+  },
+  {
+    "id": "390",
+    "wojewodztwo_id": "12",
+    "nazwa": "Golesz\u00f3w"
+  },
+  {
+    "id": "618",
+    "wojewodztwo_id": "12",
+    "nazwa": "G\u00f3ra"
+  },
+  {
+    "id": "665",
+    "wojewodztwo_id": "12",
+    "nazwa": "G\u00f3rki \u015al\u0105skie"
+  },
+  {
+    "id": "379",
+    "wojewodztwo_id": "12",
+    "nazwa": "G\u00f3rki Wielkie"
+  },
+  {
+    "id": "738",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gorzyce"
+  },
+  {
+    "id": "742",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gorzyczki"
+  },
+  {
+    "id": "587",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gosty\u0144"
+  },
+  {
+    "id": "734",
+    "wojewodztwo_id": "12",
+    "nazwa": "Go\u0142kowice"
+  },
+  {
+    "id": "758",
+    "wojewodztwo_id": "12",
+    "nazwa": "Grabowa"
+  },
+  {
+    "id": "330",
+    "wojewodztwo_id": "12",
+    "nazwa": "Grodk\u00f3w"
+  },
+  {
+    "id": "360",
+    "wojewodztwo_id": "12",
+    "nazwa": "Grodziec"
+  },
+  {
+    "id": "550",
+    "wojewodztwo_id": "12",
+    "nazwa": "Grodzisko"
+  },
+  {
+    "id": "676",
+    "wojewodztwo_id": "12",
+    "nazwa": "Grzegorzowice"
+  },
+  {
+    "id": "576",
+    "wojewodztwo_id": "12",
+    "nazwa": "Gwo\u017adziany"
+  },
+  {
+    "id": "565",
+    "wojewodztwo_id": "12",
+    "nazwa": "Hadra"
+  },
+  {
+    "id": "393",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ha\u017clach"
+  },
+  {
+    "id": "369",
+    "wojewodztwo_id": "12",
+    "nazwa": "Hecznarowice"
+  },
+  {
+    "id": "566",
+    "wojewodztwo_id": "12",
+    "nazwa": "Herby"
+  },
+  {
+    "id": "479",
+    "wojewodztwo_id": "12",
+    "nazwa": "Huta Stara B"
+  },
+  {
+    "id": "443",
+    "wojewodztwo_id": "12",
+    "nazwa": "Hutki"
+  },
+  {
+    "id": "722",
+    "wojewodztwo_id": "12",
+    "nazwa": "Imielin"
+  },
+  {
+    "id": "750",
+    "wojewodztwo_id": "12",
+    "nazwa": "Irz\u0105dze"
+  },
+  {
+    "id": "385",
+    "wojewodztwo_id": "12",
+    "nazwa": "Iskrzyczyn"
+  },
+  {
+    "id": "398",
+    "wojewodztwo_id": "12",
+    "nazwa": "Istebna"
+  },
+  {
+    "id": "537",
+    "wojewodztwo_id": "12",
+    "nazwa": "Iwanowice Du\u017ce"
+  },
+  {
+    "id": "358",
+    "wojewodztwo_id": "12",
+    "nazwa": "I\u0142ownica"
+  },
+  {
+    "id": "445",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jack\u00f3w"
+  },
+  {
+    "id": "638",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jankowice"
+  },
+  {
+    "id": "424",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jan\u00f3w"
+  },
+  {
+    "id": "343",
+    "wojewodztwo_id": "12",
+    "nazwa": "Janowice"
+  },
+  {
+    "id": "355",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jasienica"
+  },
+  {
+    "id": "458",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jaskr\u00f3w"
+  },
+  {
+    "id": "609",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jastrz\u0105b"
+  },
+  {
+    "id": "838",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jastrz\u0119bie-Zdr\u00f3j"
+  },
+  {
+    "id": "361",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jaworze"
+  },
+  {
+    "id": "613",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jaworznik"
+  },
+  {
+    "id": "839",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jaworzno"
+  },
+  {
+    "id": "397",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jaworzynka"
+  },
+  {
+    "id": "688",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jejkowice"
+  },
+  {
+    "id": "784",
+    "wojewodztwo_id": "12",
+    "nazwa": "Jele\u015bnia"
+  },
+  {
+    "id": "807",
+    "wojewodztwo_id": "12",
+    "nazwa": "Juszczyna"
+  },
+  {
+    "id": "413",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kaczyce"
+  },
+  {
+    "id": "553",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kalej"
+  },
+  {
+    "id": "695",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kalety"
+  },
+  {
+    "id": "346",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kalna"
+  },
+  {
+    "id": "803",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamesznica"
+  },
+  {
+    "id": "581",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamienica"
+  },
+  {
+    "id": "426",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamienica Polska"
+  },
+  {
+    "id": "714",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamieniec"
+  },
+  {
+    "id": "582",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamie\u0144skie M\u0142yny"
+  },
+  {
+    "id": "519",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kamyk"
+  },
+  {
+    "id": "344",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kani\u00f3w"
+  },
+  {
+    "id": "840",
+    "wojewodztwo_id": "12",
+    "nazwa": "Katowice"
+  },
+  {
+    "id": "401",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kiczyce"
+  },
+  {
+    "id": "391",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kisiel\u00f3w"
+  },
+  {
+    "id": "501",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kleszcz\u00f3w"
+  },
+  {
+    "id": "488",
+    "wojewodztwo_id": "12",
+    "nazwa": "Knur\u00f3w"
+  },
+  {
+    "id": "640",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kobielice"
+  },
+  {
+    "id": "366",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kobiernice"
+  },
+  {
+    "id": "617",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kobi\u00f3r"
+  },
+  {
+    "id": "649",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kobyla"
+  },
+  {
+    "id": "568",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kochanowice"
+  },
+  {
+    "id": "567",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kochcice"
+  },
+  {
+    "id": "796",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kocierz Moszczanicki"
+  },
+  {
+    "id": "476",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kolonia Poczesna"
+  },
+  {
+    "id": "431",
+    "wojewodztwo_id": "12",
+    "nazwa": "Konary"
+  },
+  {
+    "id": "411",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ko\u0144czyce Ma\u0142e"
+  },
+  {
+    "id": "394",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ko\u0144czyce Wielkie"
+  },
+  {
+    "id": "399",
+    "wojewodztwo_id": "12",
+    "nazwa": "Koniak\u00f3w"
+  },
+  {
+    "id": "437",
+    "wojewodztwo_id": "12",
+    "nazwa": "Koniecpol"
+  },
+  {
+    "id": "540",
+    "wojewodztwo_id": "12",
+    "nazwa": "Konieczki"
+  },
+  {
+    "id": "486",
+    "wojewodztwo_id": "12",
+    "nazwa": "Konin"
+  },
+  {
+    "id": "444",
+    "wojewodztwo_id": "12",
+    "nazwa": "Konopiska"
+  },
+  {
+    "id": "442",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kopalnia"
+  },
+  {
+    "id": "715",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kopienica"
+  },
+  {
+    "id": "787",
+    "wojewodztwo_id": "12",
+    "nazwa": "Korbiel\u00f3w"
+  },
+  {
+    "id": "647",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kornowac"
+  },
+  {
+    "id": "439",
+    "wojewodztwo_id": "12",
+    "nazwa": "Korzonek"
+  },
+  {
+    "id": "485",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ko\u015bcielec"
+  },
+  {
+    "id": "575",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ko\u015bmidry"
+  },
+  {
+    "id": "790",
+    "wojewodztwo_id": "12",
+    "nazwa": "Koszarawa"
+  },
+  {
+    "id": "573",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kosz\u0119cin"
+  },
+  {
+    "id": "511",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kotulin"
+  },
+  {
+    "id": "592",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kozieg\u0142\u00f3wki"
+  },
+  {
+    "id": "597",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kozieg\u0142owy"
+  },
+  {
+    "id": "362",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kozy"
+  },
+  {
+    "id": "508",
+    "wojewodztwo_id": "12",
+    "nazwa": "Koz\u0142\u00f3w"
+  },
+  {
+    "id": "455",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krasice"
+  },
+  {
+    "id": "752",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kroczyce"
+  },
+  {
+    "id": "730",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krostoszowice"
+  },
+  {
+    "id": "670",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krowiarki"
+  },
+  {
+    "id": "699",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krupski M\u0142yn"
+  },
+  {
+    "id": "447",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kruszyna"
+  },
+  {
+    "id": "643",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kryry"
+  },
+  {
+    "id": "653",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krzanowice"
+  },
+  {
+    "id": "523",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krzepice"
+  },
+  {
+    "id": "660",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krzy\u017canowice"
+  },
+  {
+    "id": "785",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krzy\u017cowa"
+  },
+  {
+    "id": "626",
+    "wojewodztwo_id": "12",
+    "nazwa": "Krzy\u017cowice"
+  },
+  {
+    "id": "679",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ksi\u0105\u017cenice"
+  },
+  {
+    "id": "456",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kuchary"
+  },
+  {
+    "id": "551",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kuleje"
+  },
+  {
+    "id": "474",
+    "wojewodztwo_id": "12",
+    "nazwa": "Kusi\u0119ta"
+  },
+  {
+    "id": "663",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ku\u017ania Raciborska"
+  },
+  {
+    "id": "608",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ku\u017anica Stara"
+  },
+  {
+    "id": "517",
+    "wojewodztwo_id": "12",
+    "nazwa": "K\u0142obuck"
+  },
+  {
+    "id": "430",
+    "wojewodztwo_id": "12",
+    "nazwa": "K\u0142omnice"
+  },
+  {
+    "id": "806",
+    "wojewodztwo_id": "12",
+    "nazwa": "Laliki"
+  },
+  {
+    "id": "817",
+    "wojewodztwo_id": "12",
+    "nazwa": "Las"
+  },
+  {
+    "id": "723",
+    "wojewodztwo_id": "12",
+    "nazwa": "L\u0119dziny"
+  },
+  {
+    "id": "452",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lel\u00f3w"
+  },
+  {
+    "id": "794",
+    "wojewodztwo_id": "12",
+    "nazwa": "Le\u015bna"
+  },
+  {
+    "id": "421",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lgoczanka"
+  },
+  {
+    "id": "516",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lgota"
+  },
+  {
+    "id": "596",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lgota G\u00f3rna"
+  },
+  {
+    "id": "446",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lgota Ma\u0142a"
+  },
+  {
+    "id": "521",
+    "wojewodztwo_id": "12",
+    "nazwa": "Libidza"
+  },
+  {
+    "id": "350",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ligota"
+  },
+  {
+    "id": "527",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lind\u00f3w"
+  },
+  {
+    "id": "529",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lipie"
+  },
+  {
+    "id": "791",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lipowa"
+  },
+  {
+    "id": "564",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lis\u00f3w"
+  },
+  {
+    "id": "578",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lisowice"
+  },
+  {
+    "id": "569",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lubecko"
+  },
+  {
+    "id": "557",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lubliniec"
+  },
+  {
+    "id": "467",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lubojna"
+  },
+  {
+    "id": "743",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lubomia"
+  },
+  {
+    "id": "579",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lubsza"
+  },
+  {
+    "id": "600",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ludwin\u00f3w"
+  },
+  {
+    "id": "422",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lus\u0142awice"
+  },
+  {
+    "id": "690",
+    "wojewodztwo_id": "12",
+    "nazwa": "Lyski"
+  },
+  {
+    "id": "745",
+    "wojewodztwo_id": "12",
+    "nazwa": "Marklowice"
+  },
+  {
+    "id": "412",
+    "wojewodztwo_id": "12",
+    "nazwa": "Marklowice G\u00f3rne"
+  },
+  {
+    "id": "612",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mas\u0142o\u0144skie"
+  },
+  {
+    "id": "356",
+    "wojewodztwo_id": "12",
+    "nazwa": "Maza\u0144cowice"
+  },
+  {
+    "id": "776",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ma\u0142oszyce"
+  },
+  {
+    "id": "459",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ma\u0142usy Wielkie"
+  },
+  {
+    "id": "374",
+    "wojewodztwo_id": "12",
+    "nazwa": "Meszna"
+  },
+  {
+    "id": "696",
+    "wojewodztwo_id": "12",
+    "nazwa": "Miasteczko \u015al\u0105skie"
+  },
+  {
+    "id": "477",
+    "wojewodztwo_id": "12",
+    "nazwa": "Micha\u0142\u00f3w"
+  },
+  {
+    "id": "718",
+    "wojewodztwo_id": "12",
+    "nazwa": "Miedary"
+  },
+  {
+    "id": "622",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mied\u017ana"
+  },
+  {
+    "id": "530",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mied\u017ano"
+  },
+  {
+    "id": "778",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mi\u0119dzybrodzie Bialskie"
+  },
+  {
+    "id": "780",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mi\u0119dzybrodzie \u017bywieckie"
+  },
+  {
+    "id": "359",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mi\u0119dzyrzecze Dolne"
+  },
+  {
+    "id": "403",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mi\u0119dzy\u015bwie\u0107"
+  },
+  {
+    "id": "326",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mierz\u0119cice"
+  },
+  {
+    "id": "584",
+    "wojewodztwo_id": "12",
+    "nazwa": "Miko\u0142\u00f3w"
+  },
+  {
+    "id": "802",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mil\u00f3wka"
+  },
+  {
+    "id": "644",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mizer\u00f3w"
+  },
+  {
+    "id": "380",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mnich"
+  },
+  {
+    "id": "599",
+    "wojewodztwo_id": "12",
+    "nazwa": "Moczyd\u0142o"
+  },
+  {
+    "id": "531",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mokra"
+  },
+  {
+    "id": "457",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mokrzesz"
+  },
+  {
+    "id": "460",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mst\u00f3w"
+  },
+  {
+    "id": "748",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mszana"
+  },
+  {
+    "id": "783",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mutne"
+  },
+  {
+    "id": "468",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mykan\u00f3w"
+  },
+  {
+    "id": "589",
+    "wojewodztwo_id": "12",
+    "nazwa": "Myszk\u00f3w"
+  },
+  {
+    "id": "594",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mys\u0142\u00f3w"
+  },
+  {
+    "id": "841",
+    "wojewodztwo_id": "12",
+    "nazwa": "Mys\u0142owice"
+  },
+  {
+    "id": "449",
+    "wojewodztwo_id": "12",
+    "nazwa": "Nak\u0142o"
+  },
+  {
+    "id": "708",
+    "wojewodztwo_id": "12",
+    "nazwa": "Nak\u0142o \u015al\u0105skie"
+  },
+  {
+    "id": "664",
+    "wojewodztwo_id": "12",
+    "nazwa": "N\u0119dza"
+  },
+  {
+    "id": "601",
+    "wojewodztwo_id": "12",
+    "nazwa": "Niegowa"
+  },
+  {
+    "id": "760",
+    "wojewodztwo_id": "12",
+    "nazwa": "Niegowonice"
+  },
+  {
+    "id": "804",
+    "wojewodztwo_id": "12",
+    "nazwa": "Nieledwia"
+  },
+  {
+    "id": "329",
+    "wojewodztwo_id": "12",
+    "nazwa": "Nowa Wie\u015b"
+  },
+  {
+    "id": "706",
+    "wojewodztwo_id": "12",
+    "nazwa": "Nowe Chech\u0142o"
+  },
+  {
+    "id": "404",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ochaby Ma\u0142e"
+  },
+  {
+    "id": "765",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ogrodzieniec"
+  },
+  {
+    "id": "386",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ogrodzona"
+  },
+  {
+    "id": "418",
+    "wojewodztwo_id": "12",
+    "nazwa": "Olbrachcice"
+  },
+  {
+    "id": "472",
+    "wojewodztwo_id": "12",
+    "nazwa": "Olsztyn"
+  },
+  {
+    "id": "563",
+    "wojewodztwo_id": "12",
+    "nazwa": "Olszyna"
+  },
+  {
+    "id": "740",
+    "wojewodztwo_id": "12",
+    "nazwa": "Olza"
+  },
+  {
+    "id": "534",
+    "wojewodztwo_id": "12",
+    "nazwa": "Opat\u00f3w"
+  },
+  {
+    "id": "586",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ornontowice"
+  },
+  {
+    "id": "707",
+    "wojewodztwo_id": "12",
+    "nazwa": "Orzech"
+  },
+  {
+    "id": "585",
+    "wojewodztwo_id": "12",
+    "nazwa": "Orzesze"
+  },
+  {
+    "id": "427",
+    "wojewodztwo_id": "12",
+    "nazwa": "Osiny"
+  },
+  {
+    "id": "532",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ostrowy nad Oksz\u0105"
+  },
+  {
+    "id": "655",
+    "wojewodztwo_id": "12",
+    "nazwa": "Owsiszcze"
+  },
+  {
+    "id": "704",
+    "wojewodztwo_id": "12",
+    "nazwa": "O\u017carowice"
+  },
+  {
+    "id": "512",
+    "wojewodztwo_id": "12",
+    "nazwa": "Paczyna"
+  },
+  {
+    "id": "677",
+    "wojewodztwo_id": "12",
+    "nazwa": "Palowice"
+  },
+  {
+    "id": "493",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pani\u00f3wki"
+  },
+  {
+    "id": "541",
+    "wojewodztwo_id": "12",
+    "nazwa": "Panki"
+  },
+  {
+    "id": "528",
+    "wojewodztwo_id": "12",
+    "nazwa": "Parzymiechy"
+  },
+  {
+    "id": "574",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pawonk\u00f3w"
+  },
+  {
+    "id": "668",
+    "wojewodztwo_id": "12",
+    "nazwa": "Paw\u0142\u00f3w"
+  },
+  {
+    "id": "625",
+    "wojewodztwo_id": "12",
+    "nazwa": "Paw\u0142owice"
+  },
+  {
+    "id": "821",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pewel Ma\u0142a"
+  },
+  {
+    "id": "822",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pewel \u015alemie\u0144ska"
+  },
+  {
+    "id": "782",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pewel Wielka"
+  },
+  {
+    "id": "423",
+    "wojewodztwo_id": "12",
+    "nazwa": "Piasek"
+  },
+  {
+    "id": "686",
+    "wojewodztwo_id": "12",
+    "nazwa": "Piece"
+  },
+  {
+    "id": "842",
+    "wojewodztwo_id": "12",
+    "nazwa": "Piekary \u015al\u0105skie"
+  },
+  {
+    "id": "624",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pielgrzymowice"
+  },
+  {
+    "id": "405",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pier\u015bciec"
+  },
+  {
+    "id": "671",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pietrowice Wielkie"
+  },
+  {
+    "id": "801",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pietrzykowice"
+  },
+  {
+    "id": "497",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pilchowice"
+  },
+  {
+    "id": "767",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pilica"
+  },
+  {
+    "id": "598",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pi\u0144czyce"
+  },
+  {
+    "id": "367",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pisarzowice"
+  },
+  {
+    "id": "510",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pni\u00f3w"
+  },
+  {
+    "id": "450",
+    "wojewodztwo_id": "12",
+    "nazwa": "Podlesie"
+  },
+  {
+    "id": "764",
+    "wojewodztwo_id": "12",
+    "nazwa": "Podzamcze"
+  },
+  {
+    "id": "402",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pog\u00f3rze"
+  },
+  {
+    "id": "650",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pogrzebie\u0144"
+  },
+  {
+    "id": "396",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pogwizd\u00f3w"
+  },
+  {
+    "id": "502",
+    "wojewodztwo_id": "12",
+    "nazwa": "Poniszowice"
+  },
+  {
+    "id": "544",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pop\u00f3w"
+  },
+  {
+    "id": "364",
+    "wojewodztwo_id": "12",
+    "nazwa": "Por\u0105bka"
+  },
+  {
+    "id": "610",
+    "wojewodztwo_id": "12",
+    "nazwa": "Poraj"
+  },
+  {
+    "id": "629",
+    "wojewodztwo_id": "12",
+    "nazwa": "Por\u0119ba"
+  },
+  {
+    "id": "700",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pot\u0119pa"
+  },
+  {
+    "id": "746",
+    "wojewodztwo_id": "12",
+    "nazwa": "Po\u0142omia"
+  },
+  {
+    "id": "751",
+    "wojewodztwo_id": "12",
+    "nazwa": "Prad\u0142a"
+  },
+  {
+    "id": "410",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pruchna"
+  },
+  {
+    "id": "325",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przeczyce"
+  },
+  {
+    "id": "680",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przeg\u0119dza"
+  },
+  {
+    "id": "716",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przezchlebie"
+  },
+  {
+    "id": "789",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przybor\u00f3w"
+  },
+  {
+    "id": "615",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przybyn\u00f3w"
+  },
+  {
+    "id": "483",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przyr\u00f3w"
+  },
+  {
+    "id": "548",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przystaj\u0144"
+  },
+  {
+    "id": "491",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przyszowice"
+  },
+  {
+    "id": "818",
+    "wojewodztwo_id": "12",
+    "nazwa": "Przy\u0142\u0119k\u00f3w"
+  },
+  {
+    "id": "332",
+    "wojewodztwo_id": "12",
+    "nazwa": "Psary"
+  },
+  {
+    "id": "692",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pstr\u0105\u017cna"
+  },
+  {
+    "id": "628",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pszczyna"
+  },
+  {
+    "id": "726",
+    "wojewodztwo_id": "12",
+    "nazwa": "Psz\u00f3w"
+  },
+  {
+    "id": "703",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pyrzowice"
+  },
+  {
+    "id": "489",
+    "wojewodztwo_id": "12",
+    "nazwa": "Pyskowice"
+  },
+  {
+    "id": "504",
+    "wojewodztwo_id": "12",
+    "nazwa": "P\u0142awniowice"
+  },
+  {
+    "id": "646",
+    "wojewodztwo_id": "12",
+    "nazwa": "Racib\u00f3rz"
+  },
+  {
+    "id": "727",
+    "wojewodztwo_id": "12",
+    "nazwa": "Radlin"
+  },
+  {
+    "id": "462",
+    "wojewodztwo_id": "12",
+    "nazwa": "Radostk\u00f3w"
+  },
+  {
+    "id": "641",
+    "wojewodztwo_id": "12",
+    "nazwa": "Radostowice"
+  },
+  {
+    "id": "810",
+    "wojewodztwo_id": "12",
+    "nazwa": "Radziechowy"
+  },
+  {
+    "id": "697",
+    "wojewodztwo_id": "12",
+    "nazwa": "Radzionk\u00f3w"
+  },
+  {
+    "id": "813",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rajcza"
+  },
+  {
+    "id": "689",
+    "wojewodztwo_id": "12",
+    "nazwa": "Raszczyce"
+  },
+  {
+    "id": "543",
+    "wojewodztwo_id": "12",
+    "nazwa": "R\u0119bielice Kr\u00f3lewskie"
+  },
+  {
+    "id": "526",
+    "wojewodztwo_id": "12",
+    "nazwa": "R\u0119bielice Szlacheckie"
+  },
+  {
+    "id": "484",
+    "wojewodztwo_id": "12",
+    "nazwa": "R\u0119dziny"
+  },
+  {
+    "id": "440",
+    "wojewodztwo_id": "12",
+    "nazwa": "R\u0119kszowice"
+  },
+  {
+    "id": "741",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rog\u00f3w"
+  },
+  {
+    "id": "324",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rogo\u017anik"
+  },
+  {
+    "id": "770",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rokitno"
+  },
+  {
+    "id": "757",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rokitno Szlacheckie"
+  },
+  {
+    "id": "843",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ruda \u015al\u0105ska"
+  },
+  {
+    "id": "392",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudnik"
+  },
+  {
+    "id": "436",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudniki"
+  },
+  {
+    "id": "503",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudno"
+  },
+  {
+    "id": "634",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudo\u0142towice"
+  },
+  {
+    "id": "662",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudy"
+  },
+  {
+    "id": "354",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudzica"
+  },
+  {
+    "id": "645",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudziczka"
+  },
+  {
+    "id": "505",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rudziniec"
+  },
+  {
+    "id": "572",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rusinowice"
+  },
+  {
+    "id": "347",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rybarzowice"
+  },
+  {
+    "id": "461",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rybna"
+  },
+  {
+    "id": "844",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rybnik"
+  },
+  {
+    "id": "811",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rycerka Dolna"
+  },
+  {
+    "id": "815",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rycerka G\u00f3rna"
+  },
+  {
+    "id": "781",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rychwa\u0142d"
+  },
+  {
+    "id": "819",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rychwa\u0142dek"
+  },
+  {
+    "id": "763",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rycz\u00f3w"
+  },
+  {
+    "id": "728",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rydu\u0142towy"
+  },
+  {
+    "id": "432",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rzerz\u0119czyce"
+  },
+  {
+    "id": "648",
+    "wojewodztwo_id": "12",
+    "nazwa": "Rzuch\u00f3w"
+  },
+  {
+    "id": "322",
+    "wojewodztwo_id": "12",
+    "nazwa": "S\u0105cz\u00f3w"
+  },
+  {
+    "id": "571",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sad\u00f3w"
+  },
+  {
+    "id": "669",
+    "wojewodztwo_id": "12",
+    "nazwa": "Samborowice"
+  },
+  {
+    "id": "333",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sarn\u00f3w"
+  },
+  {
+    "id": "753",
+    "wojewodztwo_id": "12",
+    "nazwa": "Siamoszyce"
+  },
+  {
+    "id": "593",
+    "wojewodztwo_id": "12",
+    "nazwa": "Siedlec Du\u017cy"
+  },
+  {
+    "id": "845",
+    "wojewodztwo_id": "12",
+    "nazwa": "Siemianowice \u015al\u0105skie"
+  },
+  {
+    "id": "321",
+    "wojewodztwo_id": "12",
+    "nazwa": "Siemonia"
+  },
+  {
+    "id": "792",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sienna"
+  },
+  {
+    "id": "562",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sierak\u00f3w \u015al\u0105ski"
+  },
+  {
+    "id": "509",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sierakowice"
+  },
+  {
+    "id": "335",
+    "wojewodztwo_id": "12",
+    "nazwa": "Siewierz"
+  },
+  {
+    "id": "384",
+    "wojewodztwo_id": "12",
+    "nazwa": "Simoradz"
+  },
+  {
+    "id": "400",
+    "wojewodztwo_id": "12",
+    "nazwa": "Skocz\u00f3w"
+  },
+  {
+    "id": "733",
+    "wojewodztwo_id": "12",
+    "nazwa": "Skrbe\u0144sko"
+  },
+  {
+    "id": "429",
+    "wojewodztwo_id": "12",
+    "nazwa": "Skrzydl\u00f3w"
+  },
+  {
+    "id": "735",
+    "wojewodztwo_id": "12",
+    "nazwa": "Skrzysz\u00f3w"
+  },
+  {
+    "id": "816",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015alemie\u0144"
+  },
+  {
+    "id": "451",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015al\u0119zany"
+  },
+  {
+    "id": "825",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sobl\u00f3wka"
+  },
+  {
+    "id": "419",
+    "wojewodztwo_id": "12",
+    "nazwa": "Soborzyce"
+  },
+  {
+    "id": "605",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sokolniki"
+  },
+  {
+    "id": "812",
+    "wojewodztwo_id": "12",
+    "nazwa": "S\u00f3l"
+  },
+  {
+    "id": "788",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sopotnia Ma\u0142a"
+  },
+  {
+    "id": "786",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sopotnia Wielka"
+  },
+  {
+    "id": "506",
+    "wojewodztwo_id": "12",
+    "nazwa": "So\u015bnicowice"
+  },
+  {
+    "id": "846",
+    "wojewodztwo_id": "12",
+    "nazwa": "Sosnowiec"
+  },
+  {
+    "id": "494",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stanica"
+  },
+  {
+    "id": "681",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stanowice"
+  },
+  {
+    "id": "368",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stara Wie\u015b"
+  },
+  {
+    "id": "487",
+    "wojewodztwo_id": "12",
+    "nazwa": "Starcza"
+  },
+  {
+    "id": "525",
+    "wojewodztwo_id": "12",
+    "nazwa": "Starokrzepice"
+  },
+  {
+    "id": "463",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stary Broniszew"
+  },
+  {
+    "id": "470",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stary Cykarzew"
+  },
+  {
+    "id": "464",
+    "wojewodztwo_id": "12",
+    "nazwa": "Stary Kocin"
+  },
+  {
+    "id": "406",
+    "wojewodztwo_id": "12",
+    "nazwa": "Strumie\u0144"
+  },
+  {
+    "id": "570",
+    "wojewodztwo_id": "12",
+    "nazwa": "Strzebi\u0144"
+  },
+  {
+    "id": "334",
+    "wojewodztwo_id": "12",
+    "nazwa": "Strzy\u017cowice"
+  },
+  {
+    "id": "636",
+    "wojewodztwo_id": "12",
+    "nazwa": "Studzienice"
+  },
+  {
+    "id": "630",
+    "wojewodztwo_id": "12",
+    "nazwa": "Studzionka"
+  },
+  {
+    "id": "642",
+    "wojewodztwo_id": "12",
+    "nazwa": "Suszec"
+  },
+  {
+    "id": "515",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awibie"
+  },
+  {
+    "id": "705",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awierklaniec"
+  },
+  {
+    "id": "694",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awierklany"
+  },
+  {
+    "id": "847",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awi\u0119toch\u0142owice"
+  },
+  {
+    "id": "353",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awi\u0119tosz\u00f3wka"
+  },
+  {
+    "id": "820",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u015awinna"
+  },
+  {
+    "id": "744",
+    "wojewodztwo_id": "12",
+    "nazwa": "Syrynia"
+  },
+  {
+    "id": "805",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szare"
+  },
+  {
+    "id": "682",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szczejkowice"
+  },
+  {
+    "id": "769",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szczekociny"
+  },
+  {
+    "id": "687",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szczerbice"
+  },
+  {
+    "id": "340",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szczyrk"
+  },
+  {
+    "id": "674",
+    "wojewodztwo_id": "12",
+    "nazwa": "Szonowice"
+  },
+  {
+    "id": "339",
+    "wojewodztwo_id": "12",
+    "nazwa": "S\u0142awk\u00f3w"
+  },
+  {
+    "id": "795",
+    "wojewodztwo_id": "12",
+    "nazwa": "S\u0142otwina"
+  },
+  {
+    "id": "478",
+    "wojewodztwo_id": "12",
+    "nazwa": "S\u0142owik"
+  },
+  {
+    "id": "701",
+    "wojewodztwo_id": "12",
+    "nazwa": "T\u0105pkowice"
+  },
+  {
+    "id": "698",
+    "wojewodztwo_id": "12",
+    "nazwa": "Tarnowskie G\u00f3ry"
+  },
+  {
+    "id": "603",
+    "wojewodztwo_id": "12",
+    "nazwa": "Tomiszowice"
+  },
+  {
+    "id": "328",
+    "wojewodztwo_id": "12",
+    "nazwa": "Toporowice"
+  },
+  {
+    "id": "513",
+    "wojewodztwo_id": "12",
+    "nazwa": "Toszek"
+  },
+  {
+    "id": "555",
+    "wojewodztwo_id": "12",
+    "nazwa": "Truskolasy"
+  },
+  {
+    "id": "823",
+    "wojewodztwo_id": "12",
+    "nazwa": "Trzebinia"
+  },
+  {
+    "id": "473",
+    "wojewodztwo_id": "12",
+    "nazwa": "Tur\u00f3w"
+  },
+  {
+    "id": "736",
+    "wojewodztwo_id": "12",
+    "nazwa": "Turza \u015al\u0105ska"
+  },
+  {
+    "id": "793",
+    "wojewodztwo_id": "12",
+    "nazwa": "Twardorzeczka"
+  },
+  {
+    "id": "656",
+    "wojewodztwo_id": "12",
+    "nazwa": "Twork\u00f3w"
+  },
+  {
+    "id": "709",
+    "wojewodztwo_id": "12",
+    "nazwa": "Twor\u00f3g"
+  },
+  {
+    "id": "848",
+    "wojewodztwo_id": "12",
+    "nazwa": "Tychy"
+  },
+  {
+    "id": "824",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ujso\u0142y"
+  },
+  {
+    "id": "376",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ustro\u0144"
+  },
+  {
+    "id": "535",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wale\u0144cz\u00f3w"
+  },
+  {
+    "id": "623",
+    "wojewodztwo_id": "12",
+    "nazwa": "Warszowice"
+  },
+  {
+    "id": "545",
+    "wojewodztwo_id": "12",
+    "nazwa": "W\u0105sosz G\u00f3rny"
+  },
+  {
+    "id": "828",
+    "wojewodztwo_id": "12",
+    "nazwa": "W\u0119gierska G\u00f3rka"
+  },
+  {
+    "id": "556",
+    "wojewodztwo_id": "12",
+    "nazwa": "W\u0119glowice"
+  },
+  {
+    "id": "448",
+    "wojewodztwo_id": "12",
+    "nazwa": "Widz\u00f3w"
+  },
+  {
+    "id": "546",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wi\u0119cki"
+  },
+  {
+    "id": "514",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wielowie\u015b"
+  },
+  {
+    "id": "808",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wieprz"
+  },
+  {
+    "id": "768",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wierbka"
+  },
+  {
+    "id": "465",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wierzchowisko"
+  },
+  {
+    "id": "357",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wieszcz\u0119ta"
+  },
+  {
+    "id": "719",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wieszowa"
+  },
+  {
+    "id": "371",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wilamowice"
+  },
+  {
+    "id": "495",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wilcza"
+  },
+  {
+    "id": "372",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wilkowice"
+  },
+  {
+    "id": "536",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wilkowiecko"
+  },
+  {
+    "id": "595",
+    "wojewodztwo_id": "12",
+    "nazwa": "Winowno"
+  },
+  {
+    "id": "377",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wis\u0142a"
+  },
+  {
+    "id": "631",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wis\u0142a Ma\u0142a"
+  },
+  {
+    "id": "639",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wis\u0142a Wielka"
+  },
+  {
+    "id": "433",
+    "wojewodztwo_id": "12",
+    "nazwa": "Witkowice"
+  },
+  {
+    "id": "729",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wodzis\u0142aw \u015al\u0105ski"
+  },
+  {
+    "id": "319",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wojkowice"
+  },
+  {
+    "id": "336",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wojkowice Ko\u015bcielne"
+  },
+  {
+    "id": "651",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wojnowice"
+  },
+  {
+    "id": "711",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wojska"
+  },
+  {
+    "id": "620",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wola"
+  },
+  {
+    "id": "481",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wola Mokrzeska"
+  },
+  {
+    "id": "580",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wo\u017aniki"
+  },
+  {
+    "id": "554",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wr\u0119czyca Wielka"
+  },
+  {
+    "id": "480",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wrzosowa"
+  },
+  {
+    "id": "588",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wyry"
+  },
+  {
+    "id": "756",
+    "wojewodztwo_id": "12",
+    "nazwa": "Wysoka"
+  },
+  {
+    "id": "772",
+    "wojewodztwo_id": "12",
+    "nazwa": "W\u0142odowice"
+  },
+  {
+    "id": "654",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zabe\u0142k\u00f3w"
+  },
+  {
+    "id": "830",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017babnica"
+  },
+  {
+    "id": "382",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zaborze"
+  },
+  {
+    "id": "849",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zabrze"
+  },
+  {
+    "id": "352",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zabrzeg"
+  },
+  {
+    "id": "408",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zab\u0142ocie"
+  },
+  {
+    "id": "524",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zaj\u0105czki Drugie"
+  },
+  {
+    "id": "522",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zaj\u0105czki Pierwsze"
+  },
+  {
+    "id": "482",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zalesice"
+  },
+  {
+    "id": "395",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zamarski"
+  },
+  {
+    "id": "614",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017barki"
+  },
+  {
+    "id": "607",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017barki-Letnisko"
+  },
+  {
+    "id": "775",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017barnowiec"
+  },
+  {
+    "id": "798",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zarzecze"
+  },
+  {
+    "id": "434",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zawada"
+  },
+  {
+    "id": "667",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zawada Ksi\u0105\u017c\u0119ca"
+  },
+  {
+    "id": "542",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zawady"
+  },
+  {
+    "id": "749",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zawiercie"
+  },
+  {
+    "id": "559",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zborowskie"
+  },
+  {
+    "id": "720",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zbros\u0142awice"
+  },
+  {
+    "id": "773",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zd\u00f3w"
+  },
+  {
+    "id": "414",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zebrzydowice"
+  },
+  {
+    "id": "337",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017belis\u0142awice"
+  },
+  {
+    "id": "702",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zendek"
+  },
+  {
+    "id": "496",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017bernica"
+  },
+  {
+    "id": "717",
+    "wojewodztwo_id": "12",
+    "nazwa": "Ziemi\u0119cice"
+  },
+  {
+    "id": "850",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017bory"
+  },
+  {
+    "id": "475",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zr\u0119bice"
+  },
+  {
+    "id": "814",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zwardo\u0144"
+  },
+  {
+    "id": "538",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zwierzyniec Pierwszy"
+  },
+  {
+    "id": "693",
+    "wojewodztwo_id": "12",
+    "nazwa": "Zwonowice"
+  },
+  {
+    "id": "777",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u017bywiec"
+  },
+  {
+    "id": "826",
+    "wojewodztwo_id": "12",
+    "nazwa": "Z\u0142atna"
+  },
+  {
+    "id": "533",
+    "wojewodztwo_id": "12",
+    "nazwa": "Z\u0142ochowice"
+  },
+  {
+    "id": "425",
+    "wojewodztwo_id": "12",
+    "nazwa": "Z\u0142oty Potok"
+  },
+  {
+    "id": "577",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141agiewniki Ma\u0142e"
+  },
+  {
+    "id": "635",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141\u0105ka"
+  },
+  {
+    "id": "438",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141aziec"
+  },
+  {
+    "id": "731",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141aziska"
+  },
+  {
+    "id": "583",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141aziska G\u00f3rne"
+  },
+  {
+    "id": "755",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141azy"
+  },
+  {
+    "id": "797",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141\u0119kawica"
+  },
+  {
+    "id": "518",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141obodno"
+  },
+  {
+    "id": "799",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141odygowice"
+  },
+  {
+    "id": "417",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141ojki"
+  },
+  {
+    "id": "604",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141utowiec"
+  },
+  {
+    "id": "435",
+    "wojewodztwo_id": "12",
+    "nazwa": "\u0141ysiny"
+  }
+]

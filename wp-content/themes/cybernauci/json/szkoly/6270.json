@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18023",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6270",
+    "miejscowosc": "Kiszkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "21",
+    "kod": "62-280",
+    "poczta": "Kiszkowo\r"
+  },
+  {
+    "id": "18024",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6270",
+    "miejscowosc": "Kiszkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "21",
+    "kod": "62-280",
+    "poczta": "Kiszkowo\r"
+  }
+]

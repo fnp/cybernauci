@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23811",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8654",
+    "miejscowosc": "Andrzejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Srebi\u0144ska",
+    "numer": "12A",
+    "kod": "07-305",
+    "poczta": "Andrzejewo\r"
+  },
+  {
+    "id": "23808",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8654",
+    "miejscowosc": "Andrzejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Andrzejewo",
+    "numer": "",
+    "kod": "07-305",
+    "poczta": "Andrzejewo\r"
+  }
+]

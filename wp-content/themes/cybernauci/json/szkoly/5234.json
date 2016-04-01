@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14852",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5234",
+    "miejscowosc": "Marcinowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Marcinowice",
+    "numer": "57",
+    "kod": "59-407",
+    "poczta": "M\u015bciwoj\u00f3w\r"
+  },
+  {
+    "id": "15476",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5234",
+    "miejscowosc": "Marcinowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "18a",
+    "kod": "58-124",
+    "poczta": "Marcinowice\r"
+  },
+  {
+    "id": "15477",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5234",
+    "miejscowosc": "Marcinowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "18a",
+    "kod": "58-124",
+    "poczta": "Marcinowice\r"
+  }
+]

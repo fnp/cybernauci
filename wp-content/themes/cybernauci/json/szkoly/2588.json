@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7010",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2588",
+    "miejscowosc": "Gliczar\u00f3w G\u00f3rny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gliczar\u00f3w G\u00f3rny",
+    "numer": "101",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  },
+  {
+    "id": "7011",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2588",
+    "miejscowosc": "Gliczar\u00f3w G\u00f3rny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Andrzeja Skupnia Florka",
+    "ulica": "Gliczar\u00f3w G\u00f3rny",
+    "numer": "101",
+    "kod": "34-425",
+    "poczta": "Bia\u0142y Dunajec\r"
+  }
+]

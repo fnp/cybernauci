@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11640",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4153",
+    "miejscowosc": "Pieszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Pieszcz",
+    "numer": "46",
+    "kod": "76-113",
+    "poczta": "Postomino\r"
+  },
+  {
+    "id": "11641",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4153",
+    "miejscowosc": "Pieszcz",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Pieszcz",
+    "numer": "46",
+    "kod": "76-113",
+    "poczta": "Postomino\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21707",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7766",
+    "miejscowosc": "Albigowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Albigowa",
+    "numer": "489",
+    "kod": "37-122",
+    "poczta": "Albigowa\r"
+  },
+  {
+    "id": "21708",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7766",
+    "miejscowosc": "Albigowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Albigowa",
+    "numer": "489",
+    "kod": "37-122",
+    "poczta": "Albigowa\r"
+  }
+]

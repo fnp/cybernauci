@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3529",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "994",
+    "miejscowosc": "Ruda-Huta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "St. W\u00f3jtowicza",
+    "numer": "9",
+    "kod": "22-110",
+    "poczta": "Ruda-Huta\r"
+  },
+  {
+    "id": "3530",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "994",
+    "miejscowosc": "Ruda-Huta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "St. W\u00f3jtowicza",
+    "numer": "9",
+    "kod": "22-110",
+    "poczta": "Ruda-Huta\r"
+  }
+]

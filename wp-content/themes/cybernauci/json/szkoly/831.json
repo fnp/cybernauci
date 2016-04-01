@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2012",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "831",
+    "miejscowosc": "Cisiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "34-350",
+    "poczta": "W\u0119gierska G\u00f3rka\r"
+  },
+  {
+    "id": "2013",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "831",
+    "miejscowosc": "Cisiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "34-350",
+    "poczta": "W\u0119gierska G\u00f3rka\r"
+  }
+]

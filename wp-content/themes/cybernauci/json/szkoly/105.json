@@ -1,0 +1,26 @@
+[
+  {
+    "id": "234",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "105",
+    "miejscowosc": "Strzeleczki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Sienkiewicza",
+    "numer": "37",
+    "kod": "47-364",
+    "poczta": "Strzeleczki\r"
+  },
+  {
+    "id": "232",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "105",
+    "miejscowosc": "Strzeleczki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sienkiewicza",
+    "numer": "3",
+    "kod": "47-364",
+    "poczta": "Strzeleczki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9375",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3412",
+    "miejscowosc": "Kmiecin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017bu\u0142awska",
+    "numer": "6",
+    "kod": "82-100",
+    "poczta": "Nowy Dw\u00f3r Gda\u0144ski\r"
+  },
+  {
+    "id": "9376",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3412",
+    "miejscowosc": "Kmiecin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017bu\u0142awska",
+    "numer": "6",
+    "kod": "82-100",
+    "poczta": "Nowy Dw\u00f3r Gda\u0144ski\r"
+  }
+]

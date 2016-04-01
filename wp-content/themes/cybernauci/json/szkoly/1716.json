@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5194",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1716",
+    "miejscowosc": "Kamionna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Kamionna",
+    "numer": "263",
+    "kod": "32-732",
+    "poczta": "Kamionna\r"
+  },
+  {
+    "id": "5197",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1716",
+    "miejscowosc": "Kamionna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kamionna",
+    "numer": "263",
+    "kod": "32-732",
+    "poczta": "Kamionna\r"
+  }
+]

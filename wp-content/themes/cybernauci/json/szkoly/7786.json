@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21781",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7786",
+    "miejscowosc": "Czermin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Czermin",
+    "numer": "454",
+    "kod": "39-304",
+    "poczta": "Czermin\r"
+  },
+  {
+    "id": "21776",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7786",
+    "miejscowosc": "Czermin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czermin",
+    "numer": "454",
+    "kod": "39-304",
+    "poczta": "Czermin\r"
+  }
+]

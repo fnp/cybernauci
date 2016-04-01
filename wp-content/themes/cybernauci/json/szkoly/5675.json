@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16348",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5675",
+    "miejscowosc": "Krzy\u017can\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Krzy\u017can\u00f3w",
+    "numer": "6",
+    "kod": "99-314",
+    "poczta": "Krzy\u017can\u00f3w\r"
+  },
+  {
+    "id": "16802",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5675",
+    "miejscowosc": "Krzy\u017can\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Krzy\u017can\u00f3w",
+    "numer": "55",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  }
+]

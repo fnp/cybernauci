@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24711",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8706",
+    "miejscowosc": "K\u0105ty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "K\u0105ty",
+    "numer": "74b",
+    "kod": "96-500",
+    "poczta": "Sochaczew\r"
+  },
+  {
+    "id": "23921",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8706",
+    "miejscowosc": "K\u0105ty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "58",
+    "kod": "05-340",
+    "poczta": "Ko\u0142biel\r"
+  },
+  {
+    "id": "23950",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8706",
+    "miejscowosc": "K\u0105ty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pu\u0142awska",
+    "numer": "4",
+    "kod": "05-532",
+    "poczta": "Baniocha\r"
+  },
+  {
+    "id": "24712",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8706",
+    "miejscowosc": "K\u0105ty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "K\u0105ty",
+    "numer": "74b",
+    "kod": "96-500",
+    "poczta": "Sochaczew\r"
+  }
+]

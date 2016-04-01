@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5522",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1867",
+    "miejscowosc": "Szalowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szalowa",
+    "numer": "16",
+    "kod": "38-331",
+    "poczta": "Szalowa\r"
+  },
+  {
+    "id": "5523",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1867",
+    "miejscowosc": "Szalowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szalowa",
+    "numer": "16",
+    "kod": "38-331",
+    "poczta": "Szalowa\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6406",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2325",
+    "miejscowosc": "Ochotnica Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Jana Paw\u0142a II ",
+    "ulica": "Centrum",
+    "numer": "105",
+    "kod": "34-452",
+    "poczta": "Ochotnica Dolna\r"
+  },
+  {
+    "id": "6404",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2325",
+    "miejscowosc": "Ochotnica Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "M\u0142ynne",
+    "numer": "85",
+    "kod": "34-452",
+    "poczta": "Ochotnica Dolna\r"
+  },
+  {
+    "id": "6400",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2325",
+    "miejscowosc": "Ochotnica Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Skrodne",
+    "numer": "240",
+    "kod": "34-452",
+    "poczta": "Ochotnica Dolna\r"
+  },
+  {
+    "id": "6401",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2325",
+    "miejscowosc": "Ochotnica Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Centrum",
+    "numer": "105",
+    "kod": "34-452",
+    "poczta": "Ochotnica Dolna\r"
+  }
+]

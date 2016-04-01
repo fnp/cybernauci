@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8984",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3236",
+    "miejscowosc": "Rzeczenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Gen. W\u0142. Andersa",
+    "ulica": "Przechlewska",
+    "numer": "6",
+    "kod": "77-304",
+    "poczta": "Rzeczenica\r"
+  },
+  {
+    "id": "8985",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3236",
+    "miejscowosc": "Rzeczenica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Gen W\u0142. Andersa",
+    "ulica": "Przechlewska",
+    "numer": "6",
+    "kod": "77-304",
+    "poczta": "Rzeczenica\r"
+  }
+]

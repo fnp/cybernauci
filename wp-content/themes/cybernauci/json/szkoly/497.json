@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1123",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "497",
+    "miejscowosc": "Pilchowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015awierczewskiego",
+    "numer": "1",
+    "kod": "44-145",
+    "poczta": "Pilchowice\r"
+  },
+  {
+    "id": "1124",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "497",
+    "miejscowosc": "Pilchowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u015awierczewskiego",
+    "numer": "1",
+    "kod": "44-145",
+    "poczta": "Pilchowice\r"
+  }
+]

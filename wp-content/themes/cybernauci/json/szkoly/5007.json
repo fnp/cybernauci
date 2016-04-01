@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13899",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5007",
+    "miejscowosc": "Serock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Wyzwolenia",
+    "numer": "47",
+    "kod": "86-120",
+    "poczta": "Pruszcz\r"
+  },
+  {
+    "id": "13897",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5007",
+    "miejscowosc": "Serock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "47",
+    "kod": "86-120",
+    "poczta": "Pruszcz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23410",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8475",
+    "miejscowosc": "Czerwonka W\u0142o\u015bcia\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Czerwonka W\u0142o\u015bcia\u0144ska",
+    "numer": "37",
+    "kod": "06-232",
+    "poczta": "Czerwonka\r"
+  },
+  {
+    "id": "23411",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8475",
+    "miejscowosc": "Czerwonka W\u0142o\u015bcia\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Czerwonka W\u0142o\u015bcia\u0144ska",
+    "numer": "37A",
+    "kod": "06-232",
+    "poczta": "Czerwonka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10405",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3690",
+    "miejscowosc": "Orla",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bielska",
+    "numer": "32",
+    "kod": "17-106",
+    "poczta": "Orla\r"
+  },
+  {
+    "id": "10406",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3690",
+    "miejscowosc": "Orla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bielska",
+    "numer": "32",
+    "kod": "17-106",
+    "poczta": "Orla\r"
+  }
+]

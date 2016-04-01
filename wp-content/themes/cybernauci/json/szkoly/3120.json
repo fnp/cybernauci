@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8619",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3120",
+    "miejscowosc": "Rytwiany",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych im. Jana Paw\u0142a II Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "01-wrz",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  },
+  {
+    "id": "8620",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3120",
+    "miejscowosc": "Rytwiany",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych im. Jana Paw\u0142a II Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "01-wrz",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  }
+]

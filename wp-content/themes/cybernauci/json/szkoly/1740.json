@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5244",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1740",
+    "miejscowosc": "Z\u0142ota",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Adama Mickiewicza ",
+    "ulica": "Z\u0142ota",
+    "numer": "50",
+    "kod": "32-859",
+    "poczta": "Z\u0142ota\r"
+  },
+  {
+    "id": "5245",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1740",
+    "miejscowosc": "Z\u0142ota",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Z\u0142ota",
+    "numer": "50",
+    "kod": "32-859",
+    "poczta": "Z\u0142ota\r"
+  }
+]

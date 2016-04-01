@@ -1,0 +1,98 @@
+[
+  {
+    "id": "21559",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Miejskie",
+    "ulica": "Sk\u0142odowskiej",
+    "numer": "8",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21560",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr 1",
+    "ulica": "M. C. Sk\u0142odowskiej",
+    "numer": "6",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21556",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Grunwaldzka",
+    "numer": "1",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21557",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "51",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21558",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "11 Listopada",
+    "numer": "8",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21562",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "67",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21561",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "M. C. Sk\u0142odowskiej",
+    "numer": "6",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21563",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7697",
+    "miejscowosc": "Le\u017cajsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "67",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  }
+]

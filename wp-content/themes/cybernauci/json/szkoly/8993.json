@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24526",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8993",
+    "miejscowosc": "Wolan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "17",
+    "kod": "26-625",
+    "poczta": "Wolan\u00f3w\r"
+  },
+  {
+    "id": "24527",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8993",
+    "miejscowosc": "Wolan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Publiczne Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "17",
+    "kod": "26-625",
+    "poczta": "Wolan\u00f3w\r"
+  }
+]

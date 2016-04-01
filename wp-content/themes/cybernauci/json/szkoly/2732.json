@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7831",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2732",
+    "miejscowosc": "Wi\u015blica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Okopowa",
+    "numer": "27",
+    "kod": "28-160",
+    "poczta": "Wi\u015blica\r"
+  },
+  {
+    "id": "7832",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2732",
+    "miejscowosc": "Wi\u015blica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Podwale",
+    "numer": "1",
+    "kod": "28-160",
+    "poczta": "Wi\u015blica\r"
+  }
+]

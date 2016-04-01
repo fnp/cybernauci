@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20966",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7410",
+    "miejscowosc": "Izdebki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Izdebki",
+    "numer": "362",
+    "kod": "36-203",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20962",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7410",
+    "miejscowosc": "Izdebki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Izdebki",
+    "numer": "282",
+    "kod": "36-203",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20964",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7410",
+    "miejscowosc": "Izdebki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Izdebki",
+    "numer": "438",
+    "kod": "36-203",
+    "poczta": "Izdebki\r"
+  }
+]

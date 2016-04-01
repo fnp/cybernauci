@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17341",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6155",
+    "miejscowosc": "Prusinowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Spo\u0142ecznego Stowarzyszenia O\u015bwiatowego",
+    "ulica": "Prusinowice",
+    "numer": "49",
+    "kod": "98-240",
+    "poczta": "Szadek\r"
+  },
+  {
+    "id": "17339",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6155",
+    "miejscowosc": "Prusinowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Prusinowice",
+    "numer": "49",
+    "kod": "98-240",
+    "poczta": "Szadek\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23046",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8318",
+    "miejscowosc": "Stefan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stefan\u00f3w",
+    "numer": "108",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23065",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8318",
+    "miejscowosc": "Stefan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w 1 grudnia 1939 r.",
+    "ulica": "Stefan\u00f3w",
+    "numer": "38",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23047",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8318",
+    "miejscowosc": "Stefan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Stefan\u00f3w",
+    "numer": "108",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23066",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8318",
+    "miejscowosc": "Stefan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w 1 grudnia 1939 r.",
+    "ulica": "Stefan\u00f3w",
+    "numer": "38",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  }
+]

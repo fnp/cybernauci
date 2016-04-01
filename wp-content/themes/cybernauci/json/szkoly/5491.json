@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15532",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5491",
+    "miejscowosc": "Prusice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. H. Sienkiewicza",
+    "ulica": "\u017bmigrodzka",
+    "numer": "43",
+    "kod": "55-110",
+    "poczta": "Prusice\r"
+  },
+  {
+    "id": "15533",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5491",
+    "miejscowosc": "Prusice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "\u017bmigrodzka",
+    "numer": "43",
+    "kod": "55-110",
+    "poczta": "Prusice\r"
+  }
+]

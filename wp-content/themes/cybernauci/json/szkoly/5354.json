@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15158",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5354",
+    "miejscowosc": "Lubomierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Hieronima Wietora",
+    "ulica": "Chopina",
+    "numer": "9",
+    "kod": "59-623",
+    "poczta": "Lubomierz\r"
+  },
+  {
+    "id": "15159",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5354",
+    "miejscowosc": "Lubomierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Aleksandra Kami\u0144skiego",
+    "ulica": "Chopina",
+    "numer": "9",
+    "kod": "59-623",
+    "poczta": "Lubomierz\r"
+  },
+  {
+    "id": "15156",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5354",
+    "miejscowosc": "Lubomierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "59-623",
+    "poczta": "Lubomierz\r"
+  },
+  {
+    "id": "15160",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5354",
+    "miejscowosc": "Lubomierz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Chopina",
+    "numer": "9",
+    "kod": "59-623",
+    "poczta": "Lubomierz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3667",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1069",
+    "miejscowosc": "Stojeszyn Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Stojeszyn Pierwszy",
+    "numer": "5",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  },
+  {
+    "id": "3668",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1069",
+    "miejscowosc": "Stojeszyn Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Stojeszyn Pierwszy",
+    "numer": "5",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  }
+]

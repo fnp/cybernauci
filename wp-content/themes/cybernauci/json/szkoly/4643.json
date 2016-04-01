@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13025",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4643",
+    "miejscowosc": "Pozezdrze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "1 Maja",
+    "numer": "1 B",
+    "kod": "11-610",
+    "poczta": "Pozezdrze\r"
+  },
+  {
+    "id": "13026",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4643",
+    "miejscowosc": "Pozezdrze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "1 Maja",
+    "numer": "1 B",
+    "kod": "11-610",
+    "poczta": "Pozezdrze\r"
+  }
+]

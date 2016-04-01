@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1749",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "734",
+    "miejscowosc": "Go\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Porucznika Pilota Franciszka Surmy ",
+    "ulica": "1 Maja",
+    "numer": "101 a",
+    "kod": "44-341",
+    "poczta": "Go\u0142kowice\r"
+  },
+  {
+    "id": "1750",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "734",
+    "miejscowosc": "Go\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "1",
+    "kod": "44-341",
+    "poczta": "Go\u0142kowice\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "775",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "345",
+    "miejscowosc": "Buczkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Szko\u0142a Mistrzostwa Sportowego Szczyrk",
+    "ulica": "Grunwaldzka",
+    "numer": "220",
+    "kod": "43-374",
+    "poczta": "Buczkowice\r"
+  },
+  {
+    "id": "783",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "345",
+    "miejscowosc": "Buczkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "815",
+    "kod": "43-374",
+    "poczta": "Buczkowice\r"
+  },
+  {
+    "id": "776",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "345",
+    "miejscowosc": "Buczkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego Szczyrk",
+    "ulica": "Grunwaldzka",
+    "numer": "220",
+    "kod": "43-374",
+    "poczta": "Buczkowice\r"
+  },
+  {
+    "id": "784",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "345",
+    "miejscowosc": "Buczkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "815",
+    "kod": "43-374",
+    "poczta": "Buczkowice\r"
+  },
+  {
+    "id": "785",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "345",
+    "miejscowosc": "Buczkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "815",
+    "kod": "43-374",
+    "poczta": "Buczkowice\r"
+  }
+]

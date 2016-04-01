@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21926",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7877",
+    "miejscowosc": "Huwniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Huwniki",
+    "numer": "8",
+    "kod": "37-743",
+    "poczta": "Nowosi\u00f3\u0142ki Dydy\u0144skie\r"
+  },
+  {
+    "id": "21927",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7877",
+    "miejscowosc": "Huwniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Huwniki",
+    "numer": "8",
+    "kod": "37-743",
+    "poczta": "Nowosi\u00f3\u0142ki Dydy\u0144skie\r"
+  }
+]

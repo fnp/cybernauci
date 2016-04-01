@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1710",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Strzelc\u00f3w Bytomskich",
+    "numer": "13",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1712",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Raciborska",
+    "numer": "270",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1711",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Noblist\u00f3w Polskich",
+    "ulica": "Skalna",
+    "numer": "1",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1708",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "\u015bw. Maksymiliana Kolbe",
+    "numer": "5",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1713",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Raciborska",
+    "numer": "270",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1709",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Radoszowska",
+    "numer": "3",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1714",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Obywatelska",
+    "numer": "30",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  },
+  {
+    "id": "1715",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "728",
+    "miejscowosc": "Rydu\u0142towy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Obywatelska",
+    "numer": "30",
+    "kod": "44-280",
+    "poczta": "Rydu\u0142towy\r"
+  }
+]

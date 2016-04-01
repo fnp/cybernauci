@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8452",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3051",
+    "miejscowosc": "Wilczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wilczyce",
+    "numer": "177",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  },
+  {
+    "id": "8453",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3051",
+    "miejscowosc": "Wilczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilczyce",
+    "numer": "177",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  }
+]

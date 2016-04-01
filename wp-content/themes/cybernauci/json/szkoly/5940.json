@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16894",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5940",
+    "miejscowosc": "Kobiele Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-524",
+    "poczta": "Kobiele Wielkie\r"
+  },
+  {
+    "id": "16895",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5940",
+    "miejscowosc": "Kobiele Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-524",
+    "poczta": "Kobiele Wielkie\r"
+  }
+]

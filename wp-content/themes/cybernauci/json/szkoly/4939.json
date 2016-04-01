@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13775",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4939",
+    "miejscowosc": "Top\u00f3lka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Top\u00f3lka",
+    "numer": "26",
+    "kod": "87-875",
+    "poczta": "Top\u00f3lka\r"
+  },
+  {
+    "id": "13774",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4939",
+    "miejscowosc": "Top\u00f3lka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Top\u00f3lka",
+    "numer": "26",
+    "kod": "87-875",
+    "poczta": "Top\u00f3lka\r"
+  }
+]

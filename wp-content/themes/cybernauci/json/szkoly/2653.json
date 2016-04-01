@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7183",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2653",
+    "miejscowosc": "Wieprz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Wieprz",
+    "numer": "218A",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  },
+  {
+    "id": "7185",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2653",
+    "miejscowosc": "Wieprz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Beskidzka",
+    "numer": "324",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  },
+  {
+    "id": "7184",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2653",
+    "miejscowosc": "Wieprz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Centralna",
+    "numer": "19",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  },
+  {
+    "id": "7186",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2653",
+    "miejscowosc": "Wieprz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Beskidzka",
+    "numer": "324",
+    "kod": "34-122",
+    "poczta": "Wieprz\r"
+  }
+]

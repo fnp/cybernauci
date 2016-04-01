@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9567",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3500",
+    "miejscowosc": "Lubichowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "15",
+    "kod": "83-240",
+    "poczta": "Lubichowo\r"
+  },
+  {
+    "id": "9566",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3500",
+    "miejscowosc": "Lubichowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Andrzeja Grubby",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "29",
+    "kod": "83-208",
+    "poczta": "Zelgoszcz\r"
+  },
+  {
+    "id": "9568",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3500",
+    "miejscowosc": "Lubichowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. ks. kard. St. Wyszy\u0144skiego",
+    "ulica": "Ks. Lorenza",
+    "numer": "8",
+    "kod": "83-240",
+    "poczta": "Lubichowo\r"
+  },
+  {
+    "id": "9569",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3500",
+    "miejscowosc": "Lubichowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Ponadgimnazjalne",
+    "ulica": "Ks. Lorenza",
+    "numer": "8",
+    "kod": "83-240",
+    "poczta": "Lubichowo\r"
+  }
+]

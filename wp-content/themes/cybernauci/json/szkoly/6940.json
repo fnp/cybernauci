@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19387",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6940",
+    "miejscowosc": "Ostror\u00f3g",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Ostroroga ",
+    "ulica": "Jana Ostroroga",
+    "numer": "14",
+    "kod": "64-560",
+    "poczta": "Ostror\u00f3g\r"
+  },
+  {
+    "id": "19388",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6940",
+    "miejscowosc": "Ostror\u00f3g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Ostroroga ",
+    "ulica": "Jana Ostroroga",
+    "numer": "14",
+    "kod": "64-560",
+    "poczta": "Ostror\u00f3g\r"
+  }
+]

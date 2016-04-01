@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17305",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II\u00a0",
+    "ulica": "Warszawska",
+    "numer": "123a",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17306",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 w Zespole Szk\u00f3\u0142 Nr 2",
+    "ulica": "Teklinowska",
+    "numer": "27",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17308",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Miko\u0142aja Kopernika",
+    "numer": "2a",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17309",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane",
+    "ulica": "Szkolna",
+    "numer": "1-3",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17301",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka",
+    "ulica": "Fabryczna",
+    "numer": "1",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17307",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 w Zespole Szk\u00f3\u0142 Nr 2",
+    "ulica": "Teklinowska",
+    "numer": "27",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17310",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "1-3",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  },
+  {
+    "id": "17311",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6149",
+    "miejscowosc": "Wierusz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "1-3",
+    "kod": "98-400",
+    "poczta": "Wierusz\u00f3w\r"
+  }
+]

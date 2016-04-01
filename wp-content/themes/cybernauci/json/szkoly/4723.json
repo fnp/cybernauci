@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13329",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4723",
+    "miejscowosc": "Nowa Wie\u015b Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "86-060",
+    "poczta": "Nowa Wie\u015b Wielka\r"
+  },
+  {
+    "id": "13328",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4723",
+    "miejscowosc": "Nowa Wie\u015b Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "86-060",
+    "poczta": "Nowa Wie\u015b Wielka\r"
+  }
+]

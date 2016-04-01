@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15355",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5436",
+    "miejscowosc": "Prusy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Bohater\u00f3w Armii Krajowej",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "57-150",
+    "poczta": "Prusy\r"
+  },
+  {
+    "id": "15356",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5436",
+    "miejscowosc": "Prusy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Armii Krajowej",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "57-150",
+    "poczta": "Prusy\r"
+  }
+]

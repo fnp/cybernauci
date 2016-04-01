@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10485",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3727",
+    "miejscowosc": "Narew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Abp. gen. dyw. Mirona Chodakowskiego",
+    "ulica": "Mickiewicza",
+    "numer": "81",
+    "kod": "17-210",
+    "poczta": "Narew\r"
+  },
+  {
+    "id": "10486",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3727",
+    "miejscowosc": "Narew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Zygmunta Berlinga",
+    "ulica": "Mickiewicza",
+    "numer": "81",
+    "kod": "17-210",
+    "poczta": "Narew\r"
+  }
+]

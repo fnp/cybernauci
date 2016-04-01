@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6123",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2184",
+    "miejscowosc": "Kr\u00f3lowa G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Kr\u00f3lowa G\u00f3rna",
+    "numer": "16",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6124",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2184",
+    "miejscowosc": "Kr\u00f3lowa G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Witosa",
+    "ulica": "Kr\u00f3lowa G\u00f3rna",
+    "numer": "16",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  }
+]

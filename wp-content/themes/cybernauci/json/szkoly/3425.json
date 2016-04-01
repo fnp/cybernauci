@@ -1,0 +1,74 @@
+[
+  {
+    "id": "9421",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Morska",
+    "numer": "1",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  },
+  {
+    "id": "9422",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Morska",
+    "numer": "1",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  },
+  {
+    "id": "9420",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Szko\u0142a Mistrzostwa Sportowego Polskiego Zwi\u0105zku Koszyk\u00f3wki ",
+    "ulica": "\u017beromskiego",
+    "numer": "52",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  },
+  {
+    "id": "9416",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "1000-lecia Pa\u0144stwa Polskiego",
+    "numer": "2",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  },
+  {
+    "id": "9417",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Drogowc\u00f3w",
+    "numer": "1",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  },
+  {
+    "id": "9423",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3425",
+    "miejscowosc": "W\u0142adys\u0142awowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Morska",
+    "numer": "1",
+    "kod": "84-120",
+    "poczta": "W\u0142adys\u0142awowo\r"
+  }
+]

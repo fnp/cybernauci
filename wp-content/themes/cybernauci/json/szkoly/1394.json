@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4257",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1394",
+    "miejscowosc": "Kluczkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kluczkowice",
+    "numer": "128",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4258",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1394",
+    "miejscowosc": "Kluczkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kluczkowice",
+    "numer": "128",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4260",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1394",
+    "miejscowosc": "Kluczkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ogrodnicze",
+    "ulica": "Kolejowa",
+    "numer": "7",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  }
+]

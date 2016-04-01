@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21919",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7867",
+    "miejscowosc": "Dubiecko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. I. Krasickiego",
+    "ulica": "Przemyska",
+    "numer": "6",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  },
+  {
+    "id": "21911",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7867",
+    "miejscowosc": "Dubiecko",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Ignacego Krasickiego",
+    "ulica": "Przemyska",
+    "numer": "6",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  },
+  {
+    "id": "21918",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7867",
+    "miejscowosc": "Dubiecko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Przemyska",
+    "numer": "10 A",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21085",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7457",
+    "miejscowosc": "\u0141\u0119ki Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119ki Dolne",
+    "numer": "122a",
+    "kod": "39-221",
+    "poczta": "\u0141\u0119ki G\u00f3rne\r"
+  },
+  {
+    "id": "21086",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7457",
+    "miejscowosc": "\u0141\u0119ki Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141\u0119ki Dolne",
+    "numer": "122a",
+    "kod": "39-221",
+    "poczta": "\u0141\u0119ki G\u00f3rne\r"
+  }
+]

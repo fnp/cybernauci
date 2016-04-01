@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17099",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6041",
+    "miejscowosc": "Kowiesy",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Kowiesy",
+    "numer": "20",
+    "kod": "96-111",
+    "poczta": "Kowiesy\r"
+  },
+  {
+    "id": "17098",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6041",
+    "miejscowosc": "Kowiesy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Kowiesy",
+    "numer": "81",
+    "kod": "96-111",
+    "poczta": "Kowiesy\r"
+  }
+]

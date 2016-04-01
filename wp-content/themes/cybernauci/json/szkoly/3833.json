@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10679",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3833",
+    "miejscowosc": "Krynki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Aleja Szkolna",
+    "numer": "10",
+    "kod": "16-120",
+    "poczta": "Krynki\r"
+  },
+  {
+    "id": "10680",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3833",
+    "miejscowosc": "Krynki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Elizy Orzeszkowej",
+    "ulica": "Aleja Szkolna",
+    "numer": "10",
+    "kod": "16-120",
+    "poczta": "Krynki\r"
+  }
+]

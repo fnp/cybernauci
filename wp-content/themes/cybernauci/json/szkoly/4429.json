@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12588",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4429",
+    "miejscowosc": "Miko\u0142ajki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Papie\u017ca Jana Paw\u0142a II",
+    "numer": "7",
+    "kod": "11-730",
+    "poczta": "Miko\u0142ajki\r"
+  },
+  {
+    "id": "12585",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4429",
+    "miejscowosc": "Miko\u0142ajki",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa Spo\u0142ecznego Towarzystwa O\u015bwiatowego",
+    "ulica": "Le\u015bna",
+    "numer": "2A",
+    "kod": "11-730",
+    "poczta": "Miko\u0142ajki\r"
+  },
+  {
+    "id": "12586",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4429",
+    "miejscowosc": "Miko\u0142ajki",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Spo\u0142ecznego Towarzystwa O\u015bwiatowego",
+    "ulica": "Le\u015bna",
+    "numer": "2A",
+    "kod": "11-730",
+    "poczta": "Miko\u0142ajki\r"
+  },
+  {
+    "id": "12587",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4429",
+    "miejscowosc": "Miko\u0142ajki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marion D\u00f6nhoff Spo\u0142ecznego Towarzystwa O\u015bwiatowego ",
+    "ulica": "Le\u015bna",
+    "numer": "2A",
+    "kod": "11-730",
+    "poczta": "Miko\u0142ajki\r"
+  },
+  {
+    "id": "12589",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4429",
+    "miejscowosc": "Miko\u0142ajki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Papie\u017ca Jana Paw\u0142a II",
+    "numer": "7",
+    "kod": "11-730",
+    "poczta": "Miko\u0142ajki\r"
+  }
+]

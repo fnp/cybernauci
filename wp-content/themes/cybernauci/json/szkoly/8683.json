@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23856",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8683",
+    "miejscowosc": "Nagoszewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Turka",
+    "numer": "40",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23857",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8683",
+    "miejscowosc": "Nagoszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Turka",
+    "numer": "40",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  }
+]

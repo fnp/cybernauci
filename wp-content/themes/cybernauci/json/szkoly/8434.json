@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24760",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8434",
+    "miejscowosc": "Skrzeszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Skrzeszew",
+    "numer": "98",
+    "kod": "08-307",
+    "poczta": "Repki\r"
+  },
+  {
+    "id": "24761",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8434",
+    "miejscowosc": "Skrzeszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Skrzeszew",
+    "numer": "98",
+    "kod": "08-307",
+    "poczta": "Repki\r"
+  },
+  {
+    "id": "23315",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8434",
+    "miejscowosc": "Skrzeszew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "05-124",
+    "poczta": "Skrzeszew\r"
+  }
+]

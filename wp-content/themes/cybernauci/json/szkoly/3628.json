@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10281",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3628",
+    "miejscowosc": "P\u0142aska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0142aska",
+    "numer": "56",
+    "kod": "16-326",
+    "poczta": "P\u0142aska\r"
+  },
+  {
+    "id": "10282",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3628",
+    "miejscowosc": "P\u0142aska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "P\u0142aska",
+    "numer": "56",
+    "kod": "16-326",
+    "poczta": "P\u0142aska\r"
+  }
+]

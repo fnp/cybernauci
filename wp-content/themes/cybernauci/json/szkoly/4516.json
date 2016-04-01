@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12774",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4516",
+    "miejscowosc": "Tu\u0142awki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Tu\u0142awki",
+    "numer": "31",
+    "kod": "11-001",
+    "poczta": "Dywity\r"
+  },
+  {
+    "id": "12775",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4516",
+    "miejscowosc": "Tu\u0142awki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tu\u0142awki",
+    "numer": "31",
+    "kod": "11-001",
+    "poczta": "Dywity\r"
+  }
+]

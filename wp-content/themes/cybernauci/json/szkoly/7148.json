@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20240",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7148",
+    "miejscowosc": "Witnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Samorz\u0105dowych ",
+    "ulica": "Plac Wolno\u015bci",
+    "numer": "7",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20241",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7148",
+    "miejscowosc": "Witnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Samorz\u0105dowych ",
+    "ulica": "Traugutta",
+    "numer": "1",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20245",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7148",
+    "miejscowosc": "Witnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wiosny Lud\u00f3w",
+    "numer": "14",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20242",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7148",
+    "miejscowosc": "Witnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Samorz\u0105dowych ",
+    "ulica": "Traugutta",
+    "numer": "1",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  },
+  {
+    "id": "20243",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7148",
+    "miejscowosc": "Witnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Samorz\u0105dowych",
+    "ulica": "Traugutta",
+    "numer": "1",
+    "kod": "66-460",
+    "poczta": "Witnica\r"
+  }
+]

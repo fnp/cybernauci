@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21626",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7728",
+    "miejscowosc": "Nowe Sio\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowe Sio\u0142o",
+    "numer": "15",
+    "kod": "37-611",
+    "poczta": "Cieszan\u00f3w\r"
+  },
+  {
+    "id": "21625",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7728",
+    "miejscowosc": "Nowe Sio\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowe Sio\u0142o",
+    "numer": "103",
+    "kod": "37-611",
+    "poczta": "Cieszan\u00f3w\r"
+  },
+  {
+    "id": "21621",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7728",
+    "miejscowosc": "Nowe Sio\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. p\u0142k Bronis\u0142awy Wys\u0142ouchowej z Szabatowskich",
+    "ulica": "Nowe Sio\u0142o",
+    "numer": "15",
+    "kod": "37-611",
+    "poczta": "Cieszan\u00f3w\r"
+  }
+]

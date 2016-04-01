@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4068",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1293",
+    "miejscowosc": "Ludwin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Ludwin",
+    "numer": "20",
+    "kod": "21-075",
+    "poczta": "Ludwin\r"
+  },
+  {
+    "id": "4069",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1293",
+    "miejscowosc": "Ludwin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ludwin",
+    "numer": "20",
+    "kod": "21-075",
+    "poczta": "Ludwin\r"
+  },
+  {
+    "id": "4070",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1293",
+    "miejscowosc": "Ludwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ludwin",
+    "numer": "30a",
+    "kod": "21-075",
+    "poczta": "Ludwin\r"
+  },
+  {
+    "id": "4071",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1293",
+    "miejscowosc": "Ludwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ludwin",
+    "numer": "30a",
+    "kod": "21-075",
+    "poczta": "Ludwin\r"
+  }
+]

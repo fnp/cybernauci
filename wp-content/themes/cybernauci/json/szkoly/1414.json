@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4291",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1414",
+    "miejscowosc": "Milan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J\u00f3zefa Ignacego Kraszewskiego",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "21-210",
+    "poczta": "Milan\u00f3w\r"
+  },
+  {
+    "id": "4290",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1414",
+    "miejscowosc": "Milan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Milan\u00f3w",
+    "numer": "",
+    "kod": "21-210",
+    "poczta": "Milan\u00f3w\r"
+  },
+  {
+    "id": "4292",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1414",
+    "miejscowosc": "Milan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "21-210",
+    "poczta": "Milan\u00f3w\r"
+  }
+]

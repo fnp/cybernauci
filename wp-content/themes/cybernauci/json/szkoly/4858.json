@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13605",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4858",
+    "miejscowosc": "Kik\u00f3\u0142",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Targowa",
+    "numer": "6",
+    "kod": "87-620",
+    "poczta": "Kik\u00f3\u0142\r"
+  },
+  {
+    "id": "13606",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4858",
+    "miejscowosc": "Kik\u00f3\u0142",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Targowa",
+    "numer": "6",
+    "kod": "87-620",
+    "poczta": "Kik\u00f3\u0142\r"
+  }
+]

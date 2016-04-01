@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22929",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8255",
+    "miejscowosc": "Regimin",
+    "typ": "gimnazjum",
+    "nazwa": "Gminny Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Regimin",
+    "numer": "5a",
+    "kod": "06-461",
+    "poczta": "Regimin\r"
+  },
+  {
+    "id": "22930",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8255",
+    "miejscowosc": "Regimin",
+    "typ": "podstawowa",
+    "nazwa": "Gminny Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Teofila Lenartowicza",
+    "ulica": "Regimin",
+    "numer": "5a",
+    "kod": "06-461",
+    "poczta": "Regimin\r"
+  }
+]

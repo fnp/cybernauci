@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13639",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4876",
+    "miejscowosc": "Jeziora Wielkie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prestige Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jeziora Wielkie",
+    "numer": "104",
+    "kod": "88-324",
+    "poczta": "Jeziora Wielkie\r"
+  },
+  {
+    "id": "13636",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4876",
+    "miejscowosc": "Jeziora Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Jeziora Wielkie",
+    "numer": "104",
+    "kod": "88-324",
+    "poczta": "Jeziora Wielkie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5145",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1685",
+    "miejscowosc": "Mikluszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mikluszowice",
+    "numer": "228",
+    "kod": "32-708",
+    "poczta": "Dziewin\r"
+  },
+  {
+    "id": "5146",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1685",
+    "miejscowosc": "Mikluszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mikluszowice",
+    "numer": "228",
+    "kod": "32-708",
+    "poczta": "Dziewin\r"
+  }
+]

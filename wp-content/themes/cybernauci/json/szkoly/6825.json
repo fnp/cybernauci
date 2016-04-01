@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19148",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6825",
+    "miejscowosc": "Czerwonak",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "62-004",
+    "poczta": "Czerwonak\r"
+  },
+  {
+    "id": "19145",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6825",
+    "miejscowosc": "Czerwonak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rolna",
+    "numer": "8",
+    "kod": "62-004",
+    "poczta": "Czerwonak\r"
+  }
+]

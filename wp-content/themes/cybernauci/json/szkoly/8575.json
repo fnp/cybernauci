@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23650",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8575",
+    "miejscowosc": "Ma\u0142ocice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Wojska Polskiego",
+    "numer": "76",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23651",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8575",
+    "miejscowosc": "Ma\u0142ocice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa im. Macieja Rataj",
+    "ulica": "Wojska Polskiego",
+    "numer": "76",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

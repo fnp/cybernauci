@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19040",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6770",
+    "miejscowosc": "Miasteczko Kraje\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Stanis\u0142awa Staszica",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-350",
+    "poczta": "Miasteczko Kraje\u0144skie\r"
+  },
+  {
+    "id": "19041",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6770",
+    "miejscowosc": "Miasteczko Kraje\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kmdra Boles\u0142awa Romanowskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "89-350",
+    "poczta": "Miasteczko Kraje\u0144skie\r"
+  }
+]

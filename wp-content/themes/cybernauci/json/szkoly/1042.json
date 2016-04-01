@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3613",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1042",
+    "miejscowosc": "Honiatycze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Honiatycze",
+    "numer": "104",
+    "kod": "22-550",
+    "poczta": "Werbkowice\r"
+  },
+  {
+    "id": "3618",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1042",
+    "miejscowosc": "Honiatycze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Honiatycze",
+    "numer": "104",
+    "kod": "22-550",
+    "poczta": "Werbkowice\r"
+  }
+]

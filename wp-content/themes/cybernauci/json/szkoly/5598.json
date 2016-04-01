@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15781",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5598",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. \u015bw. Jadwigi \u015al\u0105skiej",
+    "ulica": "Dzia\u0142oszyn",
+    "numer": "33",
+    "kod": "59-916",
+    "poczta": "Bogatynia\r"
+  },
+  {
+    "id": "15782",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5598",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. Jadwigi \u015al\u0105skiej",
+    "ulica": "Dzia\u0142oszyn",
+    "numer": "33",
+    "kod": "59-916",
+    "poczta": "Bogatynia\r"
+  }
+]

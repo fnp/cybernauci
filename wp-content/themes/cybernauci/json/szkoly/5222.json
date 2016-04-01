@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14821",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5222",
+    "miejscowosc": "W\u0105sosz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Al. Niepodleg\u0142o\u015bci",
+    "numer": "10",
+    "kod": "56-210",
+    "poczta": "W\u0105sosz\r"
+  },
+  {
+    "id": "14824",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5222",
+    "miejscowosc": "W\u0105sosz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zacisze",
+    "numer": "10",
+    "kod": "56-210",
+    "poczta": "W\u0105sosz\r"
+  }
+]

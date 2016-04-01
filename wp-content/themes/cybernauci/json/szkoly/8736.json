@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23998",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8736",
+    "miejscowosc": "Nowa Iwiczna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "Krasickiego",
+    "numer": "56",
+    "kod": "05-500",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "23999",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8736",
+    "miejscowosc": "Nowa Iwiczna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "Krasickiego",
+    "numer": "56",
+    "kod": "05-500",
+    "poczta": "Piaseczno\r"
+  }
+]

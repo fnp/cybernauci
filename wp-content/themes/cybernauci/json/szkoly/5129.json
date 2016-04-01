@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14148",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5129",
+    "miejscowosc": "Warz\u0105chewka Polska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. b\u0142. Ks. Franciszka Drzewieckiego",
+    "ulica": "Warz\u0105chewka Polska",
+    "numer": "37",
+    "kod": "87-800",
+    "poczta": "W\u0142oc\u0142awek\r"
+  },
+  {
+    "id": "14146",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5129",
+    "miejscowosc": "Warz\u0105chewka Polska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. B\u0142. Ks. Franciszka Drzewieckiego",
+    "ulica": "Warz\u0105chewka Polska",
+    "numer": "37",
+    "kod": "87-809",
+    "poczta": "W\u0142oc\u0142awek\r"
+  }
+]

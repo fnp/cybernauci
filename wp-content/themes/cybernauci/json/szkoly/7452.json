@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21076",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7452",
+    "miejscowosc": "Pilzno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lwowska",
+    "numer": "14",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21073",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7452",
+    "miejscowosc": "Pilzno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21074",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7452",
+    "miejscowosc": "Pilzno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "1A",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21075",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7452",
+    "miejscowosc": "Pilzno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Rzemie\u015blnicza Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lwowska",
+    "numer": "14",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  }
+]

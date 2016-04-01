@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3958",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1219",
+    "miejscowosc": "Garb\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Garb\u00f3w",
+    "numer": "53 E",
+    "kod": "21-080",
+    "poczta": "Garb\u00f3w\r"
+  },
+  {
+    "id": "3959",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1219",
+    "miejscowosc": "Garb\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Garb\u00f3w",
+    "numer": "53 E",
+    "kod": "21-080",
+    "poczta": "Garb\u00f3w\r"
+  }
+]

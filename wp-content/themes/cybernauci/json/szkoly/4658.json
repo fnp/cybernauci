@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13207",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4658",
+    "miejscowosc": "S\u0142u\u017cewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Toru\u0144ska",
+    "numer": "8",
+    "kod": "87-710",
+    "poczta": "S\u0142u\u017cewo\r"
+  },
+  {
+    "id": "13208",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4658",
+    "miejscowosc": "S\u0142u\u017cewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Toru\u0144ska",
+    "numer": "8",
+    "kod": "87-710",
+    "poczta": "S\u0142u\u017cewo\r"
+  }
+]

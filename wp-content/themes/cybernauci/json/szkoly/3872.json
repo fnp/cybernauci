@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10751",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3872",
+    "miejscowosc": "S\u0142ob\u00f3dka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0142ob\u00f3dka",
+    "numer": "9",
+    "kod": "16-411",
+    "poczta": "Szypliszki\r"
+  },
+  {
+    "id": "10752",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3872",
+    "miejscowosc": "S\u0142ob\u00f3dka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142ob\u00f3dka",
+    "numer": "9",
+    "kod": "16-411",
+    "poczta": "Szypliszki\r"
+  }
+]

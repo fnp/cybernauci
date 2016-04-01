@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5630",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1939",
+    "miejscowosc": "Kasz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Kasz\u00f3w",
+    "numer": "185",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  },
+  {
+    "id": "5631",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1939",
+    "miejscowosc": "Kasz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. Jadwigi Kr\u00f3lowej ",
+    "ulica": "Kasz\u00f3w",
+    "numer": "547",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  }
+]

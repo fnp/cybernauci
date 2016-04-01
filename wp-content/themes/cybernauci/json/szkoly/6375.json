@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18231",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6375",
+    "miejscowosc": "Brzeziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "62-874",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "18232",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6375",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wroc\u0142awska",
+    "numer": "17",
+    "kod": "62-874",
+    "poczta": "Brzeziny\r"
+  }
+]

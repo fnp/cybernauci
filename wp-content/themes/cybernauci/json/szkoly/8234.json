@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22867",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8234",
+    "miejscowosc": "Wy\u015bmierzyce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "4",
+    "kod": "26-811",
+    "poczta": "Wy\u015bmierzyce\r"
+  },
+  {
+    "id": "22868",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8234",
+    "miejscowosc": "Wy\u015bmierzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142adys\u0142awa Reymonta",
+    "ulica": "Konopnickiej",
+    "numer": "1",
+    "kod": "26-811",
+    "poczta": "Wy\u015bmierzyce\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4169",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "912",
+    "miejscowosc": "Zalesie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zalesie",
+    "numer": "141",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  },
+  {
+    "id": "3381",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "912",
+    "miejscowosc": "Zalesie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "21-512",
+    "poczta": "Zalesie\r"
+  },
+  {
+    "id": "3378",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "912",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "21-512",
+    "poczta": "Zalesie\r"
+  },
+  {
+    "id": "4170",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "912",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zalesie",
+    "numer": "141",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  }
+]

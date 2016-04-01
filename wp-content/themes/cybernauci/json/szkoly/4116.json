@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11539",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4116",
+    "miejscowosc": "Przylep",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa \"Nawigator\"",
+    "ulica": "Rodzinna",
+    "numer": "1",
+    "kod": "72-005",
+    "poczta": "Przec\u0142aw\r"
+  },
+  {
+    "id": "11540",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4116",
+    "miejscowosc": "Przylep",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa FALE",
+    "ulica": "Rodzinna",
+    "numer": "1",
+    "kod": "72-005",
+    "poczta": "Przec\u0142aw\r"
+  }
+]

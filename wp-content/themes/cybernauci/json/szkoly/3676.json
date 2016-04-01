@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10371",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3676",
+    "miejscowosc": "Zawady",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "16-075",
+    "poczta": "Zawady\r"
+  },
+  {
+    "id": "10372",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3676",
+    "miejscowosc": "Zawady",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "16-075",
+    "poczta": "Zawady\r"
+  }
+]

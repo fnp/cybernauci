@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14133",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5122",
+    "miejscowosc": "K\u0142\u00f3bka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "K\u0142\u00f3bka",
+    "numer": "9",
+    "kod": "87-840",
+    "poczta": "Lubie\u0144 Kujawski\r"
+  },
+  {
+    "id": "14134",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5122",
+    "miejscowosc": "K\u0142\u00f3bka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Fryderyka Chopina",
+    "ulica": "K\u0142\u00f3bka",
+    "numer": "9",
+    "kod": "87-840",
+    "poczta": "Lubie\u0144 Kujawski\r"
+  }
+]

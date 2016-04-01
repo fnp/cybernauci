@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10749",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3871",
+    "miejscowosc": "Kaletnik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kaletnik",
+    "numer": "46",
+    "kod": "16-411",
+    "poczta": "Szypliszki\r"
+  },
+  {
+    "id": "10750",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3871",
+    "miejscowosc": "Kaletnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kaletnik",
+    "numer": "46",
+    "kod": "16-411",
+    "poczta": "Szypliszki\r"
+  }
+]

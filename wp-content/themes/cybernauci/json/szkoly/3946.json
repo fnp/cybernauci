@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11146",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3946",
+    "miejscowosc": "Lubiana",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "Lubiana",
+    "numer": "6",
+    "kod": "73-260",
+    "poczta": "Pe\u0142czyce\r"
+  },
+  {
+    "id": "11147",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3946",
+    "miejscowosc": "Lubiana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Lubiana",
+    "numer": "6",
+    "kod": "73-260",
+    "poczta": "Pe\u0142czyce\r"
+  }
+]

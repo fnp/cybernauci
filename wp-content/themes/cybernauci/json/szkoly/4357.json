@@ -1,0 +1,50 @@
+[
+  {
+    "id": "12408",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4357",
+    "miejscowosc": "Wydminy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Grunwaldzka",
+    "numer": "94",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  },
+  {
+    "id": "12409",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4357",
+    "miejscowosc": "Wydminy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Samorz\u0105dowe Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Grunwaldzka",
+    "numer": "94",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  },
+  {
+    "id": "12410",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4357",
+    "miejscowosc": "Wydminy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Grunwaldzka",
+    "numer": "94",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  },
+  {
+    "id": "12407",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4357",
+    "miejscowosc": "Wydminy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Centrum Edukacji Niepublicznej ",
+    "ulica": "E\u0142cka",
+    "numer": "2B",
+    "kod": "11-510",
+    "poczta": "Wydminy\r"
+  }
+]

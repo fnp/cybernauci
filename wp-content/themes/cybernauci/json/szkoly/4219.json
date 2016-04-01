@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11827",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4219",
+    "miejscowosc": "Miros\u0142awiec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Wolno\u015bci",
+    "numer": "21",
+    "kod": "78-650",
+    "poczta": "Miros\u0142awiec\r"
+  },
+  {
+    "id": "11828",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4219",
+    "miejscowosc": "Miros\u0142awiec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Wolno\u015bci",
+    "numer": "21",
+    "kod": "78-650",
+    "poczta": "Miros\u0142awiec\r"
+  }
+]

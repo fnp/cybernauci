@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22611",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8204",
+    "miejscowosc": "Olszanica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Olszanica",
+    "numer": "20",
+    "kod": "38-722",
+    "poczta": "Olszanica\r"
+  },
+  {
+    "id": "22612",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8204",
+    "miejscowosc": "Olszanica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszanica",
+    "numer": "20",
+    "kod": "38-722",
+    "poczta": "Olszanica\r"
+  }
+]

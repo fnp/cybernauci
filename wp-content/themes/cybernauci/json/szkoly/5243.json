@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14877",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Obro\u0144c\u00f3w Pokoju",
+    "numer": "17",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  },
+  {
+    "id": "14878",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Mistrzostwa Sportowego",
+    "ulica": "Obro\u0144c\u00f3w Pokoju",
+    "numer": "17",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  },
+  {
+    "id": "14880",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Obro\u0144c\u00f3w Pokoju",
+    "numer": "17",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  },
+  {
+    "id": "14879",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Mistrzostwa Sportowego",
+    "ulica": "Obro\u0144c\u00f3w Pokoju",
+    "numer": "17",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  },
+  {
+    "id": "14875",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "1 Maja",
+    "numer": "32",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  },
+  {
+    "id": "14876",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5243",
+    "miejscowosc": "Szklarska Por\u0119ba",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "11 Listopada",
+    "numer": "2",
+    "kod": "58-580",
+    "poczta": "Szklarska Por\u0119ba\r"
+  }
+]

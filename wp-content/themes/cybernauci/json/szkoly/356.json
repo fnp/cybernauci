@@ -1,0 +1,26 @@
+[
+  {
+    "id": "814",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "356",
+    "miejscowosc": "Maza\u0144cowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Maza\u0144cowice",
+    "numer": "162",
+    "kod": "43-391",
+    "poczta": "Maza\u0144cowice\r"
+  },
+  {
+    "id": "820",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "356",
+    "miejscowosc": "Maza\u0144cowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Maza\u0144cowice",
+    "numer": "162",
+    "kod": "43-391",
+    "poczta": "Maza\u0144cowice\r"
+  }
+]

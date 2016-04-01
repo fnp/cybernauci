@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13258",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4686",
+    "miejscowosc": "G\u00f3rzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Chopina",
+    "numer": "1",
+    "kod": "87-320",
+    "poczta": "G\u00f3rzno\r"
+  },
+  {
+    "id": "13257",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4686",
+    "miejscowosc": "G\u00f3rzno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Ko\u015bcielna",
+    "numer": "7",
+    "kod": "87-320",
+    "poczta": "G\u00f3rzno\r"
+  },
+  {
+    "id": "13259",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4686",
+    "miejscowosc": "G\u00f3rzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chopina",
+    "numer": "1",
+    "kod": "87-320",
+    "poczta": "G\u00f3rzno\r"
+  }
+]

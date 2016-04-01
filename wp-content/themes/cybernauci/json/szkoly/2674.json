@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7218",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2674",
+    "miejscowosc": "Szar\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Gimnazjum",
+    "ulica": "Szar\u00f3w",
+    "numer": "302",
+    "kod": "31-014",
+    "poczta": "Brzezie\r"
+  },
+  {
+    "id": "7219",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2674",
+    "miejscowosc": "Szar\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa",
+    "ulica": "Szar\u00f3w",
+    "numer": "302",
+    "kod": "31-014",
+    "poczta": "Brzezie\r"
+  }
+]

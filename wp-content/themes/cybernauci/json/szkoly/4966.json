@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14102",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4966",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "38",
+    "kod": "87-860",
+    "poczta": "Chodecz\r"
+  },
+  {
+    "id": "13822",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4966",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalesie",
+    "numer": "36",
+    "kod": "89-400",
+    "poczta": "S\u0119p\u00f3lno Kraje\u0144skie\r"
+  }
+]

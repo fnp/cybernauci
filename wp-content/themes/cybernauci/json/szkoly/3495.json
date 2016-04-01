@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9539",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3495",
+    "miejscowosc": "Sk\u00f3rcz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Genera\u0142a J\u00f3zefa Hallera",
+    "numer": "7:00 AM",
+    "kod": "83-220",
+    "poczta": "Sk\u00f3rcz\r"
+  },
+  {
+    "id": "9540",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3495",
+    "miejscowosc": "Sk\u00f3rcz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Genera\u0142a J\u00f3zefa Hallera",
+    "numer": "7:00 AM",
+    "kod": "83-220",
+    "poczta": "Sk\u00f3rcz\r"
+  },
+  {
+    "id": "9537",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3495",
+    "miejscowosc": "Sk\u00f3rcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kociewska",
+    "numer": "7",
+    "kod": "83-220",
+    "poczta": "Sk\u00f3rcz\r"
+  },
+  {
+    "id": "9538",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3495",
+    "miejscowosc": "Sk\u00f3rcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kociewska",
+    "numer": "7",
+    "kod": "83-220",
+    "poczta": "Sk\u00f3rcz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6013",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2125",
+    "miejscowosc": "Grusz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Grusz\u00f3w",
+    "numer": "150",
+    "kod": "32-414",
+    "poczta": "Grusz\u00f3w\r"
+  },
+  {
+    "id": "6014",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2125",
+    "miejscowosc": "Grusz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grusz\u00f3w",
+    "numer": "150",
+    "kod": "32-414",
+    "poczta": "Grusz\u00f3w\r"
+  }
+]

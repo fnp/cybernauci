@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23537",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8534",
+    "miejscowosc": "\u017bak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u017bak\u00f3w",
+    "numer": "48A",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  },
+  {
+    "id": "23538",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8534",
+    "miejscowosc": "\u017bak\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017bak\u00f3w",
+    "numer": "48A",
+    "kod": "05-332",
+    "poczta": "Siennica\r"
+  }
+]

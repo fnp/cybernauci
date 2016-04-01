@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4727",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1462",
+    "miejscowosc": "Grabowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wojs\u0142awska",
+    "numer": "1",
+    "kod": "22-425",
+    "poczta": "Grabowiec\r"
+  },
+  {
+    "id": "4728",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1462",
+    "miejscowosc": "Grabowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Wojs\u0142awska",
+    "numer": "1",
+    "kod": "22-425",
+    "poczta": "Grabowiec\r"
+  },
+  {
+    "id": "4436",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1462",
+    "miejscowosc": "Grabowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Grabowiec",
+    "numer": "35",
+    "kod": "21-302",
+    "poczta": "K\u0105kolewnica\r"
+  },
+  {
+    "id": "4729",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1462",
+    "miejscowosc": "Grabowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wojs\u0142awska",
+    "numer": "1",
+    "kod": "22-425",
+    "poczta": "Grabowiec\r"
+  },
+  {
+    "id": "4730",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1462",
+    "miejscowosc": "Grabowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Wojs\u0142awska",
+    "numer": "1",
+    "kod": "22-425",
+    "poczta": "Grabowiec\r"
+  }
+]

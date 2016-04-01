@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3412",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "918",
+    "miejscowosc": "Bukowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bukowa",
+    "numer": "98",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  },
+  {
+    "id": "3407",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "918",
+    "miejscowosc": "Bukowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bukowa",
+    "numer": "98",
+    "kod": "23-400",
+    "poczta": "Bi\u0142goraj\r"
+  }
+]

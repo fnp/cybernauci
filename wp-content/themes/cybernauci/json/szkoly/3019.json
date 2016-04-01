@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8407",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3019",
+    "miejscowosc": "Winiary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Winiary",
+    "numer": "2",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  },
+  {
+    "id": "8400",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3019",
+    "miejscowosc": "Winiary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Winiary",
+    "numer": "2",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22191",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chmielnik",
+    "numer": "41",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "22189",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Doliny Strugu",
+    "ulica": "Chmielnik",
+    "numer": "4B",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "22190",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Doliny Strugu",
+    "ulica": "Chmielnik",
+    "numer": "4b",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "22192",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Chmielnik",
+    "numer": "41",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "22187",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "ulica": "Chmielnik",
+    "numer": "316",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "22188",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8015",
+    "miejscowosc": "Chmielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa nr3 im. \u015aw. M. M. Kolbego",
+    "ulica": "Chmielnik",
+    "numer": "169A",
+    "kod": "36-016",
+    "poczta": "Chmielnik\r"
+  }
+]

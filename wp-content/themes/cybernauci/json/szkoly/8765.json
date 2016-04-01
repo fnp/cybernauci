@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24076",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8765",
+    "miejscowosc": "Blichowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Blichowo",
+    "numer": "61A",
+    "kod": "09-454",
+    "poczta": "Bulkowo\r"
+  },
+  {
+    "id": "24077",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8765",
+    "miejscowosc": "Blichowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Blichowo",
+    "numer": "61A",
+    "kod": "09-454",
+    "poczta": "Bulkowo\r"
+  }
+]

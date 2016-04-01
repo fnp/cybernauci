@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17042",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6007",
+    "miejscowosc": "Klonowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Z\u0142oczewska",
+    "numer": "4",
+    "kod": "98-273",
+    "poczta": "Klonowa\r"
+  },
+  {
+    "id": "17043",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6007",
+    "miejscowosc": "Klonowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Z\u0142oczewska",
+    "numer": "4",
+    "kod": "98-273",
+    "poczta": "Klonowa\r"
+  }
+]

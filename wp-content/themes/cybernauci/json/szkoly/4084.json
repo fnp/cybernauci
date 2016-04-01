@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11470",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4084",
+    "miejscowosc": "Polan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Gradowe Wzg\u00f3rze",
+    "numer": "5",
+    "kod": "76-010",
+    "poczta": "Polan\u00f3w\r"
+  },
+  {
+    "id": "11471",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4084",
+    "miejscowosc": "Polan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gradowe Wzg\u00f3rze",
+    "numer": "5",
+    "kod": "76-010",
+    "poczta": "Polan\u00f3w\r"
+  },
+  {
+    "id": "11468",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4084",
+    "miejscowosc": "Polan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wolno\u015bci",
+    "numer": "14",
+    "kod": "76-010",
+    "poczta": "Polan\u00f3w\r"
+  },
+  {
+    "id": "11469",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4084",
+    "miejscowosc": "Polan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia Szko\u0142y Podstawowej",
+    "ulica": "Nac\u0142aw",
+    "numer": "12",
+    "kod": "76-010",
+    "poczta": "Polan\u00f3w\r"
+  }
+]

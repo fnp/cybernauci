@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20457",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7240",
+    "miejscowosc": "Krzeszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Skwierzy\u0144ska",
+    "numer": "4",
+    "kod": "66-435",
+    "poczta": "Krzeszyce\r"
+  },
+  {
+    "id": "20458",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7240",
+    "miejscowosc": "Krzeszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Skwierzy\u0144ska",
+    "numer": "4",
+    "kod": "66-435",
+    "poczta": "Krzeszyce\r"
+  }
+]

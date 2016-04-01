@@ -1,0 +1,110 @@
+[
+  {
+    "id": "5774",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Miejskie Nr 1",
+    "ulica": "Sienkiewicza",
+    "numer": "2",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5772",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Miejskie Nr 2",
+    "ulica": "Rynek",
+    "numer": "21",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5776",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Matejki",
+    "numer": "11",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5775",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "podstawowa",
+    "nazwa": "SZKO\u0141A PODSTAWOWA Nr 1",
+    "ulica": "Sienkiewicza",
+    "numer": "2",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5773",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Rynek",
+    "numer": "21",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5778",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "J\u00f3zefa Marka",
+    "numer": "2",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5779",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Starowiejska",
+    "numer": "4",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5777",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Matejki",
+    "numer": "11",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  },
+  {
+    "id": "5780",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2010",
+    "miejscowosc": "Mszana Dolna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Starowiejska",
+    "numer": "4",
+    "kod": "34-730",
+    "poczta": "Mszana Dolna\r"
+  }
+]

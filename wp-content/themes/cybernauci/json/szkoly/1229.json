@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3976",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1229",
+    "miejscowosc": "Piotrk\u00f3w Pierwszy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Piotrk\u00f3w Pierwszy",
+    "numer": "105",
+    "kod": "23-114",
+    "poczta": "Jab\u0142onna\r"
+  },
+  {
+    "id": "3978",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1229",
+    "miejscowosc": "Piotrk\u00f3w Pierwszy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piotrk\u00f3w Pierwszy",
+    "numer": "105",
+    "kod": "23-114",
+    "poczta": "Jab\u0142onna\r"
+  }
+]

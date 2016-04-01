@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8499",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3061",
+    "miejscowosc": "\u0141\u0105czna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kamionki",
+    "numer": "63",
+    "kod": "26-140",
+    "poczta": "\u0141\u0105czna\r"
+  },
+  {
+    "id": "8500",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3061",
+    "miejscowosc": "\u0141\u0105czna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kamionki",
+    "numer": "63",
+    "kod": "26-140",
+    "poczta": "\u0141\u0105czna\r"
+  }
+]

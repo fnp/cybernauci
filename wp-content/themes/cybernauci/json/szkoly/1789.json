@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5342",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1789",
+    "miejscowosc": "P\u0142aza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Wiosny Lud\u00f3w",
+    "numer": "24",
+    "kod": "32-552",
+    "poczta": "P\u0142aza\r"
+  },
+  {
+    "id": "5343",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1789",
+    "miejscowosc": "P\u0142aza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wiosny Lud\u00f3w",
+    "numer": "2",
+    "kod": "32-552",
+    "poczta": "P\u0142aza\r"
+  }
+]

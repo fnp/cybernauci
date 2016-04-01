@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9791",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3582",
+    "miejscowosc": "Kielno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "84-208",
+    "poczta": "Kielno\r"
+  },
+  {
+    "id": "9792",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3582",
+    "miejscowosc": "Kielno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "84-208",
+    "poczta": "Kielno\r"
+  }
+]

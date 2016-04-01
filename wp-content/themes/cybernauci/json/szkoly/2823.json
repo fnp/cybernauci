@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7998",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Gen. Kazimierza Ta\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "8002",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Nr 3",
+    "ulica": "Dygasi\u0144skiego",
+    "numer": "11",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "7999",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce ZDZ",
+    "ulica": "Mielczarskiego",
+    "numer": "7",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "8000",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum Zawodowe ZDZ",
+    "ulica": "Mielczarskiego",
+    "numer": "7",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "7993",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "8003",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2 w Zespole Szk\u00f3\u0142 Nr 3",
+    "ulica": "Dygasi\u0144skiego",
+    "numer": "11",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  },
+  {
+    "id": "8004",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2823",
+    "miejscowosc": "Chmielnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Nr 3",
+    "ulica": "Dygasi\u0144skiego",
+    "numer": "11",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  }
+]

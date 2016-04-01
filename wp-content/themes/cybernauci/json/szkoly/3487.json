@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9523",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3487",
+    "miejscowosc": "Redzikowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Redzikowo",
+    "numer": "16A",
+    "kod": "76-204",
+    "poczta": "Redzikowo\r"
+  },
+  {
+    "id": "9524",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3487",
+    "miejscowosc": "Redzikowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Reymonta",
+    "numer": "16A",
+    "kod": "76-204",
+    "poczta": "Redzikowo\r"
+  }
+]

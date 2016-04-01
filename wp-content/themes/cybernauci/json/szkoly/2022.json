@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5796",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2022",
+    "miejscowosc": "Jod\u0142ownik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jod\u0142ownik",
+    "numer": "126",
+    "kod": "34-620",
+    "poczta": "Jod\u0142ownik\r"
+  },
+  {
+    "id": "5797",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2022",
+    "miejscowosc": "Jod\u0142ownik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. Broniewskiego",
+    "ulica": "Jod\u0142ownik",
+    "numer": "126",
+    "kod": "34-620",
+    "poczta": "Jod\u0142ownik\r"
+  }
+]

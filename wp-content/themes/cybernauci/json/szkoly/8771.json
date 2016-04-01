@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24085",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8771",
+    "miejscowosc": "\u0141\u0119g Probostwo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141\u0119g Probostwo",
+    "numer": "31\/1",
+    "kod": "09-210",
+    "poczta": "Drobin\r"
+  },
+  {
+    "id": "24086",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8771",
+    "miejscowosc": "\u0141\u0119g Probostwo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119g Probostwo",
+    "numer": "31\/1",
+    "kod": "09-210",
+    "poczta": "Drobin\r"
+  }
+]

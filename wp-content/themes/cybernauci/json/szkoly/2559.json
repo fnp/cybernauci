@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6922",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2559",
+    "miejscowosc": "Wietrzychowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Miechowice Wielkie",
+    "numer": "38",
+    "kod": "33-270",
+    "poczta": "Wietrzychowice\r"
+  },
+  {
+    "id": "6923",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2559",
+    "miejscowosc": "Wietrzychowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wietrzychowice",
+    "numer": "64",
+    "kod": "33-270",
+    "poczta": "Wietrzychowice\r"
+  }
+]

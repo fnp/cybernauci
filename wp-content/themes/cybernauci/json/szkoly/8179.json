@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22562",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8179",
+    "miejscowosc": "Wrzawy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wrzawy",
+    "numer": "490",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  },
+  {
+    "id": "22563",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8179",
+    "miejscowosc": "Wrzawy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wrzawy",
+    "numer": "490",
+    "kod": "39-432",
+    "poczta": "Gorzyce\r"
+  }
+]

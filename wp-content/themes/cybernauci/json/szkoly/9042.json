@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24605",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9042",
+    "miejscowosc": "Izdebki-Kosny",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Izdebki-Kosny",
+    "numer": "38",
+    "kod": "08-111",
+    "poczta": "Krzesk\r"
+  },
+  {
+    "id": "24608",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9042",
+    "miejscowosc": "Izdebki-Kosny",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Izdebki-Kosny",
+    "numer": "38",
+    "kod": "08-111",
+    "poczta": "Krzesk\r"
+  }
+]

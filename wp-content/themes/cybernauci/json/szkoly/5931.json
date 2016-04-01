@@ -1,0 +1,50 @@
+[
+  {
+    "id": "16876",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5931",
+    "miejscowosc": "Dobryszyce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "97-505",
+    "poczta": "Dobryszyce\r"
+  },
+  {
+    "id": "16875",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5931",
+    "miejscowosc": "Dobryszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "97-505",
+    "poczta": "Dobryszyce\r"
+  },
+  {
+    "id": "16877",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5931",
+    "miejscowosc": "Dobryszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-505",
+    "poczta": "Dobryszyce\r"
+  },
+  {
+    "id": "16878",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5931",
+    "miejscowosc": "Dobryszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-505",
+    "poczta": "Dobryszyce\r"
+  }
+]

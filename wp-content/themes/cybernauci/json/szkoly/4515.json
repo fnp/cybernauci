@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12772",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4515",
+    "miejscowosc": "Dywity",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "4",
+    "kod": "11-001",
+    "poczta": "Dywity\r"
+  },
+  {
+    "id": "12773",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4515",
+    "miejscowosc": "Dywity",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Gazety Olszty\u0144skiej ",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "4",
+    "kod": "11-001",
+    "poczta": "Dywity\r"
+  }
+]

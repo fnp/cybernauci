@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5944",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2096",
+    "miejscowosc": "Dobczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "43",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  },
+  {
+    "id": "5945",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2096",
+    "miejscowosc": "Dobczyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "20A",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  },
+  {
+    "id": "5939",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2096",
+    "miejscowosc": "Dobczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Krzysztofa Kamila Baczy\u0144skiego",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  },
+  {
+    "id": "5946",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2096",
+    "miejscowosc": "Dobczyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "20A",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  },
+  {
+    "id": "5947",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2096",
+    "miejscowosc": "Dobczyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "20A",
+    "kod": "32-410",
+    "poczta": "Dobczyce\r"
+  }
+]

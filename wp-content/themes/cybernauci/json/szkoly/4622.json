@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12985",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4622",
+    "miejscowosc": "Szymany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szymany",
+    "numer": "21",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  },
+  {
+    "id": "12986",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4622",
+    "miejscowosc": "Szymany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szymany",
+    "numer": "21",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  }
+]

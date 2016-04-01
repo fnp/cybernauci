@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6645",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2411",
+    "miejscowosc": "Graboszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum przy Zespole Szk\u00f3\u0142",
+    "ulica": "Graboszyce",
+    "numer": "125",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6646",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2411",
+    "miejscowosc": "Graboszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa przy Zespole Szk\u00f3\u0142",
+    "ulica": "Graboszyce",
+    "numer": "125",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  }
+]

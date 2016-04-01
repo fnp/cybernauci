@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25125",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9255",
+    "miejscowosc": "Kazan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "52",
+    "kod": "26-713",
+    "poczta": "Kazan\u00f3w\r"
+  },
+  {
+    "id": "25128",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9255",
+    "miejscowosc": "Kazan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "56a",
+    "kod": "26-713",
+    "poczta": "Kazan\u00f3w\r"
+  }
+]

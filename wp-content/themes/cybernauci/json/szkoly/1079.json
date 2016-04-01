@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3706",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1079",
+    "miejscowosc": "Gorzk\u00f3w-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "83",
+    "kod": "22-315",
+    "poczta": "Gorzk\u00f3w\r"
+  },
+  {
+    "id": "3705",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1079",
+    "miejscowosc": "Gorzk\u00f3w-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "7",
+    "kod": "22-315",
+    "poczta": "Gorzk\u00f3w\r"
+  }
+]

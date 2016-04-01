@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10586",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3793",
+    "miejscowosc": "Krypno Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "ulica": "Krypno Wielkie",
+    "numer": "48",
+    "kod": "19-111",
+    "poczta": "Krypno\r"
+  },
+  {
+    "id": "10587",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3793",
+    "miejscowosc": "Krypno Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Krypno Wielkie",
+    "numer": "48",
+    "kod": "19-111",
+    "poczta": "Krypno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9609",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3526",
+    "miejscowosc": "Sumin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Sumin",
+    "numer": "38",
+    "kod": "83-200",
+    "poczta": "Starogard Gda\u0144ski\r"
+  },
+  {
+    "id": "9610",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3526",
+    "miejscowosc": "Sumin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sumin",
+    "numer": "38",
+    "kod": "83-200",
+    "poczta": "Starogard Gda\u0144ski\r"
+  }
+]

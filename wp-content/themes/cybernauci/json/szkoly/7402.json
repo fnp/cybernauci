@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20947",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7402",
+    "miejscowosc": "Jasion\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Jasion\u00f3w",
+    "numer": "159",
+    "kod": "36-211",
+    "poczta": "Jasion\u00f3w\r"
+  },
+  {
+    "id": "20948",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7402",
+    "miejscowosc": "Jasion\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Jasion\u00f3w",
+    "numer": "159",
+    "kod": "36-211",
+    "poczta": "Jasion\u00f3w\r"
+  }
+]

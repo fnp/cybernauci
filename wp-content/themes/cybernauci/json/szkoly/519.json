@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1156",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "519",
+    "miejscowosc": "Kamyk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  },
+  {
+    "id": "1157",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "519",
+    "miejscowosc": "Kamyk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolny",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  }
+]

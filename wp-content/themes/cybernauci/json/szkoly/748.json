@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1775",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "748",
+    "miejscowosc": "Mszana",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Sportowa",
+    "numer": "3",
+    "kod": "44-325",
+    "poczta": "Mszana\r"
+  },
+  {
+    "id": "1776",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "748",
+    "miejscowosc": "Mszana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Sportowa",
+    "numer": "3",
+    "kod": "44-325",
+    "poczta": "Mszana\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10652",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3818",
+    "miejscowosc": "Perlejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Perlejewo",
+    "numer": "4",
+    "kod": "17-322",
+    "poczta": "Perlejewo\r"
+  },
+  {
+    "id": "10651",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3818",
+    "miejscowosc": "Perlejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Perlejewo",
+    "numer": "45",
+    "kod": "17-322",
+    "poczta": "Perlejewo\r"
+  }
+]

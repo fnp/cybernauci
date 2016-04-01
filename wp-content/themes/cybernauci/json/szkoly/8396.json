@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23231",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8396",
+    "miejscowosc": "Ursyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ursyn\u00f3w",
+    "numer": "38a",
+    "kod": "26-903",
+    "poczta": "G\u0142owacz\u00f3w\r"
+  },
+  {
+    "id": "23232",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8396",
+    "miejscowosc": "Ursyn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ursyn\u00f3w",
+    "numer": "38a",
+    "kod": "26-903",
+    "poczta": "G\u0142owacz\u00f3w\r"
+  }
+]

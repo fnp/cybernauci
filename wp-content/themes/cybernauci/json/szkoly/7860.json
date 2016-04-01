@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21899",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7860",
+    "miejscowosc": "Kurzyna \u015arednia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. kard. Stefana Wyszy\u0144skiego",
+    "ulica": "Kurzyna \u015arednia",
+    "numer": "35a",
+    "kod": "37-410",
+    "poczta": "Ulan\u00f3w\r"
+  },
+  {
+    "id": "21900",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7860",
+    "miejscowosc": "Kurzyna \u015arednia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. kard. Stefana Wyszy\u0144skiego",
+    "ulica": "Kurzyna \u015arednia",
+    "numer": "35a",
+    "kod": "37-410",
+    "poczta": "Ulan\u00f3w\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12515",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4403",
+    "miejscowosc": "Karolewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne ",
+    "ulica": "Karolewo",
+    "numer": "9",
+    "kod": "11-400",
+    "poczta": "K\u0119trzyn\r"
+  },
+  {
+    "id": "12516",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4403",
+    "miejscowosc": "Karolewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Karolewo",
+    "numer": "12",
+    "kod": "11-400",
+    "poczta": "Ketrzyn\r"
+  },
+  {
+    "id": "12517",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4403",
+    "miejscowosc": "Karolewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Karolewo",
+    "numer": "12",
+    "kod": "11-400",
+    "poczta": "Ketrzyn\r"
+  }
+]

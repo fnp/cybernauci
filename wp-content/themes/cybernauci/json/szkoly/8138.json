@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22485",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8138",
+    "miejscowosc": "Gogo\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Gogo\u0142\u00f3w",
+    "numer": "316",
+    "kod": "38-131",
+    "poczta": "Gogo\u0142\u00f3w\r"
+  },
+  {
+    "id": "22486",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8138",
+    "miejscowosc": "Gogo\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Ignacego Kruszewskiego",
+    "ulica": "Gogo\u0142\u00f3w",
+    "numer": "316",
+    "kod": "38-131",
+    "poczta": "Gogo\u0142\u00f3w\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8121",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2904",
+    "miejscowosc": "Nowiny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "26-052",
+    "poczta": "Nowiny\r"
+  },
+  {
+    "id": "8122",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2904",
+    "miejscowosc": "Nowiny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "26-052",
+    "poczta": "Nowiny\r"
+  },
+  {
+    "id": "8120",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2904",
+    "miejscowosc": "Nowiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142e-Zag\u0142\u0119bie",
+    "numer": "21",
+    "kod": "26-052",
+    "poczta": "Nowiny\r"
+  },
+  {
+    "id": "8123",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2904",
+    "miejscowosc": "Nowiny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "26-052",
+    "poczta": "Nowiny\r"
+  }
+]

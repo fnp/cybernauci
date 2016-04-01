@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22467",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8129",
+    "miejscowosc": "Zaleszany",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. por. J\u00f3zefa M\u0105czki",
+    "ulica": "Sandomierska",
+    "numer": "95",
+    "kod": "37-415",
+    "poczta": "Zaleszany\r"
+  },
+  {
+    "id": "22468",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8129",
+    "miejscowosc": "Zaleszany",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Sandomierska",
+    "numer": "95",
+    "kod": "37-415",
+    "poczta": "Zaleszany\r"
+  }
+]

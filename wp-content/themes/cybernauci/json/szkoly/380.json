@@ -1,0 +1,26 @@
+[
+  {
+    "id": "911",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "380",
+    "miejscowosc": "Mnich",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "12",
+    "kod": "43-520",
+    "poczta": "Chybie\r"
+  },
+  {
+    "id": "907",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "380",
+    "miejscowosc": "Mnich",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Paw\u0142a Kojzara",
+    "ulica": "Kopernika",
+    "numer": "12",
+    "kod": "43-520",
+    "poczta": "Chybie\r"
+  }
+]

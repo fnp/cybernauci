@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4003",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1251",
+    "miejscowosc": "Kr\u0119\u017cnica Jara",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 ",
+    "ulica": "Kr\u0119\u017cnica Jara",
+    "numer": "321",
+    "kod": "20-515",
+    "poczta": "Lublin\r"
+  },
+  {
+    "id": "4004",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1251",
+    "miejscowosc": "Kr\u0119\u017cnica Jara",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kr\u0119\u017cnica Jara",
+    "numer": "321",
+    "kod": "20-515",
+    "poczta": "Lublin\r"
+  }
+]

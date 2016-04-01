@@ -1,0 +1,26 @@
+[
+  {
+    "id": "840",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "367",
+    "miejscowosc": "Pisarzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015aw. Floriana",
+    "numer": "28",
+    "kod": "43-332",
+    "poczta": "Pisarzowice\r"
+  },
+  {
+    "id": "839",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "367",
+    "miejscowosc": "Pisarzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015aw. Floriana",
+    "numer": "28",
+    "kod": "43-332",
+    "poczta": "Pisarzowice\r"
+  }
+]

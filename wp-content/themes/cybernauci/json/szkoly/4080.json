@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11501",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4080",
+    "miejscowosc": "Sarbinowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sarbinowo",
+    "numer": "80",
+    "kod": "74-404",
+    "poczta": "Cychry\r"
+  },
+  {
+    "id": "11463",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4080",
+    "miejscowosc": "Sarbinowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stra\u017cy Granicznej ",
+    "ulica": "Nadmorska",
+    "numer": "27A",
+    "kod": "76-034",
+    "poczta": "Sarbinowo\r"
+  }
+]

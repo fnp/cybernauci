@@ -1,0 +1,86 @@
+[
+  {
+    "id": "20539",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "1 Maja",
+    "numer": "7",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20542",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3 ",
+    "ulica": "Piaskowa",
+    "numer": "52",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20541",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Licealna",
+    "numer": "10",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20533",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "31 Stycznia",
+    "numer": "23",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20543",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Piaskowa",
+    "numer": "52",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20544",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Piaskowa",
+    "numer": "53",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  },
+  {
+    "id": "20545",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7283",
+    "miejscowosc": "Sulech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Piaskowa",
+    "numer": "53",
+    "kod": "66-100",
+    "poczta": "Sulech\u00f3w\r"
+  }
+]

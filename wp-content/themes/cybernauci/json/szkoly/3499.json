@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9564",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3499",
+    "miejscowosc": "Kaliska",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "D\u0142uga",
+    "numer": "53",
+    "kod": "83-260",
+    "poczta": "Kaliska\r"
+  },
+  {
+    "id": "9565",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3499",
+    "miejscowosc": "Kaliska",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczne Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "53",
+    "kod": "83-260",
+    "poczta": "Kaliska\r"
+  }
+]

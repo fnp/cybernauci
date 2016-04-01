@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5542",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1880",
+    "miejscowosc": "Ha\u0144czowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ha\u0144czowa",
+    "numer": "96",
+    "kod": "38-316",
+    "poczta": "Wysowa\r"
+  },
+  {
+    "id": "5547",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1880",
+    "miejscowosc": "Ha\u0144czowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ha\u0144czowa",
+    "numer": "80",
+    "kod": "38-316",
+    "poczta": "Wysowa-Zdr\u00f3j\r"
+  },
+  {
+    "id": "5548",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1880",
+    "miejscowosc": "Ha\u0144czowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ha\u0144czowa",
+    "numer": "80",
+    "kod": "38-316",
+    "poczta": "Wysowa-Zdr\u00f3j\r"
+  }
+]

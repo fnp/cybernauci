@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12749",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4505",
+    "miejscowosc": "W\u0119g\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "W\u0119g\u00f3j",
+    "numer": "19",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12750",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4505",
+    "miejscowosc": "W\u0119g\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum ",
+    "ulica": "W\u0119g\u00f3j",
+    "numer": "19",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  }
+]

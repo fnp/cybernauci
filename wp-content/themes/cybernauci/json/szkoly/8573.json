@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23646",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8573",
+    "miejscowosc": "Kazu\u0144 Polski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jerzego Popie\u0142uszki przy Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23647",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8573",
+    "miejscowosc": "Kazu\u0144 Polski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jerzego Popie\u0142uszki przy Zespole Szk\u00f3\u0142 Publicznych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4540",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1515",
+    "miejscowosc": "St\u0119\u017cyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Stefana Batorego",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "2:00 AM",
+    "kod": "08-540",
+    "poczta": "St\u0119\u017cyca\r"
+  },
+  {
+    "id": "4541",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1515",
+    "miejscowosc": "St\u0119\u017cyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "2:00 AM",
+    "kod": "08-540",
+    "poczta": "St\u0119\u017cyca\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22543",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7706",
+    "miejscowosc": "D\u0105browica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "D\u0105browica",
+    "numer": "78",
+    "kod": "39-450",
+    "poczta": "Baran\u00f3w Sandomierski\r"
+  },
+  {
+    "id": "21575",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7706",
+    "miejscowosc": "D\u0105browica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0105browica",
+    "numer": "6a",
+    "kod": "37-303",
+    "poczta": "Kury\u0142\u00f3wka\r"
+  },
+  {
+    "id": "21574",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7706",
+    "miejscowosc": "D\u0105browica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0105browica",
+    "numer": "6A",
+    "kod": "37-303",
+    "poczta": "Kury\u0142\u00f3wka\r"
+  }
+]

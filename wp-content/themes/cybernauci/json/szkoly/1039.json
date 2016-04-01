@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4768",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1039",
+    "miejscowosc": "Jaros\u0142awiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jaros\u0142awiec",
+    "numer": "190",
+    "kod": "22-424",
+    "poczta": "Sitno\r"
+  },
+  {
+    "id": "3610",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1039",
+    "miejscowosc": "Jaros\u0142awiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Stanis\u0142awa Staszica ",
+    "ulica": "Jaros\u0142awiec",
+    "numer": "113",
+    "kod": "22-510",
+    "poczta": "Uchanie\r"
+  },
+  {
+    "id": "4765",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1039",
+    "miejscowosc": "Jaros\u0142awiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej",
+    "ulica": "Jaros\u0142awiec",
+    "numer": "190",
+    "kod": "22-424",
+    "poczta": "Sitno\r"
+  }
+]

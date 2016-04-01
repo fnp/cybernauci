@@ -1,0 +1,74 @@
+[
+  {
+    "id": "11153",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "27",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  },
+  {
+    "id": "11156",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  },
+  {
+    "id": "11154",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Edukacja\"",
+    "ulica": "Grunwaldzka",
+    "numer": "1",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  },
+  {
+    "id": "11152",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wa\u0142ecka",
+    "numer": "49",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  },
+  {
+    "id": "11157",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Grunwaldzka",
+    "numer": "1",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  },
+  {
+    "id": "11158",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3950",
+    "miejscowosc": "Czaplinek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Grunwaldzka",
+    "numer": "1",
+    "kod": "78-550",
+    "poczta": "Czaplinek\r"
+  }
+]

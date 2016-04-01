@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1927",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "788",
+    "miejscowosc": "Sopotnia Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 6 ",
+    "ulica": "Sopotnia Ma\u0142a",
+    "numer": "201",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  },
+  {
+    "id": "1928",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "788",
+    "miejscowosc": "Sopotnia Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sopotnia Ma\u0142a",
+    "numer": "201",
+    "kod": "34-340",
+    "poczta": "Jele\u015bnia\r"
+  }
+]

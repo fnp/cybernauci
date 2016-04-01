@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22181",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8006",
+    "miejscowosc": "Niechobrz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niechobrz",
+    "numer": "679",
+    "kod": "36-047",
+    "poczta": "Niechobrz\r"
+  },
+  {
+    "id": "22182",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8006",
+    "miejscowosc": "Niechobrz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Niechobrz",
+    "numer": "679",
+    "kod": "36-047",
+    "poczta": "Niechobrz\r"
+  },
+  {
+    "id": "22172",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8006",
+    "miejscowosc": "Niechobrz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 z Przedszkolem im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Niechobrz",
+    "numer": "549",
+    "kod": "36-047",
+    "poczta": "Niechobrz\r"
+  }
+]

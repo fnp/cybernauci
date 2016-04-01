@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15492",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5474",
+    "miejscowosc": "Gocza\u0142k\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "ul. Szkolna",
+    "numer": "1",
+    "kod": "58-152",
+    "poczta": "Gocza\u0142k\u00f3w\r"
+  },
+  {
+    "id": "15493",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5474",
+    "miejscowosc": "Gocza\u0142k\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "ul. Parkowa",
+    "numer": "4",
+    "kod": "58-152",
+    "poczta": "Gocza\u0142k\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5253",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1743",
+    "miejscowosc": "Tworkowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. I. J. Paderewskiego",
+    "ulica": "Tworkowa",
+    "numer": "36",
+    "kod": "32-863",
+    "poczta": "Tymowa\r"
+  },
+  {
+    "id": "5254",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1743",
+    "miejscowosc": "Tworkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tworkowa",
+    "numer": "36",
+    "kod": "32-863",
+    "poczta": "Tymowa\r"
+  }
+]

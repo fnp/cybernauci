@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21365",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7590",
+    "miejscowosc": "\u0141ubno Szlacheckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141ubno Szlacheckie",
+    "numer": "109",
+    "kod": "38-204",
+    "poczta": "Tarnowiec\r"
+  },
+  {
+    "id": "21366",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7590",
+    "miejscowosc": "\u0141ubno Szlacheckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141ubno Szlacheckie",
+    "numer": "109",
+    "kod": "38-204",
+    "poczta": "Tarnowiec\r"
+  }
+]

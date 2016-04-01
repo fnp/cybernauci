@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19614",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7034",
+    "miejscowosc": "Morakowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Morakowo",
+    "numer": "54",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  },
+  {
+    "id": "19615",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7034",
+    "miejscowosc": "Morakowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Morakowo",
+    "numer": "54",
+    "kod": "62-130",
+    "poczta": "Go\u0142a\u0144cz\r"
+  }
+]

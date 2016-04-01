@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5215",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1728",
+    "miejscowosc": "Bielcza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bielcza",
+    "numer": "294A",
+    "kod": "32-824",
+    "poczta": "Bielcza\r"
+  },
+  {
+    "id": "5216",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1728",
+    "miejscowosc": "Bielcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bielcza",
+    "numer": "294A",
+    "kod": "32-824",
+    "poczta": "Bielcza\r"
+  }
+]

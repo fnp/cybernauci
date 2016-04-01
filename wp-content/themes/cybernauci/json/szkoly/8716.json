@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23939",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8716",
+    "miejscowosc": "Wi\u0105zowna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wi\u0105zowna",
+    "numer": "",
+    "kod": "05-462",
+    "poczta": "Wi\u0105zowna\r"
+  },
+  {
+    "id": "23940",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8716",
+    "miejscowosc": "Wi\u0105zowna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wi\u0105zowna",
+    "numer": "",
+    "kod": "05-462",
+    "poczta": "Wi\u0105zowna\r"
+  },
+  {
+    "id": "23937",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8716",
+    "miejscowosc": "Wi\u0105zowna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "20",
+    "kod": "05-462",
+    "poczta": "Wi\u0105zowna\r"
+  },
+  {
+    "id": "23941",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8716",
+    "miejscowosc": "Wi\u0105zowna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wi\u0105zowna",
+    "numer": "",
+    "kod": "05-462",
+    "poczta": "Wi\u0105zowna\r"
+  },
+  {
+    "id": "23938",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8716",
+    "miejscowosc": "Wi\u0105zowna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Ko\u015bcielna",
+    "numer": "20",
+    "kod": "05-462",
+    "poczta": "Wi\u0105zowna\r"
+  }
+]

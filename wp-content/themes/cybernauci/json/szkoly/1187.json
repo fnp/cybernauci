@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3906",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1187",
+    "miejscowosc": "Ostr\u00f3w Lubelski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "26",
+    "kod": "21-110",
+    "poczta": "Ostr\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3907",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1187",
+    "miejscowosc": "Ostr\u00f3w Lubelski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Unicka",
+    "numer": "5",
+    "kod": "21-110",
+    "poczta": "Ostr\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3902",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1187",
+    "miejscowosc": "Ostr\u00f3w Lubelski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "26",
+    "kod": "21-110",
+    "poczta": "Ostr\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3908",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1187",
+    "miejscowosc": "Ostr\u00f3w Lubelski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Unicka",
+    "numer": "5",
+    "kod": "21-110",
+    "poczta": "Ostr\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3909",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1187",
+    "miejscowosc": "Ostr\u00f3w Lubelski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1 w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Unicka",
+    "numer": "5",
+    "kod": "21-110",
+    "poczta": "Ostr\u00f3w Lubelski\r"
+  }
+]

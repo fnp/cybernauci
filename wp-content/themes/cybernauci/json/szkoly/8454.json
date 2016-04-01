@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23354",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8454",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Paw\u0142owice",
+    "numer": "86",
+    "kod": "27-330",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "23355",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8454",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Paw\u0142owice",
+    "numer": "86",
+    "kod": "27-330",
+    "poczta": "Paw\u0142owice\r"
+  }
+]

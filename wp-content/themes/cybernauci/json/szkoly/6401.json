@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18274",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6401",
+    "miejscowosc": "Stawiszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "62-820",
+    "poczta": "Stawiszyn\r"
+  },
+  {
+    "id": "18275",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6401",
+    "miejscowosc": "Stawiszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "62-820",
+    "poczta": "Stawiszyn\r"
+  }
+]

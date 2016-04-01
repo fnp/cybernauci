@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16970",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5979",
+    "miejscowosc": "Kurzeszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Kurzeszyn",
+    "numer": "12",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  },
+  {
+    "id": "16971",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5979",
+    "miejscowosc": "Kurzeszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Kurzeszyn",
+    "numer": "12",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  }
+]

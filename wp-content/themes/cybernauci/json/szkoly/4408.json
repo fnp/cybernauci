@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12526",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4408",
+    "miejscowosc": "S\u0105toczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "S\u0105toczno",
+    "numer": "8",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  },
+  {
+    "id": "12527",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4408",
+    "miejscowosc": "S\u0105toczno",
+    "typ": "podstawowa",
+    "nazwa": "szko\u0142a podstawowa",
+    "ulica": "S\u0105toczno",
+    "numer": "8",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  }
+]

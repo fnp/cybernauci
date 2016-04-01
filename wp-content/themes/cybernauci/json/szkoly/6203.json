@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17470",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6203",
+    "miejscowosc": "Rog\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "95-063",
+    "poczta": "Rog\u00f3w\r"
+  },
+  {
+    "id": "17471",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6203",
+    "miejscowosc": "Rog\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "95-063",
+    "poczta": "Rog\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7029",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2599",
+    "miejscowosc": "Dzianisz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dzianisz",
+    "numer": "201",
+    "kod": "34-514",
+    "poczta": "Dzianisz\r"
+  },
+  {
+    "id": "7030",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2599",
+    "miejscowosc": "Dzianisz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dzianisz",
+    "numer": "201",
+    "kod": "34-514",
+    "poczta": "Dzianisz\r"
+  }
+]

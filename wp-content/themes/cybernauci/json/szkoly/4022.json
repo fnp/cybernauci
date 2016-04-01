@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11382",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4022",
+    "miejscowosc": "Troszyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Troszyn",
+    "numer": "15",
+    "kod": "72-511",
+    "poczta": "Troszyn\r"
+  },
+  {
+    "id": "11331",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4022",
+    "miejscowosc": "Troszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojska Polskiego",
+    "ulica": "Troszyn",
+    "numer": "3",
+    "kod": "74-505",
+    "poczta": "Mieszkowice\r"
+  }
+]

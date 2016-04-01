@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16618",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5811",
+    "miejscowosc": "Ogonowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ogonowice",
+    "numer": "207A",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  },
+  {
+    "id": "16619",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5811",
+    "miejscowosc": "Ogonowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Armii Krajowej ",
+    "ulica": "Ogonowice",
+    "numer": "207A",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  }
+]

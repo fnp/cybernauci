@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25077",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9241",
+    "miejscowosc": "Rz\u0105\u015bnik",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wyszkowska",
+    "numer": "50B",
+    "kod": "07-205",
+    "poczta": "Rz\u0105\u015bnik\r"
+  },
+  {
+    "id": "25078",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9241",
+    "miejscowosc": "Rz\u0105\u015bnik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wyszkowska",
+    "numer": "50B",
+    "kod": "07-205",
+    "poczta": "Rz\u0105\u015bnik\r"
+  }
+]

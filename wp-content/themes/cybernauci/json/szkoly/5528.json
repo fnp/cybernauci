@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15623",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5528",
+    "miejscowosc": "Wi\u0144sko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Nowa",
+    "numer": "2",
+    "kod": "56-160",
+    "poczta": "Wi\u0144sko\r"
+  },
+  {
+    "id": "15624",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5528",
+    "miejscowosc": "Wi\u0144sko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa",
+    "numer": "2",
+    "kod": "56-160",
+    "poczta": "Wi\u0144sko\r"
+  }
+]

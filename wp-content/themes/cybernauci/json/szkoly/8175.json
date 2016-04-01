@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22549",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8175",
+    "miejscowosc": "Skopanie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "39-451",
+    "poczta": "Skopanie\r"
+  },
+  {
+    "id": "22550",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8175",
+    "miejscowosc": "Skopanie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Kardyna\u0142a Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "39-451",
+    "poczta": "Skopanie\r"
+  }
+]

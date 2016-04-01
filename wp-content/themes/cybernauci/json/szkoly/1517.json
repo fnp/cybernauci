@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4547",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Sobieszyn",
+    "numer": "4",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4543",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sobieszyn",
+    "numer": "298A",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4548",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Sobieszyn",
+    "numer": "4b",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4549",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sobieszyn",
+    "numer": "4",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4544",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Agrobiznesu",
+    "ulica": "Sobieszyn",
+    "numer": "298A",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4545",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Architektury Krajobrazu",
+    "ulica": "Sobieszyn",
+    "numer": "298A",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  },
+  {
+    "id": "4546",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1517",
+    "miejscowosc": "Sobieszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Rolnicze",
+    "ulica": "Sobieszyn",
+    "numer": "298A",
+    "kod": "08-504",
+    "poczta": "U\u0142\u0119\u017c\r"
+  }
+]

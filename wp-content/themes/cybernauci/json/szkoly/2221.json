@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6180",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2221",
+    "miejscowosc": "Zagorzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zagorzyn",
+    "numer": "172",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  },
+  {
+    "id": "6181",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2221",
+    "miejscowosc": "Zagorzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zagorzyn",
+    "numer": "172",
+    "kod": "33-390",
+    "poczta": "\u0141\u0105cko\r"
+  }
+]

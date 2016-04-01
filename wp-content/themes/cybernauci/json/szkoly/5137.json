@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14183",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa dla m\u0142odocianych pracownik\u00f3w im. Jana Szatowskiego",
+    "ulica": "3 Maja",
+    "numer": "30",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  },
+  {
+    "id": "14184",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Jana Szatowskiego",
+    "ulica": "3 Maja",
+    "numer": "30",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  },
+  {
+    "id": "14185",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum im. Jana Szatowskiego",
+    "ulica": "3 Maja",
+    "numer": "30",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  },
+  {
+    "id": "14181",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  },
+  {
+    "id": "14176",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  },
+  {
+    "id": "14182",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5137",
+    "miejscowosc": "Janowiec Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "3 Maja",
+    "numer": "30",
+    "kod": "88-430",
+    "poczta": "Janowiec Wielkopolski\r"
+  }
+]

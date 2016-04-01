@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15057",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5321",
+    "miejscowosc": "Prochowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Tadeusza Ko\u015bciuszki",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "59-230",
+    "poczta": "Prochowice\r"
+  },
+  {
+    "id": "15056",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5321",
+    "miejscowosc": "Prochowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M\u0142y\u0144ska",
+    "numer": "3",
+    "kod": "59-230",
+    "poczta": "Prochowice\r"
+  }
+]

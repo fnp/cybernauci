@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14812",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5216",
+    "miejscowosc": "Irz\u0105dze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Irz\u0105dze",
+    "numer": "27",
+    "kod": "56-209",
+    "poczta": "Jemielno\r"
+  },
+  {
+    "id": "14813",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5216",
+    "miejscowosc": "Irz\u0105dze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Irz\u0105dze",
+    "numer": "27",
+    "kod": "56-209",
+    "poczta": "Jemielno\r"
+  }
+]

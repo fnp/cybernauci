@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11373",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4040",
+    "miejscowosc": "Mi\u0119dzyzdroje",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Kolejowa",
+    "numer": "33",
+    "kod": "72-500",
+    "poczta": "Mi\u0119dzyzdroje\r"
+  },
+  {
+    "id": "11371",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4040",
+    "miejscowosc": "Mi\u0119dzyzdroje",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "17",
+    "kod": "72-500",
+    "poczta": "Mi\u0119dzyzdroje\r"
+  },
+  {
+    "id": "11374",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4040",
+    "miejscowosc": "Mi\u0119dzyzdroje",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarskie",
+    "ulica": "Le\u015bna",
+    "numer": "17",
+    "kod": "72-500",
+    "poczta": "Mi\u0119dzyzdroje\r"
+  }
+]

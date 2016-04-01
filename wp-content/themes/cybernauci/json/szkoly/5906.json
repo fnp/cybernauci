@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16804",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5906",
+    "miejscowosc": "Gomulin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  },
+  {
+    "id": "16801",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5906",
+    "miejscowosc": "Gomulin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  }
+]

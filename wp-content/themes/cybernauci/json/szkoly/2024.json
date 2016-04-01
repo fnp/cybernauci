@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5800",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2024",
+    "miejscowosc": "Szczyrzyc",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szczyrzyc",
+    "numer": "123",
+    "kod": "34-623",
+    "poczta": "Szczyrzyc\r"
+  },
+  {
+    "id": "5804",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2024",
+    "miejscowosc": "Szczyrzyc",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Szczyrzyc",
+    "numer": "84",
+    "kod": "34-623",
+    "poczta": "Szczyrzyc\r"
+  },
+  {
+    "id": "5801",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2024",
+    "miejscowosc": "Szczyrzyc",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szczyrzyc",
+    "numer": "123",
+    "kod": "34-623",
+    "poczta": "Szczyrzyc\r"
+  },
+  {
+    "id": "5805",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2024",
+    "miejscowosc": "Szczyrzyc",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia",
+    "ulica": "Szczyrzyc",
+    "numer": "84",
+    "kod": "34-623",
+    "poczta": "Szczyrzyc\r"
+  },
+  {
+    "id": "5806",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2024",
+    "miejscowosc": "Szczyrzyc",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "Szczyrzyc",
+    "numer": "84",
+    "kod": "34-623",
+    "poczta": "Szczyrzyc\r"
+  }
+]

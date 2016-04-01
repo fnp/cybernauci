@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6796",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2485",
+    "miejscowosc": "Chojnik",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne",
+    "ulica": "Chojnik",
+    "numer": "287",
+    "kod": "33-180",
+    "poczta": "Gromnik\r"
+  },
+  {
+    "id": "6797",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2485",
+    "miejscowosc": "Chojnik",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Chojnik",
+    "numer": "287",
+    "kod": "33-180",
+    "poczta": "Gromnik\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8847",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3177",
+    "miejscowosc": "Drety\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Polskich Noblist\u00f3w",
+    "ulica": "Drety\u0144",
+    "numer": "26",
+    "kod": "77-200",
+    "poczta": "Miastko\r"
+  },
+  {
+    "id": "8848",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3177",
+    "miejscowosc": "Drety\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Polskich Noblist\u00f3w",
+    "ulica": "Drety\u0144",
+    "numer": "26",
+    "kod": "77-200",
+    "poczta": "Miastko\r"
+  }
+]

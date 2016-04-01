@@ -1,0 +1,26 @@
+[
+  {
+    "id": "998",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "431",
+    "miejscowosc": "Konary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "999",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "431",
+    "miejscowosc": "Konary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]

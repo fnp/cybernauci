@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23542",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8537",
+    "miejscowosc": "Pustelnik",
+    "typ": "gimnazjum",
+    "nazwa": "Zespo\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "05-304",
+    "poczta": "Stanis\u0142aw\u00f3w\r"
+  },
+  {
+    "id": "23543",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8537",
+    "miejscowosc": "Pustelnik",
+    "typ": "podstawowa",
+    "nazwa": "Zespo\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Armii Krajowej ",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "05-304",
+    "poczta": "Stanis\u0142aw\u00f3w\r"
+  }
+]

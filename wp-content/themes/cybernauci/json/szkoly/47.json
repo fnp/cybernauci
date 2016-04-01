@@ -1,0 +1,26 @@
+[
+  {
+    "id": "133",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "47",
+    "miejscowosc": "Solarnia",
+    "typ": "podstawowa",
+    "nazwa": "Dwuj\u0119zyczna Szko\u0142a Podstawowa",
+    "ulica": "Raciborska",
+    "numer": "42 a",
+    "kod": "47-244",
+    "poczta": "Dziergowice\r"
+  },
+  {
+    "id": "134",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "47",
+    "miejscowosc": "Solarnia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Dwuj\u0119zyczne Gimnazjum",
+    "ulica": "Raciborska",
+    "numer": "42",
+    "kod": "47-244",
+    "poczta": "Dziergowice\r"
+  }
+]

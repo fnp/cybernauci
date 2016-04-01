@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8595",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3109",
+    "miejscowosc": "Ole\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "28-220",
+    "poczta": "Ole\u015bnica\r"
+  },
+  {
+    "id": "8597",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3109",
+    "miejscowosc": "Ole\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Stefana \u017beromskiego",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "28-220",
+    "poczta": "Ole\u015bnica\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "15695",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "31",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15694",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne im Piotra W\u0142ostowica",
+    "ulica": "\u015awidnicka",
+    "numer": "20a",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15698",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u015awi\u0119tego Jakuba",
+    "numer": "20",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15696",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "31",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15689",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "\u015awidnicka",
+    "numer": "20",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15690",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "19",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15699",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u015awi\u0119tego Jakuba",
+    "numer": "20",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  },
+  {
+    "id": "15697",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5564",
+    "miejscowosc": "Sob\u00f3tka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "S\u0142oneczna",
+    "numer": "31",
+    "kod": "55-050",
+    "poczta": "Sob\u00f3tka\r"
+  }
+]

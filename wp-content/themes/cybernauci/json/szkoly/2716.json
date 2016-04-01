@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7808",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2716",
+    "miejscowosc": "Nowy Korczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "13",
+    "kod": "28-136",
+    "poczta": "Nowy Korczyn\r"
+  },
+  {
+    "id": "7809",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2716",
+    "miejscowosc": "Nowy Korczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum im. \u015aw. Kingi",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "13",
+    "kod": "28-136",
+    "poczta": "Nowy Korczyn\r"
+  }
+]

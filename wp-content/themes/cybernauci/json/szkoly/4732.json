@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13341",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4732",
+    "miejscowosc": "Sicienko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Bydgoska",
+    "numer": "8",
+    "kod": "86-014",
+    "poczta": "Sicienko\r"
+  },
+  {
+    "id": "13342",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4732",
+    "miejscowosc": "Sicienko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Bydgoska",
+    "numer": "8",
+    "kod": "86-014",
+    "poczta": "Sicienko\r"
+  }
+]

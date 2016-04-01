@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21537",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7685",
+    "miejscowosc": "Posada G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "164",
+    "kod": "38-481",
+    "poczta": "Ryman\u00f3w Zdr\u00f3j\r"
+  },
+  {
+    "id": "21538",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7685",
+    "miejscowosc": "Posada G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "164",
+    "kod": "38-481",
+    "poczta": "Ryman\u00f3w Zdr\u00f3j\r"
+  }
+]

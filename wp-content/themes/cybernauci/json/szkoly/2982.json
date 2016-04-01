@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8319",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2982",
+    "miejscowosc": "Bodzech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczna Szko\u0142a Podstawowa im. Walentego Stefa\u0144skiego ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "27-420",
+    "poczta": "Bodzech\u00f3w\r"
+  },
+  {
+    "id": "8320",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2982",
+    "miejscowosc": "Bodzech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "27-420",
+    "poczta": "Bodzech\u00f3w\r"
+  }
+]

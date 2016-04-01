@@ -1,0 +1,26 @@
+[
+  {
+    "id": "603",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "304",
+    "miejscowosc": "Szymisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wolno\u015bci",
+    "numer": "1",
+    "kod": "47-100",
+    "poczta": "Strzelce Opolskie\r"
+  },
+  {
+    "id": "607",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "304",
+    "miejscowosc": "Szymisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "47-100",
+    "poczta": "Strzelce Opolskie\r"
+  }
+]

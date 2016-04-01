@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15750",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5592",
+    "miejscowosc": "Z\u0142oty Stok",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chemik\u00f3w",
+    "numer": "8",
+    "kod": "57-250",
+    "poczta": "Z\u0142oty Stok\r"
+  },
+  {
+    "id": "15751",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5592",
+    "miejscowosc": "Z\u0142oty Stok",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chemik\u00f3w",
+    "numer": "8",
+    "kod": "57-250",
+    "poczta": "Z\u0142oty Stok\r"
+  }
+]

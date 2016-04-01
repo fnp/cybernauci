@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7151",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2649",
+    "miejscowosc": "Jaroszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jaroszowice",
+    "numer": "88",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7152",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2649",
+    "miejscowosc": "Jaroszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jaroszowice",
+    "numer": "88",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  }
+]

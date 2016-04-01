@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24743",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9098",
+    "miejscowosc": "Rozbity Kamie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szajkowskiego",
+    "numer": "7",
+    "kod": "08-311",
+    "poczta": "Bielany\r"
+  },
+  {
+    "id": "24744",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9098",
+    "miejscowosc": "Rozbity Kamie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szajkowskiego",
+    "numer": "7",
+    "kod": "08-311",
+    "poczta": "Bielany\r"
+  }
+]

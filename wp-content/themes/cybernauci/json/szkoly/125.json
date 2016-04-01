@@ -1,0 +1,26 @@
+[
+  {
+    "id": "275",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "125",
+    "miejscowosc": "Pok\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "15",
+    "kod": "46-034",
+    "poczta": "Pok\u00f3j\r"
+  },
+  {
+    "id": "274",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "125",
+    "miejscowosc": "Pok\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Publiczna Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "15",
+    "kod": "46-034",
+    "poczta": "Pok\u00f3j\r"
+  }
+]

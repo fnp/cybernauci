@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19244",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6870",
+    "miejscowosc": "Strykowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "62-060",
+    "poczta": "St\u0119szew\r"
+  },
+  {
+    "id": "19246",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6870",
+    "miejscowosc": "Strykowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bukowska",
+    "numer": "2",
+    "kod": "62-060",
+    "poczta": "Strykowo\r"
+  }
+]

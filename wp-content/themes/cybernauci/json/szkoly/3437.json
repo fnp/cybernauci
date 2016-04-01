@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9435",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3437",
+    "miejscowosc": "K\u0142anino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "K\u0142anino",
+    "numer": "22",
+    "kod": "84-107",
+    "poczta": "Starzyno\r"
+  },
+  {
+    "id": "9436",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3437",
+    "miejscowosc": "K\u0142anino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "K\u0142anino",
+    "numer": "22",
+    "kod": "84-107",
+    "poczta": "Starzyno\r"
+  },
+  {
+    "id": "9437",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3437",
+    "miejscowosc": "K\u0142anino",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "K\u0142anino",
+    "numer": "22",
+    "kod": "84-107",
+    "poczta": "Starzyno\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10580",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3790",
+    "miejscowosc": "Knyszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bia\u0142ostocka",
+    "numer": "36",
+    "kod": "19-120",
+    "poczta": "Knyszyn\r"
+  },
+  {
+    "id": "10581",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3790",
+    "miejscowosc": "Knyszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Bia\u0142ostocka",
+    "numer": "36",
+    "kod": "19-120",
+    "poczta": "Knyszyn\r"
+  },
+  {
+    "id": "10582",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3790",
+    "miejscowosc": "Knyszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142ostocka",
+    "numer": "36",
+    "kod": "19-120",
+    "poczta": "Knyszyn\r"
+  }
+]

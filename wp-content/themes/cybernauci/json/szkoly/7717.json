@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21593",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7717",
+    "miejscowosc": "Wierzawice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wierzawice",
+    "numer": "396",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21594",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7717",
+    "miejscowosc": "Wierzawice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Sikorskiego",
+    "ulica": "Wierzawice",
+    "numer": "396",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  }
+]

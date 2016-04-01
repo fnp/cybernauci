@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4085",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1297",
+    "miejscowosc": "Bia\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142ka",
+    "numer": "122",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  },
+  {
+    "id": "4458",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1297",
+    "miejscowosc": "Bia\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Bia\u0142ka",
+    "numer": "49",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4459",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1297",
+    "miejscowosc": "Bia\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142ka",
+    "numer": "49",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  }
+]

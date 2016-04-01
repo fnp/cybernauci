@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13872",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4992",
+    "miejscowosc": "Je\u017cewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "37",
+    "kod": "86-131",
+    "poczta": "Je\u017cewo\r"
+  },
+  {
+    "id": "13873",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4992",
+    "miejscowosc": "Je\u017cewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "37",
+    "kod": "86-131",
+    "poczta": "Je\u017cewo\r"
+  }
+]

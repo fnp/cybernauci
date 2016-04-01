@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3540",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1001",
+    "miejscowosc": "Siedliszcze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "64",
+    "kod": "22-130",
+    "poczta": "Siedliszcze\r"
+  },
+  {
+    "id": "3538",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1001",
+    "miejscowosc": "Siedliszcze",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. H. Sienkiewicza Publiczne Gimnazjum",
+    "ulica": "Aleksandra Ba\u0142asza",
+    "numer": "1",
+    "kod": "22-130",
+    "poczta": "Siedliszcze\r"
+  },
+  {
+    "id": "3539",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1001",
+    "miejscowosc": "Siedliszcze",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. H. Sienkiewicza Szko\u0142a Podstawowa",
+    "ulica": "Aleksandra Ba\u0142asza",
+    "numer": "1",
+    "kod": "22-130",
+    "poczta": "Siedliszcze\r"
+  }
+]

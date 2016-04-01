@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16730",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5858",
+    "miejscowosc": "Rz\u0105\u015bnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "1 Maja",
+    "numer": "37",
+    "kod": "98-332",
+    "poczta": "Rz\u0105\u015bnia\r"
+  },
+  {
+    "id": "16731",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5858",
+    "miejscowosc": "Rz\u0105\u015bnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "1 Maja",
+    "numer": "16",
+    "kod": "98-332",
+    "poczta": "Rz\u0105\u015bnia\r"
+  }
+]

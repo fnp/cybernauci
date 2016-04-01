@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15676",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5549",
+    "miejscowosc": "K\u0105ty Wroc\u0142awskie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Brzozowa",
+    "numer": "6",
+    "kod": "55-080",
+    "poczta": "K\u0105ty Wroc\u0142awskie\r"
+  },
+  {
+    "id": "15668",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5549",
+    "miejscowosc": "K\u0105ty Wroc\u0142awskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "1 Maja",
+    "numer": "59",
+    "kod": "55-080",
+    "poczta": "K\u0105ty Wroc\u0142awskie\r"
+  },
+  {
+    "id": "15669",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5549",
+    "miejscowosc": "K\u0105ty Wroc\u0142awskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Brzozowa",
+    "numer": "6",
+    "kod": "55-080",
+    "poczta": "K\u0105ty Wroc\u0142awskie\r"
+  }
+]

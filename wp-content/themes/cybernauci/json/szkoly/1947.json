@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5643",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1947",
+    "miejscowosc": "Raciborowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Raciborowice",
+    "numer": "126",
+    "kod": "32-091",
+    "poczta": "Micha\u0142owice\r"
+  },
+  {
+    "id": "5644",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1947",
+    "miejscowosc": "Raciborowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Raciborowice",
+    "numer": "126",
+    "kod": "32-091",
+    "poczta": "Micha\u0142owice\r"
+  }
+]

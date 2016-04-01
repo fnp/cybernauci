@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23729",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8616",
+    "miejscowosc": "Olszewka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszewka",
+    "numer": "24A",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  },
+  {
+    "id": "24316",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8616",
+    "miejscowosc": "Olszewka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszewka",
+    "numer": "80",
+    "kod": "06-323",
+    "poczta": "Jednoro\u017cec\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22036",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7938",
+    "miejscowosc": "Nowosielce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowosielce",
+    "numer": "561",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22037",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7938",
+    "miejscowosc": "Nowosielce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowosielce",
+    "numer": "561",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22390",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7938",
+    "miejscowosc": "Nowosielce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowosielce",
+    "numer": "149",
+    "kod": "38-533",
+    "poczta": "Zarszyn\r"
+  },
+  {
+    "id": "22395",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7938",
+    "miejscowosc": "Nowosielce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nowosielce",
+    "numer": "206",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  },
+  {
+    "id": "22396",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7938",
+    "miejscowosc": "Nowosielce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nowosielce",
+    "numer": "206",
+    "kod": "38-530",
+    "poczta": "Zarszyn\r"
+  }
+]

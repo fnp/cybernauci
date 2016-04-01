@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6005",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2013",
+    "miejscowosc": "Str\u00f3\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "Str\u00f3\u017ca",
+    "numer": "1",
+    "kod": "32-431",
+    "poczta": "Str\u00f3\u017ca\r"
+  },
+  {
+    "id": "5783",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2013",
+    "miejscowosc": "Str\u00f3\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Str\u00f3\u017ca",
+    "numer": "1",
+    "kod": "34-625",
+    "poczta": "Skrzydlna\r"
+  },
+  {
+    "id": "6001",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2013",
+    "miejscowosc": "Str\u00f3\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Str\u00f3\u017ca",
+    "numer": "1",
+    "kod": "32-431",
+    "poczta": "Str\u00f3\u017ca\r"
+  },
+  {
+    "id": "6002",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2013",
+    "miejscowosc": "Str\u00f3\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Str\u00f3\u017ca",
+    "numer": "168",
+    "kod": "32-431",
+    "poczta": "Str\u00f3\u017ca\r"
+  }
+]

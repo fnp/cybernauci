@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1181",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "528",
+    "miejscowosc": "Parzymiechy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ks. Bonawentury Metlera",
+    "ulica": "Parkowa",
+    "numer": "2",
+    "kod": "42-164",
+    "poczta": "Parzymiechy\r"
+  },
+  {
+    "id": "1182",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "528",
+    "miejscowosc": "Parzymiechy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Parkowa",
+    "numer": "2",
+    "kod": "42-164",
+    "poczta": "Parzymiechy\r"
+  }
+]

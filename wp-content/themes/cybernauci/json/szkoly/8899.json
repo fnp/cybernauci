@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24375",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8899",
+    "miejscowosc": "Wieniawa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Klasami Sportowymi",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "26-432",
+    "poczta": "Wieniawa\r"
+  },
+  {
+    "id": "24376",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8899",
+    "miejscowosc": "Wieniawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "26-432",
+    "poczta": "Wieniawa\r"
+  },
+  {
+    "id": "24377",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8899",
+    "miejscowosc": "Wieniawa",
+    "typ": "gimnazjum",
+    "nazwa": "Szko\u0142a Mistrzostwa Sportowego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "26-432",
+    "poczta": "Wieniawa\r"
+  }
+]

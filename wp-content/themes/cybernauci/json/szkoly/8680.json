@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23848",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8680",
+    "miejscowosc": "Pa\u0142apus",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Pa\u0142apus",
+    "numer": "42",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23847",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8680",
+    "miejscowosc": "Pa\u0142apus",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Pa\u0142apus",
+    "numer": "42",
+    "kod": "07-300",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8864",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3187",
+    "miejscowosc": "Tuchomie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "ks. Jana Hinza",
+    "numer": "1",
+    "kod": "77-133",
+    "poczta": "Tuchomie\r"
+  },
+  {
+    "id": "8865",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3187",
+    "miejscowosc": "Tuchomie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "ks. Jana Hinza",
+    "numer": "1",
+    "kod": "77-133",
+    "poczta": "Tuchomie\r"
+  }
+]

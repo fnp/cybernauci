@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25005",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8849",
+    "miejscowosc": "Rozalin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rozalin",
+    "numer": "29",
+    "kod": "05-282",
+    "poczta": "Strach\u00f3wka\r"
+  },
+  {
+    "id": "24273",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8849",
+    "miejscowosc": "Rozalin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "Matki Florentyny Dymman",
+    "numer": "5",
+    "kod": "05-831",
+    "poczta": "M\u0142och\u00f3w\r"
+  }
+]

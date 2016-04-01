@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24454",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8936",
+    "miejscowosc": "I\u0142\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Miko\u0142aja Kopernika",
+    "ulica": "Jakuba Starszego",
+    "numer": "6",
+    "kod": "27-100",
+    "poczta": "I\u0142\u017ca\r"
+  },
+  {
+    "id": "24448",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8936",
+    "miejscowosc": "I\u0142\u017ca",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "W\u00f3jtowska",
+    "numer": "5",
+    "kod": "27-100",
+    "poczta": "I\u0142\u017ca\r"
+  },
+  {
+    "id": "24453",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8936",
+    "miejscowosc": "I\u0142\u017ca",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Gminne",
+    "ulica": "Bodzenty\u0144ska",
+    "numer": "45",
+    "kod": "27-100",
+    "poczta": "I\u0142\u017ca\r"
+  },
+  {
+    "id": "24456",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8936",
+    "miejscowosc": "I\u0142\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "B\u0142azi\u0144ska",
+    "numer": "5",
+    "kod": "27-100",
+    "poczta": "I\u0142\u017ca\r"
+  },
+  {
+    "id": "24457",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8936",
+    "miejscowosc": "I\u0142\u017ca",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "B\u0142azi\u0144ska",
+    "numer": "5",
+    "kod": "27-100",
+    "poczta": "I\u0142\u017ca\r"
+  }
+]

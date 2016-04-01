@@ -1,0 +1,86 @@
+[
+  {
+    "id": "22843",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Armii Krajowej",
+    "ulica": "Targowicka",
+    "numer": "3",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "22842",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum \"Si\u00f3demka\"",
+    "ulica": "Targowicka",
+    "numer": "3",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "22840",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Rzemie\u015blnicza",
+    "numer": "21\/31",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "22841",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Reymonta",
+    "numer": "13",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "23299",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojska Polskiego",
+    "ulica": "Wojska Polskiego",
+    "numer": "21",
+    "kod": "05-127",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "22844",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017beromskiego",
+    "numer": "86",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  },
+  {
+    "id": "22845",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8216",
+    "miejscowosc": "Bia\u0142obrzegi",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u017beromskiego",
+    "numer": "86",
+    "kod": "26-800",
+    "poczta": "Bia\u0142obrzegi\r"
+  }
+]

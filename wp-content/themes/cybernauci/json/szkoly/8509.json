@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23492",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8509",
+    "miejscowosc": "Okuniew",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "05-079",
+    "poczta": "Okuniew\r"
+  },
+  {
+    "id": "23493",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8509",
+    "miejscowosc": "Okuniew",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "05-079",
+    "poczta": "Okuniew\r"
+  }
+]

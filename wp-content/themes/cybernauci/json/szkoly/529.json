@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1183",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "529",
+    "miejscowosc": "Lipie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "31",
+    "kod": "42-165",
+    "poczta": "Lipie\r"
+  },
+  {
+    "id": "1184",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "529",
+    "miejscowosc": "Lipie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "31",
+    "kod": "42-165",
+    "poczta": "Lipie\r"
+  }
+]

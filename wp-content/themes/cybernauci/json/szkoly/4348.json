@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12397",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4348",
+    "miejscowosc": "Wilkasy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Szarych Szereg\u00f3w",
+    "ulica": "Olszty\u0144ska",
+    "numer": "29",
+    "kod": "11-500",
+    "poczta": "Gi\u017cycko\r"
+  },
+  {
+    "id": "12393",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4348",
+    "miejscowosc": "Wilkasy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kazimierza Jagiello\u0144czyka",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "11-500",
+    "poczta": "Wilkasy\r"
+  }
+]

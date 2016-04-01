@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5132",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1678",
+    "miejscowosc": "Damienice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Damienice",
+    "numer": "11",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5133",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1678",
+    "miejscowosc": "Damienice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Damienice",
+    "numer": "11",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  }
+]

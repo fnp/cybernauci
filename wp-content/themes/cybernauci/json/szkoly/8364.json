@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23157",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8364",
+    "miejscowosc": "B\u0105dk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "B\u0105dk\u00f3w",
+    "numer": "68",
+    "kod": "05-610",
+    "poczta": "Goszczyn\r"
+  },
+  {
+    "id": "23172",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8364",
+    "miejscowosc": "B\u0105dk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia Nr 1 ",
+    "ulica": "B\u0105dk\u00f3w",
+    "numer": "68",
+    "kod": "05-610",
+    "poczta": "Goszczyn\r"
+  }
+]

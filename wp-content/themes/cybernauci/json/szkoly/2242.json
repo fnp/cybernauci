@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6220",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2242",
+    "miejscowosc": "Nawojowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nawojowa",
+    "numer": "139",
+    "kod": "33-335",
+    "poczta": "Nawojowa\r"
+  },
+  {
+    "id": "6216",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2242",
+    "miejscowosc": "Nawojowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. b\u0142. Julii Rodzi\u0144skiej",
+    "ulica": "Nawojowa",
+    "numer": "139",
+    "kod": "33-335",
+    "poczta": "Nawojowa\r"
+  },
+  {
+    "id": "6221",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2242",
+    "miejscowosc": "Nawojowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nawojowa",
+    "numer": "348A",
+    "kod": "33-335",
+    "poczta": "Nawojowa\r"
+  },
+  {
+    "id": "6222",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2242",
+    "miejscowosc": "Nawojowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nawojowa",
+    "numer": "348A",
+    "kod": "33-335",
+    "poczta": "Nawojowa\r"
+  }
+]

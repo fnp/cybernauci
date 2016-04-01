@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7111",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2631",
+    "miejscowosc": "Skawinki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Skawinki",
+    "numer": "220",
+    "kod": "34-143",
+    "poczta": "Lanckorona\r"
+  },
+  {
+    "id": "7112",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2631",
+    "miejscowosc": "Skawinki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Skawinki",
+    "numer": "220",
+    "kod": "34-143",
+    "poczta": "Lanckorona\r"
+  }
+]

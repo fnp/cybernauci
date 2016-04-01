@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3502",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "976",
+    "miejscowosc": "Strupin Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Strupin Du\u017cy",
+    "numer": "71",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  },
+  {
+    "id": "3503",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "976",
+    "miejscowosc": "Strupin Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strupin Du\u017cy",
+    "numer": "71",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  }
+]

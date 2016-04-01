@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5952",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2102",
+    "miejscowosc": "Tenczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. S\u0142ugi Bo\u017cego Ks. Micha\u0142a Rapacza",
+    "ulica": "Tenczyn",
+    "numer": "171",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5949",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2102",
+    "miejscowosc": "Tenczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Tenczyn",
+    "numer": "171",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  }
+]

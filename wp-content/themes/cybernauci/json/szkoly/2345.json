@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6451",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2345",
+    "miejscowosc": "Szaflary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6452",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2345",
+    "miejscowosc": "Szaflary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

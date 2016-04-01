@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24511",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8983",
+    "miejscowosc": "Makowiec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "26-640",
+    "poczta": "Skaryszew\r"
+  },
+  {
+    "id": "24512",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8983",
+    "miejscowosc": "Makowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "26-640",
+    "poczta": "Skaryszew\r"
+  }
+]

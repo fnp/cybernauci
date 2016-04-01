@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13296",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4710",
+    "miejscowosc": "Wudzynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Czteroletnie Technikum",
+    "ulica": "Wudzynek",
+    "numer": "8",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  },
+  {
+    "id": "13297",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4710",
+    "miejscowosc": "Wudzynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wudzynek",
+    "numer": "8",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  },
+  {
+    "id": "13298",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4710",
+    "miejscowosc": "Wudzynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wudzynek",
+    "numer": "8",
+    "kod": "86-022",
+    "poczta": "Dobrcz\r"
+  }
+]

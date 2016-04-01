@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3674",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1072",
+    "miejscowosc": "Potoczek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Potoczek",
+    "numer": "42",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  },
+  {
+    "id": "3675",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1072",
+    "miejscowosc": "Potoczek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Potoczek",
+    "numer": "42",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  },
+  {
+    "id": "3676",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1072",
+    "miejscowosc": "Potoczek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Potoczek",
+    "numer": "43",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  },
+  {
+    "id": "3677",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1072",
+    "miejscowosc": "Potoczek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Potoczek",
+    "numer": "43",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  }
+]

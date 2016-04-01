@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15468",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5462",
+    "miejscowosc": "Roztoka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "7\/9",
+    "kod": "58-173",
+    "poczta": "Roztoka\r"
+  },
+  {
+    "id": "15469",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5462",
+    "miejscowosc": "Roztoka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "7\/9",
+    "kod": "58-173",
+    "poczta": "Roztoka\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5286",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1763",
+    "miejscowosc": "Wojakowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Wojakowa",
+    "numer": "49",
+    "kod": "32-862",
+    "poczta": "Por\u0105bka Iwkowska\r"
+  },
+  {
+    "id": "5287",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1763",
+    "miejscowosc": "Wojakowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Wojakowa",
+    "numer": "49",
+    "kod": "32-862",
+    "poczta": "Por\u0105bka Iwkowska\r"
+  }
+]

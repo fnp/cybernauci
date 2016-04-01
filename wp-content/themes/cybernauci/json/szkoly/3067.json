@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8510",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stanis\u0142awa Staszica",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "6",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  },
+  {
+    "id": "8511",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Sportowa",
+    "numer": "3",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  },
+  {
+    "id": "8507",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Ogrodowa",
+    "numer": "12",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  },
+  {
+    "id": "8508",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa Nr 3 im. Stefana \u017beromskiego",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  },
+  {
+    "id": "8512",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Sportowa",
+    "numer": "3",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  },
+  {
+    "id": "8513",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3067",
+    "miejscowosc": "Suchedni\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Sportowa",
+    "numer": "3",
+    "kod": "26-130",
+    "poczta": "Suchedni\u00f3w\r"
+  }
+]

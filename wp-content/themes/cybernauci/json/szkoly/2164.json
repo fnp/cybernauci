@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6088",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2164",
+    "miejscowosc": "Podole-G\u00f3rowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Podole-G\u00f3rowa",
+    "numer": "158",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  },
+  {
+    "id": "6089",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2164",
+    "miejscowosc": "Podole-G\u00f3rowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Podole-G\u00f3rowa",
+    "numer": "158",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  }
+]

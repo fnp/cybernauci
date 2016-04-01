@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15344",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5429",
+    "miejscowosc": "Przemk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Le\u015bna G\u00f3ra",
+    "numer": "3",
+    "kod": "59-170",
+    "poczta": "Przemk\u00f3w\r"
+  },
+  {
+    "id": "15345",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5429",
+    "miejscowosc": "Przemk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Le\u015bna G\u00f3ra",
+    "numer": "3",
+    "kod": "59-170",
+    "poczta": "Przemk\u00f3w\r"
+  },
+  {
+    "id": "15342",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5429",
+    "miejscowosc": "Przemk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "6B",
+    "kod": "59-170",
+    "poczta": "Przemk\u00f3w\r"
+  },
+  {
+    "id": "15343",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5429",
+    "miejscowosc": "Przemk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Rybna",
+    "numer": "3a",
+    "kod": "59-170",
+    "poczta": "Przemk\u00f3w\r"
+  },
+  {
+    "id": "15346",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5429",
+    "miejscowosc": "Przemk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Le\u015bna G\u00f3ra",
+    "numer": "3",
+    "kod": "59-170",
+    "poczta": "Przemk\u00f3w\r"
+  }
+]

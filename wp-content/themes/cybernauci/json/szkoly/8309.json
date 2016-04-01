@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23032",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8309",
+    "miejscowosc": "\u017byczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017byczyn",
+    "numer": "55A",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  },
+  {
+    "id": "23033",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8309",
+    "miejscowosc": "\u017byczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. chor. J. Paca",
+    "ulica": "\u017byczyn",
+    "numer": "55A",
+    "kod": "08-455",
+    "poczta": "Trojan\u00f3w\r"
+  }
+]

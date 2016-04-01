@@ -1,0 +1,50 @@
+[
+  {
+    "id": "22278",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8056",
+    "miejscowosc": "Bratkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Bratkowice",
+    "numer": "398",
+    "kod": "36-055",
+    "poczta": "Bratkowice\r"
+  },
+  {
+    "id": "22275",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8056",
+    "miejscowosc": "Bratkowice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Bratkowice",
+    "numer": "150",
+    "kod": "36-055",
+    "poczta": "Bratkowice\r"
+  },
+  {
+    "id": "22279",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8056",
+    "miejscowosc": "Bratkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Bratkowice",
+    "numer": "398",
+    "kod": "36-055",
+    "poczta": "Bratkowice\r"
+  },
+  {
+    "id": "22274",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8056",
+    "miejscowosc": "Bratkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Bratkowice",
+    "numer": "606",
+    "kod": "36-055",
+    "poczta": "Bratkowice\r"
+  }
+]

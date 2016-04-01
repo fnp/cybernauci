@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23749",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8620",
+    "miejscowosc": "\u0141yse",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Stanis\u0142awa Krupki",
+    "numer": "20",
+    "kod": "07-437",
+    "poczta": "\u0141yse\r"
+  },
+  {
+    "id": "23746",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8620",
+    "miejscowosc": "\u0141yse",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-437",
+    "poczta": "\u0141yse\r"
+  },
+  {
+    "id": "23737",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8620",
+    "miejscowosc": "\u0141yse",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "07-437",
+    "poczta": "\u0141yse\r"
+  },
+  {
+    "id": "23750",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8620",
+    "miejscowosc": "\u0141yse",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stanis\u0142awa Krupki",
+    "numer": "20",
+    "kod": "07-437",
+    "poczta": "\u0141yse\r"
+  },
+  {
+    "id": "23751",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8620",
+    "miejscowosc": "\u0141yse",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stanis\u0142awa Krupki",
+    "numer": "20",
+    "kod": "07-437",
+    "poczta": "\u0141yse\r"
+  }
+]

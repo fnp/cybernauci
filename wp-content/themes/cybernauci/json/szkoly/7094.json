@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19727",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7094",
+    "miejscowosc": "Nowy Folwark",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Nowa",
+    "numer": "5",
+    "kod": "62-300",
+    "poczta": "Wrze\u015bnia\r"
+  },
+  {
+    "id": "19728",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7094",
+    "miejscowosc": "Nowy Folwark",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Nowa",
+    "numer": "5",
+    "kod": "62-300",
+    "poczta": "Wrze\u015bnia\r"
+  }
+]

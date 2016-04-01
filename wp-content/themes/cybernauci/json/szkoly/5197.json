@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14738",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5197",
+    "miejscowosc": "\u0141agiewniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Piast\u00f3w \u015al\u0105skich",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "38A",
+    "kod": "58-210",
+    "poczta": "\u0141agiewniki\r"
+  },
+  {
+    "id": "14739",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5197",
+    "miejscowosc": "\u0141agiewniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "38A",
+    "kod": "58-210",
+    "poczta": "\u0141agiewniki\r"
+  }
+]

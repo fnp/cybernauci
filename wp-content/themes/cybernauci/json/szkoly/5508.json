@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15571",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5508",
+    "miejscowosc": "Bogusz\u00f3w-Gorce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Wary\u0144skiego",
+    "numer": "10",
+    "kod": "58-370",
+    "poczta": "Bogusz\u00f3w-Gorce\r"
+  },
+  {
+    "id": "15573",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5508",
+    "miejscowosc": "Bogusz\u00f3w-Gorce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "58-371",
+    "poczta": "Bogusz\u00f3w-Gorce\r"
+  },
+  {
+    "id": "15572",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5508",
+    "miejscowosc": "Bogusz\u00f3w-Gorce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "58-370",
+    "poczta": "Bogusz\u00f3w-Gorce\r"
+  },
+  {
+    "id": "15574",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5508",
+    "miejscowosc": "Bogusz\u00f3w-Gorce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "58-371",
+    "poczta": "Bogusz\u00f3w-Gorce\r"
+  },
+  {
+    "id": "15570",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5508",
+    "miejscowosc": "Bogusz\u00f3w-Gorce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 6",
+    "ulica": "Kopernika",
+    "numer": "7",
+    "kod": "58-372",
+    "poczta": "Bogusz\u00f3w-Gorce\r"
+  }
+]

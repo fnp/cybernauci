@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6886",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2539",
+    "miejscowosc": "Koszyce Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3 im. Cypriana Kamila Norwida",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "33-111",
+    "poczta": "Koszyce Wielkie\r"
+  },
+  {
+    "id": "6887",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2539",
+    "miejscowosc": "Koszyce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. Henryka Sucharskiego ",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "33-111",
+    "poczta": "Koszyce Wielkie\r"
+  }
+]

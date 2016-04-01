@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11449",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4070",
+    "miejscowosc": "Biesiekierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Wybitnych Polak\u00f3w",
+    "ulica": "Biesiekierz",
+    "numer": "60",
+    "kod": "76-039",
+    "poczta": "Biesiekierz\r"
+  },
+  {
+    "id": "11446",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4070",
+    "miejscowosc": "Biesiekierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego ",
+    "ulica": "Biesiekierz",
+    "numer": "19",
+    "kod": "76-039",
+    "poczta": "Biesiekierz\r"
+  },
+  {
+    "id": "11447",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4070",
+    "miejscowosc": "Biesiekierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. W\u0142. Wysockiego",
+    "ulica": "Biesiekierz",
+    "numer": "60",
+    "kod": "76-039",
+    "poczta": "Biesiekierz\r"
+  }
+]

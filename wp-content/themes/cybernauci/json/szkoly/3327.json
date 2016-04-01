@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9151",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3327",
+    "miejscowosc": "Le\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Aleja Lipowa",
+    "numer": "44",
+    "kod": "80-298",
+    "poczta": "Gda\u0144sk-Kokoszki\r"
+  },
+  {
+    "id": "9152",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3327",
+    "miejscowosc": "Le\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Aleja Lipowa",
+    "numer": "44",
+    "kod": "80-298",
+    "poczta": "Gda\u0144sk-Kokoszki\r"
+  }
+]

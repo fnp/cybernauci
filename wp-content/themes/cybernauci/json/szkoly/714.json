@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1660",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "714",
+    "miejscowosc": "Kamieniec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gliwicka",
+    "numer": "6",
+    "kod": "42-674",
+    "poczta": "Zbros\u0142awice\r"
+  },
+  {
+    "id": "1661",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "714",
+    "miejscowosc": "Kamieniec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gliwicka",
+    "numer": "6",
+    "kod": "42-674",
+    "poczta": "Zbros\u0142awice\r"
+  },
+  {
+    "id": "1654",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "714",
+    "miejscowosc": "Kamieniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gliwicka",
+    "numer": "6",
+    "kod": "42-674",
+    "poczta": "Zbros\u0142awice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18674",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6616",
+    "miejscowosc": "Lasocice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "64-100",
+    "poczta": "Leszno\r"
+  },
+  {
+    "id": "18675",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6616",
+    "miejscowosc": "Lasocice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "64-100",
+    "poczta": "Leszno\r"
+  }
+]

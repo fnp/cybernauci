@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9777",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3572",
+    "miejscowosc": "Strzebielino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Marii Curie Sk\u0142odowskiej",
+    "numer": "1",
+    "kod": "84-220",
+    "poczta": "Strzebielino\r"
+  },
+  {
+    "id": "9778",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3572",
+    "miejscowosc": "Strzebielino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Marii Curie Sk\u0142odowskiej",
+    "numer": "1",
+    "kod": "84-220",
+    "poczta": "Strzebielino\r"
+  }
+]

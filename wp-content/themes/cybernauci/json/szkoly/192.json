@@ -1,0 +1,50 @@
+[
+  {
+    "id": "395",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "192",
+    "miejscowosc": "Gorz\u00f3w \u015al\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Byczy\u0144ska",
+    "numer": "13",
+    "kod": "46-310",
+    "poczta": "Gorz\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "396",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "192",
+    "miejscowosc": "Gorz\u00f3w \u015al\u0105ski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Byczy\u0144ska",
+    "numer": "13",
+    "kod": "46-310",
+    "poczta": "Gorz\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "397",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "192",
+    "miejscowosc": "Gorz\u00f3w \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Byczy\u0144ska",
+    "numer": "9",
+    "kod": "46-310",
+    "poczta": "Gorz\u00f3w \u015al\u0105ski\r"
+  },
+  {
+    "id": "398",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "192",
+    "miejscowosc": "Gorz\u00f3w \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Byczy\u0144ska",
+    "numer": "9",
+    "kod": "46-310",
+    "poczta": "Gorz\u00f3w \u015al\u0105ski\r"
+  }
+]

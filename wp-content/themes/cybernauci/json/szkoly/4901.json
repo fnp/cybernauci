@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13689",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4901",
+    "miejscowosc": "Mrocza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "2",
+    "kod": "89-115",
+    "poczta": "Mrocza\r"
+  },
+  {
+    "id": "13686",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4901",
+    "miejscowosc": "Mrocza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "30 lecia LWP",
+    "numer": "4",
+    "kod": "89-115",
+    "poczta": "Mrocza\r"
+  }
+]

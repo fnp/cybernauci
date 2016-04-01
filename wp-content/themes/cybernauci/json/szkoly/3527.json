@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9611",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3527",
+    "miejscowosc": "Zblewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi ",
+    "ulica": "Ko\u015bcierska",
+    "numer": "39",
+    "kod": "83-210",
+    "poczta": "Zblewo\r"
+  },
+  {
+    "id": "9612",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3527",
+    "miejscowosc": "Zblewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcierska",
+    "numer": "39",
+    "kod": "83-210",
+    "poczta": "Zblewo\r"
+  }
+]

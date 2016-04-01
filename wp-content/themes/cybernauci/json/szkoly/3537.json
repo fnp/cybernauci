@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9656",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3537",
+    "miejscowosc": "Opalenie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "ks. Ludwika Warneckiego",
+    "numer": "10",
+    "kod": "83-136",
+    "poczta": "Opalenie\r"
+  },
+  {
+    "id": "9657",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3537",
+    "miejscowosc": "Opalenie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "ks. Ludwika Warneckiego",
+    "numer": "10",
+    "kod": "83-136",
+    "poczta": "Opalenie\r"
+  }
+]

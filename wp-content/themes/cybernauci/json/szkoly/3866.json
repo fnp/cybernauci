@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10741",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3866",
+    "miejscowosc": "P\u0142ociczno-Tartak",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0142ociczno-Tartak",
+    "numer": "16",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  },
+  {
+    "id": "10742",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3866",
+    "miejscowosc": "P\u0142ociczno-Tartak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0142ociczno-Tartak",
+    "numer": "16",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  }
+]

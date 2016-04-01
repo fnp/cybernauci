@@ -1,0 +1,86 @@
+[
+  {
+    "id": "14947",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "57-350",
+    "poczta": "Kudowa-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14948",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. J. Lompy",
+    "ulica": "Zdrojowa",
+    "numer": "22a",
+    "kod": "57-350",
+    "poczta": "Kudowa-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14946",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "58",
+    "kod": "57-350",
+    "poczta": "Kudowa-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14951",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa im. Stanis\u0142awa Moniuszki w Zespole Szk\u00f3\u0142 Spo\u0142ecznych",
+    "ulica": "S\u0142one",
+    "numer": "72",
+    "kod": "57-350",
+    "poczta": "Kudowa Zdr\u00f3j\r"
+  },
+  {
+    "id": "14952",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum im. Stanis\u0142awa Moniuszki w Zespole Szk\u00f3\u0142 Spo\u0142ecznych",
+    "ulica": "S\u0142one",
+    "numer": "72",
+    "kod": "57-350",
+    "poczta": "Kudowa Zdr\u00f3j\r"
+  },
+  {
+    "id": "14949",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "57-350",
+    "poczta": "Kudowa-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14950",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5270",
+    "miejscowosc": "Kudowa-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Zdrojowa",
+    "numer": "22a",
+    "kod": "57-350",
+    "poczta": "Kudowa-Zdr\u00f3j\r"
+  }
+]

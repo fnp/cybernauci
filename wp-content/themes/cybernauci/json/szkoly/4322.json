@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12298",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4322",
+    "miejscowosc": "M\u0142ynary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Warszawska",
+    "numer": "1",
+    "kod": "14-420",
+    "poczta": "M\u0142ynary\r"
+  },
+  {
+    "id": "12299",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4322",
+    "miejscowosc": "M\u0142ynary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Warszawska",
+    "numer": "1",
+    "kod": "14-420",
+    "poczta": "M\u0142ynary\r"
+  }
+]

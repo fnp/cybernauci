@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4640",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1554",
+    "miejscowosc": "Michal\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Micha\u0142\u00f3w",
+    "numer": "117",
+    "kod": "22-640",
+    "poczta": "Rachanie\r"
+  },
+  {
+    "id": "4782",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1554",
+    "miejscowosc": "Michal\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Osiedlowa",
+    "numer": "11",
+    "kod": "22-448",
+    "poczta": "Su\u0142\u00f3w\r"
+  },
+  {
+    "id": "4641",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1554",
+    "miejscowosc": "Michal\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Micha\u0142\u00f3w",
+    "numer": "117",
+    "kod": "22-640",
+    "poczta": "Rachanie\r"
+  },
+  {
+    "id": "4783",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1554",
+    "miejscowosc": "Michal\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Osiedlowa",
+    "numer": "11",
+    "kod": "22-448",
+    "poczta": "Su\u0142\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21773",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7784",
+    "miejscowosc": "Gliny Ma\u0142e",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Gliny Ma\u0142e",
+    "numer": "99",
+    "kod": "39-305",
+    "poczta": "Borowa\r"
+  },
+  {
+    "id": "21774",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7784",
+    "miejscowosc": "Gliny Ma\u0142e",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Gliny Ma\u0142e",
+    "numer": "99",
+    "kod": "39-305",
+    "poczta": "Borowa\r"
+  }
+]

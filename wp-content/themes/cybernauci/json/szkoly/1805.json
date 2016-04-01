@@ -1,0 +1,98 @@
+[
+  {
+    "id": "5396",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "44",
+    "kod": "32-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5397",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5384",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ko\u015bcielna",
+    "numer": "25A",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5385",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Matejki",
+    "numer": "8",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5391",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Zar\u0119by",
+    "numer": "22",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5392",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Bohater\u00f3w Powi\u015bla D\u0105browskiego",
+    "ulica": "Zazamcze",
+    "numer": "3",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5398",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  },
+  {
+    "id": "5399",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1805",
+    "miejscowosc": "D\u0105browa Tarnowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "5",
+    "kod": "33-200",
+    "poczta": "D\u0105browa Tarnowska\r"
+  }
+]

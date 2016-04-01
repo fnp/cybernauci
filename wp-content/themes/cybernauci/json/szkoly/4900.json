@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13684",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4900",
+    "miejscowosc": "Turzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mycielewo",
+    "numer": "6",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  },
+  {
+    "id": "13685",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4900",
+    "miejscowosc": "Turzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mycielewo",
+    "numer": "6",
+    "kod": "89-240",
+    "poczta": "Kcynia\r"
+  }
+]

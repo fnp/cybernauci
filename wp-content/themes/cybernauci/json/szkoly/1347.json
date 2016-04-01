@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4185",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1347",
+    "miejscowosc": "Lipniak",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Lipniak",
+    "numer": "5",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  },
+  {
+    "id": "4186",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1347",
+    "miejscowosc": "Lipniak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Lipniak",
+    "numer": "5",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "10756",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ludowa",
+    "numer": "5",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10759",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kr\u00f3la Kazimierza Jagiello\u0144czyka",
+    "ulica": "1000-lecia",
+    "numer": "15",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10755",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10760",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "4",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10757",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. Armii Krajowej",
+    "ulica": "W\u0142adys\u0142awa Pelca",
+    "numer": "11",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10758",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3874",
+    "miejscowosc": "Wysokie Mazowieckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. Armii Krajowej",
+    "ulica": "W\u0142adys\u0142awa Pelca",
+    "numer": "11",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  }
+]

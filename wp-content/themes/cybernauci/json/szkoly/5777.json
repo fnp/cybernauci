@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16561",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5777",
+    "miejscowosc": "Rzg\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kazimierza Jagiello\u0144czyka ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "95-030",
+    "poczta": "Rzg\u00f3w\r"
+  },
+  {
+    "id": "16558",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5777",
+    "miejscowosc": "Rzg\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana D\u0142ugosza",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "95-030",
+    "poczta": "Rzg\u00f3w\r"
+  }
+]

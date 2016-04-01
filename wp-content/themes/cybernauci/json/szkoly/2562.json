@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6930",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2562",
+    "miejscowosc": "Wojnicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "17",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6927",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2562",
+    "miejscowosc": "Wojnicz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. Kingi",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6926",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2562",
+    "miejscowosc": "Wojnicz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rynek",
+    "numer": "30",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6931",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2562",
+    "miejscowosc": "Wojnicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "17",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6932",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2562",
+    "miejscowosc": "Wojnicz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jagiello\u0144ska",
+    "numer": "17",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13939",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5016",
+    "miejscowosc": "Warlubie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "20 A",
+    "kod": "86-160",
+    "poczta": "Warlubie\r"
+  },
+  {
+    "id": "13940",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5016",
+    "miejscowosc": "Warlubie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "20 A",
+    "kod": "86-160",
+    "poczta": "Warlubie\r"
+  }
+]

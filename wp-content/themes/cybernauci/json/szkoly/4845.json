@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13573",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4845",
+    "miejscowosc": "Tuczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pakoska",
+    "numer": "33",
+    "kod": "88-180",
+    "poczta": "Z\u0142otniki Kujawskie\r"
+  },
+  {
+    "id": "13574",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4845",
+    "miejscowosc": "Tuczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pakoska",
+    "numer": "33",
+    "kod": "88-180",
+    "poczta": "Z\u0142otniki Kujawskie\r"
+  }
+]

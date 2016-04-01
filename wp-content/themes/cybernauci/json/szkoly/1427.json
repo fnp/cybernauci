@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4361",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1427",
+    "miejscowosc": "Janowiec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 1 Szko\u0142a Podstawowa im. Bohater\u00f3w 2 Dywizji Piechoty I Armii Wojska Polskiego",
+    "ulica": "Osiedle Szkolne",
+    "numer": "5b",
+    "kod": "24-123",
+    "poczta": "Janowiec\r"
+  },
+  {
+    "id": "4362",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1427",
+    "miejscowosc": "Janowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 Gimnazjum",
+    "ulica": "Osiedle Szkolne",
+    "numer": "5b",
+    "kod": "24-123",
+    "poczta": "Janowiec\r"
+  },
+  {
+    "id": "4363",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1427",
+    "miejscowosc": "Janowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 Technikum",
+    "ulica": "Osiedle Szkolne",
+    "numer": "5b",
+    "kod": "24-123",
+    "poczta": "Janowiec\r"
+  }
+]

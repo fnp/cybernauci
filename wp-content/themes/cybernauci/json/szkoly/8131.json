@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22474",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8131",
+    "miejscowosc": "Czudec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  },
+  {
+    "id": "22473",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8131",
+    "miejscowosc": "Czudec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rzeszowska",
+    "numer": "33a",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  },
+  {
+    "id": "22471",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8131",
+    "miejscowosc": "Czudec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzeszowska",
+    "numer": "33",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  },
+  {
+    "id": "22475",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8131",
+    "miejscowosc": "Czudec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  },
+  {
+    "id": "22476",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8131",
+    "miejscowosc": "Czudec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  }
+]

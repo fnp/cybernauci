@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13418",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4769",
+    "miejscowosc": "Kowalewo Pomorskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "2",
+    "kod": "87-410",
+    "poczta": "Kowalewo Pomorskie\r"
+  },
+  {
+    "id": "13415",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4769",
+    "miejscowosc": "Kowalewo Pomorskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Marii Konopnickiej",
+    "numer": "13",
+    "kod": "87-410",
+    "poczta": "Kowalewo Pomorskie\r"
+  },
+  {
+    "id": "13419",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4769",
+    "miejscowosc": "Kowalewo Pomorskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u015awi\u0119tego Miko\u0142aja",
+    "numer": "6",
+    "kod": "87-410",
+    "poczta": "Kowalewo Pomorskie\r"
+  },
+  {
+    "id": "13420",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4769",
+    "miejscowosc": "Kowalewo Pomorskie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u015awi\u0119tego Miko\u0142aja",
+    "numer": "6",
+    "kod": "87-410",
+    "poczta": "Kowalewo Pomorskie\r"
+  }
+]

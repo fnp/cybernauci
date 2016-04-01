@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10683",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3835",
+    "miejscowosc": "Nowy Dw\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "16-205",
+    "poczta": "Nowy Dw\u00f3r\r"
+  },
+  {
+    "id": "10684",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3835",
+    "miejscowosc": "Nowy Dw\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "16-205",
+    "poczta": "Nowy Dw\u00f3r\r"
+  }
+]

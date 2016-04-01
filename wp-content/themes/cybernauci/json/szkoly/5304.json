@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15032",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Reymonta",
+    "numer": "1",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15033",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Konarskiego",
+    "numer": "4",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15034",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Witosa",
+    "numer": "1",
+    "kod": "52-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15030",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "30",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15031",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Kili\u0144skiego",
+    "numer": "23",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15035",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Witosa",
+    "numer": "1",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  },
+  {
+    "id": "15036",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5304",
+    "miejscowosc": "Chojn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Witosa",
+    "numer": "1",
+    "kod": "59-225",
+    "poczta": "Chojn\u00f3w\r"
+  }
+]

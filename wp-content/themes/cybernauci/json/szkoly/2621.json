@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7088",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mickiewicza",
+    "numer": "9",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7085",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7089",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "14",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7090",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "14",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7086",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7087",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2621",
+    "miejscowosc": "Kalwaria Zebrzydowska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  }
+]

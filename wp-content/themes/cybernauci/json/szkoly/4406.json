@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12522",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4406",
+    "miejscowosc": "Korsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "12",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  },
+  {
+    "id": "12523",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4406",
+    "miejscowosc": "Korsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "12",
+    "kod": "11-430",
+    "poczta": "Korsze\r"
+  }
+]

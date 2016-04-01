@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21417",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7623",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zielonka",
+    "numer": "156",
+    "kod": "36-130",
+    "poczta": "Rani\u017c\u00f3w\r"
+  },
+  {
+    "id": "21419",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7623",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zielonka",
+    "numer": "85",
+    "kod": "36-130",
+    "poczta": "Rani\u017c\u00f3w\r"
+  }
+]

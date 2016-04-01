@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6655",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2419",
+    "miejscowosc": "Piotrkowice Ma\u0142e",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "Piotrkowice Ma\u0142e",
+    "numer": "87D",
+    "kod": "32-104",
+    "poczta": "Koniusza\r"
+  },
+  {
+    "id": "6656",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2419",
+    "miejscowosc": "Piotrkowice Ma\u0142e",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Piotrkowice Ma\u0142e",
+    "numer": "87 D",
+    "kod": "32-104",
+    "poczta": "Piotrkowice Ma\u0142e\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21954",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7899",
+    "miejscowosc": "Or\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "37-716",
+    "poczta": "Or\u0142y\r"
+  },
+  {
+    "id": "21955",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7899",
+    "miejscowosc": "Or\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "37-716",
+    "poczta": "Or\u0142y\r"
+  }
+]

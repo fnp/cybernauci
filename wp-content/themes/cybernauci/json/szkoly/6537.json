@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18514",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6537",
+    "miejscowosc": "Lisiec Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "D\u0142uga",
+    "numer": "1",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18515",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6537",
+    "miejscowosc": "Lisiec Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "1",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  }
+]

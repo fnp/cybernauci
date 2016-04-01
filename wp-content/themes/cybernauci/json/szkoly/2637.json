@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7121",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2637",
+    "miejscowosc": "Rycz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "34-115",
+    "poczta": "Rycz\u00f3w\r"
+  },
+  {
+    "id": "7122",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2637",
+    "miejscowosc": "Rycz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "34-115",
+    "poczta": "Rycz\u00f3w\r"
+  },
+  {
+    "id": "7123",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2637",
+    "miejscowosc": "Rycz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa Punkt Filialny",
+    "ulica": "D\u0142uga",
+    "numer": "35",
+    "kod": "34-115",
+    "poczta": "Rycz\u00f3w\r"
+  }
+]

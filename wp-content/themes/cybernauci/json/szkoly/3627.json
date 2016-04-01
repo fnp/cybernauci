@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10279",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3627",
+    "miejscowosc": "Nowinka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Nowinka",
+    "numer": "14",
+    "kod": "16-304",
+    "poczta": "Nowinka\r"
+  },
+  {
+    "id": "10280",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3627",
+    "miejscowosc": "Nowinka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowinka",
+    "numer": "14",
+    "kod": "16-304",
+    "poczta": "Nowinka\r"
+  },
+  {
+    "id": "10686",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3627",
+    "miejscowosc": "Nowinka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowinka",
+    "numer": "",
+    "kod": "16-124",
+    "poczta": "Sidra\r"
+  }
+]

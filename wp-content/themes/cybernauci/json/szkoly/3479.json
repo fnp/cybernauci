@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9511",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3479",
+    "miejscowosc": "\u0141upawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141upawa",
+    "numer": "22",
+    "kod": "76-242",
+    "poczta": "\u0141upawa\r"
+  },
+  {
+    "id": "9512",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3479",
+    "miejscowosc": "\u0141upawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141upawa",
+    "numer": "22",
+    "kod": "76-242",
+    "poczta": "\u0141upawa\r"
+  }
+]

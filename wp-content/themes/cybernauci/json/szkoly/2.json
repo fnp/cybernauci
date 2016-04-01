@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "2",
+    "miejscowosc": "Skarbimierz-Osiedle",
+    "typ": "podstawowa",
+    "nazwa": "Gminna Szko\u0142a Podstawowa",
+    "ulica": "Akacjowa",
+    "numer": "28",
+    "kod": "49-318",
+    "poczta": "Skarbimierz\r"
+  },
+  {
+    "id": "22",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "2",
+    "miejscowosc": "Skarbimierz-Osiedle",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Akacjowa",
+    "numer": "27",
+    "kod": "49-318",
+    "poczta": "Skarbimierz\r"
+  }
+]

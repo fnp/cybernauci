@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20587",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7306",
+    "miejscowosc": "Ma\u0142omice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Plac Tysi\u0105clecia",
+    "numer": "3",
+    "kod": "67-320",
+    "poczta": "Ma\u0142omice\r"
+  },
+  {
+    "id": "20588",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7306",
+    "miejscowosc": "Ma\u0142omice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Plac Tysi\u0105clecia",
+    "numer": "3",
+    "kod": "67-320",
+    "poczta": "Ma\u0142omice\r"
+  }
+]

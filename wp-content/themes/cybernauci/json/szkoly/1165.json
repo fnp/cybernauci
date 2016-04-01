@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3871",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Przechodnia",
+    "numer": "11",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3873",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marcina St\u0119pnia",
+    "ulica": "Warszawska",
+    "numer": "41",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3872",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Przechodnia",
+    "numer": "11",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3868",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zak\u0142adu Doskonalenia Zawodowego Filia ",
+    "ulica": "Zaszkolna",
+    "numer": "1",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3874",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Warszawska",
+    "numer": "41",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3875",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1165",
+    "miejscowosc": "Kock",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Warszawska",
+    "numer": "41",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  }
+]

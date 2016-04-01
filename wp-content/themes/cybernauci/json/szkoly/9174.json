@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24900",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9174",
+    "miejscowosc": "Kamionna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24901",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9174",
+    "miejscowosc": "Kamionna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  }
+]

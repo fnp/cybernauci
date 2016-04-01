@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24340",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8883",
+    "miejscowosc": "Rzuc\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "33",
+    "kod": "26-422",
+    "poczta": "Borkowice\r"
+  },
+  {
+    "id": "24341",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8883",
+    "miejscowosc": "Rzuc\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "33",
+    "kod": "26-422",
+    "poczta": "Borkowice\r"
+  }
+]

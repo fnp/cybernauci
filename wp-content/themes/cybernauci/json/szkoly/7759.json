@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21692",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7759",
+    "miejscowosc": "D\u0105br\u00f3wki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "D\u0105br\u00f3wki",
+    "numer": "211",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21693",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7759",
+    "miejscowosc": "D\u0105br\u00f3wki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0105br\u00f3wki",
+    "numer": "211",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  }
+]

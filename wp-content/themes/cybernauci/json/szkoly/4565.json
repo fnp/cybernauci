@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12867",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4565",
+    "miejscowosc": "Mi\u0142om\u0142yn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Pas\u0142\u0119cka",
+    "numer": "15",
+    "kod": "14-140",
+    "poczta": "Mi\u0142om\u0142yn\r"
+  },
+  {
+    "id": "12868",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4565",
+    "miejscowosc": "Mi\u0142om\u0142yn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Pas\u0142\u0119cka",
+    "numer": "15",
+    "kod": "14-140",
+    "poczta": "Mi\u0142om\u0142yn\r"
+  }
+]

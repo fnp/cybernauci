@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7189",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2655",
+    "miejscowosc": "Frydrychowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Frydrychowice",
+    "numer": "58b",
+    "kod": "34-108",
+    "poczta": "Frydrychowice\r"
+  },
+  {
+    "id": "7190",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2655",
+    "miejscowosc": "Frydrychowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Frydrychowice",
+    "numer": "58b",
+    "kod": "34-108",
+    "poczta": "Frydrychowice\r"
+  }
+]

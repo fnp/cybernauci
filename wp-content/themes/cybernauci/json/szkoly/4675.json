@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13243",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4675",
+    "miejscowosc": "Bobrowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Bobrowo",
+    "numer": "33",
+    "kod": "87-327",
+    "poczta": "Bobrowo\r"
+  },
+  {
+    "id": "13244",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4675",
+    "miejscowosc": "Bobrowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bobrowo",
+    "numer": "33",
+    "kod": "87-327",
+    "poczta": "Bobrowo\r"
+  }
+]

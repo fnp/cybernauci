@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24135",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8802",
+    "miejscowosc": "Staro\u017areby",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  },
+  {
+    "id": "24136",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8802",
+    "miejscowosc": "Staro\u017areby",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  },
+  {
+    "id": "24133",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8802",
+    "miejscowosc": "Staro\u017areby",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  },
+  {
+    "id": "24137",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8802",
+    "miejscowosc": "Staro\u017areby",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-440",
+    "poczta": "Staro\u017areby\r"
+  }
+]

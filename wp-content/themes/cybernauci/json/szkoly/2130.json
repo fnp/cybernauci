@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6021",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "51",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "7062",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rac\u0142awicka",
+    "numer": "188",
+    "kod": "34-125",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "6028",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "6020",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "17",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "7063",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rac\u0142awicka",
+    "numer": "188",
+    "kod": "34-125",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "6029",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "6030",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "34",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "7064",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Gimnazjum",
+    "ulica": "Centralna",
+    "numer": "2",
+    "kod": "34-120",
+    "poczta": "Andrych\u00f3w\r"
+  },
+  {
+    "id": "7065",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2130",
+    "miejscowosc": "Su\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Szko\u0142a Podstawowa",
+    "ulica": "Centralna",
+    "numer": "2",
+    "kod": "34-120",
+    "poczta": "Andrych\u00f3w\r"
+  }
+]

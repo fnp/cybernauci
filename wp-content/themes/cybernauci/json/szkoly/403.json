@@ -1,0 +1,26 @@
+[
+  {
+    "id": "949",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "403",
+    "miejscowosc": "Mi\u0119dzy\u015bwie\u0107",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Malinowa",
+    "numer": "10",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "950",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "403",
+    "miejscowosc": "Mi\u0119dzy\u015bwie\u0107",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Malinowa",
+    "numer": "10",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  }
+]

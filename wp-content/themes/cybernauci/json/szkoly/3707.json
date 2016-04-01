@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10544",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3707",
+    "miejscowosc": "Rydzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mazurska",
+    "numer": "22",
+    "kod": "18-413",
+    "poczta": "Miastkowo\r"
+  },
+  {
+    "id": "10437",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3707",
+    "miejscowosc": "Rydzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rydzewo",
+    "numer": "6",
+    "kod": "19-206",
+    "poczta": "Rajgr\u00f3d\r"
+  }
+]

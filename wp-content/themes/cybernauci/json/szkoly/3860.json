@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10733",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3860",
+    "miejscowosc": "Raczki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "16-420",
+    "poczta": "Raczki\r"
+  },
+  {
+    "id": "10734",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3860",
+    "miejscowosc": "Raczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Raczki",
+    "numer": "10",
+    "kod": "16-420",
+    "poczta": "Raczki\r"
+  },
+  {
+    "id": "10730",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3860",
+    "miejscowosc": "Raczki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "16-420",
+    "poczta": "Raczki\r"
+  },
+  {
+    "id": "10735",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3860",
+    "miejscowosc": "Raczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Raczki",
+    "numer": "10",
+    "kod": "16-420",
+    "poczta": "Raczki\r"
+  },
+  {
+    "id": "10736",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3860",
+    "miejscowosc": "Raczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Raczki",
+    "numer": "10",
+    "kod": "16-420",
+    "poczta": "Raczki\r"
+  }
+]

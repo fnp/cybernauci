@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3545",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1005",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wojs\u0142awice Kolonia",
+    "numer": "1",
+    "kod": "22-120",
+    "poczta": "Wojs\u0142awice\r"
+  },
+  {
+    "id": "3546",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1005",
+    "miejscowosc": "Wojs\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wojs\u0142awice Kolonia",
+    "numer": "1",
+    "kod": "22-120",
+    "poczta": "Wojs\u0142awice\r"
+  }
+]

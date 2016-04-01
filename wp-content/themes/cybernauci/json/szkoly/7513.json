@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21217",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7513",
+    "miejscowosc": "So\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "So\u015bnica",
+    "numer": "216",
+    "kod": "37-555",
+    "poczta": "So\u015bnica\r"
+  },
+  {
+    "id": "21218",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7513",
+    "miejscowosc": "So\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "So\u015bnica",
+    "numer": "216",
+    "kod": "37-555",
+    "poczta": "So\u015bnica\r"
+  }
+]

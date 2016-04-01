@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15197",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5371",
+    "miejscowosc": "Bukowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wroc\u0142awska",
+    "numer": "43",
+    "kod": "56-321",
+    "poczta": "Bukowice\r"
+  },
+  {
+    "id": "15198",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5371",
+    "miejscowosc": "Bukowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wroc\u0142awska",
+    "numer": "43",
+    "kod": "56-321",
+    "poczta": "Bukowice\r"
+  }
+]

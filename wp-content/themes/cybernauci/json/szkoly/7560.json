@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21323",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7560",
+    "miejscowosc": "Krempna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krempna",
+    "numer": "45",
+    "kod": "38-232",
+    "poczta": "Krempna\r"
+  },
+  {
+    "id": "21324",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7560",
+    "miejscowosc": "Krempna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krempna",
+    "numer": "45",
+    "kod": "38-232",
+    "poczta": "Krempna\r"
+  }
+]

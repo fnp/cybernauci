@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17412",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6173",
+    "miejscowosc": "Pop\u00f3w G\u0142owie\u0144ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Pop\u00f3w G\u0142owie\u0144ski",
+    "numer": "25",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17413",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6173",
+    "miejscowosc": "Pop\u00f3w G\u0142owie\u0144ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Pop\u00f3w G\u0142owie\u0144ski",
+    "numer": "25",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  }
+]

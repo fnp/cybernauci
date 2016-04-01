@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9203",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3344",
+    "miejscowosc": "W\u0105glikowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ko\u015bcierska",
+    "numer": "8",
+    "kod": "83-406",
+    "poczta": "W\u0105glikowice\r"
+  },
+  {
+    "id": "9204",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3344",
+    "miejscowosc": "W\u0105glikowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. NSZZ \"Solidarno\u015b\u0107\" ",
+    "ulica": "Ko\u015bcierska",
+    "numer": "8",
+    "kod": "83-406",
+    "poczta": "W\u0105glikowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21279",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7536",
+    "miejscowosc": "Brzyska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Brzyska",
+    "numer": "348",
+    "kod": "38-212",
+    "poczta": "Brzyska\r"
+  },
+  {
+    "id": "21277",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7536",
+    "miejscowosc": "Brzyska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brzyska",
+    "numer": "348",
+    "kod": "38-212",
+    "poczta": "Brzyska\r"
+  }
+]

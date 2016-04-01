@@ -1,0 +1,38 @@
+[
+  {
+    "id": "455",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "220",
+    "miejscowosc": "Dobrze\u0144 Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Sportowymi",
+    "ulica": "Ko\u015bcielna",
+    "numer": "3",
+    "kod": "46-081",
+    "poczta": "Dobrze\u0144 Wielki\r"
+  },
+  {
+    "id": "463",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "220",
+    "miejscowosc": "Dobrze\u0144 Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Namys\u0142owska",
+    "numer": "94",
+    "kod": "46-081",
+    "poczta": "Dobrze\u0144 Wielki\r"
+  },
+  {
+    "id": "464",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "220",
+    "miejscowosc": "Dobrze\u0144 Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Namys\u0142owska",
+    "numer": "94",
+    "kod": "46-081",
+    "poczta": "Dobrze\u0144 Wielki\r"
+  }
+]

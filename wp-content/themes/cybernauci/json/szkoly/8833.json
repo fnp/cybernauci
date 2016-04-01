@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24206",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8833",
+    "miejscowosc": "Unieck",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Unieck",
+    "numer": "80",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24207",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8833",
+    "miejscowosc": "Unieck",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Unieck",
+    "numer": "80",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  }
+]

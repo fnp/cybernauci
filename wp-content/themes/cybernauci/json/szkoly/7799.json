@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21793",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7799",
+    "miejscowosc": "Wola Mielecka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. J\u00f3zefa Maksymiliana Ossoli\u0144skiego",
+    "ulica": "Wola Mielecka",
+    "numer": "406",
+    "kod": "39-300",
+    "poczta": "Mielec\r"
+  },
+  {
+    "id": "21794",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7799",
+    "miejscowosc": "Wola Mielecka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. J\u00f3zefa Maksymiliana Ossoli\u0144skiego",
+    "ulica": "Wola Mielecka",
+    "numer": "406",
+    "kod": "39-300",
+    "poczta": "Mielec\r"
+  }
+]

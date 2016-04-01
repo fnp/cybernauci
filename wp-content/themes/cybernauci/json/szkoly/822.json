@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1994",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "822",
+    "miejscowosc": "Pewel \u015alemie\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krakowska",
+    "numer": "169",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  },
+  {
+    "id": "1996",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "822",
+    "miejscowosc": "Pewel \u015alemie\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krakowska",
+    "numer": "169",
+    "kod": "34-331",
+    "poczta": "\u015awinna\r"
+  }
+]

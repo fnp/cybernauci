@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22478",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8130",
+    "miejscowosc": "Pstr\u0105gowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Pstr\u0105gowa",
+    "numer": "105",
+    "kod": "38-121",
+    "poczta": "Pstr\u0105gowa\r"
+  },
+  {
+    "id": "22479",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8130",
+    "miejscowosc": "Pstr\u0105gowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 w Zespole Szk\u00f3\u0142",
+    "ulica": "Pstr\u0105gowa",
+    "numer": "105",
+    "kod": "38-121",
+    "poczta": "Pstr\u0105gowa\r"
+  },
+  {
+    "id": "22470",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8130",
+    "miejscowosc": "Pstr\u0105gowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Pstr\u0105gowa",
+    "numer": "406",
+    "kod": "38-121",
+    "poczta": "Pstr\u0105gowa\r"
+  }
+]

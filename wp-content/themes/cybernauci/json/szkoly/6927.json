@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19365",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6927",
+    "miejscowosc": "Zag\u00f3r\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Pyzderska",
+    "numer": "75",
+    "kod": "62-410",
+    "poczta": "Zag\u00f3r\u00f3w\r"
+  },
+  {
+    "id": "19368",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6927",
+    "miejscowosc": "Zag\u00f3r\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pyzderska",
+    "numer": "75",
+    "kod": "62-410",
+    "poczta": "Zag\u00f3r\u00f3w\r"
+  },
+  {
+    "id": "19364",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6927",
+    "miejscowosc": "Zag\u00f3r\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Plac Szkolny",
+    "numer": "1",
+    "kod": "62-410",
+    "poczta": "Zag\u00f3r\u00f3w\r"
+  },
+  {
+    "id": "19369",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6927",
+    "miejscowosc": "Zag\u00f3r\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pyzderska",
+    "numer": "75",
+    "kod": "62-410",
+    "poczta": "Zag\u00f3r\u00f3w\r"
+  },
+  {
+    "id": "19370",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6927",
+    "miejscowosc": "Zag\u00f3r\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pyzderska",
+    "numer": "75",
+    "kod": "62-410",
+    "poczta": "Zag\u00f3r\u00f3w\r"
+  }
+]

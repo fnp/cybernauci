@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23601",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8550",
+    "miejscowosc": "Strzegowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Wyzwolenia",
+    "numer": "13",
+    "kod": "06-445",
+    "poczta": "Strzegowo\r"
+  },
+  {
+    "id": "23602",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8550",
+    "miejscowosc": "Strzegowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wyzwolenia",
+    "numer": "13",
+    "kod": "06-445",
+    "poczta": "Strzegowo\r"
+  },
+  {
+    "id": "23603",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8550",
+    "miejscowosc": "Strzegowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "13",
+    "kod": "06-445",
+    "poczta": "Strzegowo\r"
+  }
+]

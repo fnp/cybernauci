@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12606",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4442",
+    "miejscowosc": "Zyndaki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Zyndaki",
+    "numer": "2",
+    "kod": "11-731",
+    "poczta": "Sorkwity\r"
+  },
+  {
+    "id": "12607",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4442",
+    "miejscowosc": "Zyndaki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zyndaki",
+    "numer": "2",
+    "kod": "11-731",
+    "poczta": "Sorkwity\r"
+  }
+]

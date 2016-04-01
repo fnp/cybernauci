@@ -1,0 +1,38 @@
+[
+  {
+    "id": "12905",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4587",
+    "miejscowosc": "Bia\u0142a Piska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Moniuszki",
+    "numer": "7",
+    "kod": "12-230",
+    "poczta": "Bia\u0142a Piska\r"
+  },
+  {
+    "id": "12903",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4587",
+    "miejscowosc": "Bia\u0142a Piska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. T. Ko\u015bciuszki",
+    "ulica": "Micha\u0142a Kajki",
+    "numer": "1",
+    "kod": "12-230",
+    "poczta": "Bia\u0142a Piska\r"
+  },
+  {
+    "id": "12906",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4587",
+    "miejscowosc": "Bia\u0142a Piska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Nr 1",
+    "ulica": "Sienkiewicza",
+    "numer": "16",
+    "kod": "12-230",
+    "poczta": "Bia\u0142a Piska\r"
+  }
+]

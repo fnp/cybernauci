@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1995",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "823",
+    "miejscowosc": "Trzebinia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Beskidzka",
+    "numer": "158",
+    "kod": "34-300",
+    "poczta": "\u017bywiec\r"
+  },
+  {
+    "id": "1999",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "823",
+    "miejscowosc": "Trzebinia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Beskidzka",
+    "numer": "158",
+    "kod": "34-300",
+    "poczta": "\u017bywiec\r"
+  }
+]

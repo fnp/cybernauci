@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18245",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6384",
+    "miejscowosc": "Wola Droszewska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wola Droszewska",
+    "numer": "45",
+    "kod": "62-872",
+    "poczta": "Godziesze Ma\u0142e\r"
+  },
+  {
+    "id": "18246",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6384",
+    "miejscowosc": "Wola Droszewska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wola Droszewska",
+    "numer": "45",
+    "kod": "62-872",
+    "poczta": "Godziesze Ma\u0142e\r"
+  }
+]

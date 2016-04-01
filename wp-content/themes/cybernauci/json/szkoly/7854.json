@@ -1,0 +1,86 @@
+[
+  {
+    "id": "21892",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "9",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21889",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Ko\u0144czycka",
+    "numer": "3",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21887",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "7",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21888",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Konopnickiej",
+    "numer": "58",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21891",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Orl\u0105t",
+    "ulica": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "7",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21893",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechaniczne, Technikum Przemys\u0142u Drzewnego, Technikum Handlowe 4-letnie Technikum Mechaniczne Technik Pojazd\u00f3w Samochodowych",
+    "ulica": "Marsza\u0142ka Pi\u0142sudskiego",
+    "numer": "28",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  },
+  {
+    "id": "21894",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7854",
+    "miejscowosc": "Rudnik nad Sanem",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Marsza\u0142ka Pi\u0142sudskiego",
+    "numer": "28",
+    "kod": "37-420",
+    "poczta": "Rudnik nad Sanem\r"
+  }
+]

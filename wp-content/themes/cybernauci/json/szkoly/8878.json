@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24830",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8878",
+    "miejscowosc": "Leszno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "13",
+    "kod": "05-084",
+    "poczta": "Leszno\r"
+  },
+  {
+    "id": "24331",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8878",
+    "miejscowosc": "Leszno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Leszno",
+    "numer": "189",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  },
+  {
+    "id": "24332",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8878",
+    "miejscowosc": "Leszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Leszno",
+    "numer": "189",
+    "kod": "06-300",
+    "poczta": "Przasnysz\r"
+  },
+  {
+    "id": "24831",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8878",
+    "miejscowosc": "Leszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "13",
+    "kod": "05-084",
+    "poczta": "Leszno\r"
+  },
+  {
+    "id": "24829",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8878",
+    "miejscowosc": "Leszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sochaczewska",
+    "numer": "4",
+    "kod": "05-084",
+    "poczta": "Leszno\r"
+  }
+]

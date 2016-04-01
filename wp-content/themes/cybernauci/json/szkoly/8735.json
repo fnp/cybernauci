@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23994",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8735",
+    "miejscowosc": "Mrok\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Marii \u015awi\u0105tkiewicz",
+    "numer": "2a",
+    "kod": "05-552",
+    "poczta": "W\u00f3lka Kosowska\r"
+  },
+  {
+    "id": "23995",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8735",
+    "miejscowosc": "Mrok\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Marii \u015awi\u0105tkiewicz",
+    "numer": "2a",
+    "kod": "05-552",
+    "poczta": "W\u00f3lka Kosowska\r"
+  }
+]

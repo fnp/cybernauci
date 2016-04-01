@@ -1,0 +1,26 @@
+[
+  {
+    "id": "147",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "58",
+    "miejscowosc": "Polska Cerekiew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Konarskiego",
+    "numer": "4",
+    "kod": "47-260",
+    "poczta": "Polska Cerekiew\r"
+  },
+  {
+    "id": "148",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "58",
+    "miejscowosc": "Polska Cerekiew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Konarskiego",
+    "numer": "4",
+    "kod": "47-260",
+    "poczta": "Polska Cerekiew\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6260",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2268",
+    "miejscowosc": "Przysietnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Przysietnica",
+    "numer": "152",
+    "kod": "33-342",
+    "poczta": "Barcice\r"
+  },
+  {
+    "id": "6261",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2268",
+    "miejscowosc": "Przysietnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Przysietnica",
+    "numer": "152",
+    "kod": "33-342",
+    "poczta": "Barcice\r"
+  }
+]

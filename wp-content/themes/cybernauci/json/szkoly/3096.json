@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8575",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3096",
+    "miejscowosc": "Rzepin Drugi",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rzepin Drugi",
+    "numer": "154",
+    "kod": "27-225",
+    "poczta": "Paw\u0142\u00f3w\r"
+  },
+  {
+    "id": "8576",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3096",
+    "miejscowosc": "Rzepin Drugi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzepin Drugi",
+    "numer": "154",
+    "kod": "27-225",
+    "poczta": "Paw\u0142\u00f3w\r"
+  }
+]

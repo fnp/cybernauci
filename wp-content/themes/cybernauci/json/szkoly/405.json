@@ -1,0 +1,26 @@
+[
+  {
+    "id": "956",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "405",
+    "miejscowosc": "Pier\u015bciec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zofii Kossak ",
+    "ulica": "Jerzego Tomanka",
+    "numer": "8",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  },
+  {
+    "id": "957",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "405",
+    "miejscowosc": "Pier\u015bciec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Zofii Kossak ",
+    "ulica": "Jerzego Tomanka",
+    "numer": "8",
+    "kod": "43-430",
+    "poczta": "Skocz\u00f3w\r"
+  }
+]

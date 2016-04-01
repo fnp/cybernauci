@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6606",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2393",
+    "miejscowosc": "Bielany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0119cka",
+    "numer": "2",
+    "kod": "32-651",
+    "poczta": "Nowa Wie\u015b\r"
+  },
+  {
+    "id": "6607",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2393",
+    "miejscowosc": "Bielany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u0141\u0119cka",
+    "numer": "2",
+    "kod": "32-651",
+    "poczta": "Nowa Wie\u015b\r"
+  }
+]

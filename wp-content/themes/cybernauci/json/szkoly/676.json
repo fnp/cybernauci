@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1530",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "676",
+    "miejscowosc": "Grzegorzowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Powsta\u0144c\u00f3w \u015alaskich",
+    "numer": "22",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  },
+  {
+    "id": "1531",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "676",
+    "miejscowosc": "Grzegorzowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Powsta\u0144c\u00f3w \u015alaskich",
+    "numer": "22",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  }
+]

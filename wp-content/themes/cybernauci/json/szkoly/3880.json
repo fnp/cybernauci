@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10773",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3880",
+    "miejscowosc": "Czy\u017cew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew\r"
+  },
+  {
+    "id": "10770",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3880",
+    "miejscowosc": "Czy\u017cew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "3",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew\r"
+  },
+  {
+    "id": "10774",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3880",
+    "miejscowosc": "Czy\u017cew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew\r"
+  },
+  {
+    "id": "10771",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3880",
+    "miejscowosc": "Czy\u017cew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "3",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew\r"
+  },
+  {
+    "id": "10772",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3880",
+    "miejscowosc": "Czy\u017cew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "3",
+    "kod": "18-220",
+    "poczta": "Czy\u017cew\r"
+  }
+]

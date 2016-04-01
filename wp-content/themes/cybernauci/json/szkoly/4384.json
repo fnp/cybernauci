@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12469",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4384",
+    "miejscowosc": "Samp\u0142awa",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Samp\u0142awa",
+    "numer": "4",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12470",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4384",
+    "miejscowosc": "Samp\u0142awa",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa ",
+    "ulica": "Samp\u0142awa",
+    "numer": "4",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  }
+]

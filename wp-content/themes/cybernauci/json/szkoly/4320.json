@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12296",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4320",
+    "miejscowosc": "Milejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "82-316",
+    "poczta": "Milejewo\r"
+  },
+  {
+    "id": "12295",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4320",
+    "miejscowosc": "Milejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "82-316",
+    "poczta": "Milejewo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4359",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1426",
+    "miejscowosc": "Baran\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "24-105",
+    "poczta": "Baran\u00f3w\r"
+  },
+  {
+    "id": "4360",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1426",
+    "miejscowosc": "Baran\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "24-105",
+    "poczta": "Baran\u00f3w\r"
+  }
+]

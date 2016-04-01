@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25113",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9252",
+    "miejscowosc": "Leszczyd\u00f3\u0142-Nowiny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "26",
+    "kod": "07-200",
+    "poczta": "Wyszk\u00f3w\r"
+  },
+  {
+    "id": "25114",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9252",
+    "miejscowosc": "Leszczyd\u00f3\u0142-Nowiny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "26",
+    "kod": "07-200",
+    "poczta": "Wyszk\u00f3w\r"
+  }
+]

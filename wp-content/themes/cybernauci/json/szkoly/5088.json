@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14068",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5088",
+    "miejscowosc": "My\u015bliwiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "My\u015bliwiec",
+    "numer": "3",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14069",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5088",
+    "miejscowosc": "My\u015bliwiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "My\u015bliwiec",
+    "numer": "3",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  }
+]

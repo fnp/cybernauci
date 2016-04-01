@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13971",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5034",
+    "miejscowosc": "Gr\u0119bocin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-122",
+    "poczta": "Gr\u0119bocin\r"
+  },
+  {
+    "id": "13972",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5034",
+    "miejscowosc": "Gr\u0119bocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-122",
+    "poczta": "Gr\u0119bocin\r"
+  }
+]

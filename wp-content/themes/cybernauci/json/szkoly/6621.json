@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18685",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6621",
+    "miejscowosc": "D\u0142u\u017cyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142u\u017cyna",
+    "numer": "42",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  },
+  {
+    "id": "18686",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6621",
+    "miejscowosc": "D\u0142u\u017cyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142u\u017cyna",
+    "numer": "42",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  }
+]

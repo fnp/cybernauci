@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19663",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7061",
+    "miejscowosc": "Siedlec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-212",
+    "poczta": "Siedlec\r"
+  },
+  {
+    "id": "19662",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7061",
+    "miejscowosc": "Siedlec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-212",
+    "poczta": "Siedlec\r"
+  }
+]

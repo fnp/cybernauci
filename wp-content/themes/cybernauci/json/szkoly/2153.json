@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6067",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2153",
+    "miejscowosc": "Chomranice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chomranice",
+    "numer": "12",
+    "kod": "33-394",
+    "poczta": "Kl\u0119czany\r"
+  },
+  {
+    "id": "6068",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2153",
+    "miejscowosc": "Chomranice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chomranice",
+    "numer": "12",
+    "kod": "33-394",
+    "poczta": "Kl\u0119czany\r"
+  }
+]

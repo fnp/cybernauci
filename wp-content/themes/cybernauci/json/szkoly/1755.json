@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5273",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1755",
+    "miejscowosc": "Uszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Uszew",
+    "numer": "205",
+    "kod": "32-865",
+    "poczta": "Uszew\r"
+  },
+  {
+    "id": "5276",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1755",
+    "miejscowosc": "Uszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Uszew",
+    "numer": "205",
+    "kod": "32-865",
+    "poczta": "Uszew\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4467",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1483",
+    "miejscowosc": "Ulan-Majorat",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Jana Paw\u0142a II Gimnazjum",
+    "ulica": "Ulan-Majorat",
+    "numer": "53",
+    "kod": "21-307",
+    "poczta": "Ulan-Majorat\r"
+  },
+  {
+    "id": "4468",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1483",
+    "miejscowosc": "Ulan-Majorat",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Jana Paw\u0142a II Szko\u0142a Podstawowa ",
+    "ulica": "Ulan-Majorat",
+    "numer": "53",
+    "kod": "21-307",
+    "poczta": "Ulan-Majorat\r"
+  }
+]

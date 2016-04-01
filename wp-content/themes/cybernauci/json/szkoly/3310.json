@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9124",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3310",
+    "miejscowosc": "Go\u0142ubie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sambora II",
+    "numer": "17",
+    "kod": "83-316",
+    "poczta": "Go\u0142ubie\r"
+  },
+  {
+    "id": "9125",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3310",
+    "miejscowosc": "Go\u0142ubie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sambora II",
+    "numer": "17",
+    "kod": "83-316",
+    "poczta": "Go\u0142ubie\r"
+  }
+]

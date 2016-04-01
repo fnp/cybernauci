@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4136",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1318",
+    "miejscowosc": "Adam\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. SGO \"Polesie\"",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  },
+  {
+    "id": "4141",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1318",
+    "miejscowosc": "Adam\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "Cmentarna",
+    "numer": "6",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  },
+  {
+    "id": "4138",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1318",
+    "miejscowosc": "Adam\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4:00 AM",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  },
+  {
+    "id": "4142",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1318",
+    "miejscowosc": "Adam\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Zespole Szk\u00f3\u0142 im. Gen. F. Kami\u0144skiego",
+    "ulica": "Cmentarna",
+    "numer": "6",
+    "kod": "21-412",
+    "poczta": "Adam\u00f3w\r"
+  }
+]

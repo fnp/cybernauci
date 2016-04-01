@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16966",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5977",
+    "miejscowosc": "Gar\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Gar\u0142\u00f3w",
+    "numer": "12",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  },
+  {
+    "id": "16967",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5977",
+    "miejscowosc": "Gar\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Gar\u0142\u00f3w",
+    "numer": "12",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  }
+]

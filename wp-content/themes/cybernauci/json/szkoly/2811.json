@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7969",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2811",
+    "miejscowosc": "Bodzentyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wolno\u015bci",
+    "numer": "4",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  },
+  {
+    "id": "7971",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2811",
+    "miejscowosc": "Bodzentyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. J. Szermentowskiego",
+    "ulica": "Suchedniowska",
+    "numer": "6",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  },
+  {
+    "id": "7970",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2811",
+    "miejscowosc": "Bodzentyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rynek G\u00f3rny",
+    "numer": "11",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  },
+  {
+    "id": "7972",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2811",
+    "miejscowosc": "Bodzentyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 9",
+    "ulica": "Suchedniowska",
+    "numer": "6",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  },
+  {
+    "id": "7973",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2811",
+    "miejscowosc": "Bodzentyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Suchedniowska",
+    "numer": "6",
+    "kod": "26-010",
+    "poczta": "Bodzentyn\r"
+  }
+]

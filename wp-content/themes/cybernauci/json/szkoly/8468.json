@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23658",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8468",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u00f3rki",
+    "numer": "67",
+    "kod": "05-156",
+    "poczta": "G\u00f3rki\r"
+  },
+  {
+    "id": "23477",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8468",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-311",
+    "poczta": "D\u0119be Wielkie\r"
+  },
+  {
+    "id": "23389",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8468",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u00f3rki",
+    "numer": "4",
+    "kod": "08-210",
+    "poczta": "Plater\u00f3w\r"
+  },
+  {
+    "id": "23390",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8468",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3rki",
+    "numer": "4",
+    "kod": "08-210",
+    "poczta": "Plater\u00f3w\r"
+  },
+  {
+    "id": "23659",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8468",
+    "miejscowosc": "G\u00f3rki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u00f3rki",
+    "numer": "67",
+    "kod": "05-156",
+    "poczta": "G\u00f3rki\r"
+  }
+]

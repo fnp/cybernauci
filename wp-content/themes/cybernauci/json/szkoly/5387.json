@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15246",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5387",
+    "miejscowosc": "Dziadowa K\u0142oda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "5",
+    "kod": "56-504",
+    "poczta": "Dziadowa K\u0142oda\r"
+  },
+  {
+    "id": "15248",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5387",
+    "miejscowosc": "Dziadowa K\u0142oda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "5",
+    "kod": "56-504",
+    "poczta": "Dziadowa K\u0142oda\r"
+  }
+]

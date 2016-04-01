@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23320",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8437",
+    "miejscowosc": "Komornica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nasielska",
+    "numer": "7",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  },
+  {
+    "id": "23321",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8437",
+    "miejscowosc": "Komornica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nasielska",
+    "numer": "7",
+    "kod": "05-140",
+    "poczta": "Serock\r"
+  }
+]

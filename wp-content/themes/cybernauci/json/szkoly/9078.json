@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24691",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9078",
+    "miejscowosc": "Za\u0142usk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Za\u0142usk\u00f3w",
+    "numer": "88",
+    "kod": "96-521",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "24692",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9078",
+    "miejscowosc": "Za\u0142usk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Za\u0142usk\u00f3w",
+    "numer": "88",
+    "kod": "96-521",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

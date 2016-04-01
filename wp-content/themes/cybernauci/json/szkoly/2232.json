@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6196",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2232",
+    "miejscowosc": "\u0141ososina Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Podstawowo-Gimnazjalnych im. Jana Paw\u0142a II Gimnazjum",
+    "ulica": "\u0141ososina Dolna",
+    "numer": "---",
+    "kod": "33-314",
+    "poczta": "\u0141ososina Dolna\r"
+  },
+  {
+    "id": "6197",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2232",
+    "miejscowosc": "\u0141ososina Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Podstawowo-Gimnazjalnych im. Jana Paw\u0142a II Szko\u0142a Podstawowa",
+    "ulica": "\u0141ososina Dolna",
+    "numer": "---",
+    "kod": "33-314",
+    "poczta": "\u0141ososina Dolna\r"
+  }
+]

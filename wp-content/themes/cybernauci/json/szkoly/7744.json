@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21652",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7744",
+    "miejscowosc": "Oleszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zielona",
+    "numer": "1",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  },
+  {
+    "id": "21651",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7744",
+    "miejscowosc": "Oleszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  },
+  {
+    "id": "21648",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7744",
+    "miejscowosc": "Oleszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  },
+  {
+    "id": "21653",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7744",
+    "miejscowosc": "Oleszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zielona",
+    "numer": "1",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  },
+  {
+    "id": "21654",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7744",
+    "miejscowosc": "Oleszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zielona",
+    "numer": "1",
+    "kod": "37-630",
+    "poczta": "Oleszyce\r"
+  }
+]

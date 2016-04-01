@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3669",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1070",
+    "miejscowosc": "Wierzchowiska Drugie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Kochanowskiego ",
+    "ulica": "Wierzchowiska Drugie",
+    "numer": "165",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  },
+  {
+    "id": "3670",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1070",
+    "miejscowosc": "Wierzchowiska Drugie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wierzchowiska Drugie",
+    "numer": "165",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  }
+]

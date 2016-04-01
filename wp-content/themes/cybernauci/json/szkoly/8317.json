@@ -1,0 +1,74 @@
+[
+  {
+    "id": "23048",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "3",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23042",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23043",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Powiatowe",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23049",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "3",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23044",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w ZSP",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "45",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  },
+  {
+    "id": "23045",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8317",
+    "miejscowosc": "\u017belech\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w ZSP",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "45",
+    "kod": "08-430",
+    "poczta": "\u017belech\u00f3w\r"
+  }
+]

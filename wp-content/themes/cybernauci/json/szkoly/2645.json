@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7140",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2645",
+    "miejscowosc": "Ponikiew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa SPSK",
+    "ulica": "Ponikiew",
+    "numer": "116",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  },
+  {
+    "id": "7149",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2645",
+    "miejscowosc": "Ponikiew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Wadowice",
+    "numer": "116",
+    "kod": "34-100",
+    "poczta": "Wadowice\r"
+  }
+]

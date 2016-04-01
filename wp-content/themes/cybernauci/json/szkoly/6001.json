@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17033",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6001",
+    "miejscowosc": "Burzenin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "98-260",
+    "poczta": "Burzenin\r"
+  },
+  {
+    "id": "17034",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6001",
+    "miejscowosc": "Burzenin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sieradzka",
+    "numer": "11",
+    "kod": "98-260",
+    "poczta": "Burzenin\r"
+  }
+]

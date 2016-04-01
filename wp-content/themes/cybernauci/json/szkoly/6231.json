@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17911",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6231",
+    "miejscowosc": "Drawsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ziemi Nadnoteckiej",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "83\/85",
+    "kod": "64-733",
+    "poczta": "Drawsko\r"
+  },
+  {
+    "id": "17908",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6231",
+    "miejscowosc": "Drawsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nadnotecka",
+    "numer": "22 B",
+    "kod": "64-733",
+    "poczta": "Drawsko\r"
+  }
+]

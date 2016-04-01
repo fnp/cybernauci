@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13733",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4920",
+    "miejscowosc": "Kowalewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "89-200",
+    "poczta": "Szubin\r"
+  },
+  {
+    "id": "13734",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4920",
+    "miejscowosc": "Kowalewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "89-200",
+    "poczta": "Szubin\r"
+  }
+]

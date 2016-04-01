@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22004",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7923",
+    "miejscowosc": "D\u0119b\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0119b\u00f3w",
+    "numer": "47",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22005",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7923",
+    "miejscowosc": "D\u0119b\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0119b\u00f3w",
+    "numer": "47",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

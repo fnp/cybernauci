@@ -1,0 +1,38 @@
+[
+  {
+    "id": "743",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "326",
+    "miejscowosc": "Mierz\u0119cice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Mi\u0142osza",
+    "ulica": "Wolno\u015bci",
+    "numer": "68",
+    "kod": "42-460",
+    "poczta": "Mierz\u0119cice\r"
+  },
+  {
+    "id": "739",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "326",
+    "miejscowosc": "Mierz\u0119cice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wolno\u015bci",
+    "numer": "68",
+    "kod": "42-460",
+    "poczta": "Mierz\u0119cice\r"
+  },
+  {
+    "id": "740",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "326",
+    "miejscowosc": "Mierz\u0119cice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Lotnik\u00f3w Polskich",
+    "ulica": "Kolejowa",
+    "numer": "122",
+    "kod": "42-460",
+    "poczta": "Mierz\u0119cice\r"
+  }
+]

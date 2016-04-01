@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6342",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2291",
+    "miejscowosc": "Zubrzyca G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Zubrzyca G\u00f3rna",
+    "numer": "482",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  },
+  {
+    "id": "6325",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2291",
+    "miejscowosc": "Zubrzyca G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Zubrzyca G\u00f3rna",
+    "numer": "43",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  },
+  {
+    "id": "6343",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2291",
+    "miejscowosc": "Zubrzyca G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Zubrzyca G\u00f3rna",
+    "numer": "482",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  },
+  {
+    "id": "6326",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2291",
+    "miejscowosc": "Zubrzyca G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Kazimierza Wielkiego",
+    "ulica": "Zubrzyca G\u00f3rna",
+    "numer": "270",
+    "kod": "34-484",
+    "poczta": "Zubrzyca G\u00f3rna\r"
+  }
+]

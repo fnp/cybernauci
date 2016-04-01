@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12444",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4368",
+    "miejscowosc": "Z\u0105browo",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "Z\u0105browo",
+    "numer": "43",
+    "kod": "14-241",
+    "poczta": "Z\u0105browo\r"
+  },
+  {
+    "id": "12449",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4368",
+    "miejscowosc": "Z\u0105browo",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum",
+    "ulica": "Z\u0105browo",
+    "numer": "43",
+    "kod": "14-241",
+    "poczta": "Z\u0105browo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16533",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5763",
+    "miejscowosc": "Wi\u015bniowa G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Karskiego",
+    "ulica": "Tuszy\u0144ska",
+    "numer": "32",
+    "kod": "95-020",
+    "poczta": "Andrespol\r"
+  },
+  {
+    "id": "16530",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5763",
+    "miejscowosc": "Wi\u015bniowa G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza ",
+    "ulica": "Tuszy\u0144ska",
+    "numer": "32",
+    "kod": "95-020",
+    "poczta": "Andrespol\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23836",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8670",
+    "miejscowosc": "Nur",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Papie\u017ca Jana Paw\u0142a II",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "14",
+    "kod": "07-322",
+    "poczta": "Nur\r"
+  },
+  {
+    "id": "23837",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8670",
+    "miejscowosc": "Nur",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "14",
+    "kod": "07-322",
+    "poczta": "Nur\r"
+  }
+]

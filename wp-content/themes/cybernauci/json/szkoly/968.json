@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3484",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "968",
+    "miejscowosc": "Turobin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum. Jana Paw\u0142a II",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "23-465",
+    "poczta": "Turobin\r"
+  },
+  {
+    "id": "3485",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "968",
+    "miejscowosc": "Turobin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "23-465",
+    "poczta": "Turobin\r"
+  },
+  {
+    "id": "3482",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "968",
+    "miejscowosc": "Turobin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Rzemie\u015blnicza Szko\u0142a Zawodowa",
+    "ulica": "J\u00f3zefa Pi\u0142sudskiego",
+    "numer": "31",
+    "kod": "23-465",
+    "poczta": "Turobin\r"
+  },
+  {
+    "id": "3483",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "968",
+    "miejscowosc": "Turobin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "23-465",
+    "poczta": "Turobin\r"
+  },
+  {
+    "id": "3486",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "968",
+    "miejscowosc": "Turobin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "23-465",
+    "poczta": "Turobin\r"
+  }
+]

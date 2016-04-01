@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6906",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2550",
+    "miejscowosc": "Burzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Burzyn",
+    "numer": "1",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  },
+  {
+    "id": "6907",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2550",
+    "miejscowosc": "Burzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Burzyn",
+    "numer": "1",
+    "kod": "33-170",
+    "poczta": "Tuch\u00f3w\r"
+  }
+]

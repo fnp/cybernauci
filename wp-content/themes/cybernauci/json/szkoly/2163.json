@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6086",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2163",
+    "miejscowosc": "Przydonica",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 4 ",
+    "ulica": "Przydonica",
+    "numer": "24",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  },
+  {
+    "id": "6087",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2163",
+    "miejscowosc": "Przydonica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Przydonica",
+    "numer": "24",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  }
+]

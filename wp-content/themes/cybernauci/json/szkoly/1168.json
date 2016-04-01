@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4511",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1168",
+    "miejscowosc": "Nowodw\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Nowodw\u00f3r",
+    "numer": "73",
+    "kod": "08-503",
+    "poczta": "Nowodw\u00f3r\r"
+  },
+  {
+    "id": "4512",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1168",
+    "miejscowosc": "Nowodw\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Nowodw\u00f3r",
+    "numer": "73",
+    "kod": "08-503",
+    "poczta": "Nowodw\u00f3r\r"
+  },
+  {
+    "id": "3877",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1168",
+    "miejscowosc": "Nowodw\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kard. Stefana Wyszy\u0144skiego",
+    "ulica": "Nowodw\u00f3r",
+    "numer": "60",
+    "kod": "21-100",
+    "poczta": "Lubart\u00f3w\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21603",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7720",
+    "miejscowosc": "\u0141\u0119townia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ks. Jerzego Popie\u0142uszki",
+    "ulica": "\u0141\u0119townia",
+    "numer": "118",
+    "kod": "37-312",
+    "poczta": "\u0141\u0119townia\r"
+  },
+  {
+    "id": "21597",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7720",
+    "miejscowosc": "\u0141\u0119townia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119townia",
+    "numer": "286",
+    "kod": "37-312",
+    "poczta": "\u0141\u0119townia\r"
+  },
+  {
+    "id": "21959",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7720",
+    "miejscowosc": "\u0141\u0119townia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0119townia",
+    "numer": "54",
+    "kod": "37-700",
+    "poczta": "Przemy\u015bl\r"
+  }
+]

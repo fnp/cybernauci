@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11464",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4081",
+    "miejscowosc": "Mielno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lechit\u00f3w",
+    "numer": "19",
+    "kod": "76-032",
+    "poczta": "Mielno\r"
+  },
+  {
+    "id": "11465",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4081",
+    "miejscowosc": "Mielno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lechit\u00f3w",
+    "numer": "19",
+    "kod": "76-032",
+    "poczta": "Mielno\r"
+  }
+]

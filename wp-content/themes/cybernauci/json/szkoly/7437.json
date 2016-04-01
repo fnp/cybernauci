@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21037",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7437",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "39-207",
+    "poczta": "Brze\u017anica\r"
+  },
+  {
+    "id": "21038",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7437",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "39-207",
+    "poczta": "Brze\u017anica\r"
+  }
+]

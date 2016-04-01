@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3633",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1056",
+    "miejscowosc": "Dzwola",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dzwola",
+    "numer": "121b",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  },
+  {
+    "id": "3634",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1056",
+    "miejscowosc": "Dzwola",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Dzwola",
+    "numer": "121b",
+    "kod": "23-304",
+    "poczta": "Dzwola\r"
+  }
+]

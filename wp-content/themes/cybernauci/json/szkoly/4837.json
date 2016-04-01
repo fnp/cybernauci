@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13561",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4837",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bcielec",
+    "numer": "125",
+    "kod": "88-170",
+    "poczta": "Pako\u015b\u0107\r"
+  },
+  {
+    "id": "13560",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4837",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Armii Krajowej",
+    "ulica": "Ko\u015bcielec",
+    "numer": "14",
+    "kod": "88-170",
+    "poczta": "Pako\u015b\u0107\r"
+  },
+  {
+    "id": "13562",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4837",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bcielec",
+    "numer": "125",
+    "kod": "88-170",
+    "poczta": "Pako\u015b\u0107\r"
+  }
+]

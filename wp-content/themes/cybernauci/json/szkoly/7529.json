@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21239",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7529",
+    "miejscowosc": "Piwoda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piwoda",
+    "numer": "83",
+    "kod": "37-522",
+    "poczta": "Wi\u0105zownica\r"
+  },
+  {
+    "id": "21240",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7529",
+    "miejscowosc": "Piwoda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piwoda",
+    "numer": "83",
+    "kod": "37-522",
+    "poczta": "Wi\u0105zownica\r"
+  }
+]

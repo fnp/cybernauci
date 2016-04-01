@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6850",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2516",
+    "miejscowosc": "Ryglice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tarnowska",
+    "numer": "23",
+    "kod": "33-160",
+    "poczta": "Ryglice\r"
+  },
+  {
+    "id": "6847",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2516",
+    "miejscowosc": "Ryglice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 ",
+    "ulica": "Tarnowska",
+    "numer": "25",
+    "kod": "33-160",
+    "poczta": "Ryglice\r"
+  },
+  {
+    "id": "6845",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2516",
+    "miejscowosc": "Ryglice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tarnowska",
+    "numer": "29",
+    "kod": "33-160",
+    "poczta": "Ryglice\r"
+  },
+  {
+    "id": "6851",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2516",
+    "miejscowosc": "Ryglice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Tarnowska",
+    "numer": "23",
+    "kod": "33-160",
+    "poczta": "Ryglice\r"
+  },
+  {
+    "id": "6852",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2516",
+    "miejscowosc": "Ryglice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Wielozawodowa",
+    "ulica": "Tarnowska",
+    "numer": "23",
+    "kod": "33-160",
+    "poczta": "Ryglice\r"
+  }
+]

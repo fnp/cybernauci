@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17162",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6064",
+    "miejscowosc": "Budziszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-212",
+    "poczta": "Budziszewice\r"
+  },
+  {
+    "id": "17163",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6064",
+    "miejscowosc": "Budziszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "97-212",
+    "poczta": "Budziszewice\r"
+  }
+]

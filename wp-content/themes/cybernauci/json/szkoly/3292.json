@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9087",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3292",
+    "miejscowosc": "Czeczewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gda\u0144ska",
+    "numer": "8",
+    "kod": "84-208",
+    "poczta": "Kielno\r"
+  },
+  {
+    "id": "9088",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3292",
+    "miejscowosc": "Czeczewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gda\u0144ska",
+    "numer": "8",
+    "kod": "84-208",
+    "poczta": "Kielno\r"
+  }
+]

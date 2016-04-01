@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5748",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2007",
+    "miejscowosc": "Korzkiew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jerzego Kukuczki ",
+    "ulica": "Korzkiew",
+    "numer": "18",
+    "kod": "32-088",
+    "poczta": "Przybys\u0142awice\r"
+  },
+  {
+    "id": "5749",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2007",
+    "miejscowosc": "Korzkiew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jerzego Kukuczki",
+    "ulica": "Korzkiew",
+    "numer": "18",
+    "kod": "32-088",
+    "poczta": "Przybys\u0142awice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19703",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7084",
+    "miejscowosc": "Zasutowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kwiatowa",
+    "numer": "5",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  },
+  {
+    "id": "19704",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7084",
+    "miejscowosc": "Zasutowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kwiatowa",
+    "numer": "5",
+    "kod": "62-330",
+    "poczta": "Nekla\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18276",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6402",
+    "miejscowosc": "Zbiersk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zbiersk Cukrownia",
+    "numer": "144",
+    "kod": "62-830",
+    "poczta": "Zbiersk\r"
+  },
+  {
+    "id": "18277",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6402",
+    "miejscowosc": "Zbiersk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana III Sobieskiego",
+    "ulica": "Zbiersk Cukrownia",
+    "numer": "144",
+    "kod": "62-830",
+    "poczta": "Zbiersk\r"
+  }
+]

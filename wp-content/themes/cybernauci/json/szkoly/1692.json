@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5156",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1692",
+    "miejscowosc": "\u0141apan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u0141apan\u00f3w",
+    "numer": "195",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  },
+  {
+    "id": "5163",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1692",
+    "miejscowosc": "\u0141apan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141apan\u00f3w",
+    "numer": "32",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  },
+  {
+    "id": "5160",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1692",
+    "miejscowosc": "\u0141apan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141apan\u00f3w",
+    "numer": "196",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  },
+  {
+    "id": "5164",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1692",
+    "miejscowosc": "\u0141apan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141apan\u00f3w",
+    "numer": "32",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  },
+  {
+    "id": "5165",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1692",
+    "miejscowosc": "\u0141apan\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum",
+    "ulica": "\u0141apan\u00f3w",
+    "numer": "32",
+    "kod": "32-740",
+    "poczta": "\u0141apan\u00f3w\r"
+  }
+]

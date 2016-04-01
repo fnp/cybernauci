@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14810",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14801",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14802",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Miko\u0142aja Kopernika",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2a",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14811",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14799",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. B. Prusa",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14800",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14808",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Armii Polskiej",
+    "numer": "15a",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  },
+  {
+    "id": "14809",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5211",
+    "miejscowosc": "G\u00f3ra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a ponadgimnazjalna",
+    "ulica": "Armii Polskiej",
+    "numer": "15a",
+    "kod": "56-200",
+    "poczta": "G\u00f3ra\r"
+  }
+]

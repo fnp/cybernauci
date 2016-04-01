@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17214",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6099",
+    "miejscowosc": "Mokrsko",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Gimnazjum",
+    "ulica": "Mokrsko",
+    "numer": "254",
+    "kod": "98-345",
+    "poczta": "Mokrsko\r"
+  },
+  {
+    "id": "17215",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6099",
+    "miejscowosc": "Mokrsko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mokrsko",
+    "numer": "254",
+    "kod": "98-345",
+    "poczta": "Mokrsko\r"
+  }
+]

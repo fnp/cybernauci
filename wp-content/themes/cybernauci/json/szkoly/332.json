@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1272",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "332",
+    "miejscowosc": "Psary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "89",
+    "kod": "42-287",
+    "poczta": "Lubsza\r"
+  },
+  {
+    "id": "747",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "332",
+    "miejscowosc": "Psary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "32",
+    "kod": "42-512",
+    "poczta": "Psary\r"
+  },
+  {
+    "id": "1275",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "332",
+    "miejscowosc": "Psary",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "91",
+    "kod": "42-287",
+    "poczta": "Lubsza\r"
+  },
+  {
+    "id": "1267",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "332",
+    "miejscowosc": "Psary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "91",
+    "kod": "42-287",
+    "poczta": "Lubsza\r"
+  }
+]

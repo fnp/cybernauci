@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16413",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5707",
+    "miejscowosc": "Widawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Wielu\u0144ska",
+    "numer": "17",
+    "kod": "98-170",
+    "poczta": "Widawa\r"
+  },
+  {
+    "id": "16414",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5707",
+    "miejscowosc": "Widawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Walentego Widawczyka",
+    "ulica": "Wielu\u0144ska",
+    "numer": "17",
+    "kod": "98-170",
+    "poczta": "Widawa\r"
+  },
+  {
+    "id": "16415",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5707",
+    "miejscowosc": "Widawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wielu\u0144ska",
+    "numer": "17",
+    "kod": "98-170",
+    "poczta": "Widawa\r"
+  }
+]

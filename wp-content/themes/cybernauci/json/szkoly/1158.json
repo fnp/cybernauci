@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3856",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1158",
+    "miejscowosc": "Wola Skromowska",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Wola Skromowska",
+    "numer": "55",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  },
+  {
+    "id": "3857",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1158",
+    "miejscowosc": "Wola Skromowska",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Wola Skromowska",
+    "numer": "55",
+    "kod": "21-150",
+    "poczta": "Kock\r"
+  }
+]

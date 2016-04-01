@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4748",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1619",
+    "miejscowosc": "\u0141abu\u0144ki Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u0141abu\u0144ki Pierwsze",
+    "numer": "178",
+    "kod": "22-437",
+    "poczta": "\u0141abunie\r"
+  },
+  {
+    "id": "4746",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1619",
+    "miejscowosc": "\u0141abu\u0144ki Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141abu\u0144ki Pierwsze",
+    "numer": "178",
+    "kod": "22-437",
+    "poczta": "\u0141abunie\r"
+  }
+]

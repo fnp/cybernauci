@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18564",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6563",
+    "miejscowosc": "Lubi\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "23",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  },
+  {
+    "id": "18565",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6563",
+    "miejscowosc": "Lubi\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "23",
+    "kod": "64-010",
+    "poczta": "Krzywi\u0144\r"
+  }
+]

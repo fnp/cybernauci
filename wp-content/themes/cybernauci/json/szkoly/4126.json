@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11573",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4126",
+    "miejscowosc": "Kozielice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kozielice",
+    "numer": "73",
+    "kod": "74-204",
+    "poczta": "Kozielice\r"
+  },
+  {
+    "id": "11574",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4126",
+    "miejscowosc": "Kozielice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kozielice",
+    "numer": "73",
+    "kod": "74-204",
+    "poczta": "Kozielice\r"
+  }
+]

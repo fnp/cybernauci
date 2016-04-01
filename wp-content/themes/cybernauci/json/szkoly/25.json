@@ -1,0 +1,26 @@
+[
+  {
+    "id": "53",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "25",
+    "miejscowosc": "Babor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Wiejska",
+    "numer": "5A",
+    "kod": "48-120",
+    "poczta": "Babor\u00f3w\r"
+  },
+  {
+    "id": "54",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "25",
+    "miejscowosc": "Babor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Wiejska",
+    "numer": "5A",
+    "kod": "48-120",
+    "poczta": "Babor\u00f3w\r"
+  }
+]

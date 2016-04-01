@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1664",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "720",
+    "miejscowosc": "Zbros\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Wolno\u015bci",
+    "numer": "67",
+    "kod": "42-674",
+    "poczta": "Zbros\u0142awice\r"
+  },
+  {
+    "id": "1665",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "720",
+    "miejscowosc": "Zbros\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Wolno\u015bci",
+    "numer": "67",
+    "kod": "42-674",
+    "poczta": "Zbros\u0142awice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21552",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7695",
+    "miejscowosc": "Odrzyko\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ks. E. \u015awi\u0105tka",
+    "numer": "4",
+    "kod": "38-406",
+    "poczta": "Odrzyko\u0144\r"
+  },
+  {
+    "id": "21553",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7695",
+    "miejscowosc": "Odrzyko\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ks. E. \u015awi\u0105tka",
+    "numer": "4",
+    "kod": "38-406",
+    "poczta": "Odrzyko\u0144\r"
+  }
+]

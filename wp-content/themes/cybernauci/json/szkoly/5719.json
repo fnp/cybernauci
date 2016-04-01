@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16447",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5719",
+    "miejscowosc": "Topola Kr\u00f3lewska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Mi\u0142osza",
+    "ulica": "Topola Kr\u00f3lewska",
+    "numer": "66",
+    "kod": "99-100",
+    "poczta": "\u0141\u0119czyca\r"
+  },
+  {
+    "id": "16442",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5719",
+    "miejscowosc": "Topola Kr\u00f3lewska",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa im. W\u0142. \u0141okietka",
+    "ulica": "Topola Kr\u00f3lewska",
+    "numer": "67",
+    "kod": "99-100",
+    "poczta": "\u0141\u0119czyca\r"
+  }
+]

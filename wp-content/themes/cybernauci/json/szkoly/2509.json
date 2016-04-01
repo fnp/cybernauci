@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6837",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2509",
+    "miejscowosc": "Zabawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zabawa",
+    "numer": "6",
+    "kod": "33-133",
+    "poczta": "Wa\u0142-Ruda\r"
+  },
+  {
+    "id": "6838",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2509",
+    "miejscowosc": "Zabawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zabawa",
+    "numer": "6",
+    "kod": "33-133",
+    "poczta": "Wa\u0142-Ruda\r"
+  }
+]

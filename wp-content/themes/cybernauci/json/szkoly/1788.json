@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5416",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1788",
+    "miejscowosc": "Luszowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Tarnowska",
+    "numer": "31",
+    "kod": "33-206",
+    "poczta": "Luszowice\r"
+  },
+  {
+    "id": "5417",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1788",
+    "miejscowosc": "Luszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Tarnowska",
+    "numer": "31",
+    "kod": "33-206",
+    "poczta": "Luszowice\r"
+  },
+  {
+    "id": "5326",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1788",
+    "miejscowosc": "Luszowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stanis\u0142awa Przybyszewskiego",
+    "numer": "6",
+    "kod": "32-500",
+    "poczta": "Chrzan\u00f3w\r"
+  }
+]

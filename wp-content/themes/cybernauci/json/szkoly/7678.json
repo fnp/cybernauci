@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21518",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7678",
+    "miejscowosc": "Rogi",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  },
+  {
+    "id": "21514",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7678",
+    "miejscowosc": "Rogi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "38-430",
+    "poczta": "Miejsce Piastowe\r"
+  }
+]

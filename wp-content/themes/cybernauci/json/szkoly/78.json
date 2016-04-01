@@ -1,0 +1,26 @@
+[
+  {
+    "id": "189",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "78",
+    "miejscowosc": "Chocianowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jadwigi \u015al\u0105skiej",
+    "ulica": "Chocianowice",
+    "numer": "78",
+    "kod": "46-280",
+    "poczta": "Lasowice Ma\u0142e\r"
+  },
+  {
+    "id": "190",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "78",
+    "miejscowosc": "Chocianowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chocianowice",
+    "numer": "78",
+    "kod": "46-280",
+    "poczta": "Lasowice Ma\u0142e\r"
+  }
+]

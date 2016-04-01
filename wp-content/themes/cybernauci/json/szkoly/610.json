@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1373",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "610",
+    "miejscowosc": "Poraj",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "G\u00f3rnicza",
+    "numer": "18",
+    "kod": "42-360",
+    "poczta": "Poraj\r"
+  },
+  {
+    "id": "1369",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "610",
+    "miejscowosc": "Poraj",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. Leonida Teligi",
+    "ulica": "G\u00f3rnicza",
+    "numer": "18",
+    "kod": "42-360",
+    "poczta": "Poraj\r"
+  }
+]

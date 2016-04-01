@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9583",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3504",
+    "miejscowosc": "Skarszewy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "3",
+    "kod": "83-250",
+    "poczta": "Skarszewy\r"
+  },
+  {
+    "id": "9576",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3504",
+    "miejscowosc": "Skarszewy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "27",
+    "kod": "83-250",
+    "poczta": "Skarszewy\r"
+  },
+  {
+    "id": "9580",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3504",
+    "miejscowosc": "Skarszewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Ponadgimnazjalne",
+    "ulica": "Kopernika",
+    "numer": "3",
+    "kod": "83-250",
+    "poczta": "Skarszewy\r"
+  },
+  {
+    "id": "9584",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3504",
+    "miejscowosc": "Skarszewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kopernika",
+    "numer": "3",
+    "kod": "83-250",
+    "poczta": "Skarszewy\r"
+  }
+]

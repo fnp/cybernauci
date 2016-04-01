@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5574",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1899",
+    "miejscowosc": "Narama",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Narama",
+    "numer": "7",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  },
+  {
+    "id": "5582",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1899",
+    "miejscowosc": "Narama",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Narama",
+    "numer": "7",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  }
+]

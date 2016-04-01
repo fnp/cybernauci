@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17264",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6122",
+    "miejscowosc": "Mierzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Kochanowskiego",
+    "ulica": "Mierzyce",
+    "numer": "",
+    "kod": "98-324",
+    "poczta": "Wierzchlas\r"
+  },
+  {
+    "id": "17261",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6122",
+    "miejscowosc": "Mierzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mierzyce",
+    "numer": "149",
+    "kod": "98-324",
+    "poczta": "Wierzchlas\r"
+  }
+]

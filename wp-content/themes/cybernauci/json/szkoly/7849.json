@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21868",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7849",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ulanowska",
+    "numer": "7",
+    "kod": "37-418",
+    "poczta": "Krzesz\u00f3w\r"
+  },
+  {
+    "id": "21869",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7849",
+    "miejscowosc": "Krzesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ulanowska",
+    "numer": "7",
+    "kod": "37-418",
+    "poczta": "Krzesz\u00f3w\r"
+  }
+]

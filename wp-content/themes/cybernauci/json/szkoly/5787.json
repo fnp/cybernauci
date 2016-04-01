@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16583",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5787",
+    "miejscowosc": "Drzewica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "26-340",
+    "poczta": "Drzewica\r"
+  },
+  {
+    "id": "16584",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5787",
+    "miejscowosc": "Drzewica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "26-340",
+    "poczta": "Drzewica\r"
+  },
+  {
+    "id": "16576",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5787",
+    "miejscowosc": "Drzewica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "Staszica",
+    "numer": "7",
+    "kod": "26-340",
+    "poczta": "Drzewica\r"
+  },
+  {
+    "id": "16585",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5787",
+    "miejscowosc": "Drzewica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "26-340",
+    "poczta": "Drzewica\r"
+  },
+  {
+    "id": "16586",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5787",
+    "miejscowosc": "Drzewica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Staszica",
+    "numer": "5",
+    "kod": "26-340",
+    "poczta": "Drzewica\r"
+  }
+]

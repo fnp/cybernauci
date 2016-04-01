@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25232",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9302",
+    "miejscowosc": "Osuch\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ksi\u0119dza Kanonika Mariana Lipskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "96-323",
+    "poczta": "Osuch\u00f3w\r"
+  },
+  {
+    "id": "25233",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9302",
+    "miejscowosc": "Osuch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ksi\u0119dza Kanonika Mariana Lipskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "96-323",
+    "poczta": "Osuch\u00f3w\r"
+  }
+]

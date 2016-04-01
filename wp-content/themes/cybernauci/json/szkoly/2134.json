@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6026",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2134",
+    "miejscowosc": "Rudnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr\u00f3la Kazimierza III Wielkiego",
+    "ulica": "Szkolna",
+    "numer": "55",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "6027",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2134",
+    "miejscowosc": "Rudnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la Kazimierza III Wielkiego",
+    "ulica": "Szkolna",
+    "numer": "55",
+    "kod": "32-440",
+    "poczta": "Su\u0142kowice\r"
+  }
+]

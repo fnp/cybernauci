@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17946",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6248",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "64-980",
+    "poczta": "Trzcianka\r"
+  },
+  {
+    "id": "17939",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6248",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Radoli\u0144ska",
+    "numer": "9",
+    "kod": "64-980",
+    "poczta": "Trzcianka\r"
+  }
+]

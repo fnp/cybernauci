@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4368",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "gimnazjum",
+    "nazwa": "Gminny Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4369",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Gminny Zesp\u00f3\u0142 Szk\u00f3\u0142 Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4370",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Gminny Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa Nr 1 im. Kazimierza Wielkiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4371",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nadwi\u015bla\u0144ska",
+    "numer": "9",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4364",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kazimierz Dolny",
+    "numer": "23",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4372",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nadwi\u015bla\u0144ska",
+    "numer": "9",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  },
+  {
+    "id": "4373",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1428",
+    "miejscowosc": "Kazimierz Dolny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nadwi\u015bla\u0144ska",
+    "numer": "9",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  }
+]

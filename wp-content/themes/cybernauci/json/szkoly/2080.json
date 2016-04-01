@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5906",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2080",
+    "miejscowosc": "Go\u0142cza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Jana Paw\u0142a II ",
+    "ulica": "Go\u0142cza",
+    "numer": "107",
+    "kod": "32-075",
+    "poczta": "Go\u0142cza\r"
+  },
+  {
+    "id": "5904",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2080",
+    "miejscowosc": "Go\u0142cza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Go\u0142cza",
+    "numer": "107",
+    "kod": "32-075",
+    "poczta": "Go\u0142cza\r"
+  }
+]

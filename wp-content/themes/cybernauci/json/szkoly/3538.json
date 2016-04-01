@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9659",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3538",
+    "miejscowosc": "Morzeszczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "22 Lipca",
+    "numer": "22",
+    "kod": "83-132",
+    "poczta": "Morzeszczyn\r"
+  },
+  {
+    "id": "9660",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3538",
+    "miejscowosc": "Morzeszczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "22 Lipca",
+    "numer": "22",
+    "kod": "83-132",
+    "poczta": "Morzeszczyn\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8977",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3232",
+    "miejscowosc": "Debrzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "8",
+    "kod": "77-310",
+    "poczta": "Debrzno\r"
+  },
+  {
+    "id": "8975",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3232",
+    "miejscowosc": "Debrzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "5",
+    "kod": "77-310",
+    "poczta": "Debrzno\r"
+  },
+  {
+    "id": "8978",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3232",
+    "miejscowosc": "Debrzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "8",
+    "kod": "77-310",
+    "poczta": "Debrzno\r"
+  },
+  {
+    "id": "8976",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3232",
+    "miejscowosc": "Debrzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kr\u00f3lewska",
+    "numer": "5",
+    "kod": "77-310",
+    "poczta": "Debrzno\r"
+  }
+]

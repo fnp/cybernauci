@@ -1,0 +1,98 @@
+[
+  {
+    "id": "18796",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wielka Pozna\u0144ska",
+    "numer": "61",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18795",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "28",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18803",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "1",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18797",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Przemys\u0142awa II ",
+    "ulica": "Wielka Pozna\u0144ska",
+    "numer": "61",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18798",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "PRESTIGE Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "28",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18792",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Seminarialna",
+    "numer": "16",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18804",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "1",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  },
+  {
+    "id": "18805",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6667",
+    "miejscowosc": "Rogo\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "1",
+    "kod": "64-610",
+    "poczta": "Rogo\u017ano\r"
+  }
+]

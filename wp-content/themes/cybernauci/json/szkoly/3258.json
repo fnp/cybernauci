@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9036",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3258",
+    "miejscowosc": "Przywidz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-047",
+    "poczta": "Przywidz\r"
+  },
+  {
+    "id": "9032",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3258",
+    "miejscowosc": "Przywidz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "83-047",
+    "poczta": "Przywidz\r"
+  }
+]

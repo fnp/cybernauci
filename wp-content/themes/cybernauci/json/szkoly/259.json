@@ -1,0 +1,38 @@
+[
+  {
+    "id": "519",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "259",
+    "miejscowosc": "Tarn\u00f3w Opolski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kopernika",
+    "numer": "10",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  },
+  {
+    "id": "520",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "259",
+    "miejscowosc": "Tarn\u00f3w Opolski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika Filialna Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Opolska",
+    "numer": "53",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  },
+  {
+    "id": "523",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "259",
+    "miejscowosc": "Tarn\u00f3w Opolski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "10",
+    "kod": "46-050",
+    "poczta": "Tarn\u00f3w Opolski\r"
+  }
+]

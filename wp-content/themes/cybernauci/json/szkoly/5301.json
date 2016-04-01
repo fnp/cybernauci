@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15022",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5301",
+    "miejscowosc": "Stronie \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marianny Ora\u0144skiej",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "57-550",
+    "poczta": "Stronie \u015al\u0105skie\r"
+  },
+  {
+    "id": "15023",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5301",
+    "miejscowosc": "Stronie \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "57-550",
+    "poczta": "Stronie \u015al\u0105skie\r"
+  },
+  {
+    "id": "15021",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5301",
+    "miejscowosc": "Stronie \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa im. Bohater\u00f3w Westerplatte",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "57",
+    "kod": "57-550",
+    "poczta": "Stronie \u015al\u0105skie\r"
+  },
+  {
+    "id": "15024",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5301",
+    "miejscowosc": "Stronie \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "57-550",
+    "poczta": "Stronie \u015al\u0105skie\r"
+  },
+  {
+    "id": "15025",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5301",
+    "miejscowosc": "Stronie \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "57-550",
+    "poczta": "Stronie \u015al\u0105skie\r"
+  }
+]

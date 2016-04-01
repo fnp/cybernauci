@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24700",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9083",
+    "miejscowosc": "Koz\u0142\u00f3w Szlachecki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osadnicza",
+    "numer": "54",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  },
+  {
+    "id": "24701",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9083",
+    "miejscowosc": "Koz\u0142\u00f3w Szlachecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Bitwy nad Bzur\u0105",
+    "ulica": "Koz\u0142\u00f3w Szlachecki",
+    "numer": "54",
+    "kod": "96-513",
+    "poczta": "Nowa Sucha\r"
+  }
+]

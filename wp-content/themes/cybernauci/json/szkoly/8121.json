@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22454",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8121",
+    "miejscowosc": "Zaklik\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sandomierska",
+    "numer": "56",
+    "kod": "37-470",
+    "poczta": "Zaklik\u00f3w\r"
+  },
+  {
+    "id": "22455",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8121",
+    "miejscowosc": "Zaklik\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sandomierska",
+    "numer": "56",
+    "kod": "37-470",
+    "poczta": "Zaklik\u00f3w\r"
+  },
+  {
+    "id": "22456",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8121",
+    "miejscowosc": "Zaklik\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczne Szko\u0142a Podstawowa",
+    "ulica": "Sandomierska",
+    "numer": "56",
+    "kod": "37-470",
+    "poczta": "Zaklik\u00f3w\r"
+  }
+]

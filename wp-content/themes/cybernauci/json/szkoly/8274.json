@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24992",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8274",
+    "miejscowosc": "\u0141\u0105ki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Praxis",
+    "ulica": "Weteran\u00f3w",
+    "numer": "207",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "22981",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8274",
+    "miejscowosc": "\u0141\u0105ki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "\u0141\u0105ki",
+    "numer": "78",
+    "kod": "08-404",
+    "poczta": "G\u00f3rzno\r"
+  }
+]

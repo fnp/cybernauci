@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15053",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5319",
+    "miejscowosc": "Mi\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "75 A",
+    "kod": "59-222",
+    "poczta": "Mi\u0142kowice\r"
+  },
+  {
+    "id": "15054",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5319",
+    "miejscowosc": "Mi\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. II Armii Wojska Polskiego",
+    "ulica": "II Armii Wojska Polskiego",
+    "numer": "75",
+    "kod": "59-222",
+    "poczta": "Mi\u0142kowice\r"
+  }
+]

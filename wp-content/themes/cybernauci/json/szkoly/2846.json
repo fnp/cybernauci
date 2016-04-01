@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8028",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2846",
+    "miejscowosc": "Wola Jachowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wola Jachowa",
+    "numer": "136",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  },
+  {
+    "id": "8029",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2846",
+    "miejscowosc": "Wola Jachowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Jachowa",
+    "numer": "136",
+    "kod": "26-008",
+    "poczta": "G\u00f3rno\r"
+  }
+]

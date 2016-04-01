@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22239",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8040",
+    "miejscowosc": "Krasne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Krasne",
+    "numer": "743B",
+    "kod": "36-007",
+    "poczta": "Krasne\r"
+  },
+  {
+    "id": "22238",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8040",
+    "miejscowosc": "Krasne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Kopernika",
+    "ulica": "Krasne",
+    "numer": "742",
+    "kod": "36-007",
+    "poczta": "Krasne\r"
+  }
+]

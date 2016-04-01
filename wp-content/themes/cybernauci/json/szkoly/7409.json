@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20960",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7409",
+    "miejscowosc": "Orzech\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr. W\u0142. Jagie\u0142\u0142y i \u015aw. Kr. Jadwigi",
+    "ulica": "Orzech\u00f3wka",
+    "numer": "5",
+    "kod": "36-220",
+    "poczta": "Jasienica Rosielna\r"
+  },
+  {
+    "id": "20961",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7409",
+    "miejscowosc": "Orzech\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kr\u00f3la W\u0142adys\u0142awa Jagie\u0142\u0142y i Kr\u00f3lowej Jadwigi",
+    "ulica": "Orzech\u00f3wka",
+    "numer": "5",
+    "kod": "36-220",
+    "poczta": "Jasienica Rosielna\r"
+  }
+]

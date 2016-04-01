@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5142",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1683",
+    "miejscowosc": "Drwinia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Drwinia",
+    "numer": "173",
+    "kod": "32-709",
+    "poczta": "Drwinia\r"
+  },
+  {
+    "id": "5143",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1683",
+    "miejscowosc": "Drwinia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Drwinia",
+    "numer": "173",
+    "kod": "32-709",
+    "poczta": "Drwinia\r"
+  }
+]

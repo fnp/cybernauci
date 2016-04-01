@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22371",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8094",
+    "miejscowosc": "Strachocina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Strachocina",
+    "numer": "341",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  },
+  {
+    "id": "22372",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8094",
+    "miejscowosc": "Strachocina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strachocina",
+    "numer": "341",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  }
+]

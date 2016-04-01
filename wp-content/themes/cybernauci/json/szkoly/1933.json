@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5619",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1933",
+    "miejscowosc": "Zalas",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zalas",
+    "numer": "533",
+    "kod": "32-067",
+    "poczta": "Tenczynek\r"
+  },
+  {
+    "id": "5620",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1933",
+    "miejscowosc": "Zalas",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zalas",
+    "numer": "533",
+    "kod": "32-067",
+    "poczta": "Tenczynek\r"
+  }
+]

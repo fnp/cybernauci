@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4165",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1334",
+    "miejscowosc": "Strzy\u017cew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Strzy\u017cew",
+    "numer": "128",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  },
+  {
+    "id": "4166",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1334",
+    "miejscowosc": "Strzy\u017cew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Strzy\u017cew",
+    "numer": "128",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  }
+]

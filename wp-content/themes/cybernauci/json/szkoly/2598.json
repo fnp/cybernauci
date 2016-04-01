@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7027",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2598",
+    "miejscowosc": "Wit\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wit\u00f3w",
+    "numer": "119",
+    "kod": "34-512",
+    "poczta": "Wit\u00f3w\r"
+  },
+  {
+    "id": "7028",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2598",
+    "miejscowosc": "Wit\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wit\u00f3w",
+    "numer": "119",
+    "kod": "32-512",
+    "poczta": "Wit\u00f3w\r"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "20282",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pu\u0142askiego",
+    "numer": "3",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20285",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20283",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce Eugeniusz & Adam Nikiforow",
+    "ulica": "Boles\u0142awa Chrobrego",
+    "numer": "17",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20279",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Bohater\u00f3w Wojska Polskiego",
+    "numer": "21",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20280",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Jana Kili\u0144skiego",
+    "ulica": "Moniuszki",
+    "numer": "30",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20281",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Pu\u0142askiego",
+    "numer": "3",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20286",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  },
+  {
+    "id": "20287",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7167",
+    "miejscowosc": "Krosno Odrza\u0144skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "66-600",
+    "poczta": "Krosno Odrza\u0144skie\r"
+  }
+]

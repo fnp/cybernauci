@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1063",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "472",
+    "miejscowosc": "Olsztyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kaspra Karli\u0144skiego ",
+    "ulica": "Zielona",
+    "numer": "66",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  },
+  {
+    "id": "1061",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "472",
+    "miejscowosc": "Olsztyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kuhna",
+    "numer": "18",
+    "kod": "42-256",
+    "poczta": "Olsztyn\r"
+  }
+]

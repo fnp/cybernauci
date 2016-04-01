@@ -1,0 +1,26 @@
+[
+  {
+    "id": "161",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "68",
+    "miejscowosc": "Kost\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kost\u00f3w",
+    "numer": "10",
+    "kod": "46-220",
+    "poczta": "Byczyna\r"
+  },
+  {
+    "id": "163",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "68",
+    "miejscowosc": "Kost\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Kost\u00f3w",
+    "numer": "10",
+    "kod": "46-220",
+    "poczta": "Byczyna\r"
+  }
+]

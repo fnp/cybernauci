@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24580",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9026",
+    "miejscowosc": "Pruszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dolina Liwca",
+    "numer": "46",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24581",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9026",
+    "miejscowosc": "Pruszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dolina Liwca",
+    "numer": "46",
+    "kod": "08-110",
+    "poczta": "Siedlce\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9186",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3333",
+    "miejscowosc": "Dziemiany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Wyzwolenia",
+    "numer": "20",
+    "kod": "83-425",
+    "poczta": "Dziemiany\r"
+  },
+  {
+    "id": "9187",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3333",
+    "miejscowosc": "Dziemiany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wyzwolenia",
+    "numer": "20",
+    "kod": "83-425",
+    "poczta": "Dziemiany\r"
+  }
+]

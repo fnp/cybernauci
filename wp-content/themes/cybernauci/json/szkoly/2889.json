@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8100",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2889",
+    "miejscowosc": "Brynica",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Brynica",
+    "numer": "144 A",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  },
+  {
+    "id": "8097",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2889",
+    "miejscowosc": "Brynica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Brynica",
+    "numer": "144 A",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  }
+]

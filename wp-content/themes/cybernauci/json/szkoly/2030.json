@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5815",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2030",
+    "miejscowosc": "Zalesie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zalesie",
+    "numer": "265",
+    "kod": "34-608",
+    "poczta": "Kamienica\r"
+  },
+  {
+    "id": "5816",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2030",
+    "miejscowosc": "Zalesie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza ",
+    "ulica": "Zalesie",
+    "numer": "265",
+    "kod": "34-608",
+    "poczta": "Kamienica\r"
+  }
+]

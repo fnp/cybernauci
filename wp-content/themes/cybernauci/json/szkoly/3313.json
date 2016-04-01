@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9130",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3313",
+    "miejscowosc": "St\u0119\u017cyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a S. Wyszy\u0144skiego",
+    "ulica": "Abrahama",
+    "numer": "2",
+    "kod": "83-322",
+    "poczta": "St\u0119\u017cyca\r"
+  },
+  {
+    "id": "9131",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3313",
+    "miejscowosc": "St\u0119\u017cyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. E. Kwiatkowskiego",
+    "ulica": "Abrahama",
+    "numer": "2",
+    "kod": "83-322",
+    "poczta": "St\u0119\u017cyca\r"
+  }
+]

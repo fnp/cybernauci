@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1512",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "664",
+    "miejscowosc": "N\u0119dza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "41 a",
+    "kod": "47-440",
+    "poczta": "N\u0119dza\r"
+  },
+  {
+    "id": "1513",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "664",
+    "miejscowosc": "N\u0119dza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Gimnazjalnym",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "41 a",
+    "kod": "47-440",
+    "poczta": "N\u0119dza\r"
+  }
+]

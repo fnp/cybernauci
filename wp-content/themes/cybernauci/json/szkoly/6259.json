@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18007",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6259",
+    "miejscowosc": "Czerniejewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "62-250",
+    "poczta": "Czerniejewo\r"
+  },
+  {
+    "id": "18008",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6259",
+    "miejscowosc": "Czerniejewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "62-250",
+    "poczta": "Czerniejewo\r"
+  }
+]

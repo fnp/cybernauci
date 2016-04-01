@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9268",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3376",
+    "miejscowosc": "Rodowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Rodowo",
+    "numer": "14",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  },
+  {
+    "id": "9265",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3376",
+    "miejscowosc": "Rodowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rodowo",
+    "numer": "14",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  }
+]

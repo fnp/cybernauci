@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22936",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8257",
+    "miejscowosc": "G\u0105socin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "B\u0142otna",
+    "numer": "12",
+    "kod": "06-440",
+    "poczta": "G\u0105socin\r"
+  },
+  {
+    "id": "22932",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8257",
+    "miejscowosc": "G\u0105socin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Milewskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "06-440",
+    "poczta": "G\u0105socin\r"
+  }
+]

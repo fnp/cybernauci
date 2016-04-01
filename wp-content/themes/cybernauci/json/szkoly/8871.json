@@ -1,0 +1,74 @@
+[
+  {
+    "id": "25171",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-310",
+    "poczta": "Kuczbork\r"
+  },
+  {
+    "id": "25173",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "1 Maja",
+    "numer": "8 c",
+    "kod": "09-310",
+    "poczta": "Kuczbork\r"
+  },
+  {
+    "id": "24322",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zielona",
+    "numer": "37",
+    "kod": "06-408",
+    "poczta": "Krasne\r"
+  },
+  {
+    "id": "25172",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-310",
+    "poczta": "Kuczbork\r"
+  },
+  {
+    "id": "25174",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "1 Maja",
+    "numer": "8 c",
+    "kod": "09-310",
+    "poczta": "Kuczbork\r"
+  },
+  {
+    "id": "25175",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8871",
+    "miejscowosc": "Zielona",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "1 Maja",
+    "numer": "8 c",
+    "kod": "09-310",
+    "poczta": "Kuczbork\r"
+  }
+]

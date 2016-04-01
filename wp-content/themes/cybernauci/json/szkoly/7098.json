@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19774",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  },
+  {
+    "id": "19773",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. dr. W\u0142. Brzezi\u0144skiego",
+    "ulica": "St. Pola\u0144skiego",
+    "numer": "3",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  },
+  {
+    "id": "19742",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stanis\u0142awa Staszica ",
+    "ulica": "Stanis\u0142awa Pola\u0144skiego",
+    "numer": "3",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  },
+  {
+    "id": "19767",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bydgoska",
+    "numer": "3",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  },
+  {
+    "id": "19743",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. Stanis\u0142awa Staszica",
+    "ulica": "Stanis\u0142awa Pola\u0144skiego",
+    "numer": "3",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  },
+  {
+    "id": "19747",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7098",
+    "miejscowosc": "Krajenka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. Stanis\u0142awa Staszica",
+    "ulica": "Stanis\u0142awa Pola\u0144skiego",
+    "numer": "3",
+    "kod": "77-430",
+    "poczta": "Krajenka\r"
+  }
+]

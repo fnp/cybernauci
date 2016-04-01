@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16756",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5874",
+    "miejscowosc": "Gorzkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego ",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "97-350",
+    "poczta": "Gorzkowice\r"
+  },
+  {
+    "id": "16753",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5874",
+    "miejscowosc": "Gorzkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Ko\u015bcielna",
+    "numer": "26",
+    "kod": "97-350",
+    "poczta": "Gorzkowice\r"
+  }
+]

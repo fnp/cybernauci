@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7060",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2610",
+    "miejscowosc": "Rzyki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "os. Szcz\u0119\u015bniaki",
+    "numer": "1",
+    "kod": "34-125",
+    "poczta": "Su\u0142kowice\r"
+  },
+  {
+    "id": "7061",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2610",
+    "miejscowosc": "Rzyki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mariana Kowalskiego ",
+    "ulica": "os. Szcz\u0119\u015bniaki",
+    "numer": "1",
+    "kod": "34-125",
+    "poczta": "Su\u0142kowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22590",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8193",
+    "miejscowosc": "Jadachy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jadachy",
+    "numer": "380",
+    "kod": "39-442",
+    "poczta": "Chmiel\u00f3w\r"
+  },
+  {
+    "id": "22591",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8193",
+    "miejscowosc": "Jadachy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jadachy",
+    "numer": "380",
+    "kod": "39-442",
+    "poczta": "Chmiel\u00f3w\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7231",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7238",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pl. Kazimierza Wielkiego",
+    "numer": "1",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7224",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "23",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7228",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. W\u0142odzimierza Puchalskiego ",
+    "ulica": "Krakowska",
+    "numer": "14",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7236",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "3 Maja",
+    "numer": "2",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7239",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pl. Kazimierza Wielkiego",
+    "numer": "1",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  },
+  {
+    "id": "7237",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2677",
+    "miejscowosc": "Niepo\u0142omice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "3 Maja",
+    "numer": "2",
+    "kod": "32-005",
+    "poczta": "Niepo\u0142omice\r"
+  }
+]

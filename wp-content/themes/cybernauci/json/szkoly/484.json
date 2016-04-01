@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1084",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "484",
+    "miejscowosc": "R\u0119dziny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Dzia\u0142kowicz\u00f3w",
+    "numer": "20",
+    "kod": "42-242",
+    "poczta": "R\u0119dziny\r"
+  },
+  {
+    "id": "1080",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "484",
+    "miejscowosc": "R\u0119dziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Gustawa Morcinka",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "42-242",
+    "poczta": "R\u0119dziny\r"
+  },
+  {
+    "id": "1082",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "484",
+    "miejscowosc": "R\u0119dziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kazimierza Pu\u0142askiego",
+    "ulica": "Dzia\u0142kowicz\u00f3w",
+    "numer": "3",
+    "kod": "42-242",
+    "poczta": "R\u0119dziny\r"
+  }
+]

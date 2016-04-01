@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5459",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1837",
+    "miejscowosc": "Binarowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Binarowa",
+    "numer": "458",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5460",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1837",
+    "miejscowosc": "Binarowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Binarowa",
+    "numer": "458",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13225",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4669",
+    "miejscowosc": "Zakrzewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Osiedlowa",
+    "numer": "25",
+    "kod": "87-707",
+    "poczta": "Zakrzewo\r"
+  },
+  {
+    "id": "13226",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4669",
+    "miejscowosc": "Zakrzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "3A",
+    "kod": "87-707",
+    "poczta": "Zakrzewo\r"
+  }
+]

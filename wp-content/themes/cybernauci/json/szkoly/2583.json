@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6974",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2583",
+    "miejscowosc": "Szerzyny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Szerzyny",
+    "numer": "544",
+    "kod": "38-246",
+    "poczta": "Szerzyny\r"
+  },
+  {
+    "id": "6975",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2583",
+    "miejscowosc": "Szerzyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Szerzyny",
+    "numer": "544",
+    "kod": "38-246",
+    "poczta": "Szerzyny\r"
+  }
+]

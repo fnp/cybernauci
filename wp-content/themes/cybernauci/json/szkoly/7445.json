@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21053",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7445",
+    "miejscowosc": "Pustynia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pustynia",
+    "numer": "160",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21054",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7445",
+    "miejscowosc": "Pustynia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczne Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Pustynia",
+    "numer": "160",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  }
+]

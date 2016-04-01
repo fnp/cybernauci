@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14118",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5111",
+    "miejscowosc": "B\u0142enna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "B\u0142enna",
+    "numer": "2",
+    "kod": "87-865",
+    "poczta": "Izbica Kujawska\r"
+  },
+  {
+    "id": "14119",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5111",
+    "miejscowosc": "B\u0142enna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u0142enna",
+    "numer": "2",
+    "kod": "87-865",
+    "poczta": "Izbica Kujawska\r"
+  }
+]

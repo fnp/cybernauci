@@ -1,0 +1,26 @@
+[
+  {
+    "id": "813",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "355",
+    "miejscowosc": "Jasienica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jasienica",
+    "numer": "271",
+    "kod": "43-385",
+    "poczta": "Jasienica\r"
+  },
+  {
+    "id": "815",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "355",
+    "miejscowosc": "Jasienica",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Jasienica",
+    "numer": "271",
+    "kod": "43-385",
+    "poczta": "Jasienica\r"
+  }
+]

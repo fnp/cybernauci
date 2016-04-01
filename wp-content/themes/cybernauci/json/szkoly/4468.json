@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12663",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4468",
+    "miejscowosc": "Mroczno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum ",
+    "ulica": "Mroczno",
+    "numer": "22a",
+    "kod": "13-324",
+    "poczta": "Grodziczno\r"
+  },
+  {
+    "id": "12664",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4468",
+    "miejscowosc": "Mroczno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym ",
+    "ulica": "Mroczno",
+    "numer": "22a",
+    "kod": "13-324",
+    "poczta": "Grodziczno\r"
+  }
+]

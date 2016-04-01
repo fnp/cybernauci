@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15304",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5412",
+    "miejscowosc": "Minkowice O\u0142awskie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "20",
+    "kod": "55-220",
+    "poczta": "Jelcz-Laskowice\r"
+  },
+  {
+    "id": "15305",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5412",
+    "miejscowosc": "Minkowice O\u0142awskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "20",
+    "kod": "55-220",
+    "poczta": "Jelcz-Laskowice\r"
+  }
+]

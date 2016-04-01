@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4109",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1313",
+    "miejscowosc": "Spiczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Spiczyn",
+    "numer": "8",
+    "kod": "21-077",
+    "poczta": "Spiczyn\r"
+  },
+  {
+    "id": "4108",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1313",
+    "miejscowosc": "Spiczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Spiczyn",
+    "numer": "8",
+    "kod": "21-077",
+    "poczta": "Spiczyn\r"
+  }
+]

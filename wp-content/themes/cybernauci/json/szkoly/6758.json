@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19022",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6758",
+    "miejscowosc": "Bia\u0142o\u015bliwie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Biskupa Micha\u0142a Kozala",
+    "ulica": "4 Stycznia",
+    "numer": "8",
+    "kod": "89-340",
+    "poczta": "Bia\u0142o\u015bliwie\r"
+  },
+  {
+    "id": "19020",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6758",
+    "miejscowosc": "Bia\u0142o\u015bliwie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wiktora Kaji",
+    "ulica": "4 Stycznia",
+    "numer": "8",
+    "kod": "89-340",
+    "poczta": "Bia\u0142o\u015bliwie\r"
+  }
+]

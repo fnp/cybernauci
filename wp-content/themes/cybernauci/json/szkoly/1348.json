@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4188",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1348",
+    "miejscowosc": "Kisielsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kisielsk",
+    "numer": "84",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  },
+  {
+    "id": "4189",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1348",
+    "miejscowosc": "Kisielsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kisielsk",
+    "numer": "84",
+    "kod": "21-450",
+    "poczta": "Stoczek \u0141ukowski\r"
+  }
+]

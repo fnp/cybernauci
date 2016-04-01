@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5688",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1971",
+    "miejscowosc": "Kacice",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum",
+    "ulica": "Kacice",
+    "numer": "80",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5686",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1971",
+    "miejscowosc": "Kacice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kacice",
+    "numer": "80",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  }
+]

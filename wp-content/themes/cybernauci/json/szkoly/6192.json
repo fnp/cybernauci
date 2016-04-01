@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17448",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6192",
+    "miejscowosc": "Szczawin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "21",
+    "kod": "95-002",
+    "poczta": "Smardzew\r"
+  },
+  {
+    "id": "17449",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6192",
+    "miejscowosc": "Szczawin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "21",
+    "kod": "95-002",
+    "poczta": "Smardzew\r"
+  }
+]

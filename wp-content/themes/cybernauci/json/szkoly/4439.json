@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12602",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4439",
+    "miejscowosc": "Piecki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "23",
+    "kod": "11-710",
+    "poczta": "Piecki\r"
+  },
+  {
+    "id": "12603",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4439",
+    "miejscowosc": "Piecki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "23",
+    "kod": "11-710",
+    "poczta": "Piecki\r"
+  }
+]

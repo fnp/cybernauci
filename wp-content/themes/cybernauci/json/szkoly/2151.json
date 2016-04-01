@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6079",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2151",
+    "miejscowosc": "Wielog\u0142owy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wielog\u0142owy",
+    "numer": "56",
+    "kod": "33-311",
+    "poczta": "Wielog\u0142owy\r"
+  },
+  {
+    "id": "6080",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2151",
+    "miejscowosc": "Wielog\u0142owy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wielog\u0142owy",
+    "numer": "56",
+    "kod": "33-311",
+    "poczta": "Wielog\u0142owy\r"
+  },
+  {
+    "id": "6059",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2151",
+    "miejscowosc": "Wielog\u0142owy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa \"Praktyk\"",
+    "ulica": "Wielog\u0142owy",
+    "numer": "56",
+    "kod": "33-311",
+    "poczta": "Wielog\u0142owy\r"
+  }
+]

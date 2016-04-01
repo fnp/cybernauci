@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12709",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4487",
+    "miejscowosc": "Judziki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Judziki",
+    "numer": "5",
+    "kod": "19-400",
+    "poczta": "Olecko\r"
+  },
+  {
+    "id": "12710",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4487",
+    "miejscowosc": "Judziki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Judziki",
+    "numer": "5",
+    "kod": "19-400",
+    "poczta": "Olecko\r"
+  }
+]

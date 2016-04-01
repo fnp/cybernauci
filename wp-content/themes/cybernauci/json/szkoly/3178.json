@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8849",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3178",
+    "miejscowosc": "Nakla",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "77-127",
+    "poczta": "Nakla\r"
+  },
+  {
+    "id": "8850",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3178",
+    "miejscowosc": "Nakla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "77-127",
+    "poczta": "Nakla\r"
+  }
+]

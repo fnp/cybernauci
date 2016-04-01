@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16379",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5691",
+    "miejscowosc": "Buczek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "98-113",
+    "poczta": "Buczek\r"
+  },
+  {
+    "id": "16380",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5691",
+    "miejscowosc": "Buczek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "98-113",
+    "poczta": "Buczek\r"
+  }
+]

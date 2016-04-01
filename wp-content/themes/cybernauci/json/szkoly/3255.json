@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9028",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3255",
+    "miejscowosc": "Straszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Al. Pi\u0142sudskiego",
+    "numer": "37",
+    "kod": "83-010",
+    "poczta": "Straszyn\r"
+  },
+  {
+    "id": "9030",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3255",
+    "miejscowosc": "Straszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Starogardzka",
+    "numer": "48",
+    "kod": "83-010",
+    "poczta": "Straszyn\r"
+  },
+  {
+    "id": "9029",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3255",
+    "miejscowosc": "Straszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Al. Pi\u0142sudskiego",
+    "numer": "37",
+    "kod": "83-010",
+    "poczta": "Straszyn\r"
+  },
+  {
+    "id": "9031",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3255",
+    "miejscowosc": "Straszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Starogardzka",
+    "numer": "48",
+    "kod": "83-010",
+    "poczta": "Straszyn\r"
+  },
+  {
+    "id": "9022",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3255",
+    "miejscowosc": "Straszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zaoczne Liceum Ponadgimnazjalne",
+    "ulica": "Al. Pi\u0142sudskiego",
+    "numer": "37",
+    "kod": "83-000",
+    "poczta": "Straszyn\r"
+  }
+]

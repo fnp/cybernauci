@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18582",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6571",
+    "miejscowosc": "Stare Bojanowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  },
+  {
+    "id": "18583",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6571",
+    "miejscowosc": "Stare Bojanowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  }
+]

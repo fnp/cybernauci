@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6048",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ks. Stanis\u0142awa Konarskiego",
+    "ulica": "W\u0119gierska",
+    "numer": "6",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6049",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Rynek",
+    "numer": "4",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6046",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Kazimierza Wielkiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6047",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Bia\u0142a Wy\u017cna",
+    "numer": "48",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6050",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technika po gimnazjum",
+    "ulica": "Armii Krajowej",
+    "numer": "19",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  },
+  {
+    "id": "6051",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2144",
+    "miejscowosc": "Gryb\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Krajowej",
+    "numer": "19",
+    "kod": "33-330",
+    "poczta": "Gryb\u00f3w\r"
+  }
+]

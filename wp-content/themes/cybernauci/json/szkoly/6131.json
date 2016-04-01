@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17273",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6131",
+    "miejscowosc": "Czastary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-410",
+    "poczta": "Czastary\r"
+  },
+  {
+    "id": "17274",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6131",
+    "miejscowosc": "Czastary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-410",
+    "poczta": "Czastary\r"
+  }
+]

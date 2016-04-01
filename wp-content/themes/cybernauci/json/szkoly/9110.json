@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24764",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9110",
+    "miejscowosc": "Sabnie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa im. Heleny Mniszek",
+    "ulica": "S\u0142oneczna",
+    "numer": "1",
+    "kod": "08-331",
+    "poczta": "Sabinie\r"
+  },
+  {
+    "id": "24765",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9110",
+    "miejscowosc": "Sabnie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum im. Heleny Mniszek",
+    "ulica": "S\u0142oneczna",
+    "numer": "1",
+    "kod": "08-331",
+    "poczta": "Sabinie\r"
+  }
+]

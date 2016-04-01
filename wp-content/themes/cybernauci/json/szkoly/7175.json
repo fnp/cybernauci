@@ -1,0 +1,110 @@
+[
+  {
+    "id": "20302",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Staszica",
+    "numer": "22a",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20303",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "1",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20304",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Staszica",
+    "numer": "22 b",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20297",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20298",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20299",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "D\u0142uga",
+    "numer": "102",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20307",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "4",
+    "kod": "66-300",
+    "poczta": "Miedzyrzecz\r"
+  },
+  {
+    "id": "20308",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Marcinkowskiego",
+    "numer": "26",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  },
+  {
+    "id": "20309",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7175",
+    "miejscowosc": "Mi\u0119dzyrzecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Marcinkowskiego",
+    "numer": "26",
+    "kod": "66-300",
+    "poczta": "Mi\u0119dzyrzecz\r"
+  }
+]

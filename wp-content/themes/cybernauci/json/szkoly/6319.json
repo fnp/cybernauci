@@ -1,0 +1,110 @@
+[
+  {
+    "id": "18131",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "5",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18133",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Bukowska",
+    "numer": "18",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18132",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "3 Maja",
+    "numer": "7",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18130",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa ",
+    "ulica": "\u017bwirowa",
+    "numer": "15a",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18126",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Chopina",
+    "numer": "26",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18127",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "\u015arodkowa",
+    "numer": "56",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18137",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "2",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18134",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bukowska",
+    "numer": "18",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  },
+  {
+    "id": "18138",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6319",
+    "miejscowosc": "Grodzisk Wielkopolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "2",
+    "kod": "62-065",
+    "poczta": "Grodzisk Wielkopolski\r"
+  }
+]

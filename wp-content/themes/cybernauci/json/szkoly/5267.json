@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14920",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5267",
+    "miejscowosc": "Marcisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "58-410",
+    "poczta": "Marcisz\u00f3w\r"
+  },
+  {
+    "id": "14921",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5267",
+    "miejscowosc": "Marcisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "58-410",
+    "poczta": "Marcisz\u00f3w\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13898",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5006",
+    "miejscowosc": "Pruszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Miko\u0142aja Kopernika",
+    "ulica": "Ko\u015bcielna",
+    "numer": "4",
+    "kod": "86-120",
+    "poczta": "Pruszcz\r"
+  },
+  {
+    "id": "13896",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5006",
+    "miejscowosc": "Pruszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "4",
+    "kod": "86-120",
+    "poczta": "Pruszcz\r"
+  },
+  {
+    "id": "14012",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5006",
+    "miejscowosc": "Pruszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "33",
+    "kod": "89-520",
+    "poczta": "Gostycyn\r"
+  }
+]

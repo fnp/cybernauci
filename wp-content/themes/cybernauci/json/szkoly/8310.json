@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23034",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8310",
+    "miejscowosc": "Wilga",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Adama Mickiewicza",
+    "numer": "8",
+    "kod": "08-470",
+    "poczta": "Wilga\r"
+  },
+  {
+    "id": "23038",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8310",
+    "miejscowosc": "Wilga",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "A. Mickiewicza",
+    "numer": "8",
+    "kod": "08-470",
+    "poczta": "Wilga\r"
+  }
+]

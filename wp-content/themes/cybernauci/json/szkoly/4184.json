@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11714",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4184",
+    "miejscowosc": "Sucha\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Kardyna\u0142a Augusta Hlonda",
+    "numer": "1",
+    "kod": "73-132",
+    "poczta": "Sucha\u0144\r"
+  },
+  {
+    "id": "11715",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4184",
+    "miejscowosc": "Sucha\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kardyna\u0142a Augusta Hlonda",
+    "numer": "1",
+    "kod": "73-132",
+    "poczta": "Sucha\u0144\r"
+  }
+]

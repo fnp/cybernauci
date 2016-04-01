@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6338",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2294",
+    "miejscowosc": "Orawka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Orawka",
+    "numer": "76",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  },
+  {
+    "id": "6339",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2294",
+    "miejscowosc": "Orawka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Orawka",
+    "numer": "76",
+    "kod": "34-480",
+    "poczta": "Jab\u0142onka\r"
+  }
+]

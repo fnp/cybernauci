@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13446",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4790",
+    "miejscowosc": "Gruta",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gruta",
+    "numer": "70",
+    "kod": "86-330",
+    "poczta": "Me\u0142no\r"
+  },
+  {
+    "id": "13447",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4790",
+    "miejscowosc": "Gruta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. Fl. Laskowskiego",
+    "ulica": "Gruta",
+    "numer": "70",
+    "kod": "86-330",
+    "poczta": "Me\u0142no\r"
+  }
+]

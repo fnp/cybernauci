@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9361",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3406",
+    "miejscowosc": "Nowy Staw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Mickiewicza",
+    "numer": "51",
+    "kod": "82-230",
+    "poczta": "Nowy Staw\r"
+  },
+  {
+    "id": "9362",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3406",
+    "miejscowosc": "Nowy Staw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Pola",
+    "ulica": "Gda\u0144ska",
+    "numer": "53",
+    "kod": "82-230",
+    "poczta": "Nowy Staw\r"
+  }
+]

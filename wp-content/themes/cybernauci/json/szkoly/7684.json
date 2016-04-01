@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21535",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7684",
+    "miejscowosc": "Milcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "38-483",
+    "poczta": "Wr\u00f3blik Szlachecki\r"
+  },
+  {
+    "id": "21536",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7684",
+    "miejscowosc": "Milcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "38-483",
+    "poczta": "Wr\u00f3blik Szlachecki\r"
+  }
+]

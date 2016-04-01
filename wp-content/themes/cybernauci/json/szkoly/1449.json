@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4412",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1449",
+    "miejscowosc": "W\u0105wolnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Rynek",
+    "numer": "24 A",
+    "kod": "24-160",
+    "poczta": "W\u0105wolnica\r"
+  },
+  {
+    "id": "4410",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1449",
+    "miejscowosc": "W\u0105wolnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. i K. Dul\u0119b\u00f3w",
+    "ulica": "Zamkowa",
+    "numer": "4",
+    "kod": "24-160",
+    "poczta": "W\u0105wolnica\r"
+  }
+]

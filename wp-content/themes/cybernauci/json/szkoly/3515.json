@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9592",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3515",
+    "miejscowosc": "P\u0105czewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "P\u0105czewo",
+    "numer": "124",
+    "kod": "83-213",
+    "poczta": "P\u0105czewo\r"
+  },
+  {
+    "id": "9593",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3515",
+    "miejscowosc": "P\u0105czewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "P\u0105czewo",
+    "numer": "124",
+    "kod": "83-213",
+    "poczta": "P\u0105czewo\r"
+  }
+]

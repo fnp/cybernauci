@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15195",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5370",
+    "miejscowosc": "Kro\u015bnice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "56-320",
+    "poczta": "Kro\u015bnice\r"
+  },
+  {
+    "id": "15196",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5370",
+    "miejscowosc": "Kro\u015bnice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 i Przedszkola Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "14",
+    "kod": "56-320",
+    "poczta": "Kro\u015bnice\r"
+  }
+]

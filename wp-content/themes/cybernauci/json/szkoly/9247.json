@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25085",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9247",
+    "miejscowosc": "Wola Mystkowska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wola Mystkowska",
+    "numer": "17",
+    "kod": "07-206",
+    "poczta": "Somianka\r"
+  },
+  {
+    "id": "25086",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9247",
+    "miejscowosc": "Wola Mystkowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wola Mystkowska",
+    "numer": "17",
+    "kod": "07-206",
+    "poczta": "Somianka\r"
+  }
+]

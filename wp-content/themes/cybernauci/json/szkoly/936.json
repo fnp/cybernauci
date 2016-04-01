@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3435",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "936",
+    "miejscowosc": "Goraj",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Bednarska",
+    "numer": "8",
+    "kod": "23-450",
+    "poczta": "Goraj\r"
+  },
+  {
+    "id": "3436",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "936",
+    "miejscowosc": "Goraj",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. W\u0142. Sikorskiego",
+    "ulica": "Bednarska",
+    "numer": "8",
+    "kod": "23-450",
+    "poczta": "Goraj\r"
+  }
+]

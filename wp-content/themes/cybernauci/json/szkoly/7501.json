@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21199",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7501",
+    "miejscowosc": "Pruchnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  },
+  {
+    "id": "21194",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7501",
+    "miejscowosc": "Pruchnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ks. Bronis\u0142awa Markiewicza",
+    "numer": "22",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  },
+  {
+    "id": "21196",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7501",
+    "miejscowosc": "Pruchnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "\u015awi\u0119tego Floriana",
+    "numer": "17",
+    "kod": "37-560",
+    "poczta": "Pruchnik\r"
+  }
+]

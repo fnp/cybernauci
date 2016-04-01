@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6168",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2212",
+    "miejscowosc": "\u0141abowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "\u0141abowa",
+    "numer": "22",
+    "kod": "33-336",
+    "poczta": "\u0141abowa\r"
+  },
+  {
+    "id": "6169",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2212",
+    "miejscowosc": "\u0141abowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Franciszka z Asy\u017cu",
+    "ulica": "\u0141abowa",
+    "numer": "22",
+    "kod": "33-336",
+    "poczta": "\u0141abowa\r"
+  }
+]

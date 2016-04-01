@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3602",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1033",
+    "miejscowosc": "Kry\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Hrubieszowska",
+    "numer": "4",
+    "kod": "22-530",
+    "poczta": "Mircze\r"
+  },
+  {
+    "id": "3603",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1033",
+    "miejscowosc": "Kry\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich",
+    "ulica": "Hrubieszowska",
+    "numer": "4",
+    "kod": "22-530",
+    "poczta": "Mircze\r"
+  }
+]

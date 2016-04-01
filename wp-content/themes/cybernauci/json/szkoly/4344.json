@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12365",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4344",
+    "miejscowosc": "Wi\u015bniowo E\u0142ckie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Wi\u015bniowo E\u0142ckie",
+    "numer": "40",
+    "kod": "19-335",
+    "poczta": "Prostki\r"
+  },
+  {
+    "id": "12366",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4344",
+    "miejscowosc": "Wi\u015bniowo E\u0142ckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Wi\u015bniowo E\u0142ckie",
+    "numer": "40",
+    "kod": "19-335",
+    "poczta": "Prostki\r"
+  }
+]

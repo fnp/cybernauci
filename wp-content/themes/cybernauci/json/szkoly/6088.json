@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17198",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6088",
+    "miejscowosc": "Bia\u0142a-Parcela",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142a-Parcela",
+    "numer": "12",
+    "kod": "98-350",
+    "poczta": "Bia\u0142a\r"
+  },
+  {
+    "id": "17201",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6088",
+    "miejscowosc": "Bia\u0142a-Parcela",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bia\u0142a-Parcela",
+    "numer": "12",
+    "kod": "98-350",
+    "poczta": "Bia\u0142a\r"
+  }
+]

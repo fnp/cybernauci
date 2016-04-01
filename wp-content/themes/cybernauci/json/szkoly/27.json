@@ -1,0 +1,26 @@
+[
+  {
+    "id": "57",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "27",
+    "miejscowosc": "Uciechowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Uciechowice",
+    "numer": "46",
+    "kod": "48-148",
+    "poczta": "Branice\r"
+  },
+  {
+    "id": "56",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "27",
+    "miejscowosc": "Uciechowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym",
+    "ulica": "Uciechowice",
+    "numer": "46",
+    "kod": "48-140",
+    "poczta": "Branice\r"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "17406",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "gimnazjum",
+    "nazwa": "Miejskie Gimnazjum",
+    "ulica": "Wary\u0144skiego",
+    "numer": "22\/26",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17408",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "gimnazjum",
+    "nazwa": "Miejskie Gimnazjum Sportowe",
+    "ulica": "Bankowa",
+    "numer": "42562",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17403",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum o Profilu Katolickim \"Scholar\"",
+    "ulica": "Wary\u0144skiego",
+    "numer": "22\/26",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17405",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce \"Erazmus\"",
+    "ulica": "Wary\u0144skiego",
+    "numer": "22\/26",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17409",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Sportowa Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Bankowa",
+    "numer": "42562",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17404",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Szko\u0142a Mistrzostwa Sportowego Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marii Sk\u0142odowskiej-Curie",
+    "numer": "5",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17407",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wary\u0144skiego",
+    "numer": "22\/26",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17401",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Wyzwolenia",
+    "numer": "3",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17410",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "1",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  },
+  {
+    "id": "17411",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6171",
+    "miejscowosc": "Aleksandr\u00f3w \u0141\u00f3dzki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "1",
+    "kod": "95-070",
+    "poczta": "Aleksandr\u00f3w \u0141\u00f3dzki\r"
+  }
+]

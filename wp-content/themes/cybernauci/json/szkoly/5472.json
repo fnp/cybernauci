@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15486",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5472",
+    "miejscowosc": "Jarosz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. S\u0142ugi Bo\u017cej Anny Jenke",
+    "ulica": "Jarosz\u00f3w",
+    "numer": "98",
+    "kod": "58-120",
+    "poczta": "Jarosz\u00f3w\r"
+  },
+  {
+    "id": "15487",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5472",
+    "miejscowosc": "Jarosz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Jarosz\u00f3w",
+    "numer": "98",
+    "kod": "58-120",
+    "poczta": "Jarosz\u00f3w\r"
+  }
+]

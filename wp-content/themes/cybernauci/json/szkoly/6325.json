@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18142",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6325",
+    "miejscowosc": "Konojad",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "64-060",
+    "poczta": "Wolkowo\r"
+  },
+  {
+    "id": "18141",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6325",
+    "miejscowosc": "Konojad",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "64-060",
+    "poczta": "Wolkowo\r"
+  }
+]

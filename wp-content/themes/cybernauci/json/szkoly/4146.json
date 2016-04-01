@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11631",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4146",
+    "miejscowosc": "Dobies\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Dobies\u0142aw",
+    "numer": "3a",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11632",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4146",
+    "miejscowosc": "Dobies\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum ",
+    "ulica": "Dobies\u0142aw",
+    "numer": "3a",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

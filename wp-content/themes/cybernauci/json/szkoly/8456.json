@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23359",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8456",
+    "miejscowosc": "Huszlew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Huszlew",
+    "numer": "113",
+    "kod": "08-206",
+    "poczta": "Huszlew\r"
+  },
+  {
+    "id": "23360",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8456",
+    "miejscowosc": "Huszlew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Huszlew",
+    "numer": "113",
+    "kod": "08-206",
+    "poczta": "Huszlew\r"
+  }
+]

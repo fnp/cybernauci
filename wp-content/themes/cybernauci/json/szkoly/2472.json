@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6771",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2472",
+    "miejscowosc": "Zembrzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Koby\u0142eckiego",
+    "numer": "490",
+    "kod": "34-210",
+    "poczta": "Zembrzyce\r"
+  },
+  {
+    "id": "6772",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2472",
+    "miejscowosc": "Zembrzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Koby\u0142eckiego",
+    "numer": "490",
+    "kod": "34-210",
+    "poczta": "Zembrzyce\r"
+  }
+]

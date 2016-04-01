@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2010",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "829",
+    "miejscowosc": "Ci\u0119cina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015aw. Katarzyny",
+    "numer": "20a",
+    "kod": "34-350",
+    "poczta": "W\u0119gierska G\u00f3rka\r"
+  },
+  {
+    "id": "2006",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "829",
+    "miejscowosc": "Ci\u0119cina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Konstytucji 3 Maja ",
+    "ulica": "\u015aw. Katarzyny",
+    "numer": "20",
+    "kod": "34-350",
+    "poczta": "W\u0119gierska G\u00f3rka\r"
+  },
+  {
+    "id": "2008",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "829",
+    "miejscowosc": "Ci\u0119cina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. Franciszka z Asy\u017cu",
+    "ulica": "\u015aw. Katarzyny",
+    "numer": "246",
+    "kod": "34-350",
+    "poczta": "W\u0119gierska G\u00f3rka\r"
+  }
+]

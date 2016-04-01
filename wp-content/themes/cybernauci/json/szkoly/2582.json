@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6972",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2582",
+    "miejscowosc": "O\u0142piny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. pra\u0142. Jana \u015al\u0119zaka ",
+    "ulica": "O\u0142piny",
+    "numer": "451",
+    "kod": "38-247",
+    "poczta": "O\u0142piny\r"
+  },
+  {
+    "id": "6973",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2582",
+    "miejscowosc": "O\u0142piny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. pra\u0142. Jana \u015al\u0119zaka",
+    "ulica": "O\u0142piny",
+    "numer": "451",
+    "kod": "38-247",
+    "poczta": "O\u0142piny\r"
+  }
+]

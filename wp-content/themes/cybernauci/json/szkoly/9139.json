@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24821",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9139",
+    "miejscowosc": "Bieniewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "B\u0142o\u0144ska",
+    "numer": "62",
+    "kod": "05-870",
+    "poczta": "B\u0142onie\r"
+  },
+  {
+    "id": "24822",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9139",
+    "miejscowosc": "Bieniewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u0142o\u0144ska",
+    "numer": "62",
+    "kod": "05-870",
+    "poczta": "B\u0142onie\r"
+  }
+]

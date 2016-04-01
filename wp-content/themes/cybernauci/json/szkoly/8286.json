@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22997",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8286",
+    "miejscowosc": "Samogoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Samogoszcz",
+    "numer": "2",
+    "kod": "08-480",
+    "poczta": "Maciejowice\r"
+  },
+  {
+    "id": "22998",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8286",
+    "miejscowosc": "Samogoszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Samogoszcz",
+    "numer": "2",
+    "kod": "08-480",
+    "poczta": "Maciejowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11800",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4212",
+    "miejscowosc": "R\u0105bino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "R\u0105bino",
+    "numer": "57",
+    "kod": "78-331",
+    "poczta": "R\u0105bino\r"
+  },
+  {
+    "id": "11801",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4212",
+    "miejscowosc": "R\u0105bino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "R\u0105bino",
+    "numer": "57",
+    "kod": "78-331",
+    "poczta": "R\u0105bino\r"
+  }
+]

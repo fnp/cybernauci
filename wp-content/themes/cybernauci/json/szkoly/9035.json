@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24592",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9035",
+    "miejscowosc": "Radomy\u015bl",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Radomy\u015bl",
+    "numer": "46",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  },
+  {
+    "id": "24593",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9035",
+    "miejscowosc": "Radomy\u015bl",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Radomy\u015bl",
+    "numer": "46",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  }
+]

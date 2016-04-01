@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20358",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7193",
+    "miejscowosc": "Ko\u017cuch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Chopina",
+    "numer": "11",
+    "kod": "67-120",
+    "poczta": "Ko\u017cuch\u00f3w\r"
+  },
+  {
+    "id": "20363",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7193",
+    "miejscowosc": "Ko\u017cuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum",
+    "ulica": "22 Lipca",
+    "numer": "5",
+    "kod": "67-120",
+    "poczta": "Ko\u017cuch\u00f3w\r"
+  },
+  {
+    "id": "20362",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7193",
+    "miejscowosc": "Ko\u017cuch\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum ",
+    "ulica": "Anny Haller",
+    "numer": "1",
+    "kod": "67-120",
+    "poczta": "Ko\u017cuch\u00f3w\r"
+  },
+  {
+    "id": "20360",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7193",
+    "miejscowosc": "Ko\u017cuch\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "22 Lipca",
+    "numer": "12",
+    "kod": "67-120",
+    "poczta": "Ko\u017cuch\u00f3w\r"
+  },
+  {
+    "id": "20364",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7193",
+    "miejscowosc": "Ko\u017cuch\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "22 Lipca",
+    "numer": "5",
+    "kod": "67-120",
+    "poczta": "Ko\u017cuch\u00f3w\r"
+  }
+]

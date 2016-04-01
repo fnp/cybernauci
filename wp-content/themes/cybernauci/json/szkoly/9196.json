@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24972",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9196",
+    "miejscowosc": "Urle",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Bitwy Warszawskiej 1920 roku",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "4",
+    "kod": "05-281",
+    "poczta": "Urle\r"
+  },
+  {
+    "id": "24973",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9196",
+    "miejscowosc": "Urle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "4",
+    "kod": "05-281",
+    "poczta": "Urle\r"
+  }
+]

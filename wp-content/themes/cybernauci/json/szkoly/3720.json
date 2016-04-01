@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10473",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3720",
+    "miejscowosc": "Czeremcha",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Duboisa",
+    "numer": "12",
+    "kod": "17-240",
+    "poczta": "Czeremcha\r"
+  },
+  {
+    "id": "10474",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3720",
+    "miejscowosc": "Czeremcha",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "17-240",
+    "poczta": "Czeremcha\r"
+  }
+]

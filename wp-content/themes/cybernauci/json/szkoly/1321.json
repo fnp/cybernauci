@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4144",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1321",
+    "miejscowosc": "Huta-D\u0105browa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Towarzystwa Wiedzy Powszechnej",
+    "ulica": "Hutnicza",
+    "numer": "53",
+    "kod": "21-470",
+    "poczta": "Krzywda\r"
+  },
+  {
+    "id": "4145",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1321",
+    "miejscowosc": "Huta-D\u0105browa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Hutnicza",
+    "numer": "30",
+    "kod": "21-470",
+    "poczta": "Krzywda\r"
+  },
+  {
+    "id": "4146",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1321",
+    "miejscowosc": "Huta-D\u0105browa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Hutnicza",
+    "numer": "30",
+    "kod": "21-470",
+    "poczta": "Krzywda\r"
+  }
+]

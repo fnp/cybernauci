@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16698",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5785",
+    "miejscowosc": "Petrykozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Petrykozy",
+    "numer": "52",
+    "kod": "95-200",
+    "poczta": "Pabianice\r"
+  },
+  {
+    "id": "16573",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5785",
+    "miejscowosc": "Petrykozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Petrykozy",
+    "numer": "1",
+    "kod": "26-307",
+    "poczta": "Bia\u0142acz\u00f3w\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21156",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7475",
+    "miejscowosc": "Radymno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Lwowska",
+    "numer": "20 F",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21157",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7475",
+    "miejscowosc": "Radymno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Z\u0142ota G\u00f3ra",
+    "numer": "13",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21155",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7475",
+    "miejscowosc": "Radymno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Sienkiewicza",
+    "numer": "1",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21158",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7475",
+    "miejscowosc": "Radymno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Z\u0142ota G\u00f3ra",
+    "numer": "13",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21159",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7475",
+    "miejscowosc": "Radymno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Z\u0142ota G\u00f3ra",
+    "numer": "13",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  }
+]

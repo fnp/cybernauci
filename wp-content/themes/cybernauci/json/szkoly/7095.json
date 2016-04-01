@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19729",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7095",
+    "miejscowosc": "Otoczna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Otoczna",
+    "numer": "12",
+    "kod": "62-302",
+    "poczta": "W\u0119gierki\r"
+  },
+  {
+    "id": "19730",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7095",
+    "miejscowosc": "Otoczna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Otoczna",
+    "numer": "12",
+    "kod": "62-302",
+    "poczta": "W\u0119gierki\r"
+  }
+]

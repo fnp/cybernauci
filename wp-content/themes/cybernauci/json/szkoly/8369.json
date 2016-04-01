@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23990",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8369",
+    "miejscowosc": "Lesznowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "05-506",
+    "poczta": "Lesznowola\r"
+  },
+  {
+    "id": "23165",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8369",
+    "miejscowosc": "Lesznowola",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "05-600",
+    "poczta": "Gr\u00f3jec\r"
+  },
+  {
+    "id": "23991",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8369",
+    "miejscowosc": "Lesznowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "05-506",
+    "poczta": "Lesznowola\r"
+  }
+]

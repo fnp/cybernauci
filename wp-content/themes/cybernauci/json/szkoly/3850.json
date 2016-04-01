@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10711",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3850",
+    "miejscowosc": "Suchowola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Augustowska",
+    "numer": "2",
+    "kod": "16-150",
+    "poczta": "Suchowola\r"
+  },
+  {
+    "id": "10713",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3850",
+    "miejscowosc": "Suchowola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Augustowska",
+    "numer": "2",
+    "kod": "16-150",
+    "poczta": "Suchowola\r"
+  },
+  {
+    "id": "10712",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3850",
+    "miejscowosc": "Suchowola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "16-150",
+    "poczta": "Suchowola\r"
+  },
+  {
+    "id": "10714",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3850",
+    "miejscowosc": "Suchowola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Augustowska",
+    "numer": "2",
+    "kod": "16-150",
+    "poczta": "Suchowola\r"
+  }
+]

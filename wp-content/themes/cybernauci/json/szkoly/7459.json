@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21089",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7459",
+    "miejscowosc": "Parkosz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Parkosz",
+    "numer": "60",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21090",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7459",
+    "miejscowosc": "Parkosz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Parkosz",
+    "numer": "60",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3521",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "987",
+    "miejscowosc": "Sielec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sielec",
+    "numer": "68",
+    "kod": "22-122",
+    "poczta": "Le\u015bniowice\r"
+  },
+  {
+    "id": "3519",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "987",
+    "miejscowosc": "Sielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sielec",
+    "numer": "141",
+    "kod": "22-122",
+    "poczta": "Le\u015bniowice\r"
+  }
+]

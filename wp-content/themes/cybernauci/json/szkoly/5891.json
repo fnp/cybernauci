@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16777",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5891",
+    "miejscowosc": "R\u0119czno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Piotra Szymanka",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "21",
+    "kod": "97-510",
+    "poczta": "R\u0119czno\r"
+  },
+  {
+    "id": "16778",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5891",
+    "miejscowosc": "R\u0119czno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "21",
+    "kod": "97-510",
+    "poczta": "R\u0119czno\r"
+  }
+]

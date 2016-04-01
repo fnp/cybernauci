@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23648",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8574",
+    "miejscowosc": "\u0141omna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Gimnazjum",
+    "ulica": "\u0141omna",
+    "numer": "133",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23649",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8574",
+    "miejscowosc": "\u0141omna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Szko\u0142a Podstawowa",
+    "ulica": "\u0141omna",
+    "numer": "133",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19664",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7062",
+    "miejscowosc": "Tuchorza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tuchorza",
+    "numer": "51",
+    "kod": "64-232",
+    "poczta": "Tuchorza\r"
+  },
+  {
+    "id": "19665",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7062",
+    "miejscowosc": "Tuchorza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tuchorza",
+    "numer": "51",
+    "kod": "64-232",
+    "poczta": "Tuchorza\r"
+  }
+]

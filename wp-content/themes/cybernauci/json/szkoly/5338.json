@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15097",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5338",
+    "miejscowosc": "Siekierczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Siekierczyn",
+    "numer": "200A",
+    "kod": "59-818",
+    "poczta": "Siekierczyn\r"
+  },
+  {
+    "id": "15098",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5338",
+    "miejscowosc": "Siekierczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicz",
+    "ulica": "Siekierczyn",
+    "numer": "200A",
+    "kod": "59-818",
+    "poczta": "Siekierczyn\r"
+  }
+]

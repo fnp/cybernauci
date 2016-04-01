@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18808",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6673",
+    "miejscowosc": "Ludomy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ludomy",
+    "numer": "",
+    "kod": "64-603",
+    "poczta": "Ludomy\r"
+  },
+  {
+    "id": "18809",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6673",
+    "miejscowosc": "Ludomy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ludomy",
+    "numer": "",
+    "kod": "64-603",
+    "poczta": "Ludomy\r"
+  }
+]

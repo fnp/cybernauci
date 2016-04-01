@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11700",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4172",
+    "miejscowosc": "Reptowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Reptowo",
+    "numer": "96A",
+    "kod": "73-108",
+    "poczta": "Kobylanka\r"
+  },
+  {
+    "id": "11701",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4172",
+    "miejscowosc": "Reptowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Reptowo",
+    "numer": "96A",
+    "kod": "73-108",
+    "poczta": "Kobylanka\r"
+  }
+]

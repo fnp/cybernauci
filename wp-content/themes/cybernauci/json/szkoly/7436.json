@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21035",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7436",
+    "miejscowosc": "Ja\u017awiny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ja\u017awiny",
+    "numer": "72a",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "21036",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7436",
+    "miejscowosc": "Ja\u017awiny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ja\u017awiny",
+    "numer": "72a",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  }
+]

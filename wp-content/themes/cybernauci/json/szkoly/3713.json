@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10445",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3713",
+    "miejscowosc": "Nie\u0107kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Nie\u0107kowo",
+    "numer": "63",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10446",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3713",
+    "miejscowosc": "Nie\u0107kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Nie\u0107kowo",
+    "numer": "63",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10447",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3713",
+    "miejscowosc": "Nie\u0107kowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Nie\u0107kowo",
+    "numer": "63",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  }
+]

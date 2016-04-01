@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21737",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7779",
+    "miejscowosc": "\u017bo\u0142ynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u00f3rska",
+    "numer": "2A",
+    "kod": "37-110",
+    "poczta": "\u017bo\u0142ynia\r"
+  },
+  {
+    "id": "21738",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7779",
+    "miejscowosc": "\u017bo\u0142ynia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "G\u00f3rska",
+    "numer": "2A",
+    "kod": "37-110",
+    "poczta": "\u017bo\u0142ynia\r"
+  },
+  {
+    "id": "21733",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7779",
+    "miejscowosc": "\u017bo\u0142ynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "59",
+    "kod": "37-110",
+    "poczta": "\u017bo\u0142ynia\r"
+  },
+  {
+    "id": "21734",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7779",
+    "miejscowosc": "\u017bo\u0142ynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Bia\u0142obrzeska",
+    "numer": "422",
+    "kod": "37-110",
+    "poczta": "\u017bo\u0142ynia\r"
+  }
+]

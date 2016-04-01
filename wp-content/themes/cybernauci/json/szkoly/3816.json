@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10647",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3816",
+    "miejscowosc": "Milejczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "17-332",
+    "poczta": "Milejczyce\r"
+  },
+  {
+    "id": "10648",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3816",
+    "miejscowosc": "Milejczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "17-332",
+    "poczta": "Milejczyce\r"
+  }
+]

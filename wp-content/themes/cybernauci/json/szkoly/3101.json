@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8582",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3101",
+    "miejscowosc": "W\u0105chock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. mjr. Jana Piwnika \"Ponurego\"",
+    "ulica": "Ko\u015bcielna",
+    "numer": "10",
+    "kod": "27-215",
+    "poczta": "W\u0105chock\r"
+  },
+  {
+    "id": "8583",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3101",
+    "miejscowosc": "W\u0105chock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "10",
+    "kod": "27-215",
+    "poczta": "W\u0105chock\r"
+  }
+]

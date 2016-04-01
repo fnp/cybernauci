@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23641",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8570",
+    "miejscowosc": "Kaliszki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna J\u0119zykowa Szko\u0142a Podstawowa",
+    "ulica": "Akacjowa",
+    "numer": "148",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  },
+  {
+    "id": "23643",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8570",
+    "miejscowosc": "Kaliszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Grupy Kampinos AK w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Kaliszki",
+    "numer": "170",
+    "kod": "05-152",
+    "poczta": "Czosn\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1238",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "560",
+    "miejscowosc": "Ciasna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny ",
+    "ulica": "Lubliniecka",
+    "numer": "21",
+    "kod": "42-793",
+    "poczta": "Ciasna\r"
+  },
+  {
+    "id": "1240",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "560",
+    "miejscowosc": "Ciasna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny ",
+    "ulica": "Lubliniecka",
+    "numer": "21",
+    "kod": "42-793",
+    "poczta": "Ciasna\r"
+  }
+]

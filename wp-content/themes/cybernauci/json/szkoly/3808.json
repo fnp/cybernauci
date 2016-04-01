@@ -1,0 +1,110 @@
+[
+  {
+    "id": "10621",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "88",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10622",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1 ",
+    "ulica": "\u015awi\u0119toja\u0144ska",
+    "numer": "25",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10625",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tadeusz Ko\u015bciuszki",
+    "numer": "43",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10624",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ZDZ",
+    "ulica": "Pa\u0142acowa",
+    "numer": "24",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10627",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Gen. W\u0142adys\u0142awa Andersa",
+    "numer": "4",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10620",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Ksi\u0119\u017cnej Anny z Sapieh\u00f3w Jab\u0142onowskiej",
+    "ulica": "Ogrodowa",
+    "numer": "2",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10628",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Gen. W\u0142adys\u0142awa Andersa",
+    "numer": "4",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10626",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "43",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  },
+  {
+    "id": "10623",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3808",
+    "miejscowosc": "Siemiatycze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pa\u0142acowa",
+    "numer": "10",
+    "kod": "17-300",
+    "poczta": "Siemiatycze\r"
+  }
+]

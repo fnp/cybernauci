@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11629",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4145",
+    "miejscowosc": "S\u0142owino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "S\u0142owino",
+    "numer": "27",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11630",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4145",
+    "miejscowosc": "S\u0142owino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "S\u0142owino",
+    "numer": "27",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

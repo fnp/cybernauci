@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6396",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2323",
+    "miejscowosc": "Ostrowsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "13",
+    "kod": "34-431",
+    "poczta": "Waksmund\r"
+  },
+  {
+    "id": "6397",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2323",
+    "miejscowosc": "Ostrowsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "13",
+    "kod": "34-431",
+    "poczta": "Waksmund\r"
+  }
+]

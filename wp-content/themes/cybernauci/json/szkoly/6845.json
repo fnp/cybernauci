@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19188",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6845",
+    "miejscowosc": "Siekierki Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Stanis\u0142awa Karalusa",
+    "numer": "1",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  },
+  {
+    "id": "19189",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6845",
+    "miejscowosc": "Siekierki Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Pauliny i Augusta Wilko\u0144skich",
+    "ulica": "Stanis\u0142awa Karalusa",
+    "numer": "1",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  }
+]

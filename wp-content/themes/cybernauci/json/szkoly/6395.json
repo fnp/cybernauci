@@ -1,0 +1,74 @@
+[
+  {
+    "id": "18416",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "62-604",
+    "poczta": "Ko\u015bcielec\r"
+  },
+  {
+    "id": "18413",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "62-604",
+    "poczta": "Ko\u015bcielec\r"
+  },
+  {
+    "id": "18261",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bcielec",
+    "numer": "9",
+    "kod": "62-831",
+    "poczta": "Korzeniew\r"
+  },
+  {
+    "id": "18417",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "62-604",
+    "poczta": "Ko\u015bcielec\r"
+  },
+  {
+    "id": "18414",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "62-604",
+    "poczta": "Ko\u015bcielec\r"
+  },
+  {
+    "id": "18415",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6395",
+    "miejscowosc": "Ko\u015bcielec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "2",
+    "kod": "62-604",
+    "poczta": "Ko\u015bcielec\r"
+  }
+]

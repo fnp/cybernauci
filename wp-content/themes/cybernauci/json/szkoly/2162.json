@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6084",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2162",
+    "miejscowosc": "Jelna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 3 im. B\u0142. ks. Jerzego Popie\u0142uszki ",
+    "ulica": "Jelna",
+    "numer": "95",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  },
+  {
+    "id": "6085",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2162",
+    "miejscowosc": "Jelna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. B\u0142. ks. Jerzego Popie\u0142uszki",
+    "ulica": "Jelna",
+    "numer": "95",
+    "kod": "33-318",
+    "poczta": "Gr\u00f3dek nad Dunajcem\r"
+  }
+]

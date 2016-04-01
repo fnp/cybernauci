@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1765",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "743",
+    "miejscowosc": "Lubomia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "44-360",
+    "poczta": "Lubomia\r"
+  },
+  {
+    "id": "1766",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "743",
+    "miejscowosc": "Lubomia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "44-360",
+    "poczta": "Lubomia\r"
+  }
+]

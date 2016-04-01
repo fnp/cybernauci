@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5653",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1954",
+    "miejscowosc": "Mogilany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u015aw. Bart\u0142omieja Aposto\u0142a",
+    "numer": "16-lut",
+    "kod": "32-031",
+    "poczta": "Mogilany\r"
+  },
+  {
+    "id": "5652",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1954",
+    "miejscowosc": "Mogilany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u015aw. Bart\u0142omieja Aposto\u0142a",
+    "numer": "16-sty",
+    "kod": "32-031",
+    "poczta": "Mogilany\r"
+  }
+]

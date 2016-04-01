@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1154",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "518",
+    "miejscowosc": "\u0141obodno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "H. Sienkiewicza",
+    "numer": "69",
+    "kod": "43-125",
+    "poczta": "Kamyk\r"
+  },
+  {
+    "id": "1155",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "518",
+    "miejscowosc": "\u0141obodno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "H. Sienkiewicza",
+    "numer": "69",
+    "kod": "43-125",
+    "poczta": "Kamyk\r"
+  }
+]

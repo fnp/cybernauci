@@ -1,0 +1,110 @@
+[
+  {
+    "id": "20724",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum J\u0119zykowe ",
+    "ulica": "Matejki",
+    "numer": "1",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20723",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Zacisze",
+    "numer": "1",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20725",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Matejki",
+    "numer": "1",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20727",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20726",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce przy CKUiP",
+    "ulica": "Plac Kosynier\u00f3w",
+    "numer": "1",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20716",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wolszty\u0144ska",
+    "numer": "4",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20718",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "10",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20728",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  },
+  {
+    "id": "20729",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7358",
+    "miejscowosc": "Wschowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "67-400",
+    "poczta": "Wschowa\r"
+  }
+]

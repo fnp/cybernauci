@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21431",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7632",
+    "miejscowosc": "Dzikowiec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Ks. Pra\u0142ata Stanis\u0142awa Sudo\u0142a",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "36-122",
+    "poczta": "Dzikowiec\r"
+  },
+  {
+    "id": "21432",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7632",
+    "miejscowosc": "Dzikowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Samorz\u0105dowe im. Ks. Pra\u0142ata Stanis\u0142awa Sudo\u0142a Dzikowcu",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "36-122",
+    "poczta": "Dzikowiec\r"
+  }
+]

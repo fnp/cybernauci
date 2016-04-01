@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16761",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5837",
+    "miejscowosc": "Szyd\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Konopnickiej ",
+    "ulica": "Szyd\u0142\u00f3w",
+    "numer": "56",
+    "kod": "97-306",
+    "poczta": "Grabica\r"
+  },
+  {
+    "id": "16692",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5837",
+    "miejscowosc": "Szyd\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Szyd\u0142\u00f3w",
+    "numer": "1",
+    "kod": "95-083",
+    "poczta": "Lutomiersk\r"
+  },
+  {
+    "id": "16763",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5837",
+    "miejscowosc": "Szyd\u0142\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Szyd\u0142\u00f3w",
+    "numer": "57",
+    "kod": "97-306",
+    "poczta": "Grabica\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15603",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5521",
+    "miejscowosc": "Walim",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Boczna",
+    "numer": "8",
+    "kod": "58-320",
+    "poczta": "Walim\r"
+  },
+  {
+    "id": "15604",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5521",
+    "miejscowosc": "Walim",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Boczna",
+    "numer": "8",
+    "kod": "58-320",
+    "poczta": "Walim\r"
+  },
+  {
+    "id": "15602",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5521",
+    "miejscowosc": "Walim",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna Nr 1",
+    "ulica": "Nowa Kolonia",
+    "numer": "9",
+    "kod": "58-320",
+    "poczta": "Walim\r"
+  }
+]

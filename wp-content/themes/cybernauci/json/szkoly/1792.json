@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5353",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1792",
+    "miejscowosc": "\u017barki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Astronaut\u00f3w",
+    "numer": "3",
+    "kod": "32-593",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "5354",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1792",
+    "miejscowosc": "\u017barki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Astronaut\u00f3w",
+    "numer": "3",
+    "kod": "32-593",
+    "poczta": "\u017barki\r"
+  }
+]

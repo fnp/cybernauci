@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25182",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9284",
+    "miejscowosc": "Zielu\u0144-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-304",
+    "poczta": "Lubowidz\r"
+  },
+  {
+    "id": "25183",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9284",
+    "miejscowosc": "Zielu\u0144-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "09-304",
+    "poczta": "Lubowidz\r"
+  }
+]

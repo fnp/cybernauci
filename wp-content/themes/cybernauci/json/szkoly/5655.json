@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16291",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5655",
+    "miejscowosc": "Szczerc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "66",
+    "kod": "97-420",
+    "poczta": "Szczerc\u00f3w\r"
+  },
+  {
+    "id": "16289",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5655",
+    "miejscowosc": "Szczerc\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rzeczna",
+    "numer": "7",
+    "kod": "97-420",
+    "poczta": "Szczerc\u00f3w\r"
+  },
+  {
+    "id": "16290",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5655",
+    "miejscowosc": "Szczerc\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ks. J. Baranowicza",
+    "ulica": "\u0141aska",
+    "numer": "8",
+    "kod": "97-420",
+    "poczta": "Szczerc\u00f3w\r"
+  },
+  {
+    "id": "16292",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5655",
+    "miejscowosc": "Szczerc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Informatyczne",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "66",
+    "kod": "97-420",
+    "poczta": "Szczerc\u00f3w\r"
+  },
+  {
+    "id": "16293",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5655",
+    "miejscowosc": "Szczerc\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "66",
+    "kod": "97-420",
+    "poczta": "Szczerc\u00f3w\r"
+  }
+]

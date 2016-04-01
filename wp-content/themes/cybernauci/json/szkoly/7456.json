@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21083",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7456",
+    "miejscowosc": "Lipiny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lipiny",
+    "numer": "1",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  },
+  {
+    "id": "21084",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7456",
+    "miejscowosc": "Lipiny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lipiny",
+    "numer": "1",
+    "kod": "39-220",
+    "poczta": "Pilzno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24987",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9207",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Po\u015bwi\u0119tne",
+    "numer": "",
+    "kod": "05-326",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  },
+  {
+    "id": "24988",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9207",
+    "miejscowosc": "Po\u015bwi\u0119tne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Po\u015bwi\u0119tne",
+    "numer": "",
+    "kod": "05-326",
+    "poczta": "Po\u015bwi\u0119tne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10745",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3868",
+    "miejscowosc": "Leszczewek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stary Folwark",
+    "numer": "49",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  },
+  {
+    "id": "10746",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3868",
+    "miejscowosc": "Leszczewek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stary Folwark",
+    "numer": "49",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  }
+]

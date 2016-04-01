@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5490",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bystra",
+    "numer": "154",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  },
+  {
+    "id": "6716",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 w Zespole Szk\u00f3\u0142",
+    "ulica": "Bystra",
+    "numer": "353",
+    "kod": "34-235",
+    "poczta": "Bystra\r"
+  },
+  {
+    "id": "5491",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bystra",
+    "numer": "154",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  },
+  {
+    "id": "6717",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Bystra",
+    "numer": "353",
+    "kod": "34-235",
+    "poczta": "Bystra\r"
+  },
+  {
+    "id": "5488",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bystra",
+    "numer": "156",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  },
+  {
+    "id": "5489",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1849",
+    "miejscowosc": "Bystra",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bystra",
+    "numer": "156",
+    "kod": "38-300",
+    "poczta": "Gorlice\r"
+  }
+]

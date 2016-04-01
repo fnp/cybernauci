@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13572",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4844",
+    "miejscowosc": "Lisewo Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Lisewo Ko\u015bcielne",
+    "numer": "33",
+    "kod": "88-180",
+    "poczta": "Z\u0142otniki Kujawskie\r"
+  },
+  {
+    "id": "13570",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4844",
+    "miejscowosc": "Lisewo Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Kard. Stefana Wyszy\u0144skiego",
+    "ulica": "Lisewo Ko\u015bcielne",
+    "numer": "33",
+    "kod": "88-180",
+    "poczta": "Z\u0142otniki Kujawskie\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1983",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "814",
+    "miejscowosc": "Zwardo\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne",
+    "ulica": "Zwardo\u0144",
+    "numer": "2b",
+    "kod": "34-373",
+    "poczta": "Zwardo\u0144\r"
+  },
+  {
+    "id": "1984",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "814",
+    "miejscowosc": "Zwardo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Zwardo\u0144",
+    "numer": "2b",
+    "kod": "34-373",
+    "poczta": "Zwardo\u0144\r"
+  }
+]

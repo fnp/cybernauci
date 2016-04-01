@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21719",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7773",
+    "miejscowosc": "Hus\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Hus\u00f3w",
+    "numer": "27",
+    "kod": "37-121",
+    "poczta": "Hus\u00f3w\r"
+  },
+  {
+    "id": "21720",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7773",
+    "miejscowosc": "Hus\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Hus\u00f3w",
+    "numer": "27",
+    "kod": "37-121",
+    "poczta": "Hus\u00f3w\r"
+  },
+  {
+    "id": "21721",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7773",
+    "miejscowosc": "Hus\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Hus\u00f3w",
+    "numer": "451",
+    "kod": "37-121",
+    "poczta": "Hus\u00f3w\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "25003",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8794",
+    "miejscowosc": "S\u0142upno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Aleja Jana Paw\u0142a II",
+    "numer": "14",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24123",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8794",
+    "miejscowosc": "S\u0142upno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Krzysztofa Kamila Baczy\u0144skiego",
+    "ulica": "Ko\u015bcielna",
+    "numer": "16",
+    "kod": "09-472",
+    "poczta": "S\u0142upno\r"
+  },
+  {
+    "id": "24122",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8794",
+    "miejscowosc": "S\u0142upno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "16",
+    "kod": "09-472",
+    "poczta": "S\u0142upno\r"
+  },
+  {
+    "id": "25004",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8794",
+    "miejscowosc": "S\u0142upno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Aleja Jana Paw\u0142a II",
+    "numer": "14",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24991",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8794",
+    "miejscowosc": "S\u0142upno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  }
+]

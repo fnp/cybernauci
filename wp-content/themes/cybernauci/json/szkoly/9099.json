@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24745",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9099",
+    "miejscowosc": "Ceran\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ceran\u00f3w",
+    "numer": "206",
+    "kod": "08-322",
+    "poczta": "Ceran\u00f3w\r"
+  },
+  {
+    "id": "24746",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9099",
+    "miejscowosc": "Ceran\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ceran\u00f3w",
+    "numer": "206",
+    "kod": "08-322",
+    "poczta": "Ceran\u00f3w\r"
+  }
+]

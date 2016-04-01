@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10343",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3659",
+    "miejscowosc": "Supra\u015bl",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Sportowe",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "1",
+    "kod": "16-030",
+    "poczta": "Supra\u015bl\r"
+  },
+  {
+    "id": "10344",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3659",
+    "miejscowosc": "Supra\u015bl",
+    "typ": "podstawowa",
+    "nazwa": "Sportowa Szko\u0142a Podstawowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "1",
+    "kod": "16-030",
+    "poczta": "Supra\u015bl\r"
+  }
+]

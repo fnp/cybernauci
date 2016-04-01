@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1850",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ks. Tadeusza Jarmundowicza",
+    "ulica": "Senatorska",
+    "numer": "22",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1855",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "Spacerowa",
+    "numer": "12",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1849",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "\u015al\u0105ska",
+    "numer": "86",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1848",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Senatorska",
+    "numer": "22",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1856",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "Spacerowa",
+    "numer": "12",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  },
+  {
+    "id": "1857",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "769",
+    "miejscowosc": "Szczekociny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Spacerowa",
+    "numer": "12",
+    "kod": "42-445",
+    "poczta": "Szczekociny\r"
+  }
+]

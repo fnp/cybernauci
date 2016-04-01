@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16809",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5909",
+    "miejscowosc": "Komorniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Komorniki",
+    "numer": "99",
+    "kod": "97-320",
+    "poczta": "Wolb\u00f3rz\r"
+  },
+  {
+    "id": "17211",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5909",
+    "miejscowosc": "Komorniki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y i Przedszkola Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Komorniki",
+    "numer": "126",
+    "kod": "98-345",
+    "poczta": "Mokrsko\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15144",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5348",
+    "miejscowosc": "Chobienia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  },
+  {
+    "id": "15145",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5348",
+    "miejscowosc": "Chobienia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "59-305",
+    "poczta": "Rudna\r"
+  }
+]

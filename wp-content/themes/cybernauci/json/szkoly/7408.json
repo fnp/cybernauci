@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20958",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7408",
+    "miejscowosc": "Jasienica Rosielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jasienica Rosielna",
+    "numer": "223",
+    "kod": "36-220",
+    "poczta": "Jasienica Rosielna\r"
+  },
+  {
+    "id": "20959",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7408",
+    "miejscowosc": "Jasienica Rosielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jasienica Rosielna",
+    "numer": "223",
+    "kod": "36-220",
+    "poczta": "Jasienica Rosielna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22484",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8135",
+    "miejscowosc": "Frysztak",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1",
+    "ulica": "Pi\u0119tniewicza",
+    "numer": "7",
+    "kod": "38-130",
+    "poczta": "Frysztak\r"
+  },
+  {
+    "id": "22481",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8135",
+    "miejscowosc": "Frysztak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Pi\u0119tniewicza",
+    "numer": "7",
+    "kod": "38-130",
+    "poczta": "Frysztak\r"
+  }
+]

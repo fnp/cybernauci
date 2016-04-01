@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22030",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7935",
+    "miejscowosc": "Cha\u0142upki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cha\u0142upki",
+    "numer": "109",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  },
+  {
+    "id": "22031",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7935",
+    "miejscowosc": "Cha\u0142upki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cha\u0142upki",
+    "numer": "109",
+    "kod": "37-200",
+    "poczta": "Przeworsk\r"
+  }
+]

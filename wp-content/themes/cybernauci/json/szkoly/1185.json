@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3901",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1185",
+    "miejscowosc": "Nied\u017awiada",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Nied\u017awiada",
+    "numer": "42B",
+    "kod": "21-104",
+    "poczta": "Nied\u017awiada\r"
+  },
+  {
+    "id": "3899",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1185",
+    "miejscowosc": "Nied\u017awiada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego ",
+    "ulica": "Nied\u017awiada",
+    "numer": "42",
+    "kod": "21-104",
+    "poczta": "Nied\u017awiada\r"
+  }
+]

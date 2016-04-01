@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1323",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "588",
+    "miejscowosc": "Wyry",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Puszkina",
+    "numer": "10",
+    "kod": "43-175",
+    "poczta": "Wyry\r"
+  },
+  {
+    "id": "1324",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "588",
+    "miejscowosc": "Wyry",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Puszkina",
+    "numer": "10",
+    "kod": "43-175",
+    "poczta": "Wyry\r"
+  }
+]

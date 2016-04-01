@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16976",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5982",
+    "miejscowosc": "Lubania",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Lubania",
+    "numer": "30",
+    "kod": "96-208",
+    "poczta": "Lubania\r"
+  },
+  {
+    "id": "16977",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5982",
+    "miejscowosc": "Lubania",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Lubania",
+    "numer": "30",
+    "kod": "96-208",
+    "poczta": "Lubania\r"
+  }
+]

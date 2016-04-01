@@ -1,0 +1,26 @@
+[
+  {
+    "id": "143",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "55",
+    "miejscowosc": "Go\u015bci\u0119cin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "47-270",
+    "poczta": "Go\u015bci\u0119cin\r"
+  },
+  {
+    "id": "144",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "55",
+    "miejscowosc": "Go\u015bci\u0119cin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "47-270",
+    "poczta": "Go\u015bci\u0119cin\r"
+  }
+]

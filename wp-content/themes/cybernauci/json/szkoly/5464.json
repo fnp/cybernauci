@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15473",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5464",
+    "miejscowosc": "Jaworzyna \u015al\u0105ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "16",
+    "kod": "58-140",
+    "poczta": "Jaworzyna \u015al\u0105ska\r"
+  },
+  {
+    "id": "15471",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5464",
+    "miejscowosc": "Jaworzyna \u015al\u0105ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "9",
+    "kod": "58-140",
+    "poczta": "Jaworzyna \u015al\u0105ska\r"
+  }
+]

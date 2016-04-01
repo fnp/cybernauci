@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24777",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9118",
+    "miejscowosc": "Chlewiska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "26-510",
+    "poczta": "Chlewiska\r"
+  },
+  {
+    "id": "24780",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9118",
+    "miejscowosc": "Chlewiska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "26-510",
+    "poczta": "Chlewiska\r"
+  }
+]

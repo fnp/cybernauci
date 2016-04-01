@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14191",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5145",
+    "miejscowosc": "Lubostro\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubostro\u0144",
+    "numer": "13A",
+    "kod": "89-210",
+    "poczta": "\u0141abiszyn\r"
+  },
+  {
+    "id": "14192",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5145",
+    "miejscowosc": "Lubostro\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubostro\u0144",
+    "numer": "13A",
+    "kod": "89-210",
+    "poczta": "\u0141abiszyn\r"
+  }
+]

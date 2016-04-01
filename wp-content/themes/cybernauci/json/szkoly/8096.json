@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22375",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8096",
+    "miejscowosc": "Tyrawa Wo\u0142oska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Tyrawa Wo\u0142oska",
+    "numer": "138",
+    "kod": "38-535",
+    "poczta": "Tyrawa Wo\u0142oska\r"
+  },
+  {
+    "id": "22376",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8096",
+    "miejscowosc": "Tyrawa Wo\u0142oska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Tyrawa Wo\u0142oska",
+    "numer": "138",
+    "kod": "38-535",
+    "poczta": "Tyrawa Wo\u0142oska\r"
+  }
+]

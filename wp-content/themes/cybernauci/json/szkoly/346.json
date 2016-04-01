@@ -1,0 +1,26 @@
+[
+  {
+    "id": "777",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "346",
+    "miejscowosc": "Kalna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 4",
+    "ulica": "Widokowa",
+    "numer": "66",
+    "kod": "43-376",
+    "poczta": "Godziszka \r"
+  },
+  {
+    "id": "778",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "346",
+    "miejscowosc": "Kalna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Widokowa",
+    "numer": "66",
+    "kod": "43-376",
+    "poczta": "Godziszka \r"
+  }
+]

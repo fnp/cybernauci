@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21049",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7443",
+    "miejscowosc": "Paszczyna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Paszczyna",
+    "numer": "241",
+    "kod": "39-207",
+    "poczta": "Brze\u017anica\r"
+  },
+  {
+    "id": "21050",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7443",
+    "miejscowosc": "Paszczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Paszczyna",
+    "numer": "241",
+    "kod": "39-207",
+    "poczta": "Brze\u017anica\r"
+  }
+]

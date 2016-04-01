@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18367",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6447",
+    "miejscowosc": "Bogus\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Bogus\u0142awice",
+    "numer": "85",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  },
+  {
+    "id": "18368",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6447",
+    "miejscowosc": "Bogus\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bogus\u0142awice",
+    "numer": "85",
+    "kod": "62-620",
+    "poczta": "Babiak\r"
+  }
+]

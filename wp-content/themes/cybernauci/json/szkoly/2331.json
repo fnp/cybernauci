@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6415",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2331",
+    "miejscowosc": "Raba Wy\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Raba Wy\u017cna",
+    "numer": "65",
+    "kod": "34-721",
+    "poczta": "Raba Wy\u017cna\r"
+  },
+  {
+    "id": "6412",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2331",
+    "miejscowosc": "Raba Wy\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tej Jadwigi Kr\u00f3lowej ",
+    "ulica": "Raba Wy\u017cna",
+    "numer": "120",
+    "kod": "34-721",
+    "poczta": "Raba Wy\u017cna\r"
+  }
+]

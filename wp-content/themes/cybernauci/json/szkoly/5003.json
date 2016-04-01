@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13892",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5003",
+    "miejscowosc": "Osie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "86-150",
+    "poczta": "Osie\r"
+  },
+  {
+    "id": "13893",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5003",
+    "miejscowosc": "Osie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "86-150",
+    "poczta": "Osie\r"
+  }
+]

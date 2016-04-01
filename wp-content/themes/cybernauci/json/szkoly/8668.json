@@ -1,0 +1,98 @@
+[
+  {
+    "id": "23832",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nurska",
+    "numer": "150",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23833",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Nurska",
+    "numer": "150",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23834",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Nurska",
+    "numer": "150",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23835",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nurska",
+    "numer": "150",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23830",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Nr 2 Publiczne Gimnazjum Nr 2 im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Le\u015bna",
+    "numer": "15",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia G\u00f3rna\r"
+  },
+  {
+    "id": "23831",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Nr 2 Szko\u0142a Podstawowa Nr 2 im. Fryderyka Chopina",
+    "ulica": "Le\u015bna",
+    "numer": "15",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia G\u00f3rna\r"
+  },
+  {
+    "id": "23826",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Publiczne Gimnazjum Nr 1",
+    "ulica": "Ostrowska",
+    "numer": "58",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  },
+  {
+    "id": "23827",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8668",
+    "miejscowosc": "Ma\u0142kinia G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ostrowska",
+    "numer": "58",
+    "kod": "07-320",
+    "poczta": "Ma\u0142kinia\r"
+  }
+]

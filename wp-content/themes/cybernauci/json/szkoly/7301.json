@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20578",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7301",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Genera\u0142a Sikorskiego ",
+    "ulica": "Zielonog\u00f3rska",
+    "numer": "26",
+    "kod": "68-113",
+    "poczta": "Brze\u017anica\r"
+  },
+  {
+    "id": "20579",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7301",
+    "miejscowosc": "Brze\u017anica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Osadnik\u00f3w Wojskowych",
+    "ulica": "Zielonog\u00f3rska",
+    "numer": "26",
+    "kod": "68-113",
+    "poczta": "Brze\u017anica\r"
+  }
+]

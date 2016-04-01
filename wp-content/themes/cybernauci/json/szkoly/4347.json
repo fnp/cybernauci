@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12396",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4347",
+    "miejscowosc": "Sulimy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Miko\u0142aja Kopernika",
+    "ulica": "Bystry",
+    "numer": "1 i",
+    "kod": "11-500",
+    "poczta": "Gi\u017cycko\r"
+  },
+  {
+    "id": "12392",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4347",
+    "miejscowosc": "Sulimy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Bystry",
+    "numer": "9A",
+    "kod": "11-500",
+    "poczta": "Gi\u017cycko\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15646",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5246",
+    "miejscowosc": "Czernica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "\u015aw. Brata Alberta",
+    "numer": "9",
+    "kod": "55-003",
+    "poczta": "Czernica\r"
+  },
+  {
+    "id": "14884",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5246",
+    "miejscowosc": "Czernica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czernica",
+    "numer": "125",
+    "kod": "58-521",
+    "poczta": "Je\u017c\u00f3w Sudecki\r"
+  },
+  {
+    "id": "15648",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5246",
+    "miejscowosc": "Czernica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym",
+    "ulica": "\u015aw. Brata Alberta A. Chmielowskiego",
+    "numer": "9",
+    "kod": "55-003",
+    "poczta": "Czernica\r"
+  }
+]

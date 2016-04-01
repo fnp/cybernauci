@@ -1,0 +1,62 @@
+[
+  {
+    "id": "18264",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6396",
+    "miejscowosc": "Opat\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Agatona i Stefana Giller\u00f3w",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18267",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6396",
+    "miejscowosc": "Opat\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18262",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6396",
+    "miejscowosc": "Opat\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18268",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6396",
+    "miejscowosc": "Opat\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  },
+  {
+    "id": "18269",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6396",
+    "miejscowosc": "Opat\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Parkowa",
+    "numer": "1",
+    "kod": "62-860",
+    "poczta": "Opat\u00f3wek\r"
+  }
+]

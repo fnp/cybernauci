@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5125",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1674",
+    "miejscowosc": "Nieszkowice Ma\u0142e",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nieszkowice Ma\u0142e",
+    "numer": "112",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  },
+  {
+    "id": "5126",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1674",
+    "miejscowosc": "Nieszkowice Ma\u0142e",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a podstawowa",
+    "ulica": "Nieszkowice Ma\u0142e",
+    "numer": "112",
+    "kod": "32-744",
+    "poczta": "\u0141apczyca\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10566",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3781",
+    "miejscowosc": "Wizna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Pl. Raginisa",
+    "numer": "12",
+    "kod": "18-430",
+    "poczta": "Wizna\r"
+  },
+  {
+    "id": "10567",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3781",
+    "miejscowosc": "Wizna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Obro\u0144c\u00f3w Wizny",
+    "ulica": "Pl. Raginisa",
+    "numer": "12",
+    "kod": "18-430",
+    "poczta": "Wizna\r"
+  }
+]

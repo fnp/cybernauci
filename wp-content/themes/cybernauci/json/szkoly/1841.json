@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5466",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1841",
+    "miejscowosc": "Strzeszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Strzeszyn",
+    "numer": "391",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  },
+  {
+    "id": "5467",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1841",
+    "miejscowosc": "Strzeszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strzeszyn",
+    "numer": "391",
+    "kod": "38-340",
+    "poczta": "Biecz\r"
+  }
+]

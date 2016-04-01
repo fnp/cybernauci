@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16535",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5767",
+    "miejscowosc": "Kurowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Kurowicach im. \u015bw. Jadwigi Kr\u00f3lowej Polski",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "95-006",
+    "poczta": "Br\u00f3jce\r"
+  },
+  {
+    "id": "16536",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5767",
+    "miejscowosc": "Kurowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "95-006",
+    "poczta": "Br\u00f3jce\r"
+  }
+]

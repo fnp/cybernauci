@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5953",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2103",
+    "miejscowosc": "Lubie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubie\u0144",
+    "numer": "885",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5956",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2103",
+    "miejscowosc": "Lubie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ZSOiZ",
+    "ulica": "Lubie\u0144",
+    "numer": "20",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5950",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2103",
+    "miejscowosc": "Lubie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Kr\u00f3la Kazimierza Wielkiego",
+    "ulica": "Lubie\u0144",
+    "numer": "513",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5957",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2103",
+    "miejscowosc": "Lubie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Lubie\u0144",
+    "numer": "20",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  },
+  {
+    "id": "5958",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2103",
+    "miejscowosc": "Lubie\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lubie\u0144",
+    "numer": "20",
+    "kod": "32-433",
+    "poczta": "Lubie\u0144\r"
+  }
+]

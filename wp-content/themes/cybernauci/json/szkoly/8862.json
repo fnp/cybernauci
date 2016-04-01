@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24308",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8862",
+    "miejscowosc": "Zar\u0119by",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zar\u0119by",
+    "numer": "",
+    "kod": "06-333",
+    "poczta": "Zar\u0119by\r"
+  },
+  {
+    "id": "24309",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8862",
+    "miejscowosc": "Zar\u0119by",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zar\u0119by",
+    "numer": "",
+    "kod": "06-333",
+    "poczta": "Zar\u0119by\r"
+  }
+]

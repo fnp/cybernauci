@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10804",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3900",
+    "miejscowosc": "Jab\u0142onka Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Jab\u0142onka Ko\u015bcielna",
+    "numer": "50",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  },
+  {
+    "id": "10806",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3900",
+    "miejscowosc": "Jab\u0142onka Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jab\u0142onka Ko\u015bcielna",
+    "numer": "50",
+    "kod": "18-200",
+    "poczta": "Wysokie Mazowieckie\r"
+  }
+]

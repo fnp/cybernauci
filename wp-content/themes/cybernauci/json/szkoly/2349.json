@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6464",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2349",
+    "miejscowosc": "Krzykawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krzykawa",
+    "numer": "54",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  },
+  {
+    "id": "6465",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2349",
+    "miejscowosc": "Krzykawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzykawa",
+    "numer": "54",
+    "kod": "32-329",
+    "poczta": "Boles\u0142aw\r"
+  }
+]

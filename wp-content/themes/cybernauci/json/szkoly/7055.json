@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19648",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7055",
+    "miejscowosc": "Przem\u0119t",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  },
+  {
+    "id": "19649",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7055",
+    "miejscowosc": "Przem\u0119t",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  },
+  {
+    "id": "19650",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7055",
+    "miejscowosc": "Przem\u0119t",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  },
+  {
+    "id": "19651",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7055",
+    "miejscowosc": "Przem\u0119t",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ekonomiczne ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  },
+  {
+    "id": "19652",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7055",
+    "miejscowosc": "Przem\u0119t",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "64-234",
+    "poczta": "Przem\u0119t\r"
+  }
+]

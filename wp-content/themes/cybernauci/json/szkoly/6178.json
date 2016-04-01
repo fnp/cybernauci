@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17422",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6178",
+    "miejscowosc": "Solca Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Solca Wielka",
+    "numer": "58",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  },
+  {
+    "id": "17423",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6178",
+    "miejscowosc": "Solca Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Solca Wielka",
+    "numer": "58",
+    "kod": "95-035",
+    "poczta": "Ozork\u00f3w\r"
+  }
+]

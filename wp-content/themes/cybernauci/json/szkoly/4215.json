@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11806",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4215",
+    "miejscowosc": "Lekowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lekowo",
+    "numer": "44c",
+    "kod": "78-312",
+    "poczta": "Lekowo\r"
+  },
+  {
+    "id": "11808",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4215",
+    "miejscowosc": "Lekowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lekowo",
+    "numer": "44c",
+    "kod": "78-312",
+    "poczta": "Lekowo\r"
+  }
+]

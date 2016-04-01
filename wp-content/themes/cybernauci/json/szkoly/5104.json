@@ -1,0 +1,50 @@
+[
+  {
+    "id": "14103",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5104",
+    "miejscowosc": "Chodecz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wary\u0144skiego",
+    "numer": "20",
+    "kod": "87-860",
+    "poczta": "Chodecz\r"
+  },
+  {
+    "id": "14104",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5104",
+    "miejscowosc": "Chodecz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wary\u0144skiego",
+    "numer": "20",
+    "kod": "87-860",
+    "poczta": "Chodecz\r"
+  },
+  {
+    "id": "14105",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5104",
+    "miejscowosc": "Chodecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kaliska",
+    "numer": "9\/11",
+    "kod": "87-860",
+    "poczta": "Chodecz\r"
+  },
+  {
+    "id": "14106",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5104",
+    "miejscowosc": "Chodecz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych w Zespole",
+    "ulica": "Kaliska",
+    "numer": "9\/11",
+    "kod": "87-860",
+    "poczta": "Chodecz\r"
+  }
+]

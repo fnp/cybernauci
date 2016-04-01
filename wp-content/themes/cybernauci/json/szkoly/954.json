@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3461",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "954",
+    "miejscowosc": "Szyszk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. KEN ",
+    "ulica": "Szyszk\u00f3w",
+    "numer": "27A",
+    "kod": "23-423",
+    "poczta": "Potok G\u00f3rny\r"
+  },
+  {
+    "id": "3466",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "954",
+    "miejscowosc": "Szyszk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szyszk\u00f3w",
+    "numer": "27",
+    "kod": "23-423",
+    "poczta": "Potok G\u00f3rny\r"
+  }
+]

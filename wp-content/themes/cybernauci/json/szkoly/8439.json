@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23323",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8439",
+    "miejscowosc": "Chotcza-J\u00f3zef\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Gimnazjum",
+    "ulica": "Chotcza-J\u00f3zef\u00f3w",
+    "numer": "68",
+    "kod": "27-312",
+    "poczta": "Chotcza\r"
+  },
+  {
+    "id": "23324",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8439",
+    "miejscowosc": "Chotcza-J\u00f3zef\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Szko\u0142a Podstawowa",
+    "ulica": "Chotcza-J\u00f3zef\u00f3w",
+    "numer": "68",
+    "kod": "27-312",
+    "poczta": "Chotcza\r"
+  }
+]

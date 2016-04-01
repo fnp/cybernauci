@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11353",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4034",
+    "miejscowosc": "Golczewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "72-410",
+    "poczta": "Golczewo\r"
+  },
+  {
+    "id": "11354",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4034",
+    "miejscowosc": "Golczewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "72-410",
+    "poczta": "Golczewo\r"
+  },
+  {
+    "id": "11355",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4034",
+    "miejscowosc": "Golczewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "72-410",
+    "poczta": "Golczewo\r"
+  }
+]

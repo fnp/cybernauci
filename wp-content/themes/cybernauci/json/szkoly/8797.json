@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24126",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8797",
+    "miejscowosc": "Maszewo Du\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "09-400",
+    "poczta": "Maszewo Du\u017ce\r"
+  },
+  {
+    "id": "24127",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8797",
+    "miejscowosc": "Maszewo Du\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "09-400",
+    "poczta": "Maszewo Du\u017ce\r"
+  }
+]

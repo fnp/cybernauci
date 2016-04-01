@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3526",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "992",
+    "miejscowosc": "Paw\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "22-170",
+    "poczta": "Rejowiec Fabryczny\r"
+  },
+  {
+    "id": "3527",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "992",
+    "miejscowosc": "Paw\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "22-170",
+    "poczta": "Rejowiec Fabryczny\r"
+  }
+]

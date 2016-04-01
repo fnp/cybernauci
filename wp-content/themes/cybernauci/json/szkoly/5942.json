@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16897",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5942",
+    "miejscowosc": "Kodr\u0105b",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "97-512",
+    "poczta": "Kodr\u0105b\r"
+  },
+  {
+    "id": "16898",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5942",
+    "miejscowosc": "Kodr\u0105b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Le\u015bna",
+    "numer": "2",
+    "kod": "97-512",
+    "poczta": "Kodr\u0105b\r"
+  }
+]

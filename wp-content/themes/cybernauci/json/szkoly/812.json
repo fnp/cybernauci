@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1979",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "812",
+    "miejscowosc": "S\u00f3l",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Integracyjne Fundacji \"Elementarz\"",
+    "ulica": "Kiczora",
+    "numer": "297",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  },
+  {
+    "id": "1978",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "812",
+    "miejscowosc": "S\u00f3l",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Fundacji \"Elementarz\"",
+    "ulica": "Kiczora",
+    "numer": "297",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  },
+  {
+    "id": "1977",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "812",
+    "miejscowosc": "S\u00f3l",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "S\u00f3l",
+    "numer": "111",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  }
+]

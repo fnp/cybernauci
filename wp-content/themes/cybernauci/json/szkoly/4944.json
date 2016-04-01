@@ -1,0 +1,38 @@
+[
+  {
+    "id": "13799",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4944",
+    "miejscowosc": "Nadr\u00f3\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Nadr\u00f3\u017c",
+    "numer": "1",
+    "kod": "87-515",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "13794",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4944",
+    "miejscowosc": "Nadr\u00f3\u017c",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Zygmunta Padlewskiego",
+    "ulica": "Nadr\u00f3\u017c",
+    "numer": "56",
+    "kod": "87-515",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "13800",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4944",
+    "miejscowosc": "Nadr\u00f3\u017c",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nadr\u00f3\u017c",
+    "numer": "1",
+    "kod": "87-515",
+    "poczta": "Rogowo\r"
+  }
+]

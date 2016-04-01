@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10571",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3783",
+    "miejscowosc": "Zb\u00f3jna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "35",
+    "kod": "18-416",
+    "poczta": "Zb\u00f3jna\r"
+  },
+  {
+    "id": "10569",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3783",
+    "miejscowosc": "Zb\u00f3jna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "\u0141om\u017cy\u0144ska",
+    "numer": "35",
+    "kod": "18-416",
+    "poczta": "Zb\u00f3jna\r"
+  }
+]

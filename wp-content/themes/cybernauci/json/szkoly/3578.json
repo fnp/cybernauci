@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9785",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3578",
+    "miejscowosc": "Dobrzewino",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa z Przedszkolem",
+    "ulica": "Gda\u0144ska",
+    "numer": "23",
+    "kod": "80-209",
+    "poczta": "Chwaszczyno\r"
+  },
+  {
+    "id": "9787",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3578",
+    "miejscowosc": "Dobrzewino",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum ",
+    "ulica": "Gda\u0144ska",
+    "numer": "23",
+    "kod": "80-209",
+    "poczta": "Chwaszczyno\r"
+  }
+]

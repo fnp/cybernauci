@@ -1,0 +1,98 @@
+[
+  {
+    "id": "24366",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "13",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24368",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "28",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24360",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Krakowska",
+    "numer": "76",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24365",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Skowyry",
+    "numer": "41",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24362",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. Stanis\u0142awa Kostki",
+    "ulica": "Warszawska",
+    "numer": "45",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24367",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Al. Jana Paw\u0142a II",
+    "numer": "13",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24369",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Warszawska",
+    "numer": "28",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  },
+  {
+    "id": "24370",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8894",
+    "miejscowosc": "Przysucha",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Warszawska",
+    "numer": "28",
+    "kod": "26-400",
+    "poczta": "Przysucha\r"
+  }
+]

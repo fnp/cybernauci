@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11349",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4032",
+    "miejscowosc": "Dziwn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne \"Pomerania\"",
+    "ulica": "Mickiewicza",
+    "numer": "27 a",
+    "kod": "72-420",
+    "poczta": "Dziwn\u00f3w\r"
+  },
+  {
+    "id": "11350",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4032",
+    "miejscowosc": "Dziwn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Spo\u0142eczne",
+    "ulica": "Reymonta",
+    "numer": "8",
+    "kod": "72-420",
+    "poczta": "Dziwn\u00f3w\r"
+  },
+  {
+    "id": "11351",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4032",
+    "miejscowosc": "Dziwn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Spo\u0142eczne im. prof. Piotra Zaremby",
+    "ulica": "Reymonta",
+    "numer": "8",
+    "kod": "72-420",
+    "poczta": "Dziwn\u00f3w\r"
+  },
+  {
+    "id": "11348",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4032",
+    "miejscowosc": "Dziwn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 5-go Ko\u0142obrzeskiego Pu\u0142ku Piechoty",
+    "ulica": "Mickiewicza",
+    "numer": "27",
+    "kod": "72-420",
+    "poczta": "Dziwn\u00f3w\r"
+  }
+]

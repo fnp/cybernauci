@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24482",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8960",
+    "miejscowosc": "Natolin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Natolin",
+    "numer": "59",
+    "kod": "26-613",
+    "poczta": "Radom\r"
+  },
+  {
+    "id": "24483",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8960",
+    "miejscowosc": "Natolin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Natolin",
+    "numer": "59",
+    "kod": "26-613",
+    "poczta": "Radom\r"
+  }
+]

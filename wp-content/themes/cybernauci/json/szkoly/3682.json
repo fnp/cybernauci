@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10396",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3682",
+    "miejscowosc": "Bo\u0107ki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Dubie\u0144ska",
+    "numer": "4",
+    "kod": "17-111",
+    "poczta": "Bo\u0107ki\r"
+  },
+  {
+    "id": "10397",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3682",
+    "miejscowosc": "Bo\u0107ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dubie\u0144ska",
+    "numer": "4",
+    "kod": "17-111",
+    "poczta": "Bo\u0107ki\r"
+  }
+]

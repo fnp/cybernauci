@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16500",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5740",
+    "miejscowosc": "\u0141aguszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u0141aguszew",
+    "numer": "27A",
+    "kod": "99-414",
+    "poczta": "Kocierzew\r"
+  },
+  {
+    "id": "16502",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5740",
+    "miejscowosc": "\u0141aguszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141aguszew",
+    "numer": "27A",
+    "kod": "99-414",
+    "poczta": "Kocierzew\r"
+  }
+]

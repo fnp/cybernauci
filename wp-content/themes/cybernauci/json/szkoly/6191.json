@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17446",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6191",
+    "miejscowosc": "S\u0142owik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gda\u0144ska",
+    "numer": "42",
+    "kod": "95-100",
+    "poczta": "Zgierz\r"
+  },
+  {
+    "id": "17447",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6191",
+    "miejscowosc": "S\u0142owik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Przedszkolnymi",
+    "ulica": "Gda\u0144ska",
+    "numer": "42",
+    "kod": "95-100",
+    "poczta": "Zgierz\r"
+  }
+]

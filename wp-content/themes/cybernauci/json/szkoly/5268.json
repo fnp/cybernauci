@@ -1,0 +1,38 @@
+[
+  {
+    "id": "14922",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5268",
+    "miejscowosc": "Duszniki-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Mistrzostwa Sportowego",
+    "ulica": "Wybickiego",
+    "numer": "2A",
+    "kod": "57-340",
+    "poczta": "Duszniki-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14923",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5268",
+    "miejscowosc": "Duszniki-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi, Oddzia\u0142ami Sportowymi",
+    "ulica": "Wybickiego",
+    "numer": "2A",
+    "kod": "57-340",
+    "poczta": "Duszniki-Zdr\u00f3j\r"
+  },
+  {
+    "id": "14924",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5268",
+    "miejscowosc": "Duszniki-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi, Oddzia\u0142ami Sportowymi",
+    "ulica": "Sprzymierzonych",
+    "numer": "6",
+    "kod": "57-340",
+    "poczta": "Duszniki-Zdr\u00f3j\r"
+  }
+]

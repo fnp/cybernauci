@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3719",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1089",
+    "miejscowosc": "Krupe",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5 ",
+    "ulica": "Krupe",
+    "numer": "89",
+    "kod": "22-302",
+    "poczta": "Siennica Nadolna\r"
+  },
+  {
+    "id": "3720",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1089",
+    "miejscowosc": "Krupe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krupe",
+    "numer": "89",
+    "kod": "22-302",
+    "poczta": "Siennica Nadolna\r"
+  }
+]

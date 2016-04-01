@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4417",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1452",
+    "miejscowosc": "\u017byrzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "143\/1",
+    "kod": "24-103",
+    "poczta": "\u017byrzyn\r"
+  },
+  {
+    "id": "4414",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1452",
+    "miejscowosc": "\u017byrzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "143",
+    "kod": "24-103",
+    "poczta": "\u017byrzyn\r"
+  }
+]

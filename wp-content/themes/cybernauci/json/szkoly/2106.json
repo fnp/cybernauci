@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5978",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2106",
+    "miejscowosc": "Jawornik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jawornik",
+    "numer": "293",
+    "kod": "32-400",
+    "poczta": "My\u015blenice\r"
+  },
+  {
+    "id": "5961",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2106",
+    "miejscowosc": "Jawornik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. Makuszy\u0144skiego",
+    "ulica": "Jawornik",
+    "numer": "293",
+    "kod": "32-400",
+    "poczta": "My\u015blenice\r"
+  }
+]

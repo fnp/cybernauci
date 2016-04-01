@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14112",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5109",
+    "miejscowosc": "Nasiegniewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nasiegniewo",
+    "numer": "68",
+    "kod": "87-811",
+    "poczta": "Fabianki\r"
+  },
+  {
+    "id": "14113",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5109",
+    "miejscowosc": "Nasiegniewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nasiegniewo",
+    "numer": "68",
+    "kod": "87-811",
+    "poczta": "Fabianki\r"
+  }
+]

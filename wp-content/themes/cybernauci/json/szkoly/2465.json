@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6751",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2465",
+    "miejscowosc": "Lachowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Lachowice",
+    "numer": "232b",
+    "kod": "34-232",
+    "poczta": "Lachowice\r"
+  },
+  {
+    "id": "6752",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2465",
+    "miejscowosc": "Lachowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lachowice",
+    "numer": "392",
+    "kod": "34-232",
+    "poczta": "Lachowice\r"
+  }
+]

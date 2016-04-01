@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8184",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2929",
+    "miejscowosc": "Stadnicka Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Armii Krajowej ",
+    "ulica": "Stadnicka Wola",
+    "numer": "55",
+    "kod": "26-200",
+    "poczta": "Ko\u0144skie\r"
+  },
+  {
+    "id": "8185",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2929",
+    "miejscowosc": "Stadnicka Wola",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Armii Krajowej ",
+    "ulica": "Stadnicka Wola",
+    "numer": "55",
+    "kod": "26-200",
+    "poczta": "Ko\u0144skie\r"
+  }
+]

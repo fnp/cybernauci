@@ -1,0 +1,26 @@
+[
+  {
+    "id": "32",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "11",
+    "miejscowosc": "J\u0119drzej\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "J\u0119drzej\u00f3w",
+    "numer": "63",
+    "kod": "49-200",
+    "poczta": "Grodk\u00f3w\r"
+  },
+  {
+    "id": "33",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "11",
+    "miejscowosc": "J\u0119drzej\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "J\u0119drzej\u00f3w",
+    "numer": "63",
+    "kod": "49-200",
+    "poczta": "Grodk\u00f3w\r"
+  }
+]

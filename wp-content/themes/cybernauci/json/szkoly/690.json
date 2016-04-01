@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1561",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "690",
+    "miejscowosc": "Lyski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. mjr. pilota Antoniego Tomiczka",
+    "ulica": "Dworcowa",
+    "numer": "4",
+    "kod": "44-295",
+    "poczta": "Lyski\r"
+  },
+  {
+    "id": "1562",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "690",
+    "miejscowosc": "Lyski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana III Sobieskiego",
+    "ulica": "Dworcowa",
+    "numer": "4",
+    "kod": "44-295",
+    "poczta": "Lyski\r"
+  }
+]

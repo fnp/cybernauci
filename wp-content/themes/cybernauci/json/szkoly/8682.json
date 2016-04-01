@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23854",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8682",
+    "miejscowosc": "Komorowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mazowiecka",
+    "numer": "81",
+    "kod": "07-310",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "25074",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8682",
+    "miejscowosc": "Komorowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego",
+    "ulica": "Komorow",
+    "numer": "34",
+    "kod": "07-205",
+    "poczta": "Rz\u0105\u015bnik\r"
+  },
+  {
+    "id": "23855",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8682",
+    "miejscowosc": "Komorowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Mazowiecka",
+    "numer": "81",
+    "kod": "07-310",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  }
+]

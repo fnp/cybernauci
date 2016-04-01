@@ -1,0 +1,86 @@
+[
+  {
+    "id": "15579",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15577",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Miejska Szko\u0142a Podstawowa",
+    "ulica": "Sienkiewicza",
+    "numer": "32",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15582",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "5",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15583",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "5",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15578",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Boczna",
+    "numer": "1",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15580",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  },
+  {
+    "id": "15581",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5510",
+    "miejscowosc": "Szczawno-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kolejowa",
+    "numer": "2",
+    "kod": "58-310",
+    "poczta": "Szczawno-Zdr\u00f3j\r"
+  }
+]

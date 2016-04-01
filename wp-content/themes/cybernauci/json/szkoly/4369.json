@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12445",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4369",
+    "miejscowosc": "Franciszkowo",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa ",
+    "ulica": "Franciszkowo",
+    "numer": "18",
+    "kod": "14-200",
+    "poczta": "I\u0142awa\r"
+  },
+  {
+    "id": "12450",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4369",
+    "miejscowosc": "Franciszkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum ",
+    "ulica": "Franciszkowo",
+    "numer": "18",
+    "kod": "14-200",
+    "poczta": "I\u0142awa\r"
+  }
+]

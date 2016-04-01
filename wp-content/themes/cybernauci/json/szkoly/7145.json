@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20236",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7145",
+    "miejscowosc": "Santok",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Gralewska",
+    "numer": "9",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  },
+  {
+    "id": "20237",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7145",
+    "miejscowosc": "Santok",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gralewska",
+    "numer": "9",
+    "kod": "66-431",
+    "poczta": "Santok\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23870",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8693",
+    "miejscowosc": "Zar\u0119by Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Farna",
+    "numer": "20",
+    "kod": "07-323",
+    "poczta": "Zar\u0119by Ko\u015bcielne\r"
+  },
+  {
+    "id": "23871",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8693",
+    "miejscowosc": "Zar\u0119by Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Farna",
+    "numer": "20",
+    "kod": "07-323",
+    "poczta": "Zar\u0119by Ko\u015bcielne\r"
+  }
+]

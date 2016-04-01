@@ -1,0 +1,122 @@
+[
+  {
+    "id": "8232",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "\u0106mielowska",
+    "numer": "2",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8234",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Kopernika",
+    "numer": "30",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8236",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0142owackiego",
+    "numer": "56",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8239",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sempo\u0142owskiej",
+    "numer": "1",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8230",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8231",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum",
+    "ulica": "Marii Konopnickiej",
+    "numer": "2",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8233",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "\u0106mielowska",
+    "numer": "2",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8235",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Kopernika",
+    "numer": "30",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8237",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "S\u0142owackiego",
+    "numer": "56",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  },
+  {
+    "id": "8238",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2960",
+    "miejscowosc": "Opat\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "S\u0142owackiego",
+    "numer": "56",
+    "kod": "27-500",
+    "poczta": "Opat\u00f3w\r"
+  }
+]

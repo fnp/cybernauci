@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21453",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7646",
+    "miejscowosc": "Wietrzno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wietrzno",
+    "numer": "22a",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  },
+  {
+    "id": "21449",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7646",
+    "miejscowosc": "Wietrzno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wietrzno",
+    "numer": "22A",
+    "kod": "38-451",
+    "poczta": "R\u00f3wne\r"
+  }
+]

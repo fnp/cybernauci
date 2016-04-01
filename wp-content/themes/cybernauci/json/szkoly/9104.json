@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24754",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9104",
+    "miejscowosc": "Kos\u00f3w Lacki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Armii Krajowej",
+    "numer": "6",
+    "kod": "08-330",
+    "poczta": "Kos\u00f3w Lacki\r"
+  },
+  {
+    "id": "24755",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9104",
+    "miejscowosc": "Kos\u00f3w Lacki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Or\u0142a Bia\u0142ego",
+    "ulica": "Armii Krajowej",
+    "numer": "6",
+    "kod": "08-330",
+    "poczta": "Kos\u00f3w Lacki\r"
+  },
+  {
+    "id": "24752",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9104",
+    "miejscowosc": "Kos\u00f3w Lacki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "08-330",
+    "poczta": "Kos\u00f3w Lacki\r"
+  },
+  {
+    "id": "24756",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9104",
+    "miejscowosc": "Kos\u00f3w Lacki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Krajowej",
+    "numer": "6",
+    "kod": "08-330",
+    "poczta": "Kos\u00f3w Lacki\r"
+  }
+]

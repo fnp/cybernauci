@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8845",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3176",
+    "miejscowosc": "Lubkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141odzierz",
+    "numer": "11",
+    "kod": "77-200",
+    "poczta": "Miastko\r"
+  },
+  {
+    "id": "8846",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3176",
+    "miejscowosc": "Lubkowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141odzierz",
+    "numer": "11",
+    "kod": "77-200",
+    "poczta": "Miastko\r"
+  }
+]

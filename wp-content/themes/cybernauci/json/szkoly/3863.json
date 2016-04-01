@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10737",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3863",
+    "miejscowosc": "Rutka-Tartak",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "16-406",
+    "poczta": "Rutka-Tartak\r"
+  },
+  {
+    "id": "10738",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3863",
+    "miejscowosc": "Rutka-Tartak",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "16-406",
+    "poczta": "Rutka-Tartak\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10410",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3692",
+    "miejscowosc": "Rudka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "17-123",
+    "poczta": "Rudka\r"
+  },
+  {
+    "id": "10411",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3692",
+    "miejscowosc": "Rudka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "17-123",
+    "poczta": "Rudka\r"
+  },
+  {
+    "id": "10408",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3692",
+    "miejscowosc": "Rudka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ossoli\u0144skich",
+    "numer": "1",
+    "kod": "17-123",
+    "poczta": "Rudka\r"
+  },
+  {
+    "id": "10409",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3692",
+    "miejscowosc": "Rudka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Ossoli\u0144skich",
+    "numer": "1",
+    "kod": "17-123",
+    "poczta": "Rudka\r"
+  }
+]

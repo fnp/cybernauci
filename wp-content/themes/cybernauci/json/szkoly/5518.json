@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15598",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5518",
+    "miejscowosc": "Stare Bogaczowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "172a",
+    "kod": "58-312",
+    "poczta": "Stare Bogaczowice\r"
+  },
+  {
+    "id": "15599",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5518",
+    "miejscowosc": "Stare Bogaczowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "172a",
+    "kod": "58-312",
+    "poczta": "Stare Bogaczowice\r"
+  }
+]

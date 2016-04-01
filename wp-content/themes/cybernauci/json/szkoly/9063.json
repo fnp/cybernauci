@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24651",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9063",
+    "miejscowosc": "Szczutowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "Lipowa",
+    "numer": "2",
+    "kod": "09-227",
+    "poczta": "Szczutowo\r"
+  },
+  {
+    "id": "24650",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9063",
+    "miejscowosc": "Szczutowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa St. Reymonta",
+    "ulica": "Lipowa",
+    "numer": "2",
+    "kod": "09-227",
+    "poczta": "Szczutowo\r"
+  }
+]

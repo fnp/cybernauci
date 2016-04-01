@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24480",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8959",
+    "miejscowosc": "My\u015bliszewice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "My\u015bliszewice",
+    "numer": "15",
+    "kod": "26-630",
+    "poczta": "Jedlnia-Letnisko\r"
+  },
+  {
+    "id": "24481",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8959",
+    "miejscowosc": "My\u015bliszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "My\u015bliszewice",
+    "numer": "15",
+    "kod": "26-630",
+    "poczta": "Jedlnia-Letnisko\r"
+  }
+]

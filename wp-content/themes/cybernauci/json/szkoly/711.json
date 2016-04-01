@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1648",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "711",
+    "miejscowosc": "Wojska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zak\u0142adowa",
+    "numer": "8",
+    "kod": "42-690",
+    "poczta": "Twor\u00f3g\r"
+  },
+  {
+    "id": "1649",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "711",
+    "miejscowosc": "Wojska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "42-690",
+    "poczta": "Twor\u00f3g\r"
+  }
+]

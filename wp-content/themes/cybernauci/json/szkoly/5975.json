@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17209",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5975",
+    "miejscowosc": "Konopnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "98-313",
+    "poczta": "Konopnica\r"
+  },
+  {
+    "id": "17207",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5975",
+    "miejscowosc": "Konopnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "98-313",
+    "poczta": "Konopnica\r"
+  },
+  {
+    "id": "16964",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5975",
+    "miejscowosc": "Konopnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Konopnica",
+    "numer": "76",
+    "kod": "96-200",
+    "poczta": "Rawa Mazowiecka\r"
+  }
+]

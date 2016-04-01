@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8645",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3131",
+    "miejscowosc": "Dobromierz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Przedszkolno-Szkolnym",
+    "ulica": "W\u0142oszczowska",
+    "numer": "5",
+    "kod": "29-120",
+    "poczta": "Kluczewsko\r"
+  },
+  {
+    "id": "8643",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3131",
+    "miejscowosc": "Dobromierz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "W\u0142oszczowska",
+    "numer": "5a",
+    "kod": "29-120",
+    "poczta": "Kluczewsko\r"
+  }
+]

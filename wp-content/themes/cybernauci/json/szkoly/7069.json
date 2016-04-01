@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19677",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7069",
+    "miejscowosc": "K\u0119b\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Strady\u0144ska",
+    "numer": "15a",
+    "kod": "64-223",
+    "poczta": "K\u0119b\u0142owo\r"
+  },
+  {
+    "id": "19680",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7069",
+    "miejscowosc": "K\u0119b\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wolszty\u0144ska",
+    "numer": "19",
+    "kod": "64-223",
+    "poczta": "K\u0119b\u0142owo\r"
+  }
+]

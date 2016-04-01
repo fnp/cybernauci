@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23010",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8296",
+    "miejscowosc": "Tr\u0105bki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Juliana Tuwima",
+    "ulica": "Osadnicza",
+    "numer": "4",
+    "kod": "08-440",
+    "poczta": "Pilawa\r"
+  },
+  {
+    "id": "23012",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8296",
+    "miejscowosc": "Tr\u0105bki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osadnicza",
+    "numer": "4",
+    "kod": "08-440",
+    "poczta": "Pilawa\r"
+  }
+]

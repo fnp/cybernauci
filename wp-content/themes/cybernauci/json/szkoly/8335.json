@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23100",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8335",
+    "miejscowosc": "Baran\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Armii Krajowej",
+    "numer": "49",
+    "kod": "96-314",
+    "poczta": "Baran\u00f3w\r"
+  },
+  {
+    "id": "23101",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8335",
+    "miejscowosc": "Baran\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Armii Krajowej",
+    "numer": "49",
+    "kod": "96-314",
+    "poczta": "Baran\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9472",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3457",
+    "miejscowosc": "Damnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Marii Konopnickiej",
+    "numer": "1",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  },
+  {
+    "id": "9473",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3457",
+    "miejscowosc": "Damnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Marii Konopnickiej",
+    "numer": "1",
+    "kod": "76-231",
+    "poczta": "Damnica\r"
+  }
+]

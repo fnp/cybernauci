@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9228",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3359",
+    "miejscowosc": "Stare Polaszki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Stare Polaszki",
+    "numer": "33",
+    "kod": "83-430",
+    "poczta": "Stara Kiszewa\r"
+  },
+  {
+    "id": "9229",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3359",
+    "miejscowosc": "Stare Polaszki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stare Polaszki",
+    "numer": "33",
+    "kod": "83-430",
+    "poczta": "Stara Kiszewa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17165",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6066",
+    "miejscowosc": "Czerniewice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mazowiecka",
+    "numer": "88",
+    "kod": "97-216",
+    "poczta": "Czerniewice\r"
+  },
+  {
+    "id": "17167",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6066",
+    "miejscowosc": "Czerniewice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mazowiecka",
+    "numer": "88",
+    "kod": "97-216",
+    "poczta": "Czerniewice\r"
+  }
+]

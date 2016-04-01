@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15316",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5418",
+    "miejscowosc": "Bystrzyca",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "45",
+    "kod": "55-200",
+    "poczta": "O\u0142awa\r"
+  },
+  {
+    "id": "15317",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5418",
+    "miejscowosc": "Bystrzyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "45",
+    "kod": "55-200",
+    "poczta": "O\u0142awa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5637",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1942",
+    "miejscowosc": "Piekary",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Centrum Edukacyjnym \"Radosna Nowina 2000\"",
+    "ulica": "Piekary",
+    "numer": "2",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  },
+  {
+    "id": "5634",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1942",
+    "miejscowosc": "Piekary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piekary",
+    "numer": "100",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  }
+]

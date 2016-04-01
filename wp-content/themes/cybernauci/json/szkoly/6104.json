@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17225",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6104",
+    "miejscowosc": "Ostr\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ostr\u00f3wek",
+    "numer": "94",
+    "kod": "98-311",
+    "poczta": "Ostr\u00f3wek\r"
+  },
+  {
+    "id": "17223",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6104",
+    "miejscowosc": "Ostr\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3wek",
+    "numer": "95",
+    "kod": "98-311",
+    "poczta": "Ostr\u00f3wek\r"
+  },
+  {
+    "id": "17280",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6104",
+    "miejscowosc": "Ostr\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3wek",
+    "numer": "15",
+    "kod": "98-405",
+    "poczta": "Galewice\r"
+  }
+]

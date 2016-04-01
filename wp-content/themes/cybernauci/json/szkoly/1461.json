@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4435",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1461",
+    "miejscowosc": "Czemierniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. hm. M. S. Lisowskiego",
+    "ulica": "Kocka",
+    "numer": "45",
+    "kod": "21-306",
+    "poczta": "Czemierniki\r"
+  },
+  {
+    "id": "4434",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1461",
+    "miejscowosc": "Czemierniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Kocka",
+    "numer": "45",
+    "kod": "21-306",
+    "poczta": "Czemierniki\r"
+  }
+]

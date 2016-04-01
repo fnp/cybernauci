@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12346",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4333",
+    "miejscowosc": "Nowa Wie\u015b E\u0142cka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "5",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  },
+  {
+    "id": "12348",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4333",
+    "miejscowosc": "Nowa Wie\u015b E\u0142cka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy ",
+    "ulica": "E\u0142cka",
+    "numer": "18",
+    "kod": "19-300",
+    "poczta": "E\u0142k\r"
+  }
+]

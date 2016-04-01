@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19385",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6939",
+    "miejscowosc": "Gaj Ma\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Gaj Ma\u0142y",
+    "numer": "32",
+    "kod": "64-520",
+    "poczta": "Obrzycko\r"
+  },
+  {
+    "id": "19386",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6939",
+    "miejscowosc": "Gaj Ma\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Gaj Ma\u0142y",
+    "numer": "32",
+    "kod": "64-520",
+    "poczta": "Obrzycko\r"
+  }
+]

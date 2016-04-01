@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24825",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9140",
+    "miejscowosc": "Izabelin C",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "49",
+    "kod": "05-080",
+    "poczta": "Izabelin\r"
+  },
+  {
+    "id": "24826",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9140",
+    "miejscowosc": "Izabelin C",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "49",
+    "kod": "05-080",
+    "poczta": "Izabelin\r"
+  }
+]

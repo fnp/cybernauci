@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1662",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "719",
+    "miejscowosc": "Wieszowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bytomska",
+    "numer": "62",
+    "kod": "42-672",
+    "poczta": "Wieszowa\r"
+  },
+  {
+    "id": "1663",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "719",
+    "miejscowosc": "Wieszowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bytomska",
+    "numer": "62",
+    "kod": "42-672",
+    "poczta": "Wieszowa\r"
+  }
+]

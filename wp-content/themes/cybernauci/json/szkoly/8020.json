@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22197",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8020",
+    "miejscowosc": "Bach\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bach\u00f3rz",
+    "numer": "187",
+    "kod": "36-068",
+    "poczta": "Bach\u00f3rz\r"
+  },
+  {
+    "id": "22198",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8020",
+    "miejscowosc": "Bach\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bach\u00f3rz",
+    "numer": "187",
+    "kod": "36-068",
+    "poczta": "Bach\u00f3rz\r"
+  }
+]

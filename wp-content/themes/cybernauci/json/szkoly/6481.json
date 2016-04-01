@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18427",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6481",
+    "miejscowosc": "D\u0119by Szlacheckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0119by Szlacheckie",
+    "numer": "54",
+    "kod": "62-613",
+    "poczta": "Osiek Ma\u0142y\r"
+  },
+  {
+    "id": "18428",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6481",
+    "miejscowosc": "D\u0119by Szlacheckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119by Szlacheckie",
+    "numer": "54",
+    "kod": "62-613",
+    "poczta": "Osiek Ma\u0142y\r"
+  },
+  {
+    "id": "18429",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6481",
+    "miejscowosc": "D\u0119by Szlacheckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna ",
+    "ulica": "Le\u015bna",
+    "numer": "4",
+    "kod": "62-613",
+    "poczta": "Osiek Ma\u0142y\r"
+  }
+]

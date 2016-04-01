@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14138",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5126",
+    "miejscowosc": "K\u0142obia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "K\u0142obia",
+    "numer": "29",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  },
+  {
+    "id": "14139",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5126",
+    "miejscowosc": "K\u0142obia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "K\u0142obia",
+    "numer": "29",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  }
+]

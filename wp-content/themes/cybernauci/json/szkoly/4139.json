@@ -1,0 +1,86 @@
+[
+  {
+    "id": "11604",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Stefana \u017beromskiego",
+    "ulica": "Chopina",
+    "numer": "4",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11603",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Miejskie Gimnazjum im. Stanis\u0142awa Dulewicza",
+    "ulica": "Franciszka\u0144ska",
+    "numer": "2",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11607",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa Spo\u0142ecznego Towarzystwa O\u015bwiatowego",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "1",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11608",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum Spo\u0142ecznego Towarzystwa O\u015bwiatowego ",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "1",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11602",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "WOP",
+    "numer": "12",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11606",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Morskie",
+    "ulica": "Szpitalna",
+    "numer": "1",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  },
+  {
+    "id": "11605",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4139",
+    "miejscowosc": "Dar\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Chopina",
+    "numer": "4",
+    "kod": "76-150",
+    "poczta": "Dar\u0142owo\r"
+  }
+]

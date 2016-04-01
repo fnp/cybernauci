@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19060",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6781",
+    "miejscowosc": "Osiek nad Noteci\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "58",
+    "kod": "89-333",
+    "poczta": "Osiek nad Noteci\u0105\r"
+  },
+  {
+    "id": "19057",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6781",
+    "miejscowosc": "Osiek nad Noteci\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "89-333",
+    "poczta": "Osiek nad Noteci\u0105\r"
+  }
+]

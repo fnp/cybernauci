@@ -1,0 +1,26 @@
+[
+  {
+    "id": "141",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "54",
+    "miejscowosc": "Paw\u0142owiczki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Korfantego",
+    "numer": "3",
+    "kod": "47-280",
+    "poczta": "Paw\u0142owiczki\r"
+  },
+  {
+    "id": "142",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "54",
+    "miejscowosc": "Paw\u0142owiczki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Korfantego",
+    "numer": "3",
+    "kod": "47-280",
+    "poczta": "Paw\u0142owiczki\r"
+  }
+]

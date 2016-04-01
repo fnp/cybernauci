@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7109",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2630",
+    "miejscowosc": "Lanckorona",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lanckorona",
+    "numer": "504",
+    "kod": "34-143",
+    "poczta": "Lanckorona\r"
+  },
+  {
+    "id": "7110",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2630",
+    "miejscowosc": "Lanckorona",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lanckorona",
+    "numer": "504",
+    "kod": "34-143",
+    "poczta": "Lanckorona\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21723",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7775",
+    "miejscowosc": "Markowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Markowa",
+    "numer": "1351",
+    "kod": "37-120",
+    "poczta": "Markowa\r"
+  },
+  {
+    "id": "21724",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7775",
+    "miejscowosc": "Markowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Markowa",
+    "numer": "1351",
+    "kod": "37-120",
+    "poczta": "Markowa\r"
+  },
+  {
+    "id": "21725",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7775",
+    "miejscowosc": "Markowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna Nr 1",
+    "ulica": "Markowa",
+    "numer": "1685",
+    "kod": "37-120",
+    "poczta": "Markowa\r"
+  }
+]

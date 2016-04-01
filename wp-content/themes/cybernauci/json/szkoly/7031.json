@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19603",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "gimnazjum",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  },
+  {
+    "id": "19602",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  },
+  {
+    "id": "19604",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Liceum Profilowane",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  },
+  {
+    "id": "19605",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "podstawowa",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  },
+  {
+    "id": "19606",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Technikum",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  },
+  {
+    "id": "19607",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7031",
+    "miejscowosc": "Damas\u0142awek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "ZSP im. Pierwszych Piast\u00f3w Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "4",
+    "kod": "62-110",
+    "poczta": "Damas\u0142awek\r"
+  }
+]

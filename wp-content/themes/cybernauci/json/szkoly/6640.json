@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18727",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6640",
+    "miejscowosc": "Bolewice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "24 A",
+    "kod": "64-305",
+    "poczta": "Bolewice\r"
+  },
+  {
+    "id": "18728",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6640",
+    "miejscowosc": "Bolewice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Arkadego Fiedlera",
+    "ulica": "Sportowa",
+    "numer": "24 A",
+    "kod": "64-305",
+    "poczta": "Bolewice\r"
+  }
+]

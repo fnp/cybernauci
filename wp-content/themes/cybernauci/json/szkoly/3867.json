@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10743",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3867",
+    "miejscowosc": "Przebr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "15",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  },
+  {
+    "id": "10744",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3867",
+    "miejscowosc": "Przebr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "15",
+    "kod": "16-402",
+    "poczta": "Suwa\u0142ki\r"
+  }
+]

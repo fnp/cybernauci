@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5534",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1874",
+    "miejscowosc": "S\u0119kowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0119kowa",
+    "numer": "152",
+    "kod": "38-307",
+    "poczta": "S\u0119kowa\r"
+  },
+  {
+    "id": "5535",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1874",
+    "miejscowosc": "S\u0119kowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0119kowa",
+    "numer": "152",
+    "kod": "38-307",
+    "poczta": "S\u0119kowa\r"
+  }
+]

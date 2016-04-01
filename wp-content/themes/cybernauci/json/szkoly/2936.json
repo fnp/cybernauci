@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8193",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2936",
+    "miejscowosc": "Ruda Maleniecka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Stefana \u017beromskiego",
+    "ulica": "Ruda Maleniecka",
+    "numer": "105",
+    "kod": "26-242",
+    "poczta": "Ruda Maleniecka\r"
+  },
+  {
+    "id": "8195",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2936",
+    "miejscowosc": "Ruda Maleniecka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Franciszka Staffa ",
+    "ulica": "Ruda Maleniecka",
+    "numer": "105",
+    "kod": "26-242",
+    "poczta": "Ruda Maleniecka\r"
+  }
+]

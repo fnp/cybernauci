@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12611",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4445",
+    "miejscowosc": "Janowiec Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Janowiec Ko\u015bcielny",
+    "numer": "61",
+    "kod": "13-111",
+    "poczta": "Janowiec Ko\u015bcielny\r"
+  },
+  {
+    "id": "12612",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4445",
+    "miejscowosc": "Janowiec Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Janowiec Ko\u015bcielny",
+    "numer": "61",
+    "kod": "13-111",
+    "poczta": "Janowiec Ko\u015bcielny\r"
+  }
+]

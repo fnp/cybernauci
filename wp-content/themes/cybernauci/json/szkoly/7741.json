@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21644",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7741",
+    "miejscowosc": "Ruda R\u00f3\u017caniecka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ruda R\u00f3\u017caniecka",
+    "numer": "180",
+    "kod": "37-613",
+    "poczta": "Ruda R\u00f3\u017caniecksa\r"
+  },
+  {
+    "id": "21645",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7741",
+    "miejscowosc": "Ruda R\u00f3\u017caniecka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. kpt. W\u0142adys\u0142awa Wa\u017cnego",
+    "ulica": "Ruda R\u00f3\u017caniecka",
+    "numer": "180",
+    "kod": "37-613",
+    "poczta": "Ruda R\u00f3\u017caniecksa\r"
+  }
+]

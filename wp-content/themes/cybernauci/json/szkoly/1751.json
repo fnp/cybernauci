@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5263",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1751",
+    "miejscowosc": "D\u0119bno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bno",
+    "numer": "212",
+    "kod": "32-852",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "6378",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1751",
+    "miejscowosc": "D\u0119bno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "34-434",
+    "poczta": "D\u0119bno\r"
+  }
+]

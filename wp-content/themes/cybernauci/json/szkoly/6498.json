@@ -1,0 +1,50 @@
+[
+  {
+    "id": "18451",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6498",
+    "miejscowosc": "Kleczew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich",
+    "ulica": "Warszawska",
+    "numer": "31",
+    "kod": "62-540",
+    "poczta": "Kleczew\r"
+  },
+  {
+    "id": "18454",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6498",
+    "miejscowosc": "Kleczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pl. J. Pi\u0142sudskiego",
+    "numer": "13",
+    "kod": "62-540",
+    "poczta": "Kleczew\r"
+  },
+  {
+    "id": "18452",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6498",
+    "miejscowosc": "Kleczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015bw. Kingi",
+    "numer": "7",
+    "kod": "62-540",
+    "poczta": "Kleczew\r"
+  },
+  {
+    "id": "18455",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6498",
+    "miejscowosc": "Kleczew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum dla m\u0142odzie\u017cy",
+    "ulica": "Pl. J. Pi\u0142sudskiego",
+    "numer": "13",
+    "kod": "62-540",
+    "poczta": "Kleczew\r"
+  }
+]

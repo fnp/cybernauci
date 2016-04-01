@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24652",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9064",
+    "miejscowosc": "G\u00f3jsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipnowska",
+    "numer": "3b",
+    "kod": "09-227",
+    "poczta": "Szczutowo\r"
+  },
+  {
+    "id": "24653",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9064",
+    "miejscowosc": "G\u00f3jsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipnowska",
+    "numer": "3b",
+    "kod": "09-227",
+    "poczta": "Szczutowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6077",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2158",
+    "miejscowosc": "Trzetrzewina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Trzetrzewina",
+    "numer": "193",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  },
+  {
+    "id": "6078",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2158",
+    "miejscowosc": "Trzetrzewina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Trzetrzewina",
+    "numer": "193",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  }
+]

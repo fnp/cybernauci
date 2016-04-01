@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5813",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2028",
+    "miejscowosc": "Szczawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szczawa",
+    "numer": "167",
+    "kod": "34-607",
+    "poczta": "Szczawa\r"
+  },
+  {
+    "id": "5814",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2028",
+    "miejscowosc": "Szczawa",
+    "typ": "podstawowa",
+    "nazwa": "SZKO\u0141A PODSTAWOWA Nr 1",
+    "ulica": "Szczawa",
+    "numer": "167",
+    "kod": "34-607",
+    "poczta": "Szczawa\r"
+  },
+  {
+    "id": "5809",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2028",
+    "miejscowosc": "Szczawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. M. Kopernika ",
+    "ulica": "Szczawa",
+    "numer": "290",
+    "kod": "34-607",
+    "poczta": "Szczawa\r"
+  }
+]

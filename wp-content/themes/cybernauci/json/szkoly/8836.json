@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24211",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8836",
+    "miejscowosc": "Sochocin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Or\u0142a Bia\u0142ego",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "09-110",
+    "poczta": "Sochocin\r"
+  },
+  {
+    "id": "24212",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8836",
+    "miejscowosc": "Sochocin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. H. Sucharskiego",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "09-110",
+    "poczta": "Sochocin\r"
+  }
+]

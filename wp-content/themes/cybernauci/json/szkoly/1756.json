@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5274",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1756",
+    "miejscowosc": "Gnojnik",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Gnojnik",
+    "numer": "336",
+    "kod": "32-864",
+    "poczta": "Gnojnik\r"
+  },
+  {
+    "id": "5277",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1756",
+    "miejscowosc": "Gnojnik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gnojnik",
+    "numer": "336",
+    "kod": "32-864",
+    "poczta": "Gnojnik\r"
+  }
+]

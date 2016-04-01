@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22261",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8053",
+    "miejscowosc": "Trzebuska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi w Zespole Szk\u00f3\u0142 im. \u015bw. Jadwigi Kr\u00f3lowej",
+    "ulica": "",
+    "numer": "196",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22262",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8053",
+    "miejscowosc": "Trzebuska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. \u015bw. Jadwigi Kr\u00f3lowej",
+    "ulica": "Trzebuska",
+    "numer": "196",
+    "kod": "36-050",
+    "poczta": "Soko\u0142\u00f3w Ma\u0142opolski\r"
+  }
+]

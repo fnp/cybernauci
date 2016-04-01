@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7097",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2625",
+    "miejscowosc": "Barwa\u0142d G\u00f3rny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 5",
+    "ulica": "Barwa\u0142d G\u00f3rny",
+    "numer": "213",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7098",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2625",
+    "miejscowosc": "Barwa\u0142d G\u00f3rny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Barwa\u0142d G\u00f3rny",
+    "numer": "213",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  }
+]

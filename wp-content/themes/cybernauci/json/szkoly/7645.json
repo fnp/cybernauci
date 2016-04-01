@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21452",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7645",
+    "miejscowosc": "Iwla",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum prowadzone przez Stowarzyszenie Rozwoju Szko\u0142y \"Perfectus\"",
+    "ulica": "Iwla",
+    "numer": "22",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  },
+  {
+    "id": "21448",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7645",
+    "miejscowosc": "Iwla",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Iwla",
+    "numer": "22",
+    "kod": "38-450",
+    "poczta": "Dukla\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "15322",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5421",
+    "miejscowosc": "Chocian\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Odkrywc\u00f3w Polskiej Miedzi",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "59-140",
+    "poczta": "Chocian\u00f3w\r"
+  },
+  {
+    "id": "15323",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5421",
+    "miejscowosc": "Chocian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolonialna",
+    "numer": "13",
+    "kod": "59-140",
+    "poczta": "Chocian\u00f3w\r"
+  },
+  {
+    "id": "15320",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5421",
+    "miejscowosc": "Chocian\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Weso\u0142a",
+    "numer": "16",
+    "kod": "59-140",
+    "poczta": "Chocian\u00f3w\r"
+  },
+  {
+    "id": "15324",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5421",
+    "miejscowosc": "Chocian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kolonialna",
+    "numer": "13",
+    "kod": "59-140",
+    "poczta": "Chocian\u00f3w\r"
+  },
+  {
+    "id": "15325",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5421",
+    "miejscowosc": "Chocian\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kolonialna",
+    "numer": "13",
+    "kod": "59-140",
+    "poczta": "Chocian\u00f3w\r"
+  }
+]

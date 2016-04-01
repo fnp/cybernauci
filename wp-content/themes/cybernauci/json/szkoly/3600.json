@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9818",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3600",
+    "miejscowosc": "Stary Targ",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015awierczewskiego",
+    "numer": "37A",
+    "kod": "82-410",
+    "poczta": "Stary Targ\r"
+  },
+  {
+    "id": "9819",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3600",
+    "miejscowosc": "Stary Targ",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awierczewskiego",
+    "numer": "37A",
+    "kod": "82-410",
+    "poczta": "Stary Targ\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24599",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9038",
+    "miejscowosc": "Seroczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "11",
+    "kod": "08-116",
+    "poczta": "Seroczyn\r"
+  },
+  {
+    "id": "24600",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9038",
+    "miejscowosc": "Seroczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "11",
+    "kod": "08-116",
+    "poczta": "Seroczyn\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19034",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Z\u0142otowska",
+    "numer": "14",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  },
+  {
+    "id": "19033",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "A. Mickiewicza",
+    "numer": "20a",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  },
+  {
+    "id": "19036",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole",
+    "ulica": "Z\u0142otowska",
+    "numer": "15",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  },
+  {
+    "id": "19032",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Sikorskiego",
+    "numer": "3",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  },
+  {
+    "id": "19037",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole",
+    "ulica": "Z\u0142otowska",
+    "numer": "15",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  },
+  {
+    "id": "19035",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6768",
+    "miejscowosc": "\u0141ob\u017cenica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Z\u0142otowska",
+    "numer": "14",
+    "kod": "89-310",
+    "poczta": "\u0141ob\u017cenica\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22117",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7974",
+    "miejscowosc": "Lubzina",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubzina",
+    "numer": "188",
+    "kod": "39-102",
+    "poczta": "Lubzina\r"
+  },
+  {
+    "id": "22118",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7974",
+    "miejscowosc": "Lubzina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubzina",
+    "numer": "188",
+    "kod": "39-102",
+    "poczta": "Lubzina\r"
+  }
+]

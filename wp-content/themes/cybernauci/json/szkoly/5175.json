@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14672",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5175",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "26a",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  },
+  {
+    "id": "14673",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5175",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "26a",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  }
+]

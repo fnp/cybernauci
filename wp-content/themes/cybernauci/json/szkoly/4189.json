@@ -1,0 +1,110 @@
+[
+  {
+    "id": "11752",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Dworcowa",
+    "numer": "19",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11756",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u017bymierskiego",
+    "numer": "27",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11747",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Dworcowa",
+    "numer": "25",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11748",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Brze\u017anicka",
+    "numer": "10",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11753",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Dworcowa",
+    "numer": "19",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11757",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "\u017bymierskiego",
+    "numer": "27",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11749",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hodowli Koni",
+    "ulica": "Brze\u017anicka",
+    "numer": "10",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11750",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Brze\u017anicka",
+    "numer": "10",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  },
+  {
+    "id": "11751",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4189",
+    "miejscowosc": "Bia\u0142y B\u00f3r",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Brze\u017anicka",
+    "numer": "10",
+    "kod": "78-425",
+    "poczta": "Bia\u0142y B\u00f3r\r"
+  }
+]

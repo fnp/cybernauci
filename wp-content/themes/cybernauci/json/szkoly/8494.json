@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23444",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8494",
+    "miejscowosc": "Stary Szelk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stary Szelk\u00f3w",
+    "numer": "38",
+    "kod": "06-220",
+    "poczta": "Stary Szelk\u00f3w\r"
+  },
+  {
+    "id": "23445",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8494",
+    "miejscowosc": "Stary Szelk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Stary Szelk\u00f3w",
+    "numer": "39",
+    "kod": "06-220",
+    "poczta": "Stary Szelk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22272",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7680",
+    "miejscowosc": "Bzianka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Si\u00f3str Nazaretanek",
+    "ulica": "Bzianka",
+    "numer": "20",
+    "kod": "35-213",
+    "poczta": "Rzesz\u00f3w\r"
+  },
+  {
+    "id": "21529",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7680",
+    "miejscowosc": "Bzianka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bzianka",
+    "numer": "191",
+    "kod": "38-483",
+    "poczta": "Wr\u00f3blik Szlachecki\r"
+  }
+]

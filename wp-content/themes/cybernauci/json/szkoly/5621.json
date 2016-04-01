@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15825",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5621",
+    "miejscowosc": "\u015awierzawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Reymonta",
+    "numer": "22",
+    "kod": "59-540",
+    "poczta": "\u015awierzawa\r"
+  },
+  {
+    "id": "15826",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5621",
+    "miejscowosc": "\u015awierzawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "3",
+    "kod": "59-540",
+    "poczta": "\u015awierzawa\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1692",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "725",
+    "miejscowosc": "Che\u0142m \u015al\u0105ski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Karola Miarki",
+    "ulica": "\u015al\u0105ska",
+    "numer": "12",
+    "kod": "41-403",
+    "poczta": "Che\u0142m \u015al\u0105ski\r"
+  },
+  {
+    "id": "1691",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "725",
+    "miejscowosc": "Che\u0142m \u015al\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "G\u00f3rno\u015bl\u0105ska",
+    "numer": "45",
+    "kod": "41-403",
+    "poczta": "Che\u0142m \u015al\u0105ski\r"
+  },
+  {
+    "id": "1690",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "725",
+    "miejscowosc": "Che\u0142m \u015al\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kolberga",
+    "numer": "1",
+    "kod": "41-403",
+    "poczta": "Che\u0142m \u015al\u0105ski\r"
+  },
+  {
+    "id": "1693",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "725",
+    "miejscowosc": "Che\u0142m \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Technik\u00f3w",
+    "numer": "18",
+    "kod": "41-403",
+    "poczta": "Che\u0142m \u015al\u0105ski\r"
+  },
+  {
+    "id": "1694",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "725",
+    "miejscowosc": "Che\u0142m \u015al\u0105ski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Technik\u00f3w",
+    "numer": "18",
+    "kod": "41-403",
+    "poczta": "Che\u0142m \u015al\u0105ski\r"
+  }
+]

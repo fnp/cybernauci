@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5328",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1785",
+    "miejscowosc": "Pogorzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Fundacji Viribus Unitis",
+    "ulica": "Karola Szymanowskiego",
+    "numer": "21",
+    "kod": "32-500",
+    "poczta": "Chrzan\u00f3w\r"
+  },
+  {
+    "id": "5321",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1785",
+    "miejscowosc": "Pogorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Fundacji Viribus Unitis",
+    "ulica": "Karola Szymanowskiego",
+    "numer": "21",
+    "kod": "32-500",
+    "poczta": "Chrzan\u00f3w\r"
+  }
+]

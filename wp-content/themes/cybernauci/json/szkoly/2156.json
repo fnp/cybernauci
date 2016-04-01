@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6073",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2156",
+    "miejscowosc": "Pi\u0105tkowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pi\u0105tkowa",
+    "numer": "1",
+    "kod": "33-300",
+    "poczta": "Nowy S\u0105cz\r"
+  },
+  {
+    "id": "6074",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2156",
+    "miejscowosc": "Pi\u0105tkowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pi\u0105tkowa",
+    "numer": "1",
+    "kod": "33-300",
+    "poczta": "Nowy S\u0105cz\r"
+  }
+]

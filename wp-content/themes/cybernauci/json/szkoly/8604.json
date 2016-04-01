@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23708",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8604",
+    "miejscowosc": "Goworowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ostro\u0142\u0119cka",
+    "numer": "27",
+    "kod": "07-440",
+    "poczta": "Goworowo\r"
+  },
+  {
+    "id": "23709",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8604",
+    "miejscowosc": "Goworowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ostro\u0142\u0119cka",
+    "numer": "27",
+    "kod": "07-440",
+    "poczta": "Goworowo\r"
+  }
+]

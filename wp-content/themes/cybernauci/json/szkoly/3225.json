@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8970",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3225",
+    "miejscowosc": "Wierzchowo-Dworzec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "77-300",
+    "poczta": "Cz\u0142uch\u00f3w\r"
+  },
+  {
+    "id": "8965",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3225",
+    "miejscowosc": "Wierzchowo-Dworzec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "77-300",
+    "poczta": "Cz\u0142uch\u00f3w\r"
+  },
+  {
+    "id": "8971",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3225",
+    "miejscowosc": "Wierzchowo-Dworzec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "77-300",
+    "poczta": "Cz\u0142uch\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23112",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8341",
+    "miejscowosc": "Ksi\u0105\u017cenice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa im. Leonarda da Vinci",
+    "ulica": "Mazowiecka",
+    "numer": "87a",
+    "kod": "05-825",
+    "poczta": "Ksi\u0105\u017cenice\r"
+  },
+  {
+    "id": "23110",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8341",
+    "miejscowosc": "Ksi\u0105\u017cenice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Aleja Marylskiego",
+    "numer": "3",
+    "kod": "05-825",
+    "poczta": "Grodzisk Mazowiecki\r"
+  }
+]

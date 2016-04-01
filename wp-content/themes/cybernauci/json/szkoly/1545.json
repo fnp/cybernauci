@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4633",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1545",
+    "miejscowosc": "\u0141aszcz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Chopina",
+    "numer": "8",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  },
+  {
+    "id": "4634",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1545",
+    "miejscowosc": "\u0141aszcz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Profilowane",
+    "ulica": "Chopina",
+    "numer": "8",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  },
+  {
+    "id": "4630",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1545",
+    "miejscowosc": "\u0141aszcz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Chopina",
+    "numer": "11",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  },
+  {
+    "id": "4625",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1545",
+    "miejscowosc": "\u0141aszcz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. W\u0142adys\u0142awa Sikorskiego",
+    "ulica": "Chopina",
+    "numer": "11",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  },
+  {
+    "id": "4635",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1545",
+    "miejscowosc": "\u0141aszcz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "Chopina",
+    "numer": "8",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  }
+]

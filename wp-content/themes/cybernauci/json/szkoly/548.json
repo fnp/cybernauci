@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1207",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "548",
+    "miejscowosc": "Przystaj\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "42-141",
+    "poczta": "Przystaj\u0144\r"
+  },
+  {
+    "id": "1208",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "548",
+    "miejscowosc": "Przystaj\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "42-141",
+    "poczta": "Przystaj\u0144\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12399",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4352",
+    "miejscowosc": "Kruklanki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "22 Lipca",
+    "numer": "34",
+    "kod": "11-612",
+    "poczta": "Kruklanki\r"
+  },
+  {
+    "id": "12400",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4352",
+    "miejscowosc": "Kruklanki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "22 Lipca",
+    "numer": "34",
+    "kod": "11-612",
+    "poczta": "Kruklanki\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23679",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8585",
+    "miejscowosc": "Pomiech\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nasielska",
+    "numer": "3",
+    "kod": "05-180",
+    "poczta": "Pomiech\u00f3wek\r"
+  },
+  {
+    "id": "23676",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8585",
+    "miejscowosc": "Pomiech\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nasielska",
+    "numer": "3",
+    "kod": "05-180",
+    "poczta": "Pomiech\u00f3wek\r"
+  },
+  {
+    "id": "23680",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8585",
+    "miejscowosc": "Pomiech\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ogrodnicza",
+    "numer": "6",
+    "kod": "05-180",
+    "poczta": "Pomiech\u00f3wek\r"
+  },
+  {
+    "id": "23681",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8585",
+    "miejscowosc": "Pomiech\u00f3wek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ogrodnicza",
+    "numer": "6",
+    "kod": "05-180",
+    "poczta": "Pomiech\u00f3wek\r"
+  }
+]

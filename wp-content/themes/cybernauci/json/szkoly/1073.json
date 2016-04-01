@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3678",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1073",
+    "miejscowosc": "Potok-Stany",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Romualda Traugutta ",
+    "ulica": "Potok-Stany",
+    "numer": "130",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  },
+  {
+    "id": "3679",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1073",
+    "miejscowosc": "Potok-Stany",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Romualda Traugutta ",
+    "ulica": "Potok-Stany",
+    "numer": "130",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  }
+]

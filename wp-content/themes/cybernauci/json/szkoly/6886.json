@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19279",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6886",
+    "miejscowosc": "Tarnowo Podg\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "118",
+    "kod": "62-080",
+    "poczta": "Tarnowo Podg\u00f3rne\r"
+  },
+  {
+    "id": "19280",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6886",
+    "miejscowosc": "Tarnowo Podg\u00f3rne",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "118",
+    "kod": "62-080",
+    "poczta": "Tarnowo Podg\u00f3rne\r"
+  },
+  {
+    "id": "19277",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6886",
+    "miejscowosc": "Tarnowo Podg\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "62-080",
+    "poczta": "Tarnowo Podg\u00f3rne\r"
+  }
+]

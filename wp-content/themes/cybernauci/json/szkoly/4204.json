@@ -1,0 +1,98 @@
+[
+  {
+    "id": "11783",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "28",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11779",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Or\u0142a Bia\u0142ego ",
+    "ulica": "Plac Jana Paw\u0142a II",
+    "numer": "5",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11780",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Armii Krajowej",
+    "numer": "19",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11781",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Szturmowc\u00f3w",
+    "numer": "1",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11782",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Kombatant\u00f3w Polskich",
+    "numer": "6",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11785",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Szczeci\u0144ska",
+    "numer": "88",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11784",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "28",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  },
+  {
+    "id": "11786",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4204",
+    "miejscowosc": "\u015awidwin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa nr1",
+    "ulica": "Szczeci\u0144ska",
+    "numer": "88",
+    "kod": "78-300",
+    "poczta": "\u015awidwin\r"
+  }
+]

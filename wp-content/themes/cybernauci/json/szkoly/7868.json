@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21912",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7868",
+    "miejscowosc": "Nienadowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Nienadowa",
+    "numer": "373",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  },
+  {
+    "id": "21913",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7868",
+    "miejscowosc": "Nienadowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Nienadowa",
+    "numer": "133",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  },
+  {
+    "id": "21920",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7868",
+    "miejscowosc": "Nienadowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Nienadowa",
+    "numer": "555",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  },
+  {
+    "id": "21921",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7868",
+    "miejscowosc": "Nienadowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Nienadowa",
+    "numer": "555",
+    "kod": "37-750",
+    "poczta": "Dubiecko\r"
+  }
+]

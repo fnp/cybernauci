@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22588",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8192",
+    "miejscowosc": "Chmiel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chmiel\u00f3w",
+    "numer": "394",
+    "kod": "39-442",
+    "poczta": "Chmiel\u00f3w\r"
+  },
+  {
+    "id": "22589",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8192",
+    "miejscowosc": "Chmiel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chmiel\u00f3w",
+    "numer": "394",
+    "kod": "39-442",
+    "poczta": "Chmiel\u00f3w\r"
+  }
+]

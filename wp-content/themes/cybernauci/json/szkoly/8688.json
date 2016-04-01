@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23863",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8688",
+    "miejscowosc": "Szulborze Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "1",
+    "kod": "07-324",
+    "poczta": "Szulborze Koty\r"
+  },
+  {
+    "id": "23864",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8688",
+    "miejscowosc": "Szulborze Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "1",
+    "kod": "07-324",
+    "poczta": "Szulborze Wielkie\r"
+  }
+]

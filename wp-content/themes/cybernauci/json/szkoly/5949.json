@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16906",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5949",
+    "miejscowosc": "Strzelce Ma\u0142e",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Strzelce Ma\u0142e",
+    "numer": "33",
+    "kod": "97-515",
+    "poczta": "Mas\u0142owice\r"
+  },
+  {
+    "id": "16909",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5949",
+    "miejscowosc": "Strzelce Ma\u0142e",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Strzelce Ma\u0142e",
+    "numer": "33",
+    "kod": "97-515",
+    "poczta": "Mas\u0142owice\r"
+  }
+]

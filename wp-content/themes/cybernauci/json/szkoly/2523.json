@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6933",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2523",
+    "miejscowosc": "Olszyny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Olszyny",
+    "numer": "57",
+    "kod": "32-831",
+    "poczta": "Olszyny\r"
+  },
+  {
+    "id": "6859",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2523",
+    "miejscowosc": "Olszyny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II w Zespole Szk\u00f3\u0142",
+    "ulica": "Olszyny",
+    "numer": "62",
+    "kod": "33-164",
+    "poczta": "Olszyny\r"
+  },
+  {
+    "id": "6934",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2523",
+    "miejscowosc": "Olszyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Olszyny",
+    "numer": "57",
+    "kod": "32-831",
+    "poczta": "Olszyny\r"
+  },
+  {
+    "id": "6860",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2523",
+    "miejscowosc": "Olszyny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Olszyny",
+    "numer": "62",
+    "kod": "33-164",
+    "poczta": "Olszyny\r"
+  }
+]

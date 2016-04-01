@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18510",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6532",
+    "miejscowosc": "Stare Miasto",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Kasztanowa",
+    "numer": "1",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  },
+  {
+    "id": "18506",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6532",
+    "miejscowosc": "Stare Miasto",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. J\u00f3zefa Bema ",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "62-571",
+    "poczta": "Stare Miasto\r"
+  }
+]

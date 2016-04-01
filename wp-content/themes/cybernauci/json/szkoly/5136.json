@@ -1,0 +1,122 @@
+[
+  {
+    "id": "14173",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa dla m\u0142odocianych pracownik\u00f3w",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14174",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14175",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum Zawodowe",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14166",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Leszka Bia\u0142ego",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14167",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Leszka Bia\u0142ego",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14172",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14168",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Rolnicze",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14171",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Rolnicze",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14169",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum \u017bywienia i Hotelarstwa",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  },
+  {
+    "id": "14170",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5136",
+    "miejscowosc": "G\u0105sawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Wielozawodowa",
+    "ulica": "\u017bni\u0144ska",
+    "numer": "6",
+    "kod": "88-410",
+    "poczta": "G\u0105sawa\r"
+  }
+]

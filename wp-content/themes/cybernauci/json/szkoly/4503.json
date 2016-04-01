@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12744",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4503",
+    "miejscowosc": "Czerwonka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Czerwonka",
+    "numer": "15",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  },
+  {
+    "id": "12745",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4503",
+    "miejscowosc": "Czerwonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kobu\u0142ty",
+    "numer": "15",
+    "kod": "11-300",
+    "poczta": "Biskupiec\r"
+  }
+]

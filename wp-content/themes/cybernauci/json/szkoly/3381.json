@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9277",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3381",
+    "miejscowosc": "Sadlinki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Papie\u017ca Jana Paw\u0142a II ",
+    "ulica": "Grudzi\u0105dzka",
+    "numer": "14A",
+    "kod": "82-522",
+    "poczta": "Sadlinki\r"
+  },
+  {
+    "id": "9278",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3381",
+    "miejscowosc": "Sadlinki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Grudzi\u0105dzka",
+    "numer": "14A",
+    "kod": "82-522",
+    "poczta": "Sadlinki\r"
+  }
+]

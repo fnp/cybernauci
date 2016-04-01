@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15357",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5437",
+    "miejscowosc": "Przeworno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kolejowa",
+    "numer": "4D",
+    "kod": "57-130",
+    "poczta": "Przeworno\r"
+  },
+  {
+    "id": "15358",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5437",
+    "miejscowosc": "Przeworno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "4D",
+    "kod": "57-130",
+    "poczta": "Przeworno\r"
+  }
+]

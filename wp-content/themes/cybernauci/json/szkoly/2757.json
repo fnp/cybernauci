@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7886",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2757",
+    "miejscowosc": "Oksa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Pl. M. Reja",
+    "numer": "19",
+    "kod": "28-363",
+    "poczta": "Oksa\r"
+  },
+  {
+    "id": "7887",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2757",
+    "miejscowosc": "Oksa",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Pl. M. Reja",
+    "numer": "19",
+    "kod": "28-363",
+    "poczta": "Oksa\r"
+  }
+]

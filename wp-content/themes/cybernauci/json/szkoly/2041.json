@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6778",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2041",
+    "miejscowosc": "Siekierczyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siekierczyna",
+    "numer": "68",
+    "kod": "33-192",
+    "poczta": "Bru\u015bnik\r"
+  },
+  {
+    "id": "5829",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2041",
+    "miejscowosc": "Siekierczyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Siekierczyna",
+    "numer": "31",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "5831",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2041",
+    "miejscowosc": "Siekierczyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Siekierczyna",
+    "numer": "326",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  }
+]

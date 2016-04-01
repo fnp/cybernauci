@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7962",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2805",
+    "miejscowosc": "Bieliny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "17",
+    "kod": "26-004",
+    "poczta": "Bieliny\r"
+  },
+  {
+    "id": "7963",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2805",
+    "miejscowosc": "Bieliny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "17",
+    "kod": "26-004",
+    "poczta": "Bieliny\r"
+  }
+]

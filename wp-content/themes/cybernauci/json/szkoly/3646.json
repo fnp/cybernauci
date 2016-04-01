@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10309",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3646",
+    "miejscowosc": "Gr\u00f3dek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "A. i G. Chodkiewicz\u00f3w",
+    "numer": "18",
+    "kod": "16-040",
+    "poczta": "Gr\u00f3dek\r"
+  },
+  {
+    "id": "10310",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3646",
+    "miejscowosc": "Gr\u00f3dek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "A. i G. Chodkiewicz\u00f3w",
+    "numer": "18",
+    "kod": "16-040",
+    "poczta": "Gr\u00f3dek\r"
+  }
+]

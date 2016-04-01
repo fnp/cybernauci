@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21641",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7739",
+    "miejscowosc": "Narol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w Wrze\u015bnia 1939 r.",
+    "ulica": "Graniczna",
+    "numer": "11",
+    "kod": "37-610",
+    "poczta": "Narol\r"
+  },
+  {
+    "id": "21640",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7739",
+    "miejscowosc": "Narol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Brata Alberta",
+    "ulica": "Graniczna",
+    "numer": "11",
+    "kod": "37-610",
+    "poczta": "Narol\r"
+  }
+]

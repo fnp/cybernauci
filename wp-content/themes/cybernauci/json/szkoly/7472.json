@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21112",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7472",
+    "miejscowosc": "Nagoszyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Nagoszyn",
+    "numer": "93",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  },
+  {
+    "id": "21113",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7472",
+    "miejscowosc": "Nagoszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nagoszyn",
+    "numer": "93",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  }
+]

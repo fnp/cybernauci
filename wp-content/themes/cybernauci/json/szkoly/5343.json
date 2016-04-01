@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15136",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5343",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka Szko\u0142a Filialna",
+    "ulica": "\u015awi\u0119tej Katarzyny",
+    "numer": "75a",
+    "kod": "59-300",
+    "poczta": "Lubin\r"
+  },
+  {
+    "id": "15311",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5343",
+    "miejscowosc": "Osiek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y",
+    "ulica": "Osiek",
+    "numer": "124",
+    "kod": "55-200",
+    "poczta": "O\u0142awa\r"
+  }
+]

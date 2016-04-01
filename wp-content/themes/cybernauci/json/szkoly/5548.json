@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15666",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5548",
+    "miejscowosc": "Jordan\u00f3w \u015al\u0105ski",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wroc\u0142awska",
+    "numer": "55",
+    "kod": "55-065",
+    "poczta": "Jordan\u00f3w \u015al.\r"
+  },
+  {
+    "id": "15667",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5548",
+    "miejscowosc": "Jordan\u00f3w \u015al\u0105ski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wroc\u0142awska",
+    "numer": "55",
+    "kod": "55-065",
+    "poczta": "Jordan\u00f3w \u015al.\r"
+  }
+]

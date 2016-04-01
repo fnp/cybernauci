@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16640",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5826",
+    "miejscowosc": "Prymusowa Wola",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Prymusowa Wola",
+    "numer": "6",
+    "kod": "26-332",
+    "poczta": "S\u0142awno\r"
+  },
+  {
+    "id": "16641",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5826",
+    "miejscowosc": "Prymusowa Wola",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Samorz\u0105dowa Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Prymusowa Wola",
+    "numer": "6",
+    "kod": "26-332",
+    "poczta": "S\u0142awno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6888",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2540",
+    "miejscowosc": "Tarnowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Tarnowska",
+    "numer": "60",
+    "kod": "33-112",
+    "poczta": "Tarnowiec\r"
+  },
+  {
+    "id": "6889",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2540",
+    "miejscowosc": "Tarnowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tarnowska",
+    "numer": "60",
+    "kod": "33-112",
+    "poczta": "Tarnowiec\r"
+  }
+]

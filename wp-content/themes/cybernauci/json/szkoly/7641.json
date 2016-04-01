@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21441",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7641",
+    "miejscowosc": "\u015awierzowa Polska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ignacego \u0141ukasiewicza",
+    "ulica": "Szkolna",
+    "numer": "31",
+    "kod": "38-457",
+    "poczta": "Zr\u0119cin\r"
+  },
+  {
+    "id": "21447",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7641",
+    "miejscowosc": "\u015awierzowa Polska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "50",
+    "kod": "38-457",
+    "poczta": "Zr\u0119cin\r"
+  }
+]

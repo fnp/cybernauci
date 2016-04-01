@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14122",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5114",
+    "miejscowosc": "Grabkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Grabkowo",
+    "numer": "51",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  },
+  {
+    "id": "14123",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5114",
+    "miejscowosc": "Grabkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Grabkowo",
+    "numer": "67A",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  }
+]

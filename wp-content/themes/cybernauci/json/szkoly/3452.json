@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9456",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3452",
+    "miejscowosc": "\u017belistrzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-100",
+    "poczta": "\u017belistrzewo\r"
+  },
+  {
+    "id": "9457",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3452",
+    "miejscowosc": "\u017belistrzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "84-100",
+    "poczta": "Zelistrzewo\r"
+  }
+]

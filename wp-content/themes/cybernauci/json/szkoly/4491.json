@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12717",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4491",
+    "miejscowosc": "Wieliczki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Lipowa",
+    "numer": "10a",
+    "kod": "19-404",
+    "poczta": "Wieliczki\r"
+  },
+  {
+    "id": "12718",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4491",
+    "miejscowosc": "Wieliczki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "10",
+    "kod": "19-404",
+    "poczta": "Wieliczki\r"
+  }
+]

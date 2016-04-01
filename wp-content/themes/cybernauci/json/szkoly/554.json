@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1214",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "554",
+    "miejscowosc": "Wr\u0119czyca Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-130",
+    "poczta": "Wr\u0119czyca Wielka\r"
+  },
+  {
+    "id": "1215",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "554",
+    "miejscowosc": "Wr\u0119czyca Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "42-130",
+    "poczta": "Wr\u0119czyca Wielka\r"
+  }
+]

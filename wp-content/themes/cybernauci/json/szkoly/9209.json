@@ -1,0 +1,98 @@
+[
+  {
+    "id": "24993",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. mjr. Stefana Waltera",
+    "ulica": "11 Listopada",
+    "numer": "2",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24996",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "M. Konopnickiej",
+    "numer": "24",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "25000",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "26",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "25001",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. C. K. Norwida",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "26",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24990",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "11 Listopada",
+    "numer": "2",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24997",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "M. Konopnickiej",
+    "numer": "24",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "25002",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Aleja Jana Paw\u0142a II",
+    "numer": "18",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  },
+  {
+    "id": "24994",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9209",
+    "miejscowosc": "Radzymin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ZDZ im. kpt. Stefana Pogonowskiego",
+    "ulica": "Komunalna",
+    "numer": "6",
+    "kod": "05-250",
+    "poczta": "Radzymin\r"
+  }
+]

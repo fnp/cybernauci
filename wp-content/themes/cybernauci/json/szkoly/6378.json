@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18235",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6378",
+    "miejscowosc": "Cek\u00f3w-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. A. Chody\u0144skiego ",
+    "ulica": "Cek\u00f3w-Kolonia",
+    "numer": "2",
+    "kod": "62-834",
+    "poczta": "Cek\u00f3w\r"
+  },
+  {
+    "id": "18236",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6378",
+    "miejscowosc": "Cek\u00f3w-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Cek\u00f3w-Kolonia",
+    "numer": "2",
+    "kod": "62-834",
+    "poczta": "Cek\u00f3w\r"
+  }
+]

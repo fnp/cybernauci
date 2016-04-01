@@ -1,0 +1,50 @@
+[
+  {
+    "id": "936",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "398",
+    "miejscowosc": "Istebna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Istebna",
+    "numer": "1345",
+    "kod": "43-470",
+    "poczta": "Istebna\r"
+  },
+  {
+    "id": "932",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "398",
+    "miejscowosc": "Istebna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Koniak\u00f3w",
+    "numer": "30",
+    "kod": "43-470",
+    "poczta": "Istebna\r"
+  },
+  {
+    "id": "938",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "398",
+    "miejscowosc": "Istebna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Istebna",
+    "numer": "30",
+    "kod": "43-470",
+    "poczta": "Istebna\r"
+  },
+  {
+    "id": "937",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "398",
+    "miejscowosc": "Istebna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny",
+    "ulica": "Istebna",
+    "numer": "550",
+    "kod": "43-470",
+    "poczta": "Istebna\r"
+  }
+]

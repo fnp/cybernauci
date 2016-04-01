@@ -1,0 +1,110 @@
+[
+  {
+    "id": "19392",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Strzelecka",
+    "numer": "11a",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19397",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Si\u00f3str Urszulanek SJK",
+    "ulica": "\u015bw. U. Led\u00f3chowskiej",
+    "numer": "2",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19393",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u015aw. Ducha",
+    "numer": "11",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19398",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Si\u00f3str Urszulanek SJK",
+    "ulica": "\u015aw. U. Led\u00f3chowskiej",
+    "numer": "2",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19389",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Strzelecka",
+    "numer": "11a",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19394",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wolno\u015bci",
+    "numer": "10",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19395",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ekonomiczne",
+    "ulica": "Wolno\u015bci",
+    "numer": "10",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19399",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Gastronomiczno-Hotelarskie Si\u00f3str Urszulanek SJK",
+    "ulica": "\u015aw. U. Led\u00f3chowskiej",
+    "numer": "2",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  },
+  {
+    "id": "19396",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6941",
+    "miejscowosc": "Pniewy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wolno\u015bci",
+    "numer": "10",
+    "kod": "62-045",
+    "poczta": "Pniewy\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "10638",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10639",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10632",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "podstawowa",
+    "nazwa": "Prywatna Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10633",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10634",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Prywatne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  },
+  {
+    "id": "10640",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3812",
+    "miejscowosc": "Drohiczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "51",
+    "kod": "17-312",
+    "poczta": "Drohiczyn\r"
+  }
+]

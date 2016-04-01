@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4668",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1040",
+    "miejscowosc": "Podhorce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Podhorce",
+    "numer": "124",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  },
+  {
+    "id": "3611",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1040",
+    "miejscowosc": "Podhorce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Podhorce",
+    "numer": "110",
+    "kod": "22-550",
+    "poczta": "Werbkowice\r"
+  },
+  {
+    "id": "4669",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1040",
+    "miejscowosc": "Podhorce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Podhorce",
+    "numer": "124",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  }
+]

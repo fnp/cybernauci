@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7099",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2626",
+    "miejscowosc": "Le\u0144cze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 6 ",
+    "ulica": "Le\u0144cze",
+    "numer": "",
+    "kod": "34-142",
+    "poczta": "Le\u0144cze\r"
+  },
+  {
+    "id": "7100",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2626",
+    "miejscowosc": "Le\u0144cze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte",
+    "ulica": "Le\u0144cze",
+    "numer": "",
+    "kod": "34-142",
+    "poczta": "Le\u0144cze\r"
+  }
+]

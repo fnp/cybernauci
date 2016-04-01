@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24647",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9059",
+    "miejscowosc": "Borkowo Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-200",
+    "poczta": "Sierpc\r"
+  },
+  {
+    "id": "24644",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9059",
+    "miejscowosc": "Borkowo Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "09-200",
+    "poczta": "Sierpc\r"
+  }
+]

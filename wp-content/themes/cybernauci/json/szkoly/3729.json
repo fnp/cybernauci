@@ -1,0 +1,122 @@
+[
+  {
+    "id": "10491",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Marii D\u0105browskiej",
+    "numer": "4",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10492",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ZDZ",
+    "ulica": "Ksi\u0119cia Janusza",
+    "numer": "40",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10495",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Adama Mickiewicza",
+    "ulica": "Wojska Polskiego",
+    "numer": "34",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10496",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Teofila Kubraka",
+    "numer": "6",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10489",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Wojska Polskiego",
+    "numer": "22",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10490",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Henryka Sienkiewicza",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10497",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Teofila Kubraka",
+    "numer": "6",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10494",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Publiczne ZDZ",
+    "ulica": "Plac Wolno\u015bci",
+    "numer": "15",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10498",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Teofila Kubraka",
+    "numer": "6",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "10493",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3729",
+    "miejscowosc": "Kolno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ZDZ",
+    "ulica": "Ksi\u0119cia Janusza",
+    "numer": "40",
+    "kod": "18-500",
+    "poczta": "Kolno\r"
+  }
+]

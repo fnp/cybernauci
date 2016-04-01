@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21814",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7809",
+    "miejscowosc": "Radomy\u015bl Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Klonowa",
+    "numer": "2",
+    "kod": "39-310",
+    "poczta": "Radomy\u015bl Wielki\r"
+  },
+  {
+    "id": "21821",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7809",
+    "miejscowosc": "Radomy\u015bl Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "39-310",
+    "poczta": "Radomy\u015bl Wielki\r"
+  },
+  {
+    "id": "21809",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7809",
+    "miejscowosc": "Radomy\u015bl Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. W\u0142. Sikorskiego",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "39-310",
+    "poczta": "Radomy\u015bl Wielki\r"
+  },
+  {
+    "id": "21822",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7809",
+    "miejscowosc": "Radomy\u015bl Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "39-310",
+    "poczta": "Radomy\u015bl Wielki\r"
+  },
+  {
+    "id": "21823",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7809",
+    "miejscowosc": "Radomy\u015bl Wielki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "2",
+    "kod": "39-310",
+    "poczta": "Radomy\u015bl Wielki\r"
+  }
+]

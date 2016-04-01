@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8055",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2862",
+    "miejscowosc": "M\u0105chocice Kapitulne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "M\u0105chocice Kapitulne",
+    "numer": "167",
+    "kod": "26-001",
+    "poczta": "Mas\u0142\u00f3w\r"
+  },
+  {
+    "id": "8056",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2862",
+    "miejscowosc": "M\u0105chocice Kapitulne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "M\u0105chocice Kapitulne",
+    "numer": "167",
+    "kod": "26-001",
+    "poczta": "Mas\u0142\u00f3w\r"
+  }
+]

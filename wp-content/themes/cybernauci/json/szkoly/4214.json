@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11804",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4214",
+    "miejscowosc": "Bierzwnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bierzwnica",
+    "numer": "52",
+    "kod": "78-324",
+    "poczta": "Cieszeniewo\r"
+  },
+  {
+    "id": "11805",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4214",
+    "miejscowosc": "Bierzwnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bierzwnica",
+    "numer": "52",
+    "kod": "78-324",
+    "poczta": "Cieszeniewo\r"
+  }
+]

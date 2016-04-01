@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5530",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1870",
+    "miejscowosc": "Ropa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ropa",
+    "numer": "780",
+    "kod": "38-312",
+    "poczta": "Ropa\r"
+  },
+  {
+    "id": "5528",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1870",
+    "miejscowosc": "Ropa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. KaOSG",
+    "ulica": "Ropa",
+    "numer": "780",
+    "kod": "38-312",
+    "poczta": "Ropa\r"
+  },
+  {
+    "id": "5529",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1870",
+    "miejscowosc": "Ropa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marii Konopnickiej",
+    "ulica": "Ropa",
+    "numer": "91",
+    "kod": "38-312",
+    "poczta": "Ropa\r"
+  }
+]

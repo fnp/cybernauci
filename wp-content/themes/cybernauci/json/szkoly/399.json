@@ -1,0 +1,26 @@
+[
+  {
+    "id": "935",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "399",
+    "miejscowosc": "Koniak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Koniak\u00f3w",
+    "numer": "280",
+    "kod": "43-474",
+    "poczta": "Koniak\u00f3w\r"
+  },
+  {
+    "id": "934",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "399",
+    "miejscowosc": "Koniak\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Koniak\u00f3w",
+    "numer": "480",
+    "kod": "43-474",
+    "poczta": "Koniak\u00f3w\r"
+  }
+]

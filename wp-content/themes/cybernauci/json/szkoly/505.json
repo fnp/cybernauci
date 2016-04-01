@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1133",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "505",
+    "miejscowosc": "Rudziniec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Publiczne Gimnazjum",
+    "ulica": "Gliwicka",
+    "numer": "5",
+    "kod": "44-160",
+    "poczta": "Rudziniec\r"
+  },
+  {
+    "id": "1132",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "505",
+    "miejscowosc": "Rudziniec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Gliwicka",
+    "numer": "5",
+    "kod": "44-160",
+    "poczta": "Rudziniec\r"
+  }
+]

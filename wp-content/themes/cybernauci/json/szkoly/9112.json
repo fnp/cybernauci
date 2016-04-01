@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24767",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9112",
+    "miejscowosc": "Skibniew-Podawce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "08-300",
+    "poczta": "Soko\u0142\u00f3w Podlaski\r"
+  },
+  {
+    "id": "24768",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9112",
+    "miejscowosc": "Skibniew-Podawce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "08-300",
+    "poczta": "Soko\u0142\u00f3w Podlaski\r"
+  }
+]

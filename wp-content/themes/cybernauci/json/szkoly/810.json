@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1974",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "810",
+    "miejscowosc": "Radziechowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 1 im. ks. pra\u0142. St. Gawlika",
+    "ulica": "Szkolna",
+    "numer": "1220",
+    "kod": "34-381",
+    "poczta": "Radziechowy\r"
+  },
+  {
+    "id": "1972",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "810",
+    "miejscowosc": "Radziechowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "71",
+    "kod": "34-381",
+    "poczta": "Radziechowy\r"
+  },
+  {
+    "id": "1975",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "810",
+    "miejscowosc": "Radziechowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. pra\u0142. St. Gawlika",
+    "ulica": "Szkolna",
+    "numer": "1220",
+    "kod": "34-381",
+    "poczta": "Radziechowy\r"
+  }
+]

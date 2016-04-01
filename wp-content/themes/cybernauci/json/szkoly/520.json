@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1165",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "520",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "73",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  },
+  {
+    "id": "1166",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "520",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "73",
+    "kod": "42-125",
+    "poczta": "Kamyk\r"
+  }
+]

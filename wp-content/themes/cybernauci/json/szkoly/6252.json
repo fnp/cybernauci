@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17953",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6252",
+    "miejscowosc": "Siedlisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Siedlisko",
+    "numer": "160",
+    "kod": "64-980",
+    "poczta": "Trzcianka\r"
+  },
+  {
+    "id": "17954",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6252",
+    "miejscowosc": "Siedlisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mi\u0142o\u015bnik\u00f3w Przyrody",
+    "ulica": "Siedlisko",
+    "numer": "160",
+    "kod": "64-980",
+    "poczta": "Trzcianka\r"
+  }
+]

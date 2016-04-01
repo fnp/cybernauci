@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18298",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6416",
+    "miejscowosc": "Russ\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii D\u0105browskiej ",
+    "ulica": "Russ\u00f3w",
+    "numer": "6",
+    "kod": "62-817",
+    "poczta": "\u017belazk\u00f3w\r"
+  },
+  {
+    "id": "18299",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6416",
+    "miejscowosc": "Russ\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej",
+    "ulica": "Russ\u00f3w",
+    "numer": "6",
+    "kod": "62-817",
+    "poczta": "\u017belazk\u00f3w\r"
+  }
+]

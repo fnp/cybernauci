@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10822",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3904",
+    "miejscowosc": "Ko\u0142aki Ko\u015bcielne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "26",
+    "kod": "18-315",
+    "poczta": "Ko\u0142aki Ko\u015bcielne\r"
+  },
+  {
+    "id": "10823",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3904",
+    "miejscowosc": "Ko\u0142aki Ko\u015bcielne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "26",
+    "kod": "18-315",
+    "poczta": "Ko\u0142aki Ko\u015bcielne\r"
+  }
+]

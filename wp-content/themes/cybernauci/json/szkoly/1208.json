@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3942",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1208",
+    "miejscowosc": "Borzech\u00f3w-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Borzech\u00f3w-Kolonia",
+    "numer": "227",
+    "kod": "24-224",
+    "poczta": "Borzech\u00f3w\r"
+  },
+  {
+    "id": "3940",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1208",
+    "miejscowosc": "Borzech\u00f3w-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Borzech\u00f3w-Kolonia",
+    "numer": "227",
+    "kod": "24-224",
+    "poczta": "Borzech\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22242",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8042",
+    "miejscowosc": "Palik\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Palik\u00f3wka",
+    "numer": "271",
+    "kod": "36-073",
+    "poczta": "Stra\u017c\u00f3w\r"
+  },
+  {
+    "id": "22243",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8042",
+    "miejscowosc": "Palik\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Palik\u00f3wka",
+    "numer": "271",
+    "kod": "36-073",
+    "poczta": "Stra\u017c\u00f3w\r"
+  }
+]

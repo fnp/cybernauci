@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1404",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-250",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1409",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "J\u00f3zefa Pukowca",
+    "numer": "5",
+    "kod": "43-251",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1410",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "J\u00f3zefa Pukowca",
+    "numer": "4",
+    "kod": "43-251",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1403",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-250",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1406",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. J\u00f3zefa Pukowca",
+    "ulica": "Pukowca",
+    "numer": "4",
+    "kod": "43-251",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1411",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "J\u00f3zefa Pukowca",
+    "numer": "5",
+    "kod": "43-251",
+    "poczta": "Paw\u0142owice\r"
+  },
+  {
+    "id": "1412",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "625",
+    "miejscowosc": "Paw\u0142owice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "J\u00f3zefa Pukowca",
+    "numer": "5",
+    "kod": "43-251",
+    "poczta": "Paw\u0142owice\r"
+  }
+]

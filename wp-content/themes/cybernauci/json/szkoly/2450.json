@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6722",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2450",
+    "miejscowosc": "Toporzysko",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Toporzysko",
+    "numer": "166",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  },
+  {
+    "id": "6723",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2450",
+    "miejscowosc": "Toporzysko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Toporzysko",
+    "numer": "166",
+    "kod": "34-240",
+    "poczta": "Jordan\u00f3w\r"
+  }
+]

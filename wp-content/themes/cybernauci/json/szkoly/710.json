@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1647",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "710",
+    "miejscowosc": "Brynek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Park",
+    "numer": "8",
+    "kod": "42-690",
+    "poczta": "Twor\u00f3g\r"
+  },
+  {
+    "id": "1651",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "710",
+    "miejscowosc": "Brynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne",
+    "ulica": "Park",
+    "numer": "4",
+    "kod": "42-690",
+    "poczta": "Twor\u00f3g\r"
+  },
+  {
+    "id": "1652",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "710",
+    "miejscowosc": "Brynek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Le\u015bna",
+    "ulica": "Park",
+    "numer": "4",
+    "kod": "42-690",
+    "poczta": "Twor\u00f3g\r"
+  }
+]

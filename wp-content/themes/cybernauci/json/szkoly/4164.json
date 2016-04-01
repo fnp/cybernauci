@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11689",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4164",
+    "miejscowosc": "Dobrzany",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Mickiewicza",
+    "numer": "43",
+    "kod": "73-130",
+    "poczta": "Dobrzany\r"
+  },
+  {
+    "id": "11690",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4164",
+    "miejscowosc": "Dobrzany",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mickiewicza",
+    "numer": "43",
+    "kod": "73-130",
+    "poczta": "Dobrzany\r"
+  }
+]

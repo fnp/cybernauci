@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4386",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1437",
+    "miejscowosc": "Markusz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubelska",
+    "numer": "80",
+    "kod": "24-173",
+    "poczta": "Markusz\u00f3w\r"
+  },
+  {
+    "id": "4387",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1437",
+    "miejscowosc": "Markusz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubelska",
+    "numer": "80",
+    "kod": "24-173",
+    "poczta": "Markusz\u00f3w\r"
+  }
+]

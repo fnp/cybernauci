@@ -1,0 +1,26 @@
+[
+  {
+    "id": "584",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "293",
+    "miejscowosc": "Jemielnica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "47-133",
+    "poczta": "Jemielnica\r"
+  },
+  {
+    "id": "586",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "293",
+    "miejscowosc": "Jemielnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Johannesa Nuciusa",
+    "ulica": "Szkolna",
+    "numer": "2:00 AM",
+    "kod": "47-133",
+    "poczta": "Jemielnica\r"
+  }
+]

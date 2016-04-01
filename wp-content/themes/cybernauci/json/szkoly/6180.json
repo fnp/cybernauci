@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17426",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6180",
+    "miejscowosc": "Parz\u0119czew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Po\u0142udniowa",
+    "numer": "1b",
+    "kod": "95-045",
+    "poczta": "Parz\u0119czew\r"
+  },
+  {
+    "id": "17425",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6180",
+    "miejscowosc": "Parz\u0119czew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "6",
+    "kod": "95-045",
+    "poczta": "Parz\u0119czew\r"
+  }
+]

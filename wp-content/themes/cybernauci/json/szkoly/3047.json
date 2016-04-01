@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8444",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3047",
+    "miejscowosc": "Samborzec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Samborzec",
+    "numer": "79",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  },
+  {
+    "id": "8445",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3047",
+    "miejscowosc": "Samborzec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Samborzec",
+    "numer": "79",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  }
+]

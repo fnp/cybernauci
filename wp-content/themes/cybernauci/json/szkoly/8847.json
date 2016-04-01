@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24267",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8847",
+    "miejscowosc": "Komor\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii D\u0105browskiej",
+    "ulica": "Al. Marii D\u0105browskiej",
+    "numer": "12\/20",
+    "kod": "05-806",
+    "poczta": "Komor\u00f3w\r"
+  },
+  {
+    "id": "24268",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8847",
+    "miejscowosc": "Komor\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii D\u0105browskiej",
+    "ulica": "Al. Marii D\u0105browskiej",
+    "numer": "12\/20",
+    "kod": "05-806",
+    "poczta": "Komor\u00f3w\r"
+  },
+  {
+    "id": "24269",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8847",
+    "miejscowosc": "Komor\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii D\u0105browskiej",
+    "ulica": "Aleja Marii D\u0105browskiej",
+    "numer": "12\/20",
+    "kod": "05-806",
+    "poczta": "Komor\u00f3w\r"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "21968",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015awi\u0119tej Jadwigi",
+    "ulica": "Ostr\u00f3w",
+    "numer": "29",
+    "kod": "37-700",
+    "poczta": "Przemy\u015bl\r"
+  },
+  {
+    "id": "22091",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "215",
+    "kod": "39-103",
+    "poczta": "Ostr\u00f3w\r"
+  },
+  {
+    "id": "22094",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ostr\u00f3w",
+    "numer": "215",
+    "kod": "39-103",
+    "poczta": "Ostr\u00f3w\r"
+  },
+  {
+    "id": "22003",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "5a",
+    "kod": "37-207",
+    "poczta": "Ga\u0107\r"
+  },
+  {
+    "id": "21969",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tej Jadwigi",
+    "ulica": "Ostr\u00f3w",
+    "numer": "29",
+    "kod": "37-700",
+    "poczta": "Przemy\u015bl\r"
+  },
+  {
+    "id": "21213",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Ostr\u00f3w",
+    "numer": "139",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  },
+  {
+    "id": "21214",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7511",
+    "miejscowosc": "Ostr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Ostr\u00f3w",
+    "numer": "139",
+    "kod": "37-550",
+    "poczta": "Radymno\r"
+  }
+]

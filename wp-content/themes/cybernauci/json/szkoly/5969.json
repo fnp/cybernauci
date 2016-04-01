@@ -1,0 +1,62 @@
+[
+  {
+    "id": "16957",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5969",
+    "miejscowosc": "Bia\u0142a Rawska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "Mickiewicza",
+    "numer": "24",
+    "kod": "96-230",
+    "poczta": "Bia\u0142a Rawska\r"
+  },
+  {
+    "id": "16958",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5969",
+    "miejscowosc": "Bia\u0142a Rawska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "15 Grudnia",
+    "numer": "9",
+    "kod": "96-230",
+    "poczta": "Bia\u0142a Rawska\r"
+  },
+  {
+    "id": "16953",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5969",
+    "miejscowosc": "Bia\u0142a Rawska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Mickiewicza",
+    "numer": "22",
+    "kod": "96-230",
+    "poczta": "Bia\u0142a Rawska\r"
+  },
+  {
+    "id": "16959",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5969",
+    "miejscowosc": "Bia\u0142a Rawska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "15 Grudnia",
+    "numer": "9",
+    "kod": "96-230",
+    "poczta": "Bia\u0142a Rawska\r"
+  },
+  {
+    "id": "16960",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5969",
+    "miejscowosc": "Bia\u0142a Rawska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Zawodowych",
+    "ulica": "15 Grudnia",
+    "numer": "9",
+    "kod": "96-230",
+    "poczta": "Bia\u0142a Rawska\r"
+  }
+]

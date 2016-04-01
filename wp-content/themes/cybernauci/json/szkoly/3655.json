@@ -1,0 +1,74 @@
+[
+  {
+    "id": "10333",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. dr. Leszka Nosa ",
+    "ulica": "Sienkiewicza",
+    "numer": "21",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  },
+  {
+    "id": "10335",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  },
+  {
+    "id": "10332",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  },
+  {
+    "id": "10334",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Syrokomli ",
+    "ulica": "Sienkiewicza",
+    "numer": "21",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  },
+  {
+    "id": "10336",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  },
+  {
+    "id": "10337",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3655",
+    "miejscowosc": "Micha\u0142owo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sienkiewicza",
+    "numer": "5",
+    "kod": "16-050",
+    "poczta": "Micha\u0142owo\r"
+  }
+]

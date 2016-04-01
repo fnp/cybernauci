@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18523",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6543",
+    "miejscowosc": "\u015alesin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Kopernika ",
+    "ulica": "M\u0142odzie\u017cowa",
+    "numer": "1",
+    "kod": "62-561",
+    "poczta": "\u015alesin\r"
+  },
+  {
+    "id": "18524",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6543",
+    "miejscowosc": "\u015alesin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "55",
+    "kod": "62-561",
+    "poczta": "\u015alesin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17876",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6216",
+    "miejscowosc": "Pr\u00f3chnowo",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Pr\u00f3chnowo",
+    "numer": "26",
+    "kod": "64-830",
+    "poczta": "Margonin\r"
+  },
+  {
+    "id": "17877",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6216",
+    "miejscowosc": "Pr\u00f3chnowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Pr\u00f3chnowo",
+    "numer": "26",
+    "kod": "64-830",
+    "poczta": "Margonin\r"
+  }
+]

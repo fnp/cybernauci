@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15027",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5302",
+    "miejscowosc": "Szczytna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wolno\u015bci",
+    "numer": "80",
+    "kod": "57-330",
+    "poczta": "Szczytna\r"
+  },
+  {
+    "id": "15026",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5302",
+    "miejscowosc": "Szczytna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Or\u0142a Bia\u0142ego",
+    "ulica": "Ko\u015bcielna",
+    "numer": "6",
+    "kod": "57-330",
+    "poczta": "Szczytna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20969",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7414",
+    "miejscowosc": "Nozdrzec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nozdrzec",
+    "numer": "227",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  },
+  {
+    "id": "20970",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7414",
+    "miejscowosc": "Nozdrzec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nozdrzec",
+    "numer": "227",
+    "kod": "36-245",
+    "poczta": "Nozdrzec\r"
+  }
+]

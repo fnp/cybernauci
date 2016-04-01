@@ -1,0 +1,50 @@
+[
+  {
+    "id": "21023",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7430",
+    "miejscowosc": "Czarna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Konarskiego",
+    "numer": "23",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "21024",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7430",
+    "miejscowosc": "Czarna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Konarskiego",
+    "numer": "23",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "21690",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7430",
+    "miejscowosc": "Czarna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Czarna",
+    "numer": "857",
+    "kod": "37-125",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "21691",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7430",
+    "miejscowosc": "Czarna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czarna",
+    "numer": "857",
+    "kod": "37-125",
+    "poczta": "Czarna\r"
+  }
+]

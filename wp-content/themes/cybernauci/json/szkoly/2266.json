@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6256",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2266",
+    "miejscowosc": "Barcice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Barcice",
+    "numer": "66",
+    "kod": "33-342",
+    "poczta": "Barcice\r"
+  },
+  {
+    "id": "6257",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2266",
+    "miejscowosc": "Barcice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Barcice",
+    "numer": "66",
+    "kod": "33-342",
+    "poczta": "Barcice\r"
+  }
+]

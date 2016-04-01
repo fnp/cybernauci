@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9494",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3469",
+    "miejscowosc": "Barcino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kawaler\u00f3w Orderu U\u015bmiechu",
+    "ulica": "Barcino",
+    "numer": "59",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  },
+  {
+    "id": "9495",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3469",
+    "miejscowosc": "Barcino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kawaler\u00f3w Orderu U\u015bmiechu",
+    "ulica": "Barcino",
+    "numer": "59",
+    "kod": "77-230",
+    "poczta": "K\u0119pice\r"
+  }
+]

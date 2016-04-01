@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4393",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piotrowice",
+    "numer": "107",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4391",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piotrowice",
+    "numer": "107",
+    "kod": "24-150",
+    "poczta": "Na\u0142\u0119cz\u00f3w\r"
+  },
+  {
+    "id": "4035",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Piotrowice",
+    "numer": "183",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4033",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechanizacji Rolnictwa",
+    "ulica": "Piotrowice",
+    "numer": "183",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4034",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Samochodowe",
+    "ulica": "Piotrowice",
+    "numer": "183",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  },
+  {
+    "id": "4036",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1266",
+    "miejscowosc": "Piotrowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Piotrowice",
+    "numer": "183",
+    "kod": "23-107",
+    "poczta": "Strzy\u017cewice\r"
+  }
+]

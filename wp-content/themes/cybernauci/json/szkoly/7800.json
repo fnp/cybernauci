@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21795",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7800",
+    "miejscowosc": "Padew Narodowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "39-340",
+    "poczta": "Padew Narodowa\r"
+  },
+  {
+    "id": "21797",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7800",
+    "miejscowosc": "Padew Narodowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "39-340",
+    "poczta": "Padew Narodowa\r"
+  }
+]

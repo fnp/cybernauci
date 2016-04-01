@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21051",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7444",
+    "miejscowosc": "Podgrodzie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Podgrodzie",
+    "numer": "56 a",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21052",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7444",
+    "miejscowosc": "Podgrodzie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Podgrodzie",
+    "numer": "56 a",
+    "kod": "39-200",
+    "poczta": "D\u0119bica\r"
+  }
+]

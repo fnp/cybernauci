@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9452",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3450",
+    "miejscowosc": "Mrzezino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "54",
+    "kod": "84-123",
+    "poczta": "Po\u0142chowo\r"
+  },
+  {
+    "id": "9453",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3450",
+    "miejscowosc": "Mrzezino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dworcowa",
+    "numer": "54",
+    "kod": "84-123",
+    "poczta": "Po\u0142chowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15384",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5446",
+    "miejscowosc": "Kostom\u0142oty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego",
+    "ulica": "Wroc\u0142awska",
+    "numer": "10 A",
+    "kod": "55-311",
+    "poczta": "Kostom\u0142oty\r"
+  },
+  {
+    "id": "15381",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5446",
+    "miejscowosc": "Kostom\u0142oty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Wroc\u0142awska",
+    "numer": "10",
+    "kod": "55-311",
+    "poczta": "Kostom\u0142oty\r"
+  }
+]

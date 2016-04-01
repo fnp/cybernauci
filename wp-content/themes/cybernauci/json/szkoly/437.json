@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1013",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "26",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1011",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1008",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Armii Krajowej",
+    "numer": "26",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1014",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Mickiewicza",
+    "numer": "26",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1012",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1009",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Armii Krajowej",
+    "numer": "26",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  },
+  {
+    "id": "1010",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "437",
+    "miejscowosc": "Koniecpol",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Krajowej",
+    "numer": "26",
+    "kod": "42-230",
+    "poczta": "Koniecpol\r"
+  }
+]

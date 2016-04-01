@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20479",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7251",
+    "miejscowosc": "Lubrza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "os. Szkolne",
+    "numer": "14",
+    "kod": "66-218",
+    "poczta": "Lubrza\r"
+  },
+  {
+    "id": "20481",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7251",
+    "miejscowosc": "Lubrza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "os. Szkolne",
+    "numer": "14",
+    "kod": "66-218",
+    "poczta": "Lubrza\r"
+  }
+]

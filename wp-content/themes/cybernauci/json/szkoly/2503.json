@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6826",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2503",
+    "miejscowosc": "Ple\u015bna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ple\u015bna",
+    "numer": "228A",
+    "kod": "33-171",
+    "poczta": "Ple\u015bna\r"
+  },
+  {
+    "id": "6823",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2503",
+    "miejscowosc": "Ple\u015bna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ple\u015bna",
+    "numer": "228",
+    "kod": "33-171",
+    "poczta": "Ple\u015bna\r"
+  }
+]

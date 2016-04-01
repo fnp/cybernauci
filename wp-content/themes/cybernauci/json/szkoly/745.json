@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1771",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "745",
+    "miejscowosc": "Marklowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wyzwolenia",
+    "numer": "152",
+    "kod": "44-321",
+    "poczta": "Marklowice\r"
+  },
+  {
+    "id": "1769",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "745",
+    "miejscowosc": "Marklowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wyzwolenia",
+    "numer": "160",
+    "kod": "44-321",
+    "poczta": "Marklowice\r"
+  },
+  {
+    "id": "1770",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "745",
+    "miejscowosc": "Marklowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wiosny Lud\u00f3w",
+    "numer": "78",
+    "kod": "44-321",
+    "poczta": "Marklowice\r"
+  }
+]

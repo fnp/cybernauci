@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9191",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3336",
+    "miejscowosc": "Wiele",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Antoniego Skwierawskiego",
+    "ulica": "Wicka Rogali",
+    "numer": "7",
+    "kod": "83-441",
+    "poczta": "Karsin\r"
+  },
+  {
+    "id": "9192",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3336",
+    "miejscowosc": "Wiele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wicka Rogali",
+    "ulica": "Wicka Rogali",
+    "numer": "7",
+    "kod": "83-441",
+    "poczta": "Karsin\r"
+  }
+]

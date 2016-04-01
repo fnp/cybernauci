@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4110",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1314",
+    "miejscowosc": "Kijany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kijany",
+    "numer": "19",
+    "kod": "21-077",
+    "poczta": "Spiczyn\r"
+  },
+  {
+    "id": "4111",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1314",
+    "miejscowosc": "Kijany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kijany",
+    "numer": "19",
+    "kod": "21-077",
+    "poczta": "Spiczyn\r"
+  },
+  {
+    "id": "4112",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1314",
+    "miejscowosc": "Kijany",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kijany",
+    "numer": "19",
+    "kod": "21-077",
+    "poczta": "Spiczyn\r"
+  }
+]

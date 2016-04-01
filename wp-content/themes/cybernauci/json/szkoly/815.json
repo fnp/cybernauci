@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1985",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "815",
+    "miejscowosc": "Rycerka G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Rycerka G\u00f3rna",
+    "numer": "183",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  },
+  {
+    "id": "1986",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "815",
+    "miejscowosc": "Rycerka G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Karola Wojty\u0142y",
+    "ulica": "Rycerka G\u00f3rna",
+    "numer": "183",
+    "kod": "34-370",
+    "poczta": "Rajcza\r"
+  }
+]

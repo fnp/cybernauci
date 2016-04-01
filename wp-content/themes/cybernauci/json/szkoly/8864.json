@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24313",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8864",
+    "miejscowosc": "Czernice Borowe",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "06-415",
+    "poczta": "Czernice Borowe\r"
+  },
+  {
+    "id": "24311",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8864",
+    "miejscowosc": "Czernice Borowe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janiny Sieklickiej",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "06-415",
+    "poczta": "Czernice Borowe\r"
+  }
+]

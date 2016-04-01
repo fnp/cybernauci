@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6447",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2343",
+    "miejscowosc": "Maruszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "29",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6448",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2343",
+    "miejscowosc": "Maruszyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tego Stanis\u0142awa Kostki",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "29",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6445",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2343",
+    "miejscowosc": "Maruszyna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "83",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6446",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2343",
+    "miejscowosc": "Maruszyna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szko\u0142y Podstawowej i Gimnazjum Szko\u0142a Podstawowa im. \u015bw. Jana Kantego",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "83",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

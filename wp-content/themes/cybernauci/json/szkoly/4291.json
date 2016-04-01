@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12246",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4291",
+    "miejscowosc": "Narzym",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Jana Paw\u0142a II Publiczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "14",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  },
+  {
+    "id": "12247",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4291",
+    "miejscowosc": "Narzym",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Nr 2 im. Jana Paw\u0142a II Szko\u0142a Podstawowa im. Karola Ma\u0142ka",
+    "ulica": "Ko\u015bcielna",
+    "numer": "14",
+    "kod": "13-240",
+    "poczta": "I\u0142owo-Osada\r"
+  }
+]

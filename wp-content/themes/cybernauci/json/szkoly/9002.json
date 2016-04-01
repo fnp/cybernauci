@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24539",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9002",
+    "miejscowosc": "Domanice-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Domanice-Kolonia",
+    "numer": "18A",
+    "kod": "08-113",
+    "poczta": "Domanice\r"
+  },
+  {
+    "id": "24538",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9002",
+    "miejscowosc": "Domanice-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 11 Listopada 1918 roku",
+    "ulica": "Domanice-Kolonia",
+    "numer": "18",
+    "kod": "08-113",
+    "poczta": "Domanice\r"
+  }
+]

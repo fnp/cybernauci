@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21531",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7682",
+    "miejscowosc": "Klimk\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zdrojowa",
+    "numer": "49",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  },
+  {
+    "id": "21532",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7682",
+    "miejscowosc": "Klimk\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zdrojowa",
+    "numer": "49",
+    "kod": "38-480",
+    "poczta": "Ryman\u00f3w\r"
+  }
+]

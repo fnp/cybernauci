@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11436",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4064",
+    "miejscowosc": "Siemy\u015bl",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Noblist\u00f3w Polskich Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "78-123",
+    "poczta": "Siemy\u015bl\r"
+  },
+  {
+    "id": "11437",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4064",
+    "miejscowosc": "Siemy\u015bl",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Noblist\u00f3w Polskich Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "78-123",
+    "poczta": "Siemy\u015bl\r"
+  }
+]

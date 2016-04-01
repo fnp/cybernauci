@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23079",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8331",
+    "miejscowosc": "Szczawin Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "09-550",
+    "poczta": "Szczawin Ko\u015bcielny\r"
+  },
+  {
+    "id": "23080",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8331",
+    "miejscowosc": "Szczawin Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "1",
+    "kod": "09-550",
+    "poczta": "Szczawin Ko\u015bcielny\r"
+  }
+]

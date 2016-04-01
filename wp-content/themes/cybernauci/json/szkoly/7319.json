@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20614",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7319",
+    "miejscowosc": "Tomaszowo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "68-114",
+    "poczta": "Tomasz\r"
+  },
+  {
+    "id": "20618",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7319",
+    "miejscowosc": "Tomaszowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "68-114",
+    "poczta": "Tomaszowo\r"
+  }
+]

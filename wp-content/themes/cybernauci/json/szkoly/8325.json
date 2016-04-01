@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23069",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8325",
+    "miejscowosc": "Sierak\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Sierak\u00f3wek",
+    "numer": "1",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  },
+  {
+    "id": "23070",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8325",
+    "miejscowosc": "Sierak\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Sierak\u00f3wek",
+    "numer": "1",
+    "kod": "09-500",
+    "poczta": "Gostynin\r"
+  }
+]

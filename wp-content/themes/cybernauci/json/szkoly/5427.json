@@ -1,0 +1,110 @@
+[
+  {
+    "id": "15335",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II",
+    "ulica": "Ociosowa",
+    "numer": "3",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15336",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Hubala",
+    "numer": "3",
+    "kod": "59-100",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15337",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Katolickie Publiczne Gimnazjum",
+    "ulica": "Plac Ko\u015bcielny",
+    "numer": "2",
+    "kod": "59-100",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15338",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Skalnik\u00f3w",
+    "numer": "6",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15332",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Kmicica",
+    "numer": "23",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15333",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "D\u0105browskiego",
+    "numer": "1 a",
+    "kod": "59-100",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15334",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 im. Arkadego Fiedlera",
+    "ulica": "Kardyna\u0142a Boles\u0142awa Kominka",
+    "numer": "1",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15339",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Skalnik\u00f3w",
+    "numer": "6",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  },
+  {
+    "id": "15340",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5427",
+    "miejscowosc": "Polkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Skalnik\u00f3w",
+    "numer": "6",
+    "kod": "59-101",
+    "poczta": "Polkowice\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "11210",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3970",
+    "miejscowosc": "Maszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "72-130",
+    "poczta": "Maszewo\r"
+  },
+  {
+    "id": "11212",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3970",
+    "miejscowosc": "Maszewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "6",
+    "kod": "72-130",
+    "poczta": "Maszewo\r"
+  },
+  {
+    "id": "11208",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3970",
+    "miejscowosc": "Maszewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "7",
+    "kod": "72-130",
+    "poczta": "Maszewo\r"
+  },
+  {
+    "id": "11213",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3970",
+    "miejscowosc": "Maszewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1 ",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "6",
+    "kod": "72-130",
+    "poczta": "Maszewo\r"
+  },
+  {
+    "id": "11211",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3970",
+    "miejscowosc": "Maszewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Jedno\u015bci Narodowej",
+    "numer": "6",
+    "kod": "72-130",
+    "poczta": "Maszewo\r"
+  }
+]

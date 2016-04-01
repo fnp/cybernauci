@@ -1,0 +1,62 @@
+[
+  {
+    "id": "25009",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9213",
+    "miejscowosc": "T\u0142uszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Radzymi\u0144ska",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25011",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9213",
+    "miejscowosc": "T\u0142uszcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Radzymi\u0144ska",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25008",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9213",
+    "miejscowosc": "T\u0142uszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bcielna",
+    "numer": "1",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25012",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9213",
+    "miejscowosc": "T\u0142uszcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Radzymi\u0144ska",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "25013",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9213",
+    "miejscowosc": "T\u0142uszcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Radzymi\u0144ska",
+    "numer": "2",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

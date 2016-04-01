@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9596",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3518",
+    "miejscowosc": "Sm\u0119towo Graniczne",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Gda\u0144ska",
+    "numer": "23",
+    "kod": "83-230",
+    "poczta": "Sm\u0119towo Graniczne\r"
+  },
+  {
+    "id": "9597",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3518",
+    "miejscowosc": "Sm\u0119towo Graniczne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gda\u0144ska",
+    "numer": "23",
+    "kod": "83-230",
+    "poczta": "Sm\u0119towo Graniczne\r"
+  }
+]

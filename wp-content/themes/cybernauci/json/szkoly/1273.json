@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4048",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1273",
+    "miejscowosc": "Pliszczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. p\u0142k. pilota Wojciecha Ko\u0142aczkowskiego",
+    "ulica": "Pliszczyn",
+    "numer": "100",
+    "kod": "20-258",
+    "poczta": "Lublin\r"
+  },
+  {
+    "id": "4044",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1273",
+    "miejscowosc": "Pliszczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. R\u00f3\u017cy Ko\u0142aczkowskiej ",
+    "ulica": "kol. Pliszczn",
+    "numer": "100",
+    "kod": "20-258",
+    "poczta": "Lublin\r"
+  }
+]

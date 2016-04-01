@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14217",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5153",
+    "miejscowosc": "Bo\u017cejewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Niepubliczne",
+    "ulica": "Bo\u017cejewice",
+    "numer": "22",
+    "kod": "88-400",
+    "poczta": "\u017bnin\r"
+  },
+  {
+    "id": "14218",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5153",
+    "miejscowosc": "Bo\u017cejewice",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Bo\u017cejewice",
+    "numer": "22",
+    "kod": "88-400",
+    "poczta": "\u017bnin\r"
+  }
+]

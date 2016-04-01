@@ -1,0 +1,86 @@
+[
+  {
+    "id": "24867",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szamoty",
+    "numer": "35",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24866",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminy Liw",
+    "ulica": "Mickiewicza",
+    "numer": "23a",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24868",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Adama Mickiewicza",
+    "ulica": "Mickiewicza",
+    "numer": "3",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24869",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "10",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24865",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "16",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24870",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "10",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  },
+  {
+    "id": "24871",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9153",
+    "miejscowosc": "W\u0119gr\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "10",
+    "kod": "07-100",
+    "poczta": "W\u0119gr\u00f3w\r"
+  }
+]

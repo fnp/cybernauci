@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13391",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4756",
+    "miejscowosc": "Unis\u0142aw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lipowa",
+    "numer": "31",
+    "kod": "86-260",
+    "poczta": "Unis\u0142aw\r"
+  },
+  {
+    "id": "13392",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4756",
+    "miejscowosc": "Unis\u0142aw",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Lipowa",
+    "numer": "31",
+    "kod": "86-260",
+    "poczta": "Unis\u0142aw\r"
+  },
+  {
+    "id": "13393",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4756",
+    "miejscowosc": "Unis\u0142aw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowa",
+    "numer": "31",
+    "kod": "86-260",
+    "poczta": "Unis\u0142aw\r"
+  },
+  {
+    "id": "13394",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4756",
+    "miejscowosc": "Unis\u0142aw",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Lipowa",
+    "numer": "31",
+    "kod": "86-260",
+    "poczta": "Unis\u0142aw\r"
+  }
+]

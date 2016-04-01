@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16882",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5934",
+    "miejscowosc": "P\u0142awno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Przedborska",
+    "numer": "4",
+    "kod": "97-540",
+    "poczta": "Gidle\r"
+  },
+  {
+    "id": "16883",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5934",
+    "miejscowosc": "P\u0142awno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Przedborska",
+    "numer": "4",
+    "kod": "97-540",
+    "poczta": "Gidle\r"
+  }
+]

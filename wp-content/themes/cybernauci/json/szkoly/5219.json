@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14817",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5219",
+    "miejscowosc": "Niechl\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "56-215",
+    "poczta": "Niechl\u00f3w\r"
+  },
+  {
+    "id": "14818",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5219",
+    "miejscowosc": "Niechl\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "56-215",
+    "poczta": "Niechl\u00f3w\r"
+  }
+]

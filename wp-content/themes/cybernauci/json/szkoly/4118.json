@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11543",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4118",
+    "miejscowosc": "Nowe Warpno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "pl. Zwyci\u0119stwa",
+    "numer": "6",
+    "kod": "72-022",
+    "poczta": "Nowe Warpno\r"
+  },
+  {
+    "id": "11544",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4118",
+    "miejscowosc": "Nowe Warpno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "pl. Zwyci\u0119stwa",
+    "numer": "6",
+    "kod": "72-022",
+    "poczta": "Nowe Warpno\r"
+  }
+]

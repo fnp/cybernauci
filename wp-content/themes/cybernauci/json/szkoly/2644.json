@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7172",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2644",
+    "miejscowosc": "Klecza Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Klecza Dolna",
+    "numer": "77",
+    "kod": "34-124",
+    "poczta": "Klecza Dolna\r"
+  },
+  {
+    "id": "7139",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2644",
+    "miejscowosc": "Klecza Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Katolicka Szko\u0142a Podstawowa na Kopcu",
+    "ulica": "Klecza Dolna",
+    "numer": "1",
+    "kod": "34-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  },
+  {
+    "id": "7173",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2644",
+    "miejscowosc": "Klecza Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Klecza Dolna",
+    "numer": "77",
+    "kod": "34-124",
+    "poczta": "Klecza Dolna\r"
+  },
+  {
+    "id": "7143",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2644",
+    "miejscowosc": "Klecza Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Emilii i Karola Wojty\u0142\u00f3w",
+    "ulica": "Klecza Dolna",
+    "numer": "221",
+    "kod": "34-124",
+    "poczta": "Klecza G\u00f3rna\r"
+  }
+]

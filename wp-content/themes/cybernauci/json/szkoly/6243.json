@@ -1,0 +1,122 @@
+[
+  {
+    "id": "19675",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Integracyjnymi im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Wschowska",
+    "numer": "15",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19676",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "4",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19682",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Poniatowskiego",
+    "numer": "7",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19684",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kusoci\u0144skiego",
+    "numer": "1",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "17929",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Dworcowa",
+    "numer": "7",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19666",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Poniatowskiego",
+    "numer": "1",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19668",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 z Oddzia\u0142ami Integracyjnymi Pomnik Tysi\u0105clecia Pa\u0144stwa Polskiego im. Micha\u0142a Drzyma\u0142y",
+    "ulica": "Konopnickiej",
+    "numer": "1",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19669",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5 z Oddzia\u0142ami Integracyjnymi ",
+    "ulica": "\u017begockiego",
+    "numer": "26",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19685",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kusoci\u0144skiego",
+    "numer": "1",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  },
+  {
+    "id": "19686",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6243",
+    "miejscowosc": "Wolsztyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Kusoci\u0144skiego",
+    "numer": "1",
+    "kod": "64-200",
+    "poczta": "Wolsztyn\r"
+  }
+]

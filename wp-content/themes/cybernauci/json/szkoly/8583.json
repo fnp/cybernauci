@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23667",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8583",
+    "miejscowosc": "Stare Pie\u015bcirogi",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Kolejowa",
+    "numer": "65",
+    "kod": "05-191",
+    "poczta": "Nasielsk\r"
+  },
+  {
+    "id": "23668",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8583",
+    "miejscowosc": "Stare Pie\u015bcirogi",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kolejowa",
+    "numer": "65",
+    "kod": "05-191",
+    "poczta": "Nasielsk\r"
+  }
+]

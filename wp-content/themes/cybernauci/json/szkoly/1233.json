@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3984",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1233",
+    "miejscowosc": "Jastk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "al. Warszawska",
+    "numer": "43",
+    "kod": "21-002",
+    "poczta": "Jastk\u00f3w\r"
+  },
+  {
+    "id": "3982",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1233",
+    "miejscowosc": "Jastk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "al. Warszawska",
+    "numer": "43",
+    "kod": "21-002",
+    "poczta": "Jastk\u00f3w\r"
+  }
+]

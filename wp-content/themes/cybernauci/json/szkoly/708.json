@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1644",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "708",
+    "miejscowosc": "Nak\u0142o \u015al\u0105skie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "2",
+    "kod": "42-620",
+    "poczta": "Nak\u0142o \u015al\u0105skie\r"
+  },
+  {
+    "id": "1645",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "708",
+    "miejscowosc": "Nak\u0142o \u015al\u0105skie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "2",
+    "kod": "42-620",
+    "poczta": "Nak\u0142o \u015al\u0105skie\r"
+  },
+  {
+    "id": "1642",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "708",
+    "miejscowosc": "Nak\u0142o \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Morcinka",
+    "numer": "9",
+    "kod": "42-620",
+    "poczta": "Nak\u0142o \u015al\u0105skie\r"
+  },
+  {
+    "id": "1643",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "708",
+    "miejscowosc": "Nak\u0142o \u015al\u0105skie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Morcinka",
+    "numer": "9",
+    "kod": "42-620",
+    "poczta": "Nak\u0142o \u015al\u0105skie\r"
+  }
+]

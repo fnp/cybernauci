@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1074",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "480",
+    "miejscowosc": "Wrzosowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. J. Kochanowskiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "42-263",
+    "poczta": "Wrzosowa\r"
+  },
+  {
+    "id": "1075",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "480",
+    "miejscowosc": "Wrzosowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Kopernika",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "42-263",
+    "poczta": "Wrzosowa\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8857",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3182",
+    "miejscowosc": "Ugoszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ugoszcz",
+    "numer": "46",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  },
+  {
+    "id": "8858",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3182",
+    "miejscowosc": "Ugoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ugoszcz",
+    "numer": "46",
+    "kod": "77-143",
+    "poczta": "Studzienice\r"
+  }
+]

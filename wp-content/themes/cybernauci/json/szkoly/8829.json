@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24199",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8829",
+    "miejscowosc": "Koziebrody",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Koziebrody",
+    "numer": "5",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  },
+  {
+    "id": "24200",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8829",
+    "miejscowosc": "Koziebrody",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Koziebrody",
+    "numer": "5",
+    "kod": "09-140",
+    "poczta": "Raci\u0105\u017c\r"
+  }
+]

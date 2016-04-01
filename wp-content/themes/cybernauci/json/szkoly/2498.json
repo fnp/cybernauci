@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6815",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2498",
+    "miejscowosc": "Zaczarnie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zes\u0142a\u0144c\u00f3w Sybiru",
+    "ulica": "Zaczarnie",
+    "numer": "25",
+    "kod": "33-140",
+    "poczta": "Lisia G\u00f3ra\r"
+  },
+  {
+    "id": "6816",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2498",
+    "miejscowosc": "Zaczarnie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Zaczarnie",
+    "numer": "25",
+    "kod": "33-140",
+    "poczta": "Lisia G\u00f3ra\r"
+  }
+]

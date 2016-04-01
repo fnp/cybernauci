@@ -1,0 +1,26 @@
+[
+  {
+    "id": "458",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "222",
+    "miejscowosc": "Chr\u00f3\u015bcice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "1",
+    "kod": "46-080",
+    "poczta": "Chr\u00f3\u015bcice\r"
+  },
+  {
+    "id": "459",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "222",
+    "miejscowosc": "Chr\u00f3\u015bcice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "1",
+    "kod": "46-080",
+    "poczta": "Chr\u00f3\u015bcice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12792",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4528",
+    "miejscowosc": "Kolno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kolno",
+    "numer": "27",
+    "kod": "11-311",
+    "poczta": "Kolno\r"
+  },
+  {
+    "id": "12793",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4528",
+    "miejscowosc": "Kolno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Fili\u0105 ",
+    "ulica": "Kolno",
+    "numer": "27",
+    "kod": "11-311",
+    "poczta": "Kolno\r"
+  }
+]

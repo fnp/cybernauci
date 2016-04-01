@@ -1,0 +1,26 @@
+[
+  {
+    "id": "164",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "66",
+    "miejscowosc": "Byczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Polskich Noblist\u00f3w",
+    "ulica": "Borkowska",
+    "numer": "3",
+    "kod": "46-220",
+    "poczta": "Byczyna\r"
+  },
+  {
+    "id": "159",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "66",
+    "miejscowosc": "Byczyna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "6",
+    "kod": "46-220",
+    "poczta": "Byczyna\r"
+  }
+]

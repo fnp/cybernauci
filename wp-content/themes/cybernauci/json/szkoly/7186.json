@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20318",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7186",
+    "miejscowosc": "Skwierzyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Jagie\u0142\u0142y",
+    "ulica": "Stefana Batorego",
+    "numer": "14",
+    "kod": "66-440",
+    "poczta": "Skwierzyna\r"
+  },
+  {
+    "id": "20320",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7186",
+    "miejscowosc": "Skwierzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "66-440",
+    "poczta": "Skwierzyna\r"
+  },
+  {
+    "id": "20319",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7186",
+    "miejscowosc": "Skwierzyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi im. K. Makuszy\u0144skiego",
+    "ulica": "Mickiewicza",
+    "numer": "26",
+    "kod": "66-440",
+    "poczta": "Skwierzyna\r"
+  },
+  {
+    "id": "20321",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7186",
+    "miejscowosc": "Skwierzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Pozna\u0144ska",
+    "numer": "1",
+    "kod": "66-440",
+    "poczta": "Skwierzyna\r"
+  },
+  {
+    "id": "20322",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7186",
+    "miejscowosc": "Skwierzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "1",
+    "kod": "66-440",
+    "poczta": "Skwierzyna\r"
+  }
+]

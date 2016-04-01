@@ -1,0 +1,26 @@
+[
+  {
+    "id": "781",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "348",
+    "miejscowosc": "Godziszka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Beskidzka",
+    "numer": "162",
+    "kod": "43-376",
+    "poczta": "Godziszka\r"
+  },
+  {
+    "id": "782",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "348",
+    "miejscowosc": "Godziszka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy ",
+    "ulica": "Beskidzka",
+    "numer": "162",
+    "kod": "43-376",
+    "poczta": "Godziszka\r"
+  }
+]

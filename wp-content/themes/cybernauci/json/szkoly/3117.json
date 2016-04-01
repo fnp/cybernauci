@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8609",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3117",
+    "miejscowosc": "Ruszcza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  },
+  {
+    "id": "8610",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3117",
+    "miejscowosc": "Ruszcza",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "28-230",
+    "poczta": "Po\u0142aniec\r"
+  }
+]

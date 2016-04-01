@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3528",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "993",
+    "miejscowosc": "Krasne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Filialna ",
+    "ulica": "Krasne",
+    "numer": "32 A",
+    "kod": "22-170",
+    "poczta": "Rejowiec Fabryczny\r"
+  },
+  {
+    "id": "4777",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "993",
+    "miejscowosc": "Krasne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krasne",
+    "numer": "145",
+    "kod": "22-417",
+    "poczta": "Stary Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "3921",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "993",
+    "miejscowosc": "Krasne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Ma\u0142a Akademia z oddzia\u0142em przedszkolnym ",
+    "ulica": "Krasne",
+    "numer": "118",
+    "kod": "21-109",
+    "poczta": "Stary U\u015bcim\u00f3w\r"
+  }
+]

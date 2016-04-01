@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12813",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4542",
+    "miejscowosc": "Stawiguda",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Olimpijczyk\u00f3w Polskich",
+    "ulica": "Le\u015bna",
+    "numer": "1",
+    "kod": "11-034",
+    "poczta": "Stawiguda\r"
+  },
+  {
+    "id": "12814",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4542",
+    "miejscowosc": "Stawiguda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Warszawska",
+    "numer": "5",
+    "kod": "11-034",
+    "poczta": "Stawiguda\r"
+  }
+]

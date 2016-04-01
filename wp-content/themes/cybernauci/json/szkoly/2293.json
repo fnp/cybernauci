@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6334",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2293",
+    "miejscowosc": "Chy\u017cne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chy\u017cne",
+    "numer": "129",
+    "kod": "34-481",
+    "poczta": "Chy\u017cne\r"
+  },
+  {
+    "id": "6335",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2293",
+    "miejscowosc": "Chy\u017cne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chy\u017cne",
+    "numer": "129",
+    "kod": "34-481",
+    "poczta": "Chy\u017cne\r"
+  }
+]

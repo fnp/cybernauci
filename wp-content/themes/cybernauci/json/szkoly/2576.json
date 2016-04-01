@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6961",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2576",
+    "miejscowosc": "Niedomice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "33-132",
+    "poczta": "Niedomice\r"
+  },
+  {
+    "id": "6962",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2576",
+    "miejscowosc": "Niedomice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "33-132",
+    "poczta": "Niedomice\r"
+  }
+]

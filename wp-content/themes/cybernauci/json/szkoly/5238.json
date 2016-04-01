@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14858",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5238",
+    "miejscowosc": "W\u0105dro\u017ce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filia",
+    "ulica": "W\u0105dro\u017ce Wielkie",
+    "numer": "10",
+    "kod": "59-430",
+    "poczta": "W\u0105dro\u017ce Wielkie\r"
+  },
+  {
+    "id": "14857",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5238",
+    "miejscowosc": "W\u0105dro\u017ce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "W\u0105dro\u017ce Wielkie",
+    "numer": "169",
+    "kod": "59-430",
+    "poczta": "W\u0105dro\u017ce Wielkie\r"
+  }
+]

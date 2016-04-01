@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7234",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2676",
+    "miejscowosc": "Wola Batorska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Spo\u0142eczne im. Lady Sue Ryder",
+    "ulica": "Wola Batorska",
+    "numer": "734",
+    "kod": "32-007",
+    "poczta": "Zabierz\u00f3w Boche\u0144ski\r"
+  },
+  {
+    "id": "7223",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2676",
+    "miejscowosc": "Wola Batorska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wola Batorska",
+    "numer": "597",
+    "kod": "32-007",
+    "poczta": "Zabierz\u00f3w Boche\u0144ski\r"
+  }
+]

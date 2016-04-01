@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6937",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2564",
+    "miejscowosc": "Grabno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grabno",
+    "numer": "285",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  },
+  {
+    "id": "6938",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2564",
+    "miejscowosc": "Grabno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grabno",
+    "numer": "285",
+    "kod": "32-830",
+    "poczta": "Wojnicz\r"
+  }
+]

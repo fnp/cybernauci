@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1316",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "586",
+    "miejscowosc": "Ornontowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w Polskich ",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "7c",
+    "kod": "43-178",
+    "poczta": "Ornontowice\r"
+  },
+  {
+    "id": "1318",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "586",
+    "miejscowosc": "Ornontowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworcowa",
+    "numer": "1",
+    "kod": "43-178",
+    "poczta": "Ornontowice\r"
+  },
+  {
+    "id": "1317",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "586",
+    "miejscowosc": "Ornontowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "7",
+    "kod": "43-178",
+    "poczta": "Ornontowice\r"
+  },
+  {
+    "id": "1319",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "586",
+    "miejscowosc": "Ornontowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Dworcowa",
+    "numer": "1",
+    "kod": "43-178",
+    "poczta": "Ornontowice\r"
+  },
+  {
+    "id": "1320",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "586",
+    "miejscowosc": "Ornontowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Dworcowa",
+    "numer": "1",
+    "kod": "43-178",
+    "poczta": "Ornontowice\r"
+  }
+]

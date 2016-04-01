@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20654",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7325",
+    "miejscowosc": "Jasie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Podmok\u0142a",
+    "numer": "1",
+    "kod": "68-320",
+    "poczta": "Jasie\u0144\r"
+  },
+  {
+    "id": "20655",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7325",
+    "miejscowosc": "Jasie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Konopnickiej",
+    "numer": "10",
+    "kod": "68-320",
+    "poczta": "Jasie\u0144\r"
+  }
+]

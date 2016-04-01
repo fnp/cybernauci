@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1381",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum dla M\u0142odzie\u017cy ZDZ",
+    "ulica": "Sosnowa",
+    "numer": "2",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1378",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Ofiar Katynia",
+    "numer": "3",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1379",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Myszkowska",
+    "numer": "50",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1376",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. Szafera",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "61",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1380",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Myszkowska",
+    "numer": "50",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  },
+  {
+    "id": "1382",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "614",
+    "miejscowosc": "\u017barki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ZDZ",
+    "ulica": "Sosnowa",
+    "numer": "2",
+    "kod": "42-310",
+    "poczta": "\u017barki\r"
+  }
+]

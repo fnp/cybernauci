@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3702",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1077",
+    "miejscowosc": "Fajs\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Powsta\u0144c\u00f3w Styczniowych",
+    "ulica": "Fajs\u0142awice",
+    "numer": "130A",
+    "kod": "21-060",
+    "poczta": "Fajs\u0142awice\r"
+  },
+  {
+    "id": "3701",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1077",
+    "miejscowosc": "Fajs\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Powsta\u0144c\u00f3w Styczniowych",
+    "ulica": "Fajs\u0142awice",
+    "numer": "130A",
+    "kod": "21-060",
+    "poczta": "Fajs\u0142awice\r"
+  }
+]

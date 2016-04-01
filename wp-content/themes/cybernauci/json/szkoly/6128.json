@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17269",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6128",
+    "miejscowosc": "Boles\u0142awiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-430",
+    "poczta": "Boles\u0142awiec\r"
+  },
+  {
+    "id": "17270",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6128",
+    "miejscowosc": "Boles\u0142awiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-430",
+    "poczta": "Boles\u0142awiec\r"
+  }
+]

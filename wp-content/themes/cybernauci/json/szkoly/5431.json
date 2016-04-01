@@ -1,0 +1,38 @@
+[
+  {
+    "id": "15348",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5431",
+    "miejscowosc": "Radwanice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "10",
+    "kod": "59-160",
+    "poczta": "Radwanice\r"
+  },
+  {
+    "id": "15702",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5431",
+    "miejscowosc": "Radwanice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Brzechwy",
+    "ulica": "Szkolna",
+    "numer": "14a",
+    "kod": "55-010",
+    "poczta": "\u015awi\u0119ta Katarzyna\r"
+  },
+  {
+    "id": "15349",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5431",
+    "miejscowosc": "Radwanice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa im. Mariana Falskiego",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "59-160",
+    "poczta": "Radwanice\r"
+  }
+]

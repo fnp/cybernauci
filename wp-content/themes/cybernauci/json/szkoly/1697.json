@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5166",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1697",
+    "miejscowosc": "Chrostowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Chrostowa",
+    "numer": "1",
+    "kod": "32-742",
+    "poczta": "Sobol\u00f3w\r"
+  },
+  {
+    "id": "5167",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1697",
+    "miejscowosc": "Chrostowa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Technikum",
+    "ulica": "Chrostowa",
+    "numer": "1",
+    "kod": "32-742",
+    "poczta": "Sobol\u00f3w\r"
+  }
+]

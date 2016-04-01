@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24465",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8948",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kazimierza Mroza ",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "",
+    "kod": "26-631",
+    "poczta": "Jastrz\u0119bia\r"
+  },
+  {
+    "id": "24464",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8948",
+    "miejscowosc": "Jastrz\u0119bia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Biskupa Jana Chrapka",
+    "ulica": "Jastrz\u0119bia",
+    "numer": "",
+    "kod": "26-631",
+    "poczta": "Jastrz\u0119bia\r"
+  }
+]

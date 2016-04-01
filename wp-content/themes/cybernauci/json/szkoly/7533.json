@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21246",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7533",
+    "miejscowosc": "Zapa\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne im. Jana Paw\u0142a II",
+    "ulica": "Zapa\u0142\u00f3w",
+    "numer": "159",
+    "kod": "37-544",
+    "poczta": "Zapa\u0142\u00f3w\r"
+  },
+  {
+    "id": "21247",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7533",
+    "miejscowosc": "Zapa\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Zapa\u0142\u00f3w",
+    "numer": "159",
+    "kod": "37-544",
+    "poczta": "Zapa\u0142\u00f3w\r"
+  }
+]

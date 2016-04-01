@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12435",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4362",
+    "miejscowosc": "Lubawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awi\u0119tej Barbary",
+    "numer": "45",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12436",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4362",
+    "miejscowosc": "Lubawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gda\u0144ska",
+    "numer": "25",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12434",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4362",
+    "miejscowosc": "Lubawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzepnikowskiego",
+    "numer": "7",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12437",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4362",
+    "miejscowosc": "Lubawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gda\u0144ska",
+    "numer": "25",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  },
+  {
+    "id": "12438",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4362",
+    "miejscowosc": "Lubawa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gda\u0144ska",
+    "numer": "25",
+    "kod": "14-260",
+    "poczta": "Lubawa\r"
+  }
+]

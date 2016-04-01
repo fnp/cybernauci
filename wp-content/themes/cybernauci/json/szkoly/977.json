@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3504",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "977",
+    "miejscowosc": "Uher",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Uher",
+    "numer": "32",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  },
+  {
+    "id": "3505",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "977",
+    "miejscowosc": "Uher",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Uher",
+    "numer": "32",
+    "kod": "22-100",
+    "poczta": "Che\u0142m\r"
+  }
+]

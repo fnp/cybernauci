@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13591",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4850",
+    "miejscowosc": "Chrostkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Chrostkowo",
+    "numer": "80",
+    "kod": "87-602",
+    "poczta": "Chrostkowo\r"
+  },
+  {
+    "id": "13592",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4850",
+    "miejscowosc": "Chrostkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chrostkowo",
+    "numer": "80",
+    "kod": "87-602",
+    "poczta": "Chrostkowo\r"
+  }
+]

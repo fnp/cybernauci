@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23194",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8378",
+    "miejscowosc": "Nowe Miasto nad Pilic\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ogrodowa",
+    "numer": "16A",
+    "kod": "26-420",
+    "poczta": "Nowe Miasto nad Pilic\u0105\r"
+  },
+  {
+    "id": "23193",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8378",
+    "miejscowosc": "Nowe Miasto nad Pilic\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa ZDZ",
+    "ulica": "Tomaszowska",
+    "numer": "123\/40A",
+    "kod": "26-420",
+    "poczta": "Nowe Miasto nad Pilic\u0105\r"
+  },
+  {
+    "id": "23195",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8378",
+    "miejscowosc": "Nowe Miasto nad Pilic\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Technikum Zawodowe ZDZ",
+    "ulica": "Tomaszowska",
+    "numer": "123\/40A",
+    "kod": "26-420",
+    "poczta": "Nowe Miasto nad Pilic\u0105\r"
+  },
+  {
+    "id": "23190",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8378",
+    "miejscowosc": "Nowe Miasto nad Pilic\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "26-420",
+    "poczta": "Nowe Miasto nad Pilic\u0105\r"
+  },
+  {
+    "id": "23192",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8378",
+    "miejscowosc": "Nowe Miasto nad Pilic\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "16",
+    "kod": "26-420",
+    "poczta": "Nowe Miasto nad Pilic\u0105\r"
+  }
+]

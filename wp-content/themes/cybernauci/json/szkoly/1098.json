@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3735",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1098",
+    "miejscowosc": "Siennica R\u00f3\u017cana",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Siennica R\u00f3\u017cana",
+    "numer": "257",
+    "kod": "22-304",
+    "poczta": "Siennica R\u00f3\u017cana\r"
+  },
+  {
+    "id": "3736",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1098",
+    "miejscowosc": "Siennica R\u00f3\u017cana",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \"Syn\u00f3w Pu\u0142ku\"",
+    "ulica": "Siennica R\u00f3\u017cana",
+    "numer": "257",
+    "kod": "22-304",
+    "poczta": "Siennica R\u00f3\u017cana\r"
+  },
+  {
+    "id": "3733",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1098",
+    "miejscowosc": "Siennica R\u00f3\u017cana",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Siennica R\u00f3\u017cana",
+    "numer": "266 a",
+    "kod": "22-304",
+    "poczta": "Siennica R\u00f3\u017cana\r"
+  },
+  {
+    "id": "3734",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1098",
+    "miejscowosc": "Siennica R\u00f3\u017cana",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Siennica R\u00f3\u017cana",
+    "numer": "266A",
+    "kod": "22-304",
+    "poczta": "Siennica R\u00f3\u017cana\r"
+  }
+]

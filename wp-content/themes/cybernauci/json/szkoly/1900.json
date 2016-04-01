@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5580",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1900",
+    "miejscowosc": "Poskwit\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Poskwit\u00f3w",
+    "numer": "92",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  },
+  {
+    "id": "5575",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1900",
+    "miejscowosc": "Poskwit\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Poskwit\u00f3w",
+    "numer": "92",
+    "kod": "32-095",
+    "poczta": "Iwanowice\r"
+  }
+]

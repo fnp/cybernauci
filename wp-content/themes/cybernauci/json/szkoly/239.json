@@ -1,0 +1,62 @@
+[
+  {
+    "id": "481",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "239",
+    "miejscowosc": "Niemodlin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Reymonta",
+    "numer": "9",
+    "kod": "49-100",
+    "poczta": "Niemodlin\r"
+  },
+  {
+    "id": "487",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "239",
+    "miejscowosc": "Niemodlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczna Zasadnicza Szko\u0142a Zawodowa Zespo\u0142u Szk\u00f3\u0142 im. Boles\u0142awa Chrobrego",
+    "ulica": "Opolska",
+    "numer": "34",
+    "kod": "49-100",
+    "poczta": "Niemodlin\r"
+  },
+  {
+    "id": "488",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "239",
+    "miejscowosc": "Niemodlin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Zespo\u0142u Szk\u00f3\u0142 im. Boles\u0142awa Chrobrego",
+    "ulica": "Opolska",
+    "numer": "34",
+    "kod": "49-100",
+    "poczta": "Niemodlin\r"
+  },
+  {
+    "id": "489",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "239",
+    "miejscowosc": "Niemodlin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Zespo\u0142u Szk\u00f3\u0142 im. Boles\u0142awa Chrobrego ",
+    "ulica": "Opolska",
+    "numer": "34",
+    "kod": "49-100",
+    "poczta": "Niemodlin\r"
+  },
+  {
+    "id": "484",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "239",
+    "miejscowosc": "Niemodlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "49-100",
+    "poczta": "Niemodlin\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3671",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1071",
+    "miejscowosc": "Modliborzyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ogrodowa",
+    "numer": "6",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  },
+  {
+    "id": "3672",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1071",
+    "miejscowosc": "Modliborzyce",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Ogrodowa",
+    "numer": "6",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  },
+  {
+    "id": "3673",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1071",
+    "miejscowosc": "Modliborzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "6",
+    "kod": "23-310",
+    "poczta": "Modliborzyce\r"
+  }
+]

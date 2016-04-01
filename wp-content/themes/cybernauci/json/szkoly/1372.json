@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4221",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1372",
+    "miejscowosc": "Mys\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mys\u0142\u00f3w",
+    "numer": "116A",
+    "kod": "21-426",
+    "poczta": "Wola Mys\u0142owska\r"
+  },
+  {
+    "id": "4222",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1372",
+    "miejscowosc": "Mys\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Mys\u0142\u00f3w",
+    "numer": "116A",
+    "kod": "21-426",
+    "poczta": "Wola Mys\u0142owska\r"
+  }
+]

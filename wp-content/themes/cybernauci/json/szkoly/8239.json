@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22908",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8239",
+    "miejscowosc": "Glinojeck",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "P\u0142ocka",
+    "numer": "7",
+    "kod": "06-450",
+    "poczta": "Glinojeck\r"
+  },
+  {
+    "id": "22909",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8239",
+    "miejscowosc": "Glinojeck",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta w Glinojecku",
+    "ulica": "P\u0142ocka",
+    "numer": "7",
+    "kod": "06-450",
+    "poczta": "Glinojeck\r"
+  },
+  {
+    "id": "22905",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8239",
+    "miejscowosc": "Glinojeck",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "P\u0142ocka",
+    "numer": "7",
+    "kod": "06-450",
+    "poczta": "Glinojeck\r"
+  }
+]

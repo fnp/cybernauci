@@ -1,0 +1,38 @@
+[
+  {
+    "id": "18493",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6526",
+    "miejscowosc": "Skulsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Koni\u0144ska",
+    "numer": "39",
+    "kod": "62-560",
+    "poczta": "Skulsk\r"
+  },
+  {
+    "id": "18503",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6526",
+    "miejscowosc": "Skulsk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Koni\u0144ska",
+    "numer": "39",
+    "kod": "62-560",
+    "poczta": "Skulsk\r"
+  },
+  {
+    "id": "18491",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6526",
+    "miejscowosc": "Skulsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Koni\u0144ska",
+    "numer": "39",
+    "kod": "62-560",
+    "poczta": "Skulsk\r"
+  }
+]

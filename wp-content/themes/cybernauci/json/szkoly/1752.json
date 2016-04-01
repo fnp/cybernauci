@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5266",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1752",
+    "miejscowosc": "Por\u0105bka Uszewska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Reymonta",
+    "ulica": "Por\u0105bka Uszewska",
+    "numer": "306",
+    "kod": "32-854",
+    "poczta": "Por\u0105bka Uszewska\r"
+  },
+  {
+    "id": "5265",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1752",
+    "miejscowosc": "Por\u0105bka Uszewska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142adys\u0142awa Reymonta",
+    "ulica": "Por\u0105bka Uszewska",
+    "numer": "306",
+    "kod": "32-854",
+    "poczta": "Por\u0105bka Uszewska\r"
+  }
+]

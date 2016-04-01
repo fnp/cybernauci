@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21343",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7573",
+    "miejscowosc": "Osiek Jasielski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Integracyjne im. Kr\u00f3la Kazimierza Wielkiego",
+    "ulica": "Osiek Jasielski",
+    "numer": "122",
+    "kod": "38-223",
+    "poczta": "Osiek Jasielski\r"
+  },
+  {
+    "id": "21344",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7573",
+    "miejscowosc": "Osiek Jasielski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Integracyjna",
+    "ulica": "Osiek Jasielski",
+    "numer": "122",
+    "kod": "38-223",
+    "poczta": "Osiek Jasielski\r"
+  }
+]

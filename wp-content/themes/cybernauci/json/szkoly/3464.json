@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9483",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3464",
+    "miejscowosc": "\u017belkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u017belkowo",
+    "numer": "26",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  },
+  {
+    "id": "9484",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3464",
+    "miejscowosc": "\u017belkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017belkowo",
+    "numer": "26",
+    "kod": "76-220",
+    "poczta": "G\u0142\u00f3wczyce\r"
+  }
+]

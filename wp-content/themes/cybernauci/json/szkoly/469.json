@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1056",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "469",
+    "miejscowosc": "Czarny Las",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Paw\u0142a Edmunda Strzeleckiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "42-233",
+    "poczta": "Mykan\u00f3w\r"
+  },
+  {
+    "id": "1057",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "469",
+    "miejscowosc": "Czarny Las",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "42-233",
+    "poczta": "Mykan\u00f3w\r"
+  }
+]

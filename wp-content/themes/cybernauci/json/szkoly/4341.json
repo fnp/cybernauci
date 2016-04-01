@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12360",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4341",
+    "miejscowosc": "Pisanica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pisanica",
+    "numer": "65",
+    "kod": "19-314",
+    "poczta": "Kalinowo\r"
+  },
+  {
+    "id": "12361",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4341",
+    "miejscowosc": "Pisanica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pisanica",
+    "numer": "65",
+    "kod": "19-314",
+    "poczta": "Kalinowo\r"
+  }
+]

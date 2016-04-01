@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24638",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9053",
+    "miejscowosc": "Mochowo-Parcele",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. gen. Edwarda \u017b\u00f3\u0142towskiego ",
+    "ulica": "Mochowo-Parcele",
+    "numer": "31",
+    "kod": "09-214",
+    "poczta": "Mochowo\r"
+  },
+  {
+    "id": "24636",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9053",
+    "miejscowosc": "Mochowo-Parcele",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Mochowo-Parcele",
+    "numer": "31",
+    "kod": "09-214",
+    "poczta": "Mochowo\r"
+  }
+]

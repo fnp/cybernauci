@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24069",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8761",
+    "miejscowosc": "Sik\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Katolickie Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sik\u00f3rz",
+    "numer": "83 A",
+    "kod": "09-413",
+    "poczta": "Sik\u00f3rz\r"
+  },
+  {
+    "id": "24068",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8761",
+    "miejscowosc": "Sik\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Katolickie",
+    "ulica": "Sik\u00f3rz",
+    "numer": "83 A",
+    "kod": "09-413",
+    "poczta": "Sik\u00f3rz\r"
+  },
+  {
+    "id": "24071",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8761",
+    "miejscowosc": "Sik\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sik\u00f3rz",
+    "numer": "85",
+    "kod": "09-413",
+    "poczta": "Sik\u00f3rz\r"
+  }
+]

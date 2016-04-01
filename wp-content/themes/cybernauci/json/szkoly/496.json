@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1121",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "496",
+    "miejscowosc": "\u017bernica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Leopolda Miki",
+    "numer": "37",
+    "kod": "44-144",
+    "poczta": "\u017bernica\r"
+  },
+  {
+    "id": "1122",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "496",
+    "miejscowosc": "\u017bernica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Leopolda Miki",
+    "numer": "37",
+    "kod": "44-144",
+    "poczta": "\u017bernica\r"
+  }
+]

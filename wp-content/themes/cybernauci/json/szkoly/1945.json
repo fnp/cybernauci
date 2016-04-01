@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5639",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1945",
+    "miejscowosc": "Liszki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. Jana Kantego ",
+    "ulica": "Liszki",
+    "numer": "457",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  },
+  {
+    "id": "5638",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1945",
+    "miejscowosc": "Liszki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Zaoczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Centrum Kszta\u0142cenia Suplement",
+    "ulica": "Liszki",
+    "numer": "1",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  },
+  {
+    "id": "5640",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1945",
+    "miejscowosc": "Liszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. Jana Kantego",
+    "ulica": "Liszki",
+    "numer": "457",
+    "kod": "32-060",
+    "poczta": "Liszki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19068",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6786",
+    "miejscowosc": "Wysoka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "89-320",
+    "poczta": "Wysoka\r"
+  },
+  {
+    "id": "19066",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6786",
+    "miejscowosc": "Wysoka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kard. Stefana Wyszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "89-320",
+    "poczta": "Wysoka\r"
+  }
+]

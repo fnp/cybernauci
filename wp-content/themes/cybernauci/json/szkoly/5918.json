@@ -1,0 +1,86 @@
+[
+  {
+    "id": "16827",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Polna",
+    "numer": "36",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16830",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Polna",
+    "numer": "13\/15",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16828",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Marii Konopnickiej ",
+    "ulica": "Mickiewicza",
+    "numer": "13\/15",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16829",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Prymus",
+    "ulica": "Polna",
+    "numer": "34",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16824",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Lotnik\u00f3w Polskich ",
+    "ulica": "\u0141\u0119czycka",
+    "numer": "13",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16831",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Polna",
+    "numer": "13\/15",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  },
+  {
+    "id": "16832",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5918",
+    "miejscowosc": "Podd\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Polna",
+    "numer": "13\/15",
+    "kod": "99-200",
+    "poczta": "Podd\u0119bice\r"
+  }
+]

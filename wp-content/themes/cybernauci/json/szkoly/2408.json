@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6639",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2408",
+    "miejscowosc": "Zator",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kongresowa",
+    "numer": "11",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6640",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2408",
+    "miejscowosc": "Zator",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kongresowa",
+    "numer": "11",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6641",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2408",
+    "miejscowosc": "Zator",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kongresowa",
+    "numer": "11",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6637",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2408",
+    "miejscowosc": "Zator",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kongresowa",
+    "numer": "11",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6638",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2408",
+    "miejscowosc": "Zator",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kongresowa",
+    "numer": "11",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  }
+]

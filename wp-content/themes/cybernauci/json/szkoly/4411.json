@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12536",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4411",
+    "miejscowosc": "Srokowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "11-420",
+    "poczta": "Srokowo\r"
+  },
+  {
+    "id": "12534",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4411",
+    "miejscowosc": "Srokowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Fili\u0105",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "11-420",
+    "poczta": "Srokowo\r"
+  }
+]

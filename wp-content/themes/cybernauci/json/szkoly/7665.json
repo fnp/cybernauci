@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21493",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7665",
+    "miejscowosc": "Moder\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Moder\u00f3wka",
+    "numer": "117",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  },
+  {
+    "id": "21494",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7665",
+    "miejscowosc": "Moder\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Moder\u00f3wka",
+    "numer": "117",
+    "kod": "38-460",
+    "poczta": "Jedlicze\r"
+  }
+]

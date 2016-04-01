@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6065",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2149",
+    "miejscowosc": "Che\u0142miec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Marcinkowicka",
+    "numer": "9",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  },
+  {
+    "id": "6066",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2149",
+    "miejscowosc": "Che\u0142miec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marcinkowicka",
+    "numer": "9",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  },
+  {
+    "id": "6057",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2149",
+    "miejscowosc": "Che\u0142miec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II ",
+    "ulica": "Boguszowa",
+    "numer": "40",
+    "kod": "33-300",
+    "poczta": "Nowy S\u0105cz\r"
+  },
+  {
+    "id": "6060",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2149",
+    "miejscowosc": "Che\u0142miec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa \"Praktyk\"",
+    "ulica": "Marcinkowicka",
+    "numer": "9",
+    "kod": "33-395",
+    "poczta": "Che\u0142miec\r"
+  }
+]

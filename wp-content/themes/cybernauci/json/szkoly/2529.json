@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6868",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2529",
+    "miejscowosc": "Szynwa\u0142d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szynwa\u0142d",
+    "numer": "11",
+    "kod": "33-158",
+    "poczta": "Szynwa\u0142d\r"
+  },
+  {
+    "id": "6869",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2529",
+    "miejscowosc": "Szynwa\u0142d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szynwa\u0142d",
+    "numer": "11",
+    "kod": "33-158",
+    "poczta": "Szynwa\u0142d\r"
+  }
+]

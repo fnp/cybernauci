@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12707",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4486",
+    "miejscowosc": "Babki Oleckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Babki Oleckie",
+    "numer": "12",
+    "kod": "19-400",
+    "poczta": "Olecko\r"
+  },
+  {
+    "id": "12708",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4486",
+    "miejscowosc": "Babki Oleckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Babki Oleckie",
+    "numer": "12",
+    "kod": "19-400",
+    "poczta": "Olecko\r"
+  }
+]

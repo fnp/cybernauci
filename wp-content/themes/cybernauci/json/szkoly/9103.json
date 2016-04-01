@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24750",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9103",
+    "miejscowosc": "Jab\u0142onna Lacka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Klonowa",
+    "numer": "6",
+    "kod": "08-304",
+    "poczta": "Jab\u0142onna Lacka\r"
+  },
+  {
+    "id": "24751",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9103",
+    "miejscowosc": "Jab\u0142onna Lacka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Klonowa",
+    "numer": "6",
+    "kod": "08-304",
+    "poczta": "Jab\u0142onna Lacka\r"
+  }
+]

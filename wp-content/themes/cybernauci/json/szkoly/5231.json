@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14848",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5231",
+    "miejscowosc": "M\u0119cinka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "M\u0119cinka",
+    "numer": "10B",
+    "kod": "59-424",
+    "poczta": "M\u0119cinka\r"
+  },
+  {
+    "id": "14849",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5231",
+    "miejscowosc": "M\u0119cinka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "M\u0119cinka",
+    "numer": "10B",
+    "kod": "59-424",
+    "poczta": "M\u0119cinka\r"
+  }
+]

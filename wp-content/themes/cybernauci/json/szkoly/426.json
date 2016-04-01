@@ -1,0 +1,38 @@
+[
+  {
+    "id": "990",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "426",
+    "miejscowosc": "Kamienica Polska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "A. Ferensa",
+    "numer": "12:00 AM",
+    "kod": "42-260",
+    "poczta": "Kamienica Polska\r"
+  },
+  {
+    "id": "991",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "426",
+    "miejscowosc": "Kamienica Polska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Adama Ferensa",
+    "numer": "12",
+    "kod": "42-260",
+    "poczta": "Kamienica Polska\r"
+  },
+  {
+    "id": "988",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "426",
+    "miejscowosc": "Kamienica Polska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "Adama Ferensa",
+    "numer": "12:00 AM",
+    "kod": "42-260",
+    "poczta": "Kamienica Polska\r"
+  }
+]

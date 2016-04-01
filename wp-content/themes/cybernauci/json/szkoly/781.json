@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1913",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "781",
+    "miejscowosc": "Rychwa\u0142d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Beskidzka",
+    "numer": "43",
+    "kod": "34-322",
+    "poczta": "Gilowice\r"
+  },
+  {
+    "id": "1914",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "781",
+    "miejscowosc": "Rychwa\u0142d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Beskidzka",
+    "numer": "43",
+    "kod": "34-322",
+    "poczta": "Gilowice\r"
+  }
+]

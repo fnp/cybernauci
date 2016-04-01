@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19782",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7110",
+    "miejscowosc": "Loty\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum ",
+    "ulica": "Polna",
+    "numer": "9",
+    "kod": "64-918",
+    "poczta": "Loty\u0144\r"
+  },
+  {
+    "id": "19783",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7110",
+    "miejscowosc": "Loty\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "9",
+    "kod": "64-918",
+    "poczta": "Loty\u0144\r"
+  }
+]

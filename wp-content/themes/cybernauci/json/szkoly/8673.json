@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25018",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8673",
+    "miejscowosc": "Jasienica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  },
+  {
+    "id": "23840",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8673",
+    "miejscowosc": "Jasienica",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Paw\u0142a Jasienicy",
+    "numer": "23",
+    "kod": "07-304",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "23849",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8673",
+    "miejscowosc": "Jasienica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Paw\u0142a Jasienicy",
+    "numer": "23",
+    "kod": "07-304",
+    "poczta": "Ostr\u00f3w Mazowiecka\r"
+  },
+  {
+    "id": "25019",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8673",
+    "miejscowosc": "Jasienica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "05-240",
+    "poczta": "T\u0142uszcz\r"
+  }
+]

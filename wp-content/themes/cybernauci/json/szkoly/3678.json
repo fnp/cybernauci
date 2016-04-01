@@ -1,0 +1,50 @@
+[
+  {
+    "id": "10388",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3678",
+    "miejscowosc": "Bra\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Armii Krajowej",
+    "numer": "7",
+    "kod": "17-120",
+    "poczta": "Bra\u0144sk\r"
+  },
+  {
+    "id": "10389",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3678",
+    "miejscowosc": "Bra\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Armii Krajowej",
+    "numer": "7",
+    "kod": "17-120",
+    "poczta": "Bra\u0144sk\r"
+  },
+  {
+    "id": "10390",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3678",
+    "miejscowosc": "Bra\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Armii Krajowej",
+    "numer": "7",
+    "kod": "17-120",
+    "poczta": "Bra\u0144sk\r"
+  },
+  {
+    "id": "10391",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3678",
+    "miejscowosc": "Bra\u0144sk",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Krajowej",
+    "numer": "7",
+    "kod": "17-120",
+    "poczta": "Bra\u0144sk\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20601",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7311",
+    "miejscowosc": "Wiechlice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Brzozowa",
+    "numer": "17",
+    "kod": "67-300",
+    "poczta": "Szprotawa\r"
+  },
+  {
+    "id": "20608",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7311",
+    "miejscowosc": "Wiechlice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Szko\u0142a Zawodowa",
+    "ulica": "Jesionowa",
+    "numer": "3",
+    "kod": "67-300",
+    "poczta": "Szprotawa\r"
+  },
+  {
+    "id": "20609",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7311",
+    "miejscowosc": "Wiechlice",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum z oddzia\u0142ami przysposabiaj\u0105cymi do pracy",
+    "ulica": "Jesionowa",
+    "numer": "3",
+    "kod": "67-300",
+    "poczta": "Szprotawa\r"
+  },
+  {
+    "id": "20602",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7311",
+    "miejscowosc": "Wiechlice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Brzozowa",
+    "numer": "17",
+    "kod": "67-300",
+    "poczta": "Szprotawa\r"
+  }
+]

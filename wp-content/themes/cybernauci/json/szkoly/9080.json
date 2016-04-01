@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24696",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9080",
+    "miejscowosc": "M\u0142odzieszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w Walk nad Bzur\u0105 1939 r.",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "13a",
+    "kod": "96-512",
+    "poczta": "M\u0142odzieszyn\r"
+  },
+  {
+    "id": "24694",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9080",
+    "miejscowosc": "M\u0142odzieszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Stanis\u0142awa Grzmota Skotnickiego",
+    "ulica": "Wsp\u00f3lna",
+    "numer": "13A",
+    "kod": "96-512",
+    "poczta": "M\u0142odzieszyn\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14054",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Wolno\u015bci",
+    "numer": "11",
+    "kod": "87-200",
+    "poczta": "Wabrze\u017ano\r"
+  },
+  {
+    "id": "14055",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Zygmunta Dzia\u0142owskiego",
+    "ulica": "Wolno\u015bci",
+    "numer": "35",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14052",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Jana Paw\u0142a II",
+    "ulica": "Wolno\u015bci",
+    "numer": "30",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14053",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "1",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14056",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u017beromskiego",
+    "numer": "6",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14057",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5079",
+    "miejscowosc": "W\u0105brze\u017ano",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u017beromskiego",
+    "numer": "6",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  }
+]

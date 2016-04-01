@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3542",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1003",
+    "miejscowosc": "Wierzbica-Osiedle",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pogodna",
+    "numer": "8",
+    "kod": "22-150",
+    "poczta": "Wierzbica\r"
+  },
+  {
+    "id": "3543",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1003",
+    "miejscowosc": "Wierzbica-Osiedle",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Pogodna",
+    "numer": "8",
+    "kod": "22-150",
+    "poczta": "Wierzbica\r"
+  }
+]

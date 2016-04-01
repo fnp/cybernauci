@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21983",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7914",
+    "miejscowosc": "Ma\u0107kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015bw. St. Kostki",
+    "ulica": "Ma\u0107kowice",
+    "numer": "64",
+    "kod": "37-713",
+    "poczta": "Ma\u0107kowice\r"
+  },
+  {
+    "id": "21984",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7914",
+    "miejscowosc": "Ma\u0107kowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015bw. St. Kostki",
+    "ulica": "Ma\u0107kowice",
+    "numer": "64",
+    "kod": "37-713",
+    "poczta": "Ma\u0107kowice\r"
+  }
+]

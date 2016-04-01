@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19626",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7038",
+    "miejscowosc": "Skoki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rogozi\u0144ska",
+    "numer": "1",
+    "kod": "62-085",
+    "poczta": "Skoki\r"
+  },
+  {
+    "id": "19621",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7038",
+    "miejscowosc": "Skoki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "62-085",
+    "poczta": "Skoki\r"
+  }
+]

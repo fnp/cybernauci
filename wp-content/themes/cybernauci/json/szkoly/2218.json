@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6526",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2218",
+    "miejscowosc": "Zarzecze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6175",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2218",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zarzecze",
+    "numer": "106",
+    "kod": "33-390",
+    "poczta": "\u0142\u0105cko\r"
+  },
+  {
+    "id": "6527",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2218",
+    "miejscowosc": "Zarzecze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  }
+]

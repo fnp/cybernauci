@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19272",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6881",
+    "miejscowosc": "Baranowo",
+    "typ": "podstawowa",
+    "nazwa": "Akademia Pitagorasa Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Platynowa",
+    "numer": "1",
+    "kod": "62-081",
+    "poczta": "Prze\u017amierowo\r"
+  },
+  {
+    "id": "19278",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6881",
+    "miejscowosc": "Baranowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wypoczynkowa",
+    "numer": "93",
+    "kod": "62-081",
+    "poczta": "Prze\u017amierowo\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23345",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8450",
+    "miejscowosc": "Sienno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  },
+  {
+    "id": "23346",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8450",
+    "miejscowosc": "Sienno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  },
+  {
+    "id": "23347",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8450",
+    "miejscowosc": "Sienno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  },
+  {
+    "id": "23348",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8450",
+    "miejscowosc": "Sienno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Szkolna",
+    "numer": "41",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  },
+  {
+    "id": "23349",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8450",
+    "miejscowosc": "Sienno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "41",
+    "kod": "27-350",
+    "poczta": "Sienno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20514",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7270",
+    "miejscowosc": "Babimost",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "3",
+    "kod": "66-110",
+    "poczta": "Babimost\r"
+  },
+  {
+    "id": "20515",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7270",
+    "miejscowosc": "Babimost",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017bwirki i Wigury",
+    "numer": "3",
+    "kod": "66-110",
+    "poczta": "Babimost\r"
+  }
+]

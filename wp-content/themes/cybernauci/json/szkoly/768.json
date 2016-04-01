@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1846",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "768",
+    "miejscowosc": "Wierbka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  },
+  {
+    "id": "1847",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "768",
+    "miejscowosc": "Wierbka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "42-436",
+    "poczta": "Pilica\r"
+  }
+]

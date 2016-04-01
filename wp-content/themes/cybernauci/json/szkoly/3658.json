@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10341",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3658",
+    "miejscowosc": "Sobolewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Podlaska",
+    "numer": "8",
+    "kod": "15-509",
+    "poczta": "Bia\u0142ystok\r"
+  },
+  {
+    "id": "10342",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3658",
+    "miejscowosc": "Sobolewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Podlaska",
+    "numer": "8",
+    "kod": "15-509",
+    "poczta": "Bia\u0142ystok\r"
+  }
+]

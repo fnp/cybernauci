@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13815",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4960",
+    "miejscowosc": "Radziki Du\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Radziki Du\u017ce",
+    "numer": "9",
+    "kod": "87-337",
+    "poczta": "W\u0105pielsk\r"
+  },
+  {
+    "id": "13814",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4960",
+    "miejscowosc": "Radziki Du\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Radziki Du\u017ce",
+    "numer": "9B",
+    "kod": "87-337",
+    "poczta": "W\u0105pielsk\r"
+  }
+]

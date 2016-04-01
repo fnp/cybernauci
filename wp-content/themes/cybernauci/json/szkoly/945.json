@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3449",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "945",
+    "miejscowosc": "Ksi\u0119\u017cpol",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bi\u0142gorajska",
+    "numer": "11",
+    "kod": "23-415",
+    "poczta": "Ksi\u0119\u017cpol\r"
+  },
+  {
+    "id": "3450",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "945",
+    "miejscowosc": "Ksi\u0119\u017cpol",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Bi\u0142gorajska",
+    "numer": "11",
+    "kod": "23-415",
+    "poczta": "Ksi\u0119\u017cpol\r"
+  }
+]

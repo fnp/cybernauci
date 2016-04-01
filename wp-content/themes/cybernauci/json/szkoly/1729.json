@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5219",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1729",
+    "miejscowosc": "Jadowniki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "\u015aw. Prokopa",
+    "numer": "4",
+    "kod": "32-851",
+    "poczta": "Jadowniki\r"
+  },
+  {
+    "id": "5221",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1729",
+    "miejscowosc": "Jadowniki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "32-851",
+    "poczta": "Jadowniki\r"
+  },
+  {
+    "id": "5232",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1729",
+    "miejscowosc": "Jadowniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "7",
+    "kod": "32-851",
+    "poczta": "Jadowniki\r"
+  }
+]

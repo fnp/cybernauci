@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10350",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3664",
+    "miejscowosc": "Turo\u015b\u0144 Ko\u015bcielna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Micha\u0142a Sopo\u0107ki ",
+    "ulica": "Bia\u0142ostocka",
+    "numer": "4",
+    "kod": "18-106",
+    "poczta": "Turo\u015b\u0144 Ko\u015bcielna\r"
+  },
+  {
+    "id": "10351",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3664",
+    "miejscowosc": "Turo\u015b\u0144 Ko\u015bcielna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "Bia\u0142ostocka",
+    "numer": "4",
+    "kod": "18-106",
+    "poczta": "Turo\u015b\u0144 Ko\u015bcielna\r"
+  }
+]

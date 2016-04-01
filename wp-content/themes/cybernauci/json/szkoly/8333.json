@@ -1,0 +1,62 @@
+[
+  {
+    "id": "23095",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8333",
+    "miejscowosc": "Podkowa Le\u015bna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Modrzewiowa",
+    "numer": "41",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  },
+  {
+    "id": "23096",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8333",
+    "miejscowosc": "Podkowa Le\u015bna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Podkowia\u0144skie Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr 60",
+    "ulica": "Wiewi\u00f3rek",
+    "numer": "2\/4",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  },
+  {
+    "id": "23097",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8333",
+    "miejscowosc": "Podkowa Le\u015bna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "20",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  },
+  {
+    "id": "23098",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8333",
+    "miejscowosc": "Podkowa Le\u015bna",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "20",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  },
+  {
+    "id": "23094",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8333",
+    "miejscowosc": "Podkowa Le\u015bna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Modrzewiowa",
+    "numer": "41",
+    "kod": "05-807",
+    "poczta": "Podkowa Le\u015bna\r"
+  }
+]

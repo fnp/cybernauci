@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17295",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6145",
+    "miejscowosc": "Sokolniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "98-420",
+    "poczta": "Sokolniki\r"
+  },
+  {
+    "id": "17296",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6145",
+    "miejscowosc": "Sokolniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "98-420",
+    "poczta": "Sokolniki\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4503",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1497",
+    "miejscowosc": "G\u00f3zd",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u00f3zd",
+    "numer": "109A",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  },
+  {
+    "id": "4504",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1497",
+    "miejscowosc": "G\u00f3zd",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Henryka Sienkiewicza",
+    "ulica": "G\u00f3zd",
+    "numer": "109A",
+    "kod": "08-550",
+    "poczta": "K\u0142oczew\r"
+  }
+]

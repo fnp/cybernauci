@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13209",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4659",
+    "miejscowosc": "B\u0105dkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. W\u0142. St. Reymonta",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "13",
+    "kod": "87-704",
+    "poczta": "B\u0105dkowo\r"
+  },
+  {
+    "id": "13210",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4659",
+    "miejscowosc": "B\u0105dkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u0142oc\u0142awska",
+    "numer": "13",
+    "kod": "87-704",
+    "poczta": "B\u0105dkowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19709",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7088",
+    "miejscowosc": "Pyzdry",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "62-310",
+    "poczta": "Pyzdry\r"
+  },
+  {
+    "id": "19710",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7088",
+    "miejscowosc": "Pyzdry",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "62-310",
+    "poczta": "Pyzdry\r"
+  }
+]

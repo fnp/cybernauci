@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22999",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8287",
+    "miejscowosc": "Miastk\u00f3w Ko\u015bcielny",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. W\u0142adys\u0142awa Broniewskiego",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "08-420",
+    "poczta": "Miastk\u00f3w Ko\u015bcielny\r"
+  },
+  {
+    "id": "23003",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8287",
+    "miejscowosc": "Miastk\u00f3w Ko\u015bcielny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. L. Wycz\u00f3\u0142kowskiego",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "08-420",
+    "poczta": "Miastk\u00f3w Ko\u015bcielny\r"
+  }
+]

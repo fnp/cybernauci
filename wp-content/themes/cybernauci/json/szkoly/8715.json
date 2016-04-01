@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23933",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8715",
+    "miejscowosc": "Zakr\u0119t",
+    "typ": "podstawowa",
+    "nazwa": "Dwuj\u0119zyczna Szko\u0142a Podstawowa Smart School",
+    "ulica": "Trakt Brzeski",
+    "numer": "75D",
+    "kod": "05-077",
+    "poczta": "Warszawa Weso\u0142a\r"
+  },
+  {
+    "id": "23935",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8715",
+    "miejscowosc": "Zakr\u0119t",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "05-077",
+    "poczta": "Warszawa\r"
+  },
+  {
+    "id": "23936",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8715",
+    "miejscowosc": "Zakr\u0119t",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Cypriana Kamila Norwida",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "05-077",
+    "poczta": "Warszawa\r"
+  }
+]

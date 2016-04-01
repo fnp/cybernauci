@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6017",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2128",
+    "miejscowosc": "Siepraw",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ks. Jana Przytockiego",
+    "numer": "10",
+    "kod": "32-447",
+    "poczta": "Siepraw\r"
+  },
+  {
+    "id": "6018",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2128",
+    "miejscowosc": "Siepraw",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Ks. Jana Przytockiego",
+    "numer": "10",
+    "kod": "32-447",
+    "poczta": "Siepraw\r"
+  }
+]

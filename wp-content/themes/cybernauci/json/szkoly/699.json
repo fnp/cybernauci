@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1632",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "699",
+    "miejscowosc": "Krupski M\u0142yn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "D\u0105browskiego",
+    "numer": "2",
+    "kod": "42-693",
+    "poczta": "Krupski M\u0142yn\r"
+  },
+  {
+    "id": "1628",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "699",
+    "miejscowosc": "Krupski M\u0142yn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Krasickiego",
+    "numer": "4",
+    "kod": "42-693",
+    "poczta": "Krupski M\u0142yn\r"
+  },
+  {
+    "id": "1633",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "699",
+    "miejscowosc": "Krupski M\u0142yn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. D\u0105browskiego",
+    "ulica": "D\u0105browskiego",
+    "numer": "2",
+    "kod": "42-693",
+    "poczta": "Krupski M\u0142yn\r"
+  },
+  {
+    "id": "1629",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "699",
+    "miejscowosc": "Krupski M\u0142yn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Krasickiego",
+    "numer": "4",
+    "kod": "42-693",
+    "poczta": "Krupski M\u0142yn\r"
+  },
+  {
+    "id": "1630",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "699",
+    "miejscowosc": "Krupski M\u0142yn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 13",
+    "ulica": "Krasickiego",
+    "numer": "4",
+    "kod": "42-693",
+    "poczta": "Krupski M\u0142yn\r"
+  }
+]

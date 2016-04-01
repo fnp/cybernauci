@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21638",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7738",
+    "miejscowosc": "M\u0142od\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "48",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  },
+  {
+    "id": "21639",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7738",
+    "miejscowosc": "M\u0142od\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "Szkolna",
+    "numer": "48",
+    "kod": "37-600",
+    "poczta": "Lubacz\u00f3w\r"
+  }
+]

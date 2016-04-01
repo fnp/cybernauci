@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9822",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3601",
+    "miejscowosc": "Sztum",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Jana Paw\u0142a II ",
+    "ulica": "Sienkiewicza",
+    "numer": "54",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9827",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3601",
+    "miejscowosc": "Sztum",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Kasprowicza",
+    "numer": "3",
+    "kod": "82-410",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9820",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3601",
+    "miejscowosc": "Sztum",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Reja",
+    "numer": "15",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9828",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3601",
+    "miejscowosc": "Sztum",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1 ",
+    "ulica": "Kasprowicza",
+    "numer": "3",
+    "kod": "82-410",
+    "poczta": "Sztum\r"
+  }
+]

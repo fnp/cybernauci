@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9217",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3353",
+    "miejscowosc": "Luba\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Luba\u0144",
+    "numer": "31",
+    "kod": "83-422",
+    "poczta": "Nowy Barkoczyn\r"
+  },
+  {
+    "id": "9218",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3353",
+    "miejscowosc": "Luba\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym",
+    "ulica": "Luba\u0144",
+    "numer": "31",
+    "kod": "83-422",
+    "poczta": "Nowy Barkoczyn\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20696",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7346",
+    "miejscowosc": "Mirostowice Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3 ",
+    "ulica": "Plac Ko\u015bcielny",
+    "numer": "25",
+    "kod": "68-205",
+    "poczta": "\u017bary\r"
+  },
+  {
+    "id": "20697",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7346",
+    "miejscowosc": "Mirostowice Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Plac Ko\u015bcielny",
+    "numer": "25",
+    "kod": "68-205",
+    "poczta": "\u017bary\r"
+  }
+]

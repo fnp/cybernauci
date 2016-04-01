@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21302",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7548",
+    "miejscowosc": "Osobnica",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Osobnica",
+    "numer": "99",
+    "kod": "38-241",
+    "poczta": "Osobnica\r"
+  },
+  {
+    "id": "21303",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7548",
+    "miejscowosc": "Osobnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Osobnica",
+    "numer": "99",
+    "kod": "38-241",
+    "poczta": "Osobnica\r"
+  },
+  {
+    "id": "21295",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7548",
+    "miejscowosc": "Osobnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Wincentego Witosa",
+    "ulica": "Osobnica",
+    "numer": "389",
+    "kod": "38-241",
+    "poczta": "Osobnica\r"
+  }
+]

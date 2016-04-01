@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21077",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7453",
+    "miejscowosc": "S\u0142otowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "S\u0142otowa",
+    "numer": "159",
+    "kod": "39-223",
+    "poczta": "Strzegocice\r"
+  },
+  {
+    "id": "21078",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7453",
+    "miejscowosc": "S\u0142otowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "S\u0142otowa",
+    "numer": "159",
+    "kod": "39-223",
+    "poczta": "Strzegocice\r"
+  }
+]

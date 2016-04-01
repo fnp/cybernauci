@@ -1,0 +1,122 @@
+[
+  {
+    "id": "422",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "ulica": "Kaliska",
+    "numer": "38",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "426",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "415",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Boczna",
+    "numer": "4",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "416",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3 im. Ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Fabryczna",
+    "numer": "18",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "417",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Styczniowa",
+    "numer": "7",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "423",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 5 ",
+    "ulica": "Fabryczna",
+    "numer": "1",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "420",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "ulica": "Listopadowa",
+    "numer": "18",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "424",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Fabryczna",
+    "numer": "1",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "427",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  },
+  {
+    "id": "428",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "200",
+    "miejscowosc": "Praszka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sportowa",
+    "numer": "8",
+    "kod": "46-320",
+    "poczta": "Praszka\r"
+  }
+]

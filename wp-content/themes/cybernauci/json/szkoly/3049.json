@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8448",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3049",
+    "miejscowosc": "\u0141ukawa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "\u0141ukawa",
+    "numer": "83",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  },
+  {
+    "id": "8449",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3049",
+    "miejscowosc": "\u0141ukawa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u0141ukawa",
+    "numer": "83",
+    "kod": "27-612",
+    "poczta": "Wilczyce\r"
+  }
+]

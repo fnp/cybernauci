@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8679",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3151",
+    "miejscowosc": "Kurzel\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole Plac\u00f3wek O\u015bwiatowych ",
+    "ulica": "Jana Bro\u017cka",
+    "numer": "7",
+    "kod": "29-100",
+    "poczta": "W\u0142oszczowa\r"
+  },
+  {
+    "id": "8680",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3151",
+    "miejscowosc": "Kurzel\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Bro\u017cka w Zespole Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Jana Bro\u017cka",
+    "numer": "7",
+    "kod": "29-100",
+    "poczta": "W\u0142oszczowa\r"
+  }
+]

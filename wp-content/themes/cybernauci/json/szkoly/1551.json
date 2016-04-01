@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4639",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1551",
+    "miejscowosc": "Rachanie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "47",
+    "kod": "22-640",
+    "poczta": "Rachanie\r"
+  },
+  {
+    "id": "4636",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1551",
+    "miejscowosc": "Rachanie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "47",
+    "kod": "22-640",
+    "poczta": "Rachanie\r"
+  }
+]

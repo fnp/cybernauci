@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6011",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2124",
+    "miejscowosc": "Krzes\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krzes\u0142awice",
+    "numer": "146",
+    "kod": "32-415",
+    "poczta": "Raciechowice\r"
+  },
+  {
+    "id": "6012",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2124",
+    "miejscowosc": "Krzes\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krzes\u0142awice",
+    "numer": "146",
+    "kod": "32-415",
+    "poczta": "Raciechowice\r"
+  }
+]

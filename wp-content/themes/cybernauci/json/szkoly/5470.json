@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15484",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Brzegowa",
+    "numer": "1",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15485",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15490",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Aleja Wojska Polskiego",
+    "numer": "16",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15489",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "31",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15480",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15481",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Jeleniog\u00f3rska",
+    "numer": "19",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15482",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Aleja Wojska Polskiego",
+    "numer": "3-5",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15491",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 7",
+    "ulica": "Aleja Wojska Polskiego",
+    "numer": "16",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15494",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kr\u00f3tka",
+    "numer": "6",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  },
+  {
+    "id": "15495",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5470",
+    "miejscowosc": "Strzegom",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Kr\u00f3tka",
+    "numer": "6",
+    "kod": "58-150",
+    "poczta": "Strzegom\r"
+  }
+]

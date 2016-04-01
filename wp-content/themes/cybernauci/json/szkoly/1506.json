@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4518",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1506",
+    "miejscowosc": "Bobrowniki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Rynek",
+    "numer": "1",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  },
+  {
+    "id": "4519",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1506",
+    "miejscowosc": "Bobrowniki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 4 ",
+    "ulica": "Rynek",
+    "numer": "1",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  }
+]

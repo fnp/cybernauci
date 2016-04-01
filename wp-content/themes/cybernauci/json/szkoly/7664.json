@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21487",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7664",
+    "miejscowosc": "Potok",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Potok",
+    "numer": "73",
+    "kod": "38-404",
+    "poczta": "Krosno\r"
+  },
+  {
+    "id": "21488",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7664",
+    "miejscowosc": "Potok",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Potok",
+    "numer": "73",
+    "kod": "38-404",
+    "poczta": "Krosno\r"
+  }
+]

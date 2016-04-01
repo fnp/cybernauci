@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14678",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5180",
+    "miejscowosc": "Osiecznica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Luba\u0144ska",
+    "numer": "35",
+    "kod": "59-724",
+    "poczta": "Osiecznica\r"
+  },
+  {
+    "id": "14679",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5180",
+    "miejscowosc": "Osiecznica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Luba\u0144ska",
+    "numer": "35",
+    "kod": "59-724",
+    "poczta": "Osiecznica\r"
+  }
+]

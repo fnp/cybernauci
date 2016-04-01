@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4088",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1300",
+    "miejscowosc": "Milej\u00f3w-Osada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  },
+  {
+    "id": "4089",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1300",
+    "miejscowosc": "Milej\u00f3w-Osada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Konarskiego",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "21-020",
+    "poczta": "Milej\u00f3w\r"
+  }
+]

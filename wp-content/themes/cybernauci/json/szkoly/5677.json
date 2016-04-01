@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16351",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5677",
+    "miejscowosc": "Wierzbie",
+    "typ": "podstawowa",
+    "nazwa": "Katolicka Szko\u0142a Podstawowa SPSK",
+    "ulica": "Wierzbie",
+    "numer": "34",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  },
+  {
+    "id": "16354",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5677",
+    "miejscowosc": "Wierzbie",
+    "typ": "gimnazjum",
+    "nazwa": "Katolickie Gimnazjum SPSK ",
+    "ulica": "Wierzbie",
+    "numer": "34",
+    "kod": "99-300",
+    "poczta": "Kutno\r"
+  }
+]

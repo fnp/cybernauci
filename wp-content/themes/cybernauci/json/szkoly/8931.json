@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24441",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8931",
+    "miejscowosc": "G\u00f3zd",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Starowiejska",
+    "numer": "130",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  },
+  {
+    "id": "24442",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8931",
+    "miejscowosc": "G\u00f3zd",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Starowiejska",
+    "numer": "130",
+    "kod": "26-634",
+    "poczta": "G\u00f3zd\r"
+  }
+]

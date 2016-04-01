@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20902",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7379",
+    "miejscowosc": "Humniska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Humniska",
+    "numer": "264",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20906",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7379",
+    "miejscowosc": "Humniska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Humniska",
+    "numer": "877",
+    "kod": "36-206",
+    "poczta": "Humniska\r"
+  },
+  {
+    "id": "20903",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7379",
+    "miejscowosc": "Humniska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Humniska",
+    "numer": "264",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20907",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7379",
+    "miejscowosc": "Humniska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Ignacego \u0141ukasiewicza",
+    "ulica": "Humniska",
+    "numer": "877",
+    "kod": "36-206",
+    "poczta": "Humniska\r"
+  }
+]

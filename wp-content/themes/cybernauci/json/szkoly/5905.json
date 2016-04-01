@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16807",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5905",
+    "miejscowosc": "Bujny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w ZSR CKP",
+    "ulica": "Piotrkowska",
+    "numer": "30",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  },
+  {
+    "id": "16800",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5905",
+    "miejscowosc": "Bujny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piotrkowska",
+    "numer": "104",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  },
+  {
+    "id": "16808",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5905",
+    "miejscowosc": "Bujny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w ZSR CKP ",
+    "ulica": "Piotrkowska",
+    "numer": "30",
+    "kod": "97-371",
+    "poczta": "Wola Krzysztoporska\r"
+  }
+]

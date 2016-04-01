@@ -1,0 +1,38 @@
+[
+  {
+    "id": "11241",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3983",
+    "miejscowosc": "Stepnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Dywizjonu 303",
+    "ulica": "Boles\u0142awa Krzywoustego",
+    "numer": "4",
+    "kod": "72-112",
+    "poczta": "Stepnica\r"
+  },
+  {
+    "id": "11242",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3983",
+    "miejscowosc": "Stepnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Krzywoustego",
+    "numer": "23A",
+    "kod": "72-112",
+    "poczta": "Stepnica\r"
+  },
+  {
+    "id": "11243",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3983",
+    "miejscowosc": "Stepnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Krzywoustego",
+    "numer": "4",
+    "kod": "72-112",
+    "poczta": "Stepnica\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13382",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4750",
+    "miejscowosc": "Grubno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Grubno",
+    "numer": "56",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  },
+  {
+    "id": "13383",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4750",
+    "miejscowosc": "Grubno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Grubno",
+    "numer": "56",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  }
+]

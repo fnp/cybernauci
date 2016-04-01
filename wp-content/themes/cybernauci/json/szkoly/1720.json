@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5200",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1720",
+    "miejscowosc": "Leszczyna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Leszczyna",
+    "numer": "132",
+    "kod": "32-733",
+    "poczta": "Trzciana\r"
+  },
+  {
+    "id": "5201",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1720",
+    "miejscowosc": "Leszczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Leszczyna",
+    "numer": "132",
+    "kod": "32-733",
+    "poczta": "Trzciana\r"
+  }
+]

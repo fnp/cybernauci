@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1526",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "674",
+    "miejscowosc": "Szonowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "M. Konopnickiej",
+    "numer": "2",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  },
+  {
+    "id": "1525",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "674",
+    "miejscowosc": "Szonowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M. Konopnickiej",
+    "numer": "2",
+    "kod": "47-411",
+    "poczta": "Rudnik\r"
+  }
+]

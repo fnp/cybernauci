@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19341",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6911",
+    "miejscowosc": "Orchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  },
+  {
+    "id": "19342",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6911",
+    "miejscowosc": "Orchowo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "62-436",
+    "poczta": "Orchowo\r"
+  }
+]

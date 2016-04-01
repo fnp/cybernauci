@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21717",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7772",
+    "miejscowosc": "Sonina",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sonina",
+    "numer": "168",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  },
+  {
+    "id": "21718",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7772",
+    "miejscowosc": "Sonina",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sonina",
+    "numer": "168",
+    "kod": "37-100",
+    "poczta": "\u0141a\u0144cut\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1909",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "780",
+    "miejscowosc": "Mi\u0119dzybrodzie \u017bywieckie",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Beskidzka",
+    "numer": "27",
+    "kod": "34-312",
+    "poczta": "Mi\u0119dzybrodzie Bialskie\r"
+  },
+  {
+    "id": "1910",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "780",
+    "miejscowosc": "Mi\u0119dzybrodzie \u017bywieckie",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Beskidzka",
+    "numer": "27",
+    "kod": "34-312",
+    "poczta": "Mi\u0119dzybrodzie Bialskie\r"
+  }
+]

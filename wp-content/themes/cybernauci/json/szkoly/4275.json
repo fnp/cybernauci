@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12218",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4275",
+    "miejscowosc": "P\u0142oskinia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "P\u0142oskinia",
+    "numer": "43",
+    "kod": "14-526",
+    "poczta": "P\u0142oskinia\r"
+  },
+  {
+    "id": "12219",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4275",
+    "miejscowosc": "P\u0142oskinia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "P\u0142oskinia",
+    "numer": "43",
+    "kod": "14-526",
+    "poczta": "P\u0142oskinia\r"
+  }
+]

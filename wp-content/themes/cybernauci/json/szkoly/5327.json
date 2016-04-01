@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15079",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5327",
+    "miejscowosc": "Smolnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Smolnik",
+    "numer": "51B, 52",
+    "kod": "59-820",
+    "poczta": "Le\u015bna\r"
+  },
+  {
+    "id": "15082",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5327",
+    "miejscowosc": "Smolnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Smolnik",
+    "numer": "22",
+    "kod": "59-820",
+    "poczta": "Le\u015bna\r"
+  }
+]

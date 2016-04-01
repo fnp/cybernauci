@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9684",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3550",
+    "miejscowosc": "Swaro\u017cyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wyzwolenia",
+    "numer": "18",
+    "kod": "83-115",
+    "poczta": "Swaro\u017cyn\r"
+  },
+  {
+    "id": "9687",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3550",
+    "miejscowosc": "Swaro\u017cyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-115",
+    "poczta": "Swaro\u017cyn\r"
+  },
+  {
+    "id": "9685",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3550",
+    "miejscowosc": "Swaro\u017cyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wyzwolenia",
+    "numer": "18",
+    "kod": "83-115",
+    "poczta": "Swaro\u017cyn\r"
+  },
+  {
+    "id": "9688",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3550",
+    "miejscowosc": "Swaro\u017cyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-115",
+    "poczta": "Swaro\u017cyn\r"
+  },
+  {
+    "id": "9689",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3550",
+    "miejscowosc": "Swaro\u017cyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-115",
+    "poczta": "Swaro\u017cyn\r"
+  }
+]

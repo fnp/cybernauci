@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24141",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8803",
+    "miejscowosc": "Wyszogr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Bohater\u00f3w Bitwy nad Bzur\u0105",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "11b",
+    "kod": "09-450",
+    "poczta": "Wyszogr\u00f3d\r"
+  },
+  {
+    "id": "24142",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8803",
+    "miejscowosc": "Wyszogr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "11a",
+    "kod": "09-450",
+    "poczta": "Wyszogr\u00f3d\r"
+  },
+  {
+    "id": "24138",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8803",
+    "miejscowosc": "Wyszogr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "11",
+    "kod": "09-450",
+    "poczta": "Wyszogr\u00f3d\r"
+  },
+  {
+    "id": "24143",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8803",
+    "miejscowosc": "Wyszogr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "11a",
+    "kod": "09-450",
+    "poczta": "Wyszogr\u00f3d\r"
+  },
+  {
+    "id": "24144",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8803",
+    "miejscowosc": "Wyszogr\u00f3d",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Niepdleg\u0142o\u015bci",
+    "numer": "11a",
+    "kod": "09-450",
+    "poczta": "Wyszogr\u00f3d\r"
+  }
+]

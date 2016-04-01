@@ -1,0 +1,122 @@
+[
+  {
+    "id": "15373",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Dwuj\u0119zyczne",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "23",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15372",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "25",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15363",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Strzelin",
+    "numer": "",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15365",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum SLAVIA",
+    "ulica": "gen. \"Grota\" Roweckiego",
+    "numer": "1",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15374",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "23",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15367",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce SLAVIA",
+    "ulica": "gen. \"Grota\" Roweckiego",
+    "numer": "1",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15360",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Sienkiewicza",
+    "numer": "41",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15359",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Brzegowa",
+    "numer": "67",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15370",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum im. Bohater\u00f3w Westerplatte",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "5",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15371",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5438",
+    "miejscowosc": "Strzelin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna im. Bohater\u00f3w Westerplatte",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "5",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8104",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2894",
+    "miejscowosc": "\u0141osie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u0141osie\u0144",
+    "numer": "1",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  },
+  {
+    "id": "8105",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2894",
+    "miejscowosc": "\u0141osie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "\u0141osie\u0144",
+    "numer": "1",
+    "kod": "26-065",
+    "poczta": "Piekosz\u00f3w\r"
+  }
+]

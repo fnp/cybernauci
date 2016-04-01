@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5699",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1976",
+    "miejscowosc": "Waganowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Waganowice",
+    "numer": "19",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5700",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1976",
+    "miejscowosc": "Waganowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Waganowice",
+    "numer": "19",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  }
+]

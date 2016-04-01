@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17437",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6186",
+    "miejscowosc": "Bratoszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "30",
+    "kod": "95-011",
+    "poczta": "Bratoszewice\r"
+  },
+  {
+    "id": "17432",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6186",
+    "miejscowosc": "Bratoszewice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Plac Staszica",
+    "numer": "14",
+    "kod": "95-011",
+    "poczta": "Bratoszewice\r"
+  },
+  {
+    "id": "17438",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6186",
+    "miejscowosc": "Bratoszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Idziego Radziszewskiego",
+    "ulica": "\u0141\u00f3dzka",
+    "numer": "30",
+    "kod": "95-011",
+    "poczta": "Bratoszewice\r"
+  },
+  {
+    "id": "17433",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6186",
+    "miejscowosc": "Bratoszewice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Plac Staszica",
+    "numer": "14",
+    "kod": "95-011",
+    "poczta": "Bratoszewice\r"
+  },
+  {
+    "id": "17434",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6186",
+    "miejscowosc": "Bratoszewice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Plac Staszica",
+    "numer": "14",
+    "kod": "95-011",
+    "poczta": "Bratoszewice\r"
+  }
+]

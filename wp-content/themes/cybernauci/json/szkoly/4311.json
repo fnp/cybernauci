@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12284",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4311",
+    "miejscowosc": "Nowakowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowakowo",
+    "numer": "47",
+    "kod": "82-310",
+    "poczta": "Elbl\u0105g\r"
+  },
+  {
+    "id": "12285",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4311",
+    "miejscowosc": "Nowakowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowakowo",
+    "numer": "47",
+    "kod": "82-310",
+    "poczta": "Elbl\u0105g\r"
+  }
+]

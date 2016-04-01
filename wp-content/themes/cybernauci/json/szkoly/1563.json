@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4652",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1563",
+    "miejscowosc": "Tarnawatka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Lubelska",
+    "numer": "62",
+    "kod": "22-604",
+    "poczta": "Tarnawatka\r"
+  },
+  {
+    "id": "4653",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1563",
+    "miejscowosc": "Tarnawatka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Lubelska",
+    "numer": "62",
+    "kod": "22-604",
+    "poczta": "Tarnawatka\r"
+  }
+]

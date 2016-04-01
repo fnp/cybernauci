@@ -1,0 +1,74 @@
+[
+  {
+    "id": "23522",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Le\u015bna",
+    "numer": "8",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  },
+  {
+    "id": "23525",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. A. Mickiewicza",
+    "ulica": "Licealna",
+    "numer": "3",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  },
+  {
+    "id": "23526",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Licealna",
+    "numer": "3",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  },
+  {
+    "id": "23520",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  },
+  {
+    "id": "23523",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Le\u015bna",
+    "numer": "8",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  },
+  {
+    "id": "23524",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8527",
+    "miejscowosc": "Mrozy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Le\u015bna",
+    "numer": "8",
+    "kod": "05-320",
+    "poczta": "Mrozy\r"
+  }
+]

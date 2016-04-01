@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9525",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3488",
+    "miejscowosc": "Smo\u0142dzino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "48",
+    "kod": "76-214",
+    "poczta": "Smo\u0142dzino\r"
+  },
+  {
+    "id": "9526",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3488",
+    "miejscowosc": "Smo\u0142dzino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bohater\u00f3w Warszawy",
+    "numer": "48",
+    "kod": "76-214",
+    "poczta": "Smo\u0142dzino\r"
+  }
+]

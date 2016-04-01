@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7878",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2752",
+    "miejscowosc": "Ma\u0142ogoszcz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "11 Listopada",
+    "numer": "14b",
+    "kod": "28-366",
+    "poczta": "Ma\u0142ogoszcz\r"
+  },
+  {
+    "id": "7879",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2752",
+    "miejscowosc": "Ma\u0142ogoszcz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "11 Listopada",
+    "numer": "14b",
+    "kod": "28-366",
+    "poczta": "Ma\u0142ogoszcz\r"
+  },
+  {
+    "id": "7880",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2752",
+    "miejscowosc": "Ma\u0142ogoszcz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "11 Listopada",
+    "numer": "14b",
+    "kod": "28-366",
+    "poczta": "Ma\u0142ogoszcz\r"
+  }
+]

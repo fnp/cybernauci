@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12510",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4399",
+    "miejscowosc": "Mo\u0142tajny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Mo\u0142tajny",
+    "numer": "1",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  },
+  {
+    "id": "12511",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4399",
+    "miejscowosc": "Mo\u0142tajny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Mo\u0142tajny",
+    "numer": "1",
+    "kod": "11-410",
+    "poczta": "Barciany\r"
+  }
+]

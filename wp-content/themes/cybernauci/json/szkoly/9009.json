@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24548",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9009",
+    "miejscowosc": "Bojmie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bojmie",
+    "numer": "33",
+    "kod": "08-122",
+    "poczta": "Bojmie\r"
+  },
+  {
+    "id": "24549",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9009",
+    "miejscowosc": "Bojmie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Januarego Suchodolskiego",
+    "ulica": "Bojmie",
+    "numer": "33",
+    "kod": "08-122",
+    "poczta": "Bojmie\r"
+  }
+]

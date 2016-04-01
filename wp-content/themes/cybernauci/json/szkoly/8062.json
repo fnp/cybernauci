@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22292",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8062",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "200",
+    "kod": "36-001",
+    "poczta": "Trzebownisko\r"
+  },
+  {
+    "id": "22293",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8062",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "200",
+    "kod": "36-001",
+    "poczta": "Trzebownisko\r"
+  },
+  {
+    "id": "22469",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8062",
+    "miejscowosc": "Nowa Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Jana Twardowskiego",
+    "ulica": "Nowa Wie\u015b",
+    "numer": "152",
+    "kod": "38-120",
+    "poczta": "Czudec\r"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3496",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "972",
+    "miejscowosc": "Oksz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Che\u0142mska",
+    "numer": "14",
+    "kod": "22-105",
+    "poczta": "Oksz\u00f3w\r"
+  },
+  {
+    "id": "3497",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "972",
+    "miejscowosc": "Oksz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Che\u0142mska",
+    "numer": "14",
+    "kod": "22-105",
+    "poczta": "Oksz\u00f3w\r"
+  },
+  {
+    "id": "3492",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "972",
+    "miejscowosc": "Oksz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "22-105",
+    "poczta": "Oksz\u00f3w\r"
+  },
+  {
+    "id": "3493",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "972",
+    "miejscowosc": "Oksz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "22-105",
+    "poczta": "Oksz\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14017",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5065",
+    "miejscowosc": "K\u0119sowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "89-506",
+    "poczta": "K\u0119sowo\r"
+  },
+  {
+    "id": "14018",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5065",
+    "miejscowosc": "K\u0119sowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "89-506",
+    "poczta": "K\u0119sowo\r"
+  }
+]

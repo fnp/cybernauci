@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5822",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2036",
+    "miejscowosc": "Ujanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015awi\u0119tej Kingi",
+    "ulica": "Ujanowice",
+    "numer": "55",
+    "kod": "34-603",
+    "poczta": "Ujanowice\r"
+  },
+  {
+    "id": "5823",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2036",
+    "miejscowosc": "Ujanowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015awi\u0119tej Kingi",
+    "ulica": "Ujanowice",
+    "numer": "55",
+    "kod": "34-603",
+    "poczta": "Ujanowice\r"
+  }
+]

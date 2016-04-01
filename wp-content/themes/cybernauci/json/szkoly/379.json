@@ -1,0 +1,26 @@
+[
+  {
+    "id": "905",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "379",
+    "miejscowosc": "G\u00f3rki Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-436",
+    "poczta": "G\u00f3rki Wielkie\r"
+  },
+  {
+    "id": "906",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "379",
+    "miejscowosc": "G\u00f3rki Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-436",
+    "poczta": "G\u00f3rki Wielkie\r"
+  }
+]

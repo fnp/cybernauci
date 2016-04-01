@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22209",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8026",
+    "miejscowosc": "Wysoka G\u0142ogowska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wysoka G\u0142ogowska",
+    "numer": "299",
+    "kod": "36-061",
+    "poczta": "Wysoka G\u0142ogowska\r"
+  },
+  {
+    "id": "22210",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8026",
+    "miejscowosc": "Wysoka G\u0142ogowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wysoka G\u0142ogowska",
+    "numer": "299",
+    "kod": "36-061",
+    "poczta": "Wysoka G\u0142ogowska\r"
+  }
+]

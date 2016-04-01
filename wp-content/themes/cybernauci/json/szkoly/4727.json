@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13335",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4727",
+    "miejscowosc": "Osielsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Centralna",
+    "numer": "7",
+    "kod": "86-031",
+    "poczta": "Osielsko\r"
+  },
+  {
+    "id": "13336",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4727",
+    "miejscowosc": "Osielsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Centralna",
+    "numer": "7",
+    "kod": "86-031",
+    "poczta": "Osielsko\r"
+  }
+]

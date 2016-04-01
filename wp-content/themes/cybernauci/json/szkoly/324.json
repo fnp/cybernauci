@@ -1,0 +1,26 @@
+[
+  {
+    "id": "736",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "324",
+    "miejscowosc": "Rogo\u017anik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Krupna",
+    "numer": "22",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  },
+  {
+    "id": "737",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "324",
+    "miejscowosc": "Rogo\u017anik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krupna",
+    "numer": "22",
+    "kod": "42-580",
+    "poczta": "Wojkowice\r"
+  }
+]

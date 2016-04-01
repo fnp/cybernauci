@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1451",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "643",
+    "miejscowosc": "Kryry",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Nierad",
+    "numer": "86",
+    "kod": "43-265",
+    "poczta": "Kryry\r"
+  },
+  {
+    "id": "1452",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "643",
+    "miejscowosc": "Kryry",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego",
+    "ulica": "Nierad",
+    "numer": "86",
+    "kod": "43-265",
+    "poczta": "Kryry\r"
+  }
+]

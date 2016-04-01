@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23697",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8597",
+    "miejscowosc": "Surowe",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Surowe",
+    "numer": "194",
+    "kod": "07-431",
+    "poczta": "Czarnia\r"
+  },
+  {
+    "id": "23698",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8597",
+    "miejscowosc": "Surowe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Surowe",
+    "numer": "194",
+    "kod": "07-431",
+    "poczta": "Czarnia\r"
+  }
+]

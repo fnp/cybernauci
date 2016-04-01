@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5496",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1852",
+    "miejscowosc": "Kobylanka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kobylanka",
+    "numer": "413",
+    "kod": "38-303",
+    "poczta": "Kobylanka\r"
+  },
+  {
+    "id": "5497",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1852",
+    "miejscowosc": "Kobylanka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kobylanka",
+    "numer": "413",
+    "kod": "38-303",
+    "poczta": "Kobylanka\r"
+  }
+]

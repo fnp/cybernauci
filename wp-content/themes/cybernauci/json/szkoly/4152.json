@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11638",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4152",
+    "miejscowosc": "Jaros\u0142awiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ba\u0142tycka",
+    "numer": "65 B",
+    "kod": "76-107",
+    "poczta": "Jaros\u0142awiec\r"
+  },
+  {
+    "id": "11639",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4152",
+    "miejscowosc": "Jaros\u0142awiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ba\u0142tycka",
+    "numer": "65 B",
+    "kod": "76-107",
+    "poczta": "Jaros\u0142awiec\r"
+  }
+]

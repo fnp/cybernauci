@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6119",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2183",
+    "miejscowosc": "Kamionka Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2",
+    "ulica": "Kamionka Wielka",
+    "numer": "162",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6121",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2183",
+    "miejscowosc": "Kamionka Wielka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kamionka Wielka",
+    "numer": "154",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6122",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2183",
+    "miejscowosc": "Kamionka Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Kamionka Wielka",
+    "numer": "154",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6120",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2183",
+    "miejscowosc": "Kamionka Wielka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015aw. Kingi",
+    "ulica": "Kamionka Wielka",
+    "numer": "162",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  }
+]

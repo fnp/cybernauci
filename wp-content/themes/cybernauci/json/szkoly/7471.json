@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21110",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7471",
+    "miejscowosc": "Korzeni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Korzeni\u00f3w",
+    "numer": "77 A",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  },
+  {
+    "id": "21111",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7471",
+    "miejscowosc": "Korzeni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Korzeni\u00f3w",
+    "numer": "77 A",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  }
+]

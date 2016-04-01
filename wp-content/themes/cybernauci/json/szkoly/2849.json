@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8034",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2849",
+    "miejscowosc": "\u0141ag\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zap\u0142otnia",
+    "numer": "1",
+    "kod": "26-025",
+    "poczta": "\u0141ag\u00f3w\r"
+  },
+  {
+    "id": "8032",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2849",
+    "miejscowosc": "\u0141ag\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141ag\u00f3w",
+    "numer": "1",
+    "kod": "26-025",
+    "poczta": "\u0141ag\u00f3w\r"
+  },
+  {
+    "id": "8035",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2849",
+    "miejscowosc": "\u0141ag\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich",
+    "ulica": "Zap\u0142otnia",
+    "numer": "1",
+    "kod": "26-025",
+    "poczta": "\u0141ag\u00f3w\r"
+  },
+  {
+    "id": "8037",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2849",
+    "miejscowosc": "\u0141ag\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Zap\u0142otnia",
+    "numer": "1",
+    "kod": "26-025",
+    "poczta": "\u0141ag\u00f3w\r"
+  }
+]

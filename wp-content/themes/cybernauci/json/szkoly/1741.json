@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5246",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1741",
+    "miejscowosc": "Biskupice Melszty\u0144skie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Biskupice Melszty\u0144skie",
+    "numer": "24",
+    "kod": "32-860",
+    "poczta": "Czch\u00f3w\r"
+  },
+  {
+    "id": "5247",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1741",
+    "miejscowosc": "Biskupice Melszty\u0144skie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Biskupice Melszty\u0144skie",
+    "numer": "24",
+    "kod": "32-860",
+    "poczta": "Czch\u00f3w\r"
+  }
+]

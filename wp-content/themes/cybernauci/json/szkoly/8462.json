@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23380",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8462",
+    "miejscowosc": "Szyd\u0142\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Szyd\u0142\u00f3wka",
+    "numer": "62",
+    "kod": "08-207",
+    "poczta": "Olszanka\r"
+  },
+  {
+    "id": "23382",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8462",
+    "miejscowosc": "Szyd\u0142\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Szyd\u0142\u00f3wka",
+    "numer": "62",
+    "kod": "08-207",
+    "poczta": "Olszanka\r"
+  }
+]

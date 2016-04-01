@@ -1,0 +1,62 @@
+[
+  {
+    "id": "14097",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5100",
+    "miejscowosc": "Choce\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im Jana Paw\u0142a II",
+    "ulica": "Sikorskiego",
+    "numer": "12",
+    "kod": "87-850",
+    "poczta": "Choce\u0144\r"
+  },
+  {
+    "id": "14098",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5100",
+    "miejscowosc": "Choce\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczna Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sikorskiego",
+    "numer": "12",
+    "kod": "87-850",
+    "poczta": "Choce\u0144\r"
+  },
+  {
+    "id": "14099",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5100",
+    "miejscowosc": "Choce\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Sikorskiego",
+    "numer": "12",
+    "kod": "87-850",
+    "poczta": "Choce\u0144\r"
+  },
+  {
+    "id": "14100",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5100",
+    "miejscowosc": "Choce\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Wieczorowe Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sikorskiego",
+    "numer": "12",
+    "kod": "87-850",
+    "poczta": "Choce\u0144\r"
+  },
+  {
+    "id": "14094",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5100",
+    "miejscowosc": "Choce\u0144",
+    "typ": "podstawowa",
+    "nazwa": "SZKO\u0141A PODSTAWOWA IM. JANUSZA KORCZAKA",
+    "ulica": "Sikorskiego",
+    "numer": "12",
+    "kod": "87-850",
+    "poczta": "Choce\u0144\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23599",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8549",
+    "miejscowosc": "Niedzb\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum 2 im. kard. St. Wyszy\u0144skiego",
+    "ulica": "Niedzb\u00f3rz",
+    "numer": "19",
+    "kod": "06-458",
+    "poczta": "Niedzb\u00f3rz\r"
+  },
+  {
+    "id": "23600",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8549",
+    "miejscowosc": "Niedzb\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. W\u0142. Smole\u0144skiego",
+    "ulica": "Niedzb\u00f3rz",
+    "numer": "19",
+    "kod": "06-458",
+    "poczta": "Niedzb\u00f3rz\r"
+  }
+]

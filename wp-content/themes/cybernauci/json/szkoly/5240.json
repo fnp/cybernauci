@@ -1,0 +1,74 @@
+[
+  {
+    "id": "14861",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  },
+  {
+    "id": "14860",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa 707",
+    "ulica": "My\u015bliwska",
+    "numer": "15 C",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  },
+  {
+    "id": "14862",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  },
+  {
+    "id": "14863",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Gimnazjalna",
+    "numer": "7",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  },
+  {
+    "id": "14865",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum im. Ratownik\u00f3w G\u00f3rskich",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "48a",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  },
+  {
+    "id": "14864",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5240",
+    "miejscowosc": "Karpacz",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "48a",
+    "kod": "58-540",
+    "poczta": "Karpacz\r"
+  }
+]

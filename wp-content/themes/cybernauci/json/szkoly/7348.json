@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20704",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. L. St\u0119pczaka",
+    "ulica": "Odrodzonego Wojska Polskiego",
+    "numer": "16",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  },
+  {
+    "id": "20708",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  },
+  {
+    "id": "20703",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Happy House",
+    "ulica": "Polna",
+    "numer": "1",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  },
+  {
+    "id": "20699",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "H. Pobo\u017cnego",
+    "numer": "6",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  },
+  {
+    "id": "20709",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  },
+  {
+    "id": "20710",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7348",
+    "miejscowosc": "S\u0142awa",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ogrodowa",
+    "numer": "1",
+    "kod": "67-410",
+    "poczta": "S\u0142awa\r"
+  }
+]

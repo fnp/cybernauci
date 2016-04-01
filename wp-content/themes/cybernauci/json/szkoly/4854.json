@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13598",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4854",
+    "miejscowosc": "Krojczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Krojczyn",
+    "numer": "17",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "13596",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4854",
+    "miejscowosc": "Krojczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Krojczyn",
+    "numer": "17",
+    "kod": "87-610",
+    "poczta": "Dobrzy\u0144 nad Wis\u0142\u0105\r"
+  }
+]

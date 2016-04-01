@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4737",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1612",
+    "miejscowosc": "Zubowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Zubowice",
+    "numer": "19",
+    "kod": "22-435",
+    "poczta": "Komar\u00f3w-Osada\r"
+  },
+  {
+    "id": "4735",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1612",
+    "miejscowosc": "Zubowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zubowice",
+    "numer": "19",
+    "kod": "22-435",
+    "poczta": "Komar\u00f3w-Osada\r"
+  }
+]

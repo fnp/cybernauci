@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4811",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1279",
+    "miejscowosc": "Wysokie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Wysokie",
+    "numer": "133",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "4051",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1279",
+    "miejscowosc": "Wysokie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "23-145",
+    "poczta": "Wysokie\r"
+  },
+  {
+    "id": "4052",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1279",
+    "miejscowosc": "Wysokie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "23-145",
+    "poczta": "Wysokie\r"
+  },
+  {
+    "id": "4812",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1279",
+    "miejscowosc": "Wysokie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Wysokie",
+    "numer": "133",
+    "kod": "22-400",
+    "poczta": "Zamo\u015b\u0107\r"
+  },
+  {
+    "id": "4053",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1279",
+    "miejscowosc": "Wysokie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "23-145",
+    "poczta": "Wysokie\r"
+  }
+]

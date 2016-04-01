@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9219",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3354",
+    "miejscowosc": "Grabowo Ko\u015bcierskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Zespole",
+    "ulica": "Starowiejska",
+    "numer": "68",
+    "kod": "83-403",
+    "poczta": "Grabowo Ko\u015bcierskie\r"
+  },
+  {
+    "id": "9220",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3354",
+    "miejscowosc": "Grabowo Ko\u015bcierskie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142em Przedszkolnym w Zespole",
+    "ulica": "Starowiejska",
+    "numer": "68",
+    "kod": "83-403",
+    "poczta": "Grabowo Ko\u015bcierskie\r"
+  }
+]

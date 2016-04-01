@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21176",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7486",
+    "miejscowosc": "Pe\u0142kinie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pe\u0142kinie",
+    "numer": "",
+    "kod": "37-511",
+    "poczta": "W\u00f3lka Pelki\u0144ska\r"
+  },
+  {
+    "id": "21171",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7486",
+    "miejscowosc": "Pe\u0142kinie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pe\u0142kinie",
+    "numer": "198",
+    "kod": "37-511",
+    "poczta": "W\u00f3lka Pe\u0142ki\u0144ska\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13463",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4799",
+    "miejscowosc": "Rog\u00f3\u017ano",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Rog\u00f3\u017ano",
+    "numer": "91A",
+    "kod": "86-318",
+    "poczta": "Rog\u00f3\u017ano\r"
+  },
+  {
+    "id": "13461",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4799",
+    "miejscowosc": "Rog\u00f3\u017ano",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rog\u00f3\u017ano",
+    "numer": "91a",
+    "kod": "86-318",
+    "poczta": "Rog\u00f3\u017ano\r"
+  }
+]

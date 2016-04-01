@@ -1,0 +1,62 @@
+[
+  {
+    "id": "11860",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4236",
+    "miejscowosc": "Resko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kazimierza G\u00f3rskiego",
+    "ulica": "Prusa",
+    "numer": "2",
+    "kod": "72-315",
+    "poczta": "Resko\r"
+  },
+  {
+    "id": "11861",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4236",
+    "miejscowosc": "Resko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. K. K. Baczy\u0144skiego",
+    "ulica": "Mariana Buczka",
+    "numer": "15",
+    "kod": "72-315",
+    "poczta": "Resko\r"
+  },
+  {
+    "id": "11858",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4236",
+    "miejscowosc": "Resko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "\u0141abu\u0144 Wielki",
+    "numer": "32",
+    "kod": "72-315",
+    "poczta": "Resko\r"
+  },
+  {
+    "id": "11856",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4236",
+    "miejscowosc": "Resko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. mjr. Henryka Sucharskiego ",
+    "ulica": "Wojska Polskiego",
+    "numer": "71",
+    "kod": "72-315",
+    "poczta": "Resko\r"
+  },
+  {
+    "id": "11862",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4236",
+    "miejscowosc": "Resko",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Mariana Buczka",
+    "numer": "15",
+    "kod": "72-315",
+    "poczta": "Resko\r"
+  }
+]

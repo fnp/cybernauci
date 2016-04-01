@@ -1,0 +1,110 @@
+[
+  {
+    "id": "24924",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Integracyjna Szko\u0142a Podstawowa \"S\u0142oneczna Polana\"",
+    "ulica": "Brzechwy",
+    "numer": "5",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24925",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Animus",
+    "ulica": "ks. Marmo",
+    "numer": "13 C",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24926",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Animus",
+    "ulica": "ks. Marmo",
+    "numer": "13 C",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24927",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Zofii Na\u0142kowskiej",
+    "ulica": "Jezuicka",
+    "numer": "1",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24931",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Za\u0142uskiego",
+    "numer": "57",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24929",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi Nr 2 im. Bohater\u00f3w Bitwy Ossowskiej",
+    "ulica": "Elizy Orzeszkowej",
+    "numer": "3\/5",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24932",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Za\u0142uskiego",
+    "numer": "57",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24928",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Dwuj\u0119zycznymi Nr 1 ",
+    "ulica": "Jezuicka",
+    "numer": "1",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  },
+  {
+    "id": "24930",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9186",
+    "miejscowosc": "Koby\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi Nr 2",
+    "ulica": "Elizy Orzeszkowej",
+    "numer": "3\/5",
+    "kod": "05-230",
+    "poczta": "Koby\u0142ka\r"
+  }
+]

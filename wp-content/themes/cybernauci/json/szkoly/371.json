@@ -1,0 +1,26 @@
+[
+  {
+    "id": "845",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "371",
+    "miejscowosc": "Wilamowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. \u015aw. Abp. J. Bilczewskiego",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "43-330",
+    "poczta": "Wilamowice\r"
+  },
+  {
+    "id": "846",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "371",
+    "miejscowosc": "Wilamowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. Bilczewskiego",
+    "ulica": "Rynek",
+    "numer": "14",
+    "kod": "43-330",
+    "poczta": "Wilamowice\r"
+  }
+]

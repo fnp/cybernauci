@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21582",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7711",
+    "miejscowosc": "D\u0119bno",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum D\u0119bno",
+    "ulica": "D\u0119bno",
+    "numer": "200A",
+    "kod": "37-305",
+    "poczta": "D\u0119bno\r"
+  },
+  {
+    "id": "21586",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7711",
+    "miejscowosc": "D\u0119bno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "D\u0119bno",
+    "numer": "200 A",
+    "kod": "37-305",
+    "poczta": "D\u0119bno\r"
+  }
+]

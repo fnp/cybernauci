@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6389",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2316",
+    "miejscowosc": "Lud\u017amierz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "K. P. Tetmajera",
+    "numer": "100",
+    "kod": "34-471",
+    "poczta": "Lud\u017amierz\r"
+  },
+  {
+    "id": "6384",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2316",
+    "miejscowosc": "Lud\u017amierz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "K. Przerwy-Tetmajera",
+    "numer": "56",
+    "kod": "34-471",
+    "poczta": "Lud\u017amierz\r"
+  }
+]

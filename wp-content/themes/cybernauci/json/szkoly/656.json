@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1498",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "656",
+    "miejscowosc": "Twork\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zamkowa",
+    "numer": "13",
+    "kod": "47-451",
+    "poczta": "Twork\u00f3w\r"
+  },
+  {
+    "id": "1499",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "656",
+    "miejscowosc": "Twork\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zamkowa",
+    "numer": "13",
+    "kod": "47-451",
+    "poczta": "Twork\u00f3w\r"
+  }
+]

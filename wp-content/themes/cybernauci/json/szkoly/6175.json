@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17416",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6175",
+    "miejscowosc": "Lubiank\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lubiank\u00f3w",
+    "numer": "45",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  },
+  {
+    "id": "17417",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6175",
+    "miejscowosc": "Lubiank\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lubiank\u00f3w",
+    "numer": "45",
+    "kod": "95-015",
+    "poczta": "G\u0142owno\r"
+  }
+]

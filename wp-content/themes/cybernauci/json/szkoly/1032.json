@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3600",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1032",
+    "miejscowosc": "Mircze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Kry\u0142owska",
+    "numer": "27",
+    "kod": "22-530",
+    "poczta": "Mircze\r"
+  },
+  {
+    "id": "3601",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1032",
+    "miejscowosc": "Mircze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. B. Prusa ",
+    "ulica": "Kry\u0142owska",
+    "numer": "27",
+    "kod": "22-530",
+    "poczta": "Mircze\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5549",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1884",
+    "miejscowosc": "U\u015bcie Gorlickie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "U\u015bcie Gorlickie",
+    "numer": "267",
+    "kod": "38-315",
+    "poczta": "U\u015bcie Gorlickie\r"
+  },
+  {
+    "id": "5550",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1884",
+    "miejscowosc": "U\u015bcie Gorlickie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "U\u015bcie Gorlickie",
+    "numer": "186",
+    "kod": "38-315",
+    "poczta": "U\u015bcie Gorlickie\r"
+  }
+]

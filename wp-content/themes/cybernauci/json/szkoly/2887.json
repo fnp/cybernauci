@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8090",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2887",
+    "miejscowosc": "Nowa S\u0142upia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  },
+  {
+    "id": "8093",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2887",
+    "miejscowosc": "Nowa S\u0142upia",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "26-006",
+    "poczta": "Nowa Slupia\r"
+  },
+  {
+    "id": "8094",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2887",
+    "miejscowosc": "Nowa S\u0142upia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "26-006",
+    "poczta": "Nowa Slupia\r"
+  },
+  {
+    "id": "8091",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2887",
+    "miejscowosc": "Nowa S\u0142upia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 6",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  },
+  {
+    "id": "8092",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2887",
+    "miejscowosc": "Nowa S\u0142upia",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  }
+]

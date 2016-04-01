@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9615",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3529",
+    "miejscowosc": "Kleszczewo Ko\u015bcierskie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Kleszczewo Ko\u015bcierskie",
+    "numer": "41B",
+    "kod": "83-206",
+    "poczta": "Kleszczewo Ko\u015bcierskie\r"
+  },
+  {
+    "id": "9616",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3529",
+    "miejscowosc": "Kleszczewo Ko\u015bcierskie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kleszczewo Ko\u015bcierskie",
+    "numer": "41B",
+    "kod": "83-206",
+    "poczta": "Kleszczewo Ko\u015bcierskie\r"
+  }
+]

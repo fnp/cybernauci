@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6061",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2147",
+    "miejscowosc": "Marcinkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Marcinkowice",
+    "numer": "1",
+    "kod": "33-393",
+    "poczta": "Marcinkowice\r"
+  },
+  {
+    "id": "6062",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2147",
+    "miejscowosc": "Marcinkowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Marcinkowice",
+    "numer": "1",
+    "kod": "33-393",
+    "poczta": "Marcinkowice\r"
+  },
+  {
+    "id": "6055",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2147",
+    "miejscowosc": "Marcinkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Marcinkowice",
+    "numer": "132",
+    "kod": "33-393",
+    "poczta": "Marcinkowice\r"
+  }
+]

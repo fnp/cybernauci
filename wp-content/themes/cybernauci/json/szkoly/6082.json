@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17186",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6082",
+    "miejscowosc": "Zawada",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zawada",
+    "numer": "249\/255",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  },
+  {
+    "id": "17187",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6082",
+    "miejscowosc": "Zawada",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawada",
+    "numer": "249\/255",
+    "kod": "97-200",
+    "poczta": "Tomasz\u00f3w Mazowiecki\r"
+  }
+]

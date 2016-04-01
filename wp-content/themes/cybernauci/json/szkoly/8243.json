@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22912",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8243",
+    "miejscowosc": "Go\u0142ymin-O\u015brodek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "ks. Michalaka",
+    "numer": "10c",
+    "kod": "06-420",
+    "poczta": "Go\u0142ymin-O\u015brodek\r"
+  },
+  {
+    "id": "22913",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8243",
+    "miejscowosc": "Go\u0142ymin-O\u015brodek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. P. J. Go\u0142aszewskiego",
+    "ulica": "ks. Michalaka",
+    "numer": "10C",
+    "kod": "06-420",
+    "poczta": "Go\u0142ymin-O\u015brodek\r"
+  }
+]

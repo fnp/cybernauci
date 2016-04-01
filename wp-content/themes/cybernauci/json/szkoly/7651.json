@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21461",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7651",
+    "miejscowosc": "R\u00f3wne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "41",
+    "kod": "38-451",
+    "poczta": "R\u00f3wne\r"
+  },
+  {
+    "id": "21462",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7651",
+    "miejscowosc": "R\u00f3wne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "41",
+    "kod": "38-451",
+    "poczta": "R\u00f3wne\r"
+  }
+]

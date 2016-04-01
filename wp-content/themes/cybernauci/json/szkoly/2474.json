@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6783",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2474",
+    "miejscowosc": "Ci\u0119\u017ckowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141uczkiewicz\u00f3w",
+    "numer": "12",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  },
+  {
+    "id": "6781",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2474",
+    "miejscowosc": "Ci\u0119\u017ckowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "12",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  },
+  {
+    "id": "6774",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2474",
+    "miejscowosc": "Ci\u0119\u017ckowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefanii Sempo\u0142owskiej",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "12",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  },
+  {
+    "id": "6784",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2474",
+    "miejscowosc": "Ci\u0119\u017ckowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141uczkiewicz\u00f3w",
+    "numer": "12",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  },
+  {
+    "id": "6785",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2474",
+    "miejscowosc": "Ci\u0119\u017ckowice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141uczkiewicz\u00f3w",
+    "numer": "12",
+    "kod": "33-190",
+    "poczta": "Ci\u0119\u017ckowice\r"
+  }
+]

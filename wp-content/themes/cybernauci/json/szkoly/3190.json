@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8900",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3190",
+    "miejscowosc": "Brusy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "2",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  },
+  {
+    "id": "8901",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3190",
+    "miejscowosc": "Brusy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Kaszubskie Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ogrodowa",
+    "numer": "2",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  },
+  {
+    "id": "8891",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3190",
+    "miejscowosc": "Brusy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Ogrodowa",
+    "numer": "2",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  },
+  {
+    "id": "8902",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3190",
+    "miejscowosc": "Brusy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Ogrodowa",
+    "numer": "2",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  }
+]

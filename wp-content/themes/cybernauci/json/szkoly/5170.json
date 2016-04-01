@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14670",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5170",
+    "miejscowosc": "Wykroty",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "22 Lipca",
+    "numer": "106",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  },
+  {
+    "id": "14665",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5170",
+    "miejscowosc": "Wykroty",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "22 Lipca",
+    "numer": "108",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  }
+]

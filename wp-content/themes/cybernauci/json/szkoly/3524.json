@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9605",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3524",
+    "miejscowosc": "Jab\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "83-211",
+    "poczta": "Jab\u0142owo\r"
+  },
+  {
+    "id": "9606",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3524",
+    "miejscowosc": "Jab\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "83-211",
+    "poczta": "Jab\u0142owo\r"
+  }
+]

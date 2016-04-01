@@ -1,0 +1,86 @@
+[
+  {
+    "id": "23217",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Obwodowa",
+    "numer": "2",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23212",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Warszawska",
+    "numer": "45",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23205",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1 im. Piotra Wysockiego",
+    "ulica": "Polna",
+    "numer": "19",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23206",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Polna",
+    "numer": "17",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23211",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. Stanis\u0142awa Marciniaka",
+    "ulica": "Warszawska",
+    "numer": "24",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23218",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Obwodowa",
+    "numer": "2",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  },
+  {
+    "id": "23219",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8386",
+    "miejscowosc": "Warka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Obwodowa",
+    "numer": "2",
+    "kod": "05-660",
+    "poczta": "Warka\r"
+  }
+]

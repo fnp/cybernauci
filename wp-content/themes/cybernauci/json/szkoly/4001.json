@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11291",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4001",
+    "miejscowosc": "Mrze\u017cyno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "32",
+    "kod": "72-330",
+    "poczta": "Mrze\u017cyno\r"
+  },
+  {
+    "id": "11292",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4001",
+    "miejscowosc": "Mrze\u017cyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "32",
+    "kod": "72-330",
+    "poczta": "Mrze\u017cyno\r"
+  }
+]

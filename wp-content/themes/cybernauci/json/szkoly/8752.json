@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24056",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8752",
+    "miejscowosc": "Bielsk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. C. K. Norwida",
+    "ulica": "Sierpecka",
+    "numer": "42",
+    "kod": "09-230",
+    "poczta": "Bielsk\r"
+  },
+  {
+    "id": "24055",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8752",
+    "miejscowosc": "Bielsk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Drobi\u0144ska",
+    "numer": "19",
+    "kod": "09-230",
+    "poczta": "Bielsk\r"
+  }
+]

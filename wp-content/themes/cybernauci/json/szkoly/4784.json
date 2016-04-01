@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13438",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4784",
+    "miejscowosc": "Piaski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Piaski",
+    "numer": "10",
+    "kod": "86-302",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "13439",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4784",
+    "miejscowosc": "Piaski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piaski",
+    "numer": "10",
+    "kod": "86-302",
+    "poczta": "Piaski\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17196",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6087",
+    "miejscowosc": "\u017belechlinek",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "W. Witosa",
+    "numer": "1a",
+    "kod": "97-226",
+    "poczta": "\u017belechlinek\r"
+  },
+  {
+    "id": "17197",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6087",
+    "miejscowosc": "\u017belechlinek",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Kruczkowskiego",
+    "numer": "7",
+    "kod": "97-226",
+    "poczta": "\u017belechlinek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7199",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2431",
+    "miejscowosc": "Szczytniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janiny Porazi\u0144skiej",
+    "ulica": "Szczytniki",
+    "numer": "10",
+    "kod": "32-420",
+    "poczta": "Gd\u00f3w\r"
+  },
+  {
+    "id": "6672",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2431",
+    "miejscowosc": "Szczytniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi ",
+    "ulica": "Szczytniki",
+    "numer": "91a",
+    "kod": "32-112",
+    "poczta": "Klimont\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24898",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9173",
+    "miejscowosc": "Gwizda\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Gwizda\u0142y",
+    "numer": "89",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  },
+  {
+    "id": "24899",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9173",
+    "miejscowosc": "Gwizda\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wincentego Witosa",
+    "ulica": "Gwizda\u0142y",
+    "numer": "89",
+    "kod": "07-130",
+    "poczta": "\u0141och\u00f3w\r"
+  }
+]

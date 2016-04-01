@@ -1,0 +1,26 @@
+[
+  {
+    "id": "66",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "33",
+    "miejscowosc": "Bogdanowice",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3l Szk\u00f3\u0142 Publiczne Gimnazjum przy Spo\u0142eczno-O\u015bwiatowym Stowarzyszeniu na Rzecz Rozwoju Wsi",
+    "ulica": "Marii Konopnickiej",
+    "numer": "15",
+    "kod": "48-100",
+    "poczta": "G\u0142ubczyce\r"
+  },
+  {
+    "id": "67",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "33",
+    "miejscowosc": "Bogdanowice",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa przy Spo\u0142eczno-O\u015bwiatowym Stowarzyszeniu na Rzecz Rozwoju Wsi",
+    "ulica": "Marii Konopnickiej",
+    "numer": "15",
+    "kod": "48-100",
+    "poczta": "G\u0142ubczyce\r"
+  }
+]

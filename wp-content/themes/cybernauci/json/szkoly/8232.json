@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22864",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8232",
+    "miejscowosc": "Stromiec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Radomska",
+    "numer": "27",
+    "kod": "26-804",
+    "poczta": "Stromiec\r"
+  },
+  {
+    "id": "22865",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8232",
+    "miejscowosc": "Stromiec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Radomska",
+    "numer": "27",
+    "kod": "26-804",
+    "poczta": "Stromiec\r"
+  }
+]

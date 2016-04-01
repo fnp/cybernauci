@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21587",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7714",
+    "miejscowosc": "Giedlarowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Giedlarowa",
+    "numer": "320",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  },
+  {
+    "id": "21588",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7714",
+    "miejscowosc": "Giedlarowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Giedlarowa",
+    "numer": "320",
+    "kod": "37-300",
+    "poczta": "Le\u017cajsk\r"
+  }
+]

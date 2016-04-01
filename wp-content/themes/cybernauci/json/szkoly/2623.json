@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7093",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2623",
+    "miejscowosc": "Przytkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3 im. Agaty Mr\u00f3z-Olszewskiej",
+    "ulica": "Przytkowice",
+    "numer": "542",
+    "kod": "34-141",
+    "poczta": "Przytkowice\r"
+  },
+  {
+    "id": "7094",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2623",
+    "miejscowosc": "Przytkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Przytkowice",
+    "numer": "542",
+    "kod": "34-141",
+    "poczta": "Przytkowice\r"
+  }
+]

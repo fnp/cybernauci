@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16712",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5847",
+    "miejscowosc": "Tr\u0119baczew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16975",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5847",
+    "miejscowosc": "Tr\u0119baczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Tr\u0119baczew",
+    "numer": "30",
+    "kod": "96-208",
+    "poczta": "Lubania\r"
+  },
+  {
+    "id": "16713",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5847",
+    "miejscowosc": "Tr\u0119baczew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. J. Twardowskiego",
+    "ulica": "Szkolna",
+    "numer": "5",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  }
+]

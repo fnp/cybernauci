@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9269",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3377",
+    "miejscowosc": "Trumiejki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Trumiejki",
+    "numer": "42",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  },
+  {
+    "id": "9266",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3377",
+    "miejscowosc": "Trumiejki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Trumiejki",
+    "numer": "42",
+    "kod": "82-550",
+    "poczta": "Prabuty\r"
+  }
+]

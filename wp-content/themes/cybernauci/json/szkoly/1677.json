@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5130",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1677",
+    "miejscowosc": "Gaw\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. M. Kopernika Gimnazjum",
+    "ulica": "Gaw\u0142\u00f3w",
+    "numer": "64",
+    "kod": "32-711",
+    "poczta": "Bogucice\r"
+  },
+  {
+    "id": "5131",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1677",
+    "miejscowosc": "Gaw\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych im. M. Kopernika Szko\u0142a Podstawowa",
+    "ulica": "Gaw\u0142\u00f3w",
+    "numer": "64",
+    "kod": "32-711",
+    "poczta": "Bogucice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19735",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7096",
+    "miejscowosc": "Grzybowo",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Grzybowo",
+    "numer": "32",
+    "kod": "62-300",
+    "poczta": "Wrze\u015bnia\r"
+  },
+  {
+    "id": "19736",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7096",
+    "miejscowosc": "Grzybowo",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum ",
+    "ulica": "Grzybowo",
+    "numer": "32",
+    "kod": "62-300",
+    "poczta": "Wrze\u015bnia\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11177",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3960",
+    "miejscowosc": "\u015awierczyna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u015awierczyna",
+    "numer": "85",
+    "kod": "78-531",
+    "poczta": "\u015awierczyna\r"
+  },
+  {
+    "id": "11178",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3960",
+    "miejscowosc": "\u015awierczyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u015awierczyna",
+    "numer": "85",
+    "kod": "78-531",
+    "poczta": "\u015awierczyna\r"
+  }
+]

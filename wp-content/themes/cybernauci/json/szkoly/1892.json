@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5560",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1892",
+    "miejscowosc": "Rybna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rybna",
+    "numer": "464",
+    "kod": "32-061",
+    "poczta": "Rybna\r"
+  },
+  {
+    "id": "5561",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1892",
+    "miejscowosc": "Rybna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rybna",
+    "numer": "464",
+    "kod": "32-061",
+    "poczta": "Rybna\r"
+  }
+]

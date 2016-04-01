@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18679",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6619",
+    "miejscowosc": "Buk\u00f3wiec G\u00f3rny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "114",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  },
+  {
+    "id": "18680",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6619",
+    "miejscowosc": "Buk\u00f3wiec G\u00f3rny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "114",
+    "kod": "64-140",
+    "poczta": "W\u0142oszakowice\r"
+  }
+]

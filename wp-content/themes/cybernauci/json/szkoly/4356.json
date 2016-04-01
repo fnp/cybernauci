@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12405",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4356",
+    "miejscowosc": "Ryn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Konstantego Ildefonsa Ga\u0142czy\u0144skiego",
+    "ulica": "Hanki Sawickiej",
+    "numer": "8A",
+    "kod": "11-520",
+    "poczta": "Ryn\r"
+  },
+  {
+    "id": "12406",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4356",
+    "miejscowosc": "Ryn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bojownik\u00f3w o Polsko\u015b\u0107 Warmii i Mazur",
+    "ulica": "Hanki Sawickiej",
+    "numer": "8A",
+    "kod": "11-520",
+    "poczta": "Ryn\r"
+  }
+]

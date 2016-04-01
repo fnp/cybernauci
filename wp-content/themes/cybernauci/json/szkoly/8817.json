@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24178",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8817",
+    "miejscowosc": "Dzierz\u0105\u017cnia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dzierz\u0105\u017cnia",
+    "numer": "57",
+    "kod": "09-164",
+    "poczta": "Dzierz\u0105\u017cnia\r"
+  },
+  {
+    "id": "24179",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8817",
+    "miejscowosc": "Dzierz\u0105\u017cnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dzierz\u0105\u017cnia",
+    "numer": "57",
+    "kod": "09-164",
+    "poczta": "Dzierz\u0105\u017cnia\r"
+  }
+]

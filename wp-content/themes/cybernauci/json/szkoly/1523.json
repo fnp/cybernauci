@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4571",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1523",
+    "miejscowosc": "Me\u0142giew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Partyzancka",
+    "numer": "19",
+    "kod": "21-007",
+    "poczta": "Me\u0142giew\r"
+  },
+  {
+    "id": "4572",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1523",
+    "miejscowosc": "Me\u0142giew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Partyzancka",
+    "numer": "19",
+    "kod": "21-007",
+    "poczta": "Me\u0142giew\r"
+  }
+]

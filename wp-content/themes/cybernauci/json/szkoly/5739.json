@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16499",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5739",
+    "miejscowosc": "Kiernozia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Henryka Sienkiewicza",
+    "ulica": "Ogrodowa",
+    "numer": "4B",
+    "kod": "99-412",
+    "poczta": "Kiernozia\r"
+  },
+  {
+    "id": "16498",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5739",
+    "miejscowosc": "Kiernozia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki ",
+    "ulica": "Ogrodowa",
+    "numer": "4 b",
+    "kod": "99-412",
+    "poczta": "Kiernozia\r"
+  }
+]

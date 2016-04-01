@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8903",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3199",
+    "miejscowosc": "Lubnia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  },
+  {
+    "id": "8904",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3199",
+    "miejscowosc": "Lubnia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. TOW \"Gryf Pomorski\"",
+    "ulica": "Szkolna",
+    "numer": "13",
+    "kod": "89-632",
+    "poczta": "Brusy\r"
+  }
+]

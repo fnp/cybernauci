@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6658",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2421",
+    "miejscowosc": "Koszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "M Sk\u0142odowskiej-Curie",
+    "numer": "4a",
+    "kod": "32-130",
+    "poczta": "Koszyce\r"
+  },
+  {
+    "id": "6659",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2421",
+    "miejscowosc": "Koszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M Sk\u0142odowskiej-Curie",
+    "numer": "4a",
+    "kod": "32-130",
+    "poczta": "Koszyce\r"
+  }
+]

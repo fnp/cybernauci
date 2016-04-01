@@ -1,0 +1,26 @@
+[
+  {
+    "id": "931",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "397",
+    "miejscowosc": "Jaworzynka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Jaworzynka",
+    "numer": "366",
+    "kod": "43-476",
+    "poczta": "Jaworzynka\r"
+  },
+  {
+    "id": "933",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "397",
+    "miejscowosc": "Jaworzynka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Jaworzynka",
+    "numer": "400",
+    "kod": "43-476",
+    "poczta": "Jaworzynka\r"
+  }
+]

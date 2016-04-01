@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5526",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1869",
+    "miejscowosc": "Staszk\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gimnazjum",
+    "numer": "38",
+    "kod": "38-321",
+    "poczta": "Moszczenica\r"
+  },
+  {
+    "id": "5527",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1869",
+    "miejscowosc": "Staszk\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szko\u0142a Podstawowa",
+    "numer": "38",
+    "kod": "38-321",
+    "poczta": "Moszczenica\r"
+  }
+]

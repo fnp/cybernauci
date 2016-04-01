@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16785",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5897",
+    "miejscowosc": "Niechcice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "27",
+    "kod": "97-340",
+    "poczta": "Rozprza\r"
+  },
+  {
+    "id": "16786",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5897",
+    "miejscowosc": "Niechcice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cz\u0119stochowska",
+    "numer": "27",
+    "kod": "97-340",
+    "poczta": "Rozprza\r"
+  }
+]

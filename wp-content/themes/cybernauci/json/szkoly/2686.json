@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7267",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2686",
+    "miejscowosc": "Podstolice",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Podstolice",
+    "numer": "204",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  },
+  {
+    "id": "7245",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2686",
+    "miejscowosc": "Podstolice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Gminy Wieliczka",
+    "ulica": "Podstolice",
+    "numer": "204",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  }
+]

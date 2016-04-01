@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8095",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2888",
+    "miejscowosc": "Rudki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  },
+  {
+    "id": "8096",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2888",
+    "miejscowosc": "Rudki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "26-006",
+    "poczta": "Nowa S\u0142upia\r"
+  }
+]

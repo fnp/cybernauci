@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15189",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5366",
+    "miejscowosc": "Wle\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Dworcowa",
+    "numer": "10",
+    "kod": "59-610",
+    "poczta": "Wle\u0144\r"
+  },
+  {
+    "id": "15190",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5366",
+    "miejscowosc": "Wle\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Dworcowa",
+    "numer": "10",
+    "kod": "59-610",
+    "poczta": "Wle\u0144\r"
+  }
+]

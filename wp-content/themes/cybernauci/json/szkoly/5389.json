@@ -1,0 +1,50 @@
+[
+  {
+    "id": "15252",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5389",
+    "miejscowosc": "Mi\u0119dzyb\u00f3rz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Samorz\u0105dowe im. Polskich Noblist\u00f3w",
+    "ulica": "Wroc\u0142awska",
+    "numer": "6",
+    "kod": "56-513",
+    "poczta": "Mi\u0119dzyb\u00f3rz\r"
+  },
+  {
+    "id": "15249",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5389",
+    "miejscowosc": "Mi\u0119dzyb\u00f3rz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. J. Badury",
+    "ulica": "Wroc\u0142awska",
+    "numer": "6A",
+    "kod": "56-513",
+    "poczta": "Mi\u0119dzyb\u00f3rz\r"
+  },
+  {
+    "id": "15253",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5389",
+    "miejscowosc": "Mi\u0119dzyb\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wroc\u0142awska",
+    "numer": "2",
+    "kod": "56-513",
+    "poczta": "Mi\u0119dzyb\u00f3rz\r"
+  },
+  {
+    "id": "15254",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5389",
+    "miejscowosc": "Mi\u0119dzyb\u00f3rz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Wroc\u0142awska",
+    "numer": "2",
+    "kod": "56-513",
+    "poczta": "Mi\u0119dzyb\u00f3rz\r"
+  }
+]

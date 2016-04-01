@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1199",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "541",
+    "miejscowosc": "Panki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Stanis\u0142awa Staszica",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "17",
+    "kod": "42-140",
+    "poczta": "Panki\r"
+  },
+  {
+    "id": "1200",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "541",
+    "miejscowosc": "Panki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "17",
+    "kod": "42-140",
+    "poczta": "Panki\r"
+  }
+]

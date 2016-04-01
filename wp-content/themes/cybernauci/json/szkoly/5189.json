@@ -1,0 +1,86 @@
+[
+  {
+    "id": "14723",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Mickiewicza",
+    "numer": "8",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14726",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa przy Sudeckim Centrum Zdrowia",
+    "ulica": "Plac Zamkowy",
+    "numer": "10",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14722",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa z Oddzia\u0142ami Przedszkolnymi",
+    "ulica": "\u015awidnicka",
+    "numer": "53",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14727",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum przy Sudeckim Centrum Zdrowia",
+    "ulica": "Plac Zamkowy",
+    "numer": "10",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14721",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ogrodowa",
+    "numer": "23",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14724",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  },
+  {
+    "id": "14725",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5189",
+    "miejscowosc": "Pieszyce",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a ponadgimnazjalna",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "58-250",
+    "poczta": "Pieszyce\r"
+  }
+]

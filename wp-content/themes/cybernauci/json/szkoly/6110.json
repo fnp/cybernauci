@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17233",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6110",
+    "miejscowosc": "Skomlin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "6",
+    "kod": "98-346",
+    "poczta": "Skomlin\r"
+  },
+  {
+    "id": "17234",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6110",
+    "miejscowosc": "Skomlin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "6",
+    "kod": "98-346",
+    "poczta": "Skomlin\r"
+  }
+]

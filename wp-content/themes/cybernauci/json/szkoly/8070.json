@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22314",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8070",
+    "miejscowosc": "Tyczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142",
+    "ulica": "Grunwaldzka",
+    "numer": "25",
+    "kod": "36-020",
+    "poczta": "Tyczyn\r"
+  },
+  {
+    "id": "22313",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8070",
+    "miejscowosc": "Tyczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. \u015bw. Jana Paw\u0142a II",
+    "ulica": "Grunwaldzka",
+    "numer": "31",
+    "kod": "36-020",
+    "poczta": "Tyczyn\r"
+  },
+  {
+    "id": "22312",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8070",
+    "miejscowosc": "Tyczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pu\u0142anek",
+    "numer": "4",
+    "kod": "36-020",
+    "poczta": "Tyczyn\r"
+  }
+]

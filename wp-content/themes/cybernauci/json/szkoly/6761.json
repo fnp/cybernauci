@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19028",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6761",
+    "miejscowosc": "Kaczory",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chodzieska",
+    "numer": "5",
+    "kod": "64-810",
+    "poczta": "Kaczory\r"
+  },
+  {
+    "id": "19024",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6761",
+    "miejscowosc": "Kaczory",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chodzieska",
+    "numer": "5",
+    "kod": "64-810",
+    "poczta": "Kaczory\r"
+  }
+]

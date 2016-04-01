@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13205",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4657",
+    "miejscowosc": "Stawki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-700",
+    "poczta": "Aleksandr\u00f3w Kujawski\r"
+  },
+  {
+    "id": "13206",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4657",
+    "miejscowosc": "Stawki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "87-700",
+    "poczta": "Aleksandr\u00f3w Kujawski\r"
+  }
+]

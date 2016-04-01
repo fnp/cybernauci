@@ -1,0 +1,110 @@
+[
+  {
+    "id": "18045",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Pl. Kosmowskiego",
+    "numer": "5",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18046",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "35",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18051",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Plac Micha\u0142a Kosmowskiego",
+    "numer": "5",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18043",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Jana Kili\u0144skiego",
+    "ulica": "\u015aniadeckich",
+    "numer": "18",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18044",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "1 Maja",
+    "numer": "11",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18047",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Mickiewicza",
+    "numer": "35",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18052",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Obs\u0142ugi Turystycznej",
+    "ulica": "Plac Micha\u0142a Kosmowskiego",
+    "numer": "5",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18053",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Plac Micha\u0142a Kosmowskiego",
+    "numer": "5",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  },
+  {
+    "id": "18048",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6281",
+    "miejscowosc": "Trzemeszno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Mickiewicza",
+    "numer": "35",
+    "kod": "62-240",
+    "poczta": "Trzemeszno\r"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "22155",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22154",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "1 Maja",
+    "numer": "17",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22156",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "11",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22153",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Bartk\u00f3wka",
+    "numer": "105",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22157",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Polna",
+    "numer": "3",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22158",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7995",
+    "miejscowosc": "Dyn\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Polna",
+    "numer": "3",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  }
+]

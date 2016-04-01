@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4580",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1527",
+    "miejscowosc": "Bystrzejowice Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Bystrzejowice Pierwsze",
+    "numer": "89",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  },
+  {
+    "id": "4581",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1527",
+    "miejscowosc": "Bystrzejowice Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bystrzejowice Pierwsze",
+    "numer": "89",
+    "kod": "21-050",
+    "poczta": "Piaski\r"
+  }
+]

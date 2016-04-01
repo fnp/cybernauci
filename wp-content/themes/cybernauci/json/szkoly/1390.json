@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4251",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1390",
+    "miejscowosc": "Niezd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Niezd\u00f3w",
+    "numer": "97",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  },
+  {
+    "id": "4248",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1390",
+    "miejscowosc": "Niezd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Niezd\u00f3w",
+    "numer": "97",
+    "kod": "24-300",
+    "poczta": "Opole Lubelskie\r"
+  }
+]

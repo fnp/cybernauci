@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3814",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1137",
+    "miejscowosc": "Urz\u0119d\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Wodna",
+    "numer": "24",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  },
+  {
+    "id": "3815",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1137",
+    "miejscowosc": "Urz\u0119d\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wodna",
+    "numer": "24",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  },
+  {
+    "id": "3816",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1137",
+    "miejscowosc": "Urz\u0119d\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wodna",
+    "numer": "24",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  },
+  {
+    "id": "3813",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1137",
+    "miejscowosc": "Urz\u0119d\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wodna",
+    "numer": "34",
+    "kod": "23-250",
+    "poczta": "Urz\u0119d\u00f3w\r"
+  }
+]

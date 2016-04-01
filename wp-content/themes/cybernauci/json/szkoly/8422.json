@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23294",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8422",
+    "miejscowosc": "Rajszew",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa \"Sapere Aude\"",
+    "ulica": "Modli\u0144ska",
+    "numer": "75",
+    "kod": "05-110",
+    "poczta": "Jab\u0142onna\r"
+  },
+  {
+    "id": "23296",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8422",
+    "miejscowosc": "Rajszew",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum \"Sapere Aude\"",
+    "ulica": "Modli\u0144ska",
+    "numer": "75",
+    "kod": "05-110",
+    "poczta": "Jab\u0142onna\r"
+  }
+]

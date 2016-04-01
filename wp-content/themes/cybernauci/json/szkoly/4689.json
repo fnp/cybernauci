@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13262",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4689",
+    "miejscowosc": "Jastrz\u0119bie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jastrz\u0119bie",
+    "numer": "14",
+    "kod": "87-322",
+    "poczta": "Jastrz\u0119bie\r"
+  },
+  {
+    "id": "13608",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4689",
+    "miejscowosc": "Jastrz\u0119bie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Jastrz\u0119bie",
+    "numer": "31",
+    "kod": "87-600",
+    "poczta": "Lipno\r"
+  }
+]

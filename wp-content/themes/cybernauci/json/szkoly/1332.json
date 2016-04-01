@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4162",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1332",
+    "miejscowosc": "Krynka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krynka",
+    "numer": "250",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  },
+  {
+    "id": "4163",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1332",
+    "miejscowosc": "Krynka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Krynka",
+    "numer": "250",
+    "kod": "21-400",
+    "poczta": "\u0141uk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6044",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2143",
+    "miejscowosc": "Wi\u015bniowa",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wi\u015bniowa",
+    "numer": "323",
+    "kod": "32-412",
+    "poczta": "Wi\u015bniowa\r"
+  },
+  {
+    "id": "6045",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2143",
+    "miejscowosc": "Wi\u015bniowa",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wi\u015bniowa",
+    "numer": "323a",
+    "kod": "32-412",
+    "poczta": "Wi\u015bniowa\r"
+  }
+]

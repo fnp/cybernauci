@@ -1,0 +1,38 @@
+[
+  {
+    "id": "960",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "406",
+    "miejscowosc": "Strumie\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "1 Maja",
+    "numer": "38",
+    "kod": "43-246",
+    "poczta": "Strumie\u0144\r"
+  },
+  {
+    "id": "959",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "406",
+    "miejscowosc": "Strumie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa \"ODYSEJA\"",
+    "ulica": "1 Maja",
+    "numer": "20",
+    "kod": "43-246",
+    "poczta": "Strumie\u0144\r"
+  },
+  {
+    "id": "958",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "406",
+    "miejscowosc": "Strumie\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "M\u0142y\u0144ska",
+    "numer": "8",
+    "kod": "43-246",
+    "poczta": "Strumie\u0144\r"
+  }
+]

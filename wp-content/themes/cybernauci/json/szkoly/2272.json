@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6290",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2272",
+    "miejscowosc": "Czerwienne",
+    "typ": "podstawowa",
+    "nazwa": "Katolicka Szko\u0142a Podstawowa SPSK z Oddzia\u0142ami Integracyjnymi im. Stefana Kardyna\u0142a Wyszy\u0144skiego",
+    "ulica": "Czerwienne",
+    "numer": "245",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6302",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2272",
+    "miejscowosc": "Czerwienne",
+    "typ": "gimnazjum",
+    "nazwa": "Katolickie Gimnazjum Integracyjne Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich im. Jana Paw\u0142a II",
+    "ulica": "Czerwienne",
+    "numer": "245",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6293",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2272",
+    "miejscowosc": "Czerwienne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Andrzeja Knapczyka-Ducha",
+    "ulica": "Czerwienne",
+    "numer": "86",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "11794",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4208",
+    "miejscowosc": "Po\u0142czyn-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce dla M\u0142odzie\u017cy",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "6",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11791",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4208",
+    "miejscowosc": "Po\u0142czyn-Zdr\u00f3j",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Grunwaldzka",
+    "numer": "34",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11793",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4208",
+    "miejscowosc": "Po\u0142czyn-Zdr\u00f3j",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Mieszka I",
+    "numer": "19",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11795",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4208",
+    "miejscowosc": "Po\u0142czyn-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Zawodowe",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "6",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  },
+  {
+    "id": "11796",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4208",
+    "miejscowosc": "Po\u0142czyn-Zdr\u00f3j",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Stanis\u0142awa Staszica",
+    "numer": "6",
+    "kod": "78-320",
+    "poczta": "Po\u0142czyn-Zdr\u00f3j\r"
+  }
+]

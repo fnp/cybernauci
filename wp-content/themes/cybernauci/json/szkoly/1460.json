@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4433",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1460",
+    "miejscowosc": "Wola Osowi\u0144ska",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "21-345",
+    "poczta": "Borki\r"
+  },
+  {
+    "id": "4432",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1460",
+    "miejscowosc": "Wola Osowi\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "21-345",
+    "poczta": "Borki\r"
+  },
+  {
+    "id": "4430",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1460",
+    "miejscowosc": "Wola Osowi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "7",
+    "kod": "21-345",
+    "poczta": "Borki\r"
+  }
+]

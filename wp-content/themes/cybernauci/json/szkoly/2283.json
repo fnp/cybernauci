@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6308",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2283",
+    "miejscowosc": "Ratu\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ratu\u0142\u00f3w",
+    "numer": "159",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  },
+  {
+    "id": "6309",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2283",
+    "miejscowosc": "Ratu\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ratu\u0142\u00f3w",
+    "numer": "159",
+    "kod": "34-407",
+    "poczta": "Ciche\r"
+  }
+]

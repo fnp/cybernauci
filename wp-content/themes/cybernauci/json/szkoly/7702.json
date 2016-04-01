@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21568",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7702",
+    "miejscowosc": "Grodzisko Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grodzisko Dolne",
+    "numer": "150",
+    "kod": "37-306",
+    "poczta": "Grodzisko Dolne\r"
+  },
+  {
+    "id": "21569",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7702",
+    "miejscowosc": "Grodzisko Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grodzisko Dolne",
+    "numer": "150",
+    "kod": "37-306",
+    "poczta": "Grodzisko Dolne\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15019",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5300",
+    "miejscowosc": "\u015acinawka \u015arednia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sikorskiego",
+    "numer": "34",
+    "kod": "57-410",
+    "poczta": "\u015acinawka \u015arednia\r"
+  },
+  {
+    "id": "15020",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5300",
+    "miejscowosc": "\u015acinawka \u015arednia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Przedszkolnymi",
+    "ulica": "Sikorskiego",
+    "numer": "34",
+    "kod": "57-410",
+    "poczta": "\u015acinawka \u015arednia\r"
+  }
+]

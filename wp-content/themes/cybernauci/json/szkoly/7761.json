@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21696",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7761",
+    "miejscowosc": "Medynia G\u0142ogowska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Medynia G\u0142ogowska",
+    "numer": "426",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  },
+  {
+    "id": "21697",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7761",
+    "miejscowosc": "Medynia G\u0142ogowska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Medynia G\u0142ogowska",
+    "numer": "426",
+    "kod": "37-126",
+    "poczta": "Medynia G\u0142ogowska\r"
+  }
+]

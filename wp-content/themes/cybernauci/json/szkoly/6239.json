@@ -1,0 +1,62 @@
+[
+  {
+    "id": "17924",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6239",
+    "miejscowosc": "K\u0142ecko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "12",
+    "kod": "62-270",
+    "poczta": "K\u0142ecko\r"
+  },
+  {
+    "id": "18026",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6239",
+    "miejscowosc": "K\u0142ecko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. prof. W\u0142adys\u0142awa Nehringa",
+    "ulica": "Gnie\u017anie\u0144ska",
+    "numer": "7a",
+    "kod": "62-270",
+    "poczta": "K\u0142ecko\r"
+  },
+  {
+    "id": "18027",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6239",
+    "miejscowosc": "K\u0142ecko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Gnie\u017anie\u0144ska",
+    "numer": "7",
+    "kod": "62-270",
+    "poczta": "K\u0142ecko\r"
+  },
+  {
+    "id": "18029",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6239",
+    "miejscowosc": "K\u0142ecko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "gnie\u017anie\u0144ska",
+    "numer": "7",
+    "kod": "62-270",
+    "poczta": "K\u0142ecko\r"
+  },
+  {
+    "id": "18028",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6239",
+    "miejscowosc": "K\u0142ecko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Gnie\u017anie\u0144ska",
+    "numer": "7",
+    "kod": "62-270",
+    "poczta": "K\u0142ecko\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23684",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8590",
+    "miejscowosc": "Zakroczym",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. \u015bw. St. Kostki",
+    "ulica": "O. H. Ko\u017ami\u0144skiego",
+    "numer": "63",
+    "kod": "05-170",
+    "poczta": "Zakroczym\r"
+  },
+  {
+    "id": "23685",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8590",
+    "miejscowosc": "Zakroczym",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bojownik\u00f3w o Wolno\u015b\u0107 i Demokracj\u0119",
+    "ulica": "O. H. Ko\u017ami\u0144skiego",
+    "numer": "63",
+    "kod": "05-170",
+    "poczta": "Zakroczym\r"
+  }
+]

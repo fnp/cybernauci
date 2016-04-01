@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7130",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2639",
+    "miejscowosc": "Zakrz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zakrz\u00f3w",
+    "numer": "131",
+    "kod": "34-145",
+    "poczta": "Stronie\r"
+  },
+  {
+    "id": "7222",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2639",
+    "miejscowosc": "Zakrz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zakrz\u00f3w",
+    "numer": "323",
+    "kod": "32-003",
+    "poczta": "Pod\u0142\u0119\u017ce\r"
+  }
+]

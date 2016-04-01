@@ -1,0 +1,38 @@
+[
+  {
+    "id": "17435",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6184",
+    "miejscowosc": "Stryk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Noblist\u00f3w Polskich",
+    "ulica": "Targowa",
+    "numer": "21",
+    "kod": "95-010",
+    "poczta": "Stryk\u00f3w\r"
+  },
+  {
+    "id": "17430",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6184",
+    "miejscowosc": "Stryk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. W\u0142adys\u0142awa Jagie\u0142\u0142y ",
+    "ulica": "Warszawska",
+    "numer": "39",
+    "kod": "95-010",
+    "poczta": "Stryk\u00f3w\r"
+  },
+  {
+    "id": "17436",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6184",
+    "miejscowosc": "Stryk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Noblist\u00f3w Polskich",
+    "ulica": "Targowa",
+    "numer": "21",
+    "kod": "95-010",
+    "poczta": "Stryk\u00f3w\r"
+  }
+]

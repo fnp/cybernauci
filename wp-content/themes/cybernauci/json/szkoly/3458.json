@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9647",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3458",
+    "miejscowosc": "Gogolewo",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich ",
+    "ulica": "Gogolewo",
+    "numer": "11",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  },
+  {
+    "id": "9474",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3458",
+    "miejscowosc": "Gogolewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Adama Mickiewicza",
+    "ulica": "Goglewo",
+    "numer": "40",
+    "kod": "76-248",
+    "poczta": "D\u0119bnica Kaszubska\r"
+  }
+]

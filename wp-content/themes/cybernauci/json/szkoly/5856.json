@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17440",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5856",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u015bcielna",
+    "numer": "4",
+    "kod": "95-001",
+    "poczta": "Bia\u0142a\r"
+  },
+  {
+    "id": "16728",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5856",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142a",
+    "numer": "63",
+    "kod": "98-332",
+    "poczta": "Rz\u0105\u015bnia\r"
+  }
+]

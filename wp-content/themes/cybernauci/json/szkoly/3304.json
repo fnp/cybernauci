@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9111",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3304",
+    "miejscowosc": "Kamienica Kr\u00f3lewska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "83-342",
+    "poczta": "Kamienica Kr\u00f3lewska\r"
+  },
+  {
+    "id": "9112",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3304",
+    "miejscowosc": "Kamienica Kr\u00f3lewska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "19",
+    "kod": "83-342",
+    "poczta": "Kamienica Kr\u00f3lewska\r"
+  }
+]

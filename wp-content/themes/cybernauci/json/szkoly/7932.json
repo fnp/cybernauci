@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22023",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7932",
+    "miejscowosc": "Siedleczka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Siedleczka",
+    "numer": "179",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  },
+  {
+    "id": "22024",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7932",
+    "miejscowosc": "Siedleczka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedleczka",
+    "numer": "179",
+    "kod": "37-220",
+    "poczta": "Ka\u0144czuga\r"
+  }
+]

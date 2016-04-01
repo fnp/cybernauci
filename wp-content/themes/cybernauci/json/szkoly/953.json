@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3460",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "953",
+    "miejscowosc": "Lipiny Dolne",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Lipiny Dolne",
+    "numer": "156A",
+    "kod": "23-423",
+    "poczta": "Potok G\u00f3rny\r"
+  },
+  {
+    "id": "3465",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "953",
+    "miejscowosc": "Lipiny Dolne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Lipiny Dolne",
+    "numer": "156A",
+    "kod": "23-423",
+    "poczta": "Potok G\u00f3rny\r"
+  }
+]

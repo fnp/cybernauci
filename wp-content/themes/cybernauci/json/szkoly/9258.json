@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25129",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9258",
+    "miejscowosc": "Policzna",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u017beromskiego",
+    "numer": "44",
+    "kod": "26-720",
+    "poczta": "Policzna\r"
+  },
+  {
+    "id": "25130",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9258",
+    "miejscowosc": "Policzna",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "\u017beromskiego",
+    "numer": "44",
+    "kod": "26-720",
+    "poczta": "Policzna\r"
+  }
+]

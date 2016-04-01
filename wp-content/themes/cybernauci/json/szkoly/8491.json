@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23438",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8491",
+    "miejscowosc": "Rzewnie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Armii Krajowej",
+    "ulica": "Rzewnie",
+    "numer": "3",
+    "kod": "06-225",
+    "poczta": "Rzewnie\r"
+  },
+  {
+    "id": "23439",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8491",
+    "miejscowosc": "Rzewnie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Rzewnie",
+    "numer": "19",
+    "kod": "06-225",
+    "poczta": "Rzewnie\r"
+  }
+]

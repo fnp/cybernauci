@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4099",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1306",
+    "miejscowosc": "Puchacz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Mickiewicza",
+    "numer": "19",
+    "kod": "21-013",
+    "poczta": "Puchacz\u00f3w\r"
+  },
+  {
+    "id": "4100",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1306",
+    "miejscowosc": "Puchacz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole",
+    "ulica": "Mickiewicza",
+    "numer": "19",
+    "kod": "21-013",
+    "poczta": "Puchacz\u00f3w\r"
+  },
+  {
+    "id": "4101",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1306",
+    "miejscowosc": "Puchacz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Mickiewicza",
+    "numer": "19",
+    "kod": "21-013",
+    "poczta": "Puchacz\u00f3w\r"
+  }
+]

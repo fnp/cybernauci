@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22606",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8202",
+    "miejscowosc": "\u015arednia Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u015arednia Wie\u015b",
+    "numer": "172",
+    "kod": "38-604",
+    "poczta": "Hoczew\r"
+  },
+  {
+    "id": "22607",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8202",
+    "miejscowosc": "\u015arednia Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015arednia Wie\u015b",
+    "numer": "172",
+    "kod": "38-604",
+    "poczta": "Hoczew\r"
+  }
+]

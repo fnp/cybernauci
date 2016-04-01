@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19707",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7087",
+    "miejscowosc": "Pietrzyk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Pietrzyk\u00f3w",
+    "numer": "49",
+    "kod": "62-310",
+    "poczta": "Pyzdry\r"
+  },
+  {
+    "id": "19708",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7087",
+    "miejscowosc": "Pietrzyk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Pietrzyk\u00f3w",
+    "numer": "49",
+    "kod": "62-310",
+    "poczta": "Pyzdry\r"
+  }
+]

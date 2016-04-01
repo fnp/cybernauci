@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11521",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4107",
+    "miejscowosc": "Renice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w MOW",
+    "ulica": "Renice",
+    "numer": "9",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  },
+  {
+    "id": "11522",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4107",
+    "miejscowosc": "Renice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w MOW",
+    "ulica": "Renice",
+    "numer": "9",
+    "kod": "74-300",
+    "poczta": "My\u015blib\u00f3rz\r"
+  }
+]

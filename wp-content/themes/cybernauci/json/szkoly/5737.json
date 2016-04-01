@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16497",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5737",
+    "miejscowosc": "Domaniewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. W\u0142. St. Reymonta ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "13a",
+    "kod": "99-434",
+    "poczta": "Domaniewice\r"
+  },
+  {
+    "id": "16495",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5737",
+    "miejscowosc": "Domaniewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "13",
+    "kod": "99-434",
+    "poczta": "Domaniewice\r"
+  }
+]

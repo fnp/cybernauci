@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20937",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7397",
+    "miejscowosc": "Niebocko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niebocko",
+    "numer": "-",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  },
+  {
+    "id": "20938",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7397",
+    "miejscowosc": "Niebocko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Niebocko",
+    "numer": "-",
+    "kod": "36-200",
+    "poczta": "Brzoz\u00f3w\r"
+  }
+]

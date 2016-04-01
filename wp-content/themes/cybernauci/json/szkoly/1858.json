@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5512",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1858",
+    "miejscowosc": "Lipinki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Lipinki",
+    "numer": "48 a",
+    "kod": "38-305",
+    "poczta": "Lipinki\r"
+  },
+  {
+    "id": "5508",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1858",
+    "miejscowosc": "Lipinki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipinki",
+    "numer": "48",
+    "kod": "38-305",
+    "poczta": "Lipinki\r"
+  }
+]

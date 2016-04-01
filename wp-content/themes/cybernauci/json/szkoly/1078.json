@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3703",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1078",
+    "miejscowosc": "Siedliska Pierwsze",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Siedliska Pierwsze",
+    "numer": "190",
+    "kod": "21-060",
+    "poczta": "Fajs\u0142awice\r"
+  },
+  {
+    "id": "3704",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1078",
+    "miejscowosc": "Siedliska Pierwsze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Siedliska Pierwsze",
+    "numer": "190",
+    "kod": "21-060",
+    "poczta": "Fajs\u0142awice\r"
+  }
+]

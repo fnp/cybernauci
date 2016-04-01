@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9139",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3319",
+    "miejscowosc": "Sul\u0119czyno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Stefana \u017beromskiego",
+    "numer": "16",
+    "kod": "83-320",
+    "poczta": "Sul\u0119czyno\r"
+  },
+  {
+    "id": "9140",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3319",
+    "miejscowosc": "Sul\u0119czyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "83-320",
+    "poczta": "Sul\u0119czyno\r"
+  }
+]

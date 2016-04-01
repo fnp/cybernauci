@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1143",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "513",
+    "miejscowosc": "Toszek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ireny Sendler",
+    "ulica": "Dworcowa",
+    "numer": "27",
+    "kod": "44-180",
+    "poczta": "Toszek\r"
+  },
+  {
+    "id": "1142",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "513",
+    "miejscowosc": "Toszek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilkowicka",
+    "numer": "2",
+    "kod": "44-180",
+    "poczta": "Toszek\r"
+  }
+]

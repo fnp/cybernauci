@@ -1,0 +1,62 @@
+[
+  {
+    "id": "10448",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3712",
+    "miejscowosc": "Szczuczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Szczuki",
+    "numer": "1",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10443",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3712",
+    "miejscowosc": "Szczuczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Plac Tysi\u0105clecia",
+    "numer": "14",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10444",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3712",
+    "miejscowosc": "Szczuczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Kili\u0144skiego",
+    "numer": "42",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10449",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3712",
+    "miejscowosc": "Szczuczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Szczuki",
+    "numer": "1",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  },
+  {
+    "id": "10450",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3712",
+    "miejscowosc": "Szczuczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szczuki",
+    "numer": "1",
+    "kod": "19-230",
+    "poczta": "Szczuczyn\r"
+  }
+]

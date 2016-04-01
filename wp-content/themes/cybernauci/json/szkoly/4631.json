@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12998",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4631",
+    "miejscowosc": "Wielbark",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Miko\u0142aja Kopernika",
+    "numer": "10",
+    "kod": "12-160",
+    "poczta": "Wielbark\r"
+  },
+  {
+    "id": "12999",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4631",
+    "miejscowosc": "Wielbark",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Miko\u0142aja Kopernika",
+    "numer": "10",
+    "kod": "12-160",
+    "poczta": "Wielbark\r"
+  }
+]

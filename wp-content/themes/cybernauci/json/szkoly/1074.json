@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3680",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1074",
+    "miejscowosc": "Potok Wielki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Ofiar Katynia ",
+    "ulica": "Potok Wielki",
+    "numer": "104",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  },
+  {
+    "id": "3681",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1074",
+    "miejscowosc": "Potok Wielki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ofiar Katynia ",
+    "ulica": "Potok Wielki",
+    "numer": "104",
+    "kod": "23-313",
+    "poczta": "Potok Wielki\r"
+  }
+]

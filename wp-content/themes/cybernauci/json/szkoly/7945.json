@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22369",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7945",
+    "miejscowosc": "Dobra",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Dobra",
+    "numer": "48",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  },
+  {
+    "id": "22049",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7945",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Unii Europejskiej",
+    "ulica": "Dobra",
+    "numer": "109",
+    "kod": "37-530",
+    "poczta": "Sieniawa\r"
+  },
+  {
+    "id": "22370",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7945",
+    "miejscowosc": "Dobra",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142",
+    "ulica": "Dobra",
+    "numer": "48",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  }
+]

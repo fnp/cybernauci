@@ -1,0 +1,26 @@
+[
+  {
+    "id": "151",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "61",
+    "miejscowosc": "D\u0142ugomi\u0142owice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "47-208",
+    "poczta": "Re\u0144ska Wie\u015b\r"
+  },
+  {
+    "id": "152",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "61",
+    "miejscowosc": "D\u0142ugomi\u0142owice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2",
+    "ulica": "Parkowa",
+    "numer": "8",
+    "kod": "47-208",
+    "poczta": "Re\u0144ska Wie\u015b\r"
+  }
+]

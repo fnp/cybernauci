@@ -1,0 +1,62 @@
+[
+  {
+    "id": "14076",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5092",
+    "miejscowosc": "Kowal",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Piwna",
+    "numer": "20",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  },
+  {
+    "id": "14079",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5092",
+    "miejscowosc": "Kowal",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Piwna",
+    "numer": "20",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  },
+  {
+    "id": "14080",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5092",
+    "miejscowosc": "Kowal",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Piwna",
+    "numer": "20",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  },
+  {
+    "id": "14077",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5092",
+    "miejscowosc": "Kowal",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "9",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  },
+  {
+    "id": "14078",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5092",
+    "miejscowosc": "Kowal",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kazimierza Wielkiego",
+    "numer": "9",
+    "kod": "87-820",
+    "poczta": "Kowal\r"
+  }
+]

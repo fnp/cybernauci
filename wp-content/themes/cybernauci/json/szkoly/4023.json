@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11335",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4023",
+    "miejscowosc": "Mory\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Dworcowa",
+    "numer": "6a",
+    "kod": "74-503",
+    "poczta": "Mory\u0144\r"
+  },
+  {
+    "id": "11336",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4023",
+    "miejscowosc": "Mory\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworcowa",
+    "numer": "6a",
+    "kod": "74-503",
+    "poczta": "Mory\u0144\r"
+  }
+]

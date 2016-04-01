@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16602",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5809",
+    "miejscowosc": "Mroczk\u00f3w Go\u015bcinny",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II ",
+    "ulica": "Mroczk\u00f3w Go\u015bcinny",
+    "numer": "50",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  },
+  {
+    "id": "16603",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5809",
+    "miejscowosc": "Mroczk\u00f3w Go\u015bcinny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 im. Jana Paw\u0142a II",
+    "ulica": "Mroczk\u00f3w Go\u015bcinny",
+    "numer": "50",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  },
+  {
+    "id": "16615",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5809",
+    "miejscowosc": "Mroczk\u00f3w Go\u015bcinny",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Mroczk\u00f3w Go\u015bcinny",
+    "numer": "8",
+    "kod": "26-300",
+    "poczta": "Opoczno\r"
+  }
+]

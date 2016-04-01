@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8932",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3216",
+    "miejscowosc": "\u0141\u0105g",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Chojnicka",
+    "numer": "3",
+    "kod": "89-652",
+    "poczta": "\u0141\u0105g\r"
+  },
+  {
+    "id": "8933",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3216",
+    "miejscowosc": "\u0141\u0105g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chojnicka",
+    "numer": "3",
+    "kod": "89-652",
+    "poczta": "\u0141\u0105g\r"
+  }
+]

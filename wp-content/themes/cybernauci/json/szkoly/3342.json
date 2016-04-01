@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9199",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3342",
+    "miejscowosc": "Wielki Klincz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "83-423",
+    "poczta": "Wielki Kli\u0144cz\r"
+  },
+  {
+    "id": "9200",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3342",
+    "miejscowosc": "Wielki Klincz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "83-423",
+    "poczta": "Wielki Kli\u0144cz\r"
+  }
+]

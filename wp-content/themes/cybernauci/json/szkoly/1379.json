@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4232",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1379",
+    "miejscowosc": "J\u00f3zef\u00f3w nad Wis\u0142\u0105",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Opolska",
+    "numer": "10a",
+    "kod": "24-340",
+    "poczta": "J\u00f3zef\u00f3w nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "4233",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1379",
+    "miejscowosc": "J\u00f3zef\u00f3w nad Wis\u0142\u0105",
+    "typ": "gimnazjum",
+    "nazwa": "Samorz\u0105dowe Gimnazjum Publiczne",
+    "ulica": "Opolska",
+    "numer": "10a",
+    "kod": "24-340",
+    "poczta": "J\u00f3zef\u00f3w nad Wis\u0142\u0105\r"
+  },
+  {
+    "id": "4234",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1379",
+    "miejscowosc": "J\u00f3zef\u00f3w nad Wis\u0142\u0105",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Opolska",
+    "numer": "10a",
+    "kod": "24-340",
+    "poczta": "J\u00f3zef\u00f3w nad Wis\u0142\u0105\r"
+  }
+]

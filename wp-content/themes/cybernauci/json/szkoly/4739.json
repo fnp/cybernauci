@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13368",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4739",
+    "miejscowosc": "Starogr\u00f3d",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Starogr\u00f3d",
+    "numer": "33",
+    "kod": "86-200",
+    "poczta": "Che\u0142mno\r"
+  },
+  {
+    "id": "13369",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4739",
+    "miejscowosc": "Starogr\u00f3d",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Starogr\u00f3d",
+    "numer": "33",
+    "kod": "86-200",
+    "poczta": "Che\u0142mno\r"
+  }
+]

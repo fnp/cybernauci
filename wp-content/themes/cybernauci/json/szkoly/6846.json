@@ -1,0 +1,62 @@
+[
+  {
+    "id": "19195",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6846",
+    "miejscowosc": "K\u00f3rnik",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa hr. Zamoyskiego ",
+    "ulica": "Dworcowa",
+    "numer": "11",
+    "kod": "62-035",
+    "poczta": "K\u00f3rnik\r"
+  },
+  {
+    "id": "19197",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6846",
+    "miejscowosc": "K\u00f3rnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "62-035",
+    "poczta": "K\u00f3rnik\r"
+  },
+  {
+    "id": "19190",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6846",
+    "miejscowosc": "K\u00f3rnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 ",
+    "ulica": "Dworcowa",
+    "numer": "11",
+    "kod": "62-035",
+    "poczta": "K\u00f3rnik\r"
+  },
+  {
+    "id": "19191",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6846",
+    "miejscowosc": "K\u00f3rnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Armii Krajowej",
+    "numer": "11",
+    "kod": "62-035",
+    "poczta": "K\u00f3rnik\r"
+  },
+  {
+    "id": "19198",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6846",
+    "miejscowosc": "K\u00f3rnik",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Pozna\u0144ska",
+    "numer": "2",
+    "kod": "62-035",
+    "poczta": "K\u00f3rnik\r"
+  }
+]

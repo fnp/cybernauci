@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7038",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2603",
+    "miejscowosc": "Poronin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "34-520",
+    "poczta": "Poronin\r"
+  },
+  {
+    "id": "7035",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2603",
+    "miejscowosc": "Poronin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Stasik\u00f3wka",
+    "numer": "65",
+    "kod": "34-520",
+    "poczta": "Poronin\r"
+  },
+  {
+    "id": "7039",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2603",
+    "miejscowosc": "Poronin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pi\u0142sudskiego",
+    "numer": "34",
+    "kod": "34-520",
+    "poczta": "Poronin\r"
+  }
+]

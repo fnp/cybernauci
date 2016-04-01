@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18721",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6634",
+    "miejscowosc": "Lw\u00f3wek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Powsta\u0144c\u00f3w Wielkopolskich",
+    "ulica": "Gimnazjalna",
+    "numer": "1",
+    "kod": "64-310",
+    "poczta": "Lw\u00f3wek\r"
+  },
+  {
+    "id": "18720",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6634",
+    "miejscowosc": "Lw\u00f3wek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "64-310",
+    "poczta": "Lw\u00f3wek\r"
+  }
+]

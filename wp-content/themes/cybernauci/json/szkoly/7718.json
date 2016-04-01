@@ -1,0 +1,62 @@
+[
+  {
+    "id": "21602",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7718",
+    "miejscowosc": "Nowa Sarzyna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "KEN",
+    "numer": "3",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  },
+  {
+    "id": "21605",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7718",
+    "miejscowosc": "Nowa Sarzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "\u0141ukasiewicza",
+    "numer": "3",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  },
+  {
+    "id": "21595",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7718",
+    "miejscowosc": "Nowa Sarzyna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Sk\u0142odowskiej-Curie",
+    "ulica": "Komisji Edukacji Narodowej",
+    "numer": "5",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  },
+  {
+    "id": "21606",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7718",
+    "miejscowosc": "Nowa Sarzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "\u0141ukasiewicza",
+    "numer": "3",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  },
+  {
+    "id": "21607",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7718",
+    "miejscowosc": "Nowa Sarzyna",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "\u0141ukasiewicza",
+    "numer": "3",
+    "kod": "37-310",
+    "poczta": "Nowa Sarzyna\r"
+  }
+]

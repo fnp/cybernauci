@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3854",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1157",
+    "miejscowosc": "Firlej",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Partyzancka",
+    "numer": "23",
+    "kod": "21-136",
+    "poczta": "Firlej\r"
+  },
+  {
+    "id": "3855",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1157",
+    "miejscowosc": "Firlej",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Partyzancka",
+    "numer": "23",
+    "kod": "21-136",
+    "poczta": "Firlej\r"
+  }
+]

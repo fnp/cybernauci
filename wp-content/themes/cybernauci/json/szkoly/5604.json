@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15794",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5604",
+    "miejscowosc": "Rusz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Orl\u0105t Lwowskich",
+    "ulica": "Zgorzelecka",
+    "numer": "2",
+    "kod": "59-950",
+    "poczta": "Rusz\u00f3w\r"
+  },
+  {
+    "id": "15795",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5604",
+    "miejscowosc": "Rusz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boh. 37 pp 7 Dywizji II Armii WP",
+    "ulica": "Zgorzelecka",
+    "numer": "2",
+    "kod": "59-950",
+    "poczta": "Rusz\u00f3w\r"
+  }
+]

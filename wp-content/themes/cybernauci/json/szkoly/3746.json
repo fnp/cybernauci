@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10519",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3746",
+    "miejscowosc": "Stawiski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Mickiewicza",
+    "ulica": "Polowa",
+    "numer": "26",
+    "kod": "18-520",
+    "poczta": "Stawiski\r"
+  },
+  {
+    "id": "10520",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3746",
+    "miejscowosc": "Stawiski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Polowa",
+    "numer": "12",
+    "kod": "18-520",
+    "poczta": "Stawiski\r"
+  }
+]

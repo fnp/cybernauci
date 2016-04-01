@@ -1,0 +1,26 @@
+[
+  {
+    "id": "754",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "337",
+    "miejscowosc": "\u017belis\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Przysz\u0142o\u015bci",
+    "numer": "9",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  },
+  {
+    "id": "755",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "337",
+    "miejscowosc": "\u017belis\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Przysz\u0142o\u015bci",
+    "numer": "9",
+    "kod": "42-470",
+    "poczta": "Siewierz\r"
+  }
+]

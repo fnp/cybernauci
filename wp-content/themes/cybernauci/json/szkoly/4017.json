@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11322",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4017",
+    "miejscowosc": "Chwarstnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Gryfi\u0144ska",
+    "numer": "19",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  },
+  {
+    "id": "11323",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4017",
+    "miejscowosc": "Chwarstnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gryfi\u0144ska",
+    "numer": "19",
+    "kod": "74-100",
+    "poczta": "Gryfino\r"
+  }
+]

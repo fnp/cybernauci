@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10718",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3853",
+    "miejscowosc": "Baka\u0142arzewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Miko\u0142aja Baka\u0142arza",
+    "ulica": "Kr\u00f3la Zygmunta Starego",
+    "numer": "1",
+    "kod": "16-423",
+    "poczta": "Baka\u0142arzewo\r"
+  },
+  {
+    "id": "10719",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3853",
+    "miejscowosc": "Baka\u0142arzewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Baka\u0142arza",
+    "ulica": "Kr\u00f3la Zygmunta Starego",
+    "numer": "1",
+    "kod": "16-423",
+    "poczta": "Baka\u0142arzewo\r"
+  }
+]

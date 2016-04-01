@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11150",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3947",
+    "miejscowosc": "Recz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adolfa D\u0142ugosza ",
+    "ulica": "Ratuszowa",
+    "numer": "29",
+    "kod": "73-210",
+    "poczta": "Recz\r"
+  },
+  {
+    "id": "11148",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3947",
+    "miejscowosc": "Recz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ratuszowa",
+    "numer": "29",
+    "kod": "73-210",
+    "poczta": "Recz\r"
+  }
+]

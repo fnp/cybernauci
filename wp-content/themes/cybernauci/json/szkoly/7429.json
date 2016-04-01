@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21021",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7429",
+    "miejscowosc": "Stara Jastrz\u0105bka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Stara Jastrz\u0105bka",
+    "numer": "195",
+    "kod": "39-216",
+    "poczta": "Stara Jastrz\u0105bka\r"
+  },
+  {
+    "id": "21022",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7429",
+    "miejscowosc": "Stara Jastrz\u0105bka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Stara Jastrz\u0105bka",
+    "numer": "195",
+    "kod": "39-216",
+    "poczta": "Stara Jastrz\u0105bka\r"
+  }
+]

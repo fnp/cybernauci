@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6176",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2219",
+    "miejscowosc": "Jazowsko",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Gimnazjum",
+    "ulica": "Jazowisko",
+    "numer": "171",
+    "kod": "33-389",
+    "poczta": "Jazowsko\r"
+  },
+  {
+    "id": "6177",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2219",
+    "miejscowosc": "Jazowsko",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Gimnazjalny Szko\u0142a Podstawowa",
+    "ulica": "Jazowisko",
+    "numer": "171",
+    "kod": "33-389",
+    "poczta": "Jazowsko\r"
+  }
+]

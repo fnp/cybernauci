@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13625",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4867",
+    "miejscowosc": "T\u0142uchowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ziemi Dobrzy\u0144skiej",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "87-605",
+    "poczta": "T\u0142uchowo\r"
+  },
+  {
+    "id": "13623",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4867",
+    "miejscowosc": "T\u0142uchowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "87-605",
+    "poczta": "T\u0142uchowo\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10429",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3701",
+    "miejscowosc": "Wojewodzin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojewodzin",
+    "numer": "52",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10430",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3701",
+    "miejscowosc": "Wojewodzin",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wojewodzin",
+    "numer": "52",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  }
+]

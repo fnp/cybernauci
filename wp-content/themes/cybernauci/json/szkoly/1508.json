@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4521",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1508",
+    "miejscowosc": "Leopold\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Zielona",
+    "numer": "1",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  },
+  {
+    "id": "4522",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1508",
+    "miejscowosc": "Leopold\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zielona",
+    "numer": "1",
+    "kod": "08-500",
+    "poczta": "Ryki\r"
+  }
+]

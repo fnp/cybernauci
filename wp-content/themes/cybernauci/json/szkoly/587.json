@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1321",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "587",
+    "miejscowosc": "Gosty\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Rybnicka",
+    "numer": "141",
+    "kod": "43-176",
+    "poczta": "Gosty\u0144\r"
+  },
+  {
+    "id": "1322",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "587",
+    "miejscowosc": "Gosty\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rybnicka",
+    "numer": "141",
+    "kod": "43-176",
+    "poczta": "Gosty\u0144\r"
+  }
+]

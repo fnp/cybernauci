@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4631",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1550",
+    "miejscowosc": "Nabr\u00f3\u017c-Kolonia",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Nabr\u00f3\u017c-Kolonia",
+    "numer": "",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  },
+  {
+    "id": "4632",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1550",
+    "miejscowosc": "Nabr\u00f3\u017c-Kolonia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nabr\u00f3\u017c-Kolonia",
+    "numer": "",
+    "kod": "22-650",
+    "poczta": "\u0141aszcz\u00f3w\r"
+  }
+]

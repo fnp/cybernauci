@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4420",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Jana Pawa II",
+    "numer": "25",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4421",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Sitkowskiego",
+    "numer": "3",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4422",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Partyzant\u00f3w",
+    "numer": "8",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4423",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Sikorskiego",
+    "numer": "15",
+    "kod": "21-315",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4418",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "25",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4419",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sitkowskiego",
+    "numer": "3",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4424",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Sikorskiego",
+    "numer": "15",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4425",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1455",
+    "miejscowosc": "Radzy\u0144 Podlaski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142 Ponadgimnazjalnych",
+    "ulica": "Sikorskiego",
+    "numer": "15",
+    "kod": "21-315",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13987",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5046",
+    "miejscowosc": "\u0141\u0105\u017cyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105\u017cyn",
+    "numer": "43",
+    "kod": "87-123",
+    "poczta": "Dobrzejewice\r"
+  },
+  {
+    "id": "13999",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5046",
+    "miejscowosc": "\u0141\u0105\u017cyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141\u0105\u017cyn",
+    "numer": "16",
+    "kod": "87-133",
+    "poczta": "Rz\u0119czkowo\r"
+  }
+]

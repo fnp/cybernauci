@@ -1,0 +1,74 @@
+[
+  {
+    "id": "15742",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Spacerowa",
+    "numer": "2",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  },
+  {
+    "id": "15745",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wojska Polskiego",
+    "numer": "3",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  },
+  {
+    "id": "15739",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Plac Wolno\u015bci",
+    "numer": "1",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  },
+  {
+    "id": "15740",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Zamkowa",
+    "numer": "31",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  },
+  {
+    "id": "15746",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojska Polskiego",
+    "numer": "3",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  },
+  {
+    "id": "15747",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5588",
+    "miejscowosc": "Zi\u0119bice",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Wojska Polskiego",
+    "numer": "3",
+    "kod": "57-220",
+    "poczta": "Zi\u0119bice\r"
+  }
+]

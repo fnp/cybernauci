@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11442",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4068",
+    "miejscowosc": "M\u015bcice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Samorz\u0105dowe ",
+    "ulica": "Szkolna",
+    "numer": "1A",
+    "kod": "76-031",
+    "poczta": "M\u015bcice\r"
+  },
+  {
+    "id": "11443",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4068",
+    "miejscowosc": "M\u015bcice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "1A",
+    "kod": "76-031",
+    "poczta": "M\u015bcice\r"
+  }
+]

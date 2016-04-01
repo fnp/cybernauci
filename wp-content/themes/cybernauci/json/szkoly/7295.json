@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20554",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7295",
+    "miejscowosc": "Zab\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w M\u0142odzie\u017cowym O\u015brodku Socjoterapii",
+    "ulica": "Zamkowa",
+    "numer": "1F",
+    "kod": "66-003",
+    "poczta": "Zab\u00f3r\r"
+  },
+  {
+    "id": "20555",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7295",
+    "miejscowosc": "Zab\u00f3r",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Witosa",
+    "numer": "30",
+    "kod": "66-003",
+    "poczta": "Zab\u00f3r\r"
+  },
+  {
+    "id": "20556",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7295",
+    "miejscowosc": "Zab\u00f3r",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Witosa",
+    "numer": "30",
+    "kod": "66-003",
+    "poczta": "Zab\u00f3r\r"
+  }
+]

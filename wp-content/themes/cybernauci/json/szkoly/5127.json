@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14140",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5127",
+    "miejscowosc": "Lubraniec-Parcele",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technik Agrobiznesu",
+    "ulica": "Lubraniec-Parcele",
+    "numer": "30",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  },
+  {
+    "id": "14141",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5127",
+    "miejscowosc": "Lubraniec-Parcele",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Ekonomiczne",
+    "ulica": "Lubraniec-Parcele",
+    "numer": "30",
+    "kod": "87-890",
+    "poczta": "Lubraniec\r"
+  }
+]

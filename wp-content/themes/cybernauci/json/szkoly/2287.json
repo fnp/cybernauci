@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6318",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2287",
+    "miejscowosc": "Maniowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "34-436",
+    "poczta": "Maniowy\r"
+  },
+  {
+    "id": "6319",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2287",
+    "miejscowosc": "Maniowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "34-436",
+    "poczta": "Maniowy\r"
+  }
+]

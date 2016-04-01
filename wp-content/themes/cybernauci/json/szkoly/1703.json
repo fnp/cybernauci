@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5176",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1703",
+    "miejscowosc": "Kr\u00f3l\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Kr\u00f3l\u00f3wka",
+    "numer": "444",
+    "kod": "32-722",
+    "poczta": "Kr\u00f3l\u00f3wka\r"
+  },
+  {
+    "id": "5177",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1703",
+    "miejscowosc": "Kr\u00f3l\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Kazimierza Brodzi\u0144skiego",
+    "ulica": "Kr\u00f3l\u00f3wka",
+    "numer": "444",
+    "kod": "32-722",
+    "poczta": "Kr\u00f3l\u00f3wka\r"
+  }
+]

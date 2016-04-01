@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14671",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5171",
+    "miejscowosc": "Nowogrodziec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sienkiewicza",
+    "numer": "7",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  },
+  {
+    "id": "14666",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5171",
+    "miejscowosc": "Nowogrodziec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Boles\u0142awa Chrobrego",
+    "ulica": "Sienkiewicza",
+    "numer": "8",
+    "kod": "59-730",
+    "poczta": "Nowogrodziec\r"
+  }
+]

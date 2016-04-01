@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1698",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Niepodleg\u0142o\u015bci",
+    "numer": "99",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  },
+  {
+    "id": "1695",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. kpt. Lucjana Szenwalda",
+    "ulica": "Traugutta",
+    "numer": "12",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  },
+  {
+    "id": "1696",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Karola Miarki",
+    "numer": "16",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  },
+  {
+    "id": "1697",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Armii Krajowej",
+    "numer": "56",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  },
+  {
+    "id": "1699",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "R. Traugutta",
+    "numer": "32",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  },
+  {
+    "id": "1700",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "726",
+    "miejscowosc": "Psz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "R. Traugutta",
+    "numer": "32",
+    "kod": "44-370",
+    "poczta": "Psz\u00f3w\r"
+  }
+]

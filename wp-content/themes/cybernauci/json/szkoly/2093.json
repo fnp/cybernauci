@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7241",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2093",
+    "miejscowosc": "Janowice",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Janowice",
+    "numer": "1",
+    "kod": "32-020",
+    "poczta": "Wieliczka\r"
+  },
+  {
+    "id": "5935",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2093",
+    "miejscowosc": "Janowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Janowice",
+    "numer": "50",
+    "kod": "32-218",
+    "poczta": "S\u0142abosz\u00f3w\r"
+  },
+  {
+    "id": "6821",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2093",
+    "miejscowosc": "Janowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Janowice",
+    "numer": "128",
+    "kod": "33-115",
+    "poczta": "Janowice\r"
+  }
+]

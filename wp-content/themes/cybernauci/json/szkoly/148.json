@@ -1,0 +1,26 @@
+[
+  {
+    "id": "307",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "148",
+    "miejscowosc": "Korfant\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Czes\u0142awa Niemena",
+    "ulica": "Adama MIckiewicza",
+    "numer": "1",
+    "kod": "48-317",
+    "poczta": "Korfant\u00f3w\r"
+  },
+  {
+    "id": "308",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "148",
+    "miejscowosc": "Korfant\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojska Polskiego",
+    "ulica": "3 Maja",
+    "numer": "12",
+    "kod": "48-317",
+    "poczta": "Korfant\u00f3w\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3640",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1060",
+    "miejscowosc": "Godzisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Godzisz\u00f3w Drugi",
+    "numer": "14",
+    "kod": "23-302",
+    "poczta": "Godzisz\u00f3w\r"
+  },
+  {
+    "id": "3642",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1060",
+    "miejscowosc": "Godzisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Godzisz\u00f3w",
+    "numer": "103",
+    "kod": "23-302",
+    "poczta": "Godzisz\u00f3w\r"
+  },
+  {
+    "id": "3643",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1060",
+    "miejscowosc": "Godzisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Godzisz\u00f3w",
+    "numer": "103",
+    "kod": "23-302",
+    "poczta": "Godzisz\u00f3w\r"
+  }
+]

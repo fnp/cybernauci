@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7919",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2778",
+    "miejscowosc": "Piotrkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa \"Pomnik Tysi\u0105clecia\"",
+    "ulica": "Piotrkowice",
+    "numer": "41",
+    "kod": "28-330",
+    "poczta": "Wodzis\u0142aw\r"
+  },
+  {
+    "id": "8001",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2778",
+    "miejscowosc": "Piotrkowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Tarnowskich",
+    "numer": "1",
+    "kod": "26-020",
+    "poczta": "Chmielnik\r"
+  }
+]

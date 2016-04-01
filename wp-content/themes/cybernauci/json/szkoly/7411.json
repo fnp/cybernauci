@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20963",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7411",
+    "miejscowosc": "Weso\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Weso\u0142a",
+    "numer": "607",
+    "kod": "36-233",
+    "poczta": "Weso\u0142a\r"
+  },
+  {
+    "id": "20973",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7411",
+    "miejscowosc": "Weso\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Nr 2 im. marsz. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Weso\u0142a",
+    "numer": "401",
+    "kod": "36-233",
+    "poczta": "Weso\u0142a\r"
+  },
+  {
+    "id": "20974",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7411",
+    "miejscowosc": "Weso\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa Nr 1 im. marsz. J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Weso\u0142a",
+    "numer": "401",
+    "kod": "36-233",
+    "poczta": "Weso\u0142a\r"
+  }
+]

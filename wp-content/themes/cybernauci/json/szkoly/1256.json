@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4012",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1256",
+    "miejscowosc": "Ciecierzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Ciecierzyn",
+    "numer": "121",
+    "kod": "21-003",
+    "poczta": "Ciecierzyn\r"
+  },
+  {
+    "id": "4013",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1256",
+    "miejscowosc": "Ciecierzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ciecierzyn",
+    "numer": "121",
+    "kod": "21-003",
+    "poczta": "Ciecierzyn\r"
+  }
+]

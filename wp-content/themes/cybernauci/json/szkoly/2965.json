@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8252",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2965",
+    "miejscowosc": "Sadowie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. pp\u0142k. W\u0142. Zwiejskiego ps. \"Jaruga\"",
+    "ulica": "Sadowie",
+    "numer": "94",
+    "kod": "27-580",
+    "poczta": "Sadowie\r"
+  },
+  {
+    "id": "8254",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2965",
+    "miejscowosc": "Sadowie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Biskupice",
+    "numer": "33",
+    "kod": "27-580",
+    "poczta": "Sadowie\r"
+  },
+  {
+    "id": "8253",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2965",
+    "miejscowosc": "Sadowie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Batalion\u00f3w Ch\u0142opskich",
+    "ulica": "Sadowie",
+    "numer": "94",
+    "kod": "27-580",
+    "poczta": "Sadowie\r"
+  }
+]

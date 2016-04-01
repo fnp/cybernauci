@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4708",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1596",
+    "miejscowosc": "Urszulin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "22-234",
+    "poczta": "Urszulin\r"
+  },
+  {
+    "id": "4709",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1596",
+    "miejscowosc": "Urszulin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Alfreda Lity\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "23",
+    "kod": "22-234",
+    "poczta": "Urszulin\r"
+  }
+]

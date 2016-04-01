@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14981",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5279",
+    "miejscowosc": "Wilkan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Wilkan\u00f3w",
+    "numer": "138D",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  },
+  {
+    "id": "14982",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5279",
+    "miejscowosc": "Wilkan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wilkan\u00f3w",
+    "numer": "138D",
+    "kod": "57-500",
+    "poczta": "Bystrzyca K\u0142odzka\r"
+  }
+]

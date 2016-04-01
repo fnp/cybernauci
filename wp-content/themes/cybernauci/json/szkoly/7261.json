@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20491",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7261",
+    "miejscowosc": "Szczaniec",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szczaniec",
+    "numer": "75",
+    "kod": "66-225",
+    "poczta": "Szczaniec\r"
+  },
+  {
+    "id": "20492",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7261",
+    "miejscowosc": "Szczaniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Szczaniec",
+    "numer": "75",
+    "kod": "66-225",
+    "poczta": "Szczaniec\r"
+  }
+]

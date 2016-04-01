@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11168",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3955",
+    "miejscowosc": "Kalisz Pomorski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Toru\u0144ska",
+    "numer": "9",
+    "kod": "78-540",
+    "poczta": "Kalisz Pomorski\r"
+  },
+  {
+    "id": "11169",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3955",
+    "miejscowosc": "Kalisz Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wolno\u015bci",
+    "numer": "20",
+    "kod": "78-540",
+    "poczta": "Kalisz Pomorski\r"
+  },
+  {
+    "id": "11166",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3955",
+    "miejscowosc": "Kalisz Pomorski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "B\u0142onie Kaszubskie",
+    "numer": "2",
+    "kod": "78-540",
+    "poczta": "Kalisz Pomorski\r"
+  },
+  {
+    "id": "11170",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3955",
+    "miejscowosc": "Kalisz Pomorski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wolno\u015bci",
+    "numer": "20",
+    "kod": "78-540",
+    "poczta": "Kalisz Pomorski\r"
+  }
+]

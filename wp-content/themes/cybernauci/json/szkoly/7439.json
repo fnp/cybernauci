@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21041",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7439",
+    "miejscowosc": "G\u0142obikowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "G\u0142obikowa",
+    "numer": "31",
+    "kod": "39-210",
+    "poczta": "D\u0119bica\r"
+  },
+  {
+    "id": "21042",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7439",
+    "miejscowosc": "G\u0142obikowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "G\u0142obikowa",
+    "numer": "31",
+    "kod": "39-210",
+    "poczta": "D\u0119bica\r"
+  }
+]

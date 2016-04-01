@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14202",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5150",
+    "miejscowosc": "S\u0142\u0119bowo",
+    "typ": "podstawowa",
+    "nazwa": "Filialna Szko\u0142a Podstawowa",
+    "ulica": "S\u0142\u0119bowo",
+    "numer": "1",
+    "kod": "88-400",
+    "poczta": "\u017bnin\r"
+  },
+  {
+    "id": "14201",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5150",
+    "miejscowosc": "S\u0142\u0119bowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142\u0119bowo",
+    "numer": "1",
+    "kod": "88-400",
+    "poczta": "\u017bnin\r"
+  }
+]

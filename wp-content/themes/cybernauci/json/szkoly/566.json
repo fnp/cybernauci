@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1246",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "566",
+    "miejscowosc": "Herby",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Lecha Wa\u0142\u0119sy",
+    "ulica": "Katowicka",
+    "numer": "6",
+    "kod": "42-284",
+    "poczta": "Herby\r"
+  },
+  {
+    "id": "1247",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "566",
+    "miejscowosc": "Herby",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliusza S\u0142owackiego",
+    "ulica": "Katowicka",
+    "numer": "6",
+    "kod": "42-284",
+    "poczta": "Herby\r"
+  }
+]

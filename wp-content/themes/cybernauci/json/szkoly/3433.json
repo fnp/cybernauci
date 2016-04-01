@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9433",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3433",
+    "miejscowosc": "Wierzchucino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. A. Radomskiego",
+    "ulica": "Abrahama",
+    "numer": "34",
+    "kod": "84-113",
+    "poczta": "Wierzchucino\r"
+  },
+  {
+    "id": "9429",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3433",
+    "miejscowosc": "Wierzchucino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. Makuszy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "84-113",
+    "poczta": "Wierzchucino\r"
+  }
+]

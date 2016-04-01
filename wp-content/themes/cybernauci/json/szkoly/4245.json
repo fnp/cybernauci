@@ -1,0 +1,74 @@
+[
+  {
+    "id": "12166",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Sikorskiego",
+    "numer": "22",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12169",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Ukrai\u0144skim J\u0119zykiem Nauczania ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12167",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kard. St. Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12170",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce z Ukrai\u0144skim J\u0119zykiem Nauczania ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12165",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  },
+  {
+    "id": "12168",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4245",
+    "miejscowosc": "G\u00f3rowo I\u0142aweckie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kard. St. Wyszy\u0144skiego",
+    "numer": "1",
+    "kod": "11-220",
+    "poczta": "G\u00f3rowo I\u0142aweckie\r"
+  }
+]

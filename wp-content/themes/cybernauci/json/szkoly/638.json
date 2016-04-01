@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1570",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "638",
+    "miejscowosc": "Jankowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ksi\u0119dza Walentego",
+    "ulica": "R\u00f3wnoleg\u0142a",
+    "numer": "5",
+    "kod": "44-264",
+    "poczta": "Jankowice\r"
+  },
+  {
+    "id": "1566",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "638",
+    "miejscowosc": "Jankowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Staszica",
+    "ulica": "R\u00f3wnoleg\u0142a",
+    "numer": "5",
+    "kod": "44-264",
+    "poczta": "Jankowice\r"
+  },
+  {
+    "id": "1440",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "638",
+    "miejscowosc": "Jankowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 15",
+    "ulica": "Baziowa",
+    "numer": "17",
+    "kod": "43-215",
+    "poczta": "Jankowice\r"
+  }
+]

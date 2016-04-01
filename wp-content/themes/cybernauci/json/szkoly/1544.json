@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4623",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1544",
+    "miejscowosc": "Lubycza Kr\u00f3lewska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Jana III Sobieskiego",
+    "numer": "5",
+    "kod": "22-680",
+    "poczta": "Lubycza Kr\u00f3lewska\r"
+  },
+  {
+    "id": "4624",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1544",
+    "miejscowosc": "Lubycza Kr\u00f3lewska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. gen. Nikodema Sulika",
+    "ulica": "Jana III Sobieskiego",
+    "numer": "5",
+    "kod": "22-680",
+    "poczta": "Lubycza Kr\u00f3lewska\r"
+  }
+]

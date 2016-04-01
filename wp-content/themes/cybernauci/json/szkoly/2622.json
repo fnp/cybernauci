@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7091",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2622",
+    "miejscowosc": "Brody",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne Nr 2",
+    "ulica": "Brody",
+    "numer": "479",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  },
+  {
+    "id": "7092",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2622",
+    "miejscowosc": "Brody",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Brody",
+    "numer": "479",
+    "kod": "34-130",
+    "poczta": "Kalwaria Zebrzydowska\r"
+  }
+]

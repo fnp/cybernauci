@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21837",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7832",
+    "miejscowosc": "Wadowice G\u00f3rne",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Leszka Deptu\u0142y",
+    "ulica": "Wadowice G\u00f3rne",
+    "numer": "133E",
+    "kod": "39-308",
+    "poczta": "Wadowice G\u00f3rne\r"
+  },
+  {
+    "id": "21838",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7832",
+    "miejscowosc": "Wadowice G\u00f3rne",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wadowice G\u00f3rne",
+    "numer": "111",
+    "kod": "39-308",
+    "poczta": "Wadowice G\u00f3rne\r"
+  }
+]

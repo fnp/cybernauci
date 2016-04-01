@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22373",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8095",
+    "miejscowosc": "Trepcza",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Sanocka",
+    "numer": "16",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  },
+  {
+    "id": "22374",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8095",
+    "miejscowosc": "Trepcza",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Sanocka",
+    "numer": "16",
+    "kod": "38-500",
+    "poczta": "Sanok\r"
+  }
+]

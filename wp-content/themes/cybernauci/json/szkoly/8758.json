@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24065",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8758",
+    "miejscowosc": "Chodkowo-Dzia\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa w Zespole Plac\u00f3wek O\u015bwiatowych",
+    "ulica": "Wyszogrodzka",
+    "numer": "1",
+    "kod": "09-470",
+    "poczta": "Bodzan\u00f3w\r"
+  },
+  {
+    "id": "24063",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8758",
+    "miejscowosc": "Chodkowo-Dzia\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. POZ",
+    "ulica": "Wyszogrodzka",
+    "numer": "3",
+    "kod": "09-470",
+    "poczta": "Bodzan\u00f3w\r"
+  }
+]

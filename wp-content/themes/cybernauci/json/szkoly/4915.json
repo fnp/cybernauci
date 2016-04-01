@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13718",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4915",
+    "miejscowosc": "Anieliny",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Stowarzyszenia \"\u017bakus\"",
+    "ulica": "Anieliny",
+    "numer": "30",
+    "kod": "89-110",
+    "poczta": "Sadki\r"
+  },
+  {
+    "id": "13719",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4915",
+    "miejscowosc": "Anieliny",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Stowarzyszenia \"\u017bakus\"",
+    "ulica": "Anieliny",
+    "numer": "30",
+    "kod": "89-110",
+    "poczta": "Sadki\r"
+  }
+]

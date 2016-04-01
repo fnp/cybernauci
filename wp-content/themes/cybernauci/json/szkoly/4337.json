@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12359",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4337",
+    "miejscowosc": "Kalinowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "19-314",
+    "poczta": "Kalinowo\r"
+  },
+  {
+    "id": "12355",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4337",
+    "miejscowosc": "Kalinowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Konopnickiej ",
+    "ulica": "Kajki",
+    "numer": "1",
+    "kod": "19-314",
+    "poczta": "Kalinowo\r"
+  }
+]

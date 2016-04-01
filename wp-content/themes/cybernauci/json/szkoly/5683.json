@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16363",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5683",
+    "miejscowosc": "Ostrowy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. gen. W\u0142adys\u0142awa Andersa ",
+    "ulica": "Ostrowy",
+    "numer": "8A",
+    "kod": "99-350",
+    "poczta": "Ostrowy\r"
+  },
+  {
+    "id": "16361",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5683",
+    "miejscowosc": "Ostrowy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Mieczys\u0142awy Butler",
+    "ulica": "Ostrowy",
+    "numer": "8",
+    "kod": "99-350",
+    "poczta": "Ostrowy\r"
+  }
+]

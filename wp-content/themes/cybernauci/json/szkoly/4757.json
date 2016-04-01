@@ -1,0 +1,98 @@
+[
+  {
+    "id": "13401",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "PTTK",
+    "numer": "28",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13396",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ignacego Dzia\u0142y\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "37",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13402",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "PTTK",
+    "numer": "28",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13395",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Zamkowa",
+    "numer": "19",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13400",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Konopnickiej",
+    "numer": "15",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13397",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Kili\u0144skiego",
+    "numer": "31",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13398",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kili\u0144skiego",
+    "numer": "31",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  },
+  {
+    "id": "13399",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4757",
+    "miejscowosc": "Golub-Dobrzy\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Miejskich Szko\u0142a Podstawowa Nr 2 im. Or\u0142a Bia\u0142ego",
+    "ulica": "Stefana \u017beromskiego",
+    "numer": "11",
+    "kod": "87-400",
+    "poczta": "Golub-Dobrzy\u0144\r"
+  }
+]

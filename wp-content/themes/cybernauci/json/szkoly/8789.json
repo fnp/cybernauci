@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24119",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8789",
+    "miejscowosc": "S\u0142ubice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "P\u0142ocka",
+    "numer": "28",
+    "kod": "09-533",
+    "poczta": "S\u0142ubice\r"
+  },
+  {
+    "id": "24116",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8789",
+    "miejscowosc": "S\u0142ubice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ojca \u015awi\u0119tego Jana Paw\u0142a II",
+    "ulica": "P\u0142ocka",
+    "numer": "30",
+    "kod": "09-533",
+    "poczta": "S\u0142ubice\r"
+  }
+]

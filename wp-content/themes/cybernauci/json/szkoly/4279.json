@@ -1,0 +1,110 @@
+[
+  {
+    "id": "12224",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 im. Kr\u00f3la W\u0142adys\u0142awa Jagie\u0142\u0142y ",
+    "ulica": "W\u0142. Jagie\u0142\u0142y",
+    "numer": "33",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12225",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12226",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Grunwaldzka",
+    "numer": "4",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12228",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Dwuj\u0119zycznymi w Zespole Szk\u00f3\u0142 Nr 2 im. Jana Paw\u0142a II ",
+    "ulica": "Polna",
+    "numer": "11",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12223",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Lenartowicza",
+    "numer": "1",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12229",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4 w Zespole Szk\u00f3\u0142 Nr 2 im. Jana Paw\u0142a II ",
+    "ulica": "Polna",
+    "numer": "11",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12227",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1 ",
+    "ulica": "Grunwaldzka",
+    "numer": "4",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12230",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Pocztowa",
+    "numer": "6",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  },
+  {
+    "id": "12231",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4279",
+    "miejscowosc": "Dzia\u0142dowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pocztowa",
+    "numer": "6",
+    "kod": "13-200",
+    "poczta": "Dzia\u0142dowo\r"
+  }
+]

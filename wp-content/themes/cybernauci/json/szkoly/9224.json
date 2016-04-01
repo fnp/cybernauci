@@ -1,0 +1,26 @@
+[
+  {
+    "id": "25050",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9224",
+    "miejscowosc": "Czarna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Witosa",
+    "numer": "52",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  },
+  {
+    "id": "25051",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9224",
+    "miejscowosc": "Czarna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Witosa",
+    "numer": "52",
+    "kod": "05-200",
+    "poczta": "Wo\u0142omin\r"
+  }
+]

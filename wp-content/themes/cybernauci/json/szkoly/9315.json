@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25255",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9315",
+    "miejscowosc": "Wiskitki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "25",
+    "kod": "96-315",
+    "poczta": "Wiskitki\r"
+  },
+  {
+    "id": "25257",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9315",
+    "miejscowosc": "Wiskitki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "25",
+    "kod": "96-315",
+    "poczta": "Wiskitki\r"
+  },
+  {
+    "id": "25256",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9315",
+    "miejscowosc": "Wiskitki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Plac Wolno\u015bci",
+    "numer": "34",
+    "kod": "96-315",
+    "poczta": "Wiskitki\r"
+  },
+  {
+    "id": "25258",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9315",
+    "miejscowosc": "Wiskitki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "25",
+    "kod": "96-315",
+    "poczta": "Wiskitki\r"
+  }
+]

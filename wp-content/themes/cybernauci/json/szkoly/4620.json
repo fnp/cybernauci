@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12981",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4620",
+    "miejscowosc": "Lipowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Lipowiec",
+    "numer": "48",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  },
+  {
+    "id": "12982",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4620",
+    "miejscowosc": "Lipowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lipowiec",
+    "numer": "48",
+    "kod": "12-100",
+    "poczta": "Szczytno\r"
+  }
+]

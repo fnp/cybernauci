@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24915",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9181",
+    "miejscowosc": "Stoczek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Armii Krajowej",
+    "numer": "1",
+    "kod": "07-104",
+    "poczta": "Stoczek\r"
+  },
+  {
+    "id": "24916",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9181",
+    "miejscowosc": "Stoczek",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Armii Krajowej",
+    "numer": "1",
+    "kod": "07-104",
+    "poczta": "Stoczek\r"
+  },
+  {
+    "id": "24918",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9181",
+    "miejscowosc": "Stoczek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "W\u0119growska",
+    "numer": "34",
+    "kod": "07-104",
+    "poczta": "Stoczek\r"
+  }
+]

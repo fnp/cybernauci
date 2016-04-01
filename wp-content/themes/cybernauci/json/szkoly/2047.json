@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5837",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2047",
+    "miejscowosc": "Mordarka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Mordarka",
+    "numer": "204",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  },
+  {
+    "id": "5838",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2047",
+    "miejscowosc": "Mordarka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awa Wyspia\u0144skiego ",
+    "ulica": "Mordarka",
+    "numer": "204",
+    "kod": "34-600",
+    "poczta": "Limanowa\r"
+  }
+]

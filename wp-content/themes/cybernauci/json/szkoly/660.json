@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1505",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "660",
+    "miejscowosc": "Krzy\u017canowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "12",
+    "kod": "47-450",
+    "poczta": "Krzy\u017canowice\r"
+  },
+  {
+    "id": "1506",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "660",
+    "miejscowosc": "Krzy\u017canowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. G. Morcinka",
+    "ulica": "\u0141\u0105kowa",
+    "numer": "12",
+    "kod": "47-450",
+    "poczta": "Krzy\u017canowice\r"
+  }
+]

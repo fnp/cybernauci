@@ -1,0 +1,110 @@
+[
+  {
+    "id": "10423",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wojska Polskiego",
+    "numer": "84",
+    "kod": "19-203",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10422",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Mickiewicza",
+    "numer": "3",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10416",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10418",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 im. Sybirak\u00f3w",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10420",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 3",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "23",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10417",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10419",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Adama Mickiewicza",
+    "ulica": "Mickiewicza",
+    "numer": "1",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10421",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Konstytucji 3 Maja",
+    "numer": "23",
+    "kod": "19-200",
+    "poczta": "Grajewo\r"
+  },
+  {
+    "id": "10424",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3696",
+    "miejscowosc": "Grajewo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wojska Polskiego",
+    "numer": "84",
+    "kod": "19-203",
+    "poczta": "Grajewo\r"
+  }
+]

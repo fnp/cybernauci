@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23955",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8725",
+    "miejscowosc": "Coniew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Coniew",
+    "numer": "28",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  },
+  {
+    "id": "23956",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8725",
+    "miejscowosc": "Coniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Osadnicza",
+    "numer": "28",
+    "kod": "05-530",
+    "poczta": "G\u00f3ra Kalwaria\r"
+  }
+]

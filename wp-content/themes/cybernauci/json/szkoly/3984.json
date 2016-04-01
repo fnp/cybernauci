@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11246",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3984",
+    "miejscowosc": "Brojce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "D\u0142uga",
+    "numer": "19",
+    "kod": "72-304",
+    "poczta": "Brojce\r"
+  },
+  {
+    "id": "11244",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3984",
+    "miejscowosc": "Brojce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0142uga",
+    "numer": "19",
+    "kod": "72-304",
+    "poczta": "Brojce\r"
+  }
+]

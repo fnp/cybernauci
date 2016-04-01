@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11173",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3958",
+    "miejscowosc": "Ostrowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ostrowice",
+    "numer": "3",
+    "kod": "78-506",
+    "poczta": "Ostrowice\r"
+  },
+  {
+    "id": "11174",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "3958",
+    "miejscowosc": "Ostrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ostrowice",
+    "numer": "3",
+    "kod": "78-506",
+    "poczta": "Ostrowice\r"
+  }
+]

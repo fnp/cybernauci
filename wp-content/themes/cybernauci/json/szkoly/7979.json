@@ -1,0 +1,62 @@
+[
+  {
+    "id": "22140",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7979",
+    "miejscowosc": "S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ks. St. Maci\u0105ga",
+    "numer": "3",
+    "kod": "39-120",
+    "poczta": "S\u0119dzisz\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22142",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7979",
+    "miejscowosc": "S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Fabryczna",
+    "numer": "5",
+    "kod": "39-120",
+    "poczta": "S\u0119dzisz\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22128",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7979",
+    "miejscowosc": "S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Rynek",
+    "numer": "9",
+    "kod": "39-120",
+    "poczta": "S\u0119dzisz\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22129",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7979",
+    "miejscowosc": "S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Osiedle M\u0142odych",
+    "numer": "20",
+    "kod": "39-120",
+    "poczta": "S\u0119dzisz\u00f3w Ma\u0142opolski\r"
+  },
+  {
+    "id": "22143",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7979",
+    "miejscowosc": "S\u0119dzisz\u00f3w Ma\u0142opolski",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Wyspia\u0144skiego",
+    "numer": "2",
+    "kod": "39-120",
+    "poczta": "S\u0119dzisz\u00f3w Ma\u0142opolski\r"
+  }
+]

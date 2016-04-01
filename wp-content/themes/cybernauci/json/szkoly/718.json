@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1658",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "718",
+    "miejscowosc": "Miedary",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "26",
+    "kod": "42-676",
+    "poczta": "Zbros\u0142awice\r"
+  },
+  {
+    "id": "1659",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "718",
+    "miejscowosc": "Miedary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "G\u0142\u00f3wna",
+    "numer": "26",
+    "kod": "42-676",
+    "poczta": "Zbros\u0142awice\r"
+  }
+]

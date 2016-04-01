@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5498",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1853",
+    "miejscowosc": "Kwiatonowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Kwiatonowice",
+    "numer": "21",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  },
+  {
+    "id": "5499",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1853",
+    "miejscowosc": "Kwiatonowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Kwiatonowice",
+    "numer": "21",
+    "kod": "38-333",
+    "poczta": "Zag\u00f3rzany\r"
+  }
+]

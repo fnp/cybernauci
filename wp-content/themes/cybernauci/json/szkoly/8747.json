@@ -1,0 +1,50 @@
+[
+  {
+    "id": "24049",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8747",
+    "miejscowosc": "Tarczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Szarych Szereg\u00f3w",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "8",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  },
+  {
+    "id": "24051",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8747",
+    "miejscowosc": "Tarczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Ks. Cz. Oszkiela",
+    "numer": "1",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  },
+  {
+    "id": "24050",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8747",
+    "miejscowosc": "Tarczyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Szarych Szereg\u00f3w",
+    "ulica": "Szarych Szereg\u00f3w",
+    "numer": "8",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  },
+  {
+    "id": "24046",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8747",
+    "miejscowosc": "Tarczyn",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "J. St\u0119pkowskiego",
+    "numer": "15",
+    "kod": "05-555",
+    "poczta": "Tarczyn\r"
+  }
+]

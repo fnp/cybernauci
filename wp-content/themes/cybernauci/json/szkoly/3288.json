@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9078",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3288",
+    "miejscowosc": "Kie\u0142pino",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "29",
+    "kod": "83-307",
+    "poczta": "Kie\u0142pino\r"
+  },
+  {
+    "id": "9079",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3288",
+    "miejscowosc": "Kie\u0142pino",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "29",
+    "kod": "83-307",
+    "poczta": "Kie\u0142pino\r"
+  }
+]

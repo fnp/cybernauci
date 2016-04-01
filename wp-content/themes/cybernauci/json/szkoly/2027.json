@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5811",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2027",
+    "miejscowosc": "Kamienica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kamienica",
+    "numer": "490",
+    "kod": "34-608",
+    "poczta": "Kamienica\r"
+  },
+  {
+    "id": "5808",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2027",
+    "miejscowosc": "Kamienica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Bohater\u00f3w Warszawy",
+    "ulica": "Kamienica",
+    "numer": "490",
+    "kod": "34-608",
+    "poczta": "Kamienica\r"
+  },
+  {
+    "id": "5810",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2027",
+    "miejscowosc": "Kamienica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Kamienica",
+    "numer": "343",
+    "kod": "34-608",
+    "poczta": "Kamienica\r"
+  }
+]

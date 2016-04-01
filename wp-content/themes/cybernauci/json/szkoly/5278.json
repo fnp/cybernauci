@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14976",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5278",
+    "miejscowosc": "Gorzan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "K\u0142odzka",
+    "numer": "8",
+    "kod": "57-521",
+    "poczta": "Gorzan\u00f3w\r"
+  },
+  {
+    "id": "14975",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5278",
+    "miejscowosc": "Gorzan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "K\u0142odzka",
+    "numer": "8",
+    "kod": "57-521",
+    "poczta": "Gorzan\u00f3w\r"
+  }
+]

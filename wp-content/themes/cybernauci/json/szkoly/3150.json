@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8677",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3150",
+    "miejscowosc": "Konieczno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Konieczno",
+    "numer": "80",
+    "kod": "29-100",
+    "poczta": "W\u0142oszczowa\r"
+  },
+  {
+    "id": "8678",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3150",
+    "miejscowosc": "Konieczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. H. Sienkiewicza",
+    "ulica": "Konieczno",
+    "numer": "80",
+    "kod": "29-100",
+    "poczta": "W\u0142oszczowa\r"
+  }
+]

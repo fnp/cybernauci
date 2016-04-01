@@ -1,0 +1,26 @@
+[
+  {
+    "id": "505",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "251",
+    "miejscowosc": "Stare Sio\u0142kowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Micha\u0142a",
+    "numer": "2",
+    "kod": "46-083",
+    "poczta": "Stare Sio\u0142kowice\r"
+  },
+  {
+    "id": "506",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "251",
+    "miejscowosc": "Stare Sio\u0142kowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Klapacz",
+    "numer": "62",
+    "kod": "46-083",
+    "poczta": "Stare Sio\u0142kowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19184",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6843",
+    "miejscowosc": "Gu\u0142towy",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "\u015aredzka",
+    "numer": "8",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  },
+  {
+    "id": "19185",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6843",
+    "miejscowosc": "Gu\u0142towy",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. A. Fiedlera",
+    "ulica": "\u015aredzka",
+    "numer": "8",
+    "kod": "62-025",
+    "poczta": "Kostrzyn\r"
+  }
+]

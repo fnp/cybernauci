@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15244",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5384",
+    "miejscowosc": "Dobroszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Gminne",
+    "ulica": "Parkowa",
+    "numer": "3",
+    "kod": "56-410",
+    "poczta": "Dobroszyce\r"
+  },
+  {
+    "id": "15242",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5384",
+    "miejscowosc": "Dobroszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. I. Sendlerowej",
+    "ulica": "Parkowa",
+    "numer": "5",
+    "kod": "56-410",
+    "poczta": "Dobroszyce\r"
+  }
+]

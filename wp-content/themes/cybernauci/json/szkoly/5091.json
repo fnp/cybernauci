@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14074",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5091",
+    "miejscowosc": "Cymbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Cymbark",
+    "numer": "28",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  },
+  {
+    "id": "14075",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5091",
+    "miejscowosc": "Cymbark",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Cymbark",
+    "numer": "28",
+    "kod": "87-200",
+    "poczta": "W\u0105brze\u017ano\r"
+  }
+]

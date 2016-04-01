@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18285",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6407",
+    "miejscowosc": "Radliczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Radliczyce",
+    "numer": "72",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  },
+  {
+    "id": "18286",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6407",
+    "miejscowosc": "Radliczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Radliczyce",
+    "numer": "72",
+    "kod": "62-865",
+    "poczta": "Szczytniki\r"
+  }
+]

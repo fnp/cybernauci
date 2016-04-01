@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5721",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1990",
+    "miejscowosc": "Modlnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "2",
+    "kod": "32-085",
+    "poczta": "Modlnica\r"
+  },
+  {
+    "id": "5722",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1990",
+    "miejscowosc": "Modlnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi ",
+    "ulica": "Sportowa",
+    "numer": "2",
+    "kod": "32-085",
+    "poczta": "Modlnica\r"
+  }
+]

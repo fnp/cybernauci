@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19691",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7077",
+    "miejscowosc": "Ko\u0142aczkowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Krakowska",
+    "numer": "1",
+    "kod": "62-306",
+    "poczta": "Ko\u0142aczkowo\r"
+  },
+  {
+    "id": "19692",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7077",
+    "miejscowosc": "Ko\u0142aczkowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Plac Reymonta",
+    "numer": "4",
+    "kod": "62-306",
+    "poczta": "Ko\u0142aczkowo\r"
+  }
+]

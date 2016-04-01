@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23862",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8685",
+    "miejscowosc": "Stary Luboty\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II - Papie\u017ca Polaka",
+    "ulica": "Stary Luboty\u0144",
+    "numer": "7",
+    "kod": "07-303",
+    "poczta": "Stary Luboty\u0144\r"
+  },
+  {
+    "id": "23859",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8685",
+    "miejscowosc": "Stary Luboty\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II - Papie\u017ca Polaka",
+    "ulica": "Stary Luboty\u0144",
+    "numer": "7",
+    "kod": "07-303",
+    "poczta": "Stary Luboty\u0144\r"
+  }
+]

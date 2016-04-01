@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23517",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8525",
+    "miejscowosc": "Zamienie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Ko\u0142bielska",
+    "numer": "34",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  },
+  {
+    "id": "23518",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8525",
+    "miejscowosc": "Zamienie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Ko\u0142bielska",
+    "numer": "34",
+    "kod": "05-300",
+    "poczta": "Mi\u0144sk Mazowiecki\r"
+  }
+]

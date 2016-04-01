@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17027",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5995",
+    "miejscowosc": "Br\u0105szewice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sieradzka",
+    "numer": "90",
+    "kod": "98-277",
+    "poczta": "Br\u0105szewice\r"
+  },
+  {
+    "id": "17024",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5995",
+    "miejscowosc": "Br\u0105szewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Sieradzka",
+    "numer": "98",
+    "kod": "98-277",
+    "poczta": "Br\u0105szewice\r"
+  }
+]

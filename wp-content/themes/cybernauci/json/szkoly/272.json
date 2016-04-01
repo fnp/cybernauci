@@ -1,0 +1,26 @@
+[
+  {
+    "id": "542",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "272",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Jaros\u0142awa Iwaszkiewicza",
+    "ulica": "Tysi\u0105clecia",
+    "numer": "16",
+    "kod": "48-210",
+    "poczta": "Bia\u0142a\r"
+  },
+  {
+    "id": "538",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "272",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osiedle Tysi\u0105clecia",
+    "numer": "16",
+    "kod": "48-210",
+    "poczta": "Bia\u0142a\r"
+  }
+]

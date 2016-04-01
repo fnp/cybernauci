@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3893",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1180",
+    "miejscowosc": "Rudno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Spacerowa",
+    "numer": "110",
+    "kod": "21-140",
+    "poczta": "Mich\u00f3w\r"
+  },
+  {
+    "id": "3894",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1180",
+    "miejscowosc": "Rudno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Spacerowa",
+    "numer": "110",
+    "kod": "21-140",
+    "poczta": "Mich\u00f3w\r"
+  },
+  {
+    "id": "4289",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1180",
+    "miejscowosc": "Rudno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "129b",
+    "kod": "21-210",
+    "poczta": "Milan\u00f3w\r"
+  }
+]

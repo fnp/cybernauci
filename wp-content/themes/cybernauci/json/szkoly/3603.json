@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9829",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3603",
+    "miejscowosc": "Barlewiczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Barlewiczki",
+    "numer": "13",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9823",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3603",
+    "miejscowosc": "Barlewiczki",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Barlewiczki",
+    "numer": "14",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9830",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3603",
+    "miejscowosc": "Barlewiczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Barlewiczki",
+    "numer": "13",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  },
+  {
+    "id": "9831",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3603",
+    "miejscowosc": "Barlewiczki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1",
+    "ulica": "Barlewiczki",
+    "numer": "13",
+    "kod": "82-400",
+    "poczta": "Sztum\r"
+  }
+]

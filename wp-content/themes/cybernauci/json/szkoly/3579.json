@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9786",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3579",
+    "miejscowosc": "Szemud",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "84-217",
+    "poczta": "Szemud\r"
+  },
+  {
+    "id": "9788",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3579",
+    "miejscowosc": "Szemud",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "84-217",
+    "poczta": "Szemud\r"
+  }
+]

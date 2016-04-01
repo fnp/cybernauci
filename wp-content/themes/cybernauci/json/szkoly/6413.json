@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18295",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6413",
+    "miejscowosc": "D\u0119be",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "D\u0119be",
+    "numer": "34a",
+    "kod": "62-817",
+    "poczta": "\u017belazk\u00f3w\r"
+  },
+  {
+    "id": "18293",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6413",
+    "miejscowosc": "D\u0119be",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "D\u0119be",
+    "numer": "34a",
+    "kod": "62-817",
+    "poczta": "\u017belazk\u00f3w\r"
+  }
+]

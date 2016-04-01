@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6127",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2186",
+    "miejscowosc": "Mszalnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. B\u0142. Karoliny K\u00f3zk\u00f3wny",
+    "ulica": "Mszalnica",
+    "numer": "127",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  },
+  {
+    "id": "6128",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2186",
+    "miejscowosc": "Mszalnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. B\u0142. Karoliny K\u00f3zk\u00f3wny",
+    "ulica": "Mszalnica",
+    "numer": "127",
+    "kod": "33-334",
+    "poczta": "Kamionka Wielka\r"
+  }
+]

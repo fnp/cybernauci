@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6533",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2381",
+    "miejscowosc": "Wierzchowisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kardyna\u0142a S. Wyszy\u0144skiego",
+    "ulica": "Wierzchowisko",
+    "numer": "32b",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  },
+  {
+    "id": "6534",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2381",
+    "miejscowosc": "Wierzchowisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a S. Wyszy\u0144skiego",
+    "ulica": "Wierzchowisko",
+    "numer": "32b",
+    "kod": "32-340",
+    "poczta": "Wolbrom\r"
+  }
+]

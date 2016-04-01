@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18151",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6330",
+    "miejscowosc": "Jab\u0142onna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Nowotomyska",
+    "numer": "9",
+    "kod": "64-308",
+    "poczta": "Jab\u0142onna\r"
+  },
+  {
+    "id": "18152",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6330",
+    "miejscowosc": "Jab\u0142onna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Nowotomyska",
+    "numer": "9",
+    "kod": "64-308",
+    "poczta": "Jab\u0142onna\r"
+  }
+]

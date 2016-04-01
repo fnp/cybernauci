@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22516",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8157",
+    "miejscowosc": "Grodzisko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Grodzisko",
+    "numer": "30",
+    "kod": "38-102",
+    "poczta": "Grodzisko\r"
+  },
+  {
+    "id": "22517",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8157",
+    "miejscowosc": "Grodzisko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Grodzisko",
+    "numer": "30",
+    "kod": "38-102",
+    "poczta": "Grodzisko\r"
+  }
+]

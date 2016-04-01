@@ -1,0 +1,98 @@
+[
+  {
+    "id": "16701",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ogrodowa",
+    "numer": "3A",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16702",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 ",
+    "ulica": "Grota Roweckiego",
+    "numer": "2",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16709",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Grota Roweckiego",
+    "numer": "5",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16705",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Janusza Korczaka ",
+    "ulica": "Zamkowa",
+    "numer": "1",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16704",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. M. Kopernika",
+    "ulica": "Szkolna",
+    "numer": "4",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16703",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Grota Roweckiego",
+    "numer": "2",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16710",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Grota Roweckiego",
+    "numer": "5",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  },
+  {
+    "id": "16711",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5843",
+    "miejscowosc": "Dzia\u0142oszyn",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Grota Roweckiego",
+    "numer": "5",
+    "kod": "98-355",
+    "poczta": "Dzia\u0142oszyn\r"
+  }
+]

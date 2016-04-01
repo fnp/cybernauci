@@ -1,0 +1,122 @@
+[
+  {
+    "id": "19265",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Stanis\u0142awa Kwa\u015bniewskiego",
+    "numer": "2",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19263",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Polna",
+    "numer": "21",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19264",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "os. Czwartak\u00f3w",
+    "numer": "1",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19266",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "I Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Stanis\u0142awa Kwa\u015bniewskiego",
+    "numer": "2",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19269",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Podg\u00f3rna",
+    "numer": "12",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19256",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Stanis\u0142awa Staszica",
+    "ulica": "Zamkowa",
+    "numer": "20",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19257",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Ko\u015bciuszkowc\u00f3w",
+    "numer": "4",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19258",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 5",
+    "ulica": "Osiedle Miel\u017cy\u0144skiego",
+    "numer": "3A",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19267",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Miel\u017cy\u0144skiego",
+    "numer": "5a",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  },
+  {
+    "id": "19268",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6876",
+    "miejscowosc": "Swarz\u0119dz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Miel\u017cy\u0144skiego",
+    "numer": "5a",
+    "kod": "62-020",
+    "poczta": "Swarz\u0119dz\r"
+  }
+]

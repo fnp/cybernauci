@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3475",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "963",
+    "miejscowosc": "Tereszpol-Zaorenda",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "23-407",
+    "poczta": "Tereszpol-Zaorenda\r"
+  },
+  {
+    "id": "3476",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "963",
+    "miejscowosc": "Tereszpol-Zaorenda",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Samorz\u0105dowych Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "23-407",
+    "poczta": "Tereszpol-Zaorenda\r"
+  }
+]

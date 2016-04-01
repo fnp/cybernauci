@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22442",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8117",
+    "miejscowosc": "Antoni\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Antoni\u00f3w",
+    "numer": "33",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  },
+  {
+    "id": "22443",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8117",
+    "miejscowosc": "Antoni\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Antoni\u00f3w",
+    "numer": "33",
+    "kod": "37-455",
+    "poczta": "Radomy\u015bl nad Sanem\r"
+  }
+]

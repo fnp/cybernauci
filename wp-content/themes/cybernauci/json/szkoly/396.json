@@ -1,0 +1,26 @@
+[
+  {
+    "id": "929",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "396",
+    "miejscowosc": "Pogwizd\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ziemi Cieszy\u0144skiej",
+    "ulica": "Katowicka",
+    "numer": "34",
+    "kod": "43-418",
+    "poczta": "Pogwizd\u00f3w\r"
+  },
+  {
+    "id": "928",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "396",
+    "miejscowosc": "Pogwizd\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-418",
+    "poczta": "Pogwizd\u00f3w\r"
+  }
+]

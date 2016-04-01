@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9318",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3394",
+    "miejscowosc": "Le\u015bnice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Le\u015bnice",
+    "numer": "18A",
+    "kod": "84-300",
+    "poczta": "L\u0119bork\r"
+  },
+  {
+    "id": "9319",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3394",
+    "miejscowosc": "Le\u015bnice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Le\u015bnice",
+    "numer": "18A",
+    "kod": "84-300",
+    "poczta": "L\u0119bork\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23616",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8560",
+    "miejscowosc": "Szyd\u0142owo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Szkolna",
+    "numer": "2A",
+    "kod": "06-516",
+    "poczta": "Szyd\u0142owo\r"
+  },
+  {
+    "id": "23615",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8560",
+    "miejscowosc": "Szyd\u0142owo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "06-516",
+    "poczta": "Szyd\u0142owo\r"
+  }
+]

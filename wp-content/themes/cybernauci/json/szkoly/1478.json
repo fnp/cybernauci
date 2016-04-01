@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4460",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1478",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bia\u0142a",
+    "numer": "30",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  },
+  {
+    "id": "4461",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1478",
+    "miejscowosc": "Bia\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Romualda Traugutta ",
+    "ulica": "Bia\u0142a",
+    "numer": "30",
+    "kod": "21-300",
+    "poczta": "Radzy\u0144 Podlaski\r"
+  }
+]

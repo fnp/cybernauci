@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22063",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7952",
+    "miejscowosc": "Try\u0144cza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Try\u0144cza",
+    "numer": "129",
+    "kod": "37-204",
+    "poczta": "Try\u0144cza\r"
+  },
+  {
+    "id": "22064",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7952",
+    "miejscowosc": "Try\u0144cza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Try\u0144cza",
+    "numer": "129",
+    "kod": "37-204",
+    "poczta": "Try\u0144cza\r"
+  }
+]

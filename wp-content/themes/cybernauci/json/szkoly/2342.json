@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6443",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2342",
+    "miejscowosc": "Ba\u0144ska Wy\u017cna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szlak Papieski",
+    "numer": "64",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  },
+  {
+    "id": "6444",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2342",
+    "miejscowosc": "Ba\u0144ska Wy\u017cna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szlak Papieski",
+    "numer": "64",
+    "kod": "34-424",
+    "poczta": "Szaflary\r"
+  }
+]

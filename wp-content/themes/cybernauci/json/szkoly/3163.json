@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8820",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3163",
+    "miejscowosc": "Czarna D\u0105br\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "S\u0142upska",
+    "numer": "17",
+    "kod": "77-116",
+    "poczta": "Czarna D\u0105br\u00f3wka\r"
+  },
+  {
+    "id": "8821",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3163",
+    "miejscowosc": "Czarna D\u0105br\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. 27 WDP AK",
+    "ulica": "S\u0142upska",
+    "numer": "17",
+    "kod": "77-116",
+    "poczta": "Czarna D\u0105br\u00f3wka\r"
+  }
+]

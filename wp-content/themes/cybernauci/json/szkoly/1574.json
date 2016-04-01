@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4666",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1574",
+    "miejscowosc": "Majdan G\u00f3rny",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "D\u0142uga",
+    "numer": "180",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  },
+  {
+    "id": "4667",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1574",
+    "miejscowosc": "Majdan G\u00f3rny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "D\u0142uga",
+    "numer": "180",
+    "kod": "22-600",
+    "poczta": "Tomasz\u00f3w Lubelski\r"
+  }
+]

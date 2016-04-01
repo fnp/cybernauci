@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11295",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4004",
+    "miejscowosc": "Banie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "74-110",
+    "poczta": "Banie\r"
+  },
+  {
+    "id": "11296",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4004",
+    "miejscowosc": "Banie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sportowa",
+    "numer": "1",
+    "kod": "74-110",
+    "poczta": "Banie\r"
+  }
+]

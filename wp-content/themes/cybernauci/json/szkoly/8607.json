@@ -1,0 +1,50 @@
+[
+  {
+    "id": "23717",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8607",
+    "miejscowosc": "Kadzid\u0142o",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0142oneczna",
+    "numer": "2",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23713",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8607",
+    "miejscowosc": "Kadzid\u0142o",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Gen. Aleksandra Krzy\u017canowskiego \"WILKA\"",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "13",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23716",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8607",
+    "miejscowosc": "Kadzid\u0142o",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "T. Ko\u015bciuszki",
+    "numer": "13",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  },
+  {
+    "id": "23718",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8607",
+    "miejscowosc": "Kadzid\u0142o",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "S\u0142oneczna",
+    "numer": "2",
+    "kod": "07-420",
+    "poczta": "Kadzid\u0142o\r"
+  }
+]

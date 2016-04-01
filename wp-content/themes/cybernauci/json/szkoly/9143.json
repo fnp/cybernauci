@@ -1,0 +1,110 @@
+[
+  {
+    "id": "24840",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 z Oddzia\u0142ami Dwuj\u0119zycznymi im. Janusza Kusoci\u0144skiego",
+    "ulica": "Staszica",
+    "numer": "2",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24841",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "gimnazjum",
+    "nazwa": "Kolegium \u015aw. Rodziny Gimnazjum",
+    "ulica": "K. K. Baczy\u0144skiego",
+    "numer": "7-9",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24843",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Kolegium \u015aw. Rodziny Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "K. K. Baczy\u0144skiego",
+    "numer": "7-9",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24837",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "podstawowa",
+    "nazwa": "Kolegium \u015aw. Rodziny Szko\u0142a Podstawowa",
+    "ulica": "K. K. Baczy\u0144skiego",
+    "numer": "7-9",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24838",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Moja Szko\u0142a im. Wandy Chotomskiej",
+    "ulica": "R\u00f3wna",
+    "numer": "26",
+    "kod": "05-092",
+    "poczta": "Lomianki\r"
+  },
+  {
+    "id": "24844",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr 71 Szko\u0142a Mistrzostwa Sportowego Polskiego Zwi\u0105zku Koszyk\u00f3wki",
+    "ulica": "St. Staszica",
+    "numer": "2",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24842",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Publiczne Liceum Og\u00f3lnokszta\u0142c\u0105ce im. Karola Wojty\u0142y",
+    "ulica": "S. Staszica",
+    "numer": "2",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24835",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 im. Marii Kownackiej",
+    "ulica": "Warszawska",
+    "numer": "73",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  },
+  {
+    "id": "24839",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9143",
+    "miejscowosc": "\u0141omianki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Pro Futuro z Oddzia\u0142ami Przedszkolnymi",
+    "ulica": "Warszawska",
+    "numer": "141",
+    "kod": "05-092",
+    "poczta": "\u0141omianki\r"
+  }
+]

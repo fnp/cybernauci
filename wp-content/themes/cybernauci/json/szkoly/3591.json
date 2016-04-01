@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9806",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3591",
+    "miejscowosc": "Dzierzgo\u0144",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zawadzkiego",
+    "numer": "38a",
+    "kod": "82-440",
+    "poczta": "Dzierzgon\r"
+  },
+  {
+    "id": "9807",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3591",
+    "miejscowosc": "Dzierzgo\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Zawadzkiego",
+    "numer": "15",
+    "kod": "82-440",
+    "poczta": "Dzierzgo\u0144\r"
+  },
+  {
+    "id": "9804",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3591",
+    "miejscowosc": "Dzierzgo\u0144",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Tysi\u0105clecia Pa\u0144stwa Polskiego",
+    "ulica": "Krzywa",
+    "numer": "17",
+    "kod": "82-440",
+    "poczta": "Dzierzgo\u0144\r"
+  },
+  {
+    "id": "9808",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3591",
+    "miejscowosc": "Dzierzgo\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Zawadzkiego",
+    "numer": "15",
+    "kod": "82-440",
+    "poczta": "Dzierzgo\u0144\r"
+  },
+  {
+    "id": "9809",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3591",
+    "miejscowosc": "Dzierzgo\u0144",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Traugutta",
+    "numer": "13",
+    "kod": "82-440",
+    "poczta": "Dzierzgo\u0144\r"
+  }
+]

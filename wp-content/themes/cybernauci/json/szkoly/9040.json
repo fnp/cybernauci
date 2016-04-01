@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24607",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9040",
+    "miejscowosc": "Dziewule",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "10",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  },
+  {
+    "id": "24603",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9040",
+    "miejscowosc": "Dziewule",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Kardyna\u0142a Stefana Wyszy\u0144skiego",
+    "ulica": "Ko\u015bcielna",
+    "numer": "10",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  }
+]

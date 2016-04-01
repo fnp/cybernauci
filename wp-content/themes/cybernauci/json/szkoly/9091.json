@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24713",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9091",
+    "miejscowosc": "Wycz\u00f3\u0142ki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Wycz\u00f3\u0142ki",
+    "numer": "21A",
+    "kod": "96-500",
+    "poczta": "Sochaczew\r"
+  },
+  {
+    "id": "24714",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9091",
+    "miejscowosc": "Wycz\u00f3\u0142ki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Janusza Kusoci\u0144skiego",
+    "ulica": "Wycz\u00f3\u0142ki",
+    "numer": "21A",
+    "kod": "96-500",
+    "poczta": "Sochaczew\r"
+  }
+]

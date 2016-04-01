@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21318",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7557",
+    "miejscowosc": "Lublica",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Lublica",
+    "numer": "79",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  },
+  {
+    "id": "21317",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7557",
+    "miejscowosc": "Lublica",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Lublica",
+    "numer": "79",
+    "kod": "38-213",
+    "poczta": "Ko\u0142aczyce\r"
+  }
+]

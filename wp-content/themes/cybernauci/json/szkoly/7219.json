@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20419",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7219",
+    "miejscowosc": "Dobiegniew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Ryszarda Koncewicza ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "5",
+    "kod": "66-520",
+    "poczta": "Dobiegniew\r"
+  },
+  {
+    "id": "20420",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7219",
+    "miejscowosc": "Dobiegniew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce ",
+    "ulica": "Pozna\u0144ska",
+    "numer": "5",
+    "kod": "66-520",
+    "poczta": "Dobiegniew\r"
+  },
+  {
+    "id": "20418",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7219",
+    "miejscowosc": "Dobiegniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u017bo\u0142nierzy Wrze\u015bnia - Woldenberczyk\u00f3w",
+    "ulica": "Gda\u0144ska",
+    "numer": "8",
+    "kod": "66-520",
+    "poczta": "Dobiegniew\r"
+  },
+  {
+    "id": "20421",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7219",
+    "miejscowosc": "Dobiegniew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Pozna\u0144ska",
+    "numer": "5",
+    "kod": "66-520",
+    "poczta": "Dobiegniew\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "438",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "212",
+    "miejscowosc": "Z\u0119bowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "22",
+    "kod": "46-048",
+    "poczta": "Z\u0119bowice\r"
+  },
+  {
+    "id": "439",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "212",
+    "miejscowosc": "Z\u0119bowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Oleska",
+    "numer": "10",
+    "kod": "46-048",
+    "poczta": "Z\u0119bowice\r"
+  },
+  {
+    "id": "440",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "212",
+    "miejscowosc": "Z\u0119bowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum w Z\u0119bowicach",
+    "ulica": "Oleska",
+    "numer": "27a",
+    "kod": "46-048",
+    "poczta": "Z\u0119bowice\r"
+  }
+]

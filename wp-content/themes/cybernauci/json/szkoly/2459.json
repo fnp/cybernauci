@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6740",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2459",
+    "miejscowosc": "Grzechynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Grzechynia",
+    "numer": "314",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6741",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2459",
+    "miejscowosc": "Grzechynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Reja",
+    "ulica": "Grzechynia",
+    "numer": "314",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  }
+]

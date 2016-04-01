@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20356",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7192",
+    "miejscowosc": "Konotop",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Plac Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "7",
+    "kod": "67-416",
+    "poczta": "Konotop\r"
+  },
+  {
+    "id": "20357",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7192",
+    "miejscowosc": "Konotop",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "Plac Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "7",
+    "kod": "67-416",
+    "poczta": "Konotop\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21858",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7844",
+    "miejscowosc": "Cholewiana G\u00f3ra",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "M\u0142ynarze",
+    "numer": "23",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  },
+  {
+    "id": "21859",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7844",
+    "miejscowosc": "Cholewiana G\u00f3ra",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "M\u0142ynarze",
+    "numer": "23",
+    "kod": "37-430",
+    "poczta": "Je\u017cowe\r"
+  }
+]

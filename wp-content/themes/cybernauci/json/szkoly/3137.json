@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8651",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3137",
+    "miejscowosc": "Skork\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  },
+  {
+    "id": "8652",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3137",
+    "miejscowosc": "Skork\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "8",
+    "kod": "29-105",
+    "poczta": "Krasocin\r"
+  }
+]

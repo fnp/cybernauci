@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8079",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2879",
+    "miejscowosc": "Bilcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Piotra \u015aciegiennego ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  },
+  {
+    "id": "8432",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2879",
+    "miejscowosc": "Bilcza",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bilcza",
+    "numer": "75",
+    "kod": "27-641",
+    "poczta": "Obraz\u00f3w\r"
+  },
+  {
+    "id": "8080",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2879",
+    "miejscowosc": "Bilcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. ks. Piotra \u015aciegiennego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "26-026",
+    "poczta": "Morawica\r"
+  }
+]

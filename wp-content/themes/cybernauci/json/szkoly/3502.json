@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9572",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3502",
+    "miejscowosc": "Szlachta",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "32",
+    "kod": "83-243",
+    "poczta": "Szlachta\r"
+  },
+  {
+    "id": "9573",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3502",
+    "miejscowosc": "Szlachta",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "3 Maja",
+    "numer": "32",
+    "kod": "83-243",
+    "poczta": "Szlachta\r"
+  }
+]

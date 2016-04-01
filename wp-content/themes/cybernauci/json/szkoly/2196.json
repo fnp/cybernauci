@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6139",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2196",
+    "miejscowosc": "Korzenna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Korzenna",
+    "numer": "324",
+    "kod": "33-322",
+    "poczta": "Korzenna\r"
+  },
+  {
+    "id": "6140",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2196",
+    "miejscowosc": "Korzenna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Korzenna",
+    "numer": "324",
+    "kod": "33-322",
+    "poczta": "Korzenna\r"
+  }
+]

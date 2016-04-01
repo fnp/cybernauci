@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21108",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7470",
+    "miejscowosc": "Bobrowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Bobrowa",
+    "numer": "131",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  },
+  {
+    "id": "21109",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7470",
+    "miejscowosc": "Bobrowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Bobrowa",
+    "numer": "131",
+    "kod": "39-203",
+    "poczta": "Nagoszyn\r"
+  }
+]

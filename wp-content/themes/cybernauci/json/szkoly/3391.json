@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9315",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3391",
+    "miejscowosc": "Nowa Wie\u015b L\u0119borska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Polna",
+    "numer": "19A",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  },
+  {
+    "id": "9312",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3391",
+    "miejscowosc": "Nowa Wie\u015b L\u0119borska",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "D\u0142uga",
+    "numer": "42 a",
+    "kod": "84-300",
+    "poczta": "L\u0119bork\r"
+  },
+  {
+    "id": "9316",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3391",
+    "miejscowosc": "Nowa Wie\u015b L\u0119borska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Polna",
+    "numer": "9A",
+    "kod": "84-351",
+    "poczta": "Nowa Wie\u015b L\u0119borska\r"
+  }
+]

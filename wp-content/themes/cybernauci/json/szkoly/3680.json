@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10393",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3680",
+    "miejscowosc": "Augustowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "",
+    "numer": "30",
+    "kod": "17-100",
+    "poczta": "Bielsk Podlaski\r"
+  },
+  {
+    "id": "10394",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3680",
+    "miejscowosc": "Augustowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Spoatowa",
+    "numer": "30",
+    "kod": "17-100",
+    "poczta": "Bielsk Podlaski\r"
+  }
+]

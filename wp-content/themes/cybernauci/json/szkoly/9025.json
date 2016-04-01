@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24578",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9025",
+    "miejscowosc": "Nowe Iganie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Siedlecka",
+    "numer": "113",
+    "kod": "08-103",
+    "poczta": "Siedlce\r"
+  },
+  {
+    "id": "24579",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9025",
+    "miejscowosc": "Nowe Iganie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Siedlecka",
+    "numer": "113",
+    "kod": "08-103",
+    "poczta": "Siedlce\r"
+  }
+]

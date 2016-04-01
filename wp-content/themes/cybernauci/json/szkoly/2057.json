@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5857",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2057",
+    "miejscowosc": "\u0141ukowica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Micha\u0142a S\u0119dziwoja",
+    "ulica": "\u0141ukowica",
+    "numer": "293",
+    "kod": "34-606",
+    "poczta": "\u0141ukowica\r"
+  },
+  {
+    "id": "5855",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2057",
+    "miejscowosc": "\u0141ukowica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Sk\u0142odowskiej-Curie",
+    "ulica": "\u0141ukowica",
+    "numer": "285",
+    "kod": "34-606",
+    "poczta": "\u0141ukowica\r"
+  }
+]

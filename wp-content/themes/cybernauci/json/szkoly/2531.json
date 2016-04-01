@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6873",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2531",
+    "miejscowosc": "Wola Rz\u0119dzi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Wola Rz\u0119dzi\u0144ska",
+    "numer": "435\/B",
+    "kod": "33-150",
+    "poczta": "Wola Rz\u0119dzi\u0144ska\r"
+  },
+  {
+    "id": "6890",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2531",
+    "miejscowosc": "Wola Rz\u0119dzi\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 im. ks. W\u0142adys\u0142awa Kowalczyka",
+    "ulica": "Wola Rz\u0119dzi\u0144ska",
+    "numer": "253 A",
+    "kod": "33-150",
+    "poczta": "Wola Rz\u0119dzi\u0144ska\r"
+  },
+  {
+    "id": "6891",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2531",
+    "miejscowosc": "Wola Rz\u0119dzi\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. b\u0142. Edmunda Bojanowskiego",
+    "ulica": "Wola Rz\u0119dzi\u0144ska",
+    "numer": "253 A",
+    "kod": "33-150",
+    "poczta": "Wola Rz\u0119dzi\u0144ska\r"
+  }
+]

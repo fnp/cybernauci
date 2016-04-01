@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24513",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8982",
+    "miejscowosc": "Skaryszew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kochanowskiego",
+    "numer": "16G",
+    "kod": "26-640",
+    "poczta": "Skaryszew\r"
+  },
+  {
+    "id": "24510",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8982",
+    "miejscowosc": "Skaryszew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Wojska Polaskiego",
+    "numer": "5",
+    "kod": "26-640",
+    "poczta": "Skaryszew\r"
+  },
+  {
+    "id": "24514",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8982",
+    "miejscowosc": "Skaryszew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1 ",
+    "ulica": "Kochanowskiego",
+    "numer": "16G",
+    "kod": "26-640",
+    "poczta": "Skaryszew\r"
+  }
+]

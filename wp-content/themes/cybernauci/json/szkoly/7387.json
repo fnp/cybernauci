@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20922",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7387",
+    "miejscowosc": "Barycz",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Barycz",
+    "numer": "238",
+    "kod": "36-230",
+    "poczta": "Domaradz\r"
+  },
+  {
+    "id": "20923",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7387",
+    "miejscowosc": "Barycz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Barycz",
+    "numer": "238",
+    "kod": "36-230",
+    "poczta": "Domaradz\r"
+  }
+]

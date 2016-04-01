@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24758",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9107",
+    "miejscowosc": "Repki",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "08-307",
+    "poczta": "Repki\r"
+  },
+  {
+    "id": "24759",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9107",
+    "miejscowosc": "Repki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Osiedlowa",
+    "numer": "8",
+    "kod": "08-307",
+    "poczta": "Repki\r"
+  }
+]

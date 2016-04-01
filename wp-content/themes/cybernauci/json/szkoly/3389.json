@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9308",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3389",
+    "miejscowosc": "Cewice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Witosa",
+    "numer": "65",
+    "kod": "84-312",
+    "poczta": "Cewice\r"
+  },
+  {
+    "id": "9309",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3389",
+    "miejscowosc": "Cewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Witosa",
+    "numer": "65",
+    "kod": "84-312",
+    "poczta": "Cewice\r"
+  }
+]

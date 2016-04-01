@@ -1,0 +1,26 @@
+[
+  {
+    "id": "68",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "34",
+    "miejscowosc": "Pietrowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pietrowice",
+    "numer": "9",
+    "kod": "48-100",
+    "poczta": "G\u0142ubczyce\r"
+  },
+  {
+    "id": "69",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "34",
+    "miejscowosc": "Pietrowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pietrowice",
+    "numer": "9",
+    "kod": "48-100",
+    "poczta": "G\u0142ubczyce\r"
+  }
+]

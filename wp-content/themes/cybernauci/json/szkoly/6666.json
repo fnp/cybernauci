@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18783",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6666",
+    "miejscowosc": "Kiszewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zespole Szkolno-Przedszkolnym Gimnazjum",
+    "ulica": "Kiszewo",
+    "numer": "",
+    "kod": "64-607",
+    "poczta": "Kiszewo\r"
+  },
+  {
+    "id": "18784",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6666",
+    "miejscowosc": "Kiszewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szkolno-Przedszkolny Szko\u0142a Podstawowa",
+    "ulica": "Kiszewo",
+    "numer": "",
+    "kod": "64-607",
+    "poczta": "Kiszewo\r"
+  }
+]

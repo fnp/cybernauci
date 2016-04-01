@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22201",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8021",
+    "miejscowosc": "\u0141ubno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Nr 3",
+    "ulica": "\u0141ubno",
+    "numer": "82",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  },
+  {
+    "id": "22202",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8021",
+    "miejscowosc": "\u0141ubno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142 Nr 3",
+    "ulica": "\u0141ubno",
+    "numer": "82",
+    "kod": "36-065",
+    "poczta": "Dyn\u00f3w\r"
+  }
+]

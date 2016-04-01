@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4775",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1638",
+    "miejscowosc": "Skierbiesz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne im. Dzieci Zamojszczyzny ",
+    "ulica": "Zamojska",
+    "numer": "8",
+    "kod": "22-420",
+    "poczta": "Skierbiesz\u00f3w\r"
+  },
+  {
+    "id": "4776",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1638",
+    "miejscowosc": "Skierbiesz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Ignacego Mo\u015bcickiego ",
+    "ulica": "Zamojska",
+    "numer": "8",
+    "kod": "22-420",
+    "poczta": "Skierbiesz\u00f3w\r"
+  }
+]

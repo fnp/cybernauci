@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6114",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2179",
+    "miejscowosc": "Florynka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Florynka",
+    "numer": "64",
+    "kod": "33-332",
+    "poczta": "Florynka\r"
+  },
+  {
+    "id": "6115",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2179",
+    "miejscowosc": "Florynka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Florynka",
+    "numer": "64",
+    "kod": "33-332",
+    "poczta": "Florynka\r"
+  }
+]

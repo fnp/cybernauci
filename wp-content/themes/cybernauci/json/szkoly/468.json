@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1054",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "468",
+    "miejscowosc": "Mykan\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142oneczna",
+    "numer": "114",
+    "kod": "42-233",
+    "poczta": "Mykan\u00f3w\r"
+  },
+  {
+    "id": "1055",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "468",
+    "miejscowosc": "Mykan\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142oneczna",
+    "numer": "114",
+    "kod": "42-233",
+    "poczta": "Mykan\u00f3w\r"
+  }
+]

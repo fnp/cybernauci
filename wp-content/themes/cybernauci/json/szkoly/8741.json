@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24028",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8741",
+    "miejscowosc": "Chylice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworska",
+    "numer": "2",
+    "kod": "05-510",
+    "poczta": "Konstancin-Jeziorna\r"
+  },
+  {
+    "id": "24029",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8741",
+    "miejscowosc": "Chylice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Dworska",
+    "numer": "2",
+    "kod": "05-510",
+    "poczta": "Konstancin-Jeziorna\r"
+  }
+]

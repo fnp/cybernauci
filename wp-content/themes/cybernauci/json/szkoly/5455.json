@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15407",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5455",
+    "miejscowosc": "Rakoszyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Sybirak\u00f3w w Zespole Szk\u00f3\u0142",
+    "ulica": "Wroc\u0142awska",
+    "numer": "44",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  },
+  {
+    "id": "15408",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5455",
+    "miejscowosc": "Rakoszyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Sybirak\u00f3w w Zespole Szk\u00f3\u0142",
+    "ulica": "Wroc\u0142awska",
+    "numer": "44",
+    "kod": "55-300",
+    "poczta": "\u015aroda \u015al\u0105ska\r"
+  }
+]

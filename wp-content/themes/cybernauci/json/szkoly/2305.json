@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6369",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2305",
+    "miejscowosc": "Niedzica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "3 Maja",
+    "numer": "97",
+    "kod": "34-441",
+    "poczta": "Niedzica\r"
+  },
+  {
+    "id": "6370",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2305",
+    "miejscowosc": "Niedzica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "3 Maja",
+    "numer": "97",
+    "kod": "34-441",
+    "poczta": "Niedzica\r"
+  },
+  {
+    "id": "6371",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2305",
+    "miejscowosc": "Niedzica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "3 Maja",
+    "numer": "97",
+    "kod": "34-441",
+    "poczta": "Niedzica\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22934",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8259",
+    "miejscowosc": "Ka\u0142\u0119czyn",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa",
+    "ulica": "Ka\u0142eczyn",
+    "numer": "11",
+    "kod": "06-440",
+    "poczta": "G\u0105socin\r"
+  },
+  {
+    "id": "22937",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8259",
+    "miejscowosc": "Ka\u0142\u0119czyn",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum",
+    "ulica": "Ka\u0142\u0119czyn",
+    "numer": "11",
+    "kod": "06-440",
+    "poczta": "G\u0105socin\r"
+  }
+]

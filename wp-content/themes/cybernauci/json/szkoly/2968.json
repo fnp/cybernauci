@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8257",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2968",
+    "miejscowosc": "Julian\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa ",
+    "ulica": "Julian\u00f3w",
+    "numer": "62",
+    "kod": "27-515",
+    "poczta": "Tar\u0142\u00f3w\r"
+  },
+  {
+    "id": "8259",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2968",
+    "miejscowosc": "Julian\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Julian\u00f3w",
+    "numer": "62",
+    "kod": "27-515",
+    "poczta": "Tar\u0142\u00f3w\r"
+  }
+]

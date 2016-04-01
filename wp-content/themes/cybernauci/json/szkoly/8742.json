@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24037",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8742",
+    "miejscowosc": "Z\u0142otok\u0142os",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Romualda Traugutta",
+    "numer": "10",
+    "kod": "05-504",
+    "poczta": "Z\u0142otok\u0142os\r"
+  },
+  {
+    "id": "24038",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8742",
+    "miejscowosc": "Z\u0142otok\u0142os",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Romualda Traugutta",
+    "numer": "10",
+    "kod": "05-504",
+    "poczta": "Z\u0142otok\u0142os\r"
+  }
+]

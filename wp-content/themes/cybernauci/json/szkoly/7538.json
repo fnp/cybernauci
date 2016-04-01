@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21282",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7538",
+    "miejscowosc": "Lipnica Dolna",
+    "typ": "podstawowa",
+    "nazwa": "Spo\u0142eczna Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "Lipnica Dolna",
+    "numer": "54",
+    "kod": "38-200",
+    "poczta": "Jas\u0142o\r"
+  },
+  {
+    "id": "21283",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7538",
+    "miejscowosc": "Lipnica Dolna",
+    "typ": "gimnazjum",
+    "nazwa": "Spo\u0142eczne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Lipnica Dolna",
+    "numer": "54",
+    "kod": "38-200",
+    "poczta": "Jas\u0142o\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10726",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3858",
+    "miejscowosc": "Przero\u015bl",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Dworna",
+    "numer": "5",
+    "kod": "16-427",
+    "poczta": "Przero\u015bl\r"
+  },
+  {
+    "id": "10727",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3858",
+    "miejscowosc": "Przero\u015bl",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Dworna",
+    "numer": "5",
+    "kod": "16-427",
+    "poczta": "Przero\u015bl\r"
+  },
+  {
+    "id": "10728",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3858",
+    "miejscowosc": "Przero\u015bl",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Dworna",
+    "numer": "5",
+    "kod": "16-427",
+    "poczta": "Przero\u015bl\r"
+  }
+]

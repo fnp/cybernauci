@@ -1,0 +1,38 @@
+[
+  {
+    "id": "22141",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7987",
+    "miejscowosc": "Zagorzyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zagorzyce",
+    "numer": "175",
+    "kod": "39-126",
+    "poczta": "Zagorzyce\r"
+  },
+  {
+    "id": "22137",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7987",
+    "miejscowosc": "Zagorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zagorzyce",
+    "numer": "78",
+    "kod": "39-126",
+    "poczta": "Zagorzyce\r"
+  },
+  {
+    "id": "22138",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7987",
+    "miejscowosc": "Zagorzyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zagorzyce",
+    "numer": "175",
+    "kod": "39-126",
+    "poczta": "Zagorzyce\r"
+  }
+]

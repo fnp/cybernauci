@@ -1,0 +1,122 @@
+[
+  {
+    "id": "407",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "II Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "4",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "406",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "S\u0105dowa",
+    "numer": "2",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "410",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Wielkie Przedmie\u015bcie",
+    "numer": "51",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "399",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Krasickiego",
+    "numer": "25",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "405",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 1",
+    "ulica": "Pieloka",
+    "numer": "12",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "411",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Nr 2 z Oddzia\u0142ami Dwuj\u0119zycznymi",
+    "ulica": "Wielkie Przedmie\u015bcie",
+    "numer": "51",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "412",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Wielkie Przedmie\u015bcie",
+    "numer": "41",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "408",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "4",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "413",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 1 im. J\u00f3zefa Lompy",
+    "ulica": "Wielkie Przedmie\u015bcie",
+    "numer": "41",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  },
+  {
+    "id": "409",
+    "wojewodztwo_id": "8",
+    "miejscowosc_id": "193",
+    "miejscowosc": "Olesno",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 2",
+    "ulica": "Powsta\u0144c\u00f3w \u015al\u0105skich",
+    "numer": "4",
+    "kod": "46-300",
+    "poczta": "Olesno\r"
+  }
+]

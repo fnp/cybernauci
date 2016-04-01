@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22985",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8277",
+    "miejscowosc": "Unin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kr\u00f3lowej Jadwigi",
+    "ulica": "Unin",
+    "numer": "91",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  },
+  {
+    "id": "22986",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8277",
+    "miejscowosc": "Unin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Unin",
+    "numer": "91",
+    "kod": "08-400",
+    "poczta": "Garwolin\r"
+  }
+]

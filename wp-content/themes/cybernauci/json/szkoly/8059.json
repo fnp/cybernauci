@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22285",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8059",
+    "miejscowosc": "\u015awilcza",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "\u015awilcza",
+    "numer": "336",
+    "kod": "36-072",
+    "poczta": "\u015awilcza\r"
+  },
+  {
+    "id": "22286",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8059",
+    "miejscowosc": "\u015awilcza",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awilcza",
+    "numer": "336",
+    "kod": "36-072",
+    "poczta": "\u015awilcza\r"
+  }
+]

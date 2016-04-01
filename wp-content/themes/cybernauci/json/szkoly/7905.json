@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21966",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7905",
+    "miejscowosc": "Kr\u00f3wniki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kr\u00f3wniki",
+    "numer": "168a",
+    "kod": "37-700",
+    "poczta": "Przemy\u015bl\r"
+  },
+  {
+    "id": "21967",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7905",
+    "miejscowosc": "Kr\u00f3wniki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kr\u00f3wniki",
+    "numer": "168a",
+    "kod": "37-700",
+    "poczta": "Przemy\u015bl\r"
+  }
+]

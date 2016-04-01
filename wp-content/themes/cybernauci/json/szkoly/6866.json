@@ -1,0 +1,50 @@
+[
+  {
+    "id": "19237",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6866",
+    "miejscowosc": "Rokietnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Noblist\u00f3w",
+    "ulica": "Trakt Napoleo\u0144ski",
+    "numer": "55",
+    "kod": "62-090",
+    "poczta": "Rokietnica\r"
+  },
+  {
+    "id": "19236",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6866",
+    "miejscowosc": "Rokietnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "3c",
+    "kod": "62-090",
+    "poczta": "Rokietnica\r"
+  },
+  {
+    "id": "19239",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6866",
+    "miejscowosc": "Rokietnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Rokietnicy",
+    "ulica": "Szamotulska",
+    "numer": "24",
+    "kod": "62-090",
+    "poczta": "Rokietnica\r"
+  },
+  {
+    "id": "19240",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6866",
+    "miejscowosc": "Rokietnica",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Szamotulska",
+    "numer": "24",
+    "kod": "62-090",
+    "poczta": "Rokietnica\r"
+  }
+]

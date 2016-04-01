@@ -1,0 +1,50 @@
+[
+  {
+    "id": "13966",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5031",
+    "miejscowosc": "Gronowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Gronowo",
+    "numer": "128",
+    "kod": "87-162",
+    "poczta": "Lubicz\r"
+  },
+  {
+    "id": "13964",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5031",
+    "miejscowosc": "Gronowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gronowo",
+    "numer": "5",
+    "kod": "87-162",
+    "poczta": "Lubicz\r"
+  },
+  {
+    "id": "13967",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5031",
+    "miejscowosc": "Gronowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Gronowo",
+    "numer": "128",
+    "kod": "87-162",
+    "poczta": "Lubicz\r"
+  },
+  {
+    "id": "13968",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5031",
+    "miejscowosc": "Gronowo",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Gronowo",
+    "numer": "128",
+    "kod": "87-162",
+    "poczta": "Lubicz\r"
+  }
+]

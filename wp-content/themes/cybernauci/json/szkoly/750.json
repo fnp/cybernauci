@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1816",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "750",
+    "miejscowosc": "Irz\u0105dze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Irz\u0105dze",
+    "numer": "126",
+    "kod": "42-446",
+    "poczta": "Irz\u0105dze\r"
+  },
+  {
+    "id": "1815",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "750",
+    "miejscowosc": "Irz\u0105dze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Ledwocha",
+    "ulica": "Irz\u0105dze",
+    "numer": "126",
+    "kod": "42-446",
+    "poczta": "Irz\u0105dze\r"
+  }
+]

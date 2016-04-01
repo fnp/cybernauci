@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6738",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2458",
+    "miejscowosc": "Bia\u0142ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Bia\u0142ka",
+    "numer": "334",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  },
+  {
+    "id": "6739",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2458",
+    "miejscowosc": "Bia\u0142ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Bia\u0142ka",
+    "numer": "334",
+    "kod": "34-220",
+    "poczta": "Mak\u00f3w Podhala\u0144ski\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12478",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4385",
+    "miejscowosc": "Susz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "14-240",
+    "poczta": "Susz\r"
+  },
+  {
+    "id": "12471",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4385",
+    "miejscowosc": "Susz",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Sze\u015bcioletnia Szko\u0142a Podstawowa im. gen. J\u00f3zefa Bema",
+    "ulica": "Piastowska",
+    "numer": "5",
+    "kod": "14-240",
+    "poczta": "Susz\r"
+  },
+  {
+    "id": "12477",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4385",
+    "miejscowosc": "Susz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Kawalerii Polskiej",
+    "ulica": "Piastowska",
+    "numer": "5",
+    "kod": "14-240",
+    "poczta": "Susz\r"
+  },
+  {
+    "id": "12479",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4385",
+    "miejscowosc": "Susz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "14-240",
+    "poczta": "Susz\r"
+  },
+  {
+    "id": "12480",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4385",
+    "miejscowosc": "Susz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wiejska",
+    "numer": "1",
+    "kod": "14-240",
+    "poczta": "Susz\r"
+  }
+]

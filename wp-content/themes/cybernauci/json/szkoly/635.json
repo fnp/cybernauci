@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1432",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "635",
+    "miejscowosc": "\u0141\u0105ka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 9",
+    "ulica": "Zdrojowa",
+    "numer": "64",
+    "kod": "43-200",
+    "poczta": "Pszczyna\r"
+  },
+  {
+    "id": "1433",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "635",
+    "miejscowosc": "\u0141\u0105ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 22",
+    "ulica": "Zdrojowa",
+    "numer": "64",
+    "kod": "43-200",
+    "poczta": "Pszczyna\r"
+  },
+  {
+    "id": "1436",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "635",
+    "miejscowosc": "\u0141\u0105ka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 9",
+    "ulica": "Fitelberga",
+    "numer": "1",
+    "kod": "43-241",
+    "poczta": "\u0141\u0105ka\r"
+  },
+  {
+    "id": "1434",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "635",
+    "miejscowosc": "\u0141\u0105ka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa Nr 3",
+    "ulica": "Zdrojowa",
+    "numer": "64",
+    "kod": "43-200",
+    "poczta": "Pszczyna\r"
+  }
+]

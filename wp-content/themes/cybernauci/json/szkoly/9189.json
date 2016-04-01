@@ -1,0 +1,98 @@
+[
+  {
+    "id": "24959",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce z Oddzia\u0142ami Integracyjnymi w Zespole Szk\u00f3\u0142",
+    "ulica": "In\u017cynierska",
+    "numer": "1",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24957",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "gimnazjum",
+    "nazwa": "Miejskie Gimnazjum",
+    "ulica": "\u0141ukasi\u0144skiego",
+    "numer": "1\/3",
+    "kod": "05-200",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24956",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa Nr 48 Aktywno\u015bci Tw\u00f3rczej",
+    "ulica": "Krzywa",
+    "numer": "10",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24958",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum Aktywno\u015bci Tw\u00f3rczej",
+    "ulica": "Krzywa",
+    "numer": "10",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24953",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Staszica",
+    "numer": "56",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24954",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Miko\u0142aja Kopernika",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "3",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24955",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Wilsona",
+    "numer": "34\/36",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  },
+  {
+    "id": "24960",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9189",
+    "miejscowosc": "Zielonka",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142 ",
+    "ulica": "In\u017cynierska",
+    "numer": "1",
+    "kod": "05-220",
+    "poczta": "Zielonka\r"
+  }
+]

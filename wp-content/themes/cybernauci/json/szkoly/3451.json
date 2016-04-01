@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9454",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3451",
+    "miejscowosc": "Starzyno",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017barnowiecka",
+    "numer": "22",
+    "kod": "84-107",
+    "poczta": "Starzyno\r"
+  },
+  {
+    "id": "9455",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3451",
+    "miejscowosc": "Starzyno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u017barnowiecka",
+    "numer": "22",
+    "kod": "84-107",
+    "poczta": "Starzyno\r"
+  }
+]

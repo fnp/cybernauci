@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9513",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3480",
+    "miejscowosc": "Pot\u0119gowo",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szeroka",
+    "numer": "16",
+    "kod": "76-230",
+    "poczta": "Pot\u0119gowo\r"
+  },
+  {
+    "id": "9514",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3480",
+    "miejscowosc": "Pot\u0119gowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szeroka",
+    "numer": "16",
+    "kod": "76-230",
+    "poczta": "Pot\u0119gowo\r"
+  }
+]

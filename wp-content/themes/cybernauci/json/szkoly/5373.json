@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15207",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5373",
+    "miejscowosc": "Su\u0142\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "56-300",
+    "poczta": "Milicz\r"
+  },
+  {
+    "id": "15201",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5373",
+    "miejscowosc": "Su\u0142\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliusza S\u0142owackiego",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "56-300",
+    "poczta": "Milicz\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18649",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6601",
+    "miejscowosc": "Drobnin",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Drobnin",
+    "numer": "25",
+    "kod": "64-120",
+    "poczta": "Krzemieniewo\r"
+  },
+  {
+    "id": "18650",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6601",
+    "miejscowosc": "Drobnin",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Drobnin",
+    "numer": "25",
+    "kod": "64-120",
+    "poczta": "Krzemieniewo\r"
+  }
+]

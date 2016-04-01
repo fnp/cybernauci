@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15821",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5615",
+    "miejscowosc": "Pielgrzymka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "ulica": "Pielgrzymka",
+    "numer": "109A",
+    "kod": "59-524",
+    "poczta": "Pielgrzymka\r"
+  },
+  {
+    "id": "15818",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5615",
+    "miejscowosc": "Pielgrzymka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pielgrzymka",
+    "numer": "109a",
+    "kod": "59-524",
+    "poczta": "Pielgrzymka\r"
+  }
+]

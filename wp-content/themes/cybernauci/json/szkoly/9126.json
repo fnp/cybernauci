@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24787",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9126",
+    "miejscowosc": "Mir\u00f3w Stary",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Mir\u00f3w Stary",
+    "numer": "34",
+    "kod": "26-503",
+    "poczta": "Mir\u00f3w Stary\r"
+  },
+  {
+    "id": "24788",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9126",
+    "miejscowosc": "Mir\u00f3w Stary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Mir\u00f3w",
+    "numer": "33",
+    "kod": "26-503",
+    "poczta": "Mir\u00f3w Stary\r"
+  }
+]

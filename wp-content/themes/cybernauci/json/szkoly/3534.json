@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9652",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3534",
+    "miejscowosc": "Gniew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "27 Stycznia",
+    "numer": "19",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  },
+  {
+    "id": "9653",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3534",
+    "miejscowosc": "Gniew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Sobieskiego",
+    "numer": "11",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  },
+  {
+    "id": "9649",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3534",
+    "miejscowosc": "Gniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Gda\u0144ska",
+    "numer": "16",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  },
+  {
+    "id": "9654",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3534",
+    "miejscowosc": "Gniew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sobieskiego",
+    "numer": "11",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  },
+  {
+    "id": "9655",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3534",
+    "miejscowosc": "Gniew",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sobieskiego",
+    "numer": "11",
+    "kod": "83-140",
+    "poczta": "Gniew\r"
+  }
+]

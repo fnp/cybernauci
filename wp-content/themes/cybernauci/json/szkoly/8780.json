@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24106",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8780",
+    "miejscowosc": "Ma\u0142a Wie\u015b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum z Oddzia\u0142em Integracyjnym",
+    "ulica": "Kochanowskiego",
+    "numer": "17",
+    "kod": "09-460",
+    "poczta": "Ma\u0142a Wie\u015b\r"
+  },
+  {
+    "id": "24107",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8780",
+    "miejscowosc": "Ma\u0142a Wie\u015b",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Spo\u0142eczne Liceum Og\u00f3lnokszta\u0142c\u0105ce Spo\u0142ecznego Towarzystwa O\u015bwiatowego",
+    "ulica": "Kochanowskiego",
+    "numer": "17",
+    "kod": "09-460",
+    "poczta": "Ma\u0142a Wie\u015b\r"
+  },
+  {
+    "id": "24103",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8780",
+    "miejscowosc": "Ma\u0142a Wie\u015b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "J. Kochanowskiego",
+    "numer": "17",
+    "kod": "09-460",
+    "poczta": "Ma\u0142a Wie\u015b\r"
+  }
+]

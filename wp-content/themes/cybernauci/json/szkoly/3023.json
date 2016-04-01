@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8408",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3023",
+    "miejscowosc": "Dwikozy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Ziemi Dwikoskiej",
+    "ulica": "Sp\u00f3\u0142dzielcza",
+    "numer": "21",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  },
+  {
+    "id": "8404",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3023",
+    "miejscowosc": "Dwikozy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Sandomierska",
+    "numer": "55",
+    "kod": "27-620",
+    "poczta": "Dwikozy\r"
+  }
+]

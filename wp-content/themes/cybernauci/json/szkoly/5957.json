@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16922",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5957",
+    "miejscowosc": "P\u0142osz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Radomszcza\u0144ska",
+    "numer": "41",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  },
+  {
+    "id": "16923",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5957",
+    "miejscowosc": "P\u0142osz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Radomszcza\u0144ska",
+    "numer": "41",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  }
+]

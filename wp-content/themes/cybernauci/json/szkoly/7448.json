@@ -1,0 +1,74 @@
+[
+  {
+    "id": "21063",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce o profilu mundurowym",
+    "ulica": "Pustk\u00f3w",
+    "numer": "34",
+    "kod": "39-206",
+    "poczta": "Pustk\u00f3w\r"
+  },
+  {
+    "id": "21061",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Pustk\u00f3w",
+    "numer": "34",
+    "kod": "39-206",
+    "poczta": "Pustk\u00f3w\r"
+  },
+  {
+    "id": "21059",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Pustk\u00f3w",
+    "numer": "94",
+    "kod": "39-205",
+    "poczta": "Pustk\u00f3w\r"
+  },
+  {
+    "id": "21062",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Pustk\u00f3w",
+    "numer": "34",
+    "kod": "39-206",
+    "poczta": "Pustk\u00f3w\r"
+  },
+  {
+    "id": "21060",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum z Oddzia\u0142ami Integracyjnymi",
+    "ulica": "Pustk\u00f3w",
+    "numer": "94",
+    "kod": "39-205",
+    "poczta": "Pustk\u00f3w\r"
+  },
+  {
+    "id": "21064",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7448",
+    "miejscowosc": "Pustk\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Hotelarstwa, Technikum \u017bywienia i Us\u0142ug Gastronomicznych",
+    "ulica": "Pustk\u00f3w",
+    "numer": "34",
+    "kod": "39-206",
+    "poczta": "Pustk\u00f3w\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14194",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5146",
+    "miejscowosc": "Mi\u0119cierzyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. b\u0142. ks. Mariana Skrzypczaka Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Mi\u0119cierzyn",
+    "numer": "49",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  },
+  {
+    "id": "14193",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5146",
+    "miejscowosc": "Mi\u0119cierzyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. \u015aw. Wojciecha Stowarzyszenia Przyjaci\u00f3\u0142 Szk\u00f3\u0142 Katolickich",
+    "ulica": "Mi\u0119cierzyn",
+    "numer": "49",
+    "kod": "88-420",
+    "poczta": "Rogowo\r"
+  }
+]

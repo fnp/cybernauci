@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22623",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8210",
+    "miejscowosc": "Myczk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142",
+    "ulica": "Myczk\u00f3w",
+    "numer": "109",
+    "kod": "38-610",
+    "poczta": "Pola\u0144czyk\r"
+  },
+  {
+    "id": "22624",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8210",
+    "miejscowosc": "Myczk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szk\u00f3\u0142",
+    "ulica": "Myczk\u00f3w",
+    "numer": "109",
+    "kod": "38-610",
+    "poczta": "Pola\u0144czyk\r"
+  }
+]

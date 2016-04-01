@@ -1,0 +1,62 @@
+[
+  {
+    "id": "13618",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4866",
+    "miejscowosc": "Sk\u0119pe",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Al. 1 Maja",
+    "numer": "89",
+    "kod": "87-630",
+    "poczta": "Sk\u0119pe\r"
+  },
+  {
+    "id": "13620",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4866",
+    "miejscowosc": "Sk\u0119pe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Wymy\u015bli\u0144ska",
+    "numer": "2",
+    "kod": "87-630",
+    "poczta": "Sk\u0119pe\r"
+  },
+  {
+    "id": "13619",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4866",
+    "miejscowosc": "Sk\u0119pe",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Al. 1 Maja",
+    "numer": "89",
+    "kod": "87-630",
+    "poczta": "Sk\u0119pe\r"
+  },
+  {
+    "id": "13621",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4866",
+    "miejscowosc": "Sk\u0119pe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Wymy\u015bli\u0144ska",
+    "numer": "2",
+    "kod": "87-630",
+    "poczta": "Sk\u0119pe\r"
+  },
+  {
+    "id": "13622",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4866",
+    "miejscowosc": "Sk\u0119pe",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Wymy\u015bli\u0144ska",
+    "numer": "2",
+    "kod": "87-630",
+    "poczta": "Sk\u0119pe\r"
+  }
+]

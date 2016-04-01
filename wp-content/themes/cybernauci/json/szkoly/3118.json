@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8614",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3118",
+    "miejscowosc": "Sich\u00f3w Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum",
+    "ulica": "Sich\u00f3w Du\u017cy",
+    "numer": "89",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  },
+  {
+    "id": "8615",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3118",
+    "miejscowosc": "Sich\u00f3w Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Sich\u00f3w Du\u017cy",
+    "numer": "88",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  },
+  {
+    "id": "8617",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3118",
+    "miejscowosc": "Sich\u00f3w Du\u017cy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Sich\u00f3w Du\u017cy",
+    "numer": "89",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  },
+  {
+    "id": "8618",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3118",
+    "miejscowosc": "Sich\u00f3w Du\u017cy",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Sich\u00f3w Du\u017cy",
+    "numer": "89",
+    "kod": "28-236",
+    "poczta": "Rytwiany\r"
+  }
+]

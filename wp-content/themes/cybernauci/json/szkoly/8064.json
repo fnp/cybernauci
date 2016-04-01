@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22304",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8064",
+    "miejscowosc": "W\u00f3lka Podle\u015bna",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "W\u00f3lka Podle\u015bna",
+    "numer": "438",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  },
+  {
+    "id": "22305",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8064",
+    "miejscowosc": "W\u00f3lka Podle\u015bna",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "W\u00f3lka Podle\u015bna",
+    "numer": "438",
+    "kod": "36-002",
+    "poczta": "Jasionka\r"
+  }
+]

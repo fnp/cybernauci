@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19784",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7111",
+    "miejscowosc": "Tarn\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "27",
+    "kod": "77-416",
+    "poczta": "Tarn\u00f3wka\r"
+  },
+  {
+    "id": "19785",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7111",
+    "miejscowosc": "Tarn\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Teodozji Kazimierczyk",
+    "ulica": "Zwyci\u0119stwa",
+    "numer": "27",
+    "kod": "77-416",
+    "poczta": "Tarn\u00f3wka\r"
+  }
+]

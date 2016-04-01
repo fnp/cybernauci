@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11649",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4159",
+    "miejscowosc": "S\u0142awsko",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142awsko",
+    "numer": "97 A",
+    "kod": "76-100",
+    "poczta": "S\u0142awno\r"
+  },
+  {
+    "id": "11650",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4159",
+    "miejscowosc": "S\u0142awsko",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Kochanowskiego",
+    "ulica": "S\u0142awsko",
+    "numer": "97 A",
+    "kod": "76-100",
+    "poczta": "S\u0142awno\r"
+  }
+]

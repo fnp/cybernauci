@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8982",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3235",
+    "miejscowosc": "Przechlewo",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "4E",
+    "kod": "77-320",
+    "poczta": "Przechlewo\r"
+  },
+  {
+    "id": "8983",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3235",
+    "miejscowosc": "Przechlewo",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa im. Janusza Korczaka",
+    "ulica": "Szkolna",
+    "numer": "4E",
+    "kod": "77-320",
+    "poczta": "Przechlewo\r"
+  }
+]

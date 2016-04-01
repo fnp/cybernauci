@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23311",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8431",
+    "miejscowosc": "Zegrze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Konstantego Miko\u0142aja Radziwi\u0142\u0142a ",
+    "ulica": "Oficerska",
+    "numer": "3",
+    "kod": "05-131",
+    "poczta": "Zegrze\r"
+  },
+  {
+    "id": "23312",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8431",
+    "miejscowosc": "Zegrze",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Wojska Polskiego",
+    "ulica": "Oficerska",
+    "numer": "3",
+    "kod": "05-131",
+    "poczta": "Zegrze\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23494",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8510",
+    "miejscowosc": "Wi\u015bniew",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. 7 Pu\u0142ku U\u0142an\u00f3w Lubelskich",
+    "ulica": "Wi\u015bniew",
+    "numer": "45A",
+    "kod": "05-306",
+    "poczta": "Jakub\u00f3w\r"
+  },
+  {
+    "id": "24596",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8510",
+    "miejscowosc": "Wi\u015bniew",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "54",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  },
+  {
+    "id": "24597",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8510",
+    "miejscowosc": "Wi\u015bniew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "54",
+    "kod": "08-112",
+    "poczta": "Wi\u015bniew\r"
+  }
+]

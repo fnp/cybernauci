@@ -1,0 +1,50 @@
+[
+  {
+    "id": "25120",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9253",
+    "miejscowosc": "Zabrodzie",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "07-230",
+    "poczta": "Zabrodzie\r"
+  },
+  {
+    "id": "25122",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9253",
+    "miejscowosc": "Zabrodzie",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Kard. Stefana Wyszy\u0144skiego",
+    "ulica": "W\u0142adys\u0142awa Stanis\u0142awa Reymonta",
+    "numer": "47",
+    "kod": "07-230",
+    "poczta": "Zabrodzie\r"
+  },
+  {
+    "id": "25123",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9253",
+    "miejscowosc": "Zabrodzie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum w Zespole Szk\u00f3\u0142",
+    "ulica": "W\u0142adys\u0142awa Stanis\u0142awa Reymontra",
+    "numer": "47",
+    "kod": "07-230",
+    "poczta": "Zabrodzie\r"
+  },
+  {
+    "id": "25124",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9253",
+    "miejscowosc": "Zabrodzie",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa w Zespole Szk\u00f3\u0142",
+    "ulica": "W\u0142. St. Reymonta",
+    "numer": "47",
+    "kod": "07-230",
+    "poczta": "Zabrodzie\r"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6101",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2173",
+    "miejscowosc": "Str\u00f3\u017ce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Str\u00f3\u017ce",
+    "numer": "396",
+    "kod": "33-331",
+    "poczta": "Str\u00f3\u017ce\r"
+  },
+  {
+    "id": "6940",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2173",
+    "miejscowosc": "Str\u00f3\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Str\u00f3\u017ce",
+    "numer": "88",
+    "kod": "32-840",
+    "poczta": "Zakliczyn\r"
+  },
+  {
+    "id": "6109",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2173",
+    "miejscowosc": "Str\u00f3\u017ce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Str\u00f3\u017ce",
+    "numer": "396",
+    "kod": "33-331",
+    "poczta": "Str\u00f3\u017ce\r"
+  }
+]

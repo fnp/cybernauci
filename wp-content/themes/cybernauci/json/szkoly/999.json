@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3535",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "999",
+    "miejscowosc": "Sawin",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Brzeska",
+    "numer": "14",
+    "kod": "22-107",
+    "poczta": "Sawin\r"
+  },
+  {
+    "id": "3536",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "999",
+    "miejscowosc": "Sawin",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Brzeska",
+    "numer": "14",
+    "kod": "22-107",
+    "poczta": "Sawin\r"
+  }
+]

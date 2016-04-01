@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19208",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6855",
+    "miejscowosc": "Daszewice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "61-160",
+    "poczta": "Daszewice\r"
+  },
+  {
+    "id": "19209",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6855",
+    "miejscowosc": "Daszewice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "16",
+    "kod": "61-160",
+    "poczta": "Daszewice\r"
+  }
+]

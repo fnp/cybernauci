@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1767",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "744",
+    "miejscowosc": "Syrynia",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. dr Anny Wr\u00f3bel",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "26",
+    "kod": "44-361",
+    "poczta": "Syrynia\r"
+  },
+  {
+    "id": "1768",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "744",
+    "miejscowosc": "Syrynia",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Romana Dworczaka",
+    "ulica": "Powsta\u0144c\u00f3w",
+    "numer": "26",
+    "kod": "44-361",
+    "poczta": "Syrynia\r"
+  }
+]

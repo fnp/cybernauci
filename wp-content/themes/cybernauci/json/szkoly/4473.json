@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12671",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4473",
+    "miejscowosc": "Marz\u0119cice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Przyjaci\u00f3\u0142 Ziemi w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "21",
+    "kod": "13-306",
+    "poczta": "Kurz\u0119tnik\r"
+  },
+  {
+    "id": "12672",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4473",
+    "miejscowosc": "Marz\u0119cice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Przyjaci\u00f3\u0142 Ziemi w Zespole Szk\u00f3\u0142 ",
+    "ulica": "Szkolna",
+    "numer": "21",
+    "kod": "13-306",
+    "poczta": "Kurz\u0119tnik\r"
+  }
+]

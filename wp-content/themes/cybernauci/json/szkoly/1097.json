@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3732",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1097",
+    "miejscowosc": "Rudnik",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Rudnik",
+    "numer": "64",
+    "kod": "22-330",
+    "poczta": "Rudnik\r"
+  },
+  {
+    "id": "3731",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1097",
+    "miejscowosc": "Rudnik",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Rudnik",
+    "numer": "78",
+    "kod": "22-330",
+    "poczta": "Rudnik\r"
+  }
+]

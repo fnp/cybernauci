@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6920",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2556",
+    "miejscowosc": "Wierzchos\u0142awice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wierzchos\u0142awice",
+    "numer": "97",
+    "kod": "33-122",
+    "poczta": "Wierzchos\u0142awice\r"
+  },
+  {
+    "id": "6918",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2556",
+    "miejscowosc": "Wierzchos\u0142awice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wierzchos\u0142awice",
+    "numer": "713",
+    "kod": "33-122",
+    "poczta": "Wierzchos\u0142awice\r"
+  }
+]

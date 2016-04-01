@@ -1,0 +1,38 @@
+[
+  {
+    "id": "23693",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8544",
+    "miejscowosc": "Zawady",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Zawady",
+    "numer": "51",
+    "kod": "06-320",
+    "poczta": "Baranowo\r"
+  },
+  {
+    "id": "23591",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8544",
+    "miejscowosc": "Zawady",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawady",
+    "numer": "60",
+    "kod": "06-545",
+    "poczta": "Lipowiec Ko\u015bcielny\r"
+  },
+  {
+    "id": "23694",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8544",
+    "miejscowosc": "Zawady",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zawady",
+    "numer": "51",
+    "kod": "06-320",
+    "poczta": "Baranowo\r"
+  }
+]

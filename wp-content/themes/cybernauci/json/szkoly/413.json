@@ -1,0 +1,26 @@
+[
+  {
+    "id": "969",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "413",
+    "miejscowosc": "Kaczyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Harcerska",
+    "numer": "13",
+    "kod": "43-417",
+    "poczta": "Kaczyce\r"
+  },
+  {
+    "id": "970",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "413",
+    "miejscowosc": "Kaczyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Harcerska",
+    "numer": "13",
+    "kod": "43-417",
+    "poczta": "Kaczyce\r"
+  }
+]

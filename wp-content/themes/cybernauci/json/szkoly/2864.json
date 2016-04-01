@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8058",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2864",
+    "miejscowosc": "\u0106mi\u0144sk",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "\u015awi\u0119tokrzyska",
+    "numer": "61",
+    "kod": "26-085",
+    "poczta": "Miedziana G\u00f3ra\r"
+  },
+  {
+    "id": "8059",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2864",
+    "miejscowosc": "\u0106mi\u0144sk",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u015awi\u0119tokrzyska",
+    "numer": "61",
+    "kod": "26-085",
+    "poczta": "Miedziana G\u00f3ra\r"
+  }
+]

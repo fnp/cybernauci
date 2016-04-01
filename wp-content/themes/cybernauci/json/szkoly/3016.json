@@ -1,0 +1,38 @@
+[
+  {
+    "id": "8376",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3016",
+    "miejscowosc": "Z\u0142ota",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "28-425",
+    "poczta": "Z\u0142ota\r"
+  },
+  {
+    "id": "8440",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3016",
+    "miejscowosc": "Z\u0142ota",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Z\u0142ota",
+    "numer": "121",
+    "kod": "27-650",
+    "poczta": "Samborzec\r"
+  },
+  {
+    "id": "8377",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3016",
+    "miejscowosc": "Z\u0142ota",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Parkowa",
+    "numer": "4",
+    "kod": "28-425",
+    "poczta": "Z\u0142ota\r"
+  }
+]

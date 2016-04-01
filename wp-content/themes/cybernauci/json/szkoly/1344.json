@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4179",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1344",
+    "miejscowosc": "Jeleniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum Zespo\u0142u Szk\u00f3\u0142 ",
+    "ulica": "Jeleniec",
+    "numer": "45",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  },
+  {
+    "id": "4180",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1344",
+    "miejscowosc": "Jeleniec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Zespo\u0142u Szk\u00f3\u0142 ",
+    "ulica": "Jeleniec",
+    "numer": "45",
+    "kod": "21-421",
+    "poczta": "Tuchowicz\r"
+  }
+]

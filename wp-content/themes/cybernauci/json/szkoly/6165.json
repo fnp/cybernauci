@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17353",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6165",
+    "miejscowosc": "Czechy",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Czechy",
+    "numer": "142",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  },
+  {
+    "id": "17354",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "6165",
+    "miejscowosc": "Czechy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Czechy",
+    "numer": "142",
+    "kod": "98-220",
+    "poczta": "Zdu\u0144ska Wola\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24181",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8819",
+    "miejscowosc": "Joniec",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Joniec",
+    "numer": "69",
+    "kod": "09-131",
+    "poczta": "Joniec\r"
+  },
+  {
+    "id": "24182",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8819",
+    "miejscowosc": "Joniec",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Joniec",
+    "numer": "69",
+    "kod": "09-131",
+    "poczta": "Joniec\r"
+  }
+]

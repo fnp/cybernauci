@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24609",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9044",
+    "miejscowosc": "Zbuczyn",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  },
+  {
+    "id": "24610",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9044",
+    "miejscowosc": "Zbuczyn",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole",
+    "ulica": "Jana Paw\u0142a II",
+    "numer": "3",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  }
+]

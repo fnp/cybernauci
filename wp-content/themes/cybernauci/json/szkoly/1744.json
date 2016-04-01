@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5255",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1744",
+    "miejscowosc": "Tymowa",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Tymowa",
+    "numer": "376",
+    "kod": "32-863",
+    "poczta": "Tymowa\r"
+  },
+  {
+    "id": "5256",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1744",
+    "miejscowosc": "Tymowa",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Tymowa",
+    "numer": "376",
+    "kod": "32-863",
+    "poczta": "Tymowa\r"
+  }
+]

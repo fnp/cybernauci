@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19561",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7011",
+    "miejscowosc": "Przykona",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "4A",
+    "kod": "62-731",
+    "poczta": "Przykona\r"
+  },
+  {
+    "id": "19562",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7011",
+    "miejscowosc": "Przykona",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Szkolna",
+    "numer": "6",
+    "kod": "62-731",
+    "poczta": "Przykona\r"
+  }
+]

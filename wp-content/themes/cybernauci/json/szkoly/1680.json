@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5136",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1680",
+    "miejscowosc": "Prosz\u00f3wki",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Gimnazjum ",
+    "ulica": "Prosz\u00f3wki",
+    "numer": "365",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  },
+  {
+    "id": "5137",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1680",
+    "miejscowosc": "Prosz\u00f3wki",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gminnych Szko\u0142a Podstawowa",
+    "ulica": "Prosz\u00f3wki",
+    "numer": "365",
+    "kod": "32-700",
+    "poczta": "Bochnia\r"
+  }
+]

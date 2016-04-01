@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9128",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3312",
+    "miejscowosc": "Klukowa Huta",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "J\u00f3zefa Wybickiego",
+    "numer": "6",
+    "kod": "83-322",
+    "poczta": "St\u0119\u017cyca\r"
+  },
+  {
+    "id": "9129",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3312",
+    "miejscowosc": "Klukowa Huta",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "J\u00f3zefa Wybickiego",
+    "numer": "6",
+    "kod": "83-322",
+    "poczta": "St\u0119\u017cyca\r"
+  }
+]

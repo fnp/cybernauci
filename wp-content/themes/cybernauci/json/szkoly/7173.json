@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20296",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7173",
+    "miejscowosc": "Bledzew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "66-350",
+    "poczta": "Bledzew\r"
+  },
+  {
+    "id": "20294",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7173",
+    "miejscowosc": "Bledzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Dekerta",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "66-350",
+    "poczta": "Bledzew\r"
+  }
+]

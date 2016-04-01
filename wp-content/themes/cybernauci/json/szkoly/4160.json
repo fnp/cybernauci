@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11651",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4160",
+    "miejscowosc": "Wrze\u015bnica",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Wrze\u015bnica",
+    "numer": "19A",
+    "kod": "76-122",
+    "poczta": "Wrze\u015bnica\r"
+  },
+  {
+    "id": "11652",
+    "wojewodztwo_id": "16",
+    "miejscowosc_id": "4160",
+    "miejscowosc": "Wrze\u015bnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Wrze\u015bnica",
+    "numer": "19A",
+    "kod": "76-122",
+    "poczta": "Wrze\u015bnica\r"
+  }
+]

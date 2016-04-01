@@ -1,0 +1,122 @@
+[
+  {
+    "id": "12879",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Mickiewicza",
+    "numer": "25",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12880",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2 im. Polskich Olimpijczyk\u00f3w",
+    "ulica": "\u017beromskiego",
+    "numer": "19",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12884",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr I",
+    "ulica": "Kujawska",
+    "numer": "1",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12882",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce Nr II im. Leona Kruczkowskiego",
+    "ulica": "11 Listopada",
+    "numer": "7",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12869",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "\u017beromskiego",
+    "numer": "26",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12870",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Wr\u00f3blewskiego",
+    "numer": "17",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12871",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 4",
+    "ulica": "Kajki",
+    "numer": "2",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12885",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Kujawska",
+    "numer": "1",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12883",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "11 Listopada",
+    "numer": "7",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  },
+  {
+    "id": "12886",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4566",
+    "miejscowosc": "Mor\u0105g",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Kujawska",
+    "numer": "1",
+    "kod": "14-300",
+    "poczta": "Mor\u0105g\r"
+  }
+]

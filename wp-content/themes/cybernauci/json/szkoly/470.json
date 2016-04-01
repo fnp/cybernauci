@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1058",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "470",
+    "miejscowosc": "Stary Cykarzew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. ks. Jana Twardowskiego ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "42-231",
+    "poczta": "Stary Cykarzew\r"
+  },
+  {
+    "id": "1059",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "470",
+    "miejscowosc": "Stary Cykarzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. M. Kacprzaka ",
+    "ulica": "Szkolna",
+    "numer": "12",
+    "kod": "42-231",
+    "poczta": "Stary Cykarzew\r"
+  }
+]

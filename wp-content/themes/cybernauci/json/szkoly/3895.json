@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10797",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3895",
+    "miejscowosc": "Soko\u0142y",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bcielna",
+    "numer": "5",
+    "kod": "18-218",
+    "poczta": "Soko\u0142y\r"
+  },
+  {
+    "id": "10798",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3895",
+    "miejscowosc": "Soko\u0142y",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bcielna",
+    "numer": "5",
+    "kod": "18-218",
+    "poczta": "Soko\u0142y\r"
+  }
+]

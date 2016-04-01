@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5744",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2006",
+    "miejscowosc": "Zielonki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Paw\u0142a II ",
+    "ulica": "Jana Michalika",
+    "numer": "2",
+    "kod": "32-087",
+    "poczta": "Zielonki\r"
+  },
+  {
+    "id": "5745",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2006",
+    "miejscowosc": "Zielonki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II ",
+    "ulica": "Jana Michalika",
+    "numer": "2",
+    "kod": "32-087",
+    "poczta": "Zielonki\r"
+  }
+]

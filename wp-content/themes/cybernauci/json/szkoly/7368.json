@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20874",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7368",
+    "miejscowosc": "Lutowiska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Lutowiska",
+    "numer": "45",
+    "kod": "38-713",
+    "poczta": "Lutowiska\r"
+  },
+  {
+    "id": "20875",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7368",
+    "miejscowosc": "Lutowiska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Lutowiska",
+    "numer": "45",
+    "kod": "38-713",
+    "poczta": "Lutowiska\r"
+  }
+]

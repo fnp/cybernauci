@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21378",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7599",
+    "miejscowosc": "Cmolas",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Cmolas",
+    "numer": "269",
+    "kod": "36-105",
+    "poczta": "Cmolas\r"
+  },
+  {
+    "id": "21379",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7599",
+    "miejscowosc": "Cmolas",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Cmolas",
+    "numer": "269",
+    "kod": "36-105",
+    "poczta": "Cmolas\r"
+  }
+]

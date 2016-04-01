@@ -1,0 +1,50 @@
+[
+  {
+    "id": "20327",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7188",
+    "miejscowosc": "Trzciel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Armii Czerwonej",
+    "numer": "8",
+    "kod": "66-320",
+    "poczta": "Trzciel\r"
+  },
+  {
+    "id": "20328",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7188",
+    "miejscowosc": "Trzciel",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Armii Czerwonej",
+    "numer": "8",
+    "kod": "66-320",
+    "poczta": "Trzciel\r"
+  },
+  {
+    "id": "20325",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7188",
+    "miejscowosc": "Trzciel",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Edukacyjny Gimnazjum im. \u015awi\u0119tego Floriana",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "21",
+    "kod": "66-320",
+    "poczta": "Trzciel\r"
+  },
+  {
+    "id": "20326",
+    "wojewodztwo_id": "4",
+    "miejscowosc_id": "7188",
+    "miejscowosc": "Trzciel",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Edukacyjny Szko\u0142a Podstawowa im mjr. H. Dobrza\u0144skiego \"HUBALA\"",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "21",
+    "kod": "66-320",
+    "poczta": "Trzciel\r"
+  }
+]

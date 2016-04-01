@@ -1,0 +1,26 @@
+[
+  {
+    "id": "23733",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8618",
+    "miejscowosc": "\u0141\u0119g Przedmiejski",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u0141\u0119g Przedmiejski",
+    "numer": "80",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  },
+  {
+    "id": "23734",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8618",
+    "miejscowosc": "\u0141\u0119g Przedmiejski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u0141\u0119g Przedmiejski",
+    "numer": "80",
+    "kod": "07-402",
+    "poczta": "Lelis\r"
+  }
+]

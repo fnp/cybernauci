@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15503",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5477",
+    "miejscowosc": "Pszenno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Szarych Szereg\u00f3w",
+    "ulica": "Wroc\u0142awska",
+    "numer": "15",
+    "kod": "58-125",
+    "poczta": "Pszenno\r"
+  },
+  {
+    "id": "15498",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5477",
+    "miejscowosc": "Pszenno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Kopernika",
+    "ulica": "Wroc\u0142awska",
+    "numer": "15",
+    "kod": "58-125",
+    "poczta": "Pszenno\r"
+  }
+]

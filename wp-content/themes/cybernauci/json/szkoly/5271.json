@@ -1,0 +1,122 @@
+[
+  {
+    "id": "14956",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1 ",
+    "ulica": "Miko\u0142aja Kopernika",
+    "numer": "4-6",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14957",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Akacjowa",
+    "numer": "8",
+    "kod": "57-402",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14959",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 3",
+    "ulica": "Stara Droga",
+    "numer": "39",
+    "kod": "57-401",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14958",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Osiedle Piastowskie",
+    "numer": "17",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14953",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Sportowa",
+    "numer": "1a",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14955",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3",
+    "ulica": "Srebrna",
+    "numer": "11",
+    "kod": "57-400",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14960",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 6",
+    "ulica": "Stara Droga",
+    "numer": "39",
+    "kod": "57-401",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14954",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 7 im. Tadeusza Ko\u015bciuszki",
+    "ulica": "Szkolna",
+    "numer": "3",
+    "kod": "57-402",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14961",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum",
+    "ulica": "Stara Droga",
+    "numer": "4",
+    "kod": "57-401",
+    "poczta": "Nowa Ruda\r"
+  },
+  {
+    "id": "14962",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5271",
+    "miejscowosc": "Nowa Ruda",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Ponadgimnazjalna",
+    "ulica": "Stara Droga",
+    "numer": "4",
+    "kod": "57-401",
+    "poczta": "Nowa Ruda\r"
+  }
+]

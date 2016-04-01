@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13384",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4751",
+    "miejscowosc": "Stolno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Stolno",
+    "numer": "88",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  },
+  {
+    "id": "13385",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4751",
+    "miejscowosc": "Stolno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Dariusza Ko\u0142odziejka",
+    "ulica": "Stolno",
+    "numer": "88",
+    "kod": "86-212",
+    "poczta": "Stolno\r"
+  }
+]

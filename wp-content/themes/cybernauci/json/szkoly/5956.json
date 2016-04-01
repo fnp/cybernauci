@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16920",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5956",
+    "miejscowosc": "Kietlin",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Radomszcza\u0144ska",
+    "numer": "61",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  },
+  {
+    "id": "16921",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5956",
+    "miejscowosc": "Kietlin",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Radomszcza\u0144ska",
+    "numer": "61",
+    "kod": "97-500",
+    "poczta": "Radomsko\r"
+  }
+]

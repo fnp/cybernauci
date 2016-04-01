@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12942",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4602",
+    "miejscowosc": "Ruciane-Nida",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "K. I. Ga\u0142czy\u0144skiego",
+    "numer": "2A",
+    "kod": "12-220",
+    "poczta": "Ruciane-Nida\r"
+  },
+  {
+    "id": "12943",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4602",
+    "miejscowosc": "Ruciane-Nida",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "K. I. Ga\u0142czy\u0144skiego",
+    "numer": "2A",
+    "kod": "12-220",
+    "poczta": "Ruciane-Nida\r"
+  },
+  {
+    "id": "12938",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4602",
+    "miejscowosc": "Ruciane-Nida",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Ga\u0142czy\u0144skiego",
+    "numer": "2",
+    "kod": "12-221",
+    "poczta": "Ruciane-Nida\r"
+  },
+  {
+    "id": "12939",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4602",
+    "miejscowosc": "Ruciane-Nida",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Mazurska",
+    "numer": "15",
+    "kod": "12-220",
+    "poczta": "Ruciane-Nida\r"
+  },
+  {
+    "id": "12941",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4602",
+    "miejscowosc": "Ruciane-Nida",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Le\u015bne",
+    "ulica": "Polna",
+    "numer": "2",
+    "kod": "12-220",
+    "poczta": "Ruciane-Nida\r"
+  }
+]

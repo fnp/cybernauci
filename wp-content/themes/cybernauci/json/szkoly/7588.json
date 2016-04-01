@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21363",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7588",
+    "miejscowosc": "Wrocanka",
+    "typ": "podstawowa",
+    "nazwa": "Niepubliczna Szko\u0142a Podstawowa",
+    "ulica": "Wrocanka",
+    "numer": "30",
+    "kod": "38-204",
+    "poczta": "Tarnowiec\r"
+  },
+  {
+    "id": "21509",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7588",
+    "miejscowosc": "Wrocanka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stanis\u0142awy Grelli",
+    "ulica": "D\u0142uga",
+    "numer": "19",
+    "kod": "38-455",
+    "poczta": "G\u0142owienka\r"
+  }
+]

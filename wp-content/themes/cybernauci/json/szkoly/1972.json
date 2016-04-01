@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5687",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1972",
+    "miejscowosc": "Smrok\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Prywatne Gimnazjum im. Jana Paw\u0142a II",
+    "ulica": "Smrok\u00f3w",
+    "numer": "44a",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5693",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1972",
+    "miejscowosc": "Smrok\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Smrok\u00f3w",
+    "numer": "44A",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  },
+  {
+    "id": "5694",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1972",
+    "miejscowosc": "Smrok\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Smrok\u00f3w",
+    "numer": "44A",
+    "kod": "32-090",
+    "poczta": "S\u0142omniki\r"
+  }
+]

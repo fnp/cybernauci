@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8375",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3015",
+    "miejscowosc": "Chroberz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Chrobrego",
+    "numer": "22",
+    "kod": "28-425",
+    "poczta": "Chroberz\r"
+  },
+  {
+    "id": "8378",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "3015",
+    "miejscowosc": "Chroberz",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Parkowa",
+    "numer": "11",
+    "kod": "28-425",
+    "poczta": "Z\u0142ota\r"
+  }
+]

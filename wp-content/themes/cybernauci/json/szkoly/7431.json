@@ -1,0 +1,38 @@
+[
+  {
+    "id": "21025",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7431",
+    "miejscowosc": "\u017bd\u017cary",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "\u017bd\u017cary",
+    "numer": "75a",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "21026",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7431",
+    "miejscowosc": "\u017bd\u017cary",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "\u017bd\u017cary",
+    "numer": "75a",
+    "kod": "39-215",
+    "poczta": "Czarna\r"
+  },
+  {
+    "id": "22086",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7431",
+    "miejscowosc": "Zd\u017cary",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Filialna",
+    "ulica": "Zd\u017cary",
+    "numer": "59",
+    "kod": "39-104",
+    "poczta": "Ocieka\r"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3551",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1007",
+    "miejscowosc": "Rejowiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Jana Henryka D\u0105browskiego",
+    "ulica": "Zwierzy\u0144skiego",
+    "numer": "8D",
+    "kod": "22-360",
+    "poczta": "Rejowiec\r"
+  },
+  {
+    "id": "3554",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1007",
+    "miejscowosc": "Rejowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Publicznych im. M. Reja",
+    "ulica": "Przemys\u0142owa",
+    "numer": "4",
+    "kod": "22-360",
+    "poczta": "Rejowiec\r"
+  },
+  {
+    "id": "3552",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1007",
+    "miejscowosc": "Rejowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy Technikum",
+    "ulica": "Przemys\u0142owa",
+    "numer": "4",
+    "kod": "22-360",
+    "poczta": "Rejowiec\r"
+  },
+  {
+    "id": "3553",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1007",
+    "miejscowosc": "Rejowiec",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Niepubliczny M\u0142odzie\u017cowy O\u015brodek Wychowawczy Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Przemys\u0142owa",
+    "numer": "4",
+    "kod": "22-360",
+    "poczta": "Rejowiec\r"
+  },
+  {
+    "id": "3549",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1007",
+    "miejscowosc": "Rejowiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Miko\u0142aja Reja ",
+    "ulica": "Zwierzy\u0144skiego",
+    "numer": "8A",
+    "kod": "22-360",
+    "poczta": "Rejowiec\r"
+  }
+]

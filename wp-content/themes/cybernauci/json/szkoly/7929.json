@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22017",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7929",
+    "miejscowosc": "Pantalowice",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Pantalowice",
+    "numer": "158",
+    "kod": "37-224",
+    "poczta": "Pantalowice\r"
+  },
+  {
+    "id": "22018",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7929",
+    "miejscowosc": "Pantalowice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Pantalowice",
+    "numer": "158",
+    "kod": "37-224",
+    "poczta": "Pantalowice\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18575",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6567",
+    "miejscowosc": "Bronikowo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. por. Stefana Rysmanna ",
+    "ulica": "Morownicka",
+    "numer": "26",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  },
+  {
+    "id": "18576",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6567",
+    "miejscowosc": "Bronikowo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. por. Stefana Rysmanna",
+    "ulica": "Morownicka",
+    "numer": "26",
+    "kod": "64-030",
+    "poczta": "\u015amigiel\r"
+  }
+]

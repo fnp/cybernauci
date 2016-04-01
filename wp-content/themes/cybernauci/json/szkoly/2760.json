@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7897",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "7",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  },
+  {
+    "id": "7898",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "7",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  },
+  {
+    "id": "7899",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1 w Zespole Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych",
+    "ulica": "Tadeusza Ko\u015bciuszki",
+    "numer": "7",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  },
+  {
+    "id": "7890",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. \u015bw. Floriana",
+    "ulica": "Przemys\u0142owa",
+    "numer": "8a",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  },
+  {
+    "id": "7900",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum ",
+    "ulica": "Przemys\u0142owa",
+    "numer": "11",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  },
+  {
+    "id": "7901",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2760",
+    "miejscowosc": "S\u0119dzisz\u00f3w",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa ",
+    "ulica": "Przemys\u0142owa",
+    "numer": "11",
+    "kod": "28-340",
+    "poczta": "S\u0119dzisz\u00f3w\r"
+  }
+]

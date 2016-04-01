@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24611",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9045",
+    "miejscowosc": "Borki-Kosy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Borki-Kosy",
+    "numer": "24",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  },
+  {
+    "id": "24612",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9045",
+    "miejscowosc": "Borki-Kosy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Borki-Kosy",
+    "numer": "24",
+    "kod": "08-106",
+    "poczta": "Zbuczyn\r"
+  }
+]

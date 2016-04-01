@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22921",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8249",
+    "miejscowosc": "M\u0142ock",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marii Konopnickiej",
+    "ulica": "M\u0142ock",
+    "numer": "72",
+    "kod": "06-456",
+    "poczta": "Ojrze\u0144\r"
+  },
+  {
+    "id": "22922",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8249",
+    "miejscowosc": "M\u0142ock",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej",
+    "ulica": "M\u0142ock",
+    "numer": "72",
+    "kod": "06-456",
+    "poczta": "Ojrze\u0144\r"
+  }
+]

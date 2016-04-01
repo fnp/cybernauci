@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12486",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4394",
+    "miejscowosc": "Zalewo",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "14-230",
+    "poczta": "Zalewo\r"
+  },
+  {
+    "id": "12487",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4394",
+    "miejscowosc": "Zalewo",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. K. I. Ga\u0142czy\u0144skiego",
+    "ulica": "Szkolna",
+    "numer": "2",
+    "kod": "14-230",
+    "poczta": "Zalewo\r"
+  }
+]

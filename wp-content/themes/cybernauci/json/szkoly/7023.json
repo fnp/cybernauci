@@ -1,0 +1,26 @@
+[
+  {
+    "id": "19577",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7023",
+    "miejscowosc": "S\u0142odk\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "S\u0142odk\u00f3w",
+    "numer": "21B",
+    "kod": "62-700",
+    "poczta": "Turek\r"
+  },
+  {
+    "id": "19578",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "7023",
+    "miejscowosc": "S\u0142odk\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142odk\u00f3w",
+    "numer": "21",
+    "kod": "62-700",
+    "poczta": "Turek\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "12364",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4342",
+    "miejscowosc": "Prostki",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "9",
+    "kod": "19-335",
+    "poczta": "Prostki\r"
+  },
+  {
+    "id": "12362",
+    "wojewodztwo_id": "14",
+    "miejscowosc_id": "4342",
+    "miejscowosc": "Prostki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Jana Paw\u0142a II",
+    "ulica": "1 Maja",
+    "numer": "19",
+    "kod": "19-335",
+    "poczta": "Prostki\r"
+  }
+]

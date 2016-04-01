@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16732",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5859",
+    "miejscowosc": "Siemkowice",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. K. Makuszy\u0144skiego",
+    "ulica": "Nowa",
+    "numer": "1",
+    "kod": "98-354",
+    "poczta": "Siemkowice\r"
+  },
+  {
+    "id": "16736",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5859",
+    "miejscowosc": "Siemkowice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum",
+    "ulica": "Nowa",
+    "numer": "1",
+    "kod": "98-354",
+    "poczta": "Siemkowice\r"
+  }
+]

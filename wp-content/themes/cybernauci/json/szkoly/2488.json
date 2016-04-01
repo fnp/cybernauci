@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6802",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2488",
+    "miejscowosc": "Siemiech\u00f3w",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum Publiczne",
+    "ulica": "Siemiech\u00f3w",
+    "numer": "419",
+    "kod": "33-181",
+    "poczta": "Siemiech\u00f3w\r"
+  },
+  {
+    "id": "6803",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2488",
+    "miejscowosc": "Siemiech\u00f3w",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Siemiech\u00f3w",
+    "numer": "419",
+    "kod": "33-181",
+    "poczta": "Siemiech\u00f3w\r"
+  }
+]

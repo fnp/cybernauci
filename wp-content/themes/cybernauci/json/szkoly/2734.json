@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7834",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2734",
+    "miejscowosc": "Mierzwin",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum",
+    "ulica": "Mierzwin",
+    "numer": "11",
+    "kod": "28-313",
+    "poczta": "Imielno\r"
+  },
+  {
+    "id": "7835",
+    "wojewodztwo_id": "13",
+    "miejscowosc_id": "2734",
+    "miejscowosc": "Mierzwin",
+    "typ": "podstawowa",
+    "nazwa": "Samorz\u0105dowa Szko\u0142a Podstawowa",
+    "ulica": "Mierzwin",
+    "numer": "11",
+    "kod": "28-313",
+    "poczta": "Imielno\r"
+  }
+]

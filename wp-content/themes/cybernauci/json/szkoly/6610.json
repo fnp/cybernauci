@@ -1,0 +1,26 @@
+[
+  {
+    "id": "18662",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6610",
+    "miejscowosc": "Osieczna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kopernika",
+    "numer": "1",
+    "kod": "64-113",
+    "poczta": "Osieczna\r"
+  },
+  {
+    "id": "18663",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6610",
+    "miejscowosc": "Osieczna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kopernika",
+    "numer": "1",
+    "kod": "64-113",
+    "poczta": "Osieczna\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24218",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8841",
+    "miejscowosc": "Szczytno",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Publiczne Gimnazjum im. \u015aw. Stanis\u0142awa Kostki Nr 2",
+    "ulica": "Szczytno",
+    "numer": "3",
+    "kod": "09-141",
+    "poczta": "Szczytno\r"
+  },
+  {
+    "id": "24219",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8841",
+    "miejscowosc": "Szczytno",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Og\u00f3lnokszta\u0142c\u0105cych Szko\u0142a Podstawowa im. J. Wieczorka",
+    "ulica": "Szczytno",
+    "numer": "3",
+    "kod": "09-141",
+    "poczta": "Szczytno\r"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24556",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9013",
+    "miejscowosc": "Mordy",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 1",
+    "ulica": "Kili\u0144skiego",
+    "numer": "16",
+    "kod": "08-140",
+    "poczta": "Mordy\r"
+  },
+  {
+    "id": "24558",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9013",
+    "miejscowosc": "Mordy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Waleriana \u0141ukasi\u0144skiego",
+    "ulica": "Kili\u0144skiego",
+    "numer": "13",
+    "kod": "08-140",
+    "poczta": "Mordy\r"
+  }
+]

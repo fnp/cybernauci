@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1018",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "441",
+    "miejscowosc": "Aleksandria",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum ",
+    "ulica": "Go\u015bcinna",
+    "numer": "130",
+    "kod": "42-274",
+    "poczta": "Konopiska\r"
+  },
+  {
+    "id": "1019",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "441",
+    "miejscowosc": "Aleksandria",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Go\u015bcinna",
+    "numer": "130",
+    "kod": "42-274",
+    "poczta": "Konopiska\r"
+  }
+]

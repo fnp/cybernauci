@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15364",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5439",
+    "miejscowosc": "Bia\u0142y Ko\u015bci\u00f3\u0142",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Kamienna",
+    "numer": "18",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  },
+  {
+    "id": "15361",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5439",
+    "miejscowosc": "Bia\u0142y Ko\u015bci\u00f3\u0142",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Kamienna",
+    "numer": "18",
+    "kod": "57-100",
+    "poczta": "Strzelin\r"
+  }
+]

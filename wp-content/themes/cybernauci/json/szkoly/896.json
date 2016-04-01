@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3353",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "896",
+    "miejscowosc": "Rossosz",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum im. Powsta\u0144c\u00f3w Styczniowych",
+    "ulica": "Lubelska",
+    "numer": "37",
+    "kod": "21-533",
+    "poczta": "Rossosz\r"
+  },
+  {
+    "id": "3352",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "896",
+    "miejscowosc": "Rossosz",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. pp\u0142k. Stefana Skoczylasa",
+    "ulica": "Lubelska",
+    "numer": "37",
+    "kod": "21-533",
+    "poczta": "Rossosz\r"
+  }
+]

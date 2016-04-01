@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9775",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3571",
+    "miejscowosc": "\u0141\u0119czyce",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Adama Loreta ",
+    "ulica": "Topolowa",
+    "numer": "1",
+    "kod": "84-218",
+    "poczta": "\u0141\u0119czyce\r"
+  },
+  {
+    "id": "9776",
+    "wojewodztwo_id": "11",
+    "miejscowosc_id": "3571",
+    "miejscowosc": "\u0141\u0119czyce",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Marii Konopnickiej ",
+    "ulica": "Topolowa",
+    "numer": "1",
+    "kod": "84-218",
+    "poczta": "\u0141\u0119czyce\r"
+  }
+]

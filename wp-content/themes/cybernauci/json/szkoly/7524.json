@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21232",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7524",
+    "miejscowosc": "Ro\u017awienica",
+    "typ": "gimnazjum",
+    "nazwa": "Gminne Gimnazjum im. Orl\u0105t Lwowskich",
+    "ulica": "Ro\u017cwienica",
+    "numer": "200",
+    "kod": "37-565",
+    "poczta": "Ro\u017awienica\r"
+  },
+  {
+    "id": "21233",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7524",
+    "miejscowosc": "Ro\u017awienica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ro\u017cwienica",
+    "numer": "200",
+    "kod": "37-565",
+    "poczta": "Ro\u017awienica\r"
+  }
+]

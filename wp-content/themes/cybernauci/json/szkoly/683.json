@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1552",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "683",
+    "miejscowosc": "Be\u0142k",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 7",
+    "ulica": "Szymochy",
+    "numer": "16",
+    "kod": "44-230",
+    "poczta": "Czerwionka-Leszczyny\r"
+  },
+  {
+    "id": "1553",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "683",
+    "miejscowosc": "Be\u0142k",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Franciszka Rducha",
+    "ulica": "Szymochy",
+    "numer": "16",
+    "kod": "44-230",
+    "poczta": "Czerwionka-Leszczyny\r"
+  }
+]

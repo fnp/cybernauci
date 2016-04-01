@@ -1,0 +1,26 @@
+[
+  {
+    "id": "14131",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5121",
+    "miejscowosc": "Lubie\u0144 Kujawski",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. hm Janka Bytnara \"Rudego\"",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "87-840",
+    "poczta": "Lubie\u0144 Kujawski\r"
+  },
+  {
+    "id": "14132",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "5121",
+    "miejscowosc": "Lubie\u0144 Kujawski",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. hm Janka Bytnara \"Rudego\"",
+    "ulica": "Szkolna",
+    "numer": "15",
+    "kod": "87-840",
+    "poczta": "Lubie\u0144 Kujawski\r"
+  }
+]

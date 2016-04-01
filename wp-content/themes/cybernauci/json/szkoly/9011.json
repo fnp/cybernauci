@@ -1,0 +1,38 @@
+[
+  {
+    "id": "24553",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9011",
+    "miejscowosc": "Mokobody",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "08-124",
+    "poczta": "Mokobody\r"
+  },
+  {
+    "id": "24552",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9011",
+    "miejscowosc": "Mokobody",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "14",
+    "kod": "08-124",
+    "poczta": "Mokobody\r"
+  },
+  {
+    "id": "24554",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "9011",
+    "miejscowosc": "Mokobody",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Mechanizacji Rolnictwa",
+    "ulica": "Le\u015bna",
+    "numer": "24",
+    "kod": "08-124",
+    "poczta": "Mokobody\r"
+  }
+]

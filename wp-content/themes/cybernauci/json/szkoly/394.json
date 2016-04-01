@@ -1,0 +1,26 @@
+[
+  {
+    "id": "930",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "394",
+    "miejscowosc": "Ko\u0144czyce Wielkie",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "1",
+    "kod": "43-419",
+    "poczta": "Ha\u017clach\r"
+  },
+  {
+    "id": "926",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "394",
+    "miejscowosc": "Ko\u0144czyce Wielkie",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Bohater\u00f3w Westerplatte",
+    "ulica": "Ko\u015bcielna",
+    "numer": "12",
+    "kod": "43-419",
+    "poczta": "Ha\u017clach\r"
+  }
+]

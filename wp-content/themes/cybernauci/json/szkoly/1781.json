@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5313",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1781",
+    "miejscowosc": "Babice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Zamkowa",
+    "numer": "3",
+    "kod": "32-551",
+    "poczta": "Babice\r"
+  },
+  {
+    "id": "5314",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1781",
+    "miejscowosc": "Babice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zamkowa",
+    "numer": "3",
+    "kod": "32-551",
+    "poczta": "Babice\r"
+  },
+  {
+    "id": "6616",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "1781",
+    "miejscowosc": "Babice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. 6 Pomorskiej Dywizji Powietrzno-Desantowej",
+    "ulica": "R\u00f3\u017cana",
+    "numer": "23",
+    "kod": "32-600",
+    "poczta": "O\u015bwi\u0119cim\r"
+  }
+]

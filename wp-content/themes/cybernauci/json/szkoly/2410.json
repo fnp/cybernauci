@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6643",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2410",
+    "miejscowosc": "Podolsze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne ",
+    "ulica": "Zatorska",
+    "numer": "37",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  },
+  {
+    "id": "6644",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2410",
+    "miejscowosc": "Podolsze",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Zatorska",
+    "numer": "37",
+    "kod": "32-640",
+    "poczta": "Zator\r"
+  }
+]

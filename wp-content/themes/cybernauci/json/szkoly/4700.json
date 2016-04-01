@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13280",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4700",
+    "miejscowosc": "Zbiczno",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Zbiczno",
+    "numer": "150",
+    "kod": "87-305",
+    "poczta": "Zbiczno\r"
+  },
+  {
+    "id": "13281",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4700",
+    "miejscowosc": "Zbiczno",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Zbiczno",
+    "numer": "150",
+    "kod": "87-305",
+    "poczta": "Zbiczno\r"
+  }
+]

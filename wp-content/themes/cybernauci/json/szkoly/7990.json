@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22146",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7990",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Brzeziny",
+    "numer": "621",
+    "kod": "39-111",
+    "poczta": "Brzeziny\r"
+  },
+  {
+    "id": "22147",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7990",
+    "miejscowosc": "Brzeziny",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Brzeziny",
+    "numer": "382a",
+    "kod": "39-111",
+    "poczta": "Brzeziny\r"
+  }
+]

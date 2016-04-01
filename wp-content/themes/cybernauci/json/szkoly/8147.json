@@ -1,0 +1,26 @@
+[
+  {
+    "id": "22497",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8147",
+    "miejscowosc": "Gwo\u017anica G\u00f3rna",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Gwo\u017anica G\u00f3rna",
+    "numer": "292",
+    "kod": "38-116",
+    "poczta": "Gwo\u017anica G\u00f3rna\r"
+  },
+  {
+    "id": "22498",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "8147",
+    "miejscowosc": "Gwo\u017anica G\u00f3rna",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Juliana Przybosia",
+    "ulica": "Gwo\u017anica G\u00f3rna",
+    "numer": "292",
+    "kod": "38-116",
+    "poczta": "Gwo\u017anica G\u00f3rna\r"
+  }
+]

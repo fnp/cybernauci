@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13414",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4768",
+    "miejscowosc": "Pluskow\u0119sy",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im Wojska Polskiego",
+    "ulica": "Pluskow\u0119sy",
+    "numer": "22",
+    "kod": "87-410",
+    "poczta": "Kowalewo Pomorskie\r"
+  },
+  {
+    "id": "13954",
+    "wojewodztwo_id": "2",
+    "miejscowosc_id": "4768",
+    "miejscowosc": "Pluskow\u0119sy",
+    "typ": "gimnazjum",
+    "nazwa": "Szko\u0142a Publiczna Gimnazjum",
+    "ulica": "Pluskow\u0119sy",
+    "numer": "71A",
+    "kod": "87-140",
+    "poczta": "Che\u0142m\u017ca\r"
+  }
+]

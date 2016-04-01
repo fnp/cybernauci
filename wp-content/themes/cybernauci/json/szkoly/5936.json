@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16885",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5936",
+    "miejscowosc": "Gomunice",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "S\u0142owackiego",
+    "numer": "12",
+    "kod": "97-545",
+    "poczta": "Gomunice\r"
+  },
+  {
+    "id": "16886",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5936",
+    "miejscowosc": "Gomunice",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "S\u0142owackiego",
+    "numer": "12",
+    "kod": "97-545",
+    "poczta": "Gomunice\r"
+  }
+]

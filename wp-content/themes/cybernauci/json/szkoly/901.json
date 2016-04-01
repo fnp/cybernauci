@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3360",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "901",
+    "miejscowosc": "Ma\u0142aszewicze",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne",
+    "ulica": "Kolejarzy",
+    "numer": "16",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  },
+  {
+    "id": "3361",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "901",
+    "miejscowosc": "Ma\u0142aszewicze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Kolejarzy",
+    "numer": "16",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  },
+  {
+    "id": "3362",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "901",
+    "miejscowosc": "Ma\u0142aszewicze",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum 4-letnie",
+    "ulica": "Kolejarzy",
+    "numer": "16",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  },
+  {
+    "id": "3363",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "901",
+    "miejscowosc": "Ma\u0142aszewicze",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 im. Kornela Makuszy\u0144skiego Szko\u0142a Podstawowa",
+    "ulica": "Wiejska",
+    "numer": "7",
+    "kod": "21-540",
+    "poczta": "Ma\u0142aszewicze\r"
+  }
+]

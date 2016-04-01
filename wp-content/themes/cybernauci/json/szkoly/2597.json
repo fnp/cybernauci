@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7025",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2597",
+    "miejscowosc": "Bukowina Tatrza\u0144ska",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "34-530",
+    "poczta": "Bukowina Tatrza\u0144ska\r"
+  },
+  {
+    "id": "7026",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2597",
+    "miejscowosc": "Bukowina Tatrza\u0144ska",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ko\u015bciuszki",
+    "numer": "11",
+    "kod": "34-530",
+    "poczta": "Bukowina Tatrza\u0144ska\r"
+  }
+]

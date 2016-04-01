@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21203",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7506",
+    "miejscowosc": "Chotyniec",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Gimnazjum",
+    "ulica": "Chotyniec",
+    "numer": "114",
+    "kod": "37-552",
+    "poczta": "M\u0142yny\r"
+  },
+  {
+    "id": "21204",
+    "wojewodztwo_id": "9",
+    "miejscowosc_id": "7506",
+    "miejscowosc": "Chotyniec",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Szk\u00f3\u0142 Szko\u0142a Podstawowa",
+    "ulica": "Chotyniec",
+    "numer": "114",
+    "kod": "37-552",
+    "poczta": "M\u0142yny\r"
+  }
+]

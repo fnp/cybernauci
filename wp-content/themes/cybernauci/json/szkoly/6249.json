@@ -1,0 +1,26 @@
+[
+  {
+    "id": "17940",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6249",
+    "miejscowosc": "\u0141omnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "\u0141omnica",
+    "numer": "7",
+    "kod": "64-980",
+    "poczta": "Trzcianka\r"
+  },
+  {
+    "id": "18764",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6249",
+    "miejscowosc": "\u0141omnica",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "\u0141omnica",
+    "numer": "54",
+    "kod": "64-360",
+    "poczta": "Zb\u0105szy\u0144\r"
+  }
+]

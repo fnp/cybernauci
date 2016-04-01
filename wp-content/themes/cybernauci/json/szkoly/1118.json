@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3787",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1118",
+    "miejscowosc": "Li\u015bnik Du\u017cy",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Janiny Wierzchowskiej",
+    "ulica": "Li\u015bnik Du\u017cy",
+    "numer": "161",
+    "kod": "23-275",
+    "poczta": "Go\u015bcierad\u00f3w\r"
+  },
+  {
+    "id": "3788",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1118",
+    "miejscowosc": "Li\u015bnik Du\u017cy",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Li\u015bnik Du\u017cy",
+    "numer": "161",
+    "kod": "23-275",
+    "poczta": "Go\u015bcierad\u00f3w\r"
+  }
+]

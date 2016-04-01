@@ -1,0 +1,26 @@
+[
+  {
+    "id": "15199",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5372",
+    "miejscowosc": "Ku\u017anica Czeszycka",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Ku\u017anica Czeszycka",
+    "numer": "1",
+    "kod": "56-320",
+    "poczta": "Kro\u015bnice\r"
+  },
+  {
+    "id": "15200",
+    "wojewodztwo_id": "1",
+    "miejscowosc_id": "5372",
+    "miejscowosc": "Ku\u017anica Czeszycka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Ku\u017anica Czeszycka",
+    "numer": "1",
+    "kod": "56-320",
+    "poczta": "Kro\u015bnice\r"
+  }
+]

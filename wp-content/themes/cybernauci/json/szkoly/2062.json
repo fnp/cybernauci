@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5864",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2062",
+    "miejscowosc": "Kasinka Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2 im. Juliana Tuwima",
+    "ulica": "Kasinka Ma\u0142a",
+    "numer": "432",
+    "kod": "34-734",
+    "poczta": "Kasinka Ma\u0142a\r"
+  },
+  {
+    "id": "5865",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2062",
+    "miejscowosc": "Kasinka Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 3 ",
+    "ulica": "Kasinka Ma\u0142a",
+    "numer": "733",
+    "kod": "34-734",
+    "poczta": "Kasinka Ma\u0142a\r"
+  },
+  {
+    "id": "5870",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2062",
+    "miejscowosc": "Kasinka Ma\u0142a",
+    "typ": "gimnazjum",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Gimnazjum Nr 2 im. Ks. Kanonika Stanis\u0142awa Urygi ",
+    "ulica": "Kasinka Ma\u0142a",
+    "numer": "513",
+    "kod": "34-734",
+    "poczta": "Kasinka Ma\u0142a\r"
+  },
+  {
+    "id": "5871",
+    "wojewodztwo_id": "6",
+    "miejscowosc_id": "2062",
+    "miejscowosc": "Kasinka Ma\u0142a",
+    "typ": "podstawowa",
+    "nazwa": "Zesp\u00f3\u0142 Plac\u00f3wek O\u015bwiatowych Szko\u0142a Podstawowa Nr 1 im. W\u0142adys\u0142awa Broniewskiego ",
+    "ulica": "Kasinka Ma\u0142a",
+    "numer": "513",
+    "kod": "34-734",
+    "poczta": "Kasinka Ma\u0142a\r"
+  }
+]

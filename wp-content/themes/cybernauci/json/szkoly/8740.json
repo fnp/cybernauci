@@ -1,0 +1,26 @@
+[
+  {
+    "id": "24024",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8740",
+    "miejscowosc": "Jazgarzew",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "05-502",
+    "poczta": "Piaseczno\r"
+  },
+  {
+    "id": "24025",
+    "wojewodztwo_id": "7",
+    "miejscowosc_id": "8740",
+    "miejscowosc": "Jazgarzew",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "10",
+    "kod": "05-502",
+    "poczta": "Piaseczno\r"
+  }
+]

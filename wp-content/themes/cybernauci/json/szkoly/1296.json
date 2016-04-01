@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4076",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1296",
+    "miejscowosc": "Zofi\u00f3wka",
+    "typ": "gimnazjum",
+    "nazwa": "Niepubliczne Gimnazjum ",
+    "ulica": "Zofi\u00f3wka",
+    "numer": "85",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  },
+  {
+    "id": "4074",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1296",
+    "miejscowosc": "Zofi\u00f3wka",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa ",
+    "ulica": "Zofi\u00f3wka",
+    "numer": "85",
+    "kod": "21-010",
+    "poczta": "\u0141\u0119czna\r"
+  }
+]

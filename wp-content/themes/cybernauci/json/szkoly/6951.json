@@ -1,0 +1,98 @@
+[
+  {
+    "id": "19423",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Zbigniewa Herberta",
+    "ulica": "Polna",
+    "numer": "5",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19424",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Nr 2",
+    "ulica": "Le\u015bna",
+    "numer": "17",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19425",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Liceum Og\u00f3lnokszta\u0142c\u0105ce",
+    "ulica": "Le\u015bna",
+    "numer": "17",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19422",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 1",
+    "ulica": "Mickiewicza",
+    "numer": "5",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19421",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa Nr 2",
+    "ulica": "Pozna\u0144ska",
+    "numer": "46",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19426",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 1",
+    "ulica": "Le\u015bna",
+    "numer": "17",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19427",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Technikum Nr 2",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "25",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  },
+  {
+    "id": "19428",
+    "wojewodztwo_id": "15",
+    "miejscowosc_id": "6951",
+    "miejscowosc": "Wronki",
+    "typ": "ponadgimnazjalna",
+    "nazwa": "Zasadnicza Szko\u0142a Zawodowa",
+    "ulica": "Powsta\u0144c\u00f3w Wielkopolskich",
+    "numer": "25",
+    "kod": "64-510",
+    "poczta": "Wronki\r"
+  }
+]

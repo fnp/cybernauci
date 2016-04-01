@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3802",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1127",
+    "miejscowosc": "Szastarka",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa ",
+    "ulica": "Szastarka",
+    "numer": "104",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  },
+  {
+    "id": "3803",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1127",
+    "miejscowosc": "Szastarka",
+    "typ": "gimnazjum",
+    "nazwa": "Publiczne Gimnazjum ",
+    "ulica": "Szastarka",
+    "numer": "104",
+    "kod": "23-225",
+    "poczta": "Szastarka\r"
+  }
+]

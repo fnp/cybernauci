@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3333",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "881",
+    "miejscowosc": "Rzeczyca",
+    "typ": "podstawowa",
+    "nazwa": "Publiczna Szko\u0142a Podstawowa im. Kornela Makuszy\u0144skiego ",
+    "ulica": "Go\u015bciniec",
+    "numer": "74",
+    "kod": "21-560",
+    "poczta": "Mi\u0119dzyrzec Podlaski\r"
+  },
+  {
+    "id": "4366",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "881",
+    "miejscowosc": "Rzeczyca",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Rzeczyca",
+    "numer": "69",
+    "kod": "24-120",
+    "poczta": "Kazimierz Dolny\r"
+  }
+]

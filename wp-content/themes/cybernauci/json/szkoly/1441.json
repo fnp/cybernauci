@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4406",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1441",
+    "miejscowosc": "Go\u0142\u0105b",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum im. Kanclerza Koronnego Jerzego Ossoli\u0144skiego",
+    "ulica": "Pu\u0142awska",
+    "numer": "32",
+    "kod": "24-100",
+    "poczta": "Pu\u0142awy\r"
+  },
+  {
+    "id": "4399",
+    "wojewodztwo_id": "3",
+    "miejscowosc_id": "1441",
+    "miejscowosc": "Go\u0142\u0105b",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa im. Stefana Czarnieckiego",
+    "ulica": "Pu\u0142awska",
+    "numer": "32",
+    "kod": "24-100",
+    "poczta": "Pu\u0142awy\r"
+  }
+]

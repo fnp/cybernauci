@@ -1,0 +1,26 @@
+[
+  {
+    "id": "16282",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5650",
+    "miejscowosc": "Rusiec",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum Publiczne w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Wielu\u0144ska",
+    "numer": "33",
+    "kod": "97-438",
+    "poczta": "Rusiec\r"
+  },
+  {
+    "id": "16283",
+    "wojewodztwo_id": "5",
+    "miejscowosc_id": "5650",
+    "miejscowosc": "Rusiec",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa w Zespole Szkolno-Przedszkolnym",
+    "ulica": "Wielu\u0144ska",
+    "numer": "33",
+    "kod": "97-438",
+    "poczta": "Rusiec\r"
+  }
+]

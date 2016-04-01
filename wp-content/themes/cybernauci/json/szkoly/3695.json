@@ -1,0 +1,26 @@
+[
+  {
+    "id": "10414",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3695",
+    "miejscowosc": "Wyszki",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "17-132",
+    "poczta": "Wyszki\r"
+  },
+  {
+    "id": "10415",
+    "wojewodztwo_id": "10",
+    "miejscowosc_id": "3695",
+    "miejscowosc": "Wyszki",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "17",
+    "kod": "17-132",
+    "poczta": "Wyszki\r"
+  }
+]

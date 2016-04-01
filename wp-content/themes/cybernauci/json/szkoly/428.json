@@ -1,0 +1,26 @@
+[
+  {
+    "id": "992",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "428",
+    "miejscowosc": "Garnek",
+    "typ": "gimnazjum",
+    "nazwa": "Gimnazjum",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  },
+  {
+    "id": "993",
+    "wojewodztwo_id": "12",
+    "miejscowosc_id": "428",
+    "miejscowosc": "Garnek",
+    "typ": "podstawowa",
+    "nazwa": "Szko\u0142a Podstawowa",
+    "ulica": "Szkolna",
+    "numer": "18",
+    "kod": "42-270",
+    "poczta": "K\u0142omnice\r"
+  }
+]
