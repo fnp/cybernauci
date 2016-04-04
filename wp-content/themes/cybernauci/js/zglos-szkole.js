@@ -23,6 +23,7 @@ window.onload = function () {
         szkolaUlica = main.find('input[value="Ulica *"]:visible'),
         szkolaNumer = main.find('input[value="Numer"]:visible'),
         szkolaKod = main.find('input[value="Kod pocztowy *"]:visible'),
+        szkolaPoczta = main.find('input[value="Poczta *"]:visible'),
         wojewodztwo = function () {
             jQuery.ajax({
                 url: "/wp-content/themes/cybernauci/json/wojewodztwa.json",
@@ -60,6 +61,7 @@ window.onload = function () {
             jQuery.ajax({
                 url: "/wp-content/themes/cybernauci/json/szkoly/" + miejscowosc_id + ".json",
                 success: function (res) {
+                    console.log(res);
                     for (var i = 0; i < res.length; i++) {
                         nazwaSzkolyList.append(
                             jQuery('<option></option>').attr({
@@ -67,7 +69,8 @@ window.onload = function () {
                                 'data-typ': res[i].typ,
                                 'data-ulica': res[i].ulica,
                                 'data-numer': res[i].numer,
-                                'data-kod': res[i].kod
+                                'data-kod': res[i].kod,
+                                'data-poczta': res[i].miejscowosc
                             }).text(res[i].nazwa)
                         );
                     }
@@ -78,6 +81,7 @@ window.onload = function () {
                         szkolaUlica.val(szkola.attr('data-ulica'));
                         szkolaNumer.val(szkola.attr('data-numer'));
                         szkolaKod.val(szkola.attr('data-kod'));
+                        szkolaPoczta.val(szkola.attr('data-poczta'));
                     });
                     typSzkolyList.on('change', function (e) {
                         var typ = this.value;
