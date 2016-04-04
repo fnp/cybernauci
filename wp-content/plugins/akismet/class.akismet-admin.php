@@ -187,7 +187,7 @@ class Akismet_Admin
 	{
 		$settings_link = '<a href="' . esc_url(self::get_page_url()) . '">' . __('Settings', 'akismet') . '</a>';
 		array_unshift($links, $settings_link);
-		return $links;
+		return $links; 
 	}
 
 	public static function load_resources()
@@ -589,14 +589,14 @@ class Akismet_Admin
 
 			foreach ($history as $row) {
 				$time = date('D d M Y @ h:i:m a', $row['time']) . ' GMT';
-
+				
 				$message = '';
 
 				if (!empty($row['message'])) {
 					// Old versions of Akismet stored the message as a literal string in the commentmeta.
 					// New versions don't do that for two reasons:
 					// 1) Save space.
-					// 2) The message can be translated into the current language of the blog, not stuck
+					// 2) The message can be translated into the current language of the blog, not stuck 
 					//    in the language of the blog when the comment was made.
 					$message = $row['message'];
 				}
@@ -662,7 +662,7 @@ class Akismet_Admin
 							}
 						}
 						break;
-
+					
 				}
 
 				echo '<div style="margin-bottom: 13px;">';
@@ -743,7 +743,7 @@ class Akismet_Admin
 			$akismet_account = json_decode($akismet_account[1]);
 
 		Akismet::log(compact('akismet_account'));
-
+		
 		return $akismet_account;
 	}
 
@@ -778,8 +778,8 @@ class Akismet_Admin
 
 		//the user can choose to auto connect their API key by clicking a button on the akismet done page
 		//if jetpack, get verified api key by using connected wpcom user id
-		//if no jetpack, get verified api key by using an akismet token
-
+		//if no jetpack, get verified api key by using an akismet token	
+		
 		$akismet_user = false;
 
 		if (isset($_GET['token']) && preg_match('/^(\d+)-[0-9a-f]{20}$/', $_GET['token']))
@@ -793,7 +793,7 @@ class Akismet_Admin
 					self::save_key($akismet_user->api_key);
 					self::display_notice();
 					self::display_configuration_page();
-					return;
+					return;				
 				}
 			}
 		}
@@ -947,7 +947,7 @@ class Akismet_Admin
 					}
 				} else
 					Akismet::view('notice', compact('type'));
-			}
+			}				
 		}
 	}
 
@@ -958,7 +958,7 @@ class Akismet_Admin
 
 	public static function check_server_connectivity($cache_timeout = 86400)
 	{
-
+		
 		$debug = array();
 		$debug['PHP_VERSION'] = PHP_VERSION;
 		$debug['WORDPRESS_VERSION'] = $GLOBALS['wp_version'];
@@ -966,7 +966,7 @@ class Akismet_Admin
 		$debug['AKISMET__PLUGIN_DIR'] = AKISMET__PLUGIN_DIR;
 		$debug['SITE_URL'] = site_url();
 		$debug['HOME_URL'] = home_url();
-
+		
 		$servers = get_option('akismet_available_servers');
 		if ((time() - get_option('akismet_connectivity_time') < $cache_timeout) && $servers !== false) {
 			$servers = self::check_server_ip_connectivity();
@@ -990,7 +990,7 @@ class Akismet_Admin
 
 	public static function check_server_ip_connectivity()
 	{
-
+		
 		$servers = $ips = array();
 
 		// Some web hosts may disable this function

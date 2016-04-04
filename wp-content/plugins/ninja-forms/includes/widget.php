@@ -1,9 +1,8 @@
 <?php if (!defined('ABSPATH')) exit;
-
 /**
  * Adds Ninja Forms widget.
  */
-class Ninja_Forms_Widget extends WP_Widget
+class NF_Widget extends WP_Widget
 {
 
     /**
@@ -28,24 +27,17 @@ class Ninja_Forms_Widget extends WP_Widget
      */
     public function widget($args, $instance)
     {
-        extract($args);
-        $form_id = $instance['form_id'];
-        $form_row = ninja_forms_get_form_by_id($form_id);
-        $form_data = $form_row['data'];
-        if (isset ($form_data['form_title'])) {
-            $title = $form_data['form_title'];
-        } else {
-            $title = '';
-        }
+        $form = Ninja_Forms()->form($instance['form_id'])->get();
+        $title = $form->get_setting('title');
 
         $title = apply_filters('widget_title', $title);
         $display_title = $instance['display_title'];
 
-        echo $before_widget;
+        echo $args['before_widget'];
         if (!empty($title) AND $display_title == 1)
-            echo $before_title . $title . $after_title;
-        ninja_forms_display_form($form_id);
-        echo $after_widget;
+            echo $args['before_title'] . $title . $args['after_title'];
+        Ninja_Forms()->display($instance['form_id']);
+        echo $args['after_widget'];
     }
 
     /**
@@ -103,14 +95,12 @@ class Ninja_Forms_Widget extends WP_Widget
                     name="<?php echo $this->get_field_name('form_id'); ?>">
                 <option value="0">-- <?php _e('None', 'ninja-forms'); ?></option>
                 <?php
-                $all_forms = ninja_forms_get_all_forms();
+                $all_forms = Ninja_Forms()->form()->get_forms();
 
                 foreach ($all_forms as $form) {
-                    $title = $form['data']['form_title'];
-                    $id = $form['id'];
                     ?>
-                    <option value="<?php echo $id; ?>" <?php selected($id, $form_id); ?>>
-                        <?php echo $title; ?>
+                    <option value="<?php echo $form->get_id(); ?>" <?php selected($form->get_id(), $form_id); ?>>
+                        <?php echo $form->get_setting('title'); ?>
                     </option>
                     <?php
                 }
@@ -123,4 +113,4 @@ class Ninja_Forms_Widget extends WP_Widget
 
 } // class Foo_Widget
 
-add_action('widgets_init', create_function('', 'register_widget( "ninja_forms_widget" );'));
+add_action('widgets_init', create_function('', 'register_widget( "NF_Widget" );'));

@@ -7,8 +7,8 @@
 					<div class="aa_button_border">
 						<input type="submit" class="aa_button"
 							   value="<?php esc_attr_e('Activate your Akismet account', 'akismet'); ?>"/>
-					</div>
 				</div>
+			</div>
 				<div
 					class="aa_description"><?php _e('<strong>Almost done</strong> - activate Akismet and say goodbye to spam', 'akismet'); ?></div>
 			</div>

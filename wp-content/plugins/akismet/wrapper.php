@@ -15,7 +15,7 @@ function akismet_http_post($request, $host, $path, $port = 80, $ip = null)
 {
 	$path = str_replace('/1.1/', '', $path);
 
-	return Akismet::http_post($request, $path, $ip);
+	return Akismet::http_post($request, $path, $ip); 
 }
 
 function akismet_microtime()
@@ -29,7 +29,7 @@ function akismet_delete_old()
 }
 
 function akismet_delete_old_metadata()
-{
+{ 
 	return Akismet::delete_old_comments_meta();
 }
 

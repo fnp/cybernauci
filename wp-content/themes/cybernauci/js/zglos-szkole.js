@@ -24,6 +24,7 @@ window.onload = function () {
         szkolaNumer = main.find('input[value="Numer"]:visible'),
         szkolaKod = main.find('input[value="Kod pocztowy *"]:visible'),
         szkolaPoczta = main.find('input[value="Poczta *"]:visible'),
+
         wojewodztwo = function () {
             jQuery.ajax({
                 url: "/wp-content/themes/cybernauci/json/wojewodztwa.json",
@@ -61,7 +62,6 @@ window.onload = function () {
             jQuery.ajax({
                 url: "/wp-content/themes/cybernauci/json/szkoly/" + miejscowosc_id + ".json",
                 success: function (res) {
-                    console.log(res);
                     for (var i = 0; i < res.length; i++) {
                         nazwaSzkolyList.append(
                             jQuery('<option></option>').attr({

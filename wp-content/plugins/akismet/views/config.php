@@ -100,7 +100,7 @@
 																?>
 																<b><?php esc_html_e('Enabled.', 'akismet'); ?></b> <?php esc_html_e('All systems functional.', 'akismet'); ?><?php
 															}
-														}
+															}
 
 														?>
 													</p>
@@ -119,9 +119,9 @@
 															id="akismet_show_user_comments_approved" value="1"
 															type="checkbox" <?php checked('1', get_option('akismet_show_user_comments_approved')); ?>> <?php esc_html_e('Show the number of approved comments beside each comment author', 'akismet'); ?>
 													</label>
-												</p>
-											</td>
-										</tr>
+													</p>
+												</td>
+											</tr>
 										<tr>
 											<th class="strictness" align="left"
 												scope="row"><?php esc_html_e('Strictness', 'akismet'); ?></th>
@@ -215,7 +215,7 @@
 													elseif ('no-sub' == $akismet_user->status) :
 														esc_html_e('No Subscription Found', 'akismet');
 													else :
-														esc_html_e('Active', 'akismet');
+														esc_html_e('Active', 'akismet');  
 													endif; ?></span>
 										</td>
 									</tr>

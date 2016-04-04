@@ -1,41 +1,39 @@
 <?php if (!defined('ABSPATH')) exit;
-function ninja_forms_register_field_hr()
+
+/**
+ * Class NF_Fields_Hr
+ */
+class NF_Fields_Hr extends NF_Abstracts_Input
 {
-    $args = array(
-        'name' => __('hr', 'ninja-forms'),
-        'sidebar' => 'layout_fields',
-        'edit_function' => '',
-        'display_function' => 'ninja_forms_field_hr_display',
-        'group' => 'layout_elements',
-        'display_label' => false,
-        'display_wrap' => false,
-        'edit_label' => false,
-        'edit_label_pos' => false,
-        'edit_req' => false,
-        'edit_custom_class' => true,
-        'edit_help' => false,
-        'edit_meta' => false,
-        'edit_conditional' => true,
-        'process_field' => false,
-    );
+    protected $_name = 'hr';
 
-    ninja_forms_register_field('_hr', $args);
-}
+    protected $_section = 'layout';
 
-add_action('init', 'ninja_forms_register_field_hr');
+    protected $_aliases = array('html');
 
-function ninja_forms_field_hr_display($field_id, $data, $form_id = '')
-{
-    if (isset($data['display_style'])) {
-        $display_style = $data['display_style'];
-    } else {
-        $display_style = '';
+    protected $_type = 'hr';
+
+    protected $_templates = 'hr';
+
+    protected $_settings_only = array('classes');
+
+    public function __construct()
+    {
+        parent::__construct();
+
+        $this->_settings['classes']['group'] = 'primary';
+
+        $this->_nicename = __('hr', 'ninja-forms');
+        add_filter('nf_sub_hidden_field_types', array($this, 'hide_field_type'));
+
+        unset($this->_settings['classes']['settings']['wrapper ']);
     }
 
-    $field_class = ninja_forms_get_field_class($field_id, $form_id);
-    ?>
-    <hr class="<?php echo $field_class; ?>" style="<?php echo $display_style; ?>"
-        id="ninja_forms_field_<?php echo $field_id; ?>_div_wrap" rel="<?php echo $field_id; ?>"/>
-    <?php
+    function hide_field_type($field_types)
+    {
+        $field_types[] = $this->_name;
+
+        return $field_types;
+    }
 
 }

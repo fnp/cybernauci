@@ -56,383 +56,58 @@ class Akismet
 
 		// Run this early in the pingback call, before doing a remote fetch of the source uri
 		add_action('xmlrpc_call', array('Akismet', 'pre_check_pingback'));
-	}
 
-	public static function get_last_comment()
-	{
-		return self::$last_comment;
-	}
-
-	public static function set_last_comment($comment)
-	{
-		if (is_null($comment)) {
-			self::$last_comment = null;
-		} else {
-			// We filter it here so that it matches the filtered comment data that we'll have to compare against later.
-			// wp_filter_comment expects comment_author_IP
-			self::$last_comment = wp_filter_comment(
-				array_merge(
-					array('comment_author_IP' => self::get_ip_address()),
-					$comment
-				)
-			);
-		}
-	}
-
-	public static function auto_check_update_meta($id, $comment)
-	{
-
-		// failsafe for old WP versions
-		if (!function_exists('add_comment_meta'))
-			return false;
-
-		if (!isset(self::$last_comment['comment_author_email']))
-			self::$last_comment['comment_author_email'] = '';
-
-		// wp_insert_comment() might be called in other contexts, so make sure this is the same comment
-		// as was checked by auto_check_comment
-		if (is_object($comment) && !empty(self::$last_comment) && is_array(self::$last_comment)) {
-			if (self::matches_last_comment($comment)) {
-
-				load_plugin_textdomain('akismet');
-
-				// normal result: true or false
-				if (self::$last_comment['akismet_result'] == 'true') {
-					update_comment_meta($comment->comment_ID, 'akismet_result', 'true');
-					self::update_comment_history($comment->comment_ID, '', 'check-spam');
-					if ($comment->comment_approved != 'spam')
-						self::update_comment_history(
-							$comment->comment_ID,
-							'',
-							'status-changed-' . $comment->comment_approved
-						);
-				} elseif (self::$last_comment['akismet_result'] == 'false') {
-					update_comment_meta($comment->comment_ID, 'akismet_result', 'false');
-					self::update_comment_history($comment->comment_ID, '', 'check-ham');
-					if ($comment->comment_approved == 'spam') {
-						if (wp_blacklist_check($comment->comment_author, $comment->comment_author_email, $comment->comment_author_url, $comment->comment_content, $comment->comment_author_IP, $comment->comment_agent))
-							self::update_comment_history($comment->comment_ID, '', 'wp-blacklisted');
-						else
-							self::update_comment_history($comment->comment_ID, '', 'status-changed-' . $comment->comment_approved);
-					}
-				} // abnormal result: error
-				else {
-					update_comment_meta($comment->comment_ID, 'akismet_error', time());
-					self::update_comment_history(
-						$comment->comment_ID,
-						'',
-						'check-error',
-						array('response' => substr(self::$last_comment['akismet_result'], 0, 50))
-					);
-				}
-
-				// record the complete original data as submitted for checking
-				if (isset(self::$last_comment['comment_as_submitted']))
-					update_comment_meta($comment->comment_ID, 'akismet_as_submitted', self::$last_comment['comment_as_submitted']);
-
-				if (isset(self::$last_comment['akismet_pro_tip']))
-					update_comment_meta($comment->comment_ID, 'akismet_pro_tip', self::$last_comment['akismet_pro_tip']);
-			}
-		}
-	}
-
-	public static function matches_last_comment($comment)
-	{
-		if (is_object($comment))
-			$comment = (array)$comment;
-
-		return self::comments_match(self::$last_comment, $comment);
+		// Jetpack compatibility
+		add_filter('jetpack_options_whitelist', array('Akismet', 'add_to_jetpack_options_whitelist'));
+		add_action('update_option_wordpress_api_key', array('Akismet', 'updated_option'), 10, 2);
 	}
 
 	/**
-	 * Do these two comments, without checking the comment_ID, "match"?
+	 * Add the akismet option to the Jetpack options management whitelist.
 	 *
-	 * @param mixed $comment1 A comment object or array.
-	 * @param mixed $comment2 A comment object or array.
-	 * @return bool Whether the two comments should be treated as the same comment.
+	 * @param array $options The list of whitelisted option names.
+	 * @return array The updated whitelist
 	 */
-	private static function comments_match($comment1, $comment2)
+	public static function add_to_jetpack_options_whitelist($options)
 	{
-		$comment1 = (array)$comment1;
-		$comment2 = (array)$comment2;
-
-		return (
-			isset($comment1['comment_post_ID'], $comment2['comment_post_ID'])
-			&& intval($comment1['comment_post_ID']) == intval($comment2['comment_post_ID'])
-			&& (
-				// The comment author length max is 255 characters, limited by the TINYTEXT column type.
-				// If the comment author includes multibyte characters right around the 255-byte mark, they
-				// may be stripped when the author is saved in the DB, so a 300+ char author may turn into
-				// a 253-char author when it's saved, not 255 exactly.  The longest possible character is
-				// theoretically 6 bytes, so we'll only look at the first 248 bytes to be safe.
-				substr($comment1['comment_author'], 0, 248) == substr($comment2['comment_author'], 0, 248)
-				|| substr(stripslashes($comment1['comment_author']), 0, 248) == substr($comment2['comment_author'], 0, 248)
-				|| substr($comment1['comment_author'], 0, 248) == substr(stripslashes($comment2['comment_author']), 0, 248)
-			)
-			&& (
-				// The email max length is 100 characters, limited by the VARCHAR(100) column type.
-				// Same argument as above for only looking at the first 93 characters.
-				substr($comment1['comment_author_email'], 0, 93) == substr($comment2['comment_author_email'], 0, 93)
-				|| substr(stripslashes($comment1['comment_author_email']), 0, 93) == substr($comment2['comment_author_email'], 0, 93)
-				|| substr($comment1['comment_author_email'], 0, 93) == substr(stripslashes($comment2['comment_author_email']), 0, 93)
-				// Very long emails can be truncated and then stripped if the [0:100] substring isn't a valid address.
-				|| (!$comment1['comment_author_email'] && strlen($comment2['comment_author_email']) > 100)
-				|| (!$comment2['comment_author_email'] && strlen($comment1['comment_author_email']) > 100)
-			)
-		);
+		$options[] = 'wordpress_api_key';
+		return $options;
 	}
 
 	/**
-	 * Log an event for a given comment, storing it in comment_meta.
+	 * When the akismet option is updated, run the registration call.
 	 *
-	 * @param int $comment_id The ID of the relevant comment.
-	 * @param string $message The string description of the event. No longer used.
-	 * @param string $event The event code.
-	 * @param array $meta Metadata about the history entry. e.g., the user that reported or changed the status of a given comment.
-	 */
-	public static function update_comment_history($comment_id, $message, $event = null, $meta = null)
-	{
-		global $current_user;
-
-		// failsafe for old WP versions
-		if (!function_exists('add_comment_meta'))
-			return false;
-
-		$user = '';
-
-		$event = array(
-			'time' => self::_get_microtime(),
-			'event' => $event,
-		);
-
-		if (is_object($current_user) && isset($current_user->user_login)) {
-			$event['user'] = $current_user->user_login;
-		}
-
-		if (!empty($meta)) {
-			$event['meta'] = $meta;
-		}
-
-		// $unique = false so as to allow multiple values per comment
-		$r = add_comment_meta($comment_id, 'akismet_history', $event, false);
-	}
-
-	public static function _get_microtime()
-	{
-		$mtime = explode(' ', microtime());
-		return $mtime[1] + $mtime[0];
-	}
-
-	// this fires on wp_insert_comment.  we can't update comment_meta when auto_check_comment() runs
-	// because we don't know the comment ID at that point.
-
-	public static function delete_old_comments_meta()
-	{
-		global $wpdb;
-
-		$interval = apply_filters('akismet_delete_commentmeta_interval', 15);
-
-		# enfore a minimum of 1 day
-		$interval = absint($interval);
-		if ($interval < 1)
-			$interval = 1;
-
-		// akismet_as_submitted meta values are large, so expire them
-		// after $interval days regardless of the comment status
-		while ($comment_ids = $wpdb->get_col($wpdb->prepare("SELECT m.comment_id FROM {$wpdb->commentmeta} as m INNER JOIN {$wpdb->comments} as c USING(comment_id) WHERE m.meta_key = 'akismet_as_submitted' AND DATE_SUB(NOW(), INTERVAL %d DAY) > c.comment_date_gmt LIMIT 10000", $interval))) {
-			if (empty($comment_ids))
-				return;
-
-			$wpdb->queries = array();
-
-			foreach ($comment_ids as $comment_id) {
-				delete_comment_meta($comment_id, 'akismet_as_submitted');
-			}
-		}
-
-		if (apply_filters('akismet_optimize_table', (mt_rand(1, 5000) == 11), $wpdb->commentmeta)) // lucky number
-			$wpdb->query("OPTIMIZE TABLE {$wpdb->commentmeta}");
-	}
-
-	public static function get_user_comments_approved($user_id, $comment_author_email, $comment_author, $comment_author_url)
-	{
-		global $wpdb;
-
-		if (!empty($user_id))
-			return (int)$wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM {$wpdb->comments} WHERE user_id = %d AND comment_approved = 1", $user_id));
-
-		if (!empty($comment_author_email))
-			return (int)$wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM {$wpdb->comments} WHERE comment_author_email = %s AND comment_author = %s AND comment_author_url = %s AND comment_approved = 1", $comment_author_email, $comment_author, $comment_author_url));
-
-		return 0;
-	}
-
-	public static function get_comment_history($comment_id)
-	{
-
-		// failsafe for old WP versions
-		if (!function_exists('add_comment_meta'))
-			return false;
-
-		$history = get_comment_meta($comment_id, 'akismet_history', false);
-		usort($history, array('Akismet', '_cmp_time'));
-		return $history;
-	}
-
-	// how many approved comments does this author have?
-
-	public static function transition_comment_status($new_status, $old_status, $comment)
-	{
-
-		if ($new_status == $old_status)
-			return;
-
-		# we don't need to record a history item for deleted comments
-		if ($new_status == 'delete')
-			return;
-
-		if (!current_user_can('edit_post', $comment->comment_post_ID) && !current_user_can('moderate_comments'))
-			return;
-
-		if (defined('WP_IMPORTING') && WP_IMPORTING == true)
-			return;
-
-		// if this is present, it means the status has been changed by a re-check, not an explicit user action
-		if (get_comment_meta($comment->comment_ID, 'akismet_rechecking'))
-			return;
-
-		global $current_user;
-		$reporter = '';
-		if (is_object($current_user))
-			$reporter = $current_user->user_login;
-
-		// Assumption alert:
-		// We want to submit comments to Akismet only when a moderator explicitly spams or approves it - not if the status
-		// is changed automatically by another plugin.  Unfortunately WordPress doesn't provide an unambiguous way to
-		// determine why the transition_comment_status action was triggered.  And there are several different ways by which
-		// to spam and unspam comments: bulk actions, ajax, links in moderation emails, the dashboard, and perhaps others.
-		// We'll assume that this is an explicit user action if certain POST/GET variables exist.
-		if ((isset($_POST['status']) && in_array($_POST['status'], array('spam', 'unspam'))) ||
-			(isset($_POST['spam']) && (int)$_POST['spam'] == 1) ||
-			(isset($_POST['unspam']) && (int)$_POST['unspam'] == 1) ||
-			(isset($_POST['comment_status']) && in_array($_POST['comment_status'], array('spam', 'unspam'))) ||
-			(isset($_GET['action']) && in_array($_GET['action'], array('spam', 'unspam'))) ||
-			(isset($_POST['action']) && in_array($_POST['action'], array('editedcomment')))
-		) {
-			if ($new_status == 'spam' && ($old_status == 'approved' || $old_status == 'unapproved' || !$old_status)) {
-				return self::submit_spam_comment($comment->comment_ID);
-			} elseif ($old_status == 'spam' && ($new_status == 'approved' || $new_status == 'unapproved')) {
-				return self::submit_nonspam_comment($comment->comment_ID);
-			}
-		}
-
-		self::update_comment_history($comment->comment_ID, '', 'status-' . $new_status);
-	}
-
-	// get the full comment history for a given comment, as an array in reverse chronological order
-
-	public static function submit_spam_comment($comment_id)
-	{
-		global $wpdb, $current_user, $current_site;
-
-		$comment_id = (int)$comment_id;
-
-		$comment = $wpdb->get_row($wpdb->prepare("SELECT * FROM {$wpdb->comments} WHERE comment_ID = %d", $comment_id));
-
-		if (!$comment) // it was deleted
-			return;
-
-		if ('spam' != $comment->comment_approved)
-			return;
-
-		// use the original version stored in comment_meta if available
-		$as_submitted = self::sanitize_comment_as_submitted(get_comment_meta($comment_id, 'akismet_as_submitted', true));
-
-		if ($as_submitted && is_array($as_submitted) && isset($as_submitted['comment_content']))
-			$comment = (object)array_merge((array)$comment, $as_submitted);
-
-		$comment->blog = get_bloginfo('url');
-		$comment->blog_lang = get_locale();
-		$comment->blog_charset = get_option('blog_charset');
-		$comment->permalink = get_permalink($comment->comment_post_ID);
-
-		if (is_object($current_user))
-			$comment->reporter = $current_user->user_login;
-
-		if (is_object($current_site))
-			$comment->site_domain = $current_site->domain;
-
-		$comment->user_role = '';
-		if (isset($comment->user_ID))
-			$comment->user_role = Akismet::get_user_roles($comment->user_ID);
-
-		if (self::is_test_mode())
-			$comment->is_test = 'true';
-
-		$post = get_post($comment->comment_post_ID);
-		$comment->comment_post_modified_gmt = $post->post_modified_gmt;
-
-		$response = Akismet::http_post(Akismet::build_query($comment), 'submit-spam');
-		if ($comment->reporter) {
-			self::update_comment_history($comment_id, '', 'report-spam');
-			update_comment_meta($comment_id, 'akismet_user_result', 'true');
-			update_comment_meta($comment_id, 'akismet_user', $comment->reporter);
-		}
-
-		do_action('akismet_submit_spam_comment', $comment_id, $response[1]);
-	}
-
-	/**
-	 * Ensure that we are loading expected scalar values from akismet_as_submitted commentmeta.
+	 * This should only be run when the option is updated from the Jetpack/WP.com
+	 * API call, and only if the new key is different than the old key.
 	 *
-	 * @param mixed $meta_value
-	 * @return mixed
+	 * @param mixed $old_value The old option value.
+	 * @param mixed $value The new option value.
 	 */
-	private static function sanitize_comment_as_submitted($meta_value)
+	public static function updated_option($old_value, $value)
 	{
-		if (empty($meta_value)) {
-			return $meta_value;
+		// Not an API call
+		if (!class_exists('WPCOM_JSON_API_Update_Option_Endpoint')) {
+			return;
 		}
-
-		$meta_value = (array)$meta_value;
-
-		foreach ($meta_value as $key => $value) {
-			if (!isset(self::$comment_as_submitted_allowed_keys[$key]) || !is_scalar($value)) {
-				unset($meta_value[$key]);
-			}
+		// Only run the registration if the old key is different.
+		if ($old_value !== $value) {
+			self::verify_key($value);
 		}
-
-		return $meta_value;
 	}
 
-	public static function get_user_roles($user_id)
+	public static function verify_key($key, $ip = null)
 	{
-		$roles = false;
+		$response = self::check_key_status($key, $ip);
 
-		if (!class_exists('WP_User'))
-			return false;
+		if ($response[1] != 'valid' && $response[1] != 'invalid')
+			return 'failed';
 
-		if ($user_id > 0) {
-			$comment_user = new WP_User($user_id);
-			if (isset($comment_user->roles))
-				$roles = join(',', $comment_user->roles);
-		}
-
-		if (is_multisite() && is_super_admin($user_id)) {
-			if (empty($roles)) {
-				$roles = 'super_admin';
-			} else {
-				$comment_user->roles[] = 'super_admin';
-				$roles = join(',', $comment_user->roles);
-			}
-		}
-
-		return $roles;
+		return $response[1];
 	}
 
-	public static function is_test_mode()
+	public static function check_key_status($key, $ip = null)
 	{
-		return defined('AKISMET_TEST_MODE') && AKISMET_TEST_MODE;
+		return self::http_post(Akismet::build_query(array('key' => $key, 'blog' => get_option('home'))), 'verify-key', $ip);
 	}
 
 	/**
@@ -597,6 +272,390 @@ class Akismet
 		return _http_build_query($args, '', '&');
 	}
 
+	// this fires on wp_insert_comment.  we can't update comment_meta when auto_check_comment() runs
+	// because we don't know the comment ID at that point.
+
+	public static function get_last_comment()
+	{
+		return self::$last_comment;
+	}
+
+	public static function set_last_comment($comment)
+	{
+		if (is_null($comment)) {
+			self::$last_comment = null;
+		} else {
+			// We filter it here so that it matches the filtered comment data that we'll have to compare against later.
+			// wp_filter_comment expects comment_author_IP
+			self::$last_comment = wp_filter_comment(
+				array_merge(
+					array('comment_author_IP' => self::get_ip_address()),
+					$comment
+				)
+			);
+		}
+	}
+
+	public static function auto_check_update_meta($id, $comment)
+	{
+
+		// failsafe for old WP versions
+		if (!function_exists('add_comment_meta'))
+			return false;
+
+		if (!isset(self::$last_comment['comment_author_email']))
+			self::$last_comment['comment_author_email'] = '';
+
+		// wp_insert_comment() might be called in other contexts, so make sure this is the same comment
+		// as was checked by auto_check_comment
+		if (is_object($comment) && !empty(self::$last_comment) && is_array(self::$last_comment)) {
+			if (self::matches_last_comment($comment)) {
+
+				load_plugin_textdomain('akismet');
+
+				// normal result: true or false
+				if (self::$last_comment['akismet_result'] == 'true') {
+					update_comment_meta($comment->comment_ID, 'akismet_result', 'true');
+					self::update_comment_history($comment->comment_ID, '', 'check-spam');
+					if ($comment->comment_approved != 'spam')
+						self::update_comment_history(
+							$comment->comment_ID,
+							'',
+							'status-changed-' . $comment->comment_approved
+						);
+				} elseif (self::$last_comment['akismet_result'] == 'false') {
+					update_comment_meta($comment->comment_ID, 'akismet_result', 'false');
+					self::update_comment_history($comment->comment_ID, '', 'check-ham');
+					// Status could be spam or trash, depending on the WP version and whether this change applies:
+					// https://core.trac.wordpress.org/changeset/34726
+					if ($comment->comment_approved == 'spam' || $comment->comment_approved == 'trash') {
+						if (wp_blacklist_check($comment->comment_author, $comment->comment_author_email, $comment->comment_author_url, $comment->comment_content, $comment->comment_author_IP, $comment->comment_agent))
+							self::update_comment_history($comment->comment_ID, '', 'wp-blacklisted');
+						else
+							self::update_comment_history($comment->comment_ID, '', 'status-changed-' . $comment->comment_approved);
+					}
+				} // abnormal result: error
+				else {
+					update_comment_meta($comment->comment_ID, 'akismet_error', time());
+						self::update_comment_history(
+							$comment->comment_ID,
+							'',
+							'check-error',
+							array('response' => substr(self::$last_comment['akismet_result'], 0, 50))
+						);
+					}
+
+				// record the complete original data as submitted for checking
+				if (isset(self::$last_comment['comment_as_submitted']))
+					update_comment_meta($comment->comment_ID, 'akismet_as_submitted', self::$last_comment['comment_as_submitted']);
+
+				if (isset(self::$last_comment['akismet_pro_tip']))
+					update_comment_meta($comment->comment_ID, 'akismet_pro_tip', self::$last_comment['akismet_pro_tip']);
+			}
+		}
+	}
+
+	// how many approved comments does this author have?
+
+	public static function matches_last_comment($comment)
+	{
+		if (is_object($comment))
+			$comment = (array)$comment;
+
+		return self::comments_match(self::$last_comment, $comment);
+	}
+
+	// get the full comment history for a given comment, as an array in reverse chronological order
+
+	/**
+	 * Do these two comments, without checking the comment_ID, "match"?
+	 *
+	 * @param mixed $comment1 A comment object or array.
+	 * @param mixed $comment2 A comment object or array.
+	 * @return bool Whether the two comments should be treated as the same comment.
+	 */
+	private static function comments_match($comment1, $comment2)
+	{
+		$comment1 = (array)$comment1;
+		$comment2 = (array)$comment2;
+
+		$comments_match = (
+			isset($comment1['comment_post_ID'], $comment2['comment_post_ID'])
+			&& intval($comment1['comment_post_ID']) == intval($comment2['comment_post_ID'])
+			&& (
+				// The comment author length max is 255 characters, limited by the TINYTEXT column type.
+				// If the comment author includes multibyte characters right around the 255-byte mark, they
+				// may be stripped when the author is saved in the DB, so a 300+ char author may turn into
+				// a 253-char author when it's saved, not 255 exactly.  The longest possible character is
+				// theoretically 6 bytes, so we'll only look at the first 248 bytes to be safe.
+				substr($comment1['comment_author'], 0, 248) == substr($comment2['comment_author'], 0, 248)
+				|| substr(stripslashes($comment1['comment_author']), 0, 248) == substr($comment2['comment_author'], 0, 248)
+				|| substr($comment1['comment_author'], 0, 248) == substr(stripslashes($comment2['comment_author']), 0, 248)
+				// Certain long comment author names will be truncated to nothing, depending on their encoding.
+				|| (!$comment1['comment_author'] && strlen($comment2['comment_author']) > 248)
+				|| (!$comment2['comment_author'] && strlen($comment1['comment_author']) > 248)
+			)
+			&& (
+				// The email max length is 100 characters, limited by the VARCHAR(100) column type.
+				// Same argument as above for only looking at the first 93 characters.
+				substr($comment1['comment_author_email'], 0, 93) == substr($comment2['comment_author_email'], 0, 93)
+				|| substr(stripslashes($comment1['comment_author_email']), 0, 93) == substr($comment2['comment_author_email'], 0, 93)
+				|| substr($comment1['comment_author_email'], 0, 93) == substr(stripslashes($comment2['comment_author_email']), 0, 93)
+				// Very long emails can be truncated and then stripped if the [0:100] substring isn't a valid address.
+				|| (!$comment1['comment_author_email'] && strlen($comment2['comment_author_email']) > 100)
+				|| (!$comment2['comment_author_email'] && strlen($comment1['comment_author_email']) > 100)
+			)
+		);
+
+		return $comments_match;
+	}
+
+	/**
+	 * Log an event for a given comment, storing it in comment_meta.
+	 *
+	 * @param int $comment_id The ID of the relevant comment.
+	 * @param string $message The string description of the event. No longer used.
+	 * @param string $event The event code.
+	 * @param array $meta Metadata about the history entry. e.g., the user that reported or changed the status of a given comment.
+	 */
+	public static function update_comment_history($comment_id, $message, $event = null, $meta = null)
+	{
+		global $current_user;
+
+		// failsafe for old WP versions
+		if (!function_exists('add_comment_meta'))
+			return false;
+
+		$user = '';
+
+		$event = array(
+			'time' => self::_get_microtime(),
+			'event' => $event,
+		);
+
+		if (is_object($current_user) && isset($current_user->user_login)) {
+			$event['user'] = $current_user->user_login;
+		}
+
+		if (!empty($meta)) {
+			$event['meta'] = $meta;
+		}
+
+		// $unique = false so as to allow multiple values per comment
+		$r = add_comment_meta($comment_id, 'akismet_history', $event, false);
+	}
+
+	public static function _get_microtime()
+	{
+		$mtime = explode(' ', microtime());
+		return $mtime[1] + $mtime[0];
+	}
+
+	public static function delete_old_comments_meta()
+	{
+		global $wpdb;
+
+		$interval = apply_filters('akismet_delete_commentmeta_interval', 15);
+
+		# enfore a minimum of 1 day
+		$interval = absint($interval);
+		if ($interval < 1)
+			$interval = 1;
+
+		// akismet_as_submitted meta values are large, so expire them
+		// after $interval days regardless of the comment status
+		while ($comment_ids = $wpdb->get_col($wpdb->prepare("SELECT m.comment_id FROM {$wpdb->commentmeta} as m INNER JOIN {$wpdb->comments} as c USING(comment_id) WHERE m.meta_key = 'akismet_as_submitted' AND DATE_SUB(NOW(), INTERVAL %d DAY) > c.comment_date_gmt LIMIT 10000", $interval))) {
+			if (empty($comment_ids))
+				return;
+
+			$wpdb->queries = array();
+
+			foreach ($comment_ids as $comment_id) {
+				delete_comment_meta($comment_id, 'akismet_as_submitted');
+			}
+		}
+
+		if (apply_filters('akismet_optimize_table', (mt_rand(1, 5000) == 11), $wpdb->commentmeta)) // lucky number
+			$wpdb->query("OPTIMIZE TABLE {$wpdb->commentmeta}");
+	}
+
+	public static function get_user_comments_approved($user_id, $comment_author_email, $comment_author, $comment_author_url)
+	{
+		global $wpdb;
+
+		if (!empty($user_id))
+			return (int)$wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM {$wpdb->comments} WHERE user_id = %d AND comment_approved = 1", $user_id));
+
+		if (!empty($comment_author_email))
+			return (int)$wpdb->get_var($wpdb->prepare("SELECT COUNT(*) FROM {$wpdb->comments} WHERE comment_author_email = %s AND comment_author = %s AND comment_author_url = %s AND comment_approved = 1", $comment_author_email, $comment_author, $comment_author_url));
+
+		return 0;
+	}
+
+	public static function get_comment_history($comment_id)
+	{
+
+		// failsafe for old WP versions
+		if (!function_exists('add_comment_meta'))
+			return false;
+
+		$history = get_comment_meta($comment_id, 'akismet_history', false);
+		usort($history, array('Akismet', '_cmp_time'));
+		return $history;
+	}
+
+	public static function transition_comment_status($new_status, $old_status, $comment)
+	{
+
+		if ($new_status == $old_status)
+			return;
+
+		# we don't need to record a history item for deleted comments
+		if ($new_status == 'delete')
+			return;
+
+		if (!current_user_can('edit_post', $comment->comment_post_ID) && !current_user_can('moderate_comments'))
+			return;
+
+		if (defined('WP_IMPORTING') && WP_IMPORTING == true)
+			return;
+
+		// if this is present, it means the status has been changed by a re-check, not an explicit user action
+		if (get_comment_meta($comment->comment_ID, 'akismet_rechecking'))
+			return;
+
+		global $current_user;
+		$reporter = '';
+		if (is_object($current_user))
+			$reporter = $current_user->user_login;
+
+		// Assumption alert:
+		// We want to submit comments to Akismet only when a moderator explicitly spams or approves it - not if the status
+		// is changed automatically by another plugin.  Unfortunately WordPress doesn't provide an unambiguous way to
+		// determine why the transition_comment_status action was triggered.  And there are several different ways by which
+		// to spam and unspam comments: bulk actions, ajax, links in moderation emails, the dashboard, and perhaps others.
+		// We'll assume that this is an explicit user action if certain POST/GET variables exist.
+		if ((isset($_POST['status']) && in_array($_POST['status'], array('spam', 'unspam'))) ||
+			(isset($_POST['spam']) && (int)$_POST['spam'] == 1) ||
+			(isset($_POST['unspam']) && (int)$_POST['unspam'] == 1) ||
+			(isset($_POST['comment_status']) && in_array($_POST['comment_status'], array('spam', 'unspam'))) ||
+			(isset($_GET['action']) && in_array($_GET['action'], array('spam', 'unspam'))) ||
+			(isset($_POST['action']) && in_array($_POST['action'], array('editedcomment')))
+		) {
+			if ($new_status == 'spam' && ($old_status == 'approved' || $old_status == 'unapproved' || !$old_status)) {
+				return self::submit_spam_comment($comment->comment_ID);
+			} elseif ($old_status == 'spam' && ($new_status == 'approved' || $new_status == 'unapproved')) {
+				return self::submit_nonspam_comment($comment->comment_ID);
+			}
+		}
+
+		self::update_comment_history($comment->comment_ID, '', 'status-' . $new_status);
+	}
+
+	public static function submit_spam_comment($comment_id)
+	{
+		global $wpdb, $current_user, $current_site;
+
+		$comment_id = (int)$comment_id;
+
+		$comment = $wpdb->get_row($wpdb->prepare("SELECT * FROM {$wpdb->comments} WHERE comment_ID = %d", $comment_id));
+
+		if (!$comment) // it was deleted
+			return;
+
+		if ('spam' != $comment->comment_approved)
+			return;
+
+		// use the original version stored in comment_meta if available
+		$as_submitted = self::sanitize_comment_as_submitted(get_comment_meta($comment_id, 'akismet_as_submitted', true));
+
+		if ($as_submitted && is_array($as_submitted) && isset($as_submitted['comment_content']))
+			$comment = (object)array_merge((array)$comment, $as_submitted);
+
+		$comment->blog = get_bloginfo('url');
+		$comment->blog_lang = get_locale();
+		$comment->blog_charset = get_option('blog_charset');
+		$comment->permalink = get_permalink($comment->comment_post_ID);
+
+		if (is_object($current_user))
+			$comment->reporter = $current_user->user_login;
+
+		if (is_object($current_site))
+			$comment->site_domain = $current_site->domain;
+
+		$comment->user_role = '';
+		if (isset($comment->user_ID))
+			$comment->user_role = Akismet::get_user_roles($comment->user_ID);
+
+		if (self::is_test_mode())
+			$comment->is_test = 'true';
+
+		$post = get_post($comment->comment_post_ID);
+		$comment->comment_post_modified_gmt = $post->post_modified_gmt;
+
+		$response = Akismet::http_post(Akismet::build_query($comment), 'submit-spam');
+		if ($comment->reporter) {
+			self::update_comment_history($comment_id, '', 'report-spam');
+			update_comment_meta($comment_id, 'akismet_user_result', 'true');
+			update_comment_meta($comment_id, 'akismet_user', $comment->reporter);
+		}
+
+		do_action('akismet_submit_spam_comment', $comment_id, $response[1]);
+	}
+
+	/**
+	 * Ensure that we are loading expected scalar values from akismet_as_submitted commentmeta.
+	 *
+	 * @param mixed $meta_value
+	 * @return mixed
+	 */
+	private static function sanitize_comment_as_submitted($meta_value)
+	{
+		if (empty($meta_value)) {
+			return $meta_value;
+		}
+
+		$meta_value = (array)$meta_value;
+
+		foreach ($meta_value as $key => $value) {
+			if (!isset(self::$comment_as_submitted_allowed_keys[$key]) || !is_scalar($value)) {
+				unset($meta_value[$key]);
+			}
+		}
+
+		return $meta_value;
+	}
+
+	public static function get_user_roles($user_id)
+	{
+		$roles = false;
+
+		if (!class_exists('WP_User'))
+			return false;
+
+		if ($user_id > 0) {
+			$comment_user = new WP_User($user_id);
+			if (isset($comment_user->roles))
+				$roles = join(',', $comment_user->roles);
+		}
+
+		if (is_multisite() && is_super_admin($user_id)) {
+			if (empty($roles)) {
+				$roles = 'super_admin';
+			} else {
+				$comment_user->roles[] = 'super_admin';
+				$roles = join(',', $comment_user->roles);
+			}
+		}
+
+		return $roles;
+	}
+
+	public static function is_test_mode()
+	{
+		return defined('AKISMET_TEST_MODE') && AKISMET_TEST_MODE;
+	}
+
 	public static function submit_nonspam_comment($comment_id)
 	{
 		global $wpdb, $current_user, $current_site;
@@ -727,21 +786,6 @@ class Akismet
 			wp_schedule_single_event(time() + 1200, 'akismet_schedule_cron_recheck');
 			do_action('akismet_scheduled_recheck', 'remaining');
 		}
-	}
-
-	public static function verify_key($key, $ip = null)
-	{
-		$response = self::check_key_status($key, $ip);
-
-		if ($response[1] != 'valid' && $response[1] != 'invalid')
-			return 'failed';
-
-		return $response[1];
-	}
-
-	public static function check_key_status($key, $ip = null)
-	{
-		return self::http_post(Akismet::build_query(array('key' => $key, 'blog' => get_option('home'))), 'verify-key', $ip);
 	}
 
 	// Does the supplied comment match the details of the one most recently stored in self::$last_comment?
@@ -997,7 +1041,7 @@ class Akismet
 		// Add X-Pingback-Forwarded-For header, but only for requests to a specific URL (the apparent pingback source)
 		if (is_array($r) && is_array($r['headers']) && !isset($r['headers']['X-Pingback-Forwarded-For']) && in_array($url, $urls)) {
 			$remote_ip = preg_replace('/[^a-fx0-9:.,]/i', '', $_SERVER['REMOTE_ADDR']);
-
+		
 			// Note: this assumes REMOTE_ADDR is correct, and it may not be if a reverse proxy or CDN is in use
 			$r['headers']['X-Pingback-Forwarded-For'] = $remote_ip;
 
@@ -1058,7 +1102,7 @@ class Akismet
 
 			// Send any potentially useful $_SERVER vars, but avoid sending junk we don't need.
 			if (preg_match("/^(HTTP_|REMOTE_ADDR|REQUEST_URI|DOCUMENT_URI)/", $key)) {
-				$form["$key"] = $value;
+				$comment["$key"] = $value;
 			}
 		}
 
