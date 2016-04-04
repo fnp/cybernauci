@@ -57,7 +57,6 @@ window.onload = function () {
             });
         },
         szkoly = function (miejscowosc_id) {
-            var typSzkoly = [];
             jQuery.ajax({
                 url: "/wp-content/themes/cybernauci/json/szkoly/" + miejscowosc_id + ".json",
                 success: function (res) {
@@ -70,13 +69,6 @@ window.onload = function () {
                                 'data-numer': res[i].numer,
                                 'data-kod': res[i].kod
                             }).text(res[i].nazwa)
-                        );
-                        if (jQuery.inArray(res[i].typ, typSzkoly) == -1) typSzkoly.push(res[i].typ);
-                    }
-                    jQuery.unique(typSzkoly);
-                    for (var i = 0; i < typSzkoly.length; i++) {
-                        typSzkolyList.append(
-                            jQuery('<option></option>').attr('value', typSzkoly[i]).text(typSzkoly[i])
                         );
                     }
                     nazwaSzkolyList.on('change', function (e) {
@@ -94,7 +86,7 @@ window.onload = function () {
                             nazwaSzkolyList.find('option').show();
                         } else {
                             nazwaSzkolyList.find('option').filter(function (itm) {
-                                if (itm.attr('data-typ') == typ) {
+                                if (itm.attr('data-typ').toLowerCase() == typ.toLowerCase()) {
                                     itm.show();
                                 } else {
                                     itm.hide();
