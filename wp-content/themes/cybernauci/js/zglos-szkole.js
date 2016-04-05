@@ -10,11 +10,6 @@ window.onload = function () {
                 return val;
             }
         })[0]).parent(),
-        typSzkolyList = jQuery(jQuery.map(main.find('select option'), function (val) {
-            if (val.text == "Wybierz typ szkoły *") {
-                return val;
-            }
-        })[0]).parent(),
         nazwaSzkolyList = jQuery(jQuery.map(main.find('select option'), function (val) {
             if (val.text == "Nazwa szkoły *") {
                 return val;
@@ -34,13 +29,19 @@ window.onload = function () {
                 success: function (res) {
                     for (var i = 0; i < res.length; i++) {
                         wojewodztwoList.append(
-                            jQuery('<option></option>').attr('value', res[i].id).text(res[i].nazwa)
+                            jQuery('<option></option>').attr({
+                                'data-id': res[i].id,
+                                'value': res[i].nazwa
+                            }).text(res[i].nazwa)
                         )
                     }
                     wojewodztwoList.on('change', function (e) {
+                        var id = jQuery("option:selected", this).attr('data-id');
+
                         clearMiejscowosc();
                         clearSzkoly();
-                        miejscowosc(this.value);
+                        main.find('.hidden_wojewodztwo_id').val(id);
+                        miejscowosc(id);
                     })
                 }
             });
@@ -51,12 +52,18 @@ window.onload = function () {
                 success: function (res) {
                     for (var i = 0; i < res.length; i++) {
                         miejscowoscList.append(
-                            jQuery('<option></option>').attr('value', res[i].id).text(res[i].nazwa)
+                            jQuery('<option></option>').attr({
+                                'data-id': res[i].id,
+                                'value': res[i].nazwa
+                            }).text(res[i].nazwa)
                         )
                     }
                     miejscowoscList.on('change', function (e) {
+                        var id = jQuery("option:selected", this).attr('data-id');
+
                         clearSzkoly();
-                        szkoly(this.value);
+                        main.find('.hidden_miejscowosc_id').val(id);
+                        szkoly(id);
                     })
                 }
             });
@@ -68,7 +75,8 @@ window.onload = function () {
                     for (var i = 0; i < res.length; i++) {
                         nazwaSzkolyList.append(
                             jQuery('<option></option>').attr({
-                                'value': res[i].id,
+                                'value': res[i].nazwa,
+                                'data-id': res[i].id,
                                 'data-typ': res[i].typ,
                                 'data-ulica': res[i].ulica,
                                 'data-numer': res[i].numer,
@@ -83,28 +91,13 @@ window.onload = function () {
                         if (this.value == '' && szkola.text() == '(Szkoła z poza listy)') {
                             szkolaAddNew.modal('show')
                         } else {
-                            typSzkolyList.val(szkola.attr('data-typ'));
+                            jQuery('.hidden_szkola_id').val(szkola.attr('data-id'));
                             szkolaUlica.val(szkola.attr('data-ulica'));
                             szkolaNumer.val(szkola.attr('data-numer'));
                             szkolaKod.val(szkola.attr('data-kod'));
                             szkolaPoczta.val(szkola.attr('data-poczta'));
                         }
                     });
-                    typSzkolyList.on('change', function (e) {
-                        var typ = this.value;
-
-                        if (typ == "") {
-                            nazwaSzkolyList.find('option').show();
-                        } else {
-                            nazwaSzkolyList.find('option').filter(function (itm) {
-                                if (itm.attr('data-typ').toLowerCase() == typ.toLowerCase()) {
-                                    itm.show();
-                                } else {
-                                    itm.hide();
-                                }
-                            });
-                        }
-                    })
                 }
             });
         },
@@ -116,11 +109,6 @@ window.onload = function () {
             })
         },
         clearSzkoly = function () {
-            jQuery.each(typSzkolyList.find('options'), function () {
-                if (jQuery(this).attr('value').length !== 0) {
-                    jQuery(this).remove();
-                }
-            });
             jQuery.each(nazwaSzkolyList.find('options'), function () {
                 if (jQuery(this).attr('value').length !== 0) {
                     jQuery(this).remove();
@@ -143,7 +131,6 @@ window.onload = function () {
         });
         if (nazwaSzkolyList.find('.option[value="' + modalSerial.newSzkolaNazwa + '"]').length == 0) {
             nazwaSzkolyList.append($('<option>').attr({
-                    'data-typ': typSzkolyList.find('option:selected').val(),
                     'data-ulica': modalSerial.newSzkolaUlica,
                     'data-numer': modalSerial.newSzkolaNumer,
                     'data-kod': modalSerial.newSzkolaKodPocztowy,
