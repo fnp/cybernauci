@@ -41,6 +41,7 @@ window.onload = function () {
                         clearMiejscowosc();
                         clearSzkoly();
                         main.find('.hidden_wojewodztwo_id').val(id);
+                        console.log(id, main.find('.hidden_wojewodztwo_id').val());
                         miejscowosc(id);
                     })
                 }
@@ -63,6 +64,7 @@ window.onload = function () {
 
                         clearSzkoly();
                         main.find('.hidden_miejscowosc_id').val(id);
+                        console.log(id, main.find('.hidden_miejscowosc_id').val());
                         szkoly(id);
                     })
                 }
@@ -91,7 +93,8 @@ window.onload = function () {
                         if (this.value == '' && szkola.text() == '(Szkoła z poza listy)') {
                             szkolaAddNew.modal('show')
                         } else {
-                            jQuery('.hidden_szkola_id').val(szkola.attr('data-id'));
+                            main.find('.hidden_szkola_id').val(szkola.attr('data-id'));
+                            console.log(szkola.attr('data-id'), main.find('.hidden_szkola_id').val());
                             szkolaUlica.val(szkola.attr('data-ulica'));
                             szkolaNumer.val(szkola.attr('data-numer'));
                             szkolaKod.val(szkola.attr('data-kod'));
