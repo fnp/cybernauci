@@ -27,6 +27,59 @@
         </div>
     </div>
 
+    <div class="modal fade" id="szkolaAddNew" tabindex="-1" role="dialog" aria-labelledby="szkolaAddNewLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="szkolaAddNewLabel">Nowa szkoła</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaNazwa">Nazwa szkoły *</label>
+                        <input type="text" class="form-control" id="newSzkolaNazwa" placeholder="Nazwa szkoły *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaUlica">Ulica *</label>
+                        <input type="text" class="form-control" id="newSzkolaUlica" placeholder="Ulica *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaNumer">Numer *</label>
+                        <input type="text" class="form-control" id="newSzkolaNumer" placeholder="Numer *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaKodPocztowy">Kod pocztowy *</label>
+                        <input type="text" class="form-control" id="newSzkolaKodPocztowy" placeholder="Kod pocztowy *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaPoczta">Poczta *</label>
+                        <input type="text" class="form-control" id="newSzkolaPoczta" placeholder="Poczta *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaEmail">Adres e-mail szkoły *</label>
+                        <input type="text" class="form-control" id="newSzkolaEmail" placeholder="Adres e-mail szkoły *"
+                               required="required">
+                    </div>
+                    <div class="form-group">
+                        <label class="sr-only" for="newSzkolaPhone">Numer telefonu do szkoły *</label>
+                        <input type="text" class="form-control" id="newSzkolaPhone"
+                               placeholder="Numer telefonu do szkoły *" required="required">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
+                    <button type="button" class="btn btn-primary">Dodaj szkołę</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="<?php bloginfo('template_directory'); ?>/js/zglos-szkole.js"></script>
 
 <?php get_footer(); ?>

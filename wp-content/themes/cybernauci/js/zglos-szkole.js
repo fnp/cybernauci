@@ -24,6 +24,9 @@ window.onload = function () {
         szkolaNumer = main.find('input[value="Numer"]:visible'),
         szkolaKod = main.find('input[value="Kod pocztowy *"]:visible'),
         szkolaPoczta = main.find('input[value="Poczta *"]:visible'),
+        szkolaEmail = main.find('input[value="Adres e-mail szkoły *"]:visible'),
+        szkolaPhone = main.find('input[value="Numer telefonu do szkoły *"]:visible'),
+        szkolaAddNew = main.find('#szkolaAddNew'),
 
         wojewodztwo = function () {
             jQuery.ajax({
@@ -77,11 +80,15 @@ window.onload = function () {
                     nazwaSzkolyList.on('change', function (e) {
                         var szkola = jQuery("option:selected", this);
 
-                        typSzkolyList.val(szkola.attr('data-typ'));
-                        szkolaUlica.val(szkola.attr('data-ulica'));
-                        szkolaNumer.val(szkola.attr('data-numer'));
-                        szkolaKod.val(szkola.attr('data-kod'));
-                        szkolaPoczta.val(szkola.attr('data-poczta'));
+                        if (this.value == 'inna') {
+                            szkolaAddNew.modal('show')
+                        } else {
+                            typSzkolyList.val(szkola.attr('data-typ'));
+                            szkolaUlica.val(szkola.attr('data-ulica'));
+                            szkolaNumer.val(szkola.attr('data-numer'));
+                            szkolaKod.val(szkola.attr('data-kod'));
+                            szkolaPoczta.val(szkola.attr('data-poczta'));
+                        }
                     });
                     typSzkolyList.on('change', function (e) {
                         var typ = this.value;
@@ -122,6 +129,38 @@ window.onload = function () {
             szkolaUlica.val('Ulica *');
             szkolaNumer.val('Numer');
             szkolaKod.val('Kod pocztowy *');
+            szkolaPoczta.val('Poczta *');
         };
+
+    szkolaAddNew.find('.modal-footer .btn-primary').unbind('click').click(function (e) {
+        e.preventDefault();
+
+        var modalSerial = {};
+        szkolaAddNew.find('input').map(function (key, item) {
+            var n = item.id,
+                v = item.value;
+            modalSerial[n] = v;
+        });
+        if (nazwaSzkolyList.find('.option[value="' + modalSerial.newSzkolaNazwa + '"]').length == 0) {
+            nazwaSzkolyList.append($('<option>').attr({
+                    'data-typ': typSzkolyList.find('option:selected').val(),
+                    'data-ulica': modalSerial.newSzkolaUlica,
+                    'data-numer': modalSerial.newSzkolaNumer,
+                    'data-kod': modalSerial.newSzkolaKodPocztowy,
+                    'data-poczta': modalSerial.newSzkolaPoczta,
+                    'selected': 'selected'
+                }).val(modalSerial.newSzkolaNazwa).text(modalSerial.newSzkolaNazwa)
+            );
+            szkolaUlica.val(modalSerial.newSzkolaUlica);
+            szkolaNumer.val(modalSerial.newSzkolaNumer);
+            szkolaKod.val(modalSerial.newSzkolaKodPocztowy);
+            szkolaPoczta.val(modalSerial.newSzkolaPoczta);
+            szkolaEmail.val(modalSerial.newSzkolaEmail);
+            szkolaPhone.val(modalSerial.newSzkola);
+
+            szkolaAddNew.modal('hide');
+        }
+    });
+
     wojewodztwo();
 };
