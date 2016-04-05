@@ -80,7 +80,7 @@ window.onload = function () {
                     nazwaSzkolyList.on('change', function (e) {
                         var szkola = jQuery("option:selected", this);
 
-                        if (this.value == '(Szkoła z poza listy)') {
+                        if (this.value == '' && szkola.text() == '(Szkoła z poza listy)') {
                             szkolaAddNew.modal('show')
                         } else {
                             typSzkolyList.val(szkola.attr('data-typ'));
