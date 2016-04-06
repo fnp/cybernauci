@@ -45,6 +45,8 @@ window.onload = function () {
 
                         clearMiejscowosc();
                         clearSzkoly();
+                        main.find('.hidden_wojewodztwo_id').val(select.attr('data-id'));
+                        main.find('.hidden_wojewodztwo_nazwa').val(select.val());
                         miejscowosc(id);
                     })
                 }
@@ -63,11 +65,12 @@ window.onload = function () {
                         )
                     }
                     miejscowoscList.on('change', function (e) {
-                        var id = jQuery("option:selected", this).attr('data-id');
+                        var select = jQuery("option:selected", this);
 
                         clearSzkoly();
-                        main.find('.hidden_miejscowosc_id').val(id);
-                        szkoly(id);
+                        main.find('.hidden_miejscowosc_id').val(select.attr('data-id'));
+                        main.find('.hidden_miejscowosc_nazwa').val(select.val());
+                        szkoly(select.attr('data-id'));
                     })
                 }
             });
