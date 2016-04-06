@@ -157,5 +157,9 @@ window.onload = function () {
         }
     });
 
+    main.find('select').each(function () {
+        jQuery(this).find('option:first').attr('selected', 'selected');
+    });
+
     wojewodztwo();
 };
