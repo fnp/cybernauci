@@ -10,6 +10,11 @@ window.onload = function () {
                 return val;
             }
         })[0]).parent(),
+        nazwaSzkolyTyp = jQuery(jQuery.map(main.find('select option'), function (val) {
+            if (val.text == "Wybierz typ szkoły *") {
+                return val;
+            }
+        })[0]).parent(),
         nazwaSzkolyList = jQuery(jQuery.map(main.find('select option'), function (val) {
             if (val.text == "Nazwa szkoły *") {
                 return val;
@@ -40,7 +45,6 @@ window.onload = function () {
 
                         clearMiejscowosc();
                         clearSzkoly();
-                        console.log(id, main.find('.hidden_wojewodztwo_id').val());
                         miejscowosc(id);
                     })
                 }
@@ -92,10 +96,11 @@ window.onload = function () {
                             szkolaAddNew.modal('show')
                         } else {
                             main.find('.hidden_szkola_id').val(szkola.attr('data-id'));
-                            szkolaUlica.val(szkola.attr('data-ulica'));
-                            szkolaNumer.val(szkola.attr('data-numer'));
-                            szkolaKod.val(szkola.attr('data-kod'));
-                            szkolaPoczta.val(szkola.attr('data-poczta'));
+                            if (szkola.attr('data-ulica').length) szkolaUlica.val(szkola.attr('data-ulica'));
+                            if (szkola.attr('data-numer').length) szkolaNumer.val(szkola.attr('data-numer'));
+                            if (szkola.attr('data-kod').length) szkolaKod.val(szkola.attr('data-kod'));
+                            if (szkola.attr('data-poczta').length) szkolaPoczta.val(szkola.attr('data-poczta'));
+                            if (szkola.attr('data-typ').length) nazwaSzkolyTyp.find('option[value="' + szkola.attr('data-typ') + '"]').selected();
                         }
                     });
                 }
@@ -146,12 +151,11 @@ window.onload = function () {
                     'selected': 'selected'
                 }).val(modalSerial.newSzkolaNazwa).text(modalSerial.newSzkolaNazwa)
             );
-            szkolaUlica.val(modalSerial.newSzkolaUlica);
-            szkolaNumer.val(modalSerial.newSzkolaNumer);
-            szkolaKod.val(modalSerial.newSzkolaKodPocztowy);
-            szkolaPoczta.val(modalSerial.newSzkolaPoczta);
-            szkolaEmail.val(modalSerial.newSzkolaEmail);
-            szkolaPhone.val(modalSerial.newSzkola);
+            if (modalSerial.newSzkolaUlica.length) szkolaUlica.val(modalSerial.newSzkolaUlica);
+            if (modalSerial.newSzkolaNumer.length) szkolaNumer.val(modalSerial.newSzkolaNumer);
+            if (modalSerial.newSzkolaKodPocztowy.length) szkolaKod.val(modalSerial.newSzkolaKodPocztowy);
+            if (modalSerial.newSzkolaPoczta.length) szkolaPoczta.val(modalSerial.newSzkolaPoczta);
+            if (modalSerial.newSzkolaEmail.length) szkolaEmail.val(modalSerial.newSzkolaEmail);
 
             szkolaAddNew.modal('hide');
         }
