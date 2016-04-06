@@ -21,7 +21,7 @@ window.onload = function () {
         szkolaPoczta = main.find('input[value="Poczta *"]:visible'),
         szkolaEmail = main.find('input[value="Adres e-mail szkoły *"]:visible'),
         szkolaPhone = main.find('input[value="Numer telefonu do szkoły *"]:visible'),
-        szkolaAddNew = main.find('#szkolaAddNew'),
+        szkolaAddNew = jQuery('#szkolaAddNew'),
 
         wojewodztwo = function () {
             jQuery.ajax({
@@ -85,10 +85,10 @@ window.onload = function () {
                             }).text(res[i].nazwa)
                         );
                     }
-                    nazwaSzkolyList.on('change', function (e) {
+                    nazwaSzkolyList.off('change').on('change', function (e) {
                         var szkola = jQuery("option:selected", this);
 
-                        if (this.value == '' && szkola.text() == '(Szkoła z poza listy)') {
+                        if (this.value == '' && szkola.text().indexOf('z poza listy)') >= 0) {
                             szkolaAddNew.modal('show')
                         } else {
                             main.find('.hidden_szkola_id').val(szkola.attr('data-id'));
@@ -120,7 +120,15 @@ window.onload = function () {
             szkolaPoczta.val('Poczta *');
         };
 
-    szkolaAddNew.find('.modal-footer .btn-primary').unbind('click').click(function (e) {
+    nazwaSzkolyList.on('change', function (e) {
+        var szkola = jQuery("option:selected", this);
+
+        if (this.value == '' && szkola.text().indexOf('z poza listy)') >= 0) {
+            szkolaAddNew.modal('show')
+        }
+    });
+
+    szkolaAddNew.find('.modal-footer .btn-primary').click(function (e) {
         e.preventDefault();
 
         var modalSerial = {};
@@ -130,7 +138,7 @@ window.onload = function () {
             modalSerial[n] = v;
         });
         if (nazwaSzkolyList.find('.option[value="' + modalSerial.newSzkolaNazwa + '"]').length == 0) {
-            nazwaSzkolyList.append($('<option>').attr({
+            nazwaSzkolyList.append(jQuery('<option>').attr({
                     'data-ulica': modalSerial.newSzkolaUlica,
                     'data-numer': modalSerial.newSzkolaNumer,
                     'data-kod': modalSerial.newSzkolaKodPocztowy,
