@@ -1,157 +1,154 @@
-jQuery(document).ready(function ($) {
+jQuery(document).ready(function($) {
 
-    $('.nf-upgrade-complete').nfAdminModal({
-        title: nfUpgradeHandler.nf_upgrade_complete_title,
-        buttons: '.nf-upgrade-complete-buttons'
-    });
+    $( '.nf-upgrade-complete' ).nfAdminModal( { title: nfUpgradeHandler.nf_upgrade_complete_title, buttons: '.nf-upgrade-complete-buttons' } );
 
-    function UpgradeHandler(upgrade) {
+    function UpgradeHandler( upgrade ) {
 
         this.upgrade = upgrade;
 
-        this.process = function (step, total_steps, args) {
+        this.process = function( step, total_steps, args ) {
 
             step = typeof step !== 'undefined' ? step : 0;
             total_step = typeof total_step !== 'undefined' ? total_step : 0;
             args = typeof args !== 'undefined' ? args : [];
 
-            console.log('Upgrade: ' + this.upgrade);
+            console.log( 'Upgrade: ' + this.upgrade );
 
             $.post(
                 ajaxurl,
                 {
                     upgrade: this.upgrade,
-                    step: parseInt(step),
-                    total_steps: parseInt(total_steps),
+                    step: parseInt( step ),
+                    total_steps: parseInt( total_steps ),
                     args: args,
                     action: 'nf_upgrade_handler'
                 },
                 function (response) {
 
-                    var elem = $('#nf_upgrade_' + upgradeHandler.upgrade);
+                    var elem = $( '#nf_upgrade_' + upgradeHandler.upgrade );
 
                     try {
                         response = $.parseJSON(response);
-                    } catch (e) {
+                    } catch( e ) {
 
                         // TODO: move error display to Upgrade object
 
-                        elem.find('.spinner').css('display', 'none').css('visibility', 'hidden');
+                        elem.find( '.spinner' ).css( 'display', 'none' ).css( 'visibility', 'hidden' );
 
-                        elem.find('.dashicons-no').css('display', 'block');
+                        elem.find( '.dashicons-no' ).css( 'display', 'block' );
 
-                        elem.find('.nf-upgrade-handler__errors__text').html('Bad Response :\'(<br/>' + e + "<br />" + response);
-                        elem.find('.nf-upgrade-handler__errors').slideDown();
+                        elem.find( '.nf-upgrade-handler__errors__text').html('Bad Response :\'(<br/>' + e + "<br />" + response );
+                        elem.find( '.nf-upgrade-handler__errors').slideDown();
 
                         return;
                     }
 
-                    console.log('DEBUG: NF_UpgradeHandler step response: ');
-                    console.log(response);
+                    console.log( 'DEBUG: NF_UpgradeHandler step response: ');
+                    console.log( response );
 
-                    if (undefined == response) {
+                    if( undefined == response ) {
 
                         // TODO: move error display to Upgrade object
 
-                        elem.find('.spinner').css('display', 'none').css('visibility', 'hidden');
+                        elem.find( '.spinner' ).css( 'display', 'none' ).css( 'visibility', 'hidden' );
 
-                        elem.find('.dashicons-no').css('display', 'block');
+                        elem.find( '.dashicons-no' ).css( 'display', 'block' );
 
-                        elem.find('.nf-upgrade-handler__errors__text').html('Empty Response :\'(');
-                        elem.find('.nf-upgrade-handler__errors').slideDown();
+                        elem.find( '.nf-upgrade-handler__errors__text').html('Empty Response :\'(');
+                        elem.find( '.nf-upgrade-handler__errors').slideDown();
 
                         return;
                     }
 
-                    if (response.errors) {
+                    if( response.errors ) {
                         // TODO: move error display to Upgrade object
-                        elem.find('.spinner').css('display', 'none').css('visibility', 'hidden');
+                        elem.find( '.spinner' ).css( 'display', 'none' ).css( 'visibility', 'hidden' );
 
-                        elem.find('.dashicons-no').css('display', 'block');
+                        elem.find( '.dashicons-no' ).css( 'display', 'block' );
 
                         var error_text = '';
 
-                        $.each(response.errors, function (index, error) {
+                        $.each( response.errors, function( index, error ) {
                             error_text = error_text + '[' + index + '] ' + error + '<br />';
                         });
 
-                        elem.find('.nf-upgrade-handler__errors__text').html('Processing Error :\'(<br />' + error_text);
-                        elem.find('.nf-upgrade-handler__errors').slideDown();
+                        elem.find( '.nf-upgrade-handler__errors__text').html('Processing Error :\'(<br />' + error_text );
+                        elem.find( '.nf-upgrade-handler__errors').slideDown();
 
-                        $('#progressbar_' + response.upgrade).slideUp();
+                        $( '#progressbar_' + response.upgrade).slideUp();
 
                         return;
                     }
 
-                    var progressbar = $('#progressbar_' + response.upgrade).progressbar({
+                    var progressbar = $( '#progressbar_' + response.upgrade ).progressbar({
                         value: 100 * ( response.step / response.total_steps )
                     });
 
                     //TODO: move animations to Upgrade object
-                    elem.find('.spinner').css('display', 'block').css('visibility', 'visible');
+                    elem.find( '.spinner' ).css( 'display', 'block' ).css( 'visibility', 'visible' );
 
-                    elem.find('.dashicons-no').css('display', 'none');
+                    elem.find( '.dashicons-no' ).css( 'display', 'none' );
 
-                    elem.find('.inside').slideDown();
+                    elem.find( '.inside') .slideDown();
 
-                    if (undefined != response.complete) {
+                    if ( undefined != response.complete ) {
 
                         //TODO: move animations to Upgrade object
-                        elem.find('.inside').slideUp();
+                        elem.find( '.inside' ).slideUp();
 
-                        elem.find('.spinner').css('display', 'none').css('visibility', 'hidden');
+                        elem.find( '.spinner' ).css( 'display', 'none' ).css( 'visibility', 'hidden' );
 
-                        elem.find('.dashicons-yes').css('display', 'block');
+                        elem.find( '.dashicons-yes').css( 'display', 'block' );
 
-                        if (undefined != response.nextUpgrade) {
+                        if ( undefined != response.nextUpgrade ) {
                             upgradeHandler.upgrade = response.nextUpgrade;
 
-                            $('#nf_upgrade_' + upgradeHandler.upgrade).find('.spinner').css('display', 'block').css('visibility', 'visible');
+                            $( '#nf_upgrade_' + upgradeHandler.upgrade ).find( '.spinner' ).css( 'display', 'block' ).css( 'visibility', 'visible' );
 
-                            $('#nf_upgrade_' + upgradeHandler.upgrade).find('.inside').slideDown();
+                            $( '#nf_upgrade_' + upgradeHandler.upgrade ).find( '.inside') .slideDown();
 
                             upgradeHandler.process();
                             return;
                         }
 
-                        console.log('DEBUG: NF_UpgradeHandler says "It is finished!"');
+                        console.log( 'DEBUG: NF_UpgradeHandler says "It is finished!"' );
 
-                        $('.nf-upgrade-complete').nfAdminModal('open');
+                        $( '.nf-upgrade-complete' ).nfAdminModal( 'open' );
 
                         return;
                     }
 
-                    upgradeHandler.process(response.step, response.total_steps, response.args);
+                    upgradeHandler.process( response.step, response.total_steps, response.args  );
                 }
-            ).fail(function () {
-                alert("error");
+            ).fail(function() {
+                alert( "error" );
             });
 
         };
 
     }
 
-    function Upgrade(name) {
+    function Upgrade( name ) {
 
         this.name = name;
 
         this.elem = '#nf_upgrade_' + name;
 
-        this.open = function () {
+        this.open = function() {
 
-            jQuery(this.elem).slideDown();
+            jQuery( this.elem).slideDown();
 
         };
 
-        this.close = function () {
+        this.close = function() {
 
-            jQuery(this.elem).slideUp();
+            jQuery( this.elem).slideUp();
 
         };
 
     }
 
-    if ("undefined" != typeof nfUpgradeHandler) {
+    if( "undefined" != typeof nfUpgradeHandler  ) {
 
         console.log('DEBUG: NF_UpgradeHandler first upgrades is ' + nfUpgradeHandler.upgrade);
 

@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 class NF_Database_Migrations_Objects extends NF_Abstracts_Migration
 {
@@ -21,7 +21,7 @@ class NF_Database_Migrations_Objects extends NF_Abstracts_Migration
             UNIQUE KEY (`id`)
         ) $this->charset_collate;";
 
-        dbDelta($query);
+        dbDelta( $query );
     }
 
 }

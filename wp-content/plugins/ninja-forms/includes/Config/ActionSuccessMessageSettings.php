@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 return array(
 
@@ -10,10 +10,10 @@ return array(
         'name' => 'success_msg',
         'type' => 'rte',
         'group' => 'primary',
-        'label' => __('Message', 'ninja-forms'),
+        'label' => __( 'Message', 'ninja-forms' ),
         'placeholder' => '',
         'width' => 'full',
-        'value' => '', 'use_merge_tags' => TRUE,
+        'value' => '','use_merge_tags' => TRUE,
     ),
 
 );

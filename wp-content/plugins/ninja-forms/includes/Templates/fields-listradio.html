@@ -6,18 +6,16 @@
 
 <script id='nf-tmpl-field-listradio-option' type='text/template'>
     <li>
-        <label><input type="radio" name="nf-field-<%= fieldID %>" class="<%= classes %> nf-element" value="<%= value %>"
-            <%= ( value == currentValue || 1 == selected ) ? 'checked="checked"' : '' %>> <%= label %></label>
+        <label><input type="radio" name="nf-field-<%= fieldID %>" class="<%= classes %> nf-element" value="<%= value %>" <%= ( value == currentValue  || 1 == selected ) ? 'checked="checked"' : '' %>> <%= label %></label>
     </li>
 </script>
 
 <script id='nf-tmpl-field-listradio-other' type='text/template'>
     <li>
         <label>
-            <input type="radio" name="nf-field-<%= fieldID %>" class="<%= classes %> nf-element" value="nf-other" <%= (
-            ! valueFound ) ? 'checked="checked"' : '' %>>
+            <input type="radio" name="nf-field-<%= fieldID %>" class="<%= classes %> nf-element" value="nf-other" <%= ( ! valueFound ) ? 'checked="checked"' : '' %>>
             Other
-            <%= renderOtherText() %>
+            <%= renderOtherText() %> 
         </label>
     </li>
 </script>

@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /*************************** LOAD THE BASE CLASS *******************************
  *******************************************************************************
@@ -20,8 +20,8 @@
  * Since I will be keeping this tutorial up-to-date for the foreseeable future,
  * I am going to work with the copy of the class provided in WordPress core.
  */
-if (!class_exists('WP_List_Table')) {
-    require_once(ABSPATH . 'wp-admin/includes/class-wp-list-table.php');
+if( ! class_exists( 'WP_List_Table' ) ) {
+    require_once( ABSPATH . 'wp-admin/includes/class-wp-list-table.php' );
 }
 
 /************************** CREATE A PACKAGE CLASS *****************************
@@ -37,8 +37,7 @@ if (!class_exists('WP_List_Table')) {
  *
  * Our theme for this list table is going to be movies.
  */
-class NF_Notifications_List_Table extends WP_List_Table
-{
+class NF_Notifications_List_Table extends WP_List_Table {
 
     /**
      * @var form_id
@@ -49,18 +48,17 @@ class NF_Notifications_List_Table extends WP_List_Table
      * REQUIRED. Set up a constructor that references the parent constructor. We
      * use the parent reference to set some default configs.
      ***************************************************************************/
-    function __construct()
-    {
+    function __construct(){
         global $status, $page;
 
         //Set parent defaults
-        parent::__construct(array(
-            'singular' => 'notification',     //singular name of the listed records
-            'plural' => 'notifications',    //plural name of the listed records
-            'ajax' => false        //does this table support ajax?
-        ));
+        parent::__construct( array(
+            'singular'  => 'notification',     //singular name of the listed records
+            'plural'    => 'notifications',    //plural name of the listed records
+            'ajax'      => false        //does this table support ajax?
+        ) );
 
-        $this->form_id = isset ($_REQUEST['form_id']) ? absint($_REQUEST['form_id']) : '';
+        $this->form_id = isset ( $_REQUEST['form_id'] ) ? absint( $_REQUEST['form_id'] ) : '';
 
     }
 
@@ -85,15 +83,14 @@ class NF_Notifications_List_Table extends WP_List_Table
      * @param array $column_name The name/slug of the column to be processed
      * @return string Text or HTML to be placed inside the column <td>
      **************************************************************************/
-    public function column_default($item, $column_name)
-    {
-        switch ($column_name) {
+    public function column_default($item, $column_name){
+        switch($column_name){
             case 'type':
-                return Ninja_Forms()->notification($item['id'])->type_name();
+                return Ninja_Forms()->notification( $item['id'] )->type_name();
             case 'date_updated':
                 return $item[$column_name];
             default:
-                return print_r($item, true); //Show the whole array for troubleshooting purposes
+                return print_r($item,true); //Show the whole array for troubleshooting purposes
         }
     }
 
@@ -113,36 +110,32 @@ class NF_Notifications_List_Table extends WP_List_Table
      * @param array $item A singular item (one full row's worth of data)
      * @return string Text to be placed inside the column <td> (movie title only)
      **************************************************************************/
-    public function column_name($item)
-    {
+    public function column_name( $item ){
 
-        $base_url = esc_url_raw(remove_query_arg(array('_wp_http_referer', '_wpnonce')));
+        $base_url = esc_url_raw( remove_query_arg( array( '_wp_http_referer', '_wpnonce' ) ) );
 
-        $activate_text = (Ninja_Forms()->notification($item['id'])->active) ? __('Deactivate', 'ninja-forms') : __('Activate', 'ninja-forms');
+        $activate_text = ( Ninja_Forms()->notification( $item['id'] )->active ) ? __( 'Deactivate', 'ninja-forms' ) : __( 'Activate', 'ninja-forms' );
 
-        $activate_action = (Ninja_Forms()->notification($item['id'])->active) ? 'deactivate' : 'activate';
+        $activate_action = ( Ninja_Forms()->notification( $item['id'] )->active ) ? 'deactivate' : 'activate';
 
-        $activate_url = esc_url(add_query_arg(array('notification-action' => $activate_action, 'id' => $item['id']), $base_url));
-        $edit_url = esc_url(add_query_arg(array('notification-action' => 'edit', 'id' => $item['id']), $base_url));
-        $delete_url = esc_url(add_query_arg(array('action' => 'delete'), $base_url));
-        $duplicate_url = esc_url(add_query_arg(array('notification-action' => 'duplicate', 'id' => $item['id']), $base_url));
+        $activate_url = esc_url( add_query_arg( array( 'notification-action' => $activate_action, 'id' => $item['id'] ), $base_url ) );
+        $edit_url = esc_url( add_query_arg( array( 'notification-action' => 'edit', 'id' => $item['id'] ), $base_url ) );
+        $delete_url = esc_url( add_query_arg( array( 'action' => 'delete' ), $base_url ) );
+        $duplicate_url = esc_url( add_query_arg( array( 'notification-action' => 'duplicate', 'id' => $item['id'] ), $base_url ) );
 
         //Build row actions
         $actions = array(
-            'active' => '<a href="' . $activate_url . '" class="notification-activate" data-action="' . $activate_action . '" data-n_id="' . $item['id'] . '">' . $activate_text . '</a>',
-            'edit' => '<a href="' . $edit_url . '">' . __('Edit', 'ninja-forms') . '</a>',
-            'delete' => '<a href="' . $delete_url . '" class="notification-delete" data-n_id="' . $item['id'] . '">' . __('Delete', 'ninja-forms') . '</a>',
-            'duplicate' => '<a href="' . $duplicate_url . '">' . __('Duplicate', 'ninja-forms') . '</a>',
+            'active'    => '<a href="' . $activate_url . '" class="notification-activate" data-action="' . $activate_action . '" data-n_id="' . $item['id'] . '">' . $activate_text . '</a>',
+            'edit'      => '<a href="' . $edit_url . '">' . __( 'Edit', 'ninja-forms' ) . '</a>',
+            'delete'    => '<a href="' . $delete_url .'" class="notification-delete" data-n_id="' . $item['id'] . '">' . __( 'Delete', 'ninja-forms' ) . '</a>',
+            'duplicate'    => '<a href="' . $duplicate_url .'">' . __( 'Duplicate', 'ninja-forms' ) . '</a>',
         );
 
         //Return the title contents
-        return sprintf('<a href="%1$s">%2$s</a> %3$s',
-            /*$1%s*/
-            $edit_url,
-            /*$2%s*/
-            $item['name'],
-            /*$3%s*/
-            $this->row_actions($actions)
+        return sprintf( '<a href="%1$s">%2$s</a> %3$s',
+            /*$1%s*/ $edit_url,
+            /*$2%s*/ $item['name'],
+            /*$3%s*/ $this->row_actions($actions)
         );
     }
 
@@ -155,15 +148,58 @@ class NF_Notifications_List_Table extends WP_List_Table
      * @param array $item A singular item (one full row's worth of data)
      * @return string Text to be placed inside the column <td> (movie title only)
      **************************************************************************/
-    public function column_cb($item)
-    {
+    public function column_cb($item){
         return sprintf(
             '<input type="checkbox" name="%1$s[]" value="%2$s" />',
-            /*$1%s*/
-            $this->_args['singular'],  //Let's simply repurpose the table's singular label ("movie")
-            /*$2%s*/
-            $item['id']                //The value of the checkbox should be the record's id
+            /*$1%s*/ $this->_args['singular'],  //Let's simply repurpose the table's singular label ("movie")
+            /*$2%s*/ $item['id']                //The value of the checkbox should be the record's id
         );
+    }
+
+    /** ************************************************************************
+     * REQUIRED! This method dictates the table's columns and titles. This should
+     * return an array where the key is the column slug (and class) and the value
+     * is the column's title text. If you need a checkbox for bulk actions, refer
+     * to the $columns array below.
+     *
+     * The 'cb' column is treated differently than the rest. If including a checkbox
+     * column in your table you must create a column_cb() method. If you don't need
+     * bulk actions or checkboxes, simply leave the 'cb' entry out of your array.
+     *
+     * @see WP_List_Table::::single_row_columns()
+     * @return array An associative array containing column information: 'slugs'=>'Visible Titles'
+     **************************************************************************/
+    public function get_columns(){
+        $columns = array(
+            'cb'            => '<input type="checkbox" />', //Render a checkbox instead of text
+            'name'          => __( 'Name', 'ninja-forms' ),
+            'type'          => __( 'Type', 'ninja-forms' ),
+            'date_updated'  => __( 'Date Updated', 'ninja-forms' ),
+        );
+        return $columns;
+    }
+
+    /** ************************************************************************
+     * Optional. If you want one or more columns to be sortable (ASC/DESC toggle),
+     * you will need to register it here. This should return an array where the
+     * key is the column that needs to be sortable, and the value is db column to
+     * sort by. Often, the key and value will be the same, but this is not always
+     * the case (as the value is a column name from the database, not the list table).
+     *
+     * This method merely defines which columns should be sortable and makes them
+     * clickable - it does not handle the actual sorting. You still need to detect
+     * the ORDERBY and ORDER querystring variables within prepare_items() and sort
+     * your data accordingly (usually by modifying your query).
+     *
+     * @return array An associative array containing all the columns that should be sortable: 'slugs'=>array('data_values',bool)
+     **************************************************************************/
+    public function get_sortable_columns() {
+        $sortable_columns = array(
+            'name'     => array( 'name',false ),     //true means it's already sorted
+            'type'    => array( 'type',false ),
+            'date_updated'  => array( 'date_updated',false )
+        );
+        return $sortable_columns;
     }
 
     /** ************************************************************************
@@ -180,23 +216,21 @@ class NF_Notifications_List_Table extends WP_List_Table
      *
      * @return array An associative array containing all the bulk actions: 'slugs'=>'Visible Titles'
      **************************************************************************/
-    public function get_bulk_actions()
-    {
+    public function get_bulk_actions() {
         $actions = array(
-            'activate' => __('Activate', 'ninja-forms'),
-            'deactivate' => __('Deactivate', 'ninja-forms'),
-            'delete' => __('Delete', 'ninja-forms'),
+            'activate'      => __( 'Activate', 'ninja-forms' ),
+            'deactivate'    => __( 'Deactivate', 'ninja-forms' ),
+            'delete'        => __( 'Delete', 'ninja-forms' ),
         );
         return $actions;
     }
 
-    public function extra_tablenav($which)
-    {
-        if ($which == 'bottom')
+    public function extra_tablenav( $which ) {
+        if ( $which == 'bottom' )
             return false;
 
-        if (isset ($_REQUEST['type'])) {
-            $type = esc_html($_REQUEST['type']);
+        if ( isset ( $_REQUEST['type'] ) ) {
+            $type = esc_html( $_REQUEST['type'] );
         } else {
             $type = '';
         }
@@ -204,20 +238,16 @@ class NF_Notifications_List_Table extends WP_List_Table
         ?>
         <div class="alignleft actions">
             <select name="type" id="filter-type">
-                <option value="" <?php selected($type, ''); ?>><?php _e('- View All Types', 'ninja-forms'); ?></option>
+                <option value="" <?php selected( $type, '' ); ?>><?php _e( '- View All Types', 'ninja-forms' ); ?></option>
                 <?php
-                foreach (Ninja_Forms()->notifications->get_types() as $slug => $nicename) {
+                foreach ( Ninja_Forms()->notifications->get_types() as $slug => $nicename ) {
                     ?>
-                    <option
-                        value="<?php echo $slug; ?>" <?php selected($type, $slug); ?>><?php echo $nicename; ?></option>
+                    <option value="<?php echo $slug; ?>" <?php selected( $type, $slug ); ?>><?php echo $nicename; ?></option>
                     <?php
                 }
                 ?>
             </select>
-            <span class="nf-more-actions"><a
-                    href="<?php echo nf_aff_link('https://ninjaforms.com/extensions/?display=actions&utm_medium=plugin&utm_source=actions-table&utm_campaign=Ninja+Forms+Upsell&utm_content=Ninja+Forms+Actions'); ?>"
-                    target="_blank"><?php _e('Get More Types', 'ninja-forms'); ?> <span
-                        class="dashicons dashicons-external"></span></a></span>
+            <span class="nf-more-actions"><a href="<?php echo nf_aff_link( 'https://ninjaforms.com/extensions/?display=actions&utm_medium=plugin&utm_source=actions-table&utm_campaign=Ninja+Forms+Upsell&utm_content=Ninja+Forms+Actions' ); ?>" target="_blank"><?php _e( 'Get More Types', 'ninja-forms' ); ?> <span class="dashicons dashicons-external"></span></a></span>
             <span style="float:left;" class="spinner"></span>
         </div>
         <?php
@@ -231,15 +261,14 @@ class NF_Notifications_List_Table extends WP_List_Table
      *
      * @param object $item The current item
      */
-    function single_row($item)
-    {
+    function single_row( $item ) {
         static $alternate = '';
 
-        $active = (Ninja_Forms()->notification($item['id'])->active) ? 'nf-notification-active ' : 'nf-notification-inactive';
-        $alternate = ($alternate == '' ? 'alternate' : '');
+        $active = ( Ninja_Forms()->notification( $item['id'] )->active ) ? 'nf-notification-active ' : 'nf-notification-inactive';
+        $alternate = ( $alternate == '' ? 'alternate' : '' );
 
         echo '<tr class="' . $active . ' ' . $alternate . '" id="' . $item['id'] . '">';
-        $this->single_row_columns($item);
+        $this->single_row_columns( $item );
         echo '</tr>';
     }
 
@@ -258,8 +287,7 @@ class NF_Notifications_List_Table extends WP_List_Table
      * @uses $this->get_pagenum()
      * @uses $this->set_pagination_args()
      **************************************************************************/
-    public function prepare_items()
-    {
+    public function prepare_items() {
         global $wpdb; //This is used only if making any database queries
 
         /**
@@ -305,13 +333,13 @@ class NF_Notifications_List_Table extends WP_List_Table
          * use sort and pagination data to build a custom query instead, as you'll
          * be able to use your precisely-queried data immediately.
          */
-        $notifications = nf_get_notifications_by_form_id($this->form_id);
+        $notifications = nf_get_notifications_by_form_id( $this->form_id );
         $data = array();
 
-        if (is_array($notifications)) {
-            foreach ($notifications as $id => $n) {
-                if (isset ($_REQUEST['type']) && !empty($_REQUEST['type'])) {
-                    if (nf_get_object_meta_value($id, 'type') == esc_html($_REQUEST['type'])) {
+        if ( is_array( $notifications ) ) {
+            foreach ( $notifications as $id => $n ) {
+                if ( isset ( $_REQUEST['type'] ) && ! empty( $_REQUEST['type'] ) ) {
+                    if ( nf_get_object_meta_value( $id, 'type' ) == esc_html( $_REQUEST['type'] ) ) {
                         $n['id'] = $id;
                         $data[] = $n;
                     }
@@ -331,14 +359,12 @@ class NF_Notifications_List_Table extends WP_List_Table
          * to a custom query. The returned data will be pre-sorted, and this array
          * sorting technique would be unnecessary.
          */
-        function usort_reorder($a, $b)
-        {
-            $orderby = (!empty($_REQUEST['orderby'])) ? esc_html($_REQUEST['orderby']) : 'name'; //If no sort, default to title
-            $order = (!empty($_REQUEST['order'])) ? esc_html($_REQUEST['order']) : 'asc'; //If no order, default to asc
+        function usort_reorder($a,$b){
+            $orderby = (!empty($_REQUEST['orderby'])) ? esc_html( $_REQUEST['orderby'] ) : 'name'; //If no sort, default to title
+            $order = (!empty($_REQUEST['order'])) ? esc_html( $_REQUEST['order'] ) : 'asc'; //If no order, default to asc
             $result = strcmp($a[$orderby], $b[$orderby]); //Determine sort order
-            return ($order === 'asc') ? $result : -$result; //Send final sort direction to usort
+            return ($order==='asc') ? $result : -$result; //Send final sort direction to usort
         }
-
         usort($data, 'usort_reorder');
 
 
@@ -377,7 +403,8 @@ class NF_Notifications_List_Table extends WP_List_Table
          * to ensure that the data is trimmed to only the current page. We can use
          * array_slice() to
          */
-        $data = array_slice($data, (($current_page - 1) * $per_page), $per_page);
+        $data = array_slice($data,(($current_page-1)*$per_page),$per_page);
+
 
 
         /**
@@ -390,59 +417,11 @@ class NF_Notifications_List_Table extends WP_List_Table
         /**
          * REQUIRED. We also have to register our pagination options & calculations.
          */
-        $this->set_pagination_args(array(
+        $this->set_pagination_args( array(
             'total_items' => $total_items,                  //WE have to calculate the total number of items
-            'per_page' => $per_page,                     //WE have to determine how many items to show on a page
-            'total_pages' => ceil($total_items / $per_page)   //WE have to calculate the total number of pages
-        ));
-    }
-
-    /** ************************************************************************
-     * REQUIRED! This method dictates the table's columns and titles. This should
-     * return an array where the key is the column slug (and class) and the value
-     * is the column's title text. If you need a checkbox for bulk actions, refer
-     * to the $columns array below.
-     *
-     * The 'cb' column is treated differently than the rest. If including a checkbox
-     * column in your table you must create a column_cb() method. If you don't need
-     * bulk actions or checkboxes, simply leave the 'cb' entry out of your array.
-     *
-     * @see WP_List_Table::::single_row_columns()
-     * @return array An associative array containing column information: 'slugs'=>'Visible Titles'
-     **************************************************************************/
-    public function get_columns()
-    {
-        $columns = array(
-            'cb' => '<input type="checkbox" />', //Render a checkbox instead of text
-            'name' => __('Name', 'ninja-forms'),
-            'type' => __('Type', 'ninja-forms'),
-            'date_updated' => __('Date Updated', 'ninja-forms'),
-        );
-        return $columns;
-    }
-
-    /** ************************************************************************
-     * Optional. If you want one or more columns to be sortable (ASC/DESC toggle),
-     * you will need to register it here. This should return an array where the
-     * key is the column that needs to be sortable, and the value is db column to
-     * sort by. Often, the key and value will be the same, but this is not always
-     * the case (as the value is a column name from the database, not the list table).
-     *
-     * This method merely defines which columns should be sortable and makes them
-     * clickable - it does not handle the actual sorting. You still need to detect
-     * the ORDERBY and ORDER querystring variables within prepare_items() and sort
-     * your data accordingly (usually by modifying your query).
-     *
-     * @return array An associative array containing all the columns that should be sortable: 'slugs'=>array('data_values',bool)
-     **************************************************************************/
-    public function get_sortable_columns()
-    {
-        $sortable_columns = array(
-            'name' => array('name', false),     //true means it's already sorted
-            'type' => array('type', false),
-            'date_updated' => array('date_updated', false)
-        );
-        return $sortable_columns;
+            'per_page'    => $per_page,                     //WE have to determine how many items to show on a page
+            'total_pages' => ceil($total_items/$per_page)   //WE have to calculate the total number of pages
+        ) );
     }
 
 }

@@ -1,6 +1,6 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
-require_once(ABSPATH . 'wp-admin/includes/upgrade.php');
+require_once( ABSPATH . 'wp-admin/includes/upgrade.php');
 
 abstract class NF_Abstracts_Migration
 {
@@ -10,7 +10,7 @@ abstract class NF_Abstracts_Migration
 
     public $flag = '';
 
-    public function __construct($table_name, $flag)
+    public function __construct( $table_name, $flag )
     {
         global $wpdb;
 
@@ -22,13 +22,13 @@ abstract class NF_Abstracts_Migration
     public function _run()
     {
         // Check the flag
-        if (get_option($this->flag, FALSE)) return;
+        if( get_option( $this->flag, FALSE ) ) return;
 
         // Run the migration
         $this->run();
 
         // Set the Flag
-        update_option($this->flag, TRUE);
+        update_option( $this->flag, TRUE );
     }
 
     protected abstract function run();

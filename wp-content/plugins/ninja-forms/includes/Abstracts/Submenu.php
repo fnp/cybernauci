@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * WordPress Menu Page Base Class
@@ -56,17 +56,17 @@ abstract class NF_Abstracts_Submenu
      */
     public function __construct()
     {
-        if (!$this->menu_title) {
+        if( ! $this->menu_title ) {
             $this->menu_title = $this->page_title;
         }
 
-        if (!$this->menu_slug) {
-            $this->menu_slug = 'nf-' . strtolower(preg_replace('/[^A-Za-z0-9-]+/', '-', $this->menu_title));
+        if( ! $this->menu_slug ) {
+            $this->menu_slug = 'nf-' . strtolower( preg_replace( '/[^A-Za-z0-9-]+/', '-', $this->menu_title ) );
         }
 
-        $this->capability = apply_filters('submenu_' . $this->menu_slug . '_capability', $this->capability);
+        $this->capability = apply_filters( 'submenu_' . $this->menu_slug . '_capability', $this->capability );
 
-        add_action('admin_menu', array($this, 'register'), $this->priority);
+        add_action( 'admin_menu', array( $this, 'register' ), $this->priority );
     }
 
     /**
@@ -74,7 +74,7 @@ abstract class NF_Abstracts_Submenu
      */
     public function register()
     {
-        $function = ($this->function) ? array($this, $this->function) : NULL;
+        $function = ( $this->function ) ? array( $this, $this->function ) : NULL;
 
         add_submenu_page(
             $this->parent_slug,
@@ -85,12 +85,12 @@ abstract class NF_Abstracts_Submenu
             $function
         );
 
-        add_filter('admin_body_class', array($this, 'body_class'));
+        add_filter( 'admin_body_class', array( $this, 'body_class' ) );
     }
 
-    public function body_class($classes)
+    public function body_class( $classes )
     {
-        if (isset($_GET['page']) && $_GET['page'] == $this->menu_slug) {
+        if( isset( $_GET['page'] ) && $_GET['page'] == $this->menu_slug ) {
             $classes = "$classes ninja-forms-app";
         }
 

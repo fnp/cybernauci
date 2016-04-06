@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Abstracts_ModelFactory
@@ -56,11 +56,11 @@ class NF_Abstracts_ModelFactory
      * @param $db
      * @param $id
      */
-    public function __construct($db, $id)
+    public function __construct( $db, $id )
     {
         $this->_db = $db;
 
-        $this->_object = new NF_Database_Models_Form($this->_db, $id);
+        $this->_object = new NF_Database_Models_Form( $this->_db, $id );
 
         return $this;
     }
@@ -83,11 +83,11 @@ class NF_Abstracts_ModelFactory
      * @param array $where
      * @return array|bool
      */
-    public function get_forms(array $where = array())
+    public function get_forms( array $where = array() )
     {
-        if ('form' != $this->_object->get_type()) return FALSE;
+        if( 'form' != $this->_object->get_type() ) return FALSE;
 
-        return $this->_object->find(NULL, $where);
+        return $this->_object->find( NULL, $where );
     }
 
     /**
@@ -98,11 +98,11 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $return
      * @return array
      */
-    public function export_form($return = FALSE)
+    public function export_form( $return = FALSE )
     {
         $form_id = $this->_object->get_id();
 
-        return NF_Database_Models_Form::export($form_id, $return);
+        return NF_Database_Models_Form::export( $form_id, $return );
     }
 
     /**
@@ -112,10 +112,10 @@ class NF_Abstracts_ModelFactory
      *
      * @param $import
      */
-    public function import_form($import, $id = FALSE, $is_conversion = FALSE)
+    public function import_form( $import, $id = FALSE, $is_conversion = FALSE )
     {
-        $import = maybe_unserialize($import);
-        NF_Database_Models_Form::import($import, $id, $is_conversion);
+        $import = maybe_unserialize( $import );
+        NF_Database_Models_Form::import( $import, $id, $is_conversion );
     }
 
     /*
@@ -128,11 +128,11 @@ class NF_Abstracts_ModelFactory
      * @param string $id
      * @return $this
      */
-    public function field($id = '')
+    public function field( $id = '' )
     {
         $form_id = $this->_object->get_id();
 
-        $this->_object = new NF_Database_Models_Field($this->_db, $id, $form_id);
+        $this->_object = new NF_Database_Models_Field( $this->_db, $id, $form_id );
 
         return $this;
     }
@@ -143,11 +143,11 @@ class NF_Abstracts_ModelFactory
      * @param $id
      * @return NF_Database_Models_Field
      */
-    public function get_field($id)
+    public function get_field( $id )
     {
         $form_id = $this->_object->get_id();
 
-        return $this->_fields[$id] = new NF_Database_Models_Field($this->_db, $id, $form_id);
+        return $this->_fields[ $id ] = new NF_Database_Models_Field( $this->_db, $id, $form_id );
     }
 
     /**
@@ -157,22 +157,22 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $fresh
      * @return array
      */
-    public function get_fields($where = array(), $fresh = FALSE)
+    public function get_fields( $where = array(), $fresh = FALSE)
     {
-        if ($where || $fresh || !$this->_fields) {
+        if( $where || $fresh || ! $this->_fields ){
 
             $form_id = $this->_object->get_id();
 
-            $model_shell = new NF_Database_Models_Field($this->_db, 0);
+            $model_shell = new NF_Database_Models_Field( $this->_db, 0 );
 
-            $fields = $model_shell->find($form_id, $where);
+            $fields = $model_shell->find( $form_id, $where );
 
-            foreach ($fields as $field) {
-                $this->_fields[$field->get_id()] = $field;
+            foreach( $fields as $field ){
+                $this->_fields[ $field->get_id() ] = $field;
             }
         }
 
-        usort($this->_fields, "NF_Abstracts_Field::sort_by_order");
+        usort( $this->_fields, "NF_Abstracts_Field::sort_by_order" );
 
         return $this->_fields;
     }
@@ -184,10 +184,10 @@ class NF_Abstracts_ModelFactory
      *
      * @param $import
      */
-    public function import_field($settings, $field_id = '', $is_conversion = FALSE)
+    public function import_field( $settings, $field_id = '', $is_conversion = FALSE )
     {
-        $settings = maybe_unserialize($settings);
-        NF_Database_Models_Field::import($settings, $field_id, $is_conversion);
+        $settings = maybe_unserialize( $settings );
+        NF_Database_Models_Field::import( $settings, $field_id, $is_conversion );
     }
 
 
@@ -201,11 +201,11 @@ class NF_Abstracts_ModelFactory
      * @param string $id
      * @return $this
      */
-    public function action($id = '')
+    public function action( $id ='' )
     {
         $form_id = $this->_object->get_id();
 
-        $this->_object = new NF_Database_Models_Action($this->_db, $id, $form_id);
+        $this->_object = new NF_Database_Models_Action( $this->_db, $id, $form_id );
 
         return $this;
     }
@@ -216,11 +216,11 @@ class NF_Abstracts_ModelFactory
      * @param $id
      * @return NF_Database_Models_Action
      */
-    public function get_action($id)
+    public function get_action( $id )
     {
         $form_id = $this->_object->get_id();
 
-        return $this->_actions[$id] = new NF_Database_Models_Action($this->_db, $id, $form_id);
+        return $this->_actions[ $id ] = new NF_Database_Models_Action( $this->_db, $id, $form_id );
     }
 
     /**
@@ -230,22 +230,22 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $fresh
      * @return array
      */
-    public function get_actions($where = array(), $fresh = FALSE)
+    public function get_actions( $where = array(), $fresh = FALSE)
     {
-        if ($where || $fresh || !$this->_actions) {
+        if( $where || $fresh || ! $this->_actions ){
 
             $form_id = $this->_object->get_id();
 
-            $model_shell = new NF_Database_Models_Action($this->_db, 0);
+            $model_shell = new NF_Database_Models_Action( $this->_db, 0 );
 
-            $actions = $model_shell->find($form_id, $where);
+            $actions = $model_shell->find( $form_id, $where );
 
-            foreach ($actions as $action) {
-                $this->_actions[$action->get_id()] = $action;
+            foreach( $actions as $action ){
+                $this->_actions[ $action->get_id() ] = $action;
             }
         }
 
-        usort($this->_actions, 'NF_Abstracts_Action::sort_actions');
+        usort( $this->_actions, 'NF_Abstracts_Action::sort_actions' );
 
         return $this->_actions;
     }
@@ -260,12 +260,12 @@ class NF_Abstracts_ModelFactory
      * @param string $id
      * @return $this
      */
-    public function object($id = '')
+    public function object( $id = '' )
     {
         $parent_id = $this->_object->get_id();
         $parent_type = $this->_object->get_type();
 
-        $this->_object = new NF_Database_Models_Object($this->_db, $id, $parent_id, $parent_type);
+        $this->_object = new NF_Database_Models_Object( $this->_db, $id, $parent_id, $parent_type );
 
         return $this;
     }
@@ -276,9 +276,9 @@ class NF_Abstracts_ModelFactory
      * @param $id
      * @return NF_Database_Models_Object
      */
-    public function get_object($id)
+    public function get_object( $id )
     {
-        return $this->_objects[$id] = new NF_Database_Models_Object($this->_db, $id);
+        return $this->_objects[ $id ] = new NF_Database_Models_Object( $this->_db, $id );
     }
 
     /**
@@ -288,18 +288,18 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $fresh
      * @return array
      */
-    public function get_objects($where = array(), $fresh = FALSE)
+    public function get_objects( $where = array(), $fresh = FALSE)
     {
-        if ($where || $fresh || !$this->_objects) {
+        if( $where || $fresh || ! $this->_objects ){
 
             $form_id = $this->_object->get_id();
 
-            $model_shell = new NF_Database_Models_Object($this->_db, 0);
+            $model_shell = new NF_Database_Models_Object( $this->_db, 0 );
 
-            $objects = $model_shell->find($form_id, $where);
+            $objects = $model_shell->find( $form_id, $where );
 
-            foreach ($objects as $object) {
-                $this->_objects[$object->get_id()] = $object;
+            foreach( $objects as $object ){
+                $this->_objects[ $object->get_id() ] = $object;
             }
         }
 
@@ -319,11 +319,11 @@ class NF_Abstracts_ModelFactory
      * @param string $id
      * @return $this
      */
-    public function sub($id = '')
+    public function sub( $id = '' )
     {
         $form_id = $this->_object->get_id();
 
-        $this->_object = new NF_Database_Models_Submission($id, $form_id);
+        $this->_object = new NF_Database_Models_Submission( $id, $form_id );
 
         return $this;
     }
@@ -336,11 +336,11 @@ class NF_Abstracts_ModelFactory
      * @param $id
      * @return NF_Database_Models_Submission
      */
-    public function get_sub($id)
+    public function get_sub( $id )
     {
         $parent_id = $this->_object->get_id();
 
-        return $this->_objects[$id] = new NF_Database_Models_Submission($id, $parent_id);
+        return $this->_objects[ $id ] = new NF_Database_Models_Submission( $id, $parent_id );
     }
 
     /**
@@ -352,18 +352,18 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $fresh
      * @return array
      */
-    public function get_subs($where = array(), $fresh = FALSE)
+    public function get_subs( $where = array(), $fresh = FALSE )
     {
-        if ($where || $fresh || !$this->_objects) {
+        if( $where || $fresh || ! $this->_objects ){
 
             $form_id = $this->_object->get_id();
 
-            $model_shell = new NF_Database_Models_Submission(0);
+            $model_shell = new NF_Database_Models_Submission( 0 );
 
-            $objects = $model_shell->find($form_id, $where);
+            $objects = $model_shell->find( $form_id, $where );
 
-            foreach ($objects as $object) {
-                $this->_objects[$object->get_id()] = $object;
+            foreach( $objects as $object ){
+                $this->_objects[ $object->get_id() ] = $object;
             }
         }
 
@@ -379,11 +379,11 @@ class NF_Abstracts_ModelFactory
      * @param bool|FALSE $return
      * @return string
      */
-    public function export_subs(array $sub_ids = array(), $return = FALSE)
+    public function export_subs( array $sub_ids = array(), $return = FALSE )
     {
         $form_id = $this->_object->get_id();
 
-        return NF_Database_Models_Submission::export($form_id, $sub_ids, $return);
+        return NF_Database_Models_Submission::export( $form_id, $sub_ids, $return );
     }
 
     /*
@@ -399,22 +399,22 @@ class NF_Abstracts_ModelFactory
      * @param $type
      * @return bool|NF_Database_Models_Action|NF_Database_Models_Field|NF_Database_Models_Form|NF_Database_Models_Object
      */
-    public function get_model($id, $type)
+    public function get_model( $id, $type )
     {
         global $wpdb;
 
-        switch ($type) {
+        switch( $type ){
             case 'form':
-                return new NF_Database_Models_Form($wpdb, $id);
+                return new NF_Database_Models_Form( $wpdb, $id );
                 break;
             case 'field':
-                return new NF_Database_Models_Field($wpdb, $id);
+                return new NF_Database_Models_Field( $wpdb, $id );
                 break;
             case 'action':
-                return new NF_Database_Models_Action($wpdb, $id);
+                return new NF_Database_Models_Action( $wpdb, $id );
                 break;
             case 'object':
-                return new NF_Database_Models_Object($wpdb, $id);
+                return new NF_Database_Models_Object( $wpdb, $id );
                 break;
             default:
                 return FALSE;

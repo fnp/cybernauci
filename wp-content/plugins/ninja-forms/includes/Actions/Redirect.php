@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Action_Redirect
@@ -6,51 +6,51 @@
 final class NF_Actions_Redirect extends NF_Abstracts_Action
 {
     /**
-     * @var string
-     */
-    protected $_name = 'redirect';
+    * @var string
+    */
+    protected $_name  = 'redirect';
 
     /**
-     * @var array
-     */
+    * @var array
+    */
     protected $_tags = array();
 
     /**
-     * @var string
-     */
+    * @var string
+    */
     protected $_timing = 'normal';
 
     /**
-     * @var int
-     */
+    * @var int
+    */
     protected $_priority = '10';
 
     /**
-     * Constructor
-     */
+    * Constructor
+    */
     public function __construct()
     {
         parent::__construct();
 
-        $this->_nicename = __('Redirect', 'ninja-forms');
+        $this->_nicename = __( 'Redirect', 'ninja-forms' );
 
-        $settings = Ninja_Forms::config('ActionRedirectSettings');
+        $settings = Ninja_Forms::config( 'ActionRedirectSettings' );
 
-        $this->_settings = array_merge($this->_settings, $settings);
+        $this->_settings = array_merge( $this->_settings, $settings );
     }
 
     /*
     * PUBLIC METHODS
     */
 
-    public function save($action_settings)
+    public function save( $action_settings )
     {
 
     }
 
-    public function process($action_settings, $form_id, $data)
+    public function process( $action_settings, $form_id, $data )
     {
-        $data['actions']['redirect'] = $action_settings['redirect_url'];
+        $data[ 'actions' ][ 'redirect' ] = $action_settings[ 'redirect_url' ];
 
         return $data;
     }
