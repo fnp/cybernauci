@@ -191,7 +191,7 @@ window.onload = function () {
         if (main.find('form input.ninja-forms-req[type="checkbox"]:not(:checked)').length !== 0) validate = false;
 
         if (validate == false) {
-            jQuery('.validate-warning').show();
+            jQuery('.validate-warning').removeClass('hidden').show();
             return false;
         } else {
             jQuery('.validate-warning').hide();

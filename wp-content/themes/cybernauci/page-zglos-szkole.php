@@ -22,7 +22,7 @@
                         ));
                         ?>
                         <p class="col-xs-12 hidden validate-warning">Prosimy uzupełnić wszystkie <span
-                                class="ninja-forms-req-symbol"><strong>*</strong></span>wymagane pola oznaczone przed
+                                class="ninja-forms-req-symbol"><strong>*</strong></span> wymagane pola oznaczone przed
                             wysłaniem zgłoszenia</p>
                     </div>
                 </div>
