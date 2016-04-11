@@ -91,7 +91,7 @@ window.onload = function () {
                             }).text(res[i].nazwa)
                         );
                     }
-                    nazwaSzkolyList.off('change').on('change', function (e) {
+                    nazwaSzkolyList.on('change', function (e) {
                         var szkola = jQuery("option:selected", this);
 
                         if (this.value == '' && szkola.text().indexOf('z poza listy)') >= 0) {
@@ -126,6 +126,25 @@ window.onload = function () {
             szkolaKod.val('Kod pocztowy *');
             szkolaPoczta.val('Poczta *');
         };
+
+    nazwaSzkolyTyp.on('change', function (e) {
+        var typ = this.value;
+
+        nazwaSzkolyTyp.find('option:hidden').show();
+
+        if (typ !== '') {
+            nazwaSzkolyList.find('option').filter(function () {
+                var szkola = jQuery(this),
+                    szkolaTyp = szkola.attr('data-typ');
+
+                if (szkolaTyp !== undefined) {
+                    if (szkolaTyp !== typ) {
+                        szkola.hide();
+                    }
+                }
+            })
+        }
+    });
 
     nazwaSzkolyList.on('change', function (e) {
         var szkola = jQuery("option:selected", this);
