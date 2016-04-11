@@ -450,6 +450,33 @@ class Parser
     } //end function factorial
 
     /**
+     * Check Infix for opening closing pair matches.
+     *
+     * This function is meant to solely check to make sure every opening
+     * statement has a matching closing one, and throws an exception if
+     * it doesn't.
+     *
+     * @param String $infix Equation to check
+     * @throws Exception if malformed.
+     * @return Bool true if passes - throws an exception if not.
+     */
+    private function checkInfix($infix)
+    {
+        if (trim($infix) == "") {
+            throw new Exception("No Equation given", Parser::E_NO_EQ);
+        }
+        //Make sure we have the same number of '(' as we do ')'
+        // and the same # of '[' as we do ']'
+        if (substr_count($infix, '(') != substr_count($infix, ')')) {
+            throw new Exception("Mismatched parenthesis in '{$infix}'", Parser::E_NO_SET);
+        } elseif (substr_count($infix, '[') != substr_count($infix, ']')) {
+            throw new Exception("Mismatched brackets in '{$infix}'", Parser::E_NO_SET);
+        }
+        $this->inFix = $infix;
+        return true;
+    }
+
+    /**
      * Infix to Postfix
      *
      * Converts an infix (standard) equation to postfix (RPN) notation.
@@ -563,33 +590,6 @@ class Parser
 
         // return the RPN array in case developer wants to use it fro some insane reason (bug testing ;]
         return $pf;
-    }
-
-    /**
-     * Check Infix for opening closing pair matches.
-     *
-     * This function is meant to solely check to make sure every opening
-     * statement has a matching closing one, and throws an exception if
-     * it doesn't.
-     *
-     * @param String $infix Equation to check
-     * @throws Exception if malformed.
-     * @return Bool true if passes - throws an exception if not.
-     */
-    private function checkInfix($infix)
-    {
-        if (trim($infix) == "") {
-            throw new Exception("No Equation given", Parser::E_NO_EQ);
-        }
-        //Make sure we have the same number of '(' as we do ')'
-        // and the same # of '[' as we do ']'
-        if (substr_count($infix, '(') != substr_count($infix, ')')) {
-            throw new Exception("Mismatched parenthesis in '{$infix}'", Parser::E_NO_SET);
-        } elseif (substr_count($infix, '[') != substr_count($infix, ']')) {
-            throw new Exception("Mismatched brackets in '{$infix}'", Parser::E_NO_SET);
-        }
-        $this->inFix = $infix;
-        return true;
     }
 
 } //end class 'Parser'
