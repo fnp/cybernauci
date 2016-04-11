@@ -127,10 +127,10 @@ window.onload = function () {
             szkolaPoczta.val('Poczta *');
         };
 
-    nazwaSzkolyTyp.on('change', function (e) {
+    nazwaSzkolyTyp.off('change').on('change', function (e) {
         var typ = this.value;
 
-        nazwaSzkolyTyp.find('option:hidden').show();
+        nazwaSzkolyList.find('option:hidden').show();
 
         if (typ !== '') {
             nazwaSzkolyList.find('option').filter(function () {
@@ -138,7 +138,7 @@ window.onload = function () {
                     szkolaTyp = szkola.attr('data-typ');
 
                 if (szkolaTyp !== undefined) {
-                    if (szkolaTyp !== typ) {
+                    if (szkolaTyp.toLowerCase() !== typ.toLowerCase()) {
                         szkola.hide();
                     }
                 }
