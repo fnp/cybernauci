@@ -658,6 +658,7 @@ body {
     border-radius: 0;
 }
 
+#rejestracja form select option,
 #rejestracja form input::-webkit-input-placeholder,
 #rejestracja form input:-moz-placeholder,
 #rejestracja form input::-moz-placeholder,
@@ -668,6 +669,7 @@ body {
 #rejestracja form textarea::-moz-placeholder,
 #rejestracja form textarea:-ms-input-placeholder,
 #rejestracja form textarea:placeholder-shown {
+    background-color: #01253B;
     color: #ffffff;
 }
 
