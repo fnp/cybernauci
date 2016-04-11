@@ -576,11 +576,11 @@ body {
 }
 
 #aktualnosci .sidebanner-left {
-    top: 70px;
+    top: -12px;
 }
 
 #aktualnosci .sidebanner-right {
-    top: 12px;
+    top: -20px;
     right: -180px;
 }
 
