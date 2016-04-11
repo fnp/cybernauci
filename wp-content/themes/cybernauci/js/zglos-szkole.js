@@ -25,7 +25,6 @@ window.onload = function () {
         szkolaKod = main.find('input[value="Kod pocztowy *"]:visible'),
         szkolaPoczta = main.find('input[value="Poczta *"]:visible'),
         szkolaEmail = main.find('input[value="Adres e-mail szkoły *"]:visible'),
-        szkolaPhone = main.find('input[value="Numer telefonu do szkoły *"]:visible'),
         szkolaAddNew = jQuery('#szkolaAddNew'),
 
         wojewodztwo = function () {
@@ -41,13 +40,13 @@ window.onload = function () {
                         )
                     }
                     wojewodztwoList.on('change', function (e) {
-                        var id = jQuery("option:selected", this).attr('data-id');
+                        var select = jQuery("option:selected", this);
 
                         clearMiejscowosc();
                         clearSzkoly();
                         main.find('.hidden_wojewodztwo_id').val(select.attr('data-id'));
                         main.find('.hidden_wojewodztwo_nazwa').val(select.val());
-                        miejscowosc(id);
+                        miejscowosc(select.attr('data-id'));
                     })
                 }
             });
