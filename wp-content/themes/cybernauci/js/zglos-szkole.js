@@ -179,4 +179,25 @@ window.onload = function () {
     });
 
     wojewodztwo();
+
+    main.find('input[type="submit"]').click(function () {
+        var validate = (main.find('form select.ninja-forms-req option:selected[value=""]').length == 0) ? true : false;
+        main.find('form input.ninja-forms-req[type="text"]').filter(function () {
+            var e = jQuery(this);
+            if (e.val() == jQuery('#' + e.attr('id') + '_label_hidden').val()) {
+                validate = false;
+            }
+        });
+        if (main.find('form input.ninja-forms-req[type="checkbox"]:not(:checked)').length !== 0) validate = false;
+
+        if (validate == false) {
+            jQuery('.validate-warning').show();
+            return false;
+        } else {
+            jQuery('.validate-warning').hide();
+            return true;
+        }
+    });
+
+
 };
