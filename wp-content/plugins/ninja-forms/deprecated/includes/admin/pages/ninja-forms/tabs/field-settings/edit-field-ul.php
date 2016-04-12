@@ -15,7 +15,7 @@ function ninja_forms_edit_field_output_ul($form_id)
 				foreach ($fields as $field) {
 					ninja_forms_edit_field($field['id']);
 				}
-			}
+				}
 			?>
 		</ul>
 

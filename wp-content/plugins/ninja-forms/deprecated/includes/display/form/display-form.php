@@ -89,7 +89,7 @@ function ninja_forms_page_append_check()
 				//remove_filter('the_content', 'wpautop');
 				add_filter('the_content', 'ninja_forms_append_to_page', 9999);
 			}
-		}
+		}		
 	}
 }
 

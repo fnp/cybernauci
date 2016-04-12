@@ -97,7 +97,7 @@ class FS_Plugin_Plan extends FS_Entity
 		if (is_object($plan)) {
 			$this->name = strtolower($plan->name);
 		}
-	}
+		}
 
 	static function get_type()
 	{
@@ -126,4 +126,4 @@ class FS_Plugin_Plan extends FS_Entity
 	{
 		return ('free' === $this->name);
 	}
-}
+	}

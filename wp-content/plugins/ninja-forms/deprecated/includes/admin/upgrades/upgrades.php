@@ -30,7 +30,7 @@ function nf_upgrades_screen()
 		$custom = urlencode($custom);
 	}
 
-	?>
+	?> 
 	<div class="wrap">
 		<h2><?php _e('Ninja Forms - Processing', 'ninja-forms'); ?></h2>
 

@@ -33,8 +33,8 @@ if (isset($ninja_forms_fields[$field_type]['use_li']) && $ninja_forms_fields[$fi
 			$fav_id = '';
 		}
 	} else {
-		$fav_id = '';
-	}
+			$fav_id = '';
+		}
 
 	if (isset($field_row['def_id']) && $field_row['def_id'] != 0) {
 		$def_id = $field_row['def_id'];
@@ -132,7 +132,7 @@ if (isset($ninja_forms_fields[$field_type])) {
 			if ($new) {
 				nf_output_registered_field_settings($field_id);
 			}
-			}
+		}
 			} else {
 				if (isset($ninja_forms_fields[$field_type])) {
 					$reg_field = $ninja_forms_fields[$field_type];
@@ -143,7 +143,7 @@ if (isset($ninja_forms_fields[$field_type])) {
 
 					if ($edit_function != '') {
 						call_user_func_array($edit_function, $arguments);
-					}
+			}
 				}
 			}
 			}

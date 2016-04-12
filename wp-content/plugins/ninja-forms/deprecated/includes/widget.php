@@ -107,7 +107,7 @@ class Ninja_Forms_Widget extends WP_Widget
 				foreach ($all_forms as $form) {
 					$title = $form['data']['form_title'];
 					$id = $form['id'];
-					?>
+				?>
 					<option value="<?php echo $id; ?>" <?php selected($id, $form_id); ?>>
 						<?php echo $title; ?>
 					</option>

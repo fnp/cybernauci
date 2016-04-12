@@ -38,7 +38,7 @@ class NF_Download_All_Subs extends NF_Step_Processing
 
 	/**
 	 * Add an integar to the end of our filename to make sure it is unique
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7.6
 	 * @return $filename
@@ -48,7 +48,7 @@ class NF_Download_All_Subs extends NF_Step_Processing
 		$upload_dir = wp_upload_dir();
 		$file_path = trailingslashit($upload_dir['path']) . $filename . '.csv';
 		if (file_exists($file_path)) {
-			for ($x = 0; $x < 999; $x++) {
+			for ($x = 0; $x < 999; $x++) { 
 				$tmp_name = $filename . '-' . $x;
 				$tmp_path = trailingslashit($upload_dir['path']);
 				if (file_exists($tmp_path . $tmp_name . '.csv')) {
@@ -82,7 +82,7 @@ class NF_Download_All_Subs extends NF_Step_Processing
 			'paged' => $this->step,
 			'post_type' => 'nf_sub',
 			'meta_query' => array(
-				array(
+				array( 
 					'key' => '_form_id',
 					'value' => $this->args['form_id'],
 				),
@@ -104,7 +104,7 @@ class NF_Download_All_Subs extends NF_Step_Processing
 				}
 				if (!in_array($sub->ID, $exported_subs)) {
 					$export .= $sub_export;
-					$exported_subs[] = $sub->ID;
+					$exported_subs[] = $sub->ID;					
 				}
 				$x++;
 			}

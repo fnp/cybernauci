@@ -33,7 +33,7 @@ if (isset($opt['sidebars'][$current_page][$current_tab])) {
 		$order = array();
 	}
 	$ninja_forms_sidebars[$current_page][$current_tab] = ninja_forms_sidebar_sorter($ninja_forms_sidebars[$current_page][$current_tab], $order);
-}
+	}
 $plugin_settings = nf_get_settings();
 ?>
 <div id="menu-settings-column" class="metabox-holder">
@@ -121,15 +121,15 @@ $plugin_settings = nf_get_settings();
 													if (isset($option['options'])) {
 														$x = 0;
 														foreach ($option['options'] as $option) {
-															?>
+												?>
 															<input type="radio" id="<?php echo $name . '_' . $x; ?>"
 																   value="<?php echo $option['value']; ?>" <?php checked($option['value'], $value); ?>
 																   name="<?php echo $name; ?>">
 															<label
 																for="<?php echo $name . '_' . $x; ?>"><?php echo $option['name']; ?></label>
-															<?php
+												<?php
 															$x++;
-														}
+											}
 													}
 													break;
 												case 'select':
@@ -140,15 +140,15 @@ $plugin_settings = nf_get_settings();
 														<?php
 														if (isset($option['options'])) {
 															foreach ($option['options'] as $option) {
-																?>
+												?>
 																<option
 																	value="<?php echo $option['value']; ?>" <?php selected($option['value'], $value); ?>><?php echo $option['name']; ?></option>
-																<?php
-															}
-														}
-														?>
+												<?php
+											}
+										}
+										?>
 													</select>
-													<?php
+									<?php
 													break;
 												case 'text':
 													?>
@@ -173,7 +173,7 @@ $plugin_settings = nf_get_settings();
 														   value="<?php _e('View Submissions', 'ninja-forms'); ?>">
 													<?php
 													break;
-											}
+							}
 											if (isset($option['help']) AND !empty($option['help'])) {
 												?>
 												<a href="#" class="tooltip">
@@ -198,7 +198,7 @@ $plugin_settings = nf_get_settings();
 									</p>
 									<?php
 								}
-							}
+				}
 							?>
 						</div>
 

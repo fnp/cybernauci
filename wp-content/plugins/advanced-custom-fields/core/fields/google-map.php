@@ -74,7 +74,7 @@ class acf_field_google_map extends acf_field
 		foreach ($this->default_values as $k => $v) {
 			if (!$field[$k]) {
 				$field[$k] = $v;
-			}
+			}	
 		}
 
 
@@ -97,7 +97,7 @@ class acf_field_google_map extends acf_field
 		);
 
 		foreach ($keys as $k => $v) {
-			$atts .= ' ' . $k . '="' . esc_attr($field[$v]) . '"';
+			$atts .= ' ' . $k . '="' . esc_attr($field[$v]) . '"';	
 		}
 
 		?>
@@ -162,28 +162,28 @@ class acf_field_google_map extends acf_field
 			<td>
 				<ul class="hl clearfix">
 					<li style="width:48%;">
-						<?php
-
-						do_action('acf/create_field', array(
-							'type' => 'text',
-							'name' => 'fields[' . $key . '][center_lat]',
-							'value' => $field['center_lat'],
-							'prepend' => 'lat',
-							'placeholder' => $this->default_values['center_lat']
-						));
+						<?php 
+			
+				do_action('acf/create_field', array(
+					'type' => 'text',
+					'name' => 'fields[' . $key . '][center_lat]',
+					'value' => $field['center_lat'],
+					'prepend' => 'lat',
+					'placeholder' => $this->default_values['center_lat']
+				));
 
 						?>
 					</li>
 					<li style="width:48%; margin-left:4%;">
-						<?php
-
-						do_action('acf/create_field', array(
-							'type' => 'text',
-							'name' => 'fields[' . $key . '][center_lng]',
-							'value' => $field['center_lng'],
-							'prepend' => 'lng',
-							'placeholder' => $this->default_values['center_lng']
-						));
+						<?php 
+			
+				do_action('acf/create_field', array(
+					'type' => 'text',
+					'name' => 'fields[' . $key . '][center_lng]',
+					'value' => $field['center_lng'],
+					'prepend' => 'lng',
+					'placeholder' => $this->default_values['center_lng']
+				));
 
 						?>
 					</li>
@@ -253,7 +253,7 @@ class acf_field_google_map extends acf_field
 	{
 
 		if (empty($value) || empty($value['lat']) || empty($value['lng'])) {
-
+			
 			return false;
 
 		}

@@ -25,7 +25,7 @@ foreach ($plans as $plan) {
 		}
 
 		$features_plan_map[$feature->id]['plans'][$plan->id] = $feature;
-	}
+		}
 
 	// Add support as a feature.
 	if (!empty($plan->support_email) ||
@@ -43,8 +43,8 @@ foreach ($plans as $plan) {
 		}
 
 		$features_plan_map[$support_feature->id]['plans'][$plan->id] = $support_feature;
+		}
 	}
-}
 
 // Add updates as a feature for all plans.
 $updates_feature = new stdClass();
@@ -87,7 +87,7 @@ foreach ($plans as $plan) {
 							<?php else : ?>
 								<i class="dashicons dashicons-yes"></i>
 							<?php endif ?>
-						<?php endif ?>
+							<?php endif ?>
 					</td>
 				<?php endforeach ?>
 			</tr>

@@ -18,8 +18,8 @@ class acf_field_tab extends acf_field
 		$this->name = 'tab';
 		$this->label = __("Tab", 'acf');
 		$this->category = __("Layout", 'acf');
-
-
+		
+		
 		// do not delete!
 		parent::__construct();
 	}

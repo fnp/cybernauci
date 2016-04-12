@@ -24,4 +24,4 @@ class FS_Plugin_Tag extends FS_Entity
 	{
 		return 'tag';
 	}
-}
+	}

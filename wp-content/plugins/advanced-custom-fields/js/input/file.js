@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  File
 	 *
@@ -9,8 +9,8 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
-
+	
+	
 	// reference
 	var _media = acf.media;
 
@@ -23,19 +23,19 @@
 		o: {},
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('input[type="hidden"]');
 
 
 			// get options
 			this.o = acf.helpers.get_atts(this.$el);
-
-
+			
+			
 			// multiple?
 			this.o.multiple = this.$el.closest('.repeater').exists() ? true : false;
 
@@ -58,12 +58,12 @@
 
 			// is clone field?
 			if (acf.helpers.is_clone_field(this.$input)) {
-
+				
 			}
 
 		},
 		add: function (file) {
-
+			
 			// this function must reference a global div variable due to the pre WP 3.5 uploader
 			// vars
 			var div = _media.div;
@@ -86,7 +86,7 @@
 
 		},
 		edit: function () {
-
+			
 			// vars
 			var id = this.$input.val();
 
@@ -115,11 +115,11 @@
 
 			 });
 			 */
-
-
+			
+			
 			// open
 			_media.frame.on('open', function () {
-
+				
 				// set to browse
 				if (_media.frame.content._mode != 'browse') {
 					_media.frame.content.mode('browse');
@@ -133,8 +133,8 @@
 				// set selection
 				var selection = _media.frame.state().get('selection'),
 					attachment = wp.media.attachment(id);
-
-
+				
+				
 				// to fetch or not to fetch
 				if ($.isEmptyObject(attachment.changed)) {
 					attachment.fetch();
@@ -142,13 +142,13 @@
 
 
 				selection.add(attachment);
-
+						
 			});
 
 
 			// close
 			_media.frame.on('close', function () {
-
+			
 				// remove class
 				_media.frame.$el.closest('.media-modal').removeClass('acf-media-modal');
 
@@ -160,15 +160,15 @@
 
 		},
 		remove: function () {
-
+			
 			// set atts
 			this.$el.find('.acf-file-icon').attr('src', '');
 			this.$el.find('.acf-file-title').text('');
 			this.$el.find('.acf-file-name').text('').attr('href', '');
 			this.$el.find('.acf-file-size').text('');
 			this.$el.find('.acf-file-value').val('').trigger('change');
-
-
+			
+			
 			// remove class
 			this.$el.removeClass('active');
 
@@ -202,7 +202,7 @@
 
 			// customize model / view
 			acf.media.frame.on('content:activate', function () {
-
+				
 				// vars
 				var toolbar = null,
 					filters = null;
@@ -231,7 +231,7 @@
 					filters.$el.after('<span>' + acf.l10n.file.uploadedTo + '</span>');
 
 					$.each(filters.filters, function (k, v) {
-
+						
 						v.props.uploadedTo = acf.o.post_id;
 
 					});
@@ -242,7 +242,7 @@
 
 			// When an image is selected, run a callback.
 			acf.media.frame.on('select', function () {
-
+				
 				// get selected images
 				selection = _media.frame.state().get('selection');
 
@@ -263,8 +263,8 @@
 								$repeater = $tr.closest('.repeater'),
 								key = $td.attr('data-field_key'),
 								selector = 'td .acf-file-uploader:first';
-
-
+								
+							
 							// key only exists for repeater v1.0.1 +
 							if (key) {
 								selector = 'td[data-field_key="' + key + '"] .acf-file-uploader';
@@ -280,7 +280,7 @@
 
 							// update current div
 							_media.div = $tr.next('.row').find(selector);
-
+							
 						}
 
 
@@ -331,28 +331,28 @@
 	 */
 
 	$(document).on('click', '.acf-file-uploader .acf-button-edit', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.file.set({$el: $(this).closest('.acf-file-uploader')}).edit();
-
+			
 	});
 
 	$(document).on('click', '.acf-file-uploader .acf-button-delete', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.file.set({$el: $(this).closest('.acf-file-uploader')}).remove();
-
+			
 	});
 
 
 	$(document).on('click', '.acf-file-uploader .add-file', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.file.set({$el: $(this).closest('.acf-file-uploader')}).popup();
-
+		
 	});
 	
 

@@ -1,6 +1,6 @@
 (function ($) {
-
-
+	
+	
 	/*
 	 *  Validation
 	 *
@@ -10,14 +10,14 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
+	
 	acf.validation = {
 
 		status: true,
 		disabled: false,
 
 		run: function () {
-
+			
 			// reference
 			var _this = this;
 
@@ -28,11 +28,11 @@
 
 			// loop through all fields
 			$('.field.required, .form-field.required').each(function () {
-
+				
 				// run validation
 				_this.validate($(this));
-
-
+				
+	
 			});
 			// end loop through all fields
 		},
@@ -51,10 +51,10 @@
 		 */
 
 		show_spinner: function ($spinner) {
-
+			
 			// bail early if no spinner
 			if (!$spinner.exists()) {
-
+				
 				return;
 
 			}
@@ -66,7 +66,7 @@
 
 			// show
 			if (parseFloat(wp_version) >= 4.2) {
-
+				
 				$spinner.addClass('is-active');
 
 			} else {
@@ -92,10 +92,10 @@
 		 */
 
 		hide_spinner: function ($spinner) {
-
+			
 			// bail early if no spinner
 			if (!$spinner.exists()) {
-
+				
 				return;
 
 			}
@@ -107,7 +107,7 @@
 
 			// hide
 			if (parseFloat(wp_version) >= 4.2) {
-
+				
 				$spinner.removeClass('is-active');
 
 			} else {
@@ -119,7 +119,7 @@
 		},
 
 		validate: function (div) {
-
+			
 			// var
 			var ignore = false,
 				$tab = null;
@@ -165,7 +165,7 @@
 
 			// if field group is hidden, igrnoe
 			if (div.closest('.postbox.acf-hidden').exists()) {
-
+				
 				ignore = true;
 
 			}
@@ -242,7 +242,7 @@
 
 				if (div.find('.repeater tr.row').exists()) {
 					div.data('validation', true);
-				}
+				}			
 			}
 
 
@@ -258,8 +258,8 @@
 
 			// hook for custom validation
 			$(document).trigger('acf/validate_field', [div]);
-
-
+			
+			
 			// set validation
 			if (!div.data('validation')) {
 				// show error
@@ -305,7 +305,7 @@
 	 */
 
 	$(document).on('focus click', '.field.required input, .field.required textarea, .field.required select', function (e) {
-
+	
 		$(this).closest('.field').removeClass('error');
 
 	});
@@ -318,8 +318,8 @@
 
 	 });
 	 */
-
-
+	
+	
 	/*
 	 *  Save Post
 	 *
@@ -333,7 +333,7 @@
 	 */
 
 	$(document).on('click', '#save-post', function () {
-
+		
 		acf.validation.disabled = true;
 
 	});
@@ -352,7 +352,7 @@
 	 */
 
 	$(document).on('submit', '#post', function () {
-
+		
 		// If disabled, bail early on the validation check
 		if (acf.validation.disabled) {
 			return true;
@@ -364,7 +364,7 @@
 
 
 		if (!acf.validation.status) {
-
+			
 			// vars
 			var $form = $(this);
 
@@ -376,7 +376,7 @@
 
 			// hide ajax stuff on submit button
 			if ($('#submitdiv').exists()) {
-
+				
 				// remove disabled classes
 				$('#submitdiv').find('.disabled').removeClass('disabled');
 				$('#submitdiv').find('.button-disabled').removeClass('button-disabled');
@@ -385,7 +385,7 @@
 
 				// remove spinner
 				acf.validation.hide_spinner($('#submitdiv .spinner'));
-
+				
 			}
 
 			return false;

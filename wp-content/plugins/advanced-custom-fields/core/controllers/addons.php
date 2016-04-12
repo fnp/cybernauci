@@ -40,8 +40,8 @@ class acf_addons
 	{
 		// add page
 		$page = add_submenu_page('edit.php?post_type=acf', __('Add-ons', 'acf'), __('Add-ons', 'acf'), 'manage_options', 'acf-addons', array($this, 'html'));
-
-
+		
+		
 		// actions
 		add_action('load-' . $page, array($this, 'load'));
 		add_action('admin_print_scripts-' . $page, array($this, 'admin_print_scripts'));
@@ -216,7 +216,7 @@ class acf_addons
 								<h3><a target="_blank"
 									   href="<?php echo $addon['url']; ?>"><?php echo $addon['title']; ?></a></h3>
 								<p><?php echo $addon['description']; ?></p>
-							</div>
+			</div>
 							<div class="footer">
 								<?php if ($addon['active']): ?>
 									<a class="button button-disabled"><span
@@ -226,7 +226,7 @@ class acf_addons
 									   class="button"><?php _e("Purchase & Install", 'acf'); ?></a>
 								<?php endif; ?>
 							</div>
-						</div>
+		</div>
 					<?php endforeach; ?>
 				</div>
 

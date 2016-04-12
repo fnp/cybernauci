@@ -85,7 +85,7 @@ class FS_Admin_Menu_Manager
 		$this->_logger = FS_Logger::get_logger(WP_FS__SLUG . '_' . $plugin_slug . '_admin_menu', WP_FS__DEBUG_SDK, WP_FS__ECHO_DEBUG_SDK);
 
 		$this->_plugin_slug = $plugin_slug;
-	}
+		}
 
 	/**
 	 * @param string $plugin_slug
@@ -114,7 +114,7 @@ class FS_Admin_Menu_Manager
 		$this->_menu_slug = $menu['slug'];
 
 		$this->_default_submenu_items = array();
-		// @deprecated
+			// @deprecated
 		$this->_type = 'page';
 		$this->_is_top_level = true;
 		$this->_is_override_exact = false;
@@ -131,7 +131,7 @@ class FS_Admin_Menu_Manager
 				'addons' => $this->get_bool_option($menu, 'addons', true),
 			);
 
-			// @deprecated
+				// @deprecated
 			$this->_type = $this->get_option($menu, 'type', 'page');
 			$this->_is_override_exact = $this->get_bool_option($menu, 'override_exact');
 
@@ -158,8 +158,8 @@ class FS_Admin_Menu_Manager
 			if (!empty($this->_first_time_path) && is_string($this->_first_time_path)) {
 				$this->_first_time_path = admin_url($this->_first_time_path, 'admin');
 			}
+			}
 		}
-	}
 
 	private function get_bool_option(&$options, $key, $default = false)
 	{
@@ -271,7 +271,7 @@ class FS_Admin_Menu_Manager
 		} else {
 			return $this->_plugin_slug;
 		}
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -284,7 +284,7 @@ class FS_Admin_Menu_Manager
 		return $this->has_custom_parent() ?
 			$this->get_parent_slug() :
 			$this->get_raw_slug();
-	}
+		}
 
 	/**
 	 * Check if plugin's menu item is part of a custom top level menu.
@@ -371,7 +371,7 @@ class FS_Admin_Menu_Manager
 		if (false === $found_submenu_item) {
 			// Submenu item not found.
 			return false;
-		}
+			}
 
 		// Remove current function.
 		$hookname = get_plugin_page_hookname($menu_slug, $parent_slug);
@@ -426,7 +426,7 @@ class FS_Admin_Menu_Manager
 		}
 
 		return $hookname;
-	}
+		}
 
 	/**
 	 *
@@ -485,14 +485,14 @@ class FS_Admin_Menu_Manager
 
 		if (false === $found_menu) {
 			return false;
-		}
+			}
 
 		return array(
 			'menu' => $found_menu,
 			'position' => $position,
 			'hook_name' => $hook_name
 		);
-	}
+		}
 
 	#endregion Submenu Override
 
@@ -519,7 +519,7 @@ class FS_Admin_Menu_Manager
 		$submenu[$menu_slug] = array();
 
 		return true;
-	}
+		}
 
 	/**
 	 * Check if top level menu.
@@ -567,4 +567,4 @@ class FS_Admin_Menu_Manager
 	}
 
 	#endregion Top level menu Override
-}
+	}

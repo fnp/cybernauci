@@ -76,7 +76,7 @@ jQuery(document).ready(function ($) {
 		var field_id = $(this).prev().prev('.nf-fields-combobox').val();
 		if (field_id != '' && field_id != null) {
 			var shortcode = '[ninja_forms_field id=' + field_id + ']';
-			window.parent.send_to_editor(shortcode);
+			window.parent.send_to_editor(shortcode);			
 		}
 	});
 

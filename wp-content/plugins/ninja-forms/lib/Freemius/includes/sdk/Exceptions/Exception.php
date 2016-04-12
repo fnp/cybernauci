@@ -45,7 +45,7 @@ class Freemius_Exception extends Exception
     public function getResult()
     {
         return $this->_result;
-    }
+        }
 
     /**
      * To make debugging easier.

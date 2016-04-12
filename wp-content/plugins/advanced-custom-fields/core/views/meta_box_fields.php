@@ -91,7 +91,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 	</div>
 	<!-- / No Fields Message -->
 
-	<?php foreach ($fields as $field):
+	<?php foreach ($fields as $field): 
 		$fake_name = $field['key'];
 		?>
 		<div class="field field_type-<?php echo $field['type']; ?> field_key-<?php echo $field['key']; ?>"
@@ -139,7 +139,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 								<p class="description"><?php _e("This is the name which will appear on the EDIT page", 'acf'); ?></p>
 							</td>
 							<td>
-								<?php
+								<?php 
 								do_action('acf/create_field', array(
 									'type' => 'text',
 									'name' => 'fields[' . $fake_name . '][label]',
@@ -155,7 +155,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 								<p class="description"><?php _e("Single word, no spaces. Underscores and dashes allowed", 'acf'); ?></p>
 							</td>
 							<td>
-								<?php
+								<?php 
 								do_action('acf/create_field', array(
 									'type' => 'text',
 									'name' => 'fields[' . $fake_name . '][name]',
@@ -185,7 +185,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 								<p class="description"><?php _e("Instructions for authors. Shown when submitting data", 'acf'); ?></p>
 							</td>
 							<td>
-								<?php
+								<?php 
 								do_action('acf/create_field', array(
 									'type' => 'textarea',
 									'name' => 'fields[' . $fake_name . '][instructions]',
@@ -198,7 +198,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 						<tr class="required">
 							<td class="label"><label><?php _e("Required?", 'acf'); ?></label></td>
 							<td>
-								<?php
+								<?php 
 								do_action('acf/create_field', array(
 									'type' => 'radio',
 									'name' => 'fields[' . $fake_name . '][required]',
@@ -212,16 +212,16 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 								?>
 							</td>
 						</tr>
-						<?php
-
+						<?php 
+						
 						$field['name'] = $fake_name;
 						do_action('acf/create_field_options', $field);
-
+						
 						?>
 						<tr class="conditional-logic" data-field_name="<?php echo $field['key']; ?>">
 							<td class="label"><label><?php _e("Conditional Logic", 'acf'); ?></label></td>
 							<td>
-								<?php
+								<?php 
 								do_action('acf/create_field', array(
 									'type' => 'radio',
 									'name' => 'fields[' . $field['key'] . '][conditional_logic][status]',
@@ -247,8 +247,8 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 									<table
 										class="conditional-logic-rules widefat acf-rules <?php if (count($field['conditional_logic']['rules']) == 1) echo 'remove-disabled'; ?>">
 										<tbody>
-										<?php foreach ($field['conditional_logic']['rules'] as $rule_i => $rule):
-
+										<?php foreach ($field['conditional_logic']['rules'] as $rule_i => $rule): 
+											
 											// validate
 											$rule = array_merge($conditional_logic_rule, $rule);
 
@@ -266,7 +266,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 														   value="<?php echo $rule['field']; ?>"/>
 												</td>
 												<td width="25%">
-													<?php
+													<?php 
 													do_action('acf/create_field', array(
 														'type' => 'select',
 														'name' => 'fields[' . $field['key'] . '][conditional_logic][rules][' . $rule_i . '][operator]',
@@ -300,7 +300,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 												'value' => $field['conditional_logic']['allorany'],
 												'choices' => array(
 													'all' => __("all", 'acf'),
-													'any' => __("any", 'acf'),
+													'any' => __("any", 'acf'),							
 												),
 											)); ?></li>
 										<li style="padding:4px 0 0 4px;"><?php _e("these rules are met", 'acf'); ?></li>
@@ -325,7 +325,7 @@ $error_field_type = '<b>' . __('Error', 'acf') . '</b> ' . __('Field type does n
 						</tr>
 						</tbody>
 					</table>
-				</div>
+			</div>
 			</div>
 		</div>
 	<?php endforeach; ?>

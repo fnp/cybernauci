@@ -9,7 +9,7 @@
 
 function ninja_forms_edit_field_input_limit($field_id, $field_data)
 {
-
+	
 	$field_row = ninja_forms_get_field_by_id($field_id);
 	$field_type = $field_row['type'];
 

@@ -241,7 +241,7 @@ function ninja_forms_field_credit_card_display($field_id, $data, $form_id = '')
 			</div>
 		</div>
 		<?php
-
+	
 	}
 	if (!in_array('cvc', $hide_cc_fields)) {
 
@@ -300,7 +300,7 @@ function ninja_forms_field_credit_card_display($field_id, $data, $form_id = '')
 			</div>
 		</div>
 		<?php
-
+	
 	}
 	if (!in_array('name', $hide_cc_fields)) {
 
@@ -361,7 +361,7 @@ function ninja_forms_field_credit_card_display($field_id, $data, $form_id = '')
 			</div>
 		</div>
 		<?php
-
+	
 	}
 	if (!in_array('expires', $hide_cc_fields)) {
 

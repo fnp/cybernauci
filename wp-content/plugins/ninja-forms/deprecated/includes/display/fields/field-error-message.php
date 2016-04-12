@@ -35,7 +35,7 @@ function ninja_forms_display_field_processing_error($field_id)
 		if (is_array($field_errors)) {
 			foreach ($field_errors as $error) {
 				echo '<p>' . $error['msg'] . '</p>';
-			}
+		}
 		}
 		?>
 	</div>

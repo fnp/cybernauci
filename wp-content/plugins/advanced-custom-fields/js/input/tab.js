@@ -3,7 +3,7 @@
 	acf.fields.tab = {
 
 		add_group: function ($wrap) {
-
+			
 			// vars
 			var html = '';
 
@@ -19,19 +19,19 @@
 
 			// append html
 			$wrap.children('.field_type-tab:first').before(html);
-
+			
 		},
 
 		add_tab: function ($tab) {
-
+			
 			// vars
 			var $field = $tab.closest('.field'),
 				$wrap = $field.parent(),
 
 				key = $field.attr('data-field_key'),
 				label = $tab.text();
-
-
+				
+				
 			// create tab group if it doesnt exist
 			if (!$wrap.children('.acf-tab-wrap').exists()) {
 				this.add_group($wrap);
@@ -43,7 +43,7 @@
 		},
 
 		toggle: function ($a) {
-
+			
 			// reference
 			var _this = this;
 
@@ -52,16 +52,16 @@
 			// vars
 			var $wrap = $a.closest('.acf-tab-wrap').parent(),
 				key = $a.attr('data-key');
-
-
+			
+			
 			// classes
 			$a.parent('li').addClass('active').siblings('li').removeClass('active');
 
 
 			// hide / show
 			$wrap.children('.field_type-tab').each(function () {
-
-
+			
+				
 				// vars
 				var $tab = $(this);
 
@@ -79,28 +79,28 @@
 		},
 
 		show_tab_fields: function ($field) {
-
+			
 			//console.log('show tab fields %o', $field);
 			$field.nextUntil('.field_type-tab').each(function () {
-
+				
 				$(this).removeClass('acf-tab_group-hide').addClass('acf-tab_group-show');
 				$(document).trigger('acf/fields/tab/show', [$(this)]);
-
+				
 			});
 		},
 
 		hide_tab_fields: function ($field) {
 
 			$field.nextUntil('.field_type-tab').each(function () {
-
+				
 				$(this).removeClass('acf-tab_group-show').addClass('acf-tab_group-hide');
 				$(document).trigger('acf/fields/tab/hide', [$(this)]);
-
+				
 			});
 		},
 
 		refresh: function ($el) {
-
+			
 			// reference
 			var _this = this;
 
@@ -111,7 +111,7 @@
 				$(this).find('.acf-tab-button:first').each(function () {
 
 					_this.toggle($(this));
-
+					
 				});
 
 			});
@@ -135,19 +135,19 @@
 	 */
 
 	$(document).on('acf/setup_fields', function (e, el) {
-
+		
 		// add tabs
 		$(el).find('.acf-tab').each(function () {
 
 			acf.fields.tab.add_tab($(this));
-
+			
 		});
 
 
 		// activate first tab
 		acf.fields.tab.refresh($(el));
-
-
+		
+		
 		// NOTE: this code is defined BEFORE the acf.conditional_logic action. This is becuase the 'acf/setup_fields' listener is defined INSIDE the conditional_logic.init() function which is run on doc.ready
 
 		// trigger conditional logic
@@ -171,18 +171,18 @@
 	 */
 
 	$(document).on('click', '.acf-tab-button', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.tab.toggle($(this));
-
+		
 		$(this).trigger('blur');
 
 	});
 
 
 	$(document).on('acf/conditional_logic/hide', function (e, $target, item) {
-
+		
 		// validate
 		if ($target.attr('data-field_type') != 'tab') {
 			return;
@@ -219,7 +219,7 @@
 
 
 	$(document).on('acf/conditional_logic/show', function (e, $target, item) {
-
+		
 		// validate
 		if ($target.attr('data-field_type') != 'tab') {
 			return;

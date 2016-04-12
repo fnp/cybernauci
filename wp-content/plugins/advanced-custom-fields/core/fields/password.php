@@ -66,7 +66,7 @@ class acf_field_password extends acf_field
 		$e .= '<input type="password"';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= ' />';

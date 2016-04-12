@@ -10,7 +10,7 @@
 /*# AVOID COLLISIONS #*/
 ;if (window.jQuery) (function ($) {
 	/*# AVOID COLLISIONS #*/
-
+	
 	// IE6 Background Image Fix
 	if ((!$.support.opacity && !$.support.style)) try {
 		document.execCommand("BackgroundImageCache", false, true)
@@ -21,7 +21,7 @@
 	// plugin initialization
 	$.fn.rating = function (options) {
 		if (this.length == 0) return this; // quick fail
-
+		
 		// Handle API methods
 		if (typeof arguments[0] == 'string') {
 			// Perform API methods on individual elements
@@ -194,7 +194,7 @@
 				context.data('rating', raters);
 				context.data('rating' + eid, rater); // required for ajax forms
 			}); // each element
-
+		
 		// Initialize ratings (first draw)
 		$('.rating-to-be-drawn').rating('draw').removeClass('rating-to-be-drawn');
 
@@ -337,7 +337,7 @@
 		}// $.fn.rating.select
 
 	});
-
+	
 	/*--------------------------------------------------------*/
 
 	/*
@@ -361,7 +361,7 @@
 		//blur:     function(){},  // executed when stars are focused
 		//callback: function(){},  // executed when a star is clicked
 	}; //} });
-
+	
 	/*--------------------------------------------------------*/
 
 

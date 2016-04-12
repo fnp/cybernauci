@@ -124,8 +124,8 @@ class acf_field
 
 		// add to array
 		$fields[$this->category][$this->name] = $this->label;
-
-
+		
+		
 		// return array
 		return $fields;
 	}

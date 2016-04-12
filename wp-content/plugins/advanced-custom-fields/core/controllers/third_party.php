@@ -22,8 +22,8 @@ class acf_third_party
 	{
 		// Tabify Edit Screen - http://wordpress.org/extend/plugins/tabify-edit-screen/
 		add_action('admin_head-settings_page_tabify-edit-screen', array($this, 'admin_head_tabify'));
-
-
+		
+		
 		// Duplicate Post - http://wordpress.org/extend/plugins/duplicate-post/
 		add_action('dp_duplicate_page', array($this, 'dp_duplicate_page'), 11, 2);
 
@@ -76,7 +76,7 @@ class acf_third_party
 
 		// add acf metaboxes to list
 		add_action('tabify_add_meta_boxes', array($this, 'tabify_add_meta_boxes'));
-
+		
 	}
 
 
@@ -117,7 +117,7 @@ class acf_third_party
 				add_meta_box(
 					'acf_' . $acf['id'],
 					$acf['title'],
-					array($this, 'dummy'),
+					array($this, 'dummy'), 
 					$post_type
 				);
 
@@ -130,8 +130,9 @@ class acf_third_party
 	function dummy()
 	{ /* Do Nothing */
 	}
-
-
+	
+	
+	
 	/*
 	*  dp_duplicate_page
 	*
@@ -158,7 +159,7 @@ class acf_third_party
 					$field = $field[0];
 					$field = maybe_unserialize($field);
 					$field = maybe_unserialize($field); // just to be sure!
-
+					
 					// delete old field
 					delete_post_meta($new_post_id, $field_key);
 

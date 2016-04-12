@@ -8,21 +8,21 @@
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
 $this_sdk_version = '1.1.7.4';
 
 #region SDK Selection Logic --------------------------------------------------------------------
 
-/**
- * Special logic added on 1.1.6 to make sure that every Freemius powered plugin
- * will ALWAYS be loaded with the newest SDK from the active Freemius powered plugins.
- *
- * Since Freemius SDK is backward compatible, this will make sure that all Freemius powered
- * plugins will run correctly.
- *
- * @since 1.1.6
- */
+	/**
+	 * Special logic added on 1.1.6 to make sure that every Freemius powered plugin
+	 * will ALWAYS be loaded with the newest SDK from the active Freemius powered plugins.
+	 *
+	 * Since Freemius SDK is backward compatible, this will make sure that all Freemius powered
+	 * plugins will run correctly.
+	 *
+	 * @since 1.1.6
+	 */
 
 global $fs_active_plugins;
 
@@ -37,23 +37,23 @@ if (!isset($fs_active_plugins)) {
 
 	if (!isset($fs_active_plugins->plugins)) {
 		$fs_active_plugins->plugins = array();
+		}
 	}
-}
 
 if (!function_exists('fs_find_direct_caller_plugin_file')) {
 	require_once dirname(__FILE__) . '/includes/supplements/fs-essential-functions-1.1.7.1.php';
-}
+	}
 
 // Update current SDK info based on the SDK path.
 if (!isset($fs_active_plugins->plugins[$this_sdk_relative_path]) ||
 	$this_sdk_version != $fs_active_plugins->plugins[$this_sdk_relative_path]->version
-) {
+	) {
 	$fs_active_plugins->plugins[$this_sdk_relative_path] = (object)array(
 		'version' => $this_sdk_version,
 		'timestamp' => time(),
 		'plugin_path' => plugin_basename(fs_find_direct_caller_plugin_file(__FILE__)),
 	);
-}
+	}
 
 $is_current_sdk_newest = isset($fs_active_plugins->newest) && ($this_sdk_relative_path == $fs_active_plugins->newest->sdk_path);
 
@@ -65,9 +65,9 @@ if (!isset($fs_active_plugins->newest)) {
 
 	$is_current_sdk_newest = true;
 } else if (version_compare($fs_active_plugins->newest->version, $this_sdk_version, '<')) {
-	/**
-	 * Current SDK is newer than the newest stored SDK.
-	 */
+		/**
+		 * Current SDK is newer than the newest stored SDK.
+		 */
 	fs_update_sdk_newest_version($this_sdk_relative_path, $fs_active_plugins->plugins[$this_sdk_relative_path]->plugin_path);
 
 	if (class_exists('Freemius')) {
@@ -83,7 +83,7 @@ if (!isset($fs_active_plugins->newest)) {
 			exit();
 		}
 	}
-} else {
+	} else {
 	if (!function_exists('get_plugins')) {
 		require_once(ABSPATH . 'wp-admin/includes/plugin.php');
 	}
@@ -93,7 +93,7 @@ if (!isset($fs_active_plugins->newest)) {
 	if ($is_current_sdk_newest &&
 		!$is_newest_sdk_plugin_activate &&
 		!$fs_active_plugins->newest->in_activation
-	) {
+		) {
 		// If current SDK is the newest and the plugin is NOT active, it means
 		// that the current plugin in activation mode.
 		$fs_active_plugins->newest->in_activation = true;
@@ -142,11 +142,11 @@ if (!isset($fs_active_plugins->newest)) {
 					if (fs_redirect($_SERVER['REQUEST_URI'])) {
 						exit();
 					}
+					}
 				}
 			}
 		}
 	}
-}
 
 if (class_exists('Freemius')) {
 	// SDK was already loaded.
@@ -165,7 +165,7 @@ if (version_compare($this_sdk_version, $fs_active_plugins->newest->version, '<')
 
 		return;
 	}
-}
+	}
 
 #endregion SDK Selection Logic --------------------------------------------------------------------
 
@@ -335,4 +335,4 @@ if (!class_exists('Freemius')) {
 	{
 		FS_Logger::dump();
 	}
-}
+	}

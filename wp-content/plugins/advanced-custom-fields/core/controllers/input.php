@@ -98,8 +98,8 @@ class acf_controller_input
 				}
 			}
 		}
-
-
+		
+			
 		?>
 		<script type="text/javascript">
 			(function ($) {
@@ -144,7 +144,7 @@ class acf_controller_input
 			'thickbox',
 			'media-upload',
 			'acf-input',
-			'acf-datepicker',
+			'acf-datepicker',	
 		));
 
 
@@ -160,7 +160,7 @@ class acf_controller_input
 			'wp-color-picker',
 			'acf-global',
 			'acf-input',
-			'acf-datepicker',
+			'acf-datepicker',	
 		));
 	}
 			

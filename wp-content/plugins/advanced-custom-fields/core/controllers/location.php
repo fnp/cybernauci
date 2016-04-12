@@ -87,13 +87,13 @@ class acf_location
 
 		// return array
 		$return = apply_filters('acf/location/match_field_groups', array(), $options);
-
-
+		
+		
 		// echo json
 		echo json_encode($return);
 
 
-		die();
+		die();	
 	}
 
 
@@ -132,7 +132,7 @@ class acf_location
 
 		// Parse values
 		$options = apply_filters('acf/parse_types', $options);
-
+		
 
 		// WPML
 		if (defined('ICL_LANGUAGE_CODE')) {
@@ -232,9 +232,9 @@ class acf_location
 			$match = ($post_type === $rule['value']);
         } elseif ($rule['operator'] == "!=") {
 			$match = ($post_type !== $rule['value']);
-        }
-
-
+		}
+        
+	
 		return $match;
 	}
 
@@ -267,7 +267,7 @@ class acf_location
 			$match = ($options['post_id'] == $rule['value']);
         } elseif ($rule['operator'] == "!=") {
 			$match = ($options['post_id'] != $rule['value']);
-        }
+		}
 
 		return $match;
 
@@ -301,8 +301,8 @@ class acf_location
 			} elseif ($rule['operator'] == "!=") {
 				$match = ($front_page != $post->ID);
 			}
-	        
-        } elseif ($rule['value'] == 'posts_page') {
+
+		} elseif ($rule['value'] == 'posts_page') {
 
 			$posts_page = (int)get_option('page_for_posts');
 
@@ -312,8 +312,8 @@ class acf_location
 			} elseif ($rule['operator'] == "!=") {
 				$match = ($posts_page != $post->ID);
 			}
-	        
-        } elseif ($rule['value'] == 'top_level') {
+
+		} elseif ($rule['value'] == 'top_level') {
 			$post_parent = $post->post_parent;
 			if ($options['page_parent']) {
 				$post_parent = $options['page_parent'];
@@ -325,8 +325,8 @@ class acf_location
 			} elseif ($rule['operator'] == "!=") {
 				$match = ($post_parent != 0);
 			}
-	        
-        } elseif ($rule['value'] == 'parent') {
+
+		} elseif ($rule['value'] == 'parent') {
 
 			$children = get_pages(array(
 				'post_type' => $post->post_type,
@@ -339,8 +339,8 @@ class acf_location
 			} elseif ($rule['operator'] == "!=") {
 				$match = (count($children) == 0);
 			}
-	        
-        } elseif ($rule['value'] == 'child') {
+
+		} elseif ($rule['value'] == 'child') {
 
 			$post_parent = $post->post_parent;
 			if ($options['page_parent']) {
@@ -379,7 +379,7 @@ class acf_location
 
 		// vars
 		$post = get_post($options['post_id']);
-
+		
 		$post_parent = $post->post_parent;
 		if ($options['page_parent']) {
 			$post_parent = $options['page_parent'];
@@ -390,7 +390,7 @@ class acf_location
 			$match = ($post_parent == $rule['value']);
         } elseif ($rule['operator'] == "!=") {
 			$match = ($post_parent != $rule['value']);
-        }
+		}
 
 
 		return $match;
@@ -431,7 +431,7 @@ class acf_location
 			$match = ($page_template === $rule['value']);
         } elseif ($rule['operator'] == "!=") {
 			$match = ($page_template !== $rule['value']);
-        }
+		}
 
 		return $match;
 
@@ -493,16 +493,16 @@ class acf_location
 
 			if ($terms) {
 				if (in_array($rule['value'], $terms)) {
-					$match = true;
+					$match = true; 
 				}
 			}
-  
-        } elseif ($rule['operator'] == "!=") {
+
+		} elseif ($rule['operator'] == "!=") {
 			$match = true;
 
 			if ($terms) {
 				if (in_array($rule['value'], $terms)) {
-					$match = false;
+					$match = false; 
 				}
 			}
 
@@ -590,7 +590,7 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
 			$match = ($plugin_page === $rule['value']);
         } elseif ($rule['operator'] == "!=") {
 			$match = ($plugin_page !== $rule['value']);
-        }
+		}
 
 
 		return $match;
@@ -610,7 +610,7 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
 	{
 		// vars
 		$post_format = $options['post_format'];
-		if (!$post_format) {
+		if (!$post_format) {	
 			// validate
 			if (!$options['post_id']) {
 				return false;
@@ -639,7 +639,7 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
         	 
         } elseif ($rule['operator'] == "!=") {
 			$match = ($post_format !== $rule['value']);
-        }
+		}
 
 
 		return $match;
@@ -679,7 +679,7 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
         	 
         } elseif ($rule['operator'] == "!=") {
 			$match = ($post_status !== $rule['value']);
-        }
+		}
 
 
 		// return
@@ -747,16 +747,16 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
 
 			if ($terms) {
 				if (in_array($rule['value'], $terms)) {
-					$match = true;
+					$match = true; 
 				}
 			}
-  
-        } elseif ($rule['operator'] == "!=") {
+
+		} elseif ($rule['operator'] == "!=") {
 			$match = true;
 
 			if ($terms) {
 				if (in_array($rule['value'], $terms)) {
-					$match = false;
+					$match = false; 
 				}
 			}
 
@@ -800,8 +800,10 @@ if( substr($rule['value'], 0, 11) != 'acf-options' )
 				}
 
 			}
-
-
+			
+	        
+	        
+			
 		}
 		
         

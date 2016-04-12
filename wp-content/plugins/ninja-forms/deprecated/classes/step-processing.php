@@ -45,7 +45,7 @@ class NF_Step_Processing
 
 	/**
 	 * Get things rolling
-	 *
+	 * 
 	 * @since 2.7.4
 	 * @return void
 	 */
@@ -68,7 +68,7 @@ class NF_Step_Processing
 	/**
 	 * Process our request.
 	 * Call the appropriate loading or step functions.
-	 *
+	 * 
 	 * @since 2.7.6
 	 * @return void
 	 */
@@ -83,7 +83,7 @@ class NF_Step_Processing
 			}
 		} else {
 			$this->args = array();
-		}
+		}	
 
 		// Get our current step.
 		$this->step = isset ($_REQUEST['step']) ? esc_html($_REQUEST['step']) : 'loading';
@@ -156,7 +156,7 @@ class NF_Step_Processing
 	/**
 	 * Run our loading process.
 	 * This function should be overwritten in child classes.
-	 *
+	 * 
 	 * @since 2.7.4
 	 * @return array $args
 	 */
@@ -168,19 +168,19 @@ class NF_Step_Processing
 	/**
 	 * This function is called for every step.
 	 * This function should be overwritten in child classes.
-	 *
+	 * 
 	 * @since 2.7.4
 	 * @return array $args
 	 */
 	public function step()
 	{
 		// This space left intentionally blank.
-	}
+	}	
 
 	/**
 	 * This function is called for every step.
 	 * This function should be overwritten in child classes.
-	 *
+	 * 
 	 * @since 2.7.4
 	 * @return array $args
 	 */

@@ -76,16 +76,16 @@ function ninja_forms_edit_field_el_output($field_id, $type, $label = '', $name =
 				case 'select':
 					?>
 					<select id="<?php echo $id; ?>" name="<?php echo $name; ?>" class="<?php echo $class; ?>">
-						<?php
-						if (is_array($options) AND !empty($options)) {
-							foreach ($options as $opt) {
-								?>
-								<option
-									value="<?php echo $opt['value']; ?>" <?php selected($opt['value'], $value); ?> ><?php _e($opt['name'], 'ninja-forms'); ?></option>
-								<?php
-							}
-						}
+				<?php
+				if (is_array($options) AND !empty($options)) {
+					foreach ($options as $opt) {
 						?>
+						<option
+							value="<?php echo $opt['value']; ?>" <?php selected($opt['value'], $value); ?> ><?php _e($opt['name'], 'ninja-forms'); ?></option>
+						<?php
+					}
+				}
+				?>
 					</select>
 					<?php
 					break;
@@ -96,11 +96,11 @@ function ninja_forms_edit_field_el_output($field_id, $type, $label = '', $name =
 						<?php
 						if (is_array($options) AND !empty($options)) {
 							foreach ($options as $opt) {
-								?>
+						?>
 								<option
 									value="<?php echo $opt['value']; ?>" <?php selected($opt['value'], $value); ?> ><?php _e($opt['name'], 'ninja-forms'); ?></option>
-								<?php
-							}
+						<?php
+					}
 						}
 						?>
 					</select>
@@ -145,11 +145,11 @@ function ninja_forms_edit_field_el_output($field_id, $type, $label = '', $name =
 						if (isset ($_POST['action']) && ($_POST['action'] == 'ninja_forms_new_field' || $_POST['action'] == 'nf_output_field_settings_html'))
 							$nf_rte_editors[] = $editor_id;
 					} else {
-						?>
+				?>
 						<textarea id="<?php echo $id; ?>" name="<?php echo $name; ?>" class="<?php echo $class; ?>"
 								  rows="3" cols="20"><?php echo $value; ?></textarea>
-						<?php
-					}
+				<?php
+			}
 
 					break;
 			}
@@ -159,7 +159,7 @@ function ninja_forms_edit_field_el_output($field_id, $type, $label = '', $name =
 				<span class="description">
 			<?php _e($desc, 'ninja-forms'); ?>
 		</span>
-				<?php
+	<?php
 			}
 			if ($type != 'rte'){
 			?>

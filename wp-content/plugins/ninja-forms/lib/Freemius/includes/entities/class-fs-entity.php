@@ -1,29 +1,29 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.3
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.3
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
-/**
- * Get object's public variables.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.0.0
- *
- * @param object $object
- *
- * @return array
- */
+	/**
+	 * Get object's public variables.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.0.0
+	 *
+	 * @param object $object
+	 *
+	 * @return array
+	 */
 function fs_get_object_public_vars($object)
 {
 	return get_object_vars($object);
-}
+	}
 
 class FS_Entity
 {
@@ -57,7 +57,7 @@ class FS_Entity
 				$entity->{$key} :
 				$def_value;
 		}
-	}
+		}
 
 	static function get_type()
 	{
@@ -83,7 +83,7 @@ class FS_Entity
 			return is_null($entity1->id);
 		} else {
 			return is_null($entity2->id);
-		}
+			}
 	}
 
 	/**
@@ -114,7 +114,7 @@ class FS_Entity
 	{
 		if (!is_array($key)) {
 			$key = array($key => $val);
-		}
+			}
 
 		$is_updated = false;
 
@@ -153,4 +153,4 @@ class FS_Entity
 	{
 		return $this->_is_updated;
 	}
-}
+	}

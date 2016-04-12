@@ -56,7 +56,7 @@ class FS_Plugin_Updater
 
 		// WP 3.0+
 		add_filter('pre_set_site_transient_update_plugins', array(
-			&$this,
+				&$this,
 			'pre_set_site_transient_update_plugins_filter'
 		));
 
@@ -86,7 +86,7 @@ class FS_Plugin_Updater
 				'http_request_host_is_external_filter'
 			), 10, 3);
 		}
-	}
+		}
 
 	/**
 	 * Capture plugin update row by turning output buffering.
@@ -97,7 +97,7 @@ class FS_Plugin_Updater
 	function catch_plugin_update_row()
 	{
 		ob_start();
-	}
+		}
 
 	/**
 	 * Overrides default update message format with "renew your license" message.
@@ -206,7 +206,7 @@ class FS_Plugin_Updater
 		}
 
 		return $transient_data;
-	}
+		}
 
 	/**
 	 * Updates information on the "View version x.x details" page with custom data.
@@ -243,7 +243,7 @@ class FS_Plugin_Updater
 			}
 
 			$is_addon = true;
-		}
+			}
 
 		$plugin_in_repo = false;
 		if (!$is_addon) {
@@ -292,7 +292,7 @@ $data = $info;
 		$data->download_link = $new_version->url;
 
 		return $data;
-	}
+		}
 
 	/**
 	 * Try to fetch plugin's info from .org repository.
@@ -334,4 +334,4 @@ $data = $info;
 
 		return $res;
 	}
-}
+	}

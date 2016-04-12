@@ -231,7 +231,7 @@ body.custom-fields_page_acf-settings .wp-pointer-arrow {
 	margin: 0 0 30px;
 }
 
-.acf-content-body hr {
+.acf-content-body hr {	
 	border: 0 none;
 	border-top: #DFDFDF solid 1px;
 	background: transparent;
@@ -295,9 +295,11 @@ body.custom-fields_page_acf-settings .wp-pointer-arrow {
 
 }
 
+
 /*
 *  Download
 */
+
 
 #acf-download-add-ons-table {
 	width: auto;
@@ -331,7 +333,7 @@ body.custom-fields_page_acf-settings .wp-pointer-arrow {
 *-------------------------------------------------------------------------*/
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (   min--moz-device-pixel-ratio: 2), only screen and (     -o-min-device-pixel-ratio: 2/1), only screen and (        min-device-pixel-ratio: 2), only screen and (                min-resolution: 192dpi), only screen and (                min-resolution: 2dppx) {
-
+	
 	#icon-edit,
 	#icon-acf {
 		background-image: url(../images/sprite@2x.png);

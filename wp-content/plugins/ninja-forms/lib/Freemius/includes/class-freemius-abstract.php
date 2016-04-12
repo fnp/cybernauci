@@ -1,25 +1,25 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.7
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.7
+	 */
 if (!defined('ABSPATH')) {
 	exit;
 }
 
 
-/**
- * - Each instance of Freemius class represents a single plugin
- * install by a single user (the installer of the plugin).
- *
- * - Each website can only have one install of the same plugin.
- *
- * - Install entity is only created after a user connects his account with Freemius.
- *
- * Class Freemius_Abstract
- */
+	/**
+	 * - Each instance of Freemius class represents a single plugin
+	 * install by a single user (the installer of the plugin).
+	 *
+	 * - Each website can only have one install of the same plugin.
+	 *
+	 * - Install entity is only created after a user connects his account with Freemius.
+	 *
+	 * Class Freemius_Abstract
+	 */
 abstract class Freemius_Abstract
 {
 

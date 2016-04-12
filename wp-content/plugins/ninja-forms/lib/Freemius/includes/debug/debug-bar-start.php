@@ -28,10 +28,10 @@ function fs_custom_panels_init($panels)
 			require_once dirname(__FILE__) . '/class-fs-debug-bar-panel.php';
 			$panels[] = new Freemius_Debug_Bar_Panel();
 		}
-	}
+		}
 
 	return $panels;
-}
+	}
 
 function fs_custom_status_init($statuses)
 {
@@ -45,10 +45,10 @@ function fs_custom_status_init($statuses)
 				' (' . Freemius_Debug_Bar_Panel::total_time() . ')'
 			);
 		}
-	}
+		}
 
 	return $statuses;
-}
+	}
 
 add_filter('debug_bar_panels', 'fs_custom_panels_init');
 add_filter('debug_bar_statuses', 'fs_custom_status_init');

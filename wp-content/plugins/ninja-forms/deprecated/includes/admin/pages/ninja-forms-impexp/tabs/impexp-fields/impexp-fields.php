@@ -136,7 +136,7 @@ function ninja_forms_save_impexp_fields($data)
 	} elseif ($_POST['submit'] == __('Import Favorites', 'ninja-forms')) {
 
 		if ($_FILES['userfile']['error'] == UPLOAD_ERR_OK AND is_uploaded_file($_FILES['userfile']['tmp_name'])) {
-
+			
 			$file = file_get_contents($_FILES['userfile']['tmp_name']);
 			$favorites = unserialize($file);
 			if (is_array($favorites)) {

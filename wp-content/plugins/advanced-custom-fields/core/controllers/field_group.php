@@ -26,8 +26,8 @@ class acf_field_group
 	{
 		// actions
 		add_action('admin_enqueue_scripts', array($this, 'admin_enqueue_scripts'));
-
-
+		
+		
 		// filters
 		add_filter('acf/get_field_groups', array($this, 'get_field_groups'), 1, 1);
 		add_filter('acf/field_group/get_fields', array($this, 'get_fields'), 5, 2);
@@ -93,8 +93,8 @@ class acf_field_group
 
 		// set cache
 		wp_cache_set('field_groups', $array, 'acf');
-
-
+				
+				
 		return $array;
 	}
 
@@ -115,7 +115,7 @@ class acf_field_group
 
 		// loaded by PHP already?
 		if (!empty($fields)) {
-			return $fields;
+			return $fields;	
 		}
 
 
@@ -153,7 +153,7 @@ class acf_field_group
 	{
 		// loaded by PHP already?
 		if (!empty($location)) {
-			return $location;
+			return $location;	
 		}
 
 
@@ -215,7 +215,7 @@ class acf_field_group
 	{
 		// loaded by PHP already?
 		if (!empty($options)) {
-			return $options;
+			return $options;	
 		}
 
 
@@ -264,16 +264,16 @@ class acf_field_group
 		if (!$this->validate_page()) {
 			return;
 		}
-
-
+		
+		
 		// settings
 		$this->settings = apply_filters('acf/get_info', 'all');
 
 
 		// no autosave
 		wp_dequeue_script('autosave');
-
-
+		
+		
 		// custom scripts
 		wp_enqueue_script(array(
 			'acf-field-group',
@@ -290,7 +290,7 @@ class acf_field_group
 		// actions
 		do_action('acf/field_group/admin_enqueue_scripts');
 		add_action('admin_head', array($this, 'admin_head'));
-
+		
 	}
 
 
@@ -314,7 +314,7 @@ class acf_field_group
 
 		// validate page
 		if (in_array($pagenow, array('post.php', 'post-new.php'))) {
-
+		
 			// validate post type
 			if ($typenow == "acf") {
 				$return = true;
@@ -384,8 +384,8 @@ class acf_field_group
 		add_meta_box('acf_fields', __("Fields", 'acf'), array($this, 'html_fields'), 'acf', 'normal', 'high');
 		add_meta_box('acf_location', __("Location", 'acf'), array($this, 'html_location'), 'acf', 'normal', 'high');
 		add_meta_box('acf_options', __("Options", 'acf'), array($this, 'html_options'), 'acf', 'normal', 'high');
-
-
+		
+		
 		// add screen settings
 		add_filter('screen_settings', array($this, 'screen_settings'), 10, 1);
 	}
@@ -491,16 +491,16 @@ class acf_field_group
 		// find key (not actual field key, more the html attr name)
 		$options['field_key'] = str_replace("fields[", "", $options['field_key']);
 		$options['field_key'] = str_replace("][type]", "", $options['field_key']);
-
-
+		
+		
 		// render options
 		$field = array(
 			'type' => $options['field_type'],
 			'name' => $options['field_key']
 		);
 		do_action('acf/create_field_options', $field);
-
-
+		
+		
 		die();
 
 	}
@@ -585,15 +585,15 @@ class acf_field_group
 						}
 
 						$title .= apply_filters('the_title', $page->post_title, $page->ID);
-
-
+						
+						
 						// status
 						if ($page->post_status != "publish") {
 							$title .= " ($page->post_status)";
 						}
 
 						$choices[$page->ID] = $title;
-
+						
 					}
 					// foreach($pages as $page)
 
@@ -635,7 +635,7 @@ class acf_field_group
 
 				if ($post_types) {
 					foreach ($post_types as $post_type) {
-
+						
 						$posts = get_posts(array(
 							'numberposts' => '-1',
 							'post_type' => $post_type,
@@ -648,7 +648,7 @@ class acf_field_group
 
 							foreach ($posts as $post) {
 								$title = apply_filters('the_title', $post->post_title, $post->ID);
-
+								
 								// status
 								if ($post->post_status != "publish") {
 									$title .= " ($post->post_status)";
@@ -677,7 +677,7 @@ class acf_field_group
 					foreach ($terms as $term) {
 
 						$choices[$term->term_id] = $term->name;
-
+						
 					}
 
 				}
@@ -746,7 +746,7 @@ class acf_field_group
 				global $wp_roles;
 
 				$choices = array_merge(array('all' => __('All', 'acf')), $wp_roles->get_names());
-
+			
 				break;
 
 
@@ -761,8 +761,8 @@ class acf_field_group
 
 		// allow custom location rules
 		$choices = apply_filters('acf/location/rule_values/' . $options['param'], $choices);
-
-
+							
+		
 		// create field
 		do_action('acf/create_field', array(
 			'type' => 'select',
@@ -777,9 +777,9 @@ class acf_field_group
 			die();
 		}
 
-	}
-
-
+	}	
+	
+	
 	/*
 	*  name_save_pre
 	*
@@ -851,7 +851,8 @@ class acf_field_group
 
 			// remove clone field
 			unset($_POST['fields']['field_clone']);
-
+			
+			
 
 			// loop through and save fields
 			foreach ($_POST['fields'] as $key => $field) {
@@ -865,15 +866,15 @@ class acf_field_group
 
 				// save
 				do_action('acf/update_field', $field, $post_id);
-
-
+				
+				
 				// add to dont delete array
 				$dont_delete[] = $field['key'];
 			}
 		}
 		unset($_POST['fields']);
-
-
+		
+		
 		// delete all other field
 		$keys = get_post_custom_keys($post_id);
 		foreach ($keys as $key) {
@@ -890,8 +891,8 @@ class acf_field_group
 
 		if (isset($_POST['location']) && is_array($_POST['location'])) {
 			delete_post_meta($post_id, 'rule');
-
-
+			
+			
 			// clean array keys
 			$_POST['location'] = array_values($_POST['location']);
 			foreach ($_POST['location'] as $group_id => $group) {
@@ -924,8 +925,8 @@ class acf_field_group
 
 
 		unset($_POST['options']);
-
-
+	
+		
 	}
 	
 			

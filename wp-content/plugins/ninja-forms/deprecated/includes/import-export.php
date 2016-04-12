@@ -41,7 +41,7 @@ function ninja_forms_import_form($file)
 	}
 
 	$form['field'] = $form_fields;
-	$form['notifications'] = $notifications;
+	$form['notifications'] = $notifications;	
 
 	// Insert any notifications we might have.
 	if (is_array($notifications)) {

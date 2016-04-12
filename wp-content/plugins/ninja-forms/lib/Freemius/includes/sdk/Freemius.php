@@ -81,7 +81,7 @@ class Freemius_Api extends Freemius_Api_Base
 		}
 
 		parent::Init($pScope, $pID, $pPublic, $pSecret, $pSandbox);
-	}
+		}
 
 	/**
 	 * Set clock diff for all API calls.
@@ -136,7 +136,7 @@ class Freemius_Api extends Freemius_Api_Base
 		}
 
 		return $result;
-	}
+		}
 
 	/**
 	 * @param string $pCanonizedPath
@@ -193,7 +193,7 @@ class Freemius_Api extends Freemius_Api_Base
 			}
 
 			$opts[CURLOPT_RETURNTRANSFER] = true;
-		}
+			}
 
 		$opts[CURLOPT_URL] = Freemius_Api::GetUrl($pCanonizedPath, $pIsSandbox);
 		$opts[CURLOPT_CUSTOMREQUEST] = $pMethod;
@@ -241,8 +241,8 @@ class Freemius_Api extends Freemius_Api_Base
 					curl_setopt($pCurlHandler, CURLOPT_IPRESOLVE, CURL_IPRESOLVE_V4);
 					$result = self::ExecuteRequest($pCurlHandler, $opts);
 				}
+				}
 			}
-		}
 
 		if ($result === false) {
 			self::ThrowCurlException($pCurlHandler);
@@ -275,10 +275,10 @@ class Freemius_Api extends Freemius_Api_Base
 					)
 				);
 			}
-		}
+			}
 
 		return $decoded;
-	}
+		}
 
 	/**
 	 * @param string $pResult
@@ -340,7 +340,7 @@ class Freemius_Api extends Freemius_Api_Base
 		}
 
 		return $address . $pCanonizedPath;
-	}
+		}
 
 	/**
 	 * @param resource $pCurlHandler
@@ -374,7 +374,7 @@ class Freemius_Api extends Freemius_Api_Base
 		}
 
 		return $result;
-	}
+		}
 
 	/**
 	 * @param resource $pCurlHandler
@@ -587,4 +587,4 @@ class Freemius_Api extends Freemius_Api_Base
 	}
 
 	#endregion Connectivity Exceptions ------------------------------------------------------
-}
+	}

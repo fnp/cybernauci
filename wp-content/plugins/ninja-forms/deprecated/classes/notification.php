@@ -40,7 +40,7 @@ class NF_Notification
 
 	/**
 	 * Get things rolling
-	 *
+	 * 
 	 * @since 2.8
 	 * @return void
 	 */
@@ -54,7 +54,7 @@ class NF_Notification
 
 	/**
 	 * Ouptut our admin screen
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -68,7 +68,7 @@ class NF_Notification
 
 	/**
 	 * Delete our notification
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -80,7 +80,7 @@ class NF_Notification
 
 	/**
 	 * Activate our notification
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -93,7 +93,7 @@ class NF_Notification
 
 	/**
 	 * Deactivate our notification
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -125,7 +125,7 @@ class NF_Notification
 
 	/**
 	 * Run our notification processing function
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -134,13 +134,13 @@ class NF_Notification
 	{
 		$type = $this->type;
 		if (isset (Ninja_Forms()->notification_types[$type]) && is_object(Ninja_Forms()->notification_types[$type])) {
-			Ninja_Forms()->notification_types[$type]->process($this->id);
+			Ninja_Forms()->notification_types[$type]->process($this->id);			
 		}
 	}
 
 	/**
 	 * Get a notification setting
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return string $meta_value
@@ -152,7 +152,7 @@ class NF_Notification
 
 	/**
 	 * Update a notification setting
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return bool
@@ -165,7 +165,7 @@ class NF_Notification
 
 	/**
 	 * Get our notification type name
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return string $name

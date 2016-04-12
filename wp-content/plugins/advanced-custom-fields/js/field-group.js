@@ -16,8 +16,8 @@ var acf = {
 	nonce: '',
 	l10n: {},
 	text: {},
-
-
+	
+	
 	// helper functions
 	helpers: {
 		uniqid: null,
@@ -131,11 +131,11 @@ var acf = {
 	 *  @param	N/A
 	 *  @return	N/A
 	 */
-
+	
 	var acf_submit = {
 
 		init: function () {
-
+			
 			// events
 			$(document).on('submit', '#post', this.submit);
 
@@ -147,7 +147,7 @@ var acf = {
 		},
 
 		submit: function (e) {
-
+			
 			// validate post title
 			var $title = $('#titlewrap #title'),
 				$spinner = $('#submitdiv .spinner').last(),
@@ -156,7 +156,7 @@ var acf = {
 
 			// title empty
 			if (!$title.val()) {
-
+				
 				// prevent default
 				e.preventDefault();
 
@@ -164,12 +164,12 @@ var acf = {
 				// hide spinner
 				acf_submit.hide_spinner($spinner);
 				acf_submit.enable_submit($submit);
-
-
+				
+				
 				// alert
 				alert(acf.l10n.title);
-
-
+				
+				
 				// focus
 				$title.focus();
 
@@ -178,18 +178,18 @@ var acf = {
 		},
 
 		hide_spinner: function ($spinner) {
-
+			
 			// bail early if no spinner
 			if (!$spinner.exists()) return;
-
-
+			
+			
 			// vars
 			var wp_version = acf.wp_version;
 
 
 			// hide
 			if (parseFloat(wp_version) >= 4.2) {
-
+				
 				$spinner.removeClass('is-active');
 
 			} else {
@@ -201,10 +201,10 @@ var acf = {
 		},
 
 		enable_submit: function ($submit) {
-
+			
 			// bail early if no submit
 			if (!$submit.exists()) {
-
+				
 				return;
 
 			}
@@ -243,7 +243,7 @@ var acf = {
 	 */
 
 	$(document).on('change', '#acf_fields tr.field_type select', function () {
-
+		
 		// vars
 		var select = $(this),
 			tbody = select.closest('tbody'),
@@ -338,12 +338,12 @@ var acf = {
 
 		// update class
 		field.attr('class', field.attr('class').replace(old_id, new_id));
-
-
+		
+		
 		// update field key column
 		field.find('.field_meta td.field_key').text(new_id);
-
-
+		
+		
 		// update attributes
 		field.find('[id*="' + old_id + '"]').each(function () {
 			$(this).attr('id', $(this).attr('id').replace(old_id, new_id));
@@ -384,7 +384,7 @@ var acf = {
 	 */
 
 	$(document).on('click', '#acf_fields a.acf_edit_field', function () {
-
+		
 		var $field = $(this).closest('.field');
 
 		if ($field.hasClass('form_open')) {
@@ -397,7 +397,7 @@ var acf = {
 		}
 
 		$field.children('.field_form_mask').animate({'height': 'toggle'}, 250);
-
+		
 	});
 
 
@@ -410,7 +410,7 @@ var acf = {
 	 */
 
 	$(document).on('click', '#acf_fields a.acf_delete_field', function () {
-
+		
 		// vars
 		var a = $(this),
 			field = a.closest('.field'),
@@ -420,7 +420,7 @@ var acf = {
 
 		// fade away
 		field.animate({'left': '50px', 'opacity': 0}, 250, function () {
-
+			
 			field.before(temp);
 			field.remove();
 
@@ -453,7 +453,7 @@ var acf = {
 	 */
 
 	$(document).on('click', '#acf_fields a.acf_duplicate_field', function () {
-
+			
 		// vars
 		var a = $(this),
 			field = a.closest('.field'),
@@ -479,8 +479,8 @@ var acf = {
 
 		// add new field
 		field.after(new_field);
-
-
+		
+		
 		// set select values
 		new_field.find('select').each(function () {
 			$(this).val($(this).attr('data-val')).trigger('change');
@@ -521,7 +521,7 @@ var acf = {
 	 */
 
 	$(document).on('click', '#acf_fields #add_field', function () {
-
+		
 		var fields = $(this).closest('.table_footer').siblings('.fields');
 
 
@@ -548,7 +548,7 @@ var acf = {
 
 
 		// clear name
-		new_field.find('tr.field_type select').trigger('change');
+		new_field.find('tr.field_type select').trigger('change');	
 		new_field.find('.field_form input[type="text"]').val('');
 
 
@@ -581,7 +581,7 @@ var acf = {
 	 */
 
 	$(document).on('blur', '#acf_fields tr.field_label input.label', function () {
-
+	
 		// vars
 		var $label = $(this),
 			$field = $label.closest('.field'),
@@ -643,21 +643,21 @@ var acf = {
 	 */
 
 	$(document).on('keyup', '#acf_fields .field_form tr.field_label input.label', function () {
-
+	
 		var val = $(this).val();
 		var name = $(this).closest('.field').find('td.field_label strong a').first().html(val);
 
 	});
 
 	$(document).on('keyup', '#acf_fields .field_form tr.field_name input.name', function () {
-
+	
 		var val = $(this).val();
 		var name = $(this).closest('.field').find('td.field_name').first().html(val);
 
 	});
 
 	$(document).on('change', '#acf_fields .field_form tr.field_type select', function () {
-
+	
 		var val = $(this).val();
 		var label = $(this).find('option[value="' + val + '"]').html();
 
@@ -668,7 +668,7 @@ var acf = {
 
 	// sortable
 	$(document).on('mouseover', '#acf_fields td.field_order', function () {
-
+		
 		// vars
 		var fields = $(this).closest('.fields');
 
@@ -696,7 +696,7 @@ var acf = {
 	 */
 
 	$(document).ready(function () {
-
+		
 		acf.location.init();
 
 		acf.conditional_logic.init();
@@ -712,11 +712,11 @@ var acf = {
 	 *  @since: 4.0.3
 	 *  @created: 13/04/13
 	 */
-
+	
 	acf.location = {
 		$el: null,
 		init: function () {
-
+			
 			// vars
 			var _this = this;
 
@@ -729,7 +729,7 @@ var acf = {
 			_this.$el.on('click', '.location-add-rule', function () {
 
 				_this.add_rule($(this).closest('tr'));
-
+				
 				return false;
 
 			});
@@ -739,7 +739,7 @@ var acf = {
 			_this.$el.on('click', '.location-remove-rule', function () {
 
 				_this.remove_rule($(this).closest('tr'));
-
+				
 				return false;
 
 			});
@@ -747,7 +747,7 @@ var acf = {
 
 			// add rule
 			_this.$el.on('click', '.location-add-group', function () {
-
+							
 				_this.add_group();
 
 				return false;
@@ -757,7 +757,7 @@ var acf = {
 
 			// change rule
 			_this.$el.on('change', '.param select', function () {
-
+							
 				// vars
 				var $tr = $(this).closest('tr'),
 					rule_id = $tr.attr('data-id'),
@@ -776,8 +776,8 @@ var acf = {
 				// add loading gif
 				var div = $('<div class="acf-loading"></div>');
 				$tr.find('td.value').html(div);
-
-
+				
+				
 				// load location html
 				$.ajax({
 					url: acf.ajaxurl,
@@ -785,7 +785,7 @@ var acf = {
 					type: 'post',
 					dataType: 'html',
 					success: function (html) {
-
+		
 						div.replaceWith(html);
 
 					}
@@ -796,7 +796,7 @@ var acf = {
 
 		},
 		add_rule: function ($tr) {
-
+			
 			// vars
 			var $tr2 = $tr.clone(),
 				old_id = $tr2.attr('data-id'),
@@ -808,23 +808,23 @@ var acf = {
 
 				$(this).attr('name', $(this).attr('name').replace(old_id, new_id));
 				$(this).attr('id', $(this).attr('id').replace(old_id, new_id));
-
+				
 			});
 
 
 			// update data-i
 			$tr2.attr('data-id', new_id);
-
-
+			
+			
 			// add tr
 			$tr.after($tr2);
-
-
+					
+			
 			return false;
 
 		},
 		remove_rule: function ($tr) {
-
+			
 			// vars
 			var siblings = $tr.siblings('tr').length;
 
@@ -840,7 +840,7 @@ var acf = {
 
 		},
 		add_group: function () {
-
+			
 			// vars
 			var $group = this.$el.find('.location-group:last'),
 				$group2 = $group.clone(),
@@ -853,29 +853,30 @@ var acf = {
 
 				$(this).attr('name', $(this).attr('name').replace(old_id, new_id));
 				$(this).attr('id', $(this).attr('id').replace(old_id, new_id));
-
+				
 			});
 
 
 			// update data-i
 			$group2.attr('data-id', new_id);
-
-
+			
+			
 			// update h4
 			$group2.find('h4').text(acf.l10n.or);
-
-
+			
+			
 			// remove all tr's except the first one
 			$group2.find('tr:not(:first)').remove();
 
 
 			// add tr
 			$group.after($group2);
-
-
+			
+			
+			
 		},
 		remove_group: function ($group) {
-
+			
 			$group.remove();
 
 		}
@@ -889,7 +890,7 @@ var acf = {
 	 *---------------------------------------------------------------------*/
 
 	$(document).ready(function () {
-
+		
 		// custom Publish metabox
 		$('#submitdiv #publish').attr('class', 'acf-button large');
 		$('#submitdiv a.submitdelete').attr('class', 'delete-field-group').attr('id', 'submit-delete');
@@ -908,7 +909,7 @@ var acf = {
 
 		// event
 		$li.on('change', 'input', function () {
-
+			
 			var checked = $(this).is(':checked');
 
 			$ul.find('input').attr('checked', checked);
@@ -918,7 +919,7 @@ var acf = {
 
 		// add to ul
 		$ul.prepend($li);
-
+		
 	});
 
 
@@ -950,7 +951,7 @@ var acf = {
 	 */
 
 	acf.helpers.create_field = function (options) {
-
+		
 		// dafaults
 		var defaults = {
 			'type': 'text',
@@ -974,7 +975,7 @@ var acf = {
 
 			// populate groups
 			$.each(options.choices, function (k, v) {
-
+				
 				// group may not exist
 				if (v.group === undefined) {
 					v.group = 0;
@@ -989,14 +990,14 @@ var acf = {
 
 				// add to group
 				groups[v.group].push(v);
-
+				
 			});
 
 
 			html += '<select class="select ' + options.classname + '" id="' + options.name + '" name="' + options.name + '">';
 
 			$.each(groups, function (k, v) {
-
+				
 				// start optgroup?
 				if (k != 0) {
 					html += '<optgroup label="' + k + '">';
@@ -1005,7 +1006,7 @@ var acf = {
 
 				// options
 				$.each(v, function (k2, v2) {
-
+					
 					var attr = '';
 
 					if (v2.value == options.value) {
@@ -1046,74 +1047,74 @@ var acf = {
 	 *  @param	N/A
 	 *  @return	N/A
 	 */
-
+	
 	acf.conditional_logic = {
 
 		triggers: null,
 
 		init: function () {
-
-
+			
+			
 			// reference
 			var _this = this;
 
 
 			// events
 			$(document).on('acf/field_form-open', function (e, $field) {
-
+				
 				// render select elements
 				_this.render($field);
-
+			
 			});
 
 			$(document).on('change', '#acf_fields tr.field_label input.label', function () {
-
+				
 				// render all open fields
 				$('#acf_fields .field.form_open').each(function () {
 
 					_this.render($(this));
-
+					
 				});
 
 			});
 
 
 			$(document).on('change', 'tr.conditional-logic input[type="radio"]', function (e) {
-
+				
 				e.preventDefault();
 
 				_this.change_toggle($(this));
-
+				
 			});
 
 			$(document).on('change', 'select.conditional-logic-field', function (e) {
-
+				
 				e.preventDefault();
 
 				_this.change_trigger($(this));
-
+				
 			});
 
 			$(document).on('click', 'tr.conditional-logic .acf-button-add', function (e) {
-
+		
 				e.preventDefault();
 
 				_this.add($(this).closest('tr'));
-
+				
 			});
 
 			$(document).on('click', 'tr.conditional-logic .acf-button-remove', function (e) {
-
+		
 				e.preventDefault();
 
 				_this.remove($(this).closest('tr'));
-
+				
 			});
 
 		},
 
 		render: function ($field) {
-
+			
 			// reference
 			var _this = this;
 
@@ -1126,19 +1127,19 @@ var acf = {
 
 
 			$.each($ancestors, function (i) {
-
+				
 				var group = (i == 0) ? acf.l10n.sibling_fields : acf.l10n.parent_fields;
 
 				$(this).children('.field').each(function () {
-
-
+					
+					
 					// vars
 					var $this_field = $(this),
 						this_id = $this_field.attr('data-id'),
 						this_type = $this_field.attr('data-type'),
 						this_label = $this_field.find('tr.field_label input').val();
-
-
+					
+					
 					// validate
 					if (this_id == 'field_clone') {
 						return;
@@ -1175,7 +1176,7 @@ var acf = {
 
 			// create select fields
 			$tr.find('.conditional-logic-field').each(function () {
-
+			
 				var val = $(this).val(),
 					name = $(this).attr('name');
 
@@ -1192,8 +1193,8 @@ var acf = {
 
 				// update select
 				$(this).replaceWith($select);
-
-
+				
+				
 				// trigger change
 				$select.trigger('change');
 
@@ -1202,7 +1203,7 @@ var acf = {
 		},
 
 		change_toggle: function ($input) {
-
+			
 			// vars
 			var val = $input.val(),
 				$tr = $input.closest('tr.conditional-logic');
@@ -1218,15 +1219,15 @@ var acf = {
 		},
 
 		change_trigger: function ($select) {
-
+			
 			// vars
 			var val = $select.val(),
 				$trigger = $('.field_key-' + val),
 				type = $trigger.attr('data-type'),
 				$value = $select.closest('tr').find('.conditional-logic-value'),
 				choices = [];
-
-
+				
+			
 			// populate choices
 			if (type == "true_false") {
 				choices = [
@@ -1267,13 +1268,13 @@ var acf = {
 			});
 
 			$value.replaceWith($select);
-
+			
 			$select.trigger('change');
 
 		},
 
 		add: function ($old_tr) {
-
+			
 			// vars
 			var $new_tr = $old_tr.clone(),
 				old_i = parseFloat($old_tr.attr('data-i')),
@@ -1282,14 +1283,14 @@ var acf = {
 
 			// update names
 			$new_tr.find('[name]').each(function () {
-
+				
 				// flexible content uses [0], [1] as the layout index. To avoid conflict, make sure we search for the entire conditional logic string in the name and id
 				var find = '[conditional_logic][rules][' + old_i + ']',
 					replace = '[conditional_logic][rules][' + new_i + ']';
 
 				$(this).attr('name', $(this).attr('name').replace(find, replace));
 				$(this).attr('id', $(this).attr('id').replace(find, replace));
-
+				
 			});
 
 
@@ -1299,15 +1300,15 @@ var acf = {
 
 			// add tr
 			$old_tr.after($new_tr);
-
-
+			
+			
 			// remove disabled
 			$old_tr.closest('table').removeClass('remove-disabled');
 
 		},
 
 		remove: function ($tr) {
-
+			
 			var $table = $tr.closest('table');
 
 			// validate
@@ -1340,7 +1341,7 @@ var acf = {
 	 */
 
 	$(document).on('change', '.radio-option-other_choice input', function () {
-
+		
 		// vars
 		var $el = $(this),
 			$td = $el.closest('td');

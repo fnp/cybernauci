@@ -26,7 +26,7 @@ class acf_field_user extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+    	
 	}
 
 
@@ -65,7 +65,7 @@ class acf_field_user extends acf_field
 
 		foreach ($value as $k => $v) {
 			$user_data = get_userdata($v);
-
+			
 			//cope with deleted users by @adampope
 			if (!is_object($user_data)) {
 				unset($value[$k]);
@@ -85,7 +85,7 @@ class acf_field_user extends acf_field
 			$value[$k]['user_registered'] = $user_data->user_registered;
 			$value[$k]['user_description'] = $user_data->user_description;
 			$value[$k]['user_avatar'] = get_avatar($v);
-
+			
 		}
 
 
@@ -115,9 +115,9 @@ class acf_field_user extends acf_field
 
 	function input_admin_head()
 	{
-		if (!function_exists('get_editable_roles')) {
+		if (!function_exists('get_editable_roles')) { 
 			// if using front-end forms then we need to add this core file
-			require_once(ABSPATH . '/wp-admin/includes/user.php');
+			require_once(ABSPATH . '/wp-admin/includes/user.php'); 
 		}
 	}
 
@@ -136,9 +136,9 @@ class acf_field_user extends acf_field
 
 	function create_field($field)
 	{
-		if (!function_exists('get_editable_roles')) {
+		if (!function_exists('get_editable_roles')) { 
 			// if using front-end forms then we need to add this core file
-			require_once(ABSPATH . '/wp-admin/includes/user.php');
+			require_once(ABSPATH . '/wp-admin/includes/user.php'); 
 		}
 
 		// options
@@ -169,8 +169,8 @@ class acf_field_user extends acf_field
 		$args = apply_filters('acf/fields/user/query', $args, $field, $options['post_id']);
 		$args = apply_filters('acf/fields/user/query/name=' . $field['_name'], $args, $field, $options['post_id']);
 		$args = apply_filters('acf/fields/user/query/key=' . $field['key'], $args, $field, $options['post_id']);
-
-
+		
+		
 		// get users
 		$users = get_users($args);
 
@@ -202,8 +202,8 @@ class acf_field_user extends acf_field
 
 				// label
 				$label = translate_user_role($role_info['name']);
-
-
+				
+				
 				// append to choices
 				$field['choices'][$label] = array();
 
@@ -224,8 +224,8 @@ class acf_field_user extends acf_field
 		$field['type'] = 'select';
 
 
-		do_action('acf/create_field', $field);
-
+		do_action('acf/create_field', $field);			
+		
 	}
 
 
@@ -342,7 +342,7 @@ class acf_field_user extends acf_field
 	{
 		// array?
 		if (is_array($value) && isset($value['ID'])) {
-			$value = $value['ID'];
+			$value = $value['ID'];	
 		}
 
 		// object?

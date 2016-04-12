@@ -32,8 +32,8 @@ class acf_controller_post
 		// actions
 		add_action('admin_enqueue_scripts', array($this, 'admin_enqueue_scripts'));
 		add_action('save_post', array($this, 'save_post'), 10, 1);
-
-
+		
+		
 		// ajax
 		add_action('wp_ajax_acf/post/render_fields', array($this, 'ajax_render_fields'));
 		add_action('wp_ajax_acf/post/get_style', array($this, 'ajax_get_style'));
@@ -94,7 +94,7 @@ class acf_controller_post
 
 		// validate page
 		if (in_array($pagenow, array('post.php', 'post-new.php'))) {
-
+		
 			// validate post type
 			global $typenow;
 
@@ -148,12 +148,12 @@ class acf_controller_post
 		// get field groups
 		$filter = array(
 			'post_id' => $post_id,
-			'post_type' => $typenow
+			'post_type' => $typenow 
 		);
 		$metabox_ids = array();
 		$metabox_ids = apply_filters('acf/location/match_field_groups', $metabox_ids, $filter);
-
-
+		
+		
 		// get style of first field group
 		$style = '';
 		if (isset($metabox_ids[0])) {
@@ -181,8 +181,8 @@ class acf_controller_post
 
 				// vars
 				$show = in_array($acf['id'], $metabox_ids) ? 1 : 0;
-
-
+				
+				
 				// priority
 				$priority = 'high';
 				if ($acf['options']['position'] == 'side') {
@@ -301,12 +301,12 @@ class acf_controller_post
 
 		// render
 		do_meta_boxes(get_current_screen(), 'acf_after_title', $post);
-
-
+		
+		
 		// clean up
 		unset($wp_meta_boxes['post']['acf_after_title']);
-
-
+		
+		
 		// preview hack
 		// the following code will add a hidden input which will trigger WP to create a revision apon save
 		// http://support.advancedcustomfields.com/forums/topic/preview-solution/#post-4106
@@ -330,8 +330,8 @@ class acf_controller_post
 	{
 		// extract $args
 		extract($args);
-
-
+		
+		
 		// classes
 		$class = 'acf_postbox ' . $args['field_group']['options']['layout'];
 		$toggle_class = 'acf_postbox-toggle';
@@ -398,8 +398,8 @@ class acf_controller_post
 
 		// return style
 		echo $this->get_style($options['acf_id']);
-
-
+		
+		
 		// die
 		die;
 	}
@@ -462,8 +462,8 @@ class acf_controller_post
 	*/
 
 	function save_post($post_id)
-	{
-
+	{	
+		
 		// do not save if this is an auto save routine
 		if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) {
 			return $post_id;
@@ -505,7 +505,7 @@ class acf_controller_post
 
 	function is_protected_meta($protected, $meta_key, $meta_type)
 	{
-
+		
 		// globals
 		global $post;
 
@@ -516,11 +516,11 @@ class acf_controller_post
 			$reference = get_field_reference($meta_key, $post->ID);
 
 			if (substr($reference, 0, 6) === 'field_') {
-
+				
 				$protected = true;
 
-			}
-
+			} 
+			
 		}
 
 

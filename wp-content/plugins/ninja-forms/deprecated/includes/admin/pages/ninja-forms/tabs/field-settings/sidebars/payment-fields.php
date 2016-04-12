@@ -43,7 +43,7 @@ function ninja_forms_sidebar_payment_fields()
 						   rel="<?php echo $type; ?>"><?php _e($name, 'ninja-forms'); ?></a>
 					</p>
 					<?php
-				}
+				}		
 			}
 		}
 	}

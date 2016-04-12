@@ -20,7 +20,7 @@ var acf = {
 	nonce: '',
 	l10n: null,
 	o: null,
-
+	
 	// helper functions
 	helpers: {
 		get_atts: null,
@@ -37,8 +37,8 @@ var acf = {
 	validation: null,
 	conditional_logic: null,
 	media: null,
-
-
+	
+	
 	// fields
 	fields: {
 		date_picker: null,
@@ -52,8 +52,8 @@ var acf = {
 };
 
 (function ($) {
-
-
+	
+	
 	/*
 	 *  acf.helpers.isset
 	 *
@@ -67,7 +67,7 @@ var acf = {
 	 */
 
 	acf.helpers.isset = function () {
-
+		
 		var a = arguments,
 			l = a.length,
 			c = null,
@@ -76,7 +76,7 @@ var acf = {
 		if (l === 0) {
 			throw new Error('Empty isset');
 		}
-
+		
 		c = a[0];
 
 		for (i = 1; i < l; i++) {
@@ -90,7 +90,7 @@ var acf = {
 		}
 
 		return true;
-
+			
 	};
 
 
@@ -107,7 +107,7 @@ var acf = {
 	 */
 
 	acf.helpers.get_atts = function ($el) {
-
+		
 		var atts = {};
 
 		$.each($el[0].attributes, function (index, attr) {
@@ -118,19 +118,19 @@ var acf = {
         });
 
 		return atts;
-
+			
 	};
 
 
 	/**
 	 * Simply compares two string version values.
-	 *
+	 * 
 	 * Example:
 	 * versionCompare('1.1', '1.2') => -1
 	 * versionCompare('1.1', '1.1') =>  0
 	 * versionCompare('1.2', '1.1') =>  1
 	 * versionCompare('2.23.3', '2.22.3') => 1
-	 *
+	 * 
 	 * Returns:
 	 * -1 = left is LOWER than right
 	 *  0 = they are equal
@@ -246,13 +246,13 @@ var acf = {
 	 */
 
 	acf.helpers.add_message = function (message, div) {
-
+		
 		var message = $('<div class="acf-message-wrapper"><div class="message updated"><p>' + message + '</p></div></div>');
 
 		div.prepend(message);
 
 		setTimeout(function () {
-
+			
 			message.animate({
 				opacity: 0
 			}, 250, function () {
@@ -283,7 +283,7 @@ var acf = {
 	 *  @since: 3.5.7
 	 *  @created: 16/01/13
 	 */
-
+	
 	acf.media = {
 
 		div: null,
@@ -291,7 +291,7 @@ var acf = {
 		render_timout: null,
 
 		clear_frame: function () {
-
+			
 			// validate
 			if (!this.frame) {
 				return;
@@ -308,7 +308,7 @@ var acf = {
 
 		},
 		type: function () {
-
+			
 			// default
 			var type = 'thickbox';
 
@@ -324,7 +324,7 @@ var acf = {
 
 		},
 		init: function () {
-
+			
 			// validate
 			if (this.type() !== 'backbone') {
 				return false;
@@ -333,7 +333,7 @@ var acf = {
 
 			// validate prototype
 			if (!acf.helpers.isset(wp, 'media', 'view', 'AttachmentCompat', 'prototype')) {
-				return false;
+				return false;	
 			}
 
 
@@ -352,14 +352,14 @@ var acf = {
 
 			// modify render
 			_prototype.render = function () {
-
+				
 				// reference
 				var _this = this;
 
 
 				// validate
 				if (_this.ignore_render) {
-					return this;
+					return this;	
 				}
 
 
@@ -369,20 +369,20 @@ var acf = {
 
 				// add button
 				setTimeout(function () {
-
+					
 					// vars
 					var $media_model = _this.$el.closest('.media-modal');
 
 
 					// is this an edit only modal?
 					if ($media_model.hasClass('acf-media-modal')) {
-						return;
+						return;	
 					}
 
 
 					// does button already exist?
 					if ($media_model.find('.media-frame-router .acf-expand-details').exists()) {
-						return;
+						return;	
 					}
 
 
@@ -393,12 +393,12 @@ var acf = {
 						'<span class="is-closed">' + acf.l10n.core.expand_details + '</span>',
 						'<span class="is-open">' + acf.l10n.core.collapse_details + '</span>',
 						'</a>'
-					].join(''));
-
-
+					].join('')); 
+					
+					
 					// add events
 					button.on('click', function (e) {
-
+						
 						e.preventDefault();
 
 						if ($media_model.hasClass('acf-expanded')) {
@@ -413,8 +413,8 @@ var acf = {
 
 					// append
 					$media_model.find('.media-frame-router').append(button);
-
-
+						
+				
 				}, 0);
 
 
@@ -424,7 +424,7 @@ var acf = {
 				acf.media.render_timout = setTimeout(function () {
 
 					$(document).trigger('acf/setup_fields', [_this.$el]);
-
+					
 				}, 50);
 
 
@@ -435,11 +435,11 @@ var acf = {
 
 			// modify dispose
 			_prototype.dispose = function () {
-
+				
 				// remove
 				$(document).trigger('acf/remove_fields', [this.$el]);
-
-
+				
+				
 				// run the old render function
 				this.orig_dispose();
 
@@ -448,7 +448,7 @@ var acf = {
 
 			// override save
 			_prototype.save = function (event) {
-
+			
 				var data = {},
 					names = {};
 
@@ -457,7 +457,7 @@ var acf = {
 
 
 				_.each(this.$el.serializeArray(), function (pair) {
-
+				
 					// initiate name
 					if (pair.name.slice(-2) === '[]') {
 						// remove []
@@ -476,8 +476,8 @@ var acf = {
 						names[pair.name]++;
 
 						pair.name += '[' + names[pair.name] + ']';
-
-
+						
+						
 					}
 
 					data[pair.name] = pair.value;
@@ -485,7 +485,7 @@ var acf = {
 
 				this.ignore_render = true;
 				this.model.saveCompat(data);
-
+				
 			};
 		}
 	};
@@ -498,35 +498,35 @@ var acf = {
 	 *  @since 3.5.1
 	 *  @created: 15/10/12
 	 */
-
+	
 	acf.conditional_logic = {
 
 		items: [],
 
 		init: function () {
-
+			
 			// reference
 			var _this = this;
 
 
 			// events
 			$(document).on('change', '.field input, .field textarea, .field select', function () {
-
+				
 				// preview hack
 				if ($('#acf-has-changed').exists()) {
 					$('#acf-has-changed').val(1);
 				}
 
 				_this.change($(this));
-
+				
 			});
 
 
 			$(document).on('acf/setup_fields', function (e, el) {
-
+				
 				//console.log('acf/setup_fields calling acf.conditional_logic.refresh()');
 				_this.refresh($(el));
-
+				
 			});
 
 			//console.log('acf.conditional_logic.init() calling acf.conditional_logic.refresh()');
@@ -534,7 +534,7 @@ var acf = {
 
 		},
 		change: function ($el) {
-
+			
 			//console.log('change %o', $el);
 			// reference
 			var _this = this;
@@ -549,7 +549,7 @@ var acf = {
 			$.each(this.items, function (k, item) {
 
 				$.each(item.rules, function (k2, rule) {
-
+					
 					// compare rule against the changed $field
 					if (rule.field == key) {
 						_this.refresh_field(item);
@@ -562,7 +562,7 @@ var acf = {
 		},
 
 		refresh_field: function (item) {
-
+			
 			//console.log( 'refresh_field: %o ', item );
 			// reference
 			var _this = this;
@@ -574,7 +574,7 @@ var acf = {
 
 			// may be multiple targets (sub fields)
 			$targets.each(function () {
-
+				
 				//console.log('target %o', $(this));
 
 				// vars
@@ -590,11 +590,11 @@ var acf = {
 				// vars
 				var $target = $(this),
 					hide_all = true;
-
-
+				
+				
 				// loop through rules
 				$.each(item.rules, function (k2, rule) {
-
+					
 					// vars
 					var $toggle = $('.field_key-' + rule.field);
 
@@ -612,7 +612,7 @@ var acf = {
 						if (!$toggle.exists()) {
 							// loop through all the parents that could contain sub fields
 							$target.parents('tr').each(function () {
-
+								
 								// attempt to update $toggle to this parent sub field
 								$toggle = $(this).find('.field_key-' + rule.field);
 
@@ -690,7 +690,7 @@ var acf = {
 
 					// hook
 					$(document).trigger('acf/conditional_logic/show', [$target, item]);
-
+					
 				}
 				else {
 					// add "disabled"
@@ -712,7 +712,7 @@ var acf = {
 		},
 
 		refresh: function ($el) {
-
+			
 			// defaults
 			$el = $el || $('body');
 
@@ -725,7 +725,7 @@ var acf = {
 			$.each(this.items, function (k, item) {
 
 				$.each(item.rules, function (k2, rule) {
-
+					
 					// is this field within the $el
 					// this will increase performance by ignoring conditional logic outside of this newly appended element ($el)
 					if (!$el.find('.field[data-field_key="' + item.field + '"]').exists()) {
@@ -733,7 +733,7 @@ var acf = {
 					}
 
 					_this.refresh_field(item);
-
+					
 				});
 
 			});
@@ -741,7 +741,7 @@ var acf = {
 		},
 
 		calculate: function (rule, $toggle, $target) {
-
+			
 			// vars
 			var r = false;
 
@@ -803,8 +803,8 @@ var acf = {
 	 */
 
 	$(document).ready(function () {
-
-
+		
+		
 		// conditional logic
 		acf.conditional_logic.init();
 
@@ -813,7 +813,7 @@ var acf = {
 		$('.acf_postbox > .inside > .options').each(function () {
 
 			$(this).closest('.acf_postbox').addClass($(this).attr('data-layout'));
-
+			
 		});
 
 
@@ -833,13 +833,13 @@ var acf = {
 	 */
 
 	$(window).load(function () {
-
+		
 		// init
 		acf.media.init();
 
 
 		setTimeout(function () {
-
+			
 			// Hack for CPT without a content editor
 			try {
 				// post_id may be string (user_1) and therefore, the uploaded image cannot be attached to the post
@@ -855,7 +855,7 @@ var acf = {
 
 			// setup fields
 			$(document).trigger('acf/setup_fields', [$('#poststuff')]);
-
+			
 		}, 10);
 
 	});
@@ -873,7 +873,7 @@ var acf = {
 	 *  @param	N/A
 	 *  @return	N/A
 	 */
-
+	
 	acf.fields.gallery = {
 		add: function () {
 		},

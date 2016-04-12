@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  Date Picker
 	 *
@@ -9,7 +9,7 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
+	
 	acf.fields.date_picker = {
 
 		$el: null,
@@ -19,11 +19,11 @@
 		o: {},
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('input[type="text"]');
 			this.$hidden = this.$el.find('input[type="hidden"]');
@@ -31,8 +31,8 @@
 
 			// get options
 			this.o = acf.helpers.get_atts(this.$el);
-
-
+			
+			
 			// return this for chaining
 			return this;
 
@@ -47,8 +47,8 @@
 
 			// get and set value from alt field
 			this.$input.val(this.$hidden.val());
-
-
+			
+			
 			// create options
 			var options = $.extend({}, acf.l10n.date_picker, {
 				dateFormat: this.o.save_format,
@@ -64,12 +64,12 @@
 
 			// add date picker
 			this.$input.addClass('active').datepicker(options);
-
-
+			
+			
 			// now change the format back to how it should be.
 			this.$input.datepicker("option", "dateFormat", this.o.display_format);
-
-
+			
+			
 			// wrap the datepicker (only if it hasn't already been wrapped)
 			if ($('body > #ui-datepicker-div').length > 0) {
 				$('#ui-datepicker-div').wrap('<div class="ui-acf" />');
@@ -105,7 +105,7 @@
 		$(el).find('.acf-date_picker').each(function () {
 
 			acf.fields.date_picker.set({$el: $(this)}).init();
-
+			
 		});
 
 	});
@@ -124,7 +124,7 @@
 	$(document).on('blur', '.acf-date_picker input[type="text"]', function (e) {
 
 		acf.fields.date_picker.set({$el: $(this).parent()}).blur();
-
+					
 	});
 	
 

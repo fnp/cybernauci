@@ -149,7 +149,7 @@ if (empty($groups)) {
 												<a href="#" class="location-remove-rule acf-button-remove"></a>
 											</td>
 										</tr>
-									<?php endforeach; ?>
+					<?php endforeach; ?>
 									</tbody>
 								</table>
 							<?php endif; ?>
@@ -161,7 +161,7 @@ if (empty($groups)) {
 					<a class="button location-add-group" href="#"><?php _e("Add rule group", 'acf'); ?></a>
 
 				<?php endif; ?>
-
+				
 			</div>
 		</td>
 	</tr>

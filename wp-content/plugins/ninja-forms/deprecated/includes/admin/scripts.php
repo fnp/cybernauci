@@ -77,7 +77,7 @@ function ninja_forms_admin_js()
 
 			wp_localize_script('nf-builder', 'nf_admin', array('edit_form_text' => __('Edit Form', 'ninja-forms'), 'form_title' => $form_title, 'form_status' => $form_status, 'fields' => $fields, 'saved_text' => __('Saved', 'ninja-forms'), 'save_text' => __('Save', 'ninja-forms'), 'saving_text' => __('Saving...', 'ninja-forms'), 'remove_field' => __('Remove this field? It will be removed even if you do not save.', 'ninja-forms')));
 
-			$reserved_terms = array(
+			$reserved_terms = array( 
 				'attachment',
 				'attachment_id',
 				'author',

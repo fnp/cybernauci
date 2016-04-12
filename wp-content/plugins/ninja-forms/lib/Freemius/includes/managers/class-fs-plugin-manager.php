@@ -1,14 +1,14 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.6
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.6
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
 class FS_Plugin_Manager
 {
@@ -49,7 +49,7 @@ class FS_Plugin_Manager
 		$this->_plugin = isset($all_plugins[$this->_slug]) ?
 			$all_plugins[$this->_slug] :
 			null;
-	}
+		}
 
 	protected function get_all_plugins()
 	{
@@ -73,7 +73,7 @@ class FS_Plugin_Manager
 		}
 
 		return self::$_instances[$slug];
-	}
+		}
 
 	/**
 	 * Update local plugin data if different.
@@ -101,7 +101,7 @@ class FS_Plugin_Manager
 		}
 
 		return false;
-	}
+		}
 
 	/**
 	 * Store plugin on local DB.
@@ -128,7 +128,7 @@ class FS_Plugin_Manager
 		$options_manager->set_option('plugins', $all_plugins, $flush);
 
 		return $this->_plugin;
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)

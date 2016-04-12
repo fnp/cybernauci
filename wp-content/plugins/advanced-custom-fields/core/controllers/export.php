@@ -30,8 +30,8 @@ class acf_export
 
 		// actions
 		add_action('admin_menu', array($this, 'admin_menu'), 11, 0);
-
-
+		
+		
 		// filters
 		add_filter('acf/export/clean_fields', array($this, 'clean_fields'), 10, 1);
 	}
@@ -48,8 +48,8 @@ class acf_export
 	{
 		// add page
 		$page = add_submenu_page('edit.php?post_type=acf', __('Export', 'acf'), __('Export', 'acf'), 'manage_options', 'acf-export', array($this, 'html'));
-
-
+		
+		
 		// actions
 		add_action('load-' . $page, array($this, 'load'));
 		add_action('admin_print_scripts-' . $page, array($this, 'admin_print_scripts'));
@@ -146,24 +146,24 @@ class acf_export
 	*/
 
 	function html()
-	{
+	{	
 		?>
 		<div class="wrap">
 
 			<div class="icon32" id="icon-acf"><br></div>
 			<h2 style="margin: 4px 0 25px;"><?php _e("Export", 'acf'); ?></h2>
-			<?php
-
-			if ($this->action == "export_to_php") {
-				$this->html_php();
-			} else {
-				$this->html_index();
-			}
-
-			?>
-		</div>
 		<?php
 
+		if ($this->action == "export_to_php") {
+			$this->html_php();
+		} else {
+			$this->html_index();
+		}
+
+		?>
+		</div>
+		<?php
+		
 		return;
 
 	}
@@ -349,7 +349,7 @@ define( 'ACF_LITE', true );
 			foreach ($acfs as $acf) {
 				// find title. Could use get_the_title, but that uses get_post(), so I think this uses less Memory
 				$title = apply_filters('the_title', $acf->post_title, $acf->ID);
-
+				
 				$choices[$acf->ID] = $title;
 			}
 		}
@@ -442,8 +442,8 @@ define( 'ACF_LITE', true );
 			foreach ($fields as $i => $field) {
 				// unset unneccessary bits
 				unset($field['id'], $field['class'], $field['order_no'], $field['field_group'], $field['_name']);
-
-
+				
+				
 				// instructions
 				if (!$field['instructions']) {
 					unset($field['instructions']);

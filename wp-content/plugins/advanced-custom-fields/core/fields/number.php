@@ -75,7 +75,7 @@ class acf_field_number extends acf_field
 		$e .= '<input type="number"';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= ' />';
@@ -121,7 +121,7 @@ class acf_field_number extends acf_field
 					'value' => $field['default_value'],
 				));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -241,7 +241,7 @@ class acf_field_number extends acf_field
 	{
 		// no formatting needed for empty value
 		if (empty($value)) {
-
+			
 			return $value;
 
 		}
@@ -253,12 +253,12 @@ class acf_field_number extends acf_field
 
 		// convert to float. This removes any chars
 		$value = floatval($value);
-
-
+		
+		
 		// convert back to string. This alows decimals to save
 		$value = (string)$value;
-
-
+		
+		
 		return $value;
 	}
 	

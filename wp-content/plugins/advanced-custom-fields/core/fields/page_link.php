@@ -26,7 +26,7 @@ class acf_field_page_link extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+  
 	}
 
 
@@ -126,20 +126,20 @@ class acf_field_page_link extends acf_field
 				<label><?php _e("Allow Null?", 'acf'); ?></label>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'radio',
-					'name' => 'fields[' . $key . '][allow_null]',
-					'value' => $field['allow_null'],
-					'choices' => array(
-						1 => __("Yes", 'acf'),
-						0 => __("No", 'acf'),
-					),
-					'layout' => 'horizontal',
-				));
+		do_action('acf/create_field', array(
+			'type' => 'radio',
+			'name' => 'fields[' . $key . '][allow_null]',
+			'value' => $field['allow_null'],
+			'choices' => array(
+				1 => __("Yes", 'acf'),
+				0 => __("No", 'acf'),
+			),
+			'layout' => 'horizontal',
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -164,7 +164,7 @@ class acf_field_page_link extends acf_field
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 
 

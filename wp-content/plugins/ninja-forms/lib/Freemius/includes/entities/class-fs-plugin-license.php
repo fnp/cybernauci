@@ -92,7 +92,7 @@ class FS_Plugin_License extends FS_Entity
 		}
 
 		return ($this->quota - $this->activated - ($this->is_free_localhost ? 0 : $this->activated_local));
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -134,7 +134,7 @@ class FS_Plugin_License extends FS_Entity
 
 		return !($this->is_free_localhost && $is_localhost) &&
 		($this->quota <= $this->activated + ($this->is_free_localhost ? 0 : $this->activated_local));
-	}
+		}
 
 	/**
 	 * Check if license's plan features are enabled.
@@ -166,4 +166,4 @@ class FS_Plugin_License extends FS_Entity
 	{
 		return (WP_FS__TIME_24_HOURS_IN_SEC >= strtotime($this->expiration) - strtotime($this->created));
 	}
-}
+	}

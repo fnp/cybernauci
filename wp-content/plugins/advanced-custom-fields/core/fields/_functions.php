@@ -67,7 +67,7 @@ class acf_field_functions
 		// if $post_id is a string, then it is used in the everything fields and can be found in the options table
 		if (is_numeric($post_id)) {
 			$v = get_post_meta($post_id, $field['name'], false);
-
+			
 			// value is an array
 			if (isset($v[0])) {
 				$value = $v[0];
@@ -77,7 +77,7 @@ class acf_field_functions
 			$post_id = str_replace('user_', '', $post_id);
 
 			$v = get_user_meta($post_id, $field['name'], false);
-
+			
 			// value is an array
 			if (isset($v[0])) {
 				$value = $v[0];
@@ -206,7 +206,7 @@ class acf_field_functions
 
 		// update the cache
 		wp_cache_set('load_value/post_id=' . $post_id . '/name=' . $field['name'], $value, 'acf');
-
+		
 	}
 
 
@@ -226,7 +226,7 @@ class acf_field_functions
 
 	function update_option($option = '', $value = false, $autoload = 'no')
 	{
-
+		
 		// vars
 		$deprecated = '';
 		$return = false;
@@ -237,8 +237,8 @@ class acf_field_functions
 		} else {
 			$return = add_option($option, $value, $deprecated, $autoload);
 		}
-
-
+		
+		
 		// return
 		return $return;
 
@@ -302,8 +302,9 @@ class acf_field_functions
 			}
 
 			$rows = $wpdb->get_results($sql, ARRAY_A);
-
-
+			
+			
+			
 			// nothing found?
 			if (!empty($rows)) {
 				$row = $rows[0];
@@ -334,8 +335,8 @@ class acf_field_functions
 					$field = $row['meta_value'];
 					$field = maybe_unserialize($field);
 					$field = maybe_unserialize($field); // run again for WPML
-
-
+					
+					
 					// add field_group ID
 					$field['field_group'] = $row['post_id'];
 				}
@@ -357,7 +358,7 @@ class acf_field_functions
 
 		// set cache
 		wp_cache_set('load_field/key=' . $field_key, $field, 'acf');
-
+		
 		return $field;
 	}
 
@@ -401,12 +402,12 @@ class acf_field_functions
 
 		// Parse Values
 		$field = apply_filters('acf/parse_types', $field);
-
-
+		
+		
 		// field specific defaults
 		$field = apply_filters('acf/load_field_defaults/type=' . $field['type'], $field);
-
-
+				
+		
 		// class
 		if (!$field['class']) {
 			$field['class'] = $field['type'];
@@ -460,12 +461,12 @@ class acf_field_functions
 
 		// filters
 		$field = apply_filters('acf/update_field/type=' . $field['type'], $field, $post_id); // new filter
-
-
+		
+		
 		// clear cache
 		wp_cache_delete('load_field/key=' . $field['key'], 'acf');
-
-
+	
+		
 		// save
 		update_post_meta($post_id, $field['key'], $field);
 	}
@@ -483,8 +484,8 @@ class acf_field_functions
 	{
 		// clear cache
 		wp_cache_delete('load_field/key=' . $field_key, 'acf');
-
-
+		
+		
 		// delete
 		delete_post_meta($post_id, $field_key);
 	}

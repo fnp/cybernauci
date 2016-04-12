@@ -30,7 +30,7 @@ foreach ($logger as $log) {
 	if (!is_null($log['body'])) {
 		$show_body = true;
 	}
-}
+	}
 
 $pretty_print = $show_body && defined('JSON_PRETTY_PRINT') && version_compare(phpversion(), '5.3', '>=');
 
@@ -126,7 +126,7 @@ $root_path_len = strlen(ABSPATH);
 					}
 				} else {
 					$result = is_string($result) ? $result : json_encode($result);
-				}
+					}
 				?>
 				<pre<?php if ($is_not_empty_result) : ?> style="display: none"<?php endif ?>><code><?php echo esc_html($result) ?></code></pre>
 			</td>

@@ -689,7 +689,7 @@ class Ninja_Forms_Processing
 			unset($this->data['success'][$success_ID]);
 			return true;
 		}
-	}
+	}	
 
 	/**
 	 * Remove all success messages
@@ -760,7 +760,7 @@ class Ninja_Forms_Processing
 						$user_info[$group_name]['phone'] = $user_value;
 					} else if ($field['type'] == '_country') {
 						$user_info[$group_name]['country'] = $user_value;
-					}
+					}					
 				} else {
 					if (isset ($data['first_name']) AND $data['first_name'] == 1) {
 						$user_info['first_name'] = $user_value;
@@ -1012,8 +1012,8 @@ class Ninja_Forms_Processing
 				$places = $data['calc_places'];
 				$total_field = $field_id;
 
-				$total_value = number_format(round($user_value, $places), $places);
-
+				$total_value = number_format(round($user_value, $places), $places);					
+				
 				break;
 			}
 		}
@@ -1042,7 +1042,7 @@ class Ninja_Forms_Processing
 				}
 				$total['sub_total'] = $total_value;
 				$total_value = number_format(round($user_value + ($user_value * $tax_rate_decimal), $places), $places);
-
+			
 			}
 
 			$total['total'] = $total_value;
@@ -1067,7 +1067,7 @@ class Ninja_Forms_Processing
 		}
 
 		return $total;
-	}
+	}	
 
 	/**
 	 * Function that returns the "sub total" field value if it exists.
@@ -1105,7 +1105,7 @@ class Ninja_Forms_Processing
 		if ($array) {
 			// Get the list of fields that affected this value.
 			$fields = $this->get_calc_fields($sub_total_field);
-
+			
 			$tmp_array = array();
 			// Loop through the fields in that list and remove any that don't have a calc_option value of 1
 			foreach ($fields as $field_id => $value) {
@@ -1195,7 +1195,7 @@ class Ninja_Forms_Processing
 
 
 		$tax_total = number_format(round($tax_total, 2), 2);
-		return $tax_total;
+		return $tax_total;	
 	}
 
 	/**
@@ -1214,13 +1214,13 @@ class Ninja_Forms_Processing
 			$credit_card['number'] = $number;
 
 			if (isset($this->data['extra']['_credit_card_cvc'])) {
-
+			
 				$credit_card['cvc'] = $this->data['extra']['_credit_card_cvc'];
 
 			}
 
 			if (isset($this->data['extra']['_credit_card_name'])) {
-
+			
 				$credit_card['name'] = $this->data['extra']['_credit_card_name'];
 
 			}
@@ -1229,7 +1229,7 @@ class Ninja_Forms_Processing
 
 			if (isset($this->data['extra']['_credit_card_expires_month'])) {
 
-				$credit_card['expires'] = $this->data['extra']['_credit_card_expires_month']
+				$credit_card['expires'] = $this->data['extra']['_credit_card_expires_month'] 
 					. '/' . $this->data['extra']['_credit_card_expires_year'];
 
 				$credit_card['expires_month'] = $this->data['extra']['_credit_card_expires_month'];

@@ -18,7 +18,7 @@
     });
         $(".nf-mobile").click(function () {
             $("#nf-builder").toggleClass("nf-menu-expand");
-        });
+    });
     });
 </script>
 <div id="nf-builder">

@@ -15,9 +15,9 @@ if (!defined('WP_FS__DEV_MODE')) {
 	define('WP_FS__DEV_MODE', false);
 }
 
-/**
- * API Connectivity Simulation
- */
+	/**
+	 * API Connectivity Simulation
+	 */
 if (!defined('WP_FS__SIMULATE_NO_API_CONNECTIVITY')) {
 	define('WP_FS__SIMULATE_NO_API_CONNECTIVITY', false);
 }

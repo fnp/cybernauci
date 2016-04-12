@@ -15,7 +15,7 @@ function ninja_forms_calc_listen_field_class($form_id)
 	$field_results = ninja_forms_get_fields_by_form_id($form_id);
 
 	foreach ($field_results as $field_row) {
-
+		
 		$field_id = $field_row['id'];
 
 		if (isset ($field_row['type'])) {

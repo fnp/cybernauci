@@ -41,7 +41,7 @@ function ninja_forms_edit_field_calc($field_id, $field_data)
 					$calc_value = array();
 					$calc_value['unchecked'] = 0;
 					$calc_value['checked'] = 0;
-				}
+			}
 				ninja_forms_edit_field_el_output($field_id, 'text', sprintf(__('%sChecked%s Calculation Value', 'ninja-forms'), '<strong>', '</strong>'), 'calc_value[checked]', $calc_value['checked'], 'wide', '', '', sprintf(__('This is the value that will be used if %sChecked%s.', 'ninja-forms'), '<strong>', '</strong>'));
 				ninja_forms_edit_field_el_output($field_id, 'text', sprintf(__('%sUnchecked%s Calculation Value', 'ninja-forms'), '<strong>', '</strong>'), 'calc_value[unchecked]', $calc_value['unchecked'], 'wide', '', '', sprintf(__('This is the value that will be used if %sUnchecked%s.', 'ninja-forms'), '<strong>', '</strong>'));
 			}
@@ -49,7 +49,7 @@ function ninja_forms_edit_field_calc($field_id, $field_data)
 			ninja_forms_edit_field_el_output($field_id, 'checkbox', __('Include in the auto-total? (If enabled)', 'ninja-forms'), 'calc_auto_include', $calc_auto_include, 'wide', '', 'ninja-forms-field-auto-total-include');
 			?>
 		</div>
-		<?php
+		<?php	
 	}
 }
 

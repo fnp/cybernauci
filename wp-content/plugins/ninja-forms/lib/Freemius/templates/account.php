@@ -44,7 +44,7 @@ $show_upgrade = (!$is_paying && !$is_paid_trial);
 				<a href="<?php echo $fs->get_upgrade_url() ?>" class="nav-tab"><?php _efs('upgrade', $slug) ?></a>
 				<?php if (!$fs->is_trial_utilized() && $fs->has_trial_plan()) : ?>
 					<a href="<?php echo $fs->get_trial_url() ?>" class="nav-tab"><?php _efs('free-trial', $slug) ?></a>
-				<?php endif ?>
+			<?php endif ?>
 			<?php endif ?>
 		</h2>
 
@@ -104,7 +104,7 @@ $show_upgrade = (!$is_paying && !$is_paid_trial);
 													</a>
 												</form>
 											</li>
-										<?php endif ?>
+				<?php endif ?>
 										<li>
 											&nbsp;•&nbsp;
 											<a href="<?php echo $fs->get_upgrade_url() ?>"><i
@@ -124,7 +124,7 @@ $show_upgrade = (!$is_paying && !$is_paid_trial);
 												</a>
 											</form>
 										</li>
-									<?php endif ?>
+			<?php endif ?>
 									<li>
 										&nbsp;•&nbsp;
 										<form action="<?php echo $fs->_get_admin_page_url('account') ?>" method="POST">
@@ -602,7 +602,7 @@ $show_upgrade = (!$is_paying && !$is_paid_trial);
 																<a target="_blank" class="button button-primary"
 																   href="<?php echo $fs->_get_latest_download_local_url($addon_id) ?>"><?php _efs('download-latest', $slug) ?></a>
 															<?php endif ?>
-														<?php endif ?>
+						<?php endif ?>
 													</td>
 												<?php endif ?>
 												<?php if (defined('WP_FS__DEV_MODE') && WP_FS__DEV_MODE) : ?>
@@ -625,12 +625,12 @@ $show_upgrade = (!$is_paying && !$is_paid_trial);
 											<?php $odd = !$odd; endforeach ?>
 										</tbody>
 									</table>
-								</div>
+		</div>
 							</div>
 						<?php endif ?>
 
 						<?php $fs->do_action('after_account_details') ?>
-					</div>
+	</div>
 				</div>
 			</div>
 		</div>

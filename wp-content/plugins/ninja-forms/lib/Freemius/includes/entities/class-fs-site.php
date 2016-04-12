@@ -1,10 +1,10 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.3
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.3
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
@@ -91,7 +91,7 @@ class FS_Site extends FS_Scope_Entity
 		if (is_object($site)) {
 			$this->plan->id = $site->plan_id;
 		}
-	}
+		}
 
 	static function get_type()
 	{
@@ -130,4 +130,4 @@ class FS_Site extends FS_Scope_Entity
 	{
 		return is_numeric($this->trial_plan_id);
 	}
-}
+	}

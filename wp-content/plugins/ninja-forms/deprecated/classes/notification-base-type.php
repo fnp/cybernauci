@@ -89,7 +89,7 @@ abstract class NF_Notification_Base_Type
 			if (!is_array($setting[$x])) {
 				$setting[$x] = str_replace('[ninja_forms_all_fields]', '[ninja_forms_all_fields html=' . $html . ']', $setting[$x]);
 				$setting[$x] = do_shortcode($setting[$x]);
-				$setting[$x] = nf_parse_fields_shortcode($setting[$x]);
+				$setting[$x] = nf_parse_fields_shortcode($setting[$x]);				
 			}
 
 		}

@@ -346,7 +346,7 @@ function nf_change_email_fav()
 	if (isset ($email_address['id']) && !empty ($email_address['id'])) {
 		$sql = 'INSERT INTO `' . NINJA_FORMS_FAV_FIELDS_TABLE_NAME . '` (`id`, `row_type`, `type`, `order`, `data`, `name`) VALUES
 		(' . $email_address['id'] . ', 0, \'_text\', 0, \'a:25:{s:5:"label";s:5:"Email";s:9:"label_pos";s:5:"above";s:13:"default_value";s:0:"";s:4:"mask";s:0:"";s:10:"datepicker";s:1:"0";s:5:"email";s:1:"1";s:10:"send_email";s:1:"0";s:10:"from_email";s:1:"0";s:10:"first_name";s:1:"0";s:9:"last_name";s:1:"0";s:9:"from_name";s:1:"0";s:14:"user_address_1";s:1:"0";s:14:"user_address_2";s:1:"0";s:9:"user_city";s:1:"0";s:8:"user_zip";s:1:"0";s:10:"user_phone";s:1:"0";s:10:"user_email";s:1:"1";s:21:"user_info_field_group";s:1:"1";s:3:"req";s:1:"0";s:5:"class";s:0:"";s:9:"show_help";s:1:"0";s:9:"help_text";s:0:"";s:17:"calc_auto_include";s:1:"0";s:11:"calc_option";s:1:"0";s:11:"conditional";s:0:"";}\', \'Email\')';
-		$wpdb->query($sql);
+		$wpdb->query($sql);		
 	}
 
 }
@@ -362,7 +362,7 @@ function nf_change_state_dropdown_fav()
 	global $wpdb;
 
 	$state_dropdown = $wpdb->get_row($wpdb->prepare("SELECT * FROM " . NINJA_FORMS_FAV_FIELDS_TABLE_NAME . " WHERE name = %s AND row_type = 0", 'State Dropdown'), ARRAY_A);
-
+	
 	$sql = 'DELETE FROM `' . NINJA_FORMS_FAV_FIELDS_TABLE_NAME . '` WHERE name = "State Dropdown"';
 
 	$wpdb->query($sql);
@@ -389,7 +389,7 @@ function nf_29_update_all_form_settings_check()
 		return false;
 
 	$url = admin_url('index.php?page=nf-upgrade-handler');
-
+	
 	?>
 	<script type="text/javascript">
 		jQuery(document).ready(function () {

@@ -20,14 +20,14 @@ class NF_Subs_CPT
 
 	/**
 	 * Get things started
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
 	 */
 	function __construct()
 	{
-
+		
 		// Register our submission custom post type.
 		add_action('init', array($this, 'register_cpt'), 5);
 
@@ -83,7 +83,7 @@ class NF_Subs_CPT
 
 		// Load any custom screen options
 		add_filter('screen_settings', array($this, 'output_screen_options'), 10, 2);
-
+				
 		// Listen for our exports button.
 		add_action('load-edit.php', array($this, 'export_listen'));
 
@@ -94,7 +94,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Register our submission CPT
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -161,7 +161,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Populate our fields var with all the fields. This keeps us from needing to ping the database later.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 */
@@ -188,7 +188,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add our submissions submenu
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -196,7 +196,7 @@ class NF_Subs_CPT
 	public function add_submenu()
 	{
 		// Add our submissions submenu
-		$sub_page = add_submenu_page('ninja-forms', __('Submissions', 'ninja-forms'), __('Submissions', 'ninja-forms'), apply_filters('ninja_forms_admin_submissions_capabilities', 'manage_options'), 'edit.php?post_type=nf_sub');
+		$sub_page = add_submenu_page('ninja-forms', __('Submissions', 'ninja-forms'), __('Submissions', 'ninja-forms'), apply_filters('ninja_forms_admin_submissions_capabilities', 'manage_options'), 'edit.php?post_type=nf_sub'); 
 		// Enqueue our JS on the edit page.
 		//add_action( 'load-' . $sub_page, array( $this, 'load_js' ) );
 		add_action('admin_print_styles', array($this, 'load_js'));
@@ -208,7 +208,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Enqueue our submissions JS file.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -251,7 +251,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Enqueue our submissions CSS file.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -270,7 +270,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Modify the columns of our submissions table.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $cols
@@ -326,7 +326,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Make our columns sortable
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array
@@ -338,7 +338,7 @@ class NF_Subs_CPT
 		$tmp_array = array();
 		foreach ($columns as $slug => $c) {
 			if ($slug != 'cb') {
-				$tmp_array[$slug] = $slug;
+				$tmp_array[$slug] = $slug;				
 			}
 		}
 		return $tmp_array;
@@ -346,7 +346,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Actually sort our columns
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $vars
@@ -381,7 +381,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add our custom column data
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -434,7 +434,7 @@ class NF_Subs_CPT
 
 				$t_time = apply_filters('nf_sub_title_time', $t_time);
 				$h_time = apply_filters('nf_sub_human_time', $h_time);
-
+				
 				/** This filter is documented in wp-admin/includes/class-wp-posts-list-table.php */
 				echo '<abbr title="' . $t_time . '">' . $h_time . '</abbr>';
 
@@ -474,7 +474,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add our submission filters
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -519,7 +519,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our submission list by form_id
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -589,7 +589,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our search
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -622,7 +622,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our bulk updated/trashed messages so that it uses "submission" rather than "post"
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $bulk_messages
@@ -642,7 +642,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our updated/trashed post messages
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $messages
@@ -676,7 +676,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Remove the 'edit' bulk action
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $actions
@@ -689,7 +689,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add our "export" bulk action
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -747,7 +747,7 @@ class NF_Subs_CPT
 	 * jQuery that hides some of our post-related page items.
 	 * Also adds the active class to All and Trash links, and changes those
 	 * links to match the current filter.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -770,7 +770,7 @@ class NF_Subs_CPT
 			$trash_url = esc_url_raw(add_query_arg(array('post_status' => 'trash')));
 			$trash_url = remove_query_arg('s', $trash_url);
 			if (isset ($_GET['form_id'])) {
-				$trashed_sub_count = nf_get_sub_count($_GET['form_id'], 'trash');
+				$trashed_sub_count = nf_get_sub_count($_GET['form_id'], 'trash');	
 			} else {
 				$trashed_sub_count = 0;
 			}
@@ -799,11 +799,9 @@ class NF_Subs_CPT
 				.add-new-h2 {
 					display: none;
 				}
-
 				li.publish {
 					display: none;
 				}
-
 				select[name=m] {
 					display: none;
 				}
@@ -837,7 +835,7 @@ class NF_Subs_CPT
 				.add-new-h2 {
 					display: none;
 				}
-			</style>
+			</style>	
 
 			<?php
 		}
@@ -845,14 +843,14 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our post counts for the submission listing page
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return int $count
 	 */
 	public function count_posts($count, $post_type, $perm)
 	{
-
+		
 		// Bail if we aren't working with our custom post type.
 		if ($post_type != 'nf_sub')
 			return $count;
@@ -872,7 +870,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add our field editing metabox to the CPT editing page.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -892,7 +890,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Output our field editing metabox to the CPT editing page.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -979,7 +977,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Output our field editing metabox to the CPT editing page.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -991,7 +989,7 @@ class NF_Subs_CPT
 
 		if ($post->post_author != 0) {
 			$user_data = get_userdata($post->post_author);
-
+			
 			$first_name = $user_data->first_name;
 			$last_name = $user_data->last_name;
 
@@ -1072,7 +1070,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Save our submission user values
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -1112,7 +1110,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter our hidden columns so that they are handled on a per-form basis.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -1150,7 +1148,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Save our hidden columns per form id.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -1169,7 +1167,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Add custom screen options
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -1184,7 +1182,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Listen for exporting subs
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7.3
 	 * @return void
@@ -1208,7 +1206,7 @@ class NF_Subs_CPT
 		if (isset ($_REQUEST['download_file']) && !empty($_REQUEST['download_file'])) {
 			// Open our download all file
 			$filename = esc_html($_REQUEST['download_file']);
-
+			
 			$upload_dir = wp_upload_dir();
 
 			$file_path = trailingslashit($upload_dir['path']) . $filename . '.csv';
@@ -1243,7 +1241,7 @@ class NF_Subs_CPT
 
 	/**
 	 * Filter user capabilities
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7.7
 	 * @return void

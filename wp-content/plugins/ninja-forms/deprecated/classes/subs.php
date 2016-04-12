@@ -14,7 +14,7 @@ class NF_Subs
 
 	/**
 	 * Get things started
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void/
@@ -26,7 +26,7 @@ class NF_Subs
 
 	/**
 	 * Create a submission.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return int $sub_id
@@ -63,7 +63,7 @@ class NF_Subs
 
 	/**
 	 * Get submissions based on specific critera.
-	 *
+	 * 
 	 * @since 2.7
 	 * @param array $args
 	 * @return array $sub_ids
@@ -137,7 +137,7 @@ class NF_Subs
 		if (is_array($subs->posts) && !empty($subs->posts)) {
 			foreach ($subs->posts as $sub) {
 				$sub_objects[] = Ninja_Forms()->sub($sub->ID);
-			}
+			}			
 		}
 
 		wp_reset_postdata();
@@ -146,7 +146,7 @@ class NF_Subs
 
 	/**
 	 * Export submissions.
-	 *
+	 * 
 	 * @access public
 	 * @param array $sub_ids
 	 * @param bool @return
@@ -235,7 +235,7 @@ class NF_Subs
 
 					// Run our value through the appropriate filters before we flatten any arrays.
 					$user_value = apply_filters('nf_subs_export_pre_value', $user_value, $field_id);
-
+					
 					// Implode any arrays we might have.
 					if (is_array($user_value)) {
 						$user_value = implode(',', $user_value);
@@ -247,7 +247,7 @@ class NF_Subs
 					}
 
 					// Run our final value through the appropriate filters and assign it to the array.
-					$value_array[$x][$field_id] = htmlspecialchars_decode(apply_filters('nf_subs_csv_field_value', $user_value, $field_id), ENT_QUOTES);
+					$value_array[$x][$field_id] = htmlspecialchars_decode(apply_filters('nf_subs_csv_field_value', $user_value, $field_id), ENT_QUOTES);					
 				}
 			}
 			$x++;

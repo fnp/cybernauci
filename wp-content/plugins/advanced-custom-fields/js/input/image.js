@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  Image
 	 *
@@ -9,8 +9,8 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
-
+	
+	
 	// reference
 	var _media = acf.media;
 
@@ -23,19 +23,19 @@
 		o: {},
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('input[type="hidden"]');
 
 
 			// get options
 			this.o = acf.helpers.get_atts(this.$el);
-
-
+			
+			
 			// multiple?
 			this.o.multiple = this.$el.closest('.repeater').exists() ? true : false;
 
@@ -65,7 +65,7 @@
 
 		},
 		add: function (image) {
-
+			
 			// this function must reference a global div variable due to the pre WP 3.5 uploader
 			// vars
 			var div = _media.div;
@@ -85,7 +85,7 @@
 
 		},
 		edit: function () {
-
+			
 			// vars
 			var id = this.$input.val();
 
@@ -114,11 +114,11 @@
 
 			 });
 			 */
-
-
+			
+			
 			// open
 			_media.frame.on('open', function () {
-
+				
 				// set to browse
 				if (_media.frame.content._mode != 'browse') {
 					_media.frame.content.mode('browse');
@@ -132,8 +132,8 @@
 				// set selection
 				var selection = _media.frame.state().get('selection'),
 					attachment = wp.media.attachment(id);
-
-
+				
+				
 				// to fetch or not to fetch
 				if ($.isEmptyObject(attachment.changed)) {
 					attachment.fetch();
@@ -141,13 +141,13 @@
 
 
 				selection.add(attachment);
-
+						
 			});
 
 
 			// close
 			_media.frame.on('close', function () {
-
+			
 				// remove class
 				_media.frame.$el.closest('.media-modal').removeClass('acf-media-modal');
 
@@ -159,12 +159,12 @@
 
 		},
 		remove: function () {
-
+			
 			// set atts
 			this.$el.find('.acf-image-image').attr('src', '');
 			this.$el.find('.acf-image-value').val('').trigger('change');
-
-
+			
+			
 			// remove class
 			this.$el.removeClass('active');
 
@@ -201,8 +201,8 @@
 			 console.log( e );
 
 			 });*/
-
-
+			
+			
 			// customize model / view
 			acf.media.frame.on('content:activate', function () {
 
@@ -230,7 +230,7 @@
 
 				// filter only images
 				$.each(filters.filters, function (k, v) {
-
+				
 					v.props.type = 'image';
 
 				});
@@ -242,7 +242,7 @@
 					filters.$el.after('<span>' + acf.l10n.image.uploadedTo + '</span>');
 
 					$.each(filters.filters, function (k, v) {
-
+						
 						v.props.uploadedTo = acf.o.post_id;
 
 					});
@@ -251,7 +251,7 @@
 
 				// remove non image options from filter list
 				filters.$el.find('option').each(function () {
-
+					
 					// vars
 					var v = $(this).attr('value');
 
@@ -276,7 +276,7 @@
 
 			// When an image is selected, run a callback.
 			acf.media.frame.on('select', function () {
-
+				
 				// get selected images
 				selection = _media.frame.state().get('selection');
 
@@ -297,8 +297,8 @@
 								$repeater = $tr.closest('.repeater'),
 								key = $td.attr('data-field_key'),
 								selector = 'td .acf-image-uploader:first';
-
-
+								
+							
 							// key only exists for repeater v1.0.1 +
 							if (key) {
 								selector = 'td[data-field_key="' + key + '"] .acf-image-uploader';
@@ -314,7 +314,7 @@
 
 							// update current div
 							_media.div = $tr.next('.row').find(selector);
-
+							
 						}
 
 
@@ -371,28 +371,28 @@
 	 */
 
 	$(document).on('click', '.acf-image-uploader .acf-button-edit', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.image.set({$el: $(this).closest('.acf-image-uploader')}).edit();
-
+			
 	});
 
 	$(document).on('click', '.acf-image-uploader .acf-button-delete', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.image.set({$el: $(this).closest('.acf-image-uploader')}).remove();
-
+			
 	});
 
 
 	$(document).on('click', '.acf-image-uploader .add-image', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.image.set({$el: $(this).closest('.acf-image-uploader')}).popup();
-
+		
 	});
 	
 

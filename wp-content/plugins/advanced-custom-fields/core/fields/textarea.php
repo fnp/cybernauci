@@ -64,7 +64,7 @@ class acf_field_textarea extends acf_field
 		$e .= '<textarea';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= '>';
@@ -107,7 +107,7 @@ class acf_field_textarea extends acf_field
 					'name' => 'fields[' . $key . '][default_value]',
 					'value' => $field['default_value'],
 				));
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">

@@ -62,7 +62,7 @@ function nf_license_settings_save_button()
 		?>
 		<input class="button-primary menu-save ninja-forms-save-data" id="ninja_forms_save_data_top" type="submit"
 			   value="<?php _e('Save & Activate', 'ninja-forms'); ?>"/>
-		<?php
+		<?php		
 	}
 
 	if ($show_deactivate) {

@@ -11,7 +11,7 @@
             $("#nf-builder").addClass("nf-drawer-closed");
             $(".nf-field-wrap:first-child").removeClass("active");
             $("#field-0 .nf-item-controls").removeClass("nf-editing");
-        });
+    });
         $(".nf-toggle-drawer").click(function () {
             $("#nf-drawer").toggleClass("nf-drawer-expand");
         });

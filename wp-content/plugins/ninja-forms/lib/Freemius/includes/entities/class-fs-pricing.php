@@ -50,4 +50,4 @@ class FS_Pricing extends FS_Entity
 	{
 		return 'pricing';
 	}
-}
+	}

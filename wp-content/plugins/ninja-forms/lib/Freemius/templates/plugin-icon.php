@@ -23,8 +23,8 @@ if (1 < count($fs_active_plugins->plugins)) {
 			$img_dir = WP_PLUGIN_DIR . '/' . $sdk_path . '/assets/img';
 			break;
 		}
+		}
 	}
-}
 
 $icons = glob(fs_normalize_path($img_dir . '/icon.*'));
 if (!is_array($icons) || 0 === count($icons)) {
@@ -58,8 +58,8 @@ if (!is_array($icons) || 0 === count($icons)) {
 				$icon_found = true;
 				break;
 			}
+			}
 		}
-	}
 
 	if (!$icon_found) {
 		// No icons found, fallback to default icon.
@@ -67,7 +67,7 @@ if (!is_array($icons) || 0 === count($icons)) {
 	}
 
 	$icons = array($local_path);
-}
+	}
 
 $relative_url = fs_img_url(substr($icons[0], strlen(fs_normalize_path($img_dir))), $img_dir);
 ?>

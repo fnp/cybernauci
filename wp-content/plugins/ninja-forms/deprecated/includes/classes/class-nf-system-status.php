@@ -17,9 +17,9 @@ if (!class_exists('NF_System_Status')) :
 	class NF_System_Status
 	{
 
-		/**
-		 * Initializes the class
-		 */
+	/**
+	 * Initializes the class
+	 */
 		public function __construct()
 		{
 			// register the system status page
@@ -45,7 +45,7 @@ if (!class_exists('NF_System_Status')) :
 
 			// register the tab
 			ninja_forms_register_tab('system_status', $args);
-		}
+	}
 
 	}
 

@@ -147,7 +147,7 @@ function ninja_forms_field_list_edit($field_id, $data)
 	);
 
 	ninja_forms_edit_field_el_output($field_id, 'select', __('List Type', 'ninja-forms'), 'list_type', $list_type, 'wide', $list_type_options, 'widefat');
-
+	
 	?>
 
 	<p id="ninja_forms_field_<?php echo $field_id; ?>_multi_size_p" class="description description-wide"
@@ -402,7 +402,7 @@ function ninja_forms_field_list_display($field_id, $data, $form_id = '')
 						$selected = 'checked';
 					} else {
 						$selected = '';
-					}
+				}
 					?>
 					<li><label id="ninja_forms_field_<?php echo $field_id; ?>_<?php echo $x; ?>_label"
 							   class="ninja-forms-field-<?php echo $field_id; ?>-options"
@@ -468,7 +468,7 @@ function ninja_forms_field_list_display($field_id, $data, $form_id = '')
 						$checked = 'checked';
 					} else {
 						$checked = '';
-					}
+				}
 
 					?>
 					<li><label id="ninja_forms_field_<?php echo $field_id; ?>_<?php echo $x; ?>_label"
@@ -895,7 +895,7 @@ function nf_field_list_edit_sub_value($field_id, $user_value, $field)
 						$selected = 'checked';
 					} else {
 						$selected = '';
-					}
+				}
 					?>
 					<li>
 						<label><input id="" name="fields[<?php echo $field_id; ?>]" type="radio"

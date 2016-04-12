@@ -18,14 +18,14 @@ if (!function_exists('fs_dummy')) {
 	function fs_dummy()
 	{
 	}
-}
+	}
 
 /* Url.
 --------------------------------------------------------------------------------------------*/
 function fs_get_url_daily_cache_killer()
 {
 	return date('\YY\Mm\Dd');
-}
+	}
 
 /* Templates / Views.
 --------------------------------------------------------------------------------------------*/
@@ -68,7 +68,7 @@ if (!function_exists('fs_get_template_path')) {
 
 		return ob_get_clean();
 	}
-}
+	}
 
 /* Scripts and styles including.
 --------------------------------------------------------------------------------------------*/
@@ -82,7 +82,7 @@ function fs_enqueue_local_style($handle, $path, $deps = array(), $ver = false, $
 	}
 
 	wp_enqueue_style($handle, plugins_url(plugin_basename(WP_FS__DIR_CSS . '/' . trim($path, '/'))), $deps, $ver, $media);
-}
+	}
 
 function fs_enqueue_local_script($handle, $path, $deps = array(), $ver = false, $in_footer = 'all')
 {
@@ -132,7 +132,7 @@ function fs_request_is_post()
 function fs_request_is_get()
 {
 	return ('get' === strtolower($_SERVER['REQUEST_METHOD']));
-}
+	}
 
 function fs_get_action($action_key = 'action')
 {
@@ -146,10 +146,10 @@ function fs_get_action($action_key = 'action')
 		if (!empty($_REQUEST[$action_key])) {
 			return strtolower($_REQUEST[$action_key]);
 		}
-	}
+		}
 
 	return false;
-}
+	}
 
 function fs_request_is_action($action, $action_key = 'action')
 {
@@ -191,15 +191,15 @@ function fs_ui_action_button(
 	echo fs_ui_get_action_button(
 		$slug,
 		$page,
-		$action,
+			$action,
 		$title,
 		$params,
 		$is_primary,
 		$icon_class,
-		$confirmation,
+			$confirmation,
 		$method
-	);
-}
+		);
+	}
 
 /**
  * @author Vova Feldman (@svovaf)
@@ -313,7 +313,7 @@ if (!function_exists('fs_starts_with')) {
 
 		return (substr($haystack, 0, $length) === $needle);
 	}
-}
+	}
 
 #region Url Canonization ------------------------------------------------------------------
 
@@ -345,7 +345,7 @@ if (!function_exists('fs_canonize_url')) {
 
 		return $canonical;
 	}
-}
+	}
 
 if (!function_exists('fs_canonize_query_string')) {
 	/**
@@ -391,15 +391,15 @@ if (!function_exists('fs_canonize_query_string')) {
 				}
 			} else {
 				$pairs[] = $lower_param . '=' . $value;
+				}
 			}
-		}
 
 		if (0 === count($pairs)) {
 			return '';
 		}
 
 		return implode("&", $pairs);
-	}
+		}
 }
 
 if (!function_exists('fs_urlencode_rfc3986')) {
@@ -419,8 +419,8 @@ if (!function_exists('fs_urlencode_rfc3986')) {
 			return str_replace('+', ' ', str_replace('%7E', '~', rawurlencode($input)));
 		}
 
-		return '';
-	}
+			return '';
+		}
 }
 
 #endregion Url Canonization ------------------------------------------------------------------
@@ -434,22 +434,22 @@ function fs_download_image($from, $to)
 	curl_exec($ch);
 	curl_close($ch);
 	fclose($fp);
-}
+	}
 
 /* General Utilities
 --------------------------------------------------------------------------------------------*/
 
-/**
- * Sorts an array by the value of the priority key.
- *
- * @author Daniel Iser (@danieliser)
- * @since  1.1.7
- *
- * @param $a
- * @param $b
- *
- * @return int
- */
+	/**
+	 * Sorts an array by the value of the priority key.
+	 *
+	 * @author Daniel Iser (@danieliser)
+	 * @since  1.1.7
+	 *
+	 * @param $a
+	 * @param $b
+	 *
+	 * @return int
+	 */
 function fs_sort_by_priority($a, $b)
 {
 
@@ -462,9 +462,9 @@ function fs_sort_by_priority($a, $b)
 	} // If neither has a priority or both priorities are equal its a tie.
 	elseif ((!isset($a['priority']) && !isset($b['priority'])) || $a['priority'] === $b['priority']) {
 		return 0;
-	}
+		}
 
 	// If both have priority return the winner.
 	return ($a['priority'] < $b['priority']) ? -1 : 1;
-}
+	}
 

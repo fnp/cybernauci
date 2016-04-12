@@ -54,7 +54,7 @@ function ninja_forms_display_response_message($form_id)
 						echo $error['msg'];
 						echo '</div>';
 					}
-				}
+					}
 
 
 				if ($ninja_forms_processing->get_all_success_msgs()) {
@@ -63,13 +63,13 @@ function ninja_forms_display_response_message($form_id)
 						echo $success;
 						echo '</div>';
 					}
+					}
 				}
 			}
 		}
-	}
 
 
-	echo '</div>';
+	echo '</div>';		
 	//}
 
 

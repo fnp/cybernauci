@@ -30,7 +30,7 @@ class acf_field_wysiwyg extends acf_field
 
 			add_filter('acf_the_content', array($GLOBALS['wp_embed'], 'run_shortcode'), 8);
 			add_filter('acf_the_content', array($GLOBALS['wp_embed'], 'autoembed'), 8);
-
+			
 		}
 
 		add_filter('acf_the_content', 'capital_P_dangit', 11);
@@ -41,16 +41,16 @@ class acf_field_wysiwyg extends acf_field
 		add_filter('acf_the_content', 'shortcode_unautop');
 		//add_filter( 'acf_the_content', 'prepend_attachment' ); *should only be for the_content (causes double image on attachment page)
 		add_filter('acf_the_content', 'do_shortcode', 11);
-
+		
 
 		// do not delete!
 		parent::__construct();
-
-
+    	
+    	
 		// filters
 		add_filter('acf/fields/wysiwyg/toolbars', array($this, 'toolbars'), 1, 1);
 		add_filter('mce_external_plugins', array($this, 'mce_external_plugins'), 20, 1);
-
+    	
 	}
 
 
@@ -69,14 +69,14 @@ class acf_field_wysiwyg extends acf_field
 
 	function mce_external_plugins($plugins)
 	{
-
+		
 		// global
 		global $wp_version;
 
 
 		// WP 3.9 an above
 		if (version_compare($wp_version, '3.9', '>=')) {
-
+			
 			// add code
 			$plugins['code'] = apply_filters('acf/get_info', 'dir') . 'js/tinymce.code.min.js';
 
@@ -211,11 +211,11 @@ class acf_field_wysiwyg extends acf_field
 
 	function create_field($field)
 	{
-
+		
 		// global
 		global $wp_version;
-
-
+		
+		
 		// vars
 		$id = 'wysiwyg-' . $field['id'] . '-' . uniqid();
 		$default_editor = 'tinymce';
@@ -225,8 +225,8 @@ class acf_field_wysiwyg extends acf_field
 		remove_filter('acf_the_editor_content', 'format_for_editor', 10, 2);
 		remove_filter('acf_the_editor_content', 'wp_htmledit_pre', 10, 1);
 		remove_filter('acf_the_editor_content', 'wp_richedit_pre', 10, 1);
-
-
+		
+		
 		// WP 4.3
 		if (version_compare($wp_version, '4.3', '>=')) {
 
@@ -245,7 +245,7 @@ class acf_field_wysiwyg extends acf_field
 
 		// filter
 		$field['value'] = apply_filters('acf_the_editor_content', $field['value'], $default_editor);
-
+		
 		?>
 		<div id="wp-<?php echo $id; ?>-wrap" class="acf_wysiwyg wp-core-ui wp-editor-wrap"
 			 data-toolbar="<?php echo $field['toolbar']; ?>" data-upload="<?php echo $field['media_upload']; ?>">
@@ -305,29 +305,29 @@ class acf_field_wysiwyg extends acf_field
 				<label><?php _e("Toolbar", 'acf'); ?></label>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				$toolbars = apply_filters('acf/fields/wysiwyg/toolbars', array());
-				$choices = array();
+		$toolbars = apply_filters('acf/fields/wysiwyg/toolbars', array());
+		$choices = array();
 
-				if (is_array($toolbars)) {
-					foreach ($toolbars as $k => $v) {
-						$label = $k;
-						$name = sanitize_title($label);
-						$name = str_replace('-', '_', $name);
+		if (is_array($toolbars)) {
+			foreach ($toolbars as $k => $v) {
+				$label = $k;
+				$name = sanitize_title($label);
+				$name = str_replace('-', '_', $name);
 
-						$choices[$name] = $label;
-					}
-				}
+				$choices[$name] = $label;
+			}
+		}
 
-				do_action('acf/create_field', array(
-					'type' => 'radio',
-					'name' => 'fields[' . $key . '][toolbar]',
-					'value' => $field['toolbar'],
-					'layout' => 'horizontal',
-					'choices' => $choices
-				));
-				?>
+		do_action('acf/create_field', array(
+			'type' => 'radio',
+			'name' => 'fields[' . $key . '][toolbar]',
+			'value' => $field['toolbar'],
+			'layout' => 'horizontal',
+			'choices' => $choices
+		));
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -373,8 +373,8 @@ class acf_field_wysiwyg extends acf_field
 	{
 		// apply filters
 		$value = apply_filters('acf_the_content', $value);
-
-
+		
+		
 		// follow the_content function in /wp-includes/post-template.php
 		$value = str_replace(']]>', ']]&gt;', $value);
 

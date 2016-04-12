@@ -1,10 +1,10 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.1.6
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.1.6
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
@@ -39,7 +39,7 @@ class FS_Cache_Manager
 		$this->_logger->log('id = ' . $id);
 
 		$this->_options = FS_Option_Manager::get_manager($id, true);
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -134,7 +134,7 @@ class FS_Cache_Manager
 			is_numeric($cache_entry->timestamp) &&
 			$cache_entry->timestamp > WP_FS__SCRIPT_START_TIME
 		);
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -159,7 +159,7 @@ class FS_Cache_Manager
 		}
 
 		return $default;
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -203,7 +203,7 @@ class FS_Cache_Manager
 		$cache_entry->result = $value;
 		$cache_entry->timestamp = WP_FS__SCRIPT_START_TIME + $expiration;
 		$this->_options->set_option($key, $cache_entry, true);
-	}
+		}
 
 	/**
 	 * Get cached record expiration, or false if not cached or expired.
@@ -246,4 +246,4 @@ class FS_Cache_Manager
 
 		$this->_options->unset_option($key, true);
 	}
-}
+	}

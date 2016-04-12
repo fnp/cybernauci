@@ -36,14 +36,14 @@ class FS_Logger
 		if ($echo) {
 			$this->echo_on();
 		}
-	}
+		}
 
 	function on()
 	{
 		$this->_on = true;
 
 		self::_hook_footer();
-	}
+		}
 
 	private static function _hook_footer()
 	{
@@ -56,14 +56,14 @@ class FS_Logger
 		} else {
 			add_action('wp_footer', 'FS_Logger::dump', 100);
 		}
-	}
+		}
 
 	function echo_on()
 	{
 		$this->on();
 
 		$this->_echo = true;
-	}
+		}
 
 	/**
 	 * @param string $id
@@ -78,14 +78,14 @@ class FS_Logger
 
 		if (!isset(self::$LOGGERS[$id])) {
 			self::$LOGGERS[$id] = new FS_Logger($id, $on, $echo);
-		}
+			}
 
 		return self::$LOGGERS[$id];
 	}
 
 	static function dump()
 	{
-		?>
+			?>
 		<!-- BEGIN: Freemius PHP Console Log -->
 		<script type="text/javascript">
 			<?php
@@ -116,12 +116,12 @@ class FS_Logger
 	function get_file()
 	{
 		return $this->_file_start;
-	}
+		}
 
 	function log($message, $wrapper = false)
 	{
 		$this->_log($message, 'log', $wrapper);
-	}
+		}
 
 	private function _log(&$message, $type = 'log', $wrapper)
 	{
@@ -150,7 +150,7 @@ class FS_Logger
 		if ($this->is_echo_on()) {
 			echo self::format_html($log) . "\n";
 		}
-	}
+		}
 
 	function is_on()
 	{
@@ -195,4 +195,4 @@ class FS_Logger
 
 		$this->_log($msg, 'log', $wrapper);
 	}
-}
+	}

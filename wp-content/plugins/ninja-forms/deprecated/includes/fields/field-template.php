@@ -22,7 +22,7 @@ $args = array(
 			'name' => 'my_select',
 			'label' => 'My Select Label',
 		),
-	),
+		),
 	'display_function' => 'ninja_forms_field_upload_display', //Required - This function will be called to create output when a user accesses a form containing this element.
 	'sub_edit_function' => 'ninja_forms_field_upload_sub_edit',    //Optional - This will be called when an admin or user edits the a user submission.
 	'group' => '', //Optional
@@ -38,7 +38,7 @@ $args = array(
 		'value' => array(
 			'type' => 'text',
 		),
-	),
+		),
 	'pre_process' => 'ninja_forms_field_upload_pre_process',
 	'process' => 'ninja_forms_field_upload_process',
 	'req_validation' => 'ninja_forms_field_upload_req_validation',

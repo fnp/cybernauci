@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 class acf_everything_fields 
 {
@@ -66,7 +66,7 @@ class acf_everything_fields
 	*  @return	{object}	$post
 	*/
 
-	function attachment_fields_to_edit($form_fields, $post)
+	function attachment_fields_to_edit($form_fields, $post) 
 	{
 		// vars
 		$screen = get_current_screen();
@@ -74,7 +74,7 @@ class acf_everything_fields
 
 
 		if ($screen && $screen->base == 'post') {
-
+			
 			return $form_fields;
 
 		}
@@ -84,11 +84,11 @@ class acf_everything_fields
 		$filter = array('post_type' => 'attachment');
 		$metabox_ids = array();
 		$metabox_ids = apply_filters('acf/location/match_field_groups', $metabox_ids, $filter);
-
-
+		
+		
 		// validate
 		if (empty($metabox_ids)) {
-			return $form_fields;
+			return $form_fields;	
 		}
 
 
@@ -113,8 +113,8 @@ class acf_everything_fields
 
 						// if they didn't select a type, skip this field
 						if (!$field || !$field['type'] || $field['type'] == 'null') {
-							continue;
-						}
+					continue;
+				}
 
 
 						// set value
@@ -148,8 +148,8 @@ class acf_everything_fields
 
 			}
 		}
-
-
+		
+		
 		// return
 		return $form_fields;
 	}
@@ -198,7 +198,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 	*  @created: 23/06/12
 	*/
 
-	function admin_menu()
+	function admin_menu() 
 	{
 
 		global $pagenow;
@@ -206,8 +206,8 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 		// validate page
 		if (!$this->validate_page()) return;
-
-
+		
+		
 		// set page type
 		$filter = array();
 
@@ -228,7 +228,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 			}
 
 		} elseif ($pagenow == "edit-tags.php" || $pagenow == "term.php") {
-
+			
 			// vars
 			$taxonomy = 'post_tag';
 			$term_id = 0;
@@ -236,13 +236,13 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 			// $_GET
 			if (!empty($_GET['taxonomy'])) {
-
+				
 				$taxonomy = filter_var($_GET['taxonomy'], FILTER_SANITIZE_STRING);
 
 			}
 
 			if (!empty($_GET['tag_ID'])) {
-
+				
 				$term_id = filter_var($_GET['tag_ID'], FILTER_SANITIZE_NUMBER_INT);
 
 			}
@@ -260,14 +260,14 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 			// edit
 			if ($term_id) {
-
+				
 				$this->data['page_action'] = "edit";
 				$this->data['option_name'] = $taxonomy . "_" . $term_id;
 
 			}
 
 		} elseif ($pagenow == "profile.php") {
-
+			
 			$this->data['page_type'] = "user";
 			$filter['ef_user'] = get_current_user_id();
 
@@ -288,12 +288,12 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 		} elseif ($pagenow == "user-new.php") {
 			$this->data['page_type'] = "user";
 			$filter['ef_user'] = 'all';
-
+			
 			$this->data['page_action'] = "add";
 			$this->data['option_name'] = "";
 
 		} elseif ($pagenow == "media.php" || $pagenow == 'upload.php') {
-
+			
 			$this->data['page_type'] = "media";
 			$filter['post_type'] = 'attachment';
 
@@ -319,15 +319,15 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 		// dont continue if no ids were found
 		if (empty($this->data['metabox_ids'])) {
-			return false;
+			return false;	
 		}
 
 
 		// actions
 		add_action('admin_enqueue_scripts', array($this, 'admin_enqueue_scripts'));
 		add_action('admin_head', array($this, 'admin_head'));
-
-
+		
+		
 	}
 
 
@@ -364,7 +364,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 		// WP4
 		if ($pagenow === 'upload.php' && version_compare($wp_version, '4.0', '>=')) {
-
+			
 			$return = true;
 
 		}
@@ -399,7 +399,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 	*-------------------------------------------------------------------------------------*/
 
 	function admin_head()
-	{
+	{	
 		global $pagenow;
 
 
@@ -632,8 +632,8 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 		// metabox ids is a string with commas
 		$options['metabox_ids'] = explode(',', $options['metabox_ids']);
-
-
+		
+			
 		// get acfs
 		$acfs = apply_filters('acf/get_field_groups', false);
 
@@ -724,7 +724,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 
 						if ($layout == 'metabox') {
 							echo '<div id="acf-' . $field['name'] . '" class="field field_type-' . $field['type'] . ' field_key-' . $field['key'] . $required_class . '" data-field_name="' . $field['name'] . '" data-field_key="' . $field['key'] . '" data-field_type="' . $field['type'] . '">';
-
+		
 							echo '<p class="label">';
 							echo '<label for="fields[' . $field['key'] . ']">' . $field['label'] . $required_label . '</label>';
 							echo $field['instructions'];
@@ -737,7 +737,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 						} elseif ($layout == 'div') {
 							echo '<div id="acf-' . $field['name'] . '" class="form-field field field_type-' . $field['type'] . ' field_key-' . $field['key'] . $required_class . '" data-field_name="' . $field['name'] . '" data-field_key="' . $field['key'] . '" data-field_type="' . $field['type'] . '">';
 
-							echo '<label for="fields[' . $field['key'] . ']">' . $field['label'] . $required_label . '</label>';
+							echo '<label for="fields[' . $field['key'] . ']">' . $field['label'] . $required_label . '</label>';	
 							$field['name'] = 'fields[' . $field['key'] . ']';
 							do_action('acf/create_field', $field);
 							if ($field['instructions']) echo '<p class="description">' . $field['instructions'] . '</p>';
@@ -745,7 +745,7 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 							echo '</div>';
 						} else {
 							echo '<tr id="acf-' . $field['name'] . '" class="form-field field field_type-' . $field['type'] . ' field_key-' . $field['key'] . $required_class . '" data-field_name="' . $field['name'] . '" data-field_key="' . $field['key'] . '" data-field_type="' . $field['type'] . '">';
-							echo '<th valign="top" scope="row"><label for="fields[' . $field['key'] . ']">' . $field['label'] . $required_label . '</label></th>';
+							echo '<th valign="top" scope="row"><label for="fields[' . $field['key'] . ']">' . $field['label'] . $required_label . '</label></th>';	
 							echo '<td>';
 							$field['name'] = 'fields[' . $field['key'] . ']';
 							do_action('acf/create_field', $field);
@@ -754,12 +754,13 @@ if( !isset($_POST['acf_nonce']) || !wp_verify_nonce($_POST['acf_nonce'], 'input'
 							echo '</td>';
 							echo '</tr>';
 
-						}
+					}
 
 					}
 				}
-
-
+				
+							
+				
 				// wrapper
 				if ($layout == 'metabox') {
 					echo '</div></div>';

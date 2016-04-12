@@ -256,8 +256,8 @@ echo '<?xml version="1.0" encoding="' . get_bloginfo('charset') . "\" ?>\n";
 						$meta->meta_value = maybe_unserialize($meta->meta_value);
 						$meta->meta_value = fix_line_breaks($meta->meta_value);
 						$meta->meta_value = maybe_serialize($meta->meta_value);
-
-						?>
+						
+		?>
 						<wp:postmeta>
 							<wp:meta_key><?php echo $meta->meta_key; ?></wp:meta_key>
 							<wp:meta_value><?php echo wxr_cdata($meta->meta_value); ?></wp:meta_value>

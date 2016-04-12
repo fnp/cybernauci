@@ -7,7 +7,7 @@ function ninja_forms_add_menu()
 	$new_form = add_submenu_page("ninja-forms", __('Add New', 'ninja-forms'), __('Add New', 'ninja-forms'), apply_filters('ninja_forms_admin_add_new_capabilities', 'manage_options'), "ninja-forms&tab=builder&form_id=new", "ninja_forms_admin");
 
 	$upgrade = add_submenu_page(null, __('Ninja Forms Upgrades', 'ninja-forms'), __('Upgrades', 'ninja-forms'), 'install_plugins', 'nf-upgrades', 'nf_upgrades_screen');
-
+	
 	add_action('admin_print_styles-' . $page, 'ninja_forms_admin_css');
 	add_action('admin_print_styles-' . $page, 'ninja_forms_admin_js');
 
@@ -88,70 +88,71 @@ function ninja_forms_admin()
 		<input type="hidden" name="_form_id" id="_form_id" value="<?php echo $form_id; ?>">
 		<input type="hidden" name="_fields_order" id="_fields_order" value="same">
 		<?php
-		wp_nonce_field('_ninja_forms_save', '_ninja_forms_admin_submit');
+		wp_nonce_field('_ninja_forms_save', '_ninja_forms_admin_submit'); 
 	}
 	?>
 	<div class="wrap">
-		<?php
-		screen_icon('ninja-custom-forms');
-		if (isset($ninja_forms_tabs[$current_page][$current_tab]['title'])) {
-			echo $ninja_forms_tabs[$current_page][$current_tab]['title'];
-		}
-
-		if ('form_list' == $current_tab) {
-			$builder_url = esc_url(add_query_arg(array('form_id' => 'new', 'tab' => 'builder')));
-			?>
-			<h2><?php _e('Forms', 'ninja-forms'); ?> <a href="<?php echo $builder_url; ?>"
-														class="add-new-h2"><?php _e('Add New', 'ninja-forms'); ?></a>
-			</h2>
 			<?php
-		} else {
+			screen_icon('ninja-custom-forms');
+			if (isset($ninja_forms_tabs[$current_page][$current_tab]['title'])) {
+				echo $ninja_forms_tabs[$current_page][$current_tab]['title'];
+			}
 
-			?>
-			<h2 id="nf-display-form-title"><?php echo $form_title; ?></h2>
-			<?php
-		}
-
-		if ($ninja_forms_tabs[$current_page][$current_tab]['show_tab_links']) {
-			?>
-			<h2 class="nav-tab-wrapper">
+			if ('form_list' == $current_tab) {
+				$builder_url = esc_url(add_query_arg(array('form_id' => 'new', 'tab' => 'builder')));
+				?>
+				<h2><?php _e('Forms', 'ninja-forms'); ?> <a href="<?php echo $builder_url; ?>"
+															class="add-new-h2"><?php _e('Add New', 'ninja-forms'); ?></a>
+				</h2>
 				<?php
-				ninja_forms_display_tabs();
-				if (!empty ($form_id)) {
-					$preview_link = ninja_forms_preview_link($form_id, false);
-					$subs_link = admin_url('edit.php?post_status=all&post_type=nf_sub&action=-1&m=0&form_id=' . $form_id . '&begin_date&end_date&paged=1&mode=list&action2=-1');
+			} else {
+
 					?>
-					<a href="<?php echo $preview_link; ?>" target="_blank" class="nf-preview button-secondary"><span
-							class="dashicons dashicons-welcome-view-site"></span><?php _e('Preview', 'ninja-forms'); ?>
-					</a>
-					<a href="<?php echo $subs_link; ?>" target="_blank" class="nf-subs button-secondary"><span
-							class="dashicons dashicons-email-alt"></span><?php _e('Submissions', 'ninja-forms'); ?></a>
-				<?php } ?>
-			</h2>
-			<?php
-		}
+				<h2 id="nf-display-form-title"><?php echo $form_title; ?></h2>
+				<?php
+			}
 
-		if (isset($ninja_forms_admin_update_message) AND $ninja_forms_admin_update_message != '') {
+			if ($ninja_forms_tabs[$current_page][$current_tab]['show_tab_links']) {
+				?>
+				<h2 class="nav-tab-wrapper">
+					<?php
+					ninja_forms_display_tabs();
+					if (!empty ($form_id)) {
+						$preview_link = ninja_forms_preview_link($form_id, false);
+						$subs_link = admin_url('edit.php?post_status=all&post_type=nf_sub&action=-1&m=0&form_id=' . $form_id . '&begin_date&end_date&paged=1&mode=list&action2=-1');
+						?>
+						<a href="<?php echo $preview_link; ?>" target="_blank" class="nf-preview button-secondary"><span
+								class="dashicons dashicons-welcome-view-site"></span><?php _e('Preview', 'ninja-forms'); ?>
+						</a>
+						<a href="<?php echo $subs_link; ?>" target="_blank" class="nf-subs button-secondary"><span
+								class="dashicons dashicons-email-alt"></span><?php _e('Submissions', 'ninja-forms'); ?>
+						</a>
+					<?php } ?>
+				</h2>
+				<?php
+			}
+
+			if (isset($ninja_forms_admin_update_message) AND $ninja_forms_admin_update_message != '') {
+				?>
+				<div id="message" class="updated below-h2">
+					<p>
+						<?php echo $ninja_forms_admin_update_message; ?>
+					</p>
+				</div>
+				<?php
+			}
+
+			if (isset($ninja_forms_sidebars[$current_page][$current_tab]) AND is_array($ninja_forms_sidebars[$current_page][$current_tab])) {
+
+				?>
+				<div id="nav-menus-frame">
+					<?php ninja_forms_display_sidebars($data); ?>
+
+				</div><!-- /#menu-settings-column -->
+					<?php
+
+			}
 			?>
-			<div id="message" class="updated below-h2">
-				<p>
-					<?php echo $ninja_forms_admin_update_message; ?>
-				</p>
-			</div>
-			<?php
-		}
-
-		if (isset($ninja_forms_sidebars[$current_page][$current_tab]) AND is_array($ninja_forms_sidebars[$current_page][$current_tab])) {
-
-			?>
-			<div id="nav-menus-frame">
-				<?php ninja_forms_display_sidebars($data); ?>
-
-			</div><!-- /#menu-settings-column -->
-			<?php
-
-		}
-		?>
 
 		<div id="poststuff">
 			<div id="post-body">
@@ -192,7 +193,7 @@ function ninja_forms_admin()
 				</div><!-- /#post-body-content -->
 			</div><!-- /#post-body -->
 		</div>
-	</div>
+		</div>
 	<!-- </div>/.wrap-->
 	<?php
 	if ($output_form) {

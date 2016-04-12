@@ -109,7 +109,7 @@
 	color: #CC0000;
 }
 
-.acf_postbox.no_box > .inside > .field.error {
+.acf_postbox.no_box > .inside > .field.error { 
 	padding-left: 10px;
 	padding-right: 10px;
 }
@@ -300,7 +300,7 @@ not needed in WP 3.8
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
-
+	
 	.acf-image-uploader img {
 		width: auto;
 		max-width: 100%;
@@ -321,8 +321,8 @@ not needed in WP 3.8
 	-webkit-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
 	-moz-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
 	-o-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
-	transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
-
+	transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s; 
+	
 	visibility: hidden;
 	opacity: 0;
 }
@@ -332,7 +332,7 @@ not needed in WP 3.8
 	-moz-transition-delay: 0s;
 	-o-transition-delay: 0s;
 	transition-delay: 0s;
-
+	
 	visibility: visible;
 	opacity: 1;
 }
@@ -562,7 +562,7 @@ not needed in WP 3.8
 }
 
 @media (max-width: 960px) {
-
+	
 	.media-modal.acf-media-modal {
 		left: 10%;
 		right: 10%;
@@ -584,7 +584,7 @@ not needed in WP 3.8
 		display: none;
 	}
 
-	.media-modal.acf-expanded .media-sidebar .setting input,
+	.media-modal.acf-expanded .media-sidebar .setting input, 
 	.media-modal.acf-expanded .media-sidebar .setting textarea,
 	.media-modal.acf-expanded .compat-item .field {
 		width: 100%;
@@ -674,8 +674,8 @@ not needed in WP 3.8
 	-webkit-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
 	-moz-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
 	-o-transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
-	transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s;
-
+	transition: opacity 0.25s 0s ease-in-out, visibility 0s linear 0.25s; 
+	
 	visibility: hidden;
 	opacity: 0;
 }
@@ -685,7 +685,7 @@ not needed in WP 3.8
 	-moz-transition-delay: 0s;
 	-o-transition-delay: 0s;
 	transition-delay: 0s;
-
+	
 	visibility: visible;
 	opacity: 1;
 }
@@ -951,6 +951,7 @@ td.acf_input-wrap {
 	display: none;
 }
 
+
 .acf_relationship select {
 	font-family: sans-serif;
 	font-size: 12px;
@@ -974,7 +975,7 @@ td.acf_input-wrap {
 }
 
 .acf_relationship .relationship_list .result-thumbnail img {
-	width: 21px;
+	width: 21px; 
 	height: 21px; 
 }
 
@@ -1192,6 +1193,7 @@ th.acf-conditional_logic-hide.acf-show-blank .inner {
 	display: none;
 }
 
+
 /*--------------------------------------------------------------------------
 *
 *	Field: Color picker
@@ -1232,6 +1234,7 @@ th.acf-conditional_logic-hide.acf-show-blank .inner {
 	height: 24px;
 	padding: 0 10px 1px;
 }
+
 
 /*--------------------------------------------------------------------------
 *
@@ -1345,7 +1348,7 @@ th.acf-conditional_logic-hide.acf-show-blank .inner {
 *-------------------------------------------------------------------------*/
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (   min--moz-device-pixel-ratio: 2), only screen and (     -o-min-device-pixel-ratio: 2/1), only screen and (        min-device-pixel-ratio: 2), only screen and (                min-resolution: 192dpi), only screen and (                min-resolution: 2dppx) {
-
+	
 	.acf_flexible_content .layout .fc-delete-layout,
 	.acf-popup .bit,
 	.acf-gallery .toolbar .view-grid,

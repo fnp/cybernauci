@@ -58,8 +58,8 @@ foreach ($reasons as $reason) {
 				evt.preventDefault();
 
 				if ($(this).hasClass('disabled')) {
-					return;
-				}
+						return;
+					}
 
 				var _parent = $(this).parents('.fs-modal:first');
 				var _this = $(this);
@@ -71,7 +71,7 @@ foreach ($reasons as $reason) {
 						// If no selected reason, just deactivate the plugin.
 						window.location.href = $deactivateLink.attr('href');
 						return;
-					}
+						}
 
 					var $selected_reason = $radio.parents('li:first'),
 						$input = $selected_reason.find('textarea, input[type="text"]');
@@ -173,8 +173,8 @@ foreach ($reasons as $reason) {
 				$deactivateButton.removeClass('allow-deactivate');
 
 				showPanel('confirm');
+				}
 			}
-		}
 
 		function showPanel(panelType) {
 			$modal.find('.fs-modal-panel').removeClass('active ');
@@ -192,7 +192,7 @@ foreach ($reasons as $reason) {
 			} else {
 				$deactivateButton.text('<?php printf(__fs('deactivation-modal-button-deactivate', $slug)); ?>');
 			}
-		}
+			}
 
 		function getCurrentPanel() {
 			return $modal.find('.fs-modal-panel.active').attr('data-panel-id');

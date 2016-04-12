@@ -147,8 +147,8 @@ function nf_output_step_processing_page()
 				<div class="progress-label">
 					<?php echo $action; ?>
 				</div>
+				</div>
 			</div>
-		</div>
 	</div>
 
     <!-- DISPLAY ERRORS -->

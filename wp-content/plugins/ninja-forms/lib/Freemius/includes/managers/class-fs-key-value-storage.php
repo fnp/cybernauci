@@ -1,14 +1,14 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.7
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.7
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
 class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 {
@@ -54,7 +54,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 		$this->_data = isset($all_plugins_data[$this->_slug]) ?
 			$all_plugins_data[$this->_slug] :
 			array();
-	}
+		}
 
 	protected function get_all_data()
 	{
@@ -64,7 +64,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 	protected function get_option_manager()
 	{
 		return FS_Option_Manager::get_manager(WP_FS__ACCOUNTS_OPTION_NAME, true);
-	}
+		}
 
 	/**
 	 * @param string $id
@@ -80,7 +80,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 		}
 
 		return self::$_instances[$key];
-	}
+		}
 
 	/**
 	 * @author   Vova Feldman (@svovaf)
@@ -106,7 +106,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 			$options_manager = $this->get_option_manager();
 			$options_manager->set_option($this->_id, $all_data, true);
 		}
-	}
+		}
 
 	/**
 	 * Delete key-value storage.
@@ -118,11 +118,11 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 	{
 		$this->_data = array();
 
-		$all_data = $this->get_all_data();
+			$all_data = $this->get_all_data();
 		unset($all_data[$this->_slug]);
-		$options_manager = $this->get_option_manager();
+			$options_manager = $this->get_option_manager();
 		$options_manager->set_option($this->_id, $all_data, true);
-	}
+		}
 
 	function __isset($k)
 	{
@@ -155,7 +155,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 			$options_manager = $this->get_option_manager();
 			$options_manager->set_option($this->_id, $all_data, true);
 		}
-	}
+		}
 
 
 	/* ArrayAccess + Magic Access (better for refactoring)
@@ -164,7 +164,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 	function __get($k)
 	{
 		return $this->get($k, null);
-	}
+		}
 
 	function __set($k, $v)
 	{
@@ -198,7 +198,7 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 
 		$options_manager = $this->get_option_manager();
 		$options_manager->set_option($this->_id, $all_data, $flush);
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -317,4 +317,4 @@ class FS_Key_Value_Storage implements ArrayAccess, Iterator, Countable
 	{
 		return count($this->_data);
 	}
-}
+	}

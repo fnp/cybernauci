@@ -52,6 +52,7 @@ class NF_Notifications
 		add_action('wp_ajax_nf_deactivate_notification', array($this, 'deactivate_notification'));
 
 
+
 		// Add our hook to add notification types processors.
 		add_action('ninja_forms_post_process', array($this, 'notification_processing'), 999);
 	}
@@ -230,14 +231,14 @@ class NF_Notifications
 					<input type="hidden" name="page" value="<?php echo esc_attr($_REQUEST['page']); ?>"/>
 					<input type="hidden" name="tab" value="<?php echo esc_attr($_REQUEST['tab']); ?>"/>
 					<input type="hidden" name="form_id" value="<?php echo esc_attr($_REQUEST['form_id']); ?>"/>
-					<?php
-					//Create an instance of our package class...
-					$nf_all_forms = new NF_Notifications_List_Table();
-					//Fetch, prepare, sort, and filter our data...
-					$nf_all_forms->prepare_items();
-					// Now we can render the completed list table
-					$nf_all_forms->display();
-					?>
+				<?php
+				//Create an instance of our package class...
+				$nf_all_forms = new NF_Notifications_List_Table();
+				//Fetch, prepare, sort, and filter our data...
+				$nf_all_forms->prepare_items();
+				// Now we can render the completed list table
+				$nf_all_forms->display();
+				?>
 				</form>
 				<?php
 			} else {
@@ -246,7 +247,7 @@ class NF_Notifications
 					$id = 'new';
 					$this_type = 'email';
 					$title = __('New Action', 'ninja-forms');
-				} else {
+			} else {
 					$this_type = Ninja_Forms()->notification($id)->type;
 					$title = __('Edit Action', 'ninja-forms') . ' - ID ' . $id;
 				}
@@ -293,8 +294,8 @@ class NF_Notifications
 							$display = '';
 						} else {
 							$display = 'display:none;';
-						}
-						?>
+					}
+					?>
 						<tbody id="notification-<?php echo $slug; ?>" class="notification-type"
 							   style="<?php echo $display; ?>">
 						<?php

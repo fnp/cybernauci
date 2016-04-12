@@ -13,7 +13,7 @@
             $("#field-3 .nf-item-controls").removeClass("nf-editing");
             $(".before").hide();
             $(".after").show();
-        });
+    });
         $(".nf-toggle-drawer").click(function () {
             $("#nf-drawer").toggleClass("nf-drawer-expand");
         });

@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  Radio
 	 *
@@ -9,7 +9,7 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
+	
 	acf.fields.radio = {
 
 		$el: null,
@@ -18,11 +18,11 @@
 		farbtastic: null,
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('input[type="radio"]:checked');
 			this.$other = this.$el.find('input[type="text"]');
@@ -61,7 +61,7 @@
 	$(document).on('change', '.acf-radio-list input[type="radio"]', function (e) {
 
 		acf.fields.radio.set({$el: $(this).closest('.acf-radio-list')}).change();
-
+		
 	});
 	
 

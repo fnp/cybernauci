@@ -34,7 +34,7 @@ jQuery(document).ready(function ($) {
 					max = 0;
 				}
 				var labelNum = Math.floor(Math.random() * ( max - 2 + 1 )) + 1;
-				this.currentLabel = labelNum;
+				this.currentLabel = labelNum;		
 			}
 		};
 

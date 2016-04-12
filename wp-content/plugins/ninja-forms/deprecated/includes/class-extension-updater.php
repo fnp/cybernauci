@@ -38,7 +38,7 @@ class NF_Extension_Updater
 		$this->product_nice_name = $product_name;
 		if ($slug == '') {
 			$this->product_name = strtolower($product_name);
-			$this->product_name = preg_replace("/[^a-zA-Z]+/", "", $this->product_name);
+			$this->product_name = preg_replace("/[^a-zA-Z]+/", "", $this->product_name);			
 		} else {
 			$this->product_name = $slug;
 		}
@@ -97,7 +97,7 @@ class NF_Extension_Updater
 
 	/**
 	 * Return whether or not this license is valid.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return bool
@@ -122,7 +122,7 @@ class NF_Extension_Updater
 
 	/**
 	 * Get any error messages for this license field.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return string $error
@@ -237,7 +237,7 @@ class NF_Extension_Updater
 
 	function activate_license($data)
 	{
-
+	
 		$plugin_settings = nf_get_settings();
 		// retrieve the license from the database
 		$license = $data[$this->product_name . '_license'];
@@ -283,7 +283,7 @@ class NF_Extension_Updater
 
 	/**
 	 * Output our field for entering and deactivating a license.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return void

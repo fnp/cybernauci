@@ -67,7 +67,7 @@ class acf_field_email extends acf_field
 		$e .= '<input type="email"';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= ' />';

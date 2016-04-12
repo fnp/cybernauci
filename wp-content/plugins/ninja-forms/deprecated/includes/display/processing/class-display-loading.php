@@ -140,7 +140,7 @@ class Ninja_Forms_Loading
 	}
 
 	/**
-	 *
+	 * 
 	 * Function to add the field data to $this->data['fields'].
 	 *
 	 * @since 2.3.9
@@ -161,7 +161,7 @@ class Ninja_Forms_Loading
 
 			if (isset ($data['default_value'])) {
 				$default_value = $data['default_value'];
-			} else if (isset ($ninja_forms_fields[$field_type]['default_value'])) {
+			} else if (isset ($ninja_forms_fields[$field_type]['default_value'])) { 
 				$default_value = $ninja_forms_fields[$field_type]['default_value'];
 			} else {
 				$default_value = '';
@@ -647,7 +647,7 @@ class Ninja_Forms_Loading
 			unset($this->data['success'][$success_ID]);
 			return true;
 		}
-	}
+	}	
 
 	/**
 	 * Remove all success messages
@@ -718,7 +718,7 @@ class Ninja_Forms_Loading
 						$user_info[$group_name]['phone'] = $user_value;
 					} else if ($field['type'] == '_country') {
 						$user_info[$group_name]['country'] = $user_value;
-					}
+					}					
 				} else {
 					if (isset ($data['first_name']) AND $data['first_name'] == 1) {
 						$user_info['first_name'] = $user_value;
@@ -969,8 +969,8 @@ class Ninja_Forms_Loading
 				$places = $data['calc_places'];
 				$total_field = $field_id;
 
-				$total_value = number_format(round($user_value, $places), $places);
-
+				$total_value = number_format(round($user_value, $places), $places);					
+				
 				break;
 			}
 		}
@@ -999,7 +999,7 @@ class Ninja_Forms_Loading
 				}
 				$total['sub_total'] = $total_value;
 				$total_value = number_format(round($user_value + ($user_value * $tax_rate_decimal), $places), $places);
-
+			
 			}
 
 			$total['total'] = $total_value;
@@ -1024,7 +1024,7 @@ class Ninja_Forms_Loading
 		}
 
 		return $total;
-	}
+	}	
 
 	/**
 	 * Function that returns the "sub total" field value if it exists.
@@ -1062,7 +1062,7 @@ class Ninja_Forms_Loading
 		if ($array) {
 			// Get the list of fields that affected this value.
 			$fields = $this->get_calc_fields($sub_total_field);
-
+			
 			$tmp_array = array();
 			// Loop through the fields in that list and remove any that don't have a calc_option value of 1
 			foreach ($fields as $field_id => $value) {
@@ -1143,7 +1143,7 @@ class Ninja_Forms_Loading
 
 
 		$tax_total = number_format(round($tax_total, 2), 2);
-		return $tax_total;
+		return $tax_total;	
 	}
 
 	/**

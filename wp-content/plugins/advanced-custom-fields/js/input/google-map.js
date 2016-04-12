@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  Location
 	 *
@@ -9,7 +9,7 @@
 	 *  @date	1/06/13
 	 *
 	 */
-
+	
 	acf.fields.google_map = {
 
 		$el: null,
@@ -23,19 +23,19 @@
 		maps: {},
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('.value');
 
 
 			// get options
 			this.o = acf.helpers.get_atts(this.$el);
-
-
+			
+			
 			// get map
 			if (this.maps[this.o.id]) {
 				this.map = this.maps[this.o.id];
@@ -47,7 +47,7 @@
 
 		},
 		init: function () {
-
+			
 			// geocode
 			if (!this.geocoder) {
 				this.geocoder = new google.maps.Geocoder();
@@ -67,19 +67,19 @@
 
 		},
 		render: function () {
-
+			
 			// reference
 			var _this = this,
 				_$el = this.$el;
-
-
+			
+			
 			// vars
 			var args = {
 				zoom: parseInt(this.o.zoom),
 				center: new google.maps.LatLng(this.o.lat, this.o.lng),
 				mapTypeId: google.maps.MapTypeId.ROADMAP
 			};
-
+			
 			// create map	        	
 			this.map = new google.maps.Map(this.$el.find('.canvas')[0], args);
 
@@ -109,8 +109,8 @@
 			if (lat && lng) {
 				this.update(lat, lng).center();
 			}
-
-
+		    
+		    
 			// events
 			google.maps.event.addListener(autocomplete, 'place_changed', function (e) {
 
@@ -160,10 +160,10 @@
 
 
 						_this.set({$el: $el}).update(lat, lng).center();
-
+					    
 					});
 				}
-
+			    
 			});
 
 
@@ -179,34 +179,34 @@
 					lng = position.lng();
 
 				_this.set({$el: $el}).update(lat, lng).sync();
-
+			    
 			});
 
 
 			google.maps.event.addListener(this.map, 'click', function (e) {
-
+				
 				// reference
 				var $el = this.$el;
-
-
+			    
+			    
 				// vars
 				var lat = e.latLng.lat(),
 					lng = e.latLng.lng();
 
 
 				_this.set({$el: $el}).update(lat, lng).sync();
-
+			
 			});
 
 
 			// add to maps
 			this.maps[this.o.id] = this.map;
-
-
+	        
+	        
 		},
 
 		update: function (lat, lng) {
-
+			
 			// vars
 			var latlng = new google.maps.LatLng(lat, lng);
 
@@ -218,8 +218,8 @@
 
 			// update marker
 			this.map.marker.setPosition(latlng);
-
-
+		    
+		    
 			// show marker
 			this.map.marker.setVisible(true);
 
@@ -237,7 +237,7 @@
 		},
 
 		center: function () {
-
+			
 			// vars
 			var position = this.map.marker.getPosition(),
 				lat = this.o.lat,
@@ -252,25 +252,25 @@
 
 
 			var latlng = new google.maps.LatLng(lat, lng);
-
-
+				
+			
 			// set center of map
 			this.map.setCenter(latlng);
 		},
 
 		sync: function () {
-
+			
 			// reference
 			var $el = this.$el;
-
-
+				
+			
 			// vars
 			var position = this.map.marker.getPosition(),
 				latlng = new google.maps.LatLng(position.lat(), position.lng());
 
 
 			this.geocoder.geocode({'latLng': latlng}, function (results, status) {
-
+				
 				// validate
 				if (status != google.maps.GeocoderStatus.OK) {
 					console.log('Geocoder failed due to: ' + status);
@@ -293,7 +293,7 @@
 
 				// update input
 				$el.find('.input-address').val(location.formatted_address).trigger('change');
-
+				
 			});
 
 
@@ -302,12 +302,12 @@
 		},
 
 		locate: function () {
-
+			
 			// reference
 			var _this = this,
 				_$el = this.$el;
-
-
+			
+			
 			// Try HTML5 geolocation
 			if (!navigator.geolocation) {
 				alert(acf.l10n.google_map.browser_support);
@@ -326,18 +326,18 @@
 					lng = position.coords.longitude;
 
 				_this.set({$el: _$el}).update(lat, lng).sync().center();
-
+				
 			});
 
 
 		},
 
 		clear: function () {
-
+			
 			// update class
 			this.$el.removeClass('active');
-
-
+			
+			
 			// clear search
 			this.$el.find('.search').val('');
 
@@ -353,21 +353,21 @@
 		},
 
 		edit: function () {
-
+			
 			// update class
 			this.$el.removeClass('active');
-
-
+			
+			
 			// clear search
 			var val = this.$el.find('.title h4').text();
 
 
 			this.$el.find('.search').val(val).focus();
-
+			
 		},
 
 		refresh: function () {
-
+			
 			// trigger resize on div
 			google.maps.event.trigger(this.map, 'resize');
 
@@ -393,21 +393,21 @@
 	 */
 
 	$(document).on('acf/setup_fields', function (e, el) {
-
+		
 		// vars
 		$fields = $(el).find('.acf-google-map');
 
 
 		// validate
 		if (!$fields.exists()) return false;
-
-
+		
+		
 		// no google
 		if (!acf.helpers.isset(window, 'google', 'load')) {
-
+			
 			// load API
 			$.getScript('https://www.google.com/jsapi', function () {
-
+				
 				// load maps
 				google.load('maps', '3', {
 					other_params: 'sensor=false&libraries=places', callback: function () {
@@ -420,7 +420,7 @@
 
 					}
 				});
-
+			    
 			});
 
 			return false;
@@ -442,7 +442,7 @@
 
 				}
 			});
-
+			
 			return false;
 
 		}
@@ -467,36 +467,36 @@
 	 */
 
 	$(document).on('click', '.acf-google-map .acf-sprite-remove', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.google_map.set({$el: $(this).closest('.acf-google-map')}).clear();
-
+		
 		$(this).blur();
 
 	});
 
 
 	$(document).on('click', '.acf-google-map .acf-sprite-locate', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.google_map.set({$el: $(this).closest('.acf-google-map')}).locate();
-
+		
 		$(this).blur();
 
 	});
 
 	$(document).on('click', '.acf-google-map .title h4', function (e) {
-
+		
 		e.preventDefault();
 
 		acf.fields.google_map.set({$el: $(this).closest('.acf-google-map')}).edit();
-
+			
 	});
 
 	$(document).on('keydown', '.acf-google-map .search', function (e) {
-
+		
 		// prevent form from submitting
 		if (e.which == 13) {
 			return false;
@@ -505,7 +505,7 @@
 	});
 
 	$(document).on('blur', '.acf-google-map .search', function (e) {
-
+		
 		// vars
 		var $el = $(this).closest('.acf-google-map');
 
@@ -518,7 +518,7 @@
 	});
 
 	$(document).on('acf/fields/tab/show acf/conditional_logic/show', function (e, $field) {
-
+		
 		// validate
 		if (!acf.fields.google_map.ready) {
 			return;

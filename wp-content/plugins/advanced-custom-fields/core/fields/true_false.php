@@ -26,7 +26,7 @@ class acf_field_true_false extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+  
 	}
 
 
@@ -49,7 +49,7 @@ class acf_field_true_false extends acf_field
 		echo '<input type="hidden" name="' . $field['name'] . '" value="0" />';
 		$selected = ($field['value'] == 1) ? 'checked="yes"' : '';
 		echo '<li><label><input id="' . $field['id'] . '-1"  type="checkbox" name="' . $field['name'] . '" value="1" ' . $selected . ' />' . $field['message'] . '</label></li>';
-
+		
 		echo '</ul>';
 	}
 
@@ -94,19 +94,19 @@ class acf_field_true_false extends acf_field
 				<label><?php _e("Default Value", 'acf'); ?></label>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'true_false',
-					'name' => 'fields[' . $key . '][default_value]',
-					'value' => $field['default_value'],
-				));
+		do_action('acf/create_field', array(
+			'type' => 'true_false',
+			'name' => 'fields[' . $key . '][default_value]',
+			'value' => $field['default_value'],
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 
 

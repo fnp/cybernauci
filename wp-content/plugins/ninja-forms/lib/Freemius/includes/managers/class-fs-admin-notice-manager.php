@@ -1,10 +1,10 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.7
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.7
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
@@ -67,9 +67,9 @@ class FS_Admin_Notice_Manager
 						false
 					);
 				}
+				}
 			}
 		}
-	}
 
 	/**
 	 * Add admin message to admin messages queue, and hook to admin_notices / all_admin_notices if not yet hooked.
@@ -119,7 +119,7 @@ class FS_Admin_Notice_Manager
 		}
 
 		$this->_admin_messages[$key][$id] = $message_object;
-	}
+		}
 
 	/**
 	 * @param string $slug
@@ -134,7 +134,7 @@ class FS_Admin_Notice_Manager
 		}
 
 		return self::$_instances[$slug];
-	}
+		}
 
 	/**
 	 * Rendered sticky message dismiss JavaScript.
@@ -182,8 +182,8 @@ class FS_Admin_Notice_Manager
 			if ($msg['sticky']) {
 				self::has_sticky_messages();
 			}
+			}
 		}
-	}
 
 	/**
 	 * Hook to the admin_footer to add sticky message dismiss JavaScript handler.
@@ -196,7 +196,7 @@ class FS_Admin_Notice_Manager
 		if (!self::$_added_sticky_javascript) {
 			add_action('admin_footer', array('FS_Admin_Notice_Manager', '_add_sticky_dismiss_javascript'));
 		}
-	}
+		}
 
 	/**
 	 * Handle all_admin_notices by printing the admin messages stacked in the queue.
@@ -216,7 +216,7 @@ class FS_Admin_Notice_Manager
 		foreach ($this->_admin_messages[$notice_type] as $id => $msg) {
 			fs_require_template('all-admin-notice.php', $msg);
 		}
-	}
+		}
 
 	/**
 	 * Enqueue common stylesheet to style admin notice.
@@ -227,7 +227,7 @@ class FS_Admin_Notice_Manager
 	function _enqueue_styles()
 	{
 		fs_enqueue_local_style('fs_common', '/admin/common.css');
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -252,8 +252,8 @@ class FS_Admin_Notice_Manager
 			if (isset($this->_admin_messages['admin_notices']) && isset($this->_admin_messages['admin_notices'][$id])) {
 				unset($this->_admin_messages['admin_notices'][$id]);
 			}
+			}
 		}
-	}
 
 	/**
 	 * Check if sticky message exists by id.
@@ -314,4 +314,4 @@ class FS_Admin_Notice_Manager
 	{
 		$this->add($message, $title, $type, $is_sticky, true, $id);
 	}
-}
+	}

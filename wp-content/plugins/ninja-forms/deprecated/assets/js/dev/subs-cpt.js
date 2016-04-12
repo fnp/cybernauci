@@ -13,7 +13,7 @@ jQuery(document).ready(function ($) {
 			var hidden = columns.hidden();
 			$.post(
 				ajaxurl,
-				{
+				{ 
 					form_id: nf_sub.form_id,
 					hidden: hidden,
 					action: 'nf_hide_columns'

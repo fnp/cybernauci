@@ -2380,7 +2380,6 @@ label.has-merge-tags .merge-tags {
     right: 0;
     left: auto;
   }
-
   .ninja-forms-app .navbar-right .dropdown-menu-left {
     right: auto;
     left: 0;
@@ -2417,16 +2416,13 @@ label.has-merge-tags .merge-tags {
     border: 0;
     box-shadow: none;
   }
-
   .ninja-forms-app .navbar-nav .open .dropdown-menu > li > a,
   .ninja-forms-app .navbar-nav .open .dropdown-menu .dropdown-header {
     padding: 5px 15px 5px 25px;
   }
-
   .ninja-forms-app .navbar-nav .open .dropdown-menu > li > a {
     line-height: 20px;
   }
-
   .ninja-forms-app .navbar-nav .open .dropdown-menu > li > a:hover,
   .ninja-forms-app .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
@@ -2451,20 +2447,17 @@ label.has-merge-tags .merge-tags {
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #777;
   }
-
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #333;
     background-color: transparent;
   }
-
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #555;
     background-color: #e7e7e7;
   }
-
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .ninja-forms-app .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
@@ -2477,28 +2470,23 @@ label.has-merge-tags .merge-tags {
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #080808;
   }
-
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
     background-color: #080808;
   }
-
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
     color: #9d9d9d;
   }
-
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #fff;
     background-color: transparent;
   }
-
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #fff;
     background-color: #080808;
   }
-
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a,
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .ninja-forms-app .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {
@@ -2558,21 +2546,17 @@ label.has-merge-tags .merge-tags {
   #nf-header ul {
     display: none;
   }
-
   #nf-header .nf-button.primary {
     display: none;
   }
-
   .nf-mobile-menu {
     display: inline-block;
   }
-
   #nf-app-sub-header h2 {
     padding-left: 0;
     -webkit-transition: all 1.0s ease 0s;
     transition: all 1.0s ease 0s;
   }
-
   .nf-add-new.nf-open-drawer {
     position: fixed;
     text-indent: -9999px;
@@ -2598,11 +2582,9 @@ label.has-merge-tags .merge-tags {
       line-height: 24px;
       text-indent: 0px;
     }
-
   #nf-main-header .nf-button {
     display: none;
   }
-
   .nf-item-controls li {
     margin: -4px 15px 0;
     height: 26px;
@@ -2656,7 +2638,6 @@ label.has-merge-tags .merge-tags {
     .nf-item-controls li .nf-item-editing {
       display: none;
     }
-
   .nf-item-controls.nf-editing {
     font-weight: normal;
   }
@@ -2671,34 +2652,27 @@ label.has-merge-tags .merge-tags {
       display: inline;
       line-height: 26px;
     }
-
   .nf-one-half, .nf-on-third {
     float: none;
     width: 100%;
   }
-
   .nf-drawer-expand .nf-one-half {
     float: left;
     width: 50%;
   }
-
   .nf-drawer-expand .nf-on-third {
     float: left;
     width: 33%;
   }
-
   #nf-app-form-title {
     margin-top: -55px;
   }
-
   #nf-main {
     top: 120px;
   }
-
   #nf-table-display .nf-item-controls {
     width: auto;
   }
-
   .nf-item-delete,
   .nf-item-duplicate {
     display: none;
@@ -2718,27 +2692,21 @@ label.has-merge-tags .merge-tags {
     .ninja-forms-app.folded #wpcontent #wpbody {
       left: 0;
     }
-
   .nf-setting-wrap {
     width: 50%;
   }
-
   #nf-drawer {
     width: 100%;
   }
-
   .nf-drawer-opened #nf-main {
     width: 100%;
   }
-
   .nf-drawer-opened .nf-setting-wrap {
     width: 50%;
   }
-
   .nf-drawer-closed .nf-setting-wrap {
     width: 50%;
   }
-
   .nf-toggle-drawer {
     display: none;
   }
@@ -2757,7 +2725,6 @@ label.has-merge-tags .merge-tags {
     .ninja-forms-app.auto-fold #wpcontent #wpbody {
       left: 0;
     }
-
   .nf-drawer-opened .nf-toggle-drawer {
     display: none;
   }
@@ -2767,28 +2734,22 @@ label.has-merge-tags .merge-tags {
   .ninja-forms-app.folded #wpcontent, .ninja-forms-app.auto-fold #wpcontent {
     margin-left: 0;
   }
-
   #nf-builder {
     padding: 80px 20px 10px;
   }
-
   #nf-main {
     padding: 0 0 80px;
   }
-
   #nf-drawer {
     padding: 20px;
   }
-
   #nf-main-content {
     width: 100%;
     max-width: 100%;
   }
-
   #nf-main {
     border: 0;
   }
-
   .nf-field-wrap {
     border: 0;
     border-top: 8px solid #f1f1f1;
@@ -2799,22 +2760,18 @@ label.has-merge-tags .merge-tags {
     .nf-field-wrap:first-child {
       border-top: 8px solid #fff;
     }
-
   .nf-fields-sortable-placeholder {
     margin-top: 0;
     margin-bottom: 0;
     border: 4px solid #84CC1E;
   }
-
   .nf-fields-sortable-placeholder + .nf-field-wrap {
     border: 0;
   }
-
   .nf-fields-sortable {
     border: 0;
     padding: 0;
   }
-
   .nf-field-wrap.ui-sortable-helper {
     background: transparent;
     border: 2px solid #84CC1E;
@@ -2825,15 +2782,12 @@ label.has-merge-tags .merge-tags {
   .nf-one-half, .nf-one-third {
     width: 100%;
   }
-
   .nf-actions-table td:nth-child(3), .nf-actions-table th:nth-child(3) {
     display: none;
   }
-
   .nf-drawer-buttons {
     display: block;
   }
-
   .nf-drawer-header {
     background: #fff;
     margin: -20px -20px 20px;
@@ -2855,11 +2809,9 @@ label.has-merge-tags .merge-tags {
     .nf-drawer-header .nf-button {
       border-radius: 0;
     }
-
   .nf-item {
     padding: 15px;
   }
-
   .nf-saved .nf-item::after {
     padding: 14px;
   }

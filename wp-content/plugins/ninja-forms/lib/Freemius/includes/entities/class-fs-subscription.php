@@ -128,4 +128,4 @@ class FS_Subscription extends FS_Entity
 	{
 		return !is_null($this->trial_ends);
 	}
-}
+	}

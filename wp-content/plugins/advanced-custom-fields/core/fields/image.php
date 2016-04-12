@@ -33,8 +33,8 @@ class acf_field_image extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
-
+    	
+    	
 		// filters
 		add_filter('get_media_item_args', array($this, 'get_media_item_args'));
 		add_filter('wp_prepare_attachment_for_js', array($this, 'wp_prepare_attachment_for_js'), 10, 3);
@@ -69,11 +69,11 @@ class acf_field_image extends acf_field
 
 		// has value?
 		if ($field['value'] && is_numeric($field['value'])) {
-
+			
 			$url = wp_get_attachment_image_src($field['value'], $field['preview_size']);
 
 			if ($url) {
-
+				
 				$o['url'] = $url[0];
 				$o['class'] = 'active';
 
@@ -92,7 +92,7 @@ class acf_field_image extends acf_field
 						<li><a class="acf-button-delete ir" href="#"><?php _e("Remove", 'acf'); ?></a></li>
 						<li><a class="acf-button-edit ir" href="#"><?php _e("Edit", 'acf'); ?></a></li>
 					</ul>
-				</div>
+		</div>
 				<img class="acf-image-image" src="<?php echo $o['url']; ?>" alt=""/>
 			</div>
 			<div class="no-image">
@@ -169,24 +169,24 @@ class acf_field_image extends acf_field
 				<p><?php _e("Limit the media library choice", 'acf') ?></p>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'radio',
-					'name' => 'fields[' . $key . '][library]',
-					'value' => $field['library'],
-					'layout' => 'horizontal',
-					'choices' => array(
-						'all' => __('All', 'acf'),
-						'uploadedTo' => __('Uploaded to post', 'acf')
-					)
-				));
+		do_action('acf/create_field', array(
+			'type' => 'radio',
+			'name' => 'fields[' . $key . '][library]',
+			'value' => $field['library'],
+			'layout' => 'horizontal',
+			'choices' => array(
+				'all' => __('All', 'acf'),
+				'uploadedTo' => __('Uploaded to post', 'acf')
+			)
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 
 
@@ -220,17 +220,17 @@ class acf_field_image extends acf_field
 			$value = wp_get_attachment_url($value);
 		} elseif ($field['save_format'] == 'object') {
 			$attachment = get_post($value);
-
-
+			
+			
 			// validate
 			if (!$attachment) {
-				return false;
+				return false;	
 			}
 
 
 			// create array to hold value data
 			$src = wp_get_attachment_image_src($attachment->ID, 'full');
-
+			
 			$value = array(
 				'id' => $attachment->ID,
 				'alt' => get_post_meta($attachment->ID, '_wp_attachment_image_alt', true),
@@ -252,7 +252,7 @@ class acf_field_image extends acf_field
 				foreach ($image_sizes as $image_size) {
 					// find src
 					$src = wp_get_attachment_image_src($attachment->ID, $image_size);
-
+					
 					// add src
 					$value['sizes'][$image_size] = $src[0];
 					$value['sizes'][$image_size . '-width'] = $src[1];
@@ -316,8 +316,8 @@ class acf_field_image extends acf_field
 		if ($options['images']) {
 			foreach ($options['images'] as $id) {
 				$url = wp_get_attachment_image_src($id, $options['preview_size']);
-
-
+				
+				
 				$return[] = array(
 					'id' => $id,
 					'url' => $url[0],
@@ -331,8 +331,8 @@ class acf_field_image extends acf_field
 		die;
 
 	}
-
-
+   		
+	
 	/*
 	*  image_size_names_choose
 	*
@@ -423,7 +423,7 @@ class acf_field_image extends acf_field
 	{
 		// array?
 		if (is_array($value) && isset($value['id'])) {
-			$value = $value['id'];
+			$value = $value['id'];	
 		}
 
 		// object?

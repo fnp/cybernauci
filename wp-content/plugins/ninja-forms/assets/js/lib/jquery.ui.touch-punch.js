@@ -198,7 +198,7 @@
 
     // Call the original $.ui.mouse init method
     _mouseInit.call(self);
-  };
+  };  
 
 
   /**

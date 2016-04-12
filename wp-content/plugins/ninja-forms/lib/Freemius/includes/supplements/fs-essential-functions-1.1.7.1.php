@@ -10,16 +10,16 @@ if (!defined('ABSPATH')) {
 	exit;
 }
 
-/**
- * Find the plugin main file path based on any give file inside the plugin's folder.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.1.7.1
- *
- * @param string $file Absolute path to a file inside a plugin's folder.
- *
- * @return string
- */
+	/**
+	 * Find the plugin main file path based on any give file inside the plugin's folder.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.1.7.1
+	 *
+	 * @param string $file Absolute path to a file inside a plugin's folder.
+	 *
+	 * @return string
+	 */
 function fs_find_direct_caller_plugin_file($file)
 {
 	/**
@@ -40,7 +40,7 @@ function fs_find_direct_caller_plugin_file($file)
 		if (0 === strpos($file_real_path, fs_normalize_path(dirname(realpath(WP_PLUGIN_DIR . '/' . $relative_path))))) {
 			return $relative_path;
 		}
-	}
+		}
 
 	return null;
 }

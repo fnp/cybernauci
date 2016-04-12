@@ -72,7 +72,7 @@ $freemius_site_url = $fs->has_paid_plan() ?
 					if ($fs->has_filter('connect_message_on_update')) {
 						$filter = 'connect_message_on_update';
 					}
-				}
+					}
 
 				echo $fs->apply_filters($filter,
 					sprintf(
@@ -84,11 +84,11 @@ $freemius_site_url = $fs->has_paid_plan() ?
 						'<a href="' . $site_url . '" target="_blank">' . $site_url . '</a>',
 						'<a href="' . $freemius_site_url . '" target="_blank">freemius.com</a>'
 					),
-					$first_name,
+						$first_name,
 					$fs->get_plugin_name(),
 					$current_user->user_login,
-					'<a href="' . $site_url . '" target="_blank">' . $site_url . '</a>',
-					'<a href="' . $freemius_site_url . '" target="_blank">freemius.com</a>'
+						'<a href="' . $site_url . '" target="_blank">' . $site_url . '</a>',
+						'<a href="' . $freemius_site_url . '" target="_blank">freemius.com</a>'
 				);
 			}
 			?></p>
@@ -139,7 +139,7 @@ $freemius_site_url = $fs->has_paid_plan() ?
 			'desc' => __fs('permissions-events_desc'),
 			'priority' => 20,
 		),
-	);
+		);
 
 	// Add newsletter permissions if enabled.
 	if ($fs->is_permission_requested('newsletter')) {

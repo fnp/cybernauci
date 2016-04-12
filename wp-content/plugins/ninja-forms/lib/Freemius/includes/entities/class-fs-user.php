@@ -64,4 +64,4 @@ class FS_User extends FS_Scope_Entity
 	{
 		return (isset($this->is_verified) && true === $this->is_verified);
 	}
-}
+	}

@@ -1022,7 +1022,7 @@
 
     /**
      * returns whether point is visible (can set cursor) or not.
-     *
+     * 
      * @param {BoundaryPoint} point
      * @return {Boolean}
      */
@@ -2873,7 +2873,7 @@
     return {
       /**
        * @method
-       *
+       * 
        * create Range Object From arguments or Browser Selection
        *
        * @param {Node} sc - start container
@@ -2929,7 +2929,7 @@
 
       /**
        * @method
-       *
+       * 
        * create WrappedRange from node
        *
        * @param {Node} node
@@ -2979,7 +2979,7 @@
 
       /**
        * @method
-       *
+       * 
        * create WrappedRange from bookmark
        *
        * @param {Node} editable
@@ -2995,7 +2995,7 @@
       },
 
       /**
-       * @method
+       * @method 
        *
        * create WrappedRange from paraBookmark
        *
@@ -4717,7 +4717,7 @@
 
               cmEditor.on(event, options.codemirror.callbacks[key], cmEditor);
             }
-          }
+          }          
         }
 
         // CodeMirror TernServer

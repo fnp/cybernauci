@@ -28,7 +28,7 @@ class acf_field_radio extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+  
 	}
 
 
@@ -207,7 +207,7 @@ class acf_field_radio extends acf_field
 					'type' => 'radio',
 					'name' => 'fields[' . $key . '][layout]',
 					'value' => $field['layout'],
-					'layout' => 'horizontal',
+					'layout' => 'horizontal', 
 					'choices' => array(
 						'vertical' => __("Vertical", 'acf'),
 						'horizontal' => __("Horizontal", 'acf')
@@ -246,16 +246,16 @@ class acf_field_radio extends acf_field
 			if (!isset($field['choices'][$value])) {
 				// update $field
 				$field['choices'][$value] = $value;
-
-
+				
+				
 				// can save
 				if (isset($field['field_group'])) {
 					do_action('acf/update_field', $field, $field['field_group']);
 				}
 
 			}
-		}
-
+		}		
+		
 		return $value;
 	}
 	

@@ -13,14 +13,14 @@ class NF_Forms
 
 	/**
 	 * Store our array of form ids
-	 *
+	 * 
 	 * @since 2.9
 	 */
 	var $forms = array();
 
 	/**
 	 * Get things started
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return void
@@ -32,7 +32,7 @@ class NF_Forms
 
 	/**
 	 * Delete a form if it is created and not saved within 24 hrs.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return void
@@ -47,7 +47,7 @@ class NF_Forms
 
 	/**
 	 * Update cached forms
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return void
@@ -60,7 +60,7 @@ class NF_Forms
 
 	/**
 	 * Get all forms
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return array $forms

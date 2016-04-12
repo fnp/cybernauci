@@ -1,24 +1,24 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.4
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.4
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
 }
 
-/**
- * Class FS_Api
- *
- * Wraps Freemius API SDK to handle:
- *      1. Clock sync.
- *      2. Fallback to HTTP when HTTPS fails.
- *      3. Adds caching layer to GET requests.
- *      4. Adds consistency for failed requests by using last cached version.
- */
+	/**
+	 * Class FS_Api
+	 *
+	 * Wraps Freemius API SDK to handle:
+	 *      1. Clock sync.
+	 *      2. Fallback to HTTP when HTTPS fails.
+	 *      3. Adds caching layer to GET requests.
+	 *      4. Adds consistency for failed requests by using last cached version.
+	 */
 class FS_Api
 {
 	/**
@@ -71,7 +71,7 @@ class FS_Api
 
 		$this->_slug = $slug;
 		$this->_logger = FS_Logger::get_logger(WP_FS__SLUG . '_' . $slug . '_api', WP_FS__DEBUG_SDK, WP_FS__ECHO_DEBUG_SDK);
-	}
+		}
 
 	/**
 	 * @param string $slug
@@ -94,7 +94,7 @@ class FS_Api
 		}
 
 		return self::$_instances[$identifier];
-	}
+		}
 
 	private static function _init()
 	{
@@ -115,7 +115,7 @@ class FS_Api
 		if (self::$_options->get_option('api_force_http', false)) {
 			Freemius_Api::SetHttp();
 		}
-	}
+		}
 
 	/**
 	 * Test API connectivity.
@@ -155,13 +155,13 @@ class FS_Api
 					 */
 					self::$_options->set_option('api_force_http', false, true);
 				}
-			}
+				}
 
 			self::$_cache->set($cache_key, $test, WP_FS__TIME_5_MIN_IN_SEC);
-		}
+			}
 
 		return $test;
-	}
+		}
 
 	/**
 	 * Clear API cache.
@@ -225,7 +225,7 @@ class FS_Api
 					// caching the error.
 					return $result;
 				}
-			}
+				}
 
 			self::$_cache->set($cache_key, $result, $expiration);
 
@@ -233,7 +233,7 @@ class FS_Api
 		}
 
 		return $cached_result;
-	}
+		}
 
 	private function get_cache_key($path, $method = 'GET', $params = array())
 	{
@@ -292,9 +292,9 @@ class FS_Api
 						// Retry call with new synced clock.
 						return $this->_call($path, $method, $params, true);
 					}
+					}
 				}
 			}
-		}
 
 		if (null !== $result && isset($result->error) && isset($result->error->message)) {
 			// Log API errors.
@@ -302,7 +302,7 @@ class FS_Api
 		}
 
 		return $result;
-	}
+		}
 
 	/**
 	 * Check if API is temporary down.
@@ -319,7 +319,7 @@ class FS_Api
 		$test = self::$_cache->get_valid('ping_test', null);
 
 		return (false === $test);
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -368,7 +368,7 @@ class FS_Api
 		self::$_options->set_option('api_clock_diff', self::$_clock_diff, true);
 
 		return $new_clock_diff;
-	}
+		}
 
 	/**
 	 * Ping API for connectivity test, and return result object.
@@ -416,8 +416,8 @@ class FS_Api
 			}
 		}
 
-		return $pong;
-	}
+			return $pong;
+		}
 
 	/**
 	 * Check if valid ping request result.
@@ -449,7 +449,7 @@ class FS_Api
 	{
 		if (!Freemius_Api::IsHttps()) {
 			return false;
-		}
+			}
 
 		return (!is_object($result) ||
 			!isset($result->error) ||
@@ -462,10 +462,10 @@ class FS_Api
 				'too_many_requests',
 			)));
 
-	}
+		}
 
 	function get_url($path = '')
 	{
 		return Freemius_Api::GetUrl($path, $this->_api->IsSandbox());
 	}
-}
+	}

@@ -78,9 +78,9 @@ class acf_field_file extends acf_field
 				$o['title'] = $file->post_title;
 				$o['size'] = size_format(filesize(get_attached_file($file->ID)));
 				$o['url'] = wp_get_attachment_url($file->ID);
-
+				
 				$explode = explode('/', $o['url']);
-				$o['name'] = end($explode);
+				$o['name'] = end($explode);				
 			}
 		}
 
@@ -155,21 +155,21 @@ class acf_field_file extends acf_field
 				<label><?php _e("Return Value", 'acf'); ?></label>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'radio',
-					'name' => 'fields[' . $key . '][save_format]',
-					'value' => $field['save_format'],
-					'layout' => 'horizontal',
-					'choices' => array(
-						'object' => __("File Object", 'acf'),
-						'url' => __("File URL", 'acf'),
-						'id' => __("File ID", 'acf')
-					)
-				));
+		do_action('acf/create_field', array(
+			'type' => 'radio',
+			'name' => 'fields[' . $key . '][save_format]',
+			'value' => $field['save_format'],
+			'layout' => 'horizontal',
+			'choices' => array(
+				'object' => __("File Object", 'acf'),
+				'url' => __("File URL", 'acf'),
+				'id' => __("File ID", 'acf')
+			)
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -194,7 +194,7 @@ class acf_field_file extends acf_field
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 
 
@@ -228,11 +228,11 @@ class acf_field_file extends acf_field
 			$value = wp_get_attachment_url($value);
 		} elseif ($field['save_format'] == 'object') {
 			$attachment = get_post($value);
-
-
+			
+			
 			// validate
 			if (!$attachment) {
-				return false;
+				return false;	
 			}
 
 
@@ -299,14 +299,14 @@ class acf_field_file extends acf_field
 			foreach ($options['files'] as $id) {
 				$o = array();
 				$file = get_post($id);
-
+					
 				$o['id'] = $file->ID;
 				$o['icon'] = wp_mime_type_icon($file->ID);
 				$o['title'] = $file->post_title;
 				$o['size'] = size_format(filesize(get_attached_file($file->ID)));
 				$o['url'] = wp_get_attachment_url($file->ID);
-				$o['name'] = end(explode('/', $o['url']));
-
+				$o['name'] = end(explode('/', $o['url']));				
+				
 				$return[] = $o;
 			}
 		}
@@ -317,8 +317,8 @@ class acf_field_file extends acf_field
 		die;
 
 	}
-
-
+   	
+	
 	/*
 	*  update_value()
 	*
@@ -339,7 +339,7 @@ class acf_field_file extends acf_field
 	{
 		// array?
 		if (is_array($value) && isset($value['id'])) {
-			$value = $value['id'];
+			$value = $value['id'];	
 		}
 
 		// object?

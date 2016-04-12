@@ -75,7 +75,7 @@ class acf_field_text extends acf_field
 		$e .= '<input type="text"';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= ' />';

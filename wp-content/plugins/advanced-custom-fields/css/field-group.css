@@ -223,7 +223,7 @@ table.widefat.acf td {
 	background-image: -moz-linear-gradient(top, #46AFDB, #3199C5); /* Firefox 3.6-15 */
 	background-image: -o-linear-gradient(top, #46AFDB, #3199C5); /* Opera 11.10+ */
 	background-image: linear-gradient(to bottom, #46AFDB, #3199C5); /* Firefox 16+ */
-
+	
 	border: #268FBB solid 1px;
 	text-shadow: #268FBB 0 1px 0;
 	box-shadow: inset #5FC8F4 0 1px 0 0;
@@ -402,7 +402,7 @@ table.widefat.acf td {
 /*---------------------------------------------------------------------------------------------
 	Repeater
 ---------------------------------------------------------------------------------------------*/
-.repeater {
+.repeater { 
 	position: relative;
 }
 
@@ -572,7 +572,8 @@ table.acf-rules tbody .acf-loading {
 ul.acf-checkbox-list li input {
 	margin: 2px 5px 0 0;
 	vertical-align: top;
-}
+} 
+
 
 /*---------------------------------------------------------------------------------------------
 *
@@ -605,6 +606,7 @@ ul.acf-checkbox-list li input {
 #acf_location select optgroup:nth-child(2n) {
     background: #F9F9F9;
 }
+
 
 /*---------------------------------------------------------------------------------------------
 *
@@ -659,7 +661,7 @@ table.conditional-logic-rules tbody td {
 *-------------------------------------------------------------------------*/
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (   min--moz-device-pixel-ratio: 2), only screen and (     -o-min-device-pixel-ratio: 2/1), only screen and (        min-device-pixel-ratio: 2), only screen and (                min-resolution: 192dpi), only screen and (                min-resolution: 2dppx) {
-
+	
 	#icon-edit,
 	#acf_fields .table_footer .order_message {
 		background-image: url(../images/sprite@2x.png);

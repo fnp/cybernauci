@@ -37,7 +37,7 @@ if ($fs->is_registered()) {
 			$fs_addon = Freemius::get_instance_by_id($plugin_id);
 			$site = $fs_addon->get_site();
 		}
-	}
+		}
 
 	$context_params = array_merge($context_params, FS_Security::instance()->get_context_params(
 		$site,
@@ -82,8 +82,8 @@ if ($fs->is_payments_sandbox()) {
 	// Append plugin secure token for sandbox mode authentication.
 	$context_params['sandbox'] = FS_Security::instance()->get_secure_token(
 		$fs->get_plugin(),
-		$timestamp,
-		'checkout'
+			$timestamp,
+			'checkout'
 	);
 
 	/**
@@ -92,7 +92,7 @@ if ($fs->is_payments_sandbox()) {
 	if (empty($context_params['s_ctx_ts'])) {
 		$context_params['s_ctx_ts'] = $timestamp;
 	}
-}
+	}
 
 $return_url = fs_nonce_url($fs->_get_admin_page_url(
 	'account',

@@ -1,5 +1,5 @@
 (function ($) {
-
+	
 	/*
 	 *  Color Picker
 	 *
@@ -11,18 +11,18 @@
 	 *  @param	N/A
 	 *  @return	N/A
 	 */
-
+	
 	var _cp = acf.fields.color_picker = {
 
 		$el: null,
 		$input: null,
 
 		set: function (o) {
-
+			
 			// merge in new option
 			$.extend(this, o);
-
-
+			
+			
 			// find input
 			this.$input = this.$el.find('input[type="text"]');
 
@@ -32,7 +32,7 @@
 
 		},
 		init: function () {
-
+			
 			// vars (reference)
 			var $input = this.$input;
 
@@ -68,7 +68,7 @@
 		$(el).find('.acf-color_picker').each(function () {
 
 			_cp.set({$el: $(this)}).init();
-
+			
 		});
 
 	});

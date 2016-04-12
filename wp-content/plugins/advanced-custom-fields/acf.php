@@ -32,52 +32,52 @@ if (!class_exists('acf')):
         */
 
 		function __construct()
-		{
-			// helpers
-			add_filter('acf/helpers/get_path', array($this, 'helpers_get_path'), 1, 1);
-			add_filter('acf/helpers/get_dir', array($this, 'helpers_get_dir'), 1, 1);
+	{
+		// helpers
+		add_filter('acf/helpers/get_path', array($this, 'helpers_get_path'), 1, 1);
+		add_filter('acf/helpers/get_dir', array($this, 'helpers_get_dir'), 1, 1);
+		
+		
+		// vars
+		$this->settings = array(
+			'path' => apply_filters('acf/helpers/get_path', __FILE__),
+			'dir' => apply_filters('acf/helpers/get_dir', __FILE__),
+			'hook' => basename(dirname(__FILE__)) . '/' . basename(__FILE__),
+			'version' => '4.4.6',
+			'upgrade_version' => '3.4.1',
+			'include_3rd_party' => false
+		);
 
 
-			// vars
-			$this->settings = array(
-				'path' => apply_filters('acf/helpers/get_path', __FILE__),
-				'dir' => apply_filters('acf/helpers/get_dir', __FILE__),
-				'hook' => basename(dirname(__FILE__)) . '/' . basename(__FILE__),
-				'version' => '4.4.6',
-				'upgrade_version' => '3.4.1',
-				'include_3rd_party' => false
-			);
+		// set text domain
+		load_textdomain('acf', $this->settings['path'] . 'lang/acf-' . get_locale() . '.mo');
 
 
-			// set text domain
-			load_textdomain('acf', $this->settings['path'] . 'lang/acf-' . get_locale() . '.mo');
+		// actions
+		add_action('init', array($this, 'init'), 1);
+		add_action('acf/pre_save_post', array($this, 'save_post_lock'), 0);
+		add_action('acf/pre_save_post', array($this, 'save_post_unlock'), 999);
+		add_action('acf/save_post', array($this, 'save_post_lock'), 0);
+		add_action('acf/save_post', array($this, 'save_post'), 10);
+		add_action('acf/save_post', array($this, 'save_post_unlock'), 999);
+		add_action('acf/create_fields', array($this, 'create_fields'), 1, 2);
 
 
-			// actions
-			add_action('init', array($this, 'init'), 1);
-			add_action('acf/pre_save_post', array($this, 'save_post_lock'), 0);
-			add_action('acf/pre_save_post', array($this, 'save_post_unlock'), 999);
-			add_action('acf/save_post', array($this, 'save_post_lock'), 0);
-			add_action('acf/save_post', array($this, 'save_post'), 10);
-			add_action('acf/save_post', array($this, 'save_post_unlock'), 999);
-			add_action('acf/create_fields', array($this, 'create_fields'), 1, 2);
+		// filters
+		add_filter('acf/get_info', array($this, 'get_info'), 1, 1);
+		add_filter('acf/parse_types', array($this, 'parse_types'), 1, 1);
+		add_filter('acf/get_post_types', array($this, 'get_post_types'), 1, 3);
+		add_filter('acf/get_taxonomies_for_select', array($this, 'get_taxonomies_for_select'), 1, 2);
+		add_filter('acf/get_image_sizes', array($this, 'get_image_sizes'), 1, 1);
+		add_filter('acf/get_post_id', array($this, 'get_post_id'), 1, 1);
 
 
-			// filters
-			add_filter('acf/get_info', array($this, 'get_info'), 1, 1);
-			add_filter('acf/parse_types', array($this, 'parse_types'), 1, 1);
-			add_filter('acf/get_post_types', array($this, 'get_post_types'), 1, 3);
-			add_filter('acf/get_taxonomies_for_select', array($this, 'get_taxonomies_for_select'), 1, 2);
-			add_filter('acf/get_image_sizes', array($this, 'get_image_sizes'), 1, 1);
-			add_filter('acf/get_post_id', array($this, 'get_post_id'), 1, 1);
-
-
-			// includes
-			$this->include_before_theme();
-			add_action('after_setup_theme', array($this, 'include_after_theme'), 1);
-			add_action('after_setup_theme', array($this, 'include_3rd_party'), 1);
-
-		}
+		// includes
+		$this->include_before_theme();
+		add_action('after_setup_theme', array($this, 'include_after_theme'), 1);
+		add_action('after_setup_theme', array($this, 'include_3rd_party'), 1);
+		
+	}
 
 
 		/*
@@ -94,9 +94,9 @@ if (!class_exists('acf')):
         */
 
 		function helpers_get_path($file)
-    {
-		return trailingslashit(dirname($file));
-	}
+		{
+			return trailingslashit(dirname($file));
+		}
 
 
 		/*
@@ -174,26 +174,27 @@ if (!class_exists('acf')):
 					$post_id = get_queried_object();
 
 				}
-
-			}
+			
+		}
 
 
 			// allow for option == options
-			if ($post_id == "option") {
-				$post_id = "options";
-			}
+			if ($post_id == "option")
+		{
+			$post_id = "options";
+		}
 
 
 			// object
 			if (is_object($post_id)) {
 				if (isset($post_id->roles, $post_id->ID)) {
 					$post_id = 'user_' . $post_id->ID;
-				} elseif (isset($post_id->taxonomy, $post_id->term_id)) {
+			} elseif (isset($post_id->taxonomy, $post_id->term_id)) {
 					$post_id = $post_id->taxonomy . '_' . $post_id->term_id;
-				} elseif (isset($post_id->ID)) {
+			} elseif (isset($post_id->ID)) {
 					$post_id = $post_id->ID;
-				}
 			}
+		}
 
 
 			/*
@@ -207,12 +208,13 @@ if (!class_exists('acf')):
             *  the user wants to load data from a completely different post_id
             */
 
-			if (isset($_GET['preview_id'])) {
-				$autosave = wp_get_post_autosave($_GET['preview_id']);
-				if ($autosave->post_parent == $post_id) {
-					$post_id = intval($autosave->ID);
-				}
+			if (isset($_GET['preview_id']))
+		{
+			$autosave = wp_get_post_autosave($_GET['preview_id']);
+			if ($autosave->post_parent == $post_id) {
+				$post_id = intval($autosave->ID);
 			}
+		}
 
 
 			// return
@@ -240,9 +242,10 @@ if (!class_exists('acf')):
 
 
 			// specific
-			if (isset($this->settings[$i])) {
-				$return = $this->settings[$i];
-			}
+			if (isset($this->settings[$i]))
+		{
+			$return = $this->settings[$i];
+		}
 
 
 			// all
@@ -282,7 +285,7 @@ if (!class_exists('acf')):
 					// bail early for restricted pieces
 					if (in_array($k, $restricted, true)) {
 						continue;
-					}
+				}
 
 
 					// filter piece
@@ -301,11 +304,11 @@ if (!class_exists('acf')):
 					if (preg_match('/[^0-9]/', $value)) {
 						// leave value if it contains such characters: . + - e
 						//$value = floatval( $value );
-					} else {
+				} else {
 						$value = intval($value);
-					}
 				}
 			}
+		}
 
 
 			// return
@@ -337,12 +340,13 @@ if (!class_exists('acf')):
 
 
 			// admin only includes
-			if (is_admin()) {
-				include_once('core/controllers/post.php');
-				include_once('core/controllers/revisions.php');
-				include_once('core/controllers/everything_fields.php');
-				include_once('core/controllers/field_groups.php');
-			}
+			if (is_admin())
+		{
+			include_once('core/controllers/post.php');
+			include_once('core/controllers/revisions.php');
+			include_once('core/controllers/everything_fields.php');
+			include_once('core/controllers/field_groups.php');
+		}
 
 
 			// register fields
@@ -397,9 +401,10 @@ if (!class_exists('acf')):
 		{
 
 			// run only once
-			if ($this->settings['include_3rd_party']) {
-				return false;
-			}
+			if ($this->settings['include_3rd_party'])
+		{
+			return false;
+		}
 
 
 			// update setting
@@ -429,18 +434,20 @@ if (!class_exists('acf')):
 		{
 
 			// bail early if user has defined LITE_MODE as true
-			if (defined('ACF_LITE') && ACF_LITE) {
-				return;
-			}
+			if (defined('ACF_LITE') && ACF_LITE)
+		{
+			return;
+		}
 
 
 			// admin only includes
-			if (is_admin()) {
-				include_once('core/controllers/export.php');
-				include_once('core/controllers/addons.php');
-				include_once('core/controllers/third_party.php');
-				include_once('core/controllers/upgrade.php');
-			}
+			if (is_admin())
+		{
+			include_once('core/controllers/export.php');
+			include_once('core/controllers/addons.php');
+			include_once('core/controllers/third_party.php');
+			include_once('core/controllers/upgrade.php');
+		}
 
 		}
 
@@ -510,9 +517,10 @@ if (!class_exists('acf')):
 			);
 
 
-			foreach ($scripts as $script) {
-				wp_register_script($script['handle'], $script['src'], $script['deps'], $this->settings['version']);
-			}
+			foreach ($scripts as $script)
+		{
+			wp_register_script($script['handle'], $script['src'], $script['deps'], $this->settings['version']);
+		}
 
 
 			// register acf styles
@@ -524,23 +532,26 @@ if (!class_exists('acf')):
 				'acf-datepicker' => $this->settings['dir'] . 'core/fields/date_picker/style.date_picker.css',
 			);
 
-			foreach ($styles as $k => $v) {
-				wp_register_style($k, $v, false, $this->settings['version']);
-			}
+			foreach ($styles as $k => $v)
+		{
+			wp_register_style($k, $v, false, $this->settings['version']); 
+		}
 
 
 			// bail early if user has defined LITE_MODE as true
-			if (defined('ACF_LITE') && ACF_LITE) {
-				return;
-			}
+			if (defined('ACF_LITE') && ACF_LITE)
+		{
+			return;
+		}
 
 
 			// admin only
-			if (is_admin()) {
-				add_action('admin_menu', array($this, 'admin_menu'));
-				add_action('admin_head', array($this, 'admin_head'));
-				add_filter('post_updated_messages', array($this, 'post_updated_messages'));
-			}
+			if (is_admin())
+		{
+			add_action('admin_menu', array($this, 'admin_menu'));
+			add_action('admin_head', array($this, 'admin_head'));
+			add_filter('post_updated_messages', array($this, 'post_updated_messages'));
+		}
 		}
 
 
@@ -647,15 +658,15 @@ if (!class_exists('acf')):
 
 									if ($simple_value) {
 										$value = $term->term_id;
-									}
-
-									$choices[$post_type_object->label . ': ' . $taxonomy][$value] = $term->name;
 								}
+
+									$choices[$post_type_object->label . ': ' . $taxonomy][$value] = $term->name; 
 							}
 						}
 					}
 				}
 			}
+		}
 
 			return $choices;
 		}
@@ -684,14 +695,15 @@ if (!class_exists('acf')):
 			foreach ($acf_includes as $p) {
 				if (post_type_exists($p)) {
 					$post_types[$p] = $p;
-				}
 			}
+		}
 
 
 			// exclude
-			foreach ($acf_excludes as $p) {
-				unset($post_types[$p]);
-			}
+			foreach ($acf_excludes as $p)
+		{
+			unset($post_types[$p]);
+		}
 
 
 			return $post_types;
@@ -723,11 +735,12 @@ if (!class_exists('acf')):
 
 
 			// add extra registered sizes
-			foreach ($all_sizes as $size) {
-				if (!isset($sizes[$size])) {
-					$sizes[$size] = ucwords(str_replace('-', ' ', $size));
-				}
+			foreach ($all_sizes as $size)
+		{
+			if (!isset($sizes[$size])) {
+				$sizes[$size] = ucwords(str_replace('-', ' ', $size));
 			}
+		}
 
 
 			// return array
@@ -843,29 +856,31 @@ if (!class_exists('acf')):
 		{
 
 			// load from post
-			if (!isset($_POST['fields'])) {
-				return $post_id;
-			}
+			if (!isset($_POST['fields']))
+		{
+			return $post_id;
+		}
 
 
 			// loop through and save
-			if (!empty($_POST['fields'])) {
-				// loop through and save $_POST data
-				foreach ($_POST['fields'] as $k => $v) {
-					// get field
-					$f = apply_filters('acf/load_field', false, $k);
+			if (!empty($_POST['fields']))
+		{
+			// loop through and save $_POST data
+			foreach ($_POST['fields'] as $k => $v) {
+				// get field
+				$f = apply_filters('acf/load_field', false, $k);
 
-					// update field
-					do_action('acf/update_value', $v, $post_id, $f);
-
-				}
-				// foreach($fields as $key => $value)
+				// update field
+				do_action('acf/update_value', $v, $post_id, $f);
+				
 			}
+			// foreach($fields as $key => $value)
+		}
 			// if($fields)
 
 
 			return $post_id;
-		}
+	}
 
 
 	}
@@ -893,7 +908,7 @@ if (!class_exists('acf')):
 
 		if (!isset($acf)) {
 			$acf = new acf();
-		}
+	}
 
 		return $acf;
 	}

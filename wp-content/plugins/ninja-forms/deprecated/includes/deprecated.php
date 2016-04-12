@@ -319,7 +319,7 @@ function ninja_forms_update_sub($args)
 				$user_value = $d['user_value'];
 				$sub->add_field($field_id, $user_value);
 			}
-		}
+		}		
 	}
 
 	foreach ($args as $key => $value) {
@@ -350,7 +350,7 @@ function ninja_forms_implode_r($glue, $pieces)
 				$out = ninja_forms_implode_r($glue, $piece);
 			} else {
 				$out .= ninja_forms_implode_r($glue, $piece); // recurse
-			}
+			}			
 		} else {
 			if ($out == '') {
 				$out .= $piece;
@@ -415,7 +415,7 @@ function nf_change_admin_menu_filter($cap)
 
 add_filter('ninja_forms_admin_parent_menu_capabilities', 'nf_change_admin_menu_filter');
 
-/**
+/** 
  * Deprecated as of version 2.8 
  */
 
@@ -742,21 +742,21 @@ function nf_csv_attachment($sub_id)
 
 	// make sure this form is supposed to attach a CSV
 	if (1 == $ninja_forms_processing->get_form_setting('admin_attach_csv') AND 'submit' == $ninja_forms_processing->get_action()) {
-
+		
 		// create CSV content
 		$csv_content = Ninja_Forms()->sub($sub_id)->export(true);
-
+		
 		$upload_dir = wp_upload_dir();
 		$path = trailingslashit($upload_dir['path']);
 
 		// create temporary file
 		$path = tempnam($path, 'Sub');
 		$temp_file = fopen($path, 'r+');
-
+		
 		// write to temp file
 		fwrite($temp_file, $csv_content);
 		fclose($temp_file);
-
+		
 		// find the directory we will be using for the final file
 		$path = pathinfo($path);
 		$dir = $path['dirname'];
@@ -764,7 +764,7 @@ function nf_csv_attachment($sub_id)
 
 		// create name for file
 		$new_name = apply_filters('ninja_forms_submission_csv_name', 'ninja-forms-submission');
-
+		
 		// remove a file if it already exists
 		if (file_exists($dir . '/' . $new_name . '.csv')) {
 			unlink($dir . '/' . $new_name . '.csv');
@@ -773,7 +773,7 @@ function nf_csv_attachment($sub_id)
 		// move file
 		rename($dir . '/' . $basename, $dir . '/' . $new_name . '.csv');
 		$file1 = $dir . '/' . $new_name . '.csv';
-
+		
 		// add new file to array of existing files
 		$files = $ninja_forms_processing->get_form_setting('admin_attachments');
 		array_push($files, $file1);
@@ -798,7 +798,7 @@ function nf_modify_attachments($files, $n_id)
 	}
 
 	$ninja_forms_processing->update_form_setting('admin_attachments', '');
-
+	
 	return $files;
 }
 
@@ -1010,9 +1010,9 @@ function ninja_forms_update_form($args)
 		if (is_array($data)) {
 			foreach ($data as $key => $val) {
 				Ninja_Forms()->form($form_id)->update_setting($key, $val);
-			}
+			}	
 		}
-		unset($update_array['data']);
+		unset($update_array['data']);	
 	}
 
 	foreach ($update_array as $key => $val) {

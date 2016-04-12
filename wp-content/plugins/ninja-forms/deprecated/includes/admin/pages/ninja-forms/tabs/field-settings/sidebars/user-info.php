@@ -40,7 +40,7 @@ function ninja_forms_sidebar_user_info_fields()
 					   data-field="<?php echo $field_id; ?>" data-type="<?php echo $type; ?>"
 					   href="#"><?php _e($name, 'ninja-forms'); ?></a>
 				</p>
-				<?php
+				<?php				
 			}
 		}
 	}

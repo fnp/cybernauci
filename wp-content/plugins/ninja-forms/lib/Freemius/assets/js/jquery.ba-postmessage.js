@@ -65,7 +65,7 @@
     
     // I couldn't get window.postMessage to actually work in Opera 9.64!
       has_postMessage = window[postMessage] && !$.browser.opera;
-
+  
   // Method: jQuery.postMessage
   // 
   // This method will call window.postMessage if available, setting the
@@ -99,12 +99,12 @@
     if (!target_url) {
       return;
     }
-
+    
     // Serialize the message if not a string. Note that this is the only real
     // jQuery dependency for this script. If removed, this script could be
     // written as very basic JavaScript.
     message = typeof message === 'string' ? message : $.param(message);
-
+    
     // Default to parent if unspecified.
     target = target || parent;
 

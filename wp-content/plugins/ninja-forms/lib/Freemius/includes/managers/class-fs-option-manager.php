@@ -1,27 +1,27 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.3
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.3
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
 }
 
-/**
- * 3-layer lazy options manager.
- *      layer 3: Memory
- *      layer 2: Cache (if there's any caching plugin and if WP_FS__DEBUG_SDK is FALSE)
- *      layer 1: Database (options table). All options stored as one option record in the DB to reduce number of DB
- *      queries.
- *
- * If load() is not explicitly called, starts as empty manager. Same thing about saving the data - you have to
- * explicitly call store().
- *
- * Class Freemius_Option_Manager
- */
+	/**
+	 * 3-layer lazy options manager.
+	 *      layer 3: Memory
+	 *      layer 2: Cache (if there's any caching plugin and if WP_FS__DEBUG_SDK is FALSE)
+	 *      layer 1: Database (options table). All options stored as one option record in the DB to reduce number of DB
+	 *      queries.
+	 *
+	 * If load() is not explicitly called, starts as empty manager. Same thing about saving the data - you have to
+	 * explicitly call store().
+	 *
+	 * Class Freemius_Option_Manager
+	 */
 class FS_Option_Manager
 {
 	/**
@@ -60,7 +60,7 @@ class FS_Option_Manager
 		if ($load) {
 			$this->load();
 		}
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -101,14 +101,14 @@ class FS_Option_Manager
 				}
 
 				$cached = false;
-			}
+				}
 
 			if (!WP_FS__DEBUG_SDK && !$cached) // Set non encoded cache.
 			{
 				wp_cache_set($option_name, $this->_options, WP_FS__SLUG);
 			}
+			}
 		}
-	}
 
 	private function _get_option_manager_name()
 	{
@@ -131,7 +131,7 @@ class FS_Option_Manager
 		if ($flush) {
 			$this->store();
 		}
-	}
+		}
 
 	/**
 	 * Dump options to database.
@@ -155,7 +155,7 @@ class FS_Option_Manager
 		if (!WP_FS__DEBUG_SDK) {
 			wp_cache_set($option_name, $this->_options, WP_FS__SLUG);
 		}
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -178,7 +178,7 @@ class FS_Option_Manager
 		}
 
 		return self::$_MANAGERS[$id];
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -246,7 +246,7 @@ class FS_Option_Manager
 		}
 
 		return $default;
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -273,7 +273,7 @@ class FS_Option_Manager
 		if ($flush) {
 			$this->store();
 		}
-	}
+		}
 
 	/**
 	 * Unset option.
@@ -301,10 +301,10 @@ class FS_Option_Manager
 			}
 
 			unset($this->_options->{$option});
-		}
+			}
 
 		if ($flush) {
 			$this->store();
 		}
+		}
 	}
-}

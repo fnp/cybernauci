@@ -1,6 +1,6 @@
 (function ($) {
-
-
+	
+	
 	/*
 	 *  acf.screen
 	 *
@@ -12,7 +12,7 @@
 	 *  @param	N/A
 	 *  @return	N/A
 	 */
-
+	
 	acf.screen = {
 		action: 'acf/location/match_field_groups_ajax',
 		post_id: 0,
@@ -40,8 +40,8 @@
 	 */
 
 	$(document).ready(function () {
-
-
+		
+		
 		// update post_id
 		acf.screen.post_id = acf.o.post_id;
 		acf.screen.nonce = acf.o.nonce;
@@ -52,7 +52,7 @@
 			var href = $('#icl-als-first').children('a').attr('href'),
 				regex = new RegExp("lang=([^&#]*)"),
 				results = regex.exec(href);
-
+			
 			// lang
 			acf.screen.lang = results[1];
 
@@ -74,11 +74,11 @@
 	 */
 
 	$(document).on('acf/update_field_groups', function () {
-
+		
 		// Only for a post.
 		// This is an attempt to stop the action running on the options page add-on.
 		if (!acf.screen.post_id || !$.isNumeric(acf.screen.post_id)) {
-			return false;
+			return false;	
 		}
 
 
@@ -88,7 +88,7 @@
 			type: 'post',
 			dataType: 'json',
 			success: function (result) {
-
+				
 				// validate
 				if (!result) {
 					return false;
@@ -108,8 +108,8 @@
 
 				// show the new postboxes
 				$.each(result, function (k, v) {
-
-
+					
+					
 					// vars
 					var $el = $('#acf_' + v),
 						$toggle = $('#adv-settings .acf_postbox-toggle[for="acf_' + v + '-hide"]');
@@ -123,7 +123,7 @@
 
 					// load fields if needed
 					$el.find('.acf-replace-with-fields').each(function () {
-
+						
 						var $replace = $(this);
 
 						$.ajax({
@@ -139,7 +139,7 @@
 							success: function (html) {
 
 								$replace.replaceWith(html);
-
+								
 								$(document).trigger('acf/setup_fields', $el);
 
 							}
@@ -162,7 +162,7 @@
 					success: function (result) {
 
 						$('#acf_style').html(result);
-
+						
 					}
 				});
 
@@ -185,7 +185,7 @@
 	 */
 
 	$(document).on('change', '#page_template', function () {
-
+		
 		acf.screen.page_template = $(this).val();
 
 		$(document).trigger('acf/update_field_groups');
@@ -194,7 +194,7 @@
 
 
 	$(document).on('change', '#parent_id', function () {
-
+		
 		var val = $(this).val();
 
 
@@ -215,7 +215,7 @@
 
 
 	$(document).on('change', '#post-formats-select input[type="radio"]', function () {
-
+		
 		var val = $(this).val();
 
 		if (val == '0') {
@@ -226,9 +226,9 @@
 
 		$(document).trigger('acf/update_field_groups');
 
-	});
-
-
+	});	
+	
+	
 	function _sync_taxonomy_terms() {
 
 		// vars
@@ -236,7 +236,7 @@
 
 
 		$('.categorychecklist input:checked, .acf-taxonomy-field input:checked, .acf-taxonomy-field option:selected').each(function () {
-
+			
 			// validate
 			if ($(this).is(':hidden') || $(this).is(':disabled')) {
 				return;
@@ -277,7 +277,7 @@
 
 
 	$(document).on('change', '.categorychecklist input, .acf-taxonomy-field input, .acf-taxonomy-field select', function () {
-
+		
 		// a taxonomy field may trigger this change event, however, the value selected is not
 		// actually a term relatinoship, it is meta data
 		if ($(this).closest('.acf-taxonomy-field').exists()) {
@@ -295,7 +295,7 @@
 
 		// set timeout to fix issue with chrome which does not register the change has yet happened
 		setTimeout(function () {
-
+			
 			_sync_taxonomy_terms();
 
 		}, 1);

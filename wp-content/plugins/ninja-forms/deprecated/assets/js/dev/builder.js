@@ -511,7 +511,7 @@ var nfForm = new nfForm();
 
 						}
 					});
-				}
+			}
 				$(this).sortable('refresh');
 				nfForm.set('saved', false);
 			}

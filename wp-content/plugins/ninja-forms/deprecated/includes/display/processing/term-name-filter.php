@@ -30,7 +30,7 @@ if (!function_exists('ninja_forms_filter_term_ids_for_name')) {
 				if (!is_array($val)) {
 					if (strpos($val, ",") !== false) {
 						$val = explode(",", $val);
-					}
+					}				
 				}
 
 				if (is_array($val)) {
@@ -44,17 +44,17 @@ if (!function_exists('ninja_forms_filter_term_ids_for_name')) {
 							} else {
 								$tmp .= ', ' . $term_obj->name;
 							}
-							$x++;
+							$x++;			
 						}
 					}
 					$val = $tmp;
 				} else {
 					$term_obj = get_term($val, $tax);
 					if ($term_obj AND !is_wp_error($term_obj)) {
-						$val = $term_obj->name;
+						$val = $term_obj->name;					
 					}
 				}
-			}
+			}	
 		}
 
 		return $val;

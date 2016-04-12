@@ -62,7 +62,7 @@ class acf_upgrade
 
 		// bail early if $acf_version is >= $plugin_version
 		if (version_compare($acf_version, $plugin_version, '>=')) {
-
+		
 			return;
 
 		}
@@ -70,8 +70,8 @@ class acf_upgrade
 
 		// update version
 		update_option('acf_version', $plugin_version);
-
-
+		
+		
 		// update admin page
 		add_submenu_page('edit.php?post_type=acf', __('Upgrade', 'acf'), __('Upgrade', 'acf'), 'manage_options', 'acf-upgrade', array($this, 'html'));
 	}
@@ -129,17 +129,17 @@ class acf_upgrade
 									// next update?
 									if (json.next) {
 										run_upgrade(json.next);
-									}
+								}
 									else {
 										// all done
 										add_message('Upgrade Complete! <a href="<?php echo admin_url(); ?>edit.php?post_type=acf">Continue to ACF &raquo;</a>');
-									}
 								}
+							}
 								else {
 									// error!
 									add_message('Error: ' + json.message);
-								}
 							}
+						}
 							else {
 								// major error!
 								add_message('Sorry. Something went wrong during the upgrade process. Please report this on the support forum');
@@ -647,11 +647,11 @@ class acf_upgrade
 
 								$this->parent->update_field($acf->ID, $field);
 
-							}
+					}
 							// foreach( $fields as $field )
 						}
 						// if( $fields )
-					}
+				}
 					// foreach($acfs as $acf)
 				}
 				// if($acfs)

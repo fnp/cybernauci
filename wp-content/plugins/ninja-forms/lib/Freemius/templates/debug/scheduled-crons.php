@@ -42,8 +42,8 @@ if (is_array($plugins) && 0 < count($plugins)) {
 				'next' => $next_install_execution,
 			);
 		}
+		}
 	}
-}
 ?>
 <h1><?php _efs('scheduled-crons') ?></h1>
 <table class="widefat">
@@ -91,7 +91,7 @@ if (is_array($plugins) && 0 < count($plugins)) {
 						} else {
 							printf(__fs('x-ago'), $human_diff);
 						}
-					}
+						}
 					?></td>
 			</tr>
 		<?php endforeach ?>

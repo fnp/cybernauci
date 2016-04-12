@@ -94,9 +94,9 @@ class FS_License_Manager /*extends FS_Abstract_Manager*/
 				if (!$license->is_utilized() && $license->is_features_enabled()) {
 					return true;
 				}
+				}
 			}
-		}
 
 		return false;
 	}
-}
+	}

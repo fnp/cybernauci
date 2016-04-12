@@ -43,7 +43,7 @@ class NF_Form
 
 	/**
 	 * Get things started
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return void
@@ -60,7 +60,7 @@ class NF_Form
 
 	/**
 	 * Update our fields
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return void
@@ -72,7 +72,7 @@ class NF_Form
 
 	/**
 	 * Add a form
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return int $form_id
@@ -98,7 +98,7 @@ class NF_Form
 
 	/**
 	 * Insert a field into our form
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return bool()
@@ -110,7 +110,7 @@ class NF_Form
 
 	/**
 	 * Get one of our form settings.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return string $setting
@@ -130,7 +130,7 @@ class NF_Form
 	/**
 	 * Update a form setting (this doesn't update anything in the database)
 	 * Changes are only applied to this object.
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @param string $setting
@@ -158,7 +158,7 @@ class NF_Form
 
 	/**
 	 * Get all of our settings
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 * @return array $settings
@@ -170,7 +170,7 @@ class NF_Form
 
 	/**
 	 * Return a count of the submissions this form has had
-	 *
+	 * 
 	 * @access public
 	 * @param array $args
 	 * @since 2.7
@@ -183,7 +183,7 @@ class NF_Form
 
 	/**
 	 * Get all the submissions for this form
-	 *
+	 * 
 	 * @access public
 	 * @since 2.7
 	 * @return array $sub_ids
@@ -196,7 +196,7 @@ class NF_Form
 
 	/**
 	 * Delete this form
-	 *
+	 * 
 	 * @access public
 	 * @since 2.9
 	 */

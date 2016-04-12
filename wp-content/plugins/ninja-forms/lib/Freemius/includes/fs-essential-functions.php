@@ -36,18 +36,18 @@ if (!function_exists('fs_normalize_path')) {
 #region Core Redirect (copied from BuddyPress) -----------------------------------------
 
 if (!function_exists('fs_redirect')) {
-	/**
-	 * Redirects to another page, with a workaround for the IIS Set-Cookie bug.
-	 *
-	 * @link  http://support.microsoft.com/kb/q176113/
-	 * @since 1.5.1
-	 * @uses  apply_filters() Calls 'wp_redirect' hook on $location and $status.
-	 *
-	 * @param string $location The path to redirect to
-	 * @param int $status Status code to use
-	 *
-	 * @return bool False if $location is not set
-	 */
+		/**
+		 * Redirects to another page, with a workaround for the IIS Set-Cookie bug.
+		 *
+		 * @link  http://support.microsoft.com/kb/q176113/
+		 * @since 1.5.1
+		 * @uses  apply_filters() Calls 'wp_redirect' hook on $location and $status.
+		 *
+		 * @param string $location The path to redirect to
+		 * @param int $status Status code to use
+		 *
+		 * @return bool False if $location is not set
+		 */
 	function fs_redirect($location, $status = 302)
 	{
 		global $is_IIS;
@@ -73,7 +73,7 @@ if (!function_exists('fs_redirect')) {
 		}
 
 		return true;
-	}
+		}
 
 	if (!function_exists('fs_sanitize_redirect')) {
 		/**
@@ -105,7 +105,7 @@ if (!function_exists('fs_redirect')) {
 
 			return $location;
 		}
-	}
+		}
 
 	if (!function_exists('fs_kses_no_null')) {
 		/**
@@ -125,7 +125,7 @@ if (!function_exists('fs_redirect')) {
 			return $string;
 		}
 	}
-}
+	}
 
 #endregion Core Redirect (copied from BuddyPress) -----------------------------------------
 
@@ -136,19 +136,19 @@ if (!function_exists('__fs')) {
 		$fs_text_overrides = array();
 	}
 
-	/**
-	 * Retrieve a translated text by key.
-	 *
-	 * @author Vova Feldman (@svovaf)
-	 * @since  1.1.4
-	 *
-	 * @param string $key
-	 * @param string $slug
-	 *
-	 * @return string
-	 *
-	 * @global       $fs_text , $fs_text_overrides
-	 */
+		/**
+		 * Retrieve a translated text by key.
+		 *
+		 * @author Vova Feldman (@svovaf)
+		 * @since  1.1.4
+		 *
+		 * @param string $key
+		 * @param string $slug
+		 *
+		 * @return string
+		 *
+		 * @global       $fs_text , $fs_text_overrides
+		 */
 	function __fs($key, $slug = 'freemius')
 	{
 		global $fs_text, $fs_text_overrides;
@@ -160,28 +160,28 @@ if (!function_exists('__fs')) {
 		if (isset($fs_text_overrides[$slug])) {
 			if (isset($fs_text_overrides[$slug][$key])) {
 				return $fs_text_overrides[$slug][$key];
-			}
+				}
 
 			$lower_key = strtolower($key);
 			if (isset($fs_text_overrides[$slug][$lower_key])) {
 				return $fs_text_overrides[$slug][$lower_key];
 			}
-		}
+			}
 
 		return isset($fs_text[$key]) ?
 			$fs_text[$key] :
 			$key;
-	}
+		}
 
-	/**
-	 * Display a translated text by key.
-	 *
-	 * @author Vova Feldman (@svovaf)
-	 * @since  1.1.4
-	 *
-	 * @param string $key
-	 * @param string $slug
-	 */
+		/**
+		 * Display a translated text by key.
+		 *
+		 * @author Vova Feldman (@svovaf)
+		 * @since  1.1.4
+		 *
+		 * @param string $key
+		 * @param string $slug
+		 */
 	function _efs($key, $slug = 'freemius')
 	{
 		echo __fs($key, $slug);
@@ -189,7 +189,7 @@ if (!function_exists('__fs')) {
 
 	/**
 	 * Override default i18n text phrases.
-	 *
+		 *
 	 * @author Vova Feldman (@svovaf)
 	 * @since  1.1.6
 	 *
@@ -197,7 +197,7 @@ if (!function_exists('__fs')) {
 	 * @param string $slug
 	 *
 	 * @global         $fs_text_overrides
-	 */
+		 */
 	function fs_override_i18n(array $key_value, $slug = 'freemius')
 	{
 		global $fs_text_overrides;
@@ -209,8 +209,8 @@ if (!function_exists('__fs')) {
 		foreach ($key_value as $key => $value) {
 			$fs_text_overrides[$slug][$key] = $value;
 		}
+		}
 	}
-}
 
 if (!function_exists('fs_get_ip')) {
 	/**
@@ -241,16 +241,16 @@ if (!function_exists('fs_get_ip')) {
 
 		return null;
 	}
-}
+	}
 
-/**
- * Leverage backtrace to find caller plugin main file path.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.0.6
- *
- * @return string
- */
+	/**
+	 * Leverage backtrace to find caller plugin main file path.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.0.6
+	 *
+	 * @return string
+	 */
 function fs_find_caller_plugin_file()
 {
 	/**
@@ -268,44 +268,44 @@ function fs_find_caller_plugin_file()
 	// Get active plugin's main files real full names (might be symlinks).
 	foreach ($all_plugins as $relative_path => &$data) {
 		$all_plugins_paths[] = fs_normalize_path(realpath(WP_PLUGIN_DIR . '/' . $relative_path));
-	}
+		}
 
 	$plugin_file = null;
 	for ($i = 1, $bt = debug_backtrace(), $len = count($bt); $i < $len; $i++) {
 		if (in_array(fs_normalize_path($bt[$i]['file']), $all_plugins_paths)) {
 			$plugin_file = $bt[$i]['file'];
 			break;
-		}
+			}
 	}
 
 	if (is_null($plugin_file)) {
 		// Throw an error to the developer in case of some edge case dev environment.
 		wp_die(__fs('failed-finding-main-path'), __fs('error'), array('back_link' => true));
-	}
+		}
 
 	return $plugin_file;
-}
+	}
 
 require_once dirname(__FILE__) . '/supplements/fs-essential-functions-1.1.7.1.php';
 
-/**
- * Update SDK newest version reference.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.1.6
- *
- * @param string $sdk_relative_path
- * @param string|bool $plugin_file
- *
- * @global            $fs_active_plugins
- */
+	/**
+	 * Update SDK newest version reference.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.1.6
+	 *
+	 * @param string $sdk_relative_path
+	 * @param string|bool $plugin_file
+	 *
+	 * @global            $fs_active_plugins
+	 */
 function fs_update_sdk_newest_version($sdk_relative_path, $plugin_file = false)
 {
 	global $fs_active_plugins;
 
 	if (!is_string($plugin_file)) {
 		$plugin_file = plugin_basename(fs_find_caller_plugin_file());
-	}
+		}
 
 	$fs_active_plugins->newest = (object)array(
 		'plugin_path' => $plugin_file,
@@ -317,18 +317,18 @@ function fs_update_sdk_newest_version($sdk_relative_path, $plugin_file = false)
 
 	// Update DB with latest SDK version and path.
 	update_option('fs_active_plugins', $fs_active_plugins);
-}
+	}
 
-/**
- * Reorder the plugins load order so the plugin with the newest Freemius SDK is loaded first.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.1.6
- *
- * @return bool Was plugin order changed. Return false if plugin was loaded first anyways.
- *
- * @global $fs_active_plugins
- */
+	/**
+	 * Reorder the plugins load order so the plugin with the newest Freemius SDK is loaded first.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.1.6
+	 *
+	 * @return bool Was plugin order changed. Return false if plugin was loaded first anyways.
+	 *
+	 * @global $fs_active_plugins
+	 */
 function fs_newest_sdk_plugin_first()
 {
 	global $fs_active_plugins;
@@ -345,24 +345,24 @@ function fs_newest_sdk_plugin_first()
 	if (0 == $newest_sdk_plugin_key) {
 		// if it's 0 it's the first plugin already, no need to continue
 		return false;
-	}
+		}
 
 	array_splice($active_plugins, $newest_sdk_plugin_key, 1);
 	array_unshift($active_plugins, $fs_active_plugins->newest->plugin_path);
 	update_option('active_plugins', $active_plugins);
 
 	return true;
-}
+	}
 
-/**
- * Go over all Freemius SDKs in the system and find and "remember"
- * the newest SDK which is associated with an active plugin.
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.1.6
- *
- * @global $fs_active_plugins
- */
+	/**
+	 * Go over all Freemius SDKs in the system and find and "remember"
+	 * the newest SDK which is associated with an active plugin.
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.1.6
+	 *
+	 * @global $fs_active_plugins
+	 */
 function fs_fallback_to_newest_active_sdk()
 {
 	global $fs_active_plugins;
@@ -372,7 +372,7 @@ function fs_fallback_to_newest_active_sdk()
 
 	foreach ($fs_active_plugins->plugins as $sdk_relative_path => $data) {
 		if (is_null($newest_sdk_data) || version_compare($data->version, $newest_sdk_data->version, '>')
-		) {
+			) {
 			// If plugin inactive or SDK starter file doesn't exist, remove SDK reference.
 			if (!is_plugin_active($data->plugin_path) ||
 				!file_exists(fs_normalize_path(WP_PLUGIN_DIR . '/' . $sdk_relative_path . '/start.php'))
@@ -385,8 +385,8 @@ function fs_fallback_to_newest_active_sdk()
 				$newest_sdk_data = $data;
 				$newest_sdk_path = $sdk_relative_path;
 			}
+			}
 		}
-	}
 
 	if (is_null($newest_sdk_data)) {
 		// Couldn't find any SDK reference.
@@ -395,7 +395,7 @@ function fs_fallback_to_newest_active_sdk()
 	} else {
 		fs_update_sdk_newest_version($newest_sdk_path, $newest_sdk_data->plugin_path);
 	}
-}
+	}
 
 #region Actions / Filters -----------------------------------------
 

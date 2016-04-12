@@ -1,14 +1,14 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.6
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.6
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
 class FS_Plan_Manager
 {
@@ -19,7 +19,7 @@ class FS_Plan_Manager
 
 	private function __construct()
 	{
-	}
+		}
 
 	/**
 	 * @return FS_Plan_Manager
@@ -48,27 +48,27 @@ class FS_Plan_Manager
 				if (!$license->is_utilized() && $license->is_features_enabled()) {
 					return true;
 				}
+				}
 			}
+
+			return false;
 		}
 
-		return false;
-	}
-
-	/**
-	 * Check if plugin has any paid plans.
-	 *
-	 * @author Vova Feldman (@svovaf)
-	 * @since  1.0.7
-	 *
-	 * @param FS_Plugin_Plan[] $plans
-	 *
-	 * @return bool
-	 */
+		/**
+		 * Check if plugin has any paid plans.
+		 *
+		 * @author Vova Feldman (@svovaf)
+		 * @since  1.0.7
+		 *
+		 * @param FS_Plugin_Plan[] $plans
+		 *
+		 * @return bool
+		 */
 	function has_paid_plan($plans)
 	{
 		if (!is_array($plans) || 0 === count($plans)) {
 			return false;
-		}
+			}
 
 		/**
 		 * @var FS_Plugin_Plan[] $plans
@@ -80,37 +80,37 @@ class FS_Plan_Manager
 		}
 
 		return false;
-	}
-
-	/**
-	 * Check if plugin has any free plan, or is it premium only.
-	 *
-	 * Note: If no plans configured, assume plugin is free.
-	 *
-	 * @author Vova Feldman (@svovaf)
-	 * @since  1.0.7
-	 *
-	 * @param FS_Plugin_Plan[] $plans
-	 *
-	 * @return bool
-	 */
-	function has_free_plan($plans)
-	{
-		if (!is_array($plans) || 0 === count($plans)) {
-			return true;
 		}
 
 		/**
-		 * @var FS_Plugin_Plan[] $plans
+		 * Check if plugin has any free plan, or is it premium only.
+		 *
+		 * Note: If no plans configured, assume plugin is free.
+		 *
+		 * @author Vova Feldman (@svovaf)
+		 * @since  1.0.7
+		 *
+		 * @param FS_Plugin_Plan[] $plans
+		 *
+		 * @return bool
 		 */
+	function has_free_plan($plans)
+	{
+		if (!is_array($plans) || 0 === count($plans)) {
+				return true;
+			}
+
+			/**
+			 * @var FS_Plugin_Plan[] $plans
+			 */
 		for ($i = 0, $len = count($plans); $i < $len; $i++) {
 			if ($plans[$i]->is_free()) {
 				return true;
+				}
 			}
-		}
 
 		return false;
-	}
+		}
 
 	/**
 	 * Find all plans that have trial.
@@ -138,23 +138,23 @@ class FS_Plan_Manager
 		}
 
 		return $trial_plans;
-	}
+		}
 
-	/**
-	 * Check if plugin has any trial plan.
-	 *
-	 * @author Vova Feldman (@svovaf)
-	 * @since  1.0.9
-	 *
-	 * @param FS_Plugin_Plan[] $plans
-	 *
-	 * @return bool
-	 */
+		/**
+		 * Check if plugin has any trial plan.
+		 *
+		 * @author Vova Feldman (@svovaf)
+		 * @since  1.0.9
+		 *
+		 * @param FS_Plugin_Plan[] $plans
+		 *
+		 * @return bool
+		 */
 	function has_trial_plan($plans)
 	{
 		if (!is_array($plans) || 0 === count($plans)) {
-			return true;
-		}
+				return true;
+			}
 
 		/**
 		 * @var FS_Plugin_Plan[] $plans
@@ -167,4 +167,4 @@ class FS_Plan_Manager
 
 		return false;
 	}
-}
+	}

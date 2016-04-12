@@ -366,7 +366,7 @@ function ninja_forms_add_fav()
 
 	$name = stripslashes(esc_html($_REQUEST['fav_name']));
 	if (!isset ($data['label']) or empty ($data['label'])) {
-		$data['label'] = $name;
+		$data['label'] = $name;		
 	}
 
 	$data = ninja_forms_stripslashes_deep($data);

@@ -1,19 +1,19 @@
 <?php
-/**
- * Copyright 2014 Freemius, Inc.
- *
- * Licensed under the GPL v2 (the "License"); you may
- * not use this file except in compliance with the License. You may obtain
- * a copy of the License at
- *
- *     http://choosealicense.com/licenses/gpl-v2/
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
- * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
- * License for the specific language governing permissions and limitations
- * under the License.
- */
+	/**
+	 * Copyright 2014 Freemius, Inc.
+	 *
+	 * Licensed under the GPL v2 (the "License"); you may
+	 * not use this file except in compliance with the License. You may obtain
+	 * a copy of the License at
+	 *
+	 *     http://choosealicense.com/licenses/gpl-v2/
+	 *
+	 * Unless required by applicable law or agreed to in writing, software
+	 * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+	 * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+	 * License for the specific language governing permissions and limitations
+	 * under the License.
+	 */
 
 define('FS_API__VERSION', '1');
 define('FS_SDK__PATH', dirname(__FILE__));
@@ -21,7 +21,7 @@ define('FS_SDK__EXCEPTIONS_PATH', FS_SDK__PATH . '/Exceptions/');
 
 if (!function_exists('json_decode')) {
 	throw new Exception('Freemius needs the JSON PHP extension.');
-}
+	}
 
 // Include all exception files.
 $exceptions = array(
@@ -34,7 +34,7 @@ $exceptions = array(
 
 foreach ($exceptions as $e) {
 	require FS_SDK__EXCEPTIONS_PATH . $e . '.php';
-}
+	}
 
 abstract class Freemius_Api_Base
 {
@@ -61,7 +61,7 @@ abstract class Freemius_Api_Base
 	protected static function Base64UrlDecode($input)
 	{
 		return base64_decode(strtr($input, '-_', '+/'));
-	}
+		}
 
 	/**
 	 * Base64 encoding that does not need to be urlencode()ed.
@@ -100,12 +100,12 @@ abstract class Freemius_Api_Base
 	public function IsSandbox()
 	{
 		return $this->_isSandbox;
-	}
+		}
 
 	public function Api($pPath, $pMethod = 'GET', $pParams = array())
 	{
 		return $this->_Api($this->CanonizePath($pPath), $pMethod, $pParams);
-	}
+		}
 
 	/**
 	 * @param string $pPath
@@ -136,7 +136,7 @@ abstract class Freemius_Api_Base
 		}
 
 		return $result;
-	}
+		}
 
 	abstract function MakeRequest($pCanonizedPath, $pMethod = 'GET', $pParams = array());
 

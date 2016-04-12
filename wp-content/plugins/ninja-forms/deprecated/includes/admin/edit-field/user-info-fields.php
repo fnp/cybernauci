@@ -33,7 +33,7 @@ function ninja_forms_user_info_fields_groups($field_id, $field_data)
 
 		if (isset ($field_data['user_info_field_group_name'])) {
 			$group_name = $field_data['user_info_field_group_name'];
-		} else {
+		} else { 
 			$group_name = '';
 		}
 

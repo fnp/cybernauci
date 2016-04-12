@@ -27,7 +27,7 @@ class acf_field_post_object extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+  
 	}
 
 
@@ -106,12 +106,12 @@ class acf_field_post_object extends acf_field
 			$args['tax_query'] = array();
 
 			foreach ($field['taxonomy'] as $v) {
-
+				
 				// find term (find taxonomy!)
 				// $term = array( 0 => $taxonomy, 1 => $term_id )
-				$term = explode(':', $v);
-
-
+				$term = explode(':', $v); 
+				
+				
 				// validate
 				if (!is_array($term) || !isset($term[1])) {
 					continue;
@@ -120,7 +120,7 @@ class acf_field_post_object extends acf_field
 
 				// add to tax array
 				$taxonomies[$term[0]][] = $term[1];
-
+				
 			}
 
 
@@ -171,14 +171,14 @@ class acf_field_post_object extends acf_field
 			if ($posts) {
 
 				foreach ($posts as $p) {
-
+					
 					// title
 					$title = get_the_title($p->ID);
-
-
+					
+					
 					// empty
 					if ($title === '') {
-
+						
 						$title = __('(no title)', 'acf');
 
 					}
@@ -188,7 +188,7 @@ class acf_field_post_object extends acf_field
 					if ($p->post_type != 'attachment') {
 
 						$ancestors = get_ancestors($p->ID, $p->post_type);
-
+						
 						$title = str_repeat('- ', count($ancestors)) . $title;
 
 					}
@@ -198,13 +198,13 @@ class acf_field_post_object extends acf_field
 					if (get_post_status($p->ID) != "publish") {
 
 						$title .= ' (' . get_post_status($p->ID) . ')';
-
+						
 					}
 
 
 					// WPML
 					if (defined('ICL_LANGUAGE_CODE')) {
-
+						
 						$title .= ' (' . ICL_LANGUAGE_CODE . ')';
 
 					}
@@ -314,20 +314,20 @@ class acf_field_post_object extends acf_field
 				<label><?php _e("Allow Null?", 'acf'); ?></label>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'radio',
-					'name' => 'fields[' . $key . '][allow_null]',
-					'value' => $field['allow_null'],
-					'choices' => array(
-						1 => __("Yes", 'acf'),
-						0 => __("No", 'acf'),
-					),
-					'layout' => 'horizontal',
-				));
+		do_action('acf/create_field', array(
+			'type' => 'radio',
+			'name' => 'fields[' . $key . '][allow_null]',
+			'value' => $field['allow_null'],
+			'choices' => array(
+				1 => __("Yes", 'acf'),
+				0 => __("No", 'acf'),
+			),
+			'layout' => 'horizontal',
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -352,7 +352,7 @@ class acf_field_post_object extends acf_field
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 
 
@@ -386,7 +386,7 @@ class acf_field_post_object extends acf_field
 
 
 		// return value
-		return $value;
+		return $value;	
 	}
 
 
@@ -489,7 +489,7 @@ class acf_field_post_object extends acf_field
 		} elseif (is_array($value)) {
 			// array
 			foreach ($value as $k => $v) {
-
+			
 				// object?
 				if (is_object($v) && isset($v->ID)) {
 					$value[$k] = $v->ID;

@@ -22,7 +22,7 @@ class NF_Notification_Success_Message extends NF_Notification_Base_Type
 
 	/**
 	 * Output our edit screen
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void
@@ -65,7 +65,7 @@ class NF_Notification_Success_Message extends NF_Notification_Base_Type
 
 	/**
 	 * Process our Success Message notification
-	 *
+	 * 
 	 * @access public
 	 * @since 2.8
 	 * @return void

@@ -14,7 +14,7 @@ class NF_Register
 
 	/**
 	 * Function that registers a notification type
-	 *
+	 * 
 	 * @access public
 	 * @param string $slug - Notification type slug. Must be unique.
 	 * @param string $classname - Name of the class that should be used for the notification type.

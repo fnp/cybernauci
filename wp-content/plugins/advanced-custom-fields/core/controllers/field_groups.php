@@ -46,12 +46,12 @@ class acf_field_groups
 		add_action('admin_print_scripts', array($this, 'admin_print_scripts'));
 		add_action('admin_print_styles', array($this, 'admin_print_styles'));
 		add_action('admin_footer', array($this, 'admin_footer'));
-
-
+		
+		
 		// columns
 		add_filter('manage_edit-acf_columns', array($this, 'acf_edit_columns'), 10, 1);
 		add_action('manage_acf_posts_custom_column', array($this, 'acf_columns_display'), 10, 2);
-
+		
 	}
 
 
@@ -75,7 +75,7 @@ class acf_field_groups
 
 		// validate page
 		if (in_array($pagenow, array('edit.php'))) {
-
+		
 			// validate post type
 			if (isset($_GET['post_type']) && $_GET['post_type'] == 'acf') {
 				$return = true;
@@ -318,7 +318,7 @@ class acf_field_groups
 								<?php if ($update_complete): ?>
 									<div class="acf-alert acf-alert-success">
 										<p><?php _e("All previous Add-ons have been successfully installed", 'acf'); ?></p>
-									</div>
+				</div>
 								<?php else: ?>
 									<div class="acf-alert acf-alert-success">
 										<p><?php _e("This website uses premium Add-ons which need to be downloaded", 'acf'); ?>
@@ -326,12 +326,12 @@ class acf_field_groups
 											   class="acf-button"
 											   style="display: inline-block;"><?php _e("Download your activated Add-ons", 'acf'); ?></a>
 										</p>
-									</div>
+				</div>
 								<?php endif; ?>
 							<?php else: ?>
 								<div class="acf-alert acf-alert-success">
 									<p><?php _e("This website does not use premium Add-ons and will not be affected by this change.", 'acf'); ?></p>
-								</div>
+			</div>
 							<?php endif; ?>
 
 						</div>

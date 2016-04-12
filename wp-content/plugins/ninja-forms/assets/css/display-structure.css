@@ -407,7 +407,6 @@ HONEYPOT
     right: 0;
     left: auto;
   }
-
   .nf-form-wrap .navbar-right .dropdown-menu-left {
     right: auto;
     left: 0;
@@ -444,16 +443,13 @@ HONEYPOT
     border: 0;
     box-shadow: none;
   }
-
   .nf-form-wrap .navbar-nav .open .dropdown-menu > li > a,
   .nf-form-wrap .navbar-nav .open .dropdown-menu .dropdown-header {
     padding: 5px 15px 5px 25px;
   }
-
   .nf-form-wrap .navbar-nav .open .dropdown-menu > li > a {
     line-height: 20px;
   }
-
   .nf-form-wrap .navbar-nav .open .dropdown-menu > li > a:hover,
   .nf-form-wrap .navbar-nav .open .dropdown-menu > li > a:focus {
     background-image: none;
@@ -478,20 +474,17 @@ HONEYPOT
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #777;
   }
-
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #333;
     background-color: transparent;
   }
-
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #555;
     background-color: #e7e7e7;
   }
-
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .nf-form-wrap .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus {
@@ -504,28 +497,23 @@ HONEYPOT
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #080808;
   }
-
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
     background-color: #080808;
   }
-
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
     color: #9d9d9d;
   }
-
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #fff;
     background-color: transparent;
   }
-
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover,
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #fff;
     background-color: #080808;
   }
-
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a,
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover,
   .nf-form-wrap .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:focus {

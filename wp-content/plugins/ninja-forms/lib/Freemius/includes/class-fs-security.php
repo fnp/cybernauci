@@ -1,14 +1,14 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.3
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.3
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
-}
+	}
 
 define('WP_FS__SECURITY_PARAMS_PREFIX', 's_');
 
@@ -27,7 +27,7 @@ class FS_Security
 
 	private function __construct()
 	{
-	}
+		}
 
 	public static function instance()
 	{
@@ -37,7 +37,7 @@ class FS_Security
 		}
 
 		return self::$_instance;
-	}
+		}
 
 	function get_context_params(FS_Scope_Entity $entity, $timestamp = false, $action = '')
 	{
@@ -63,4 +63,4 @@ class FS_Security
 			$action
 		);
 	}
-}
+	}

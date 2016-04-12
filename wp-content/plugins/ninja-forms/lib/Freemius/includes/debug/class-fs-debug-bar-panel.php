@@ -29,7 +29,7 @@ class Freemius_Debug_Bar_Panel extends Debug_Bar_Panel
 		}
 
 		return number_format(count($logger));
-	}
+		}
 
 	static function total_time()
 	{
@@ -45,12 +45,12 @@ class Freemius_Debug_Bar_Panel extends Debug_Bar_Panel
 		}
 
 		return number_format(100 * $total_time, 2) . ' ' . __fs('ms');
-	}
+		}
 
 	function init()
 	{
 		$this->title('Freemius');
-	}
+		}
 
 	function render()
 	{
@@ -64,4 +64,4 @@ class Freemius_Debug_Bar_Panel extends Debug_Bar_Panel
 		</div>
 		<?php
 	}
-}
+	}

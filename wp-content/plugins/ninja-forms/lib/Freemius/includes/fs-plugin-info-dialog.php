@@ -1,21 +1,21 @@
 <?php
-/**
- * @package     Freemius
- * @copyright   Copyright (c) 2015, Freemius, Inc.
- * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
- * @since       1.0.6
- */
+	/**
+	 * @package     Freemius
+	 * @copyright   Copyright (c) 2015, Freemius, Inc.
+	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+	 * @since       1.0.6
+	 */
 
 if (!defined('ABSPATH')) {
 	exit;
 }
 
-/**
- * Class FS_Plugin_Info_Dialog
- *
- * @author Vova Feldman (@svovaf)
- * @since  1.1.7
- */
+	/**
+	 * Class FS_Plugin_Info_Dialog
+	 *
+	 * @author Vova Feldman (@svovaf)
+	 * @since  1.1.7
+	 */
 class FS_Plugin_Info_Dialog
 {
 	/**
@@ -74,7 +74,7 @@ class FS_Plugin_Info_Dialog
 			!isset($args->slug)
 		) {
 			return $data;
-		}
+			}
 
 		// Find add-on by slug.
 		$addons = $this->_fs->get_addons();
@@ -128,10 +128,10 @@ class FS_Plugin_Info_Dialog
 							foreach ($plan->pricing as &$pricing) {
 								$pricing = new FS_Pricing($pricing);
 							}
-						}
+							}
 
 						$has_pricing = true;
-					}
+						}
 
 					$features_result = $this->_fs->get_api_site_or_plugin_scope()->get("/addons/{$selected_addon->id}/plans/{$plan->id}/features.json");
 					if (!isset($features_result->error) &&
@@ -143,9 +143,9 @@ class FS_Plugin_Info_Dialog
 
 						$has_features = true;
 					}
+					}
 				}
 			}
-		}
 
 		// Fetch latest version from Freemius.
 		$latest = $this->_fs->_fetch_latest_version($selected_addon->id);
@@ -181,7 +181,7 @@ class FS_Plugin_Info_Dialog
 				// Plugin is missing, not on Freemius nor WP.org.
 				$data->wp_org_missing = true;
 			}
-		}
+			}
 
 		if (!$is_wordpress_org) {
 			$data->checkout_link = $this->_fs->checkout_url();
@@ -190,7 +190,7 @@ class FS_Plugin_Info_Dialog
 			if ($is_free) {
 				$data->download_link = $this->_fs->_get_latest_download_local_url($selected_addon->id);
 			}
-		}
+			}
 
 		if (!$is_wordpress_org) {
 // Fetch as much as possible info from local files.
@@ -200,7 +200,7 @@ class FS_Plugin_Info_Dialog
 			$view_vars = array('plugin' => $selected_addon);
 			$data->sections = array(
 				'description' => fs_get_template('/plugin-info/description.php', $view_vars),
-			);
+				);
 
 			if (!empty($selected_addon->info->banner_url)) {
 				$data->banners = array(
@@ -227,7 +227,7 @@ class FS_Plugin_Info_Dialog
 
 				// Add message to developer to deploy the plugin through Freemius.
 			}
-		}
+			}
 
 		if ($has_pricing) {
 			// Add plans to data.
@@ -240,7 +240,7 @@ class FS_Plugin_Info_Dialog
 				);
 				$data->sections['features'] = fs_get_template('/plugin-info/features.php', $view_vars);
 			}
-		}
+			}
 
 		$data->is_paid = !$is_free;
 		$data->external = !$is_wordpress_org;
@@ -349,7 +349,7 @@ class FS_Plugin_Info_Dialog
 			if (isset($api->$key)) {
 				$api->$key = wp_kses($api->$key, $plugins_allowedtags);
 			}
-		}
+			}
 
 		// Add after $api->slug is ready.
 		$plugins_section_titles['features'] = __fs('features-and-pricing', $api->slug);
@@ -381,7 +381,7 @@ class FS_Plugin_Info_Dialog
 					#plugin-information-title.with-banner {
 						background-image: url( <?php echo esc_url( $high ); ?> );
 					}
-				}
+					}
 			</style>
 			<?php
 		}
@@ -406,7 +406,7 @@ class FS_Plugin_Info_Dialog
 			$href = esc_url($href);
 			$san_section = esc_attr($section_name);
 			echo "\t<a name='$san_section' href='$href' $class>$title</a>\n";
-		}
+			}
 
 		echo "</div>\n";
 
@@ -447,8 +447,8 @@ class FS_Plugin_Info_Dialog
 											?> - <?php echo $this->get_price_tag($plan, $pricing) ?></label></li>
 									<?php $first = false; endforeach ?>
 							<?php endif ?>
-						</ul>
-					<?php endif ?>
+							</ul>
+						<?php endif ?>
 					<?php echo $this->get_plugin_cta($api, $plan) ?>
 					<div style="clear:both"></div>
 					<?php if ($api->is_paid) : ?>
@@ -578,8 +578,8 @@ class FS_Plugin_Info_Dialog
 						<span class="counter-count"><?php echo number_format_i18n($ratecount); ?></span>
 					</div>
 					<?php
-				}
-			}
+						}
+					}
 			if (!empty($api->contributors)) {
 				?>
 				<h3><?php _e('Contributors'); ?></h3>
@@ -672,7 +672,7 @@ class FS_Plugin_Info_Dialog
 		}
 
 		return '$' . $price_tag;
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -728,7 +728,7 @@ class FS_Plugin_Info_Dialog
 							if ($status['url']) {
 								return '<a class="button button-primary right" href="' . $status['url'] . '" target="_parent">' . __('Install Now') . '</a>';
 							}
-						}
+							}
 						break;
 					case 'update_available':
 						if ($status['url']) {
@@ -744,8 +744,8 @@ class FS_Plugin_Info_Dialog
 				}
 
 			}
+			}
 		}
-	}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -762,12 +762,12 @@ class FS_Plugin_Info_Dialog
 		if (1 === count($plan->pricing) && 1 == $plan->pricing[0]->licenses) {
 			$pricing = $plan->pricing[0];
 			if (isset($pricing->annual_price)) {
-				$billing_cycle = 'annual';
+					$billing_cycle = 'annual';
 			} else if (isset($pricing->monthly_price)) {
-				$billing_cycle = 'monthly';
+					$billing_cycle = 'monthly';
 			} else if (isset($pricing->lifetime_price)) {
-				$billing_cycle = 'lifetime';
-			}
+					$billing_cycle = 'lifetime';
+				}
 		} else {
 			foreach ($plan->pricing as $pricing) {
 				if (isset($pricing->annual_price)) {
@@ -781,11 +781,11 @@ class FS_Plugin_Info_Dialog
 				if (!is_null($billing_cycle)) {
 					break;
 				}
+				}
 			}
-		}
 
 		return $billing_cycle;
-	}
+		}
 
 	/**
 	 * @author Vova Feldman (@svovaf)
@@ -807,5 +807,5 @@ class FS_Plugin_Info_Dialog
 			default:
 				return "{$plan->trial_period} days";
 		}
+		}
 	}
-}

@@ -92,7 +92,7 @@ function nf_create_form_listen()
 		$form_id = Ninja_Forms()->form()->create($defaults);
 		$redirect = esc_url_raw(add_query_arg(array('form_id' => $form_id)));
 		wp_redirect($redirect);
-		die();
+		die();		
 	}
 }
 

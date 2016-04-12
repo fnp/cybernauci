@@ -153,7 +153,7 @@ foreach ($settings as $s){
 					$tmp = $tmp[$n];
 				}
 			}
-		}
+				}
 		$value = (!is_array($tmp) && !is_object($tmp)) ? $tmp : '';
 	} else {
 		if (isset($current_settings[$name])) {
@@ -164,13 +164,13 @@ foreach ($settings as $s){
 			}
 		} else {
 			$value = '';
-		}
-	}
+				}
+			}
 
 	if ($value == '') {
 		$value = $default_value;
 	}
-	?>
+			?>
 
 <tr id="row_<?php echo $name; ?>"
 	<?php if ($tr_class != ''){ ?>class="<?php echo $tr_class; ?>"<?php } ?> <?php if ($style != '') { ?> style="<?php echo $style; ?>"<?php } ?>>
@@ -222,15 +222,15 @@ foreach ($settings as $s){
 		case 'select':
 			?>
 			<select name="<?php echo $name; ?>" id="<?php echo $name; ?>" class="<?php echo $class; ?>">
-				<?php
-				if (is_array($s['options']) AND !empty($s['options'])) {
-					foreach ($s['options'] as $option) {
-						?>
-						<option
-							value="<?php echo $option['value']; ?>" <?php selected($value, $option['value']); ?>><?php echo $option['name']; ?></option>
 						<?php
-					}
-				} ?>
+						if (is_array($s['options']) AND !empty($s['options'])) {
+							foreach ($s['options'] as $option) {
+								?>
+								<option
+									value="<?php echo $option['value']; ?>" <?php selected($value, $option['value']); ?>><?php echo $option['name']; ?></option>
+								<?php
+							}
+						} ?>
 			</select>
 			<?php if ($help_text != '') { ?>
 			<a href="#" class="tooltip">
@@ -252,15 +252,15 @@ foreach ($settings as $s){
 			<input type="hidden" name="<?php echo $name; ?>" value="">
 			<select name="<?php echo $name; ?>[]" id="<?php echo $name; ?>" class="<?php echo $class; ?>"
 					multiple="multiple" size="<?php echo $size; ?>">
-				<?php
-				if (is_array($s['options']) AND !empty($s['options'])) {
-					foreach ($s['options'] as $option) {
-						?>
-						<option
-							value="<?php echo $option['value']; ?>" <?php selected(in_array($option['value'], $value)); ?>><?php echo $option['name']; ?></option>
 						<?php
-					}
-				} ?>
+						if (is_array($s['options']) AND !empty($s['options'])) {
+							foreach ($s['options'] as $option) {
+								?>
+								<option
+									value="<?php echo $option['value']; ?>" <?php selected(in_array($option['value'], $value)); ?>><?php echo $option['name']; ?></option>
+								<?php
+							}
+						} ?>
 			</select>
 			<?php if ($help_text != '') { ?>
 			<a href="#" class="tooltip">
@@ -327,7 +327,7 @@ foreach ($settings as $s){
 					<?php
 				}
 			}
-			?>
+						?>
 
 			<?php
 			if (is_array($s['options']) AND !empty($s['options'])) {
@@ -348,7 +348,7 @@ foreach ($settings as $s){
 					}
 					$x++;
 				}
-			}
+					}
 			break;
 		case 'radio':
 			if (is_array($s['options']) AND !empty($s['options'])) {
@@ -381,7 +381,7 @@ foreach ($settings as $s){
 			?>
 			<textarea name="<?php echo $name; ?>" id="<?php echo $name; ?>"
 					  class="<?php echo $class; ?>"><?php echo $value; ?></textarea>
-			<?php
+					<?php
 			break;
 		case 'rte':
 			$args = apply_filters('ninja_forms_admin_metabox_rte', array());
@@ -429,7 +429,7 @@ foreach ($settings as $s){
 				}
 			}
 			break;
-	}
+			}
 
 	if ($desc != '' AND $s['type'] != 'desc') {
 		?>
@@ -437,11 +437,11 @@ foreach ($settings as $s){
 			<?php echo $desc; ?>
 		</p>
 		<?php
-	}
+			}
 	echo '</td></tr>';
 }
 
-}
+	}
 
 	if ($display_function != '') {
 		if ($form_id != '') {

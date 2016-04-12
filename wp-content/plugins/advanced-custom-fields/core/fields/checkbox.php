@@ -139,16 +139,16 @@ class acf_field_checkbox extends acf_field
 				<p><?php _e("red : Red", 'acf'); ?><br/><?php _e("blue : Blue", 'acf'); ?></p>
 			</td>
 			<td>
-				<?php
+		<?php
 
-				do_action('acf/create_field', array(
-					'type' => 'textarea',
-					'class' => 'textarea field_option-choices',
-					'name' => 'fields[' . $key . '][choices]',
-					'value' => $field['choices'],
-				));
+		do_action('acf/create_field', array(
+			'type' => 'textarea',
+			'class' => 'textarea field_option-choices',
+			'name' => 'fields[' . $key . '][choices]',
+			'value' => $field['choices'],
+		));
 
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">
@@ -190,7 +190,7 @@ class acf_field_checkbox extends acf_field
 			</td>
 		</tr>
 		<?php
-
+		
 	}
 	
 }

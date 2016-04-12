@@ -256,7 +256,7 @@ class eqEOS
 
 	/**
 	 * Solve Postfix (RPN)
-	 *
+	 * 
 	 * This function will solve a RPN array. Default action is to solve
 	 * the RPN array stored in the class from eqEOS::in2post(), can take
 	 * an array input to solve as well, though default action is prefered.
@@ -522,7 +522,7 @@ class eqGraph extends eqEOS
 				$yHigh = ($yHigh === false || $y > $yHigh) ? $y : $yHigh;
 			}
 			$xVars[$counter] = $y;
-			$counter++;
+			$counter++;			
 		}
 		if (DEBUG)
 			fclose($hand);
@@ -572,7 +572,7 @@ class eqGraph extends eqEOS
 			$y1 = (($xVars[$counter - 1] < $yLow) || ($xVars[$counter - 1] > $yHigh)) ? -1 : (abs($yHigh - $xVars[$counter - 1])) * $yScale;
 			$x2 = (abs($xLow - $i)) * $xScale;
 			$y2 = (($xVars[$counter] < $yLow) || ($xVars[$counter] > $yHigh)) ? -1 : (abs($yHigh - $xVars[$counter])) * $yScale;
-
+			
 			// if any of the y values were found to be off of the y-bounds, don't graph those connecting lines 
 			if ($y1 != -1 && $y2 != -1)
 				ImageLine($img, $x1, $y1, $x2, $y2, $black);

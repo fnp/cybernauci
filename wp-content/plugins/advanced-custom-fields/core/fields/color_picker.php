@@ -25,7 +25,7 @@ class acf_field_color_picker extends acf_field
 
 		// do not delete!
 		parent::__construct();
-
+    	
 	}
 
 
@@ -52,7 +52,7 @@ class acf_field_color_picker extends acf_field
 		$e .= '<input type="text"';
 
 		foreach ($o as $k) {
-			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';
+			$e .= ' ' . $k . '="' . esc_attr($field[$k]) . '"';	
 		}
 
 		$e .= ' />';

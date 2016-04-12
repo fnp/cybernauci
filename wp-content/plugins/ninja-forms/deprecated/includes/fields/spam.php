@@ -137,7 +137,7 @@ function ninja_forms_field_spam_pre_process($field_id, $user_value)
 		if (is_object($ninja_forms_processing)) {
 			if ($user_value != '') {
 				$ninja_forms_processing->add_error('spam-general', $spam_error, 'general');
-				$ninja_forms_processing->add_error('spam-' . $field_id, $spam_error, $field_id);
+				$ninja_forms_processing->add_error('spam-' . $field_id, $spam_error, $field_id);				
 			}
 		}
 	}

@@ -28,8 +28,8 @@ class acf_revisions
 	{
 		// actions		
 		add_action('wp_restore_post_revision', array($this, 'wp_restore_post_revision'), 10, 2);
-
-
+		
+		
 		// filters
 		add_filter('_wp_post_revision_fields', array($this, 'wp_post_revision_fields'));
 		add_filter('wp_save_post_revision_check_for_changes', array($this, 'force_save_revision'), 10, 3);
@@ -80,8 +80,8 @@ class acf_revisions
 
 	function wp_post_revision_fields($return)
 	{
-
-
+		
+		
 		//globals
 		global $post, $pagenow;
 
@@ -234,7 +234,7 @@ class acf_revisions
 
 	function wp_restore_post_revision($post_id, $revision_id)
 	{
-
+	
 		// global
 		global $wpdb;
 
@@ -245,7 +245,7 @@ class acf_revisions
 
 		// get field from postmeta
 		$rows = $wpdb->get_results($wpdb->prepare(
-			"SELECT * FROM $wpdb->postmeta WHERE post_id=%d",
+			"SELECT * FROM $wpdb->postmeta WHERE post_id=%d", 
 			$revision_id
 		), ARRAY_A);
 

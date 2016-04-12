@@ -134,7 +134,7 @@ class acf_field_date_picker extends acf_field
 					'name' => 'fields[' . $key . '][date_format]',
 					'value' => $field['date_format'],
 				));
-				?>
+		?>
 			</td>
 		</tr>
 		<tr class="field_option field_option_<?php echo $this->name; ?>">

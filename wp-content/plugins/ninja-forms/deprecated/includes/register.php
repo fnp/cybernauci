@@ -9,7 +9,7 @@ function ninja_forms_register_field($slug, $args = array())
 
 	$defaults = array(
 		'conditional' => '',
-		'default_label' => '',
+		'default_label' => '',		
 		'default_label_pos' => '',
 		'default_value' => '',
 		'display_function' => '',
@@ -122,6 +122,7 @@ function ninja_forms_register_sidebar($slug, $args)
 		'save_function' => '',
 		'settings' => ''
 	);
+
 
 
 	// Parse incomming $args into an array and merge it with $defaults
