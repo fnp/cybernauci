@@ -44,10 +44,12 @@
                                     src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_cyfryzacji.png"
                                     alt=""/><img
                                     src="<?php bloginfo('template_directory'); ?>/img/footer-logo-rzecznik_praw_dziecka.png"
+                                    alt=""/><img
+                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ore.png"
                                     alt=""/></span></p>
                         <p>Projekt jest finansowany ze środków: <img
                                 src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_edukacji_narodowej.png"
-                                alt=""/></span></p>
+                                alt=""/></p>
                     </div>
                     <div class="col-xs-12">
                         <p>Jeśli nie oznaczono inaczej, wszystkie materiały na stronie są objęte wolną licencją Creative
