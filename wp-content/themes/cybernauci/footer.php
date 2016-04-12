@@ -45,7 +45,9 @@
                                     alt=""/><img
                                     src="<?php bloginfo('template_directory'); ?>/img/footer-logo-rzecznik_praw_dziecka.png"
                                     alt=""/></span></p>
-                        <p>Projekt jest finansowany ze środków Ministra Edukacji Narodowej</p>
+                        <p>Projekt jest finansowany ze środków: <img
+                                src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_edukacji_narodowej.png"
+                                alt=""/></span></p>
                     </div>
                     <div class="col-xs-12">
                         <p>Jeśli nie oznaczono inaczej, wszystkie materiały na stronie są objęte wolną licencją Creative
