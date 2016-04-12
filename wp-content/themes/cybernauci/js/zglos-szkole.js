@@ -110,14 +110,14 @@ window.onload = function () {
             });
         },
         clearMiejscowosc = function () {
-            jQuery.each(miejscowoscList.find('options'), function () {
+            jQuery.each(miejscowoscList.find('option'), function () {
                 if (jQuery(this).attr('value').length !== 0) {
                     jQuery(this).remove();
                 }
             })
         },
         clearSzkoly = function () {
-            jQuery.each(nazwaSzkolyList.find('options'), function () {
+            jQuery.each(nazwaSzkolyList.find('option'), function () {
                 if (jQuery(this).attr('value').length !== 0) {
                     jQuery(this).remove();
                 }
