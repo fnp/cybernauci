@@ -204,7 +204,7 @@
         ownerDocument.createDocumentFragment = Function('h,f', 'return function(){' +
             'var n=f.cloneNode(),c=n.createElement;' +
             'h.shivMethods&&(' +
-                // unroll the `createElement` calls
+            // unroll the `createElement` calls
             getElements().join().replace(/[\w\-:]+/g, function (nodeName) {
                 data.createElem(nodeName);
                 data.frag.createElement(nodeName);
@@ -232,9 +232,9 @@
             data.hasCSS = !!addStyleSheet(ownerDocument,
                 // corrects block display not defined in IE6/7/8/9
                 'article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}' +
-                    // adds styling not present in IE6/7/8/9
+                // adds styling not present in IE6/7/8/9
                 'mark{background:#FF0;color:#000}' +
-                    // hides non-rendered elements
+                // hides non-rendered elements
                 'template{display:none}'
             );
         }
