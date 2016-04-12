@@ -1,6 +1,6 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
-return apply_filters( 'ninja_forms_plugin_settings_defaults', array(
+return apply_filters('ninja_forms_plugin_settings_defaults', array(
 
     'date_format' => 'm/d/Y',
     'currency_symbol' => '$',

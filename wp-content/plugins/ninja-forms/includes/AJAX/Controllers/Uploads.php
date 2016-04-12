@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 class NF_AJAX_Controllers_Uploads extends NF_Abstracts_Controller
 {
@@ -8,12 +8,12 @@ class NF_AJAX_Controllers_Uploads extends NF_Abstracts_Controller
     {
         parent::__construct();
 
-        $this->_blacklist = apply_filters( 'ninja_forms_uploads_extension_blacklist', Ninja_Forms::config( 'UploadsExtensionBlacklist' ) );
+        $this->_blacklist = apply_filters('ninja_forms_uploads_extension_blacklist', Ninja_Forms::config('UploadsExtensionBlacklist'));
 
-        add_action( 'wp_ajax_nf_async_upload', array( $this, 'upload' ) );
-        add_action( 'wp_ajax_nopriv_nf_async_upload', array( $this, 'upload' ) );
+        add_action('wp_ajax_nf_async_upload', array($this, 'upload'));
+        add_action('wp_ajax_nopriv_nf_async_upload', array($this, 'upload'));
 
-        add_action( 'nf_uploads_delete_temporary_file', array( $this, 'delete_temporary_file' ), 10, 1 );
+        add_action('nf_uploads_delete_temporary_file', array($this, 'delete_temporary_file'), 10, 1);
     }
 
     /*
@@ -22,7 +22,7 @@ class NF_AJAX_Controllers_Uploads extends NF_Abstracts_Controller
 
     public function upload()
     {
-        check_ajax_referer( 'ninja_forms_ajax_nonce', 'security' );
+        check_ajax_referer('ninja_forms_ajax_nonce', 'security');
 
         $this->_data['files'] = $_FILES;
 
@@ -31,49 +31,31 @@ class NF_AJAX_Controllers_Uploads extends NF_Abstracts_Controller
         $this->_respond();
     }
 
-    public function delete_temporary_file( $file_path )
-    {
-        unlink( $file_path );
-    }
-
-    /*
-     * PROTECTED METHODS
-     */
-
     protected function validate()
     {
-        foreach( $this->_data['files'] as $key => $file ){
+        foreach ($this->_data['files'] as $key => $file) {
 
-            if( $file['error'] ){
-                $this->_errors[] = $this->code_to_message( $file['error'] );
+            if ($file['error']) {
+                $this->_errors[] = $this->code_to_message($file['error']);
             } else {
 
                 $upload_dir = wp_upload_dir();
 
-                $new_tmp_name = $this->i_like_clean_slugs_and_i_cannot_lie( $file['name'] );
+                $new_tmp_name = $this->i_like_clean_slugs_and_i_cannot_lie($file['name']);
 
                 $file_path = $upload_dir['basedir'] . "/" . $new_tmp_name;
 
-                move_uploaded_file( $file['tmp_name'], $file_path );
+                move_uploaded_file($file['tmp_name'], $file_path);
 
-                wp_schedule_single_event( time() + 3600, 'nf_uploads_delete_temporary_file', array( $file_path ) );
+                wp_schedule_single_event(time() + 3600, 'nf_uploads_delete_temporary_file', array($file_path));
 
-                $this->_data['files'][ $key ]['tmp_name'] = $new_tmp_name;
+                $this->_data['files'][$key]['tmp_name'] = $new_tmp_name;
             }
         }
     }
 
-    /**
-     * @param $string
-     * @return string
-     */
-    protected function i_like_clean_slugs_and_i_cannot_lie( $string )
-    {
-        return 'nftmp-' . strtolower( trim( str_replace(' ', '_', $string ) ) );
-    }
-
     /*
-     * PRIVATE METHODS
+     * PROTECTED METHODS
      */
 
     /**
@@ -114,6 +96,24 @@ class NF_AJAX_Controllers_Uploads extends NF_Abstracts_Controller
                 break;
         }
         return $message;
+    }
+
+    /**
+     * @param $string
+     * @return string
+     */
+    protected function i_like_clean_slugs_and_i_cannot_lie($string)
+    {
+        return 'nftmp-' . strtolower(trim(str_replace(' ', '_', $string)));
+    }
+
+    /*
+     * PRIVATE METHODS
+     */
+
+    public function delete_temporary_file($file_path)
+    {
+        unlink($file_path);
     }
 
 

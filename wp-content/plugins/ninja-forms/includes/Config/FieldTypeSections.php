@@ -1,6 +1,6 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
-return apply_filters( 'ninja_forms_field_type_sections', array(
+return apply_filters('ninja_forms_field_type_sections', array(
 
     /*
     |--------------------------------------------------------------------------
@@ -8,11 +8,11 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
     |--------------------------------------------------------------------------
     */
 
-    'saved'             => array(
-        'id'            => 'saved',
-        'nicename'      => __( 'Saved Fields', 'ninja-forms' ),
-        'classes'       => 'nf-saved',
-        'fieldTypes'    => array(),
+    'saved' => array(
+        'id' => 'saved',
+        'nicename' => __('Saved Fields', 'ninja-forms'),
+        'classes' => 'nf-saved',
+        'fieldTypes' => array(),
     ),
 
     /*
@@ -23,7 +23,7 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
 
     'common' => array(
         'id' => 'common',
-        'nicename' => __( 'Common Fields', 'ninja-forms' ),
+        'nicename' => __('Common Fields', 'ninja-forms'),
         'fieldTypes' => array(),
     ),
 
@@ -35,7 +35,7 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
 
     'userinfo' => array(
         'id' => 'userinfo',
-        'nicename' => __( 'User Information Fields', 'ninja-forms' ),
+        'nicename' => __('User Information Fields', 'ninja-forms'),
         'fieldTypes' => array(),
     ),
 
@@ -47,7 +47,7 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
 
     'pricing' => array(
         'id' => 'pricing',
-        'nicename' => __( 'Pricing Fields', 'ninja-forms' ),
+        'nicename' => __('Pricing Fields', 'ninja-forms'),
         'fieldTypes' => array(),
     ),
 
@@ -59,7 +59,7 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
 
     'layout' => array(
         'id' => 'layout',
-        'nicename' => __( 'Layout Fields', 'ninja-forms' ),
+        'nicename' => __('Layout Fields', 'ninja-forms'),
         'fieldTypes' => array(),
     ),
 
@@ -71,7 +71,7 @@ return apply_filters( 'ninja_forms_field_type_sections', array(
 
     'misc' => array(
         'id' => 'misc',
-        'nicename' => __( 'Miscellaneous Fields', 'ninja-forms' ),
+        'nicename' => __('Miscellaneous Fields', 'ninja-forms'),
         'fieldTypes' => array(),
     ),
 ));

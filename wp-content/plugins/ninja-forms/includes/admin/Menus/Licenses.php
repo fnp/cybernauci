@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /**
  * Class NF_Admin_Menus_Licenses
@@ -9,25 +9,25 @@ final class NF_Admin_Menus_Licenses
 
     public function __construct()
     {
-        add_action( 'admin_init', array( $this, 'register_licenses' ), 10 );
-        add_action( 'admin_init', array( $this, 'submit_listener'   ), 11 );
-        add_action( 'admin_init', array( $this, 'add_meta_boxes'    ), 12 );
+        add_action('admin_init', array($this, 'register_licenses'), 10);
+        add_action('admin_init', array($this, 'submit_listener'), 11);
+        add_action('admin_init', array($this, 'add_meta_boxes'), 12);
     }
 
     public function submit_listener()
     {
-        if( ! isset( $_POST[ 'ninja_forms_license' ] ) || ! $_POST[ 'ninja_forms_license' ] ) return;
+        if (!isset($_POST['ninja_forms_license']) || !$_POST['ninja_forms_license']) return;
 
-        $key    = sanitize_text_field( $_POST[ 'ninja_forms_license' ][ 'key' ]    );
-        $name   = sanitize_text_field( $_POST[ 'ninja_forms_license' ][ 'name' ]   );
-        $action = sanitize_text_field( $_POST[ 'ninja_forms_license' ][ 'action' ] );
+        $key = sanitize_text_field($_POST['ninja_forms_license']['key']);
+        $name = sanitize_text_field($_POST['ninja_forms_license']['name']);
+        $action = sanitize_text_field($_POST['ninja_forms_license']['action']);
 
-        switch( $action ){
+        switch ($action) {
             case 'activate':
-                $this->activate_license( $name, $key );
+                $this->activate_license($name, $key);
                 break;
             case 'deactivate':
-                $this->deactivate_license( $name );
+                $this->deactivate_license($name);
                 break;
         }
     }
@@ -54,15 +54,15 @@ final class NF_Admin_Menus_Licenses
 
     public function register_licenses()
     {
-        $this->licenses = apply_filters( 'ninja_forms_settings_licenses_addons', array() );
+        $this->licenses = apply_filters('ninja_forms_settings_licenses_addons', array());
     }
 
     public function add_meta_boxes()
     {
         add_meta_box(
             'nf_settings_licenses',
-            __( 'Add-On Licenses', 'ninja-forms' ),
-            array( $this, 'display' ),
+            __('Add-On Licenses', 'ninja-forms'),
+            array($this, 'display'),
             'nf_settings_licenses'
         );
     }
@@ -70,23 +70,23 @@ final class NF_Admin_Menus_Licenses
     public function display()
     {
         $data = array();
-        foreach( $this->licenses as $license ){
+        foreach ($this->licenses as $license) {
             $data[] = array(
                 'id' => $license->product_name,
                 'name' => $license->product_nice_name,
                 'version' => $license->version,
                 'is_valid' => $license->is_valid(),
-                'license' => $this->get_license( $license->product_name ),
-                'error' => Ninja_Forms()->get_setting( $license->product_name . '_license_error' ),
+                'license' => $this->get_license($license->product_name),
+                'error' => Ninja_Forms()->get_setting($license->product_name . '_license_error'),
             );
         }
 
-        Ninja_Forms()->template( 'admin-menu-settings-licenses.html.php', array( 'licenses' => $data ) );
+        Ninja_Forms()->template('admin-menu-settings-licenses.html.php', array('licenses' => $data));
     }
 
-    private function get_license( $name )
+    private function get_license($name)
     {
-        return Ninja_Forms()->get_setting( $name . '_license' );
+        return Ninja_Forms()->get_setting($name . '_license');
     }
 
 } // End Class NF_Admin_Menus_Licenses

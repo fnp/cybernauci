@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /*************************************************************/
 // This class is not intended to be extended directly,
@@ -18,13 +18,6 @@ final class NF_Abstracts_Extension
      * @since 3.0
      */
     const VERSION = '';
-
-    /**
-     * @var NF_Abstracts_Extension
-     * @since 3.0
-     */
-    private static $instance;
-
     /**
      * Plugin Directory
      *
@@ -32,7 +25,6 @@ final class NF_Abstracts_Extension
      * @var string $dir
      */
     public static $dir = '';
-
     /**
      * Plugin URL
      *
@@ -40,7 +32,11 @@ final class NF_Abstracts_Extension
      * @var string $url
      */
     public static $url = '';
-
+    /**
+     * @var NF_Abstracts_Extension
+     * @since 3.0
+     */
+    private static $instance;
     /**
      * Form Fields
      *
@@ -86,16 +82,16 @@ final class NF_Abstracts_Extension
         }
     }
 
-    public function autoloader( $class_name )
+    public function autoloader($class_name)
     {
-        if( class_exists( $class_name ) ) return;
+        if (class_exists($class_name)) return;
 
-        if( ! $this->autoloader_prefix ) {
-            $class = explode( '_', __CLASS__ );
-            $this->autoloader_prefix = $class[ 0 ];
+        if (!$this->autoloader_prefix) {
+            $class = explode('_', __CLASS__);
+            $this->autoloader_prefix = $class[0];
         }
 
-        if ( false !== strpos( $class_name, $this->autoloader_prefix ) ) {
+        if (false !== strpos($class_name, $this->autoloader_prefix)) {
             $class_name = str_replace($this->autoloader_prefix, '', $class_name);
             $classes_dir = realpath(plugin_dir_path(__FILE__)) . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR;
             $class_file = str_replace('_', DIRECTORY_SEPARATOR, $class_name) . '.php';

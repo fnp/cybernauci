@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /*
 |--------------------------------------------------------------------------
@@ -8,6 +8,7 @@
 | Included for backwards compatibility with Visual Composer.
 |
 */
-function ninja_forms_get_all_forms(){
+function ninja_forms_get_all_forms()
+{
     return Ninja_Forms()->form()->get_forms();
 }

@@ -24,7 +24,8 @@
 </div>
 
 <div id="major-publishing-actions" class="nf-sub-actions">
-    <input name="save" type="submit" class="button button-primary button-large nf-sub-actions-save" id="publish" accesskey="p" value="<?php _e( 'Update', 'ninja-forms' ); ?>">
+    <input name="save" type="submit" class="button button-primary button-large nf-sub-actions-save" id="publish"
+           accesskey="p" value="<?php _e('Update', 'ninja-forms'); ?>">
     <span class="spinner"></span>
 </div>
 

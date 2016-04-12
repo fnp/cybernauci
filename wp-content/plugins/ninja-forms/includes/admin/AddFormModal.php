@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Add a button to tinyMCE editors when eidting posts/pages.
  *

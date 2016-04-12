@@ -1,6 +1,6 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
-return apply_filters( 'ninja_forms_merge_tags_user', array(
+return apply_filters('ninja_forms_merge_tags_user', array(
 
     /*
     |--------------------------------------------------------------------------
@@ -11,7 +11,7 @@ return apply_filters( 'ninja_forms_merge_tags_user', array(
     'user_id' => array(
         'id' => 'user_id',
         'tag' => '{user:id}',
-        'label' => __( 'User ID', 'ninja_forms' ),
+        'label' => __('User ID', 'ninja_forms'),
         'callback' => 'user_id'
     ),
 
@@ -24,7 +24,7 @@ return apply_filters( 'ninja_forms_merge_tags_user', array(
     'first_name' => array(
         'id' => 'first_name',
         'tag' => '{user:first_name}',
-        'label' => __( 'First Name', 'ninja_forms' ),
+        'label' => __('First Name', 'ninja_forms'),
         'callback' => 'user_first_name'
     ),
 
@@ -37,7 +37,7 @@ return apply_filters( 'ninja_forms_merge_tags_user', array(
     'last_name' => array(
         'id' => 'last_name',
         'tag' => '{user:last_name}',
-        'label' => __( 'Last Name', 'ninja_forms' ),
+        'label' => __('Last Name', 'ninja_forms'),
         'callback' => 'user_last_name'
     ),
 
@@ -50,7 +50,7 @@ return apply_filters( 'ninja_forms_merge_tags_user', array(
     'display_name' => array(
         'id' => 'display_name',
         'tag' => '{user:display_name}',
-        'label' => __( 'Display Name', 'ninja_forms' ),
+        'label' => __('Display Name', 'ninja_forms'),
         'callback' => 'user_display_name'
     ),
 
@@ -63,7 +63,7 @@ return apply_filters( 'ninja_forms_merge_tags_user', array(
     'user_email' => array(
         'id' => 'user_email',
         'tag' => '{user:email}',
-        'label' => __( 'Email', 'ninja_forms' ),
+        'label' => __('Email', 'ninja_forms'),
         'callback' => 'user_email'
     ),
 

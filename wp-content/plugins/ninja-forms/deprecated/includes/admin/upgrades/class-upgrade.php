@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /**
  * Class NF_Upgrade
@@ -15,7 +15,6 @@ abstract class NF_Upgrade
     public $name;
 
 
-
     /**
      * @var priority
      *
@@ -23,7 +22,6 @@ abstract class NF_Upgrade
      * Priorities are compared as version numbers that corresponds to when they were introduced.
      */
     public $priority;
-
 
 
     /**
@@ -34,14 +32,12 @@ abstract class NF_Upgrade
     public $description;
 
 
-
     /**
      * @var total_steps
      *
      * The total number of steps that need to be processed.
      */
     public $total_steps;
-
 
 
     /**
@@ -52,7 +48,6 @@ abstract class NF_Upgrade
     public $args = array();
 
 
-
     /**
      * @var errors
      *
@@ -61,16 +56,14 @@ abstract class NF_Upgrade
     public $errors = array();
 
 
-
     /**
      * Constructor
      */
     public function __construct()
     {
-        $this->nice_name = ucwords( str_replace( '_', ' ', $this->name) );
-        $this->description = __( $this->description, 'ninja-forms' );
+        $this->nice_name = ucwords(str_replace('_', ' ', $this->name));
+        $this->description = __($this->description, 'ninja-forms');
     }
-
 
 
     /**
@@ -80,27 +73,12 @@ abstract class NF_Upgrade
      */
     abstract function loading();
 
-
-
-    /**
-     * Step
-     *
-     * @param $step
-     *
-     * The step method will be called by the parent _step method.
-     */
-    abstract public function step( $step );
-
-
-
     /**
      * Complete
      *
      * The complete method will be called by the Upgrade Handler when all steps are complete.
      */
     abstract public function complete();
-
-
 
     /**
      * Is Complete
@@ -109,8 +87,6 @@ abstract class NF_Upgrade
      */
     abstract public function isComplete();
 
-
-
     /**
      * _Step
      *
@@ -118,49 +94,19 @@ abstract class NF_Upgrade
      *
      * The _step method is called by the Upgrade Handler and is a middleman for step.
      */
-    public function _step( $step )
+    public function _step($step)
     {
         $last_step = $this->getLastStep();
 
-        if( $step < $last_step ) {
+        if ($step < $last_step) {
             $step = $last_step;
         }
 
-        $this->_beforeStep( $step );
-        $this->step( $step );
-        $this->_afterStep( $step );
-        $this->setLastStep( $step );
+        $this->_beforeStep($step);
+        $this->step($step);
+        $this->_afterStep($step);
+        $this->setLastStep($step);
     }
-
-
-
-    /**
-     * Before Step
-     *
-     * @param $step
-     *
-     * The _beforeStep method is called by the _step method before calling the extended step method.
-     */
-    public function _beforeStep( $step )
-    {
-        // This method is optionally extended and is intentionally left blank.
-    }
-
-
-
-    /**
-     * After Step
-     *
-     * @param $step
-     *
-     * The _afterStep method is called by the _step method after calling the extended step method.
-     */
-    public function _afterStep( $step )
-    {
-        // This method is optionally extended and is intentionally left blank.
-    }
-
-
 
     /**
      * Get Last Step
@@ -171,10 +117,41 @@ abstract class NF_Upgrade
      */
     public function getLastStep()
     {
-        return get_option( 'nf_upgrade_' . $this->name . '_last_step', 0 );
+        return get_option('nf_upgrade_' . $this->name . '_last_step', 0);
     }
 
+    /**
+     * Before Step
+     *
+     * @param $step
+     *
+     * The _beforeStep method is called by the _step method before calling the extended step method.
+     */
+    public function _beforeStep($step)
+    {
+        // This method is optionally extended and is intentionally left blank.
+    }
 
+    /**
+     * Step
+     *
+     * @param $step
+     *
+     * The step method will be called by the parent _step method.
+     */
+    abstract public function step($step);
+
+    /**
+     * After Step
+     *
+     * @param $step
+     *
+     * The _afterStep method is called by the _step method after calling the extended step method.
+     */
+    public function _afterStep($step)
+    {
+        // This method is optionally extended and is intentionally left blank.
+    }
 
     /**
      * Set Last Step
@@ -183,9 +160,9 @@ abstract class NF_Upgrade
      *
      * @param $step
      */
-    public function setLastStep( $step )
+    public function setLastStep($step)
     {
-        update_option( 'nf_upgrade_' . $this->name . '_last_step', $step );
+        update_option('nf_upgrade_' . $this->name . '_last_step', $step);
     }
 
 }

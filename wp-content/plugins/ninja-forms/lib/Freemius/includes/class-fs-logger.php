@@ -1,179 +1,198 @@
 <?php
-	/**
-	 * @package     Freemius
-	 * @copyright   Copyright (c) 2015, Freemius, Inc.
-	 * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
-	 * @since       1.0.3
-	 */
+/**
+ * @package     Freemius
+ * @copyright   Copyright (c) 2015, Freemius, Inc.
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ * @since       1.0.3
+ */
 
-	if ( ! defined( 'ABSPATH' ) ) {
-		exit;
-	}
+if (!defined('ABSPATH')) {
+    exit;
+}
 
-	class FS_Logger {
-		private $_id;
-		private $_on = false;
-		private $_echo = false;
-		private $_file_start = 0;
+class FS_Logger
+{
+    private static $LOGGERS = array();
+    private static $LOG = array();
+    private static $CNT = 0;
+    private static $_HOOKED_FOOTER = false;
+    private $_id;
+    private $_on = false;
+    private $_echo = false;
+    private $_file_start = 0;
 
-		private static $LOGGERS = array();
-		private static $LOG = array();
-		private static $CNT = 0;
-		private static $_HOOKED_FOOTER = false;
+    private function __construct($id, $on = false, $echo = false)
+    {
+        $this->_id = $id;
 
-		private function __construct( $id, $on = false, $echo = false ) {
-			$this->_id = $id;
+        $bt = debug_backtrace();
+        $caller = $bt[2];
 
-			$bt     = debug_backtrace();
-			$caller = $bt[2];
+        $this->_file_start = strpos($caller['file'], 'plugins') + strlen('plugins/');
 
-			$this->_file_start = strpos( $caller['file'], 'plugins' ) + strlen( 'plugins/' );
+        if ($on) {
+            $this->on();
+        }
+        if ($echo) {
+            $this->echo_on();
+        }
+    }
 
-			if ( $on ) {
-				$this->on();
-			}
-			if ( $echo ) {
-				$this->echo_on();
-			}
-		}
+    function on()
+    {
+        $this->_on = true;
 
-		/**
-		 * @param string $id
-		 * @param bool   $on
-		 * @param bool   $echo
-		 *
-		 * @return FS_Logger
-		 */
-		public static function get_logger( $id, $on = false, $echo = false ) {
-			$id = strtolower( $id );
+        self::_hook_footer();
+    }
 
-			if ( ! isset( self::$LOGGERS[ $id ] ) ) {
-				self::$LOGGERS[ $id ] = new FS_Logger( $id, $on, $echo );
-			}
+    private static function _hook_footer()
+    {
+        if (self::$_HOOKED_FOOTER) {
+            return;
+        }
 
-			return self::$LOGGERS[ $id ];
-		}
+        if (is_admin()) {
+            add_action('admin_footer', 'FS_Logger::dump', 100);
+        } else {
+            add_action('wp_footer', 'FS_Logger::dump', 100);
+        }
+    }
 
-		private static function _hook_footer() {
-			if ( self::$_HOOKED_FOOTER ) {
-				return;
-			}
+    function echo_on()
+    {
+        $this->on();
 
-			if ( is_admin() ) {
-				add_action( 'admin_footer', 'FS_Logger::dump', 100 );
-			} else {
-				add_action( 'wp_footer', 'FS_Logger::dump', 100 );
-			}
-		}
+        $this->_echo = true;
+    }
 
-		function is_on() {
-			return $this->_on;
-		}
+    /**
+     * @param string $id
+     * @param bool $on
+     * @param bool $echo
+     *
+     * @return FS_Logger
+     */
+    public static function get_logger($id, $on = false, $echo = false)
+    {
+        $id = strtolower($id);
 
-		function on() {
-			$this->_on = true;
+        if (!isset(self::$LOGGERS[$id])) {
+            self::$LOGGERS[$id] = new FS_Logger($id, $on, $echo);
+        }
 
-			self::_hook_footer();
-		}
+        return self::$LOGGERS[$id];
+    }
 
-		function echo_on() {
-			$this->on();
+    static function dump()
+    {
+        ?>
+        <!-- BEGIN: Freemius PHP Console Log -->
+        <script type="text/javascript">
+            <?php
+            foreach (self::$LOG as $log) {
+                echo 'console.' . $log['type'] . '(' . json_encode(self::format($log, false)) . ')' . "\n";
+            }
+            ?>
+        </script>
+        <!-- END: Freemius PHP Console Log -->
+        <?php
+    }
 
-			$this->_echo = true;
-		}
+    private static function format($log, $show_type = true)
+    {
+        return '[' . str_pad($log['cnt'], strlen(self::$CNT), '0', STR_PAD_LEFT) . '] [' . $log['logger']->_id . '] ' . ($show_type ? '[' . $log['type'] . ']' : '') . $log['function'] . ' >> ' . $log['msg'] . (isset($log['file']) ? ' (' . substr($log['file'], $log['logger']->_file_start) . ' ' . $log['line'] . ') ' : '') . ' [' . $log['timestamp'] . ']';
+    }
 
-		function is_echo_on() {
-			return $this->_echo;
-		}
+    static function get_log()
+    {
+        return self::$LOG;
+    }
 
-		function get_id() {
-			return $this->_id;
-		}
+    function get_id()
+    {
+        return $this->_id;
+    }
 
-		function get_file() {
-			return $this->_file_start;
-		}
+    function get_file()
+    {
+        return $this->_file_start;
+    }
 
-		private function _log( &$message, $type = 'log', $wrapper ) {
-			if ( ! $this->is_on() ) {
-				return;
-			}
+    function log($message, $wrapper = false)
+    {
+        $this->_log($message, 'log', $wrapper);
+    }
 
-			$bt    = debug_backtrace();
-			$depth = $wrapper ? 3 : 2;
-			while ( $depth < count( $bt ) - 1 && 'eval' === $bt[ $depth ]['function'] ) {
-				$depth ++;
-			}
+    private function _log(&$message, $type = 'log', $wrapper)
+    {
+        if (!$this->is_on()) {
+            return;
+        }
 
-			$caller = $bt[ $depth ];
+        $bt = debug_backtrace();
+        $depth = $wrapper ? 3 : 2;
+        while ($depth < count($bt) - 1 && 'eval' === $bt[$depth]['function']) {
+            $depth++;
+        }
 
-			$log = array_merge( $caller, array(
-				'cnt'       => self::$CNT ++,
-				'logger'    => $this,
-				'timestamp' => microtime(true),
-				'type'      => $type,
-				'msg'       => $message,
-			) );
+        $caller = $bt[$depth];
 
-			self::$LOG[] = $log;
+        $log = array_merge($caller, array(
+            'cnt' => self::$CNT++,
+            'logger' => $this,
+            'timestamp' => microtime(true),
+            'type' => $type,
+            'msg' => $message,
+        ));
 
-			if ( $this->is_echo_on() ) {
-				echo self::format_html( $log ) . "\n";
-			}
-		}
+        self::$LOG[] = $log;
 
-		function log( $message, $wrapper = false ) {
-			$this->_log( $message, 'log', $wrapper );
-		}
+        if ($this->is_echo_on()) {
+            echo self::format_html($log) . "\n";
+        }
+    }
 
-		function info( $message, $wrapper = false ) {
-			$this->_log( $message, 'info', $wrapper );
-		}
+    function is_on()
+    {
+        return $this->_on;
+    }
 
-		function warn( $message, $wrapper = false ) {
-			$this->_log( $message, 'warn', $wrapper );
-		}
+    function is_echo_on()
+    {
+        return $this->_echo;
+    }
 
-		function error( $message, $wrapper = false ) {
-			$this->_log( $message, 'error', $wrapper );
-		}
+    private static function format_html($log)
+    {
+        return '<div style="font-size: 11px; padding: 3px; background: #ccc; margin-bottom: 3px;">[' . $log['cnt'] . '] [' . $log['logger']->_id . '] [' . $log['type'] . '] <b><code style="color: blue;">' . $log['function'] . '</code> >> <b style="color: darkorange;">' . $log['msg'] . '</b></b>' . (isset($log['file']) ? ' (' . substr($log['file'], $log['logger']->_file_start) . ' ' . $log['line'] . ')' : '') . ' [' . $log['timestamp'] . ']</div>';
+    }
 
-		function entrance( $message = '', $wrapper = false ) {
-			$msg = 'Entrance' . ( empty( $message ) ? '' : ' > ' ) . $message;
+    function info($message, $wrapper = false)
+    {
+        $this->_log($message, 'info', $wrapper);
+    }
 
-			$this->_log( $msg, 'log', $wrapper );
-		}
+    function warn($message, $wrapper = false)
+    {
+        $this->_log($message, 'warn', $wrapper);
+    }
 
-		function departure( $message = '', $wrapper = false ) {
-			$msg = 'Departure' . ( empty( $message ) ? '' : ' > ' ) . $message;
+    function error($message, $wrapper = false)
+    {
+        $this->_log($message, 'error', $wrapper);
+    }
 
-			$this->_log( $msg, 'log', $wrapper );
-		}
+    function entrance($message = '', $wrapper = false)
+    {
+        $msg = 'Entrance' . (empty($message) ? '' : ' > ') . $message;
 
-		private static function format( $log, $show_type = true ) {
-			return '[' . str_pad( $log['cnt'], strlen( self::$CNT ), '0', STR_PAD_LEFT ) . '] [' . $log['logger']->_id . '] ' . ( $show_type ? '[' . $log['type'] . ']' : '' ) . $log['function'] . ' >> ' . $log['msg'] . ( isset( $log['file'] ) ? ' (' . substr( $log['file'], $log['logger']->_file_start ) . ' ' . $log['line'] . ') ' : '' ) . ' [' . $log['timestamp'] . ']';
-		}
+        $this->_log($msg, 'log', $wrapper);
+    }
 
-		private static function format_html( $log ) {
-			return '<div style="font-size: 11px; padding: 3px; background: #ccc; margin-bottom: 3px;">[' . $log['cnt'] . '] [' . $log['logger']->_id . '] [' . $log['type'] . '] <b><code style="color: blue;">' . $log['function'] . '</code> >> <b style="color: darkorange;">' . $log['msg'] . '</b></b>' . ( isset( $log['file'] ) ? ' (' . substr( $log['file'], $log['logger']->_file_start ) . ' ' . $log['line'] . ')' : '' ) . ' [' . $log['timestamp'] . ']</div>';
-		}
+    function departure($message = '', $wrapper = false)
+    {
+        $msg = 'Departure' . (empty($message) ? '' : ' > ') . $message;
 
-		static function dump() {
-			?>
-			<!-- BEGIN: Freemius PHP Console Log -->
-			<script type="text/javascript">
-				<?php
-					foreach (self::$LOG as $log)
-					{
-						echo 'console.' . $log['type'] . '(' . json_encode(self::format($log, false)) . ')' . "\n";
-					}
-				?>
-			</script>
-			<!-- END: Freemius PHP Console Log -->
-		<?php
-		}
-
-		static function get_log() {
-			return self::$LOG;
-		}
-	}
+        $this->_log($msg, 'log', $wrapper);
+    }
+}

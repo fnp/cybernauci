@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 return array(
 
@@ -10,7 +10,7 @@ return array(
         'name' => 'redirect_url',
         'type' => 'textbox',
         'group' => 'primary',
-        'label' => __( 'URL', 'ninja-forms' ),
+        'label' => __('URL', 'ninja-forms'),
         'placeholder' => '',
         'width' => 'full',
         'value' => '',

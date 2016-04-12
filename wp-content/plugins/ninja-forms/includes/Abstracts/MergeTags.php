@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /**
  * Class NF_Abstracts_MergeTags
@@ -15,33 +15,33 @@ abstract class NF_Abstracts_MergeTags
 
     public function __construct()
     {
-        add_filter( 'kbj_test', array( $this, 'replace' ) );
+        add_filter('kbj_test', array($this, 'replace'));
 
-        add_filter( 'ninja_forms_render_default_value', array( $this, 'replace' ) );
+        add_filter('ninja_forms_render_default_value', array($this, 'replace'));
 
-        add_filter( 'ninja_forms_calc_setting',  array( $this, 'replace' ) );
+        add_filter('ninja_forms_calc_setting', array($this, 'replace'));
 
-        add_filter( 'ninja_forms_run_action_settings',  array( $this, 'replace' ) );
-        add_filter( 'ninja_forms_run_action_settings_preview',  array( $this, 'replace' ) );
+        add_filter('ninja_forms_run_action_settings', array($this, 'replace'));
+        add_filter('ninja_forms_run_action_settings_preview', array($this, 'replace'));
 
-        add_filter( 'ninja_forms_run_action_settings',  array( $this, 'replace' ) );
-        add_filter( 'ninja_forms_run_action_settings_preview',  array( $this, 'replace' ) );
+        add_filter('ninja_forms_run_action_settings', array($this, 'replace'));
+        add_filter('ninja_forms_run_action_settings_preview', array($this, 'replace'));
     }
 
-    public function replace( $subject )
+    public function replace($subject)
     {
-        foreach( $this->merge_tags as $merge_tag ){
+        foreach ($this->merge_tags as $merge_tag) {
 
-            if( is_array( $subject ) ){
+            if (is_array($subject)) {
 
-                foreach( $subject as $i => $s ){
-                    $subject[ $i ] = $this->replace( $s );
+                foreach ($subject as $i => $s) {
+                    $subject[$i] = $this->replace($s);
                 }
-            } elseif( FALSE !== strpos( $subject, $merge_tag[ 'tag' ] ) ){
+            } elseif (FALSE !== strpos($subject, $merge_tag['tag'])) {
 
-                $replace = ( is_callable( array( $this, $merge_tag[ 'callback' ] ) ) ) ? $this->{$merge_tag[ 'callback' ]}() : '';
+                $replace = (is_callable(array($this, $merge_tag['callback']))) ? $this->{$merge_tag['callback']}() : '';
 
-                $subject = str_replace( $merge_tag[ 'tag' ], $replace, $subject );
+                $subject = str_replace($merge_tag['tag'], $replace, $subject);
             }
         }
 

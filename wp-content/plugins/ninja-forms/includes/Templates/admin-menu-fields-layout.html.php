@@ -1,21 +1,21 @@
 <script>
-jQuery(document).ready(function($){
-    $(".nf-item-edit").click(function(){
-        $("#nf-builder").removeClass("nf-drawer-closed");
-        $("#nf-builder").addClass("nf-drawer-opened");
-        $(".nf-field-wrap:first-child").addClass("active");
-        $("#field-0 .nf-item-controls").addClass("nf-editing");
+    jQuery(document).ready(function ($) {
+        $(".nf-item-edit").click(function () {
+            $("#nf-builder").removeClass("nf-drawer-closed");
+            $("#nf-builder").addClass("nf-drawer-opened");
+            $(".nf-field-wrap:first-child").addClass("active");
+            $("#field-0 .nf-item-controls").addClass("nf-editing");
+        });
+        $(".nf-close-drawer").click(function () {
+            $("#nf-builder").removeClass("nf-drawer-opened");
+            $("#nf-builder").addClass("nf-drawer-closed");
+            $(".nf-field-wrap:first-child").removeClass("active");
+            $("#field-0 .nf-item-controls").removeClass("nf-editing");
+        });
+        $(".nf-toggle-drawer").click(function () {
+            $("#nf-drawer").toggleClass("nf-drawer-expand");
+        });
     });
-    $(".nf-close-drawer").click(function(){
-        $("#nf-builder").removeClass("nf-drawer-opened");
-        $("#nf-builder").addClass("nf-drawer-closed");
-        $(".nf-field-wrap:first-child").removeClass("active");
-        $("#field-0 .nf-item-controls").removeClass("nf-editing");
-    });
-    $(".nf-toggle-drawer").click(function(){
-        $("#nf-drawer").toggleClass("nf-drawer-expand");
-    });
-});
 </script>
 <div id="nf-builder">
     <div id="nf-header">
@@ -25,9 +25,10 @@ jQuery(document).ready(function($){
                 <li class="selected"><a class="active" href="#">Form Fields</a></li>
                 <li><a href="#">Emails & Actions</a></li>
                 <li><a href="#">Settings</a></li>
-                <li><a class="preview" href="#">Preview Changes<span class="dashicons dashicons-visibility"></span></a></li>
+                <li><a class="preview" href="#">Preview Changes<span class="dashicons dashicons-visibility"></span></a>
+                </li>
             </ul>
-            <input class="nf-button primary" type="submit" value="Publish Changes" />
+            <input class="nf-button primary" type="submit" value="Publish Changes"/>
             <a class="nf-cancel" href="#">Cancel</a>
         </div>
 
@@ -43,26 +44,26 @@ jQuery(document).ready(function($){
     <div id="nf-main">
         <!-- main content area. Where fields and actions are rendered. -->
         <div id="nf-main-header">
-            <input class="nf-button secondary" type="submit" value="Edit Emails and Actions" />
+            <input class="nf-button secondary" type="submit" value="Edit Emails and Actions"/>
         </div>
         <div id="nf-main-content">
-<a class="nf-add-new" href="#">Add new field</a>
-<?php
-for ($i=0; $i < 25; $i++) {
-    if ( 0 == $i ) {
-        $field = 'First Name *';
-    } else {
-        $field = 'Textbox';
-    }
-    echo '<div id="field-' . $i . '" class="nf-field-wrap">' . $field . '
+            <a class="nf-add-new" href="#">Add new field</a>
+            <?php
+            for ($i = 0; $i < 25; $i++) {
+                if (0 == $i) {
+                    $field = 'First Name *';
+                } else {
+                    $field = 'Textbox';
+                }
+                echo '<div id="field-' . $i . '" class="nf-field-wrap">' . $field . '
         <ul class="nf-item-controls">
             <li class="nf-item-delete"><a href="#"><span class="dashicons dashicons-dismiss"></span><span class="nf-tooltip">Delete</span></a></li>
             <li class="nf-item-duplicate"><a href="#"><span class="dashicons dashicons-admin-page"></span><span class="nf-tooltip">Duplicate</span></a></li>
             <li class="nf-item-edit"><a href="#"><span class="dashicons dashicons-admin-generic"></span><span class="nf-tooltip">Edit</span><span class="nf-item-editing">Editing field</span></a></li>
         </ul>
     </div>';
-}
-?>
+            }
+            ?>
         </div>
     </div>
 
@@ -71,16 +72,16 @@ for ($i=0; $i < 25; $i++) {
         <!-- THIS IS THE CONTENT FOR EDITING FIELDS -->
         <header class="nf-drawer-header">
             <h2><span class="dashicons dashicons-star-empty"></span>Single Line Textbox</h2>
-            <input type="submit" class="nf-button primary nf-close-drawer" value="Close" />
+            <input type="submit" class="nf-button primary nf-close-drawer" value="Close"/>
         </header>
         <section class="nf-settings">
             <div class="nf-one-half">
                 <label>Label</label>
-                <input type="text" value="First Name" />
+                <input type="text" value="First Name"/>
             </div>
             <div class="nf-one-half">
                 <label>Placeholder Text</label>
-                <input type="text" value="Enter your first name" />
+                <input type="text" value="Enter your first name"/>
             </div>
             <div class="nf-one-half">
                 <label>Label Position</label>
@@ -96,7 +97,7 @@ for ($i=0; $i < 25; $i++) {
             </div>
             <div class="nf-one-half">
                 <label>Required Field</label>
-                <input type="checkbox" class="nf-toggle" />
+                <input type="checkbox" class="nf-toggle"/>
             </div>
         </section>
         <section class="nf-settings">
@@ -115,7 +116,7 @@ for ($i=0; $i < 25; $i++) {
                 <fieldset>
                     <legend>Limit input to this number</legend>
                     <div class="nf-one-half">
-                        <input type="text" value="140" />
+                        <input type="text" value="140"/>
                     </div>
                     <div class="nf-one-half">
                         <div class="nf-select">
@@ -127,7 +128,7 @@ for ($i=0; $i < 25; $i++) {
                     </div>
                     <div class="nf-full">
                         <label>Text to appear after counter</label>
-                        <input type="text" value="character(s) left" />
+                        <input type="text" value="character(s) left"/>
                     </div>
                 </fieldset>
             </div>
@@ -140,7 +141,8 @@ for ($i=0; $i < 25; $i++) {
         </section>
 
         <a class="nf-toggle-drawer">
-            <span class="dashicons dashicons-admin-collapse"></span><span class="nf-expand-off">Full screen</span><span class="nf-expand-on">Half screen</span>
+            <span class="dashicons dashicons-admin-collapse"></span><span class="nf-expand-off">Full screen</span><span
+                class="nf-expand-on">Half screen</span>
         </a>
     </div>
 

@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 return array(
 
@@ -10,12 +10,12 @@ return array(
         'name' => 'label',
         'type' => 'textbox',
         'group' => 'primary',
-        'label' => __( 'Action Name', 'ninja-forms' ),
+        'label' => __('Action Name', 'ninja-forms'),
         'placeholder' => '',
         'width' => 'full',
         'value' => '',
-        
-    ),    
+
+    ),
 
     /*
      * Active
@@ -24,7 +24,7 @@ return array(
     'active' => array(
         'name' => 'active',
         'type' => 'toggle',
-        'label' => __( 'Active', 'ninja-forms' ),
+        'label' => __('Active', 'ninja-forms'),
         'value' => 1
     ),
 

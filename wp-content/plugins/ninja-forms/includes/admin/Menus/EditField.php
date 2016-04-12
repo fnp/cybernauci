@@ -2,7 +2,7 @@
 
 final class NF_Admin_Menus_EditField extends NF_Abstracts_Submenu
 {
-    public $parent_slug = 'ninja-forms';    
+    public $parent_slug = 'ninja-forms';
 
     public $page_title = 'Edit Field';
 

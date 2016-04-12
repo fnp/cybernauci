@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 /**
  * Class NF_Abstracts_Action
@@ -8,7 +8,7 @@ abstract class NF_Abstracts_Action
     /**
      * @var string
      */
-    protected $_name  = '';
+    protected $_name = '';
 
     /**
      * @var string
@@ -48,7 +48,7 @@ abstract class NF_Abstracts_Action
     /**
      * @var array
      */
-    protected $_settings_all = array( 'label', 'active' );
+    protected $_settings_all = array('label', 'active');
 
     /**
      * @var array
@@ -65,26 +65,72 @@ abstract class NF_Abstracts_Action
      */
     public function __construct()
     {
-        if( ! empty( $this->_settings_only ) ){
+        if (!empty($this->_settings_only)) {
 
-            $this->_settings = array_merge( $this->_settings, $this->_settings_only );
+            $this->_settings = array_merge($this->_settings, $this->_settings_only);
         } else {
 
-            $this->_settings = array_merge( $this->_settings_all, $this->_settings );
-            $this->_settings = array_diff( $this->_settings, $this->_settings_exclude );
+            $this->_settings = array_merge($this->_settings_all, $this->_settings);
+            $this->_settings = array_diff($this->_settings, $this->_settings_exclude);
         }
 
-        $this->_settings = $this->load_settings( $this->_settings );
+        $this->_settings = $this->load_settings($this->_settings);
     }
 
     //-----------------------------------------------------
     // Public Methods
     //-----------------------------------------------------
 
+    protected function load_settings($only_settings = array())
+    {
+        $settings = array();
+
+        // Loads a settings array from the FieldSettings configuration file.
+        $all_settings = Ninja_Forms::config('ActionSettings');
+
+        foreach ($only_settings as $setting) {
+
+            if (isset($all_settings[$setting])) {
+
+                $settings[$setting] = $all_settings[$setting];
+            }
+        }
+
+        return $settings;
+    }
+
+    /**
+     * Sort Actions
+     *
+     * A static method for sorting two actions by timing, then priority.
+     *
+     * @param $a
+     * @param $b
+     * @return int
+     */
+    public static function sort_actions($a, $b)
+    {
+        if (!isset(Ninja_Forms()->actions[$a->get_setting('type')])) return 1;
+        if (!isset(Ninja_Forms()->actions[$b->get_setting('type')])) return 1;
+
+        $a->timing = Ninja_Forms()->actions[$a->get_setting('type')]->get_timing();
+        $a->priority = Ninja_Forms()->actions[$a->get_setting('type')]->get_priority();
+
+        $b->timing = Ninja_Forms()->actions[$b->get_setting('type')]->get_timing();
+        $b->priority = Ninja_Forms()->actions[$b->get_setting('type')]->get_priority();
+
+        // Compare Priority if Timing is the same
+        if ($a->timing == $b->timing)
+            return $a->priority > $b->priority ? 1 : -1;
+
+        // Compare Timing
+        return $a->timing < $b->timing ? 1 : -1;
+    }
+
     /**
      * Save
      */
-    public function save( $action_settings )
+    public function save($action_settings)
     {
         // This section intentionally left blank.
     }
@@ -92,7 +138,7 @@ abstract class NF_Abstracts_Action
     /**
      * Process
      */
-    public abstract function process( $action_id, $form_id, $data );
+    public abstract function process($action_id, $form_id, $data);
 
     /**
      * Get Timing
@@ -103,9 +149,9 @@ abstract class NF_Abstracts_Action
      */
     public function get_timing()
     {
-        $timing = array( 'early' => '1', 'normal' => '0', 'late' => '-1' );
+        $timing = array('early' => '1', 'normal' => '0', 'late' => '-1');
 
-        return $timing[ $this->_timing ];
+        return $timing[$this->_timing];
     }
 
     /**
@@ -178,52 +224,6 @@ abstract class NF_Abstracts_Action
     public function get_settings()
     {
         return $this->_settings;
-    }
-
-    /**
-     * Sort Actions
-     *
-     * A static method for sorting two actions by timing, then priority.
-     *
-     * @param $a
-     * @param $b
-     * @return int
-     */
-    public static function sort_actions( $a, $b )
-    {
-        if( ! isset( Ninja_Forms()->actions[ $a->get_setting( 'type' ) ] ) ) return 1;
-        if( ! isset( Ninja_Forms()->actions[ $b->get_setting( 'type' ) ] ) ) return 1;
-
-        $a->timing   = Ninja_Forms()->actions[ $a->get_setting( 'type' ) ]->get_timing();
-        $a->priority = Ninja_Forms()->actions[ $a->get_setting( 'type' ) ]->get_priority();
-
-        $b->timing   = Ninja_Forms()->actions[ $b->get_setting( 'type' ) ]->get_timing();
-        $b->priority = Ninja_Forms()->actions[ $b->get_setting( 'type' ) ]->get_priority();
-
-        // Compare Priority if Timing is the same
-        if( $a->timing == $b->timing)
-            return $a->priority > $b->priority ? 1 : -1;
-
-        // Compare Timing
-        return $a->timing < $b->timing ? 1 : -1;
-    }
-
-    protected function load_settings( $only_settings = array() )
-    {
-        $settings = array();
-
-        // Loads a settings array from the FieldSettings configuration file.
-        $all_settings = Ninja_Forms::config( 'ActionSettings' );
-
-        foreach( $only_settings as $setting ){
-
-            if( isset( $all_settings[ $setting ]) ){
-
-                $settings[ $setting ] = $all_settings[ $setting ];
-            }
-        }
-
-        return $settings;
     }
 
 } // END CLASS NF_Abstracts_Action

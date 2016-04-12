@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 abstract class NF_Abstracts_Controller
 {
@@ -38,15 +38,15 @@ abstract class NF_Abstracts_Controller
      *
      * A wrapper for the WordPress AJAX response pattern.
      */
-    protected function _respond( $data = array() )
+    protected function _respond($data = array())
     {
-        if( empty( $data ) ){
+        if (empty($data)) {
             $data = $this->_data;
         }
 
-        $response = array( 'errors' => $this->_errors, 'data' => $data );
+        $response = array('errors' => $this->_errors, 'data' => $data);
 
-        echo wp_json_encode( $response );
+        echo wp_json_encode($response);
 
         wp_die(); // this is required to terminate immediately and return a proper response
     }

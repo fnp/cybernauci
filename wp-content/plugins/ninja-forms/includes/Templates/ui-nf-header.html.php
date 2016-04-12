@@ -7,7 +7,7 @@
             <li><a href="#">Settings</a></li>
             <li><a class="preview" href="#">Preview Changes<span class="dashicons dashicons-visibility"></span></a></li>
         </ul>
-        <input class="nf-button primary" type="submit" value="Save" />
+        <input class="nf-button primary" type="submit" value="Save"/>
         <a class="nf-mobile" href="#"><span class="dashicons dashicons-editor-ul"></span></a>
         <a class="nf-cancel" href="#">Cancel</a>
     </div>

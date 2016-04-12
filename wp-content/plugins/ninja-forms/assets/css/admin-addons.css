@@ -14,6 +14,7 @@
     width: 300px;
     position: relative;
 }
+
 .nf-extend img {
     margin-bottom: 10px;
     max-width: 100%;
@@ -48,6 +49,7 @@
     width: 300px;
     height: 350px;
 }
+
 .branch-3-8 .nf-extend {
     background: #fff;
 }

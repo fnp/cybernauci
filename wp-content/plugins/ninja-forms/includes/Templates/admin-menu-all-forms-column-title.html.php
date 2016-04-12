@@ -1,7 +1,7 @@
-<?php if( ! $locked ): ?>
-<a href="<?php echo $edit_url; ?>">
-    <strong><?php echo $title; ?></strong>
-</a>
+<?php if (!$locked): ?>
+    <a href="<?php echo $edit_url; ?>">
+        <strong><?php echo $title; ?></strong>
+    </a>
 <?php else: ?>
     <strong><?php echo $title; ?></strong>
 <?php endif; ?>
@@ -10,10 +10,10 @@
 
 
     <span class="edit">
-        <?php if( ! $locked ): ?>
-        <a href="<?php echo $edit_url; ?>"><?php _e( 'Edit', 'ninja-forms' ); ?></a> |
+        <?php if (!$locked): ?>
+            <a href="<?php echo $edit_url; ?>"><?php _e('Edit', 'ninja-forms'); ?></a> |
         <?php else: ?>
-        <span><?php _e( 'Edit', 'ninja-forms' ); ?></span> |
+            <span><?php _e('Edit', 'ninja-forms'); ?></span> |
         <?php endif; ?>
     </span>
 
@@ -27,10 +27,10 @@
     </span>
 
     <span class="bleep">
-        <?php if( ! $locked ): ?>
-            <a href="<?php echo $preview_url; ?>"><?php _e( 'Preview Form', 'ninja-forms' ); ?></a> |
+        <?php if (!$locked): ?>
+            <a href="<?php echo $preview_url; ?>"><?php _e('Preview Form', 'ninja-forms'); ?></a> |
         <?php else: ?>
-            <span><?php _e( 'Preview Form', 'ninja-forms' ); ?></span> |
+            <span><?php _e('Preview Form', 'ninja-forms'); ?></span> |
         <?php endif; ?>
     </span>
 

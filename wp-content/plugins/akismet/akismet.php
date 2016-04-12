@@ -33,8 +33,8 @@ Copyright 2005-2015 Automattic, Inc.
 
 // Make sure we don't expose any info if called directly
 if (!function_exists('add_action')) {
-	echo 'Hi there!  I\'m just a plugin, not much I can do when called directly.';
-	exit;
+    echo 'Hi there!  I\'m just a plugin, not much I can do when called directly.';
+    exit;
 }
 
 define('AKISMET_VERSION', '3.1.10');
@@ -51,8 +51,8 @@ require_once(AKISMET__PLUGIN_DIR . 'class.akismet-widget.php');
 add_action('init', array('Akismet', 'init'));
 
 if (is_admin()) {
-	require_once(AKISMET__PLUGIN_DIR . 'class.akismet-admin.php');
-	add_action('init', array('Akismet_Admin', 'init'));
+    require_once(AKISMET__PLUGIN_DIR . 'class.akismet-admin.php');
+    add_action('init', array('Akismet_Admin', 'init'));
 }
 
 //add wrapper class around deprecated akismet functions that are referenced elsewhere

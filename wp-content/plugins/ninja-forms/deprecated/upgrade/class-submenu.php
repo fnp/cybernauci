@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 class NF_THREE_Submenu
 {
@@ -53,14 +53,14 @@ class NF_THREE_Submenu
      */
     public function __construct()
     {
-        $this->menu_title = __( 'Upgrade', 'ninja-forms' );
-        $this->page_title = __( 'Upgrade to Ninja Forms THREE', 'ninja-forms' );
+        $this->menu_title = __('Upgrade', 'ninja-forms');
+        $this->page_title = __('Upgrade to Ninja Forms THREE', 'ninja-forms');
 
-        $this->capability = apply_filters( 'submenu_' . $this->menu_slug . '_capability', $this->capability );
+        $this->capability = apply_filters('submenu_' . $this->menu_slug . '_capability', $this->capability);
 
-        add_action( 'admin_menu', array( $this, 'register' ), $this->priority );
+        add_action('admin_menu', array($this, 'register'), $this->priority);
 
-        add_action( 'wp_ajax_ninja_forms_upgrade_check', array( $this, 'upgrade_check' ) );
+        add_action('wp_ajax_ninja_forms_upgrade_check', array($this, 'upgrade_check'));
     }
 
     /**
@@ -68,15 +68,15 @@ class NF_THREE_Submenu
      */
     public function register()
     {
-        if( ! ninja_forms_three_calc_check() ) return;
-        if( ! ninja_forms_three_addons_version_check() ) return;
+        if (!ninja_forms_three_calc_check()) return;
+        if (!ninja_forms_three_addons_version_check()) return;
 
-        if( ! ninja_forms_three_addons_check() ){
+        if (!ninja_forms_three_addons_check()) {
             // Hide the submenu
             $this->parent_slug = '';
         }
 
-        $function = ( $this->function ) ? array( $this, $this->function ) : NULL;
+        $function = ($this->function) ? array($this, $this->function) : NULL;
 
         add_submenu_page(
             $this->parent_slug,
@@ -95,44 +95,44 @@ class NF_THREE_Submenu
     {
         $all_forms = Ninja_Forms()->forms()->get_all();
 
-        wp_enqueue_style( 'ninja-forms-three-upgrade-styles', plugin_dir_url(__FILE__) . 'upgrade.css' );
+        wp_enqueue_style('ninja-forms-three-upgrade-styles', plugin_dir_url(__FILE__) . 'upgrade.css');
 
-        wp_enqueue_script( 'ninja-forms-three-upgrade', plugin_dir_url(__FILE__) . 'upgrade.js', array( 'jquery', 'wp-util' ), '', TRUE );
-        wp_localize_script( 'ninja-forms-three-upgrade', 'nfThreeUpgrade', array(
+        wp_enqueue_script('ninja-forms-three-upgrade', plugin_dir_url(__FILE__) . 'upgrade.js', array('jquery', 'wp-util'), '', TRUE);
+        wp_localize_script('ninja-forms-three-upgrade', 'nfThreeUpgrade', array(
             'forms' => $all_forms,
-            'redirectURL' => admin_url( 'admin.php?page=ninja-forms&nf-switcher=upgrade' ),
-        ) );
+            'redirectURL' => admin_url('admin.php?page=ninja-forms&nf-switcher=upgrade'),
+        ));
 
-        include plugin_dir_path( __FILE__ ) . 'tmpl-submenu.html.php';
+        include plugin_dir_path(__FILE__) . 'tmpl-submenu.html.php';
     }
 
     public function upgrade_check()
     {
-        if( ! isset( $_POST[ 'formID' ] ) ) $this->respond( array( 'error' => 'Form ID not found.' ) );
+        if (!isset($_POST['formID'])) $this->respond(array('error' => 'Form ID not found.'));
 
-        $form_id = absint( $_POST[ 'formID' ] );
+        $form_id = absint($_POST['formID']);
 
         $can_upgrade = TRUE;
 
-        $fields = Ninja_Forms()->form( $form_id )->fields;
-        $settings = Ninja_Forms()->form( $form_id )->get_all_settings();
+        $fields = Ninja_Forms()->form($form_id)->fields;
+        $settings = Ninja_Forms()->form($form_id)->get_all_settings();
 
-        foreach( $fields as $field ){
-            if( '_calc' == $field[ 'type' ] ){
+        foreach ($fields as $field) {
+            if ('_calc' == $field['type']) {
                 $can_upgrade = FALSE;
             }
         }
 
-        $this->respond( array(
+        $this->respond(array(
             'id' => $form_id,
-            'title' => $settings[ 'form_title' ],
+            'title' => $settings['form_title'],
             'canUpgrade' => $can_upgrade
-        ) );
+        ));
     }
 
-    private function respond( $response =  array() )
+    private function respond($response = array())
     {
-        echo wp_json_encode( $response );
+        echo wp_json_encode($response);
         wp_die(); // this is required to terminate immediately and return a proper response
     }
 }

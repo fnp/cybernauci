@@ -1,4 +1,4 @@
-<?php if ( ! defined( 'ABSPATH' ) ) exit;
+<?php if (!defined('ABSPATH')) exit;
 
 abstract class NF_Abstracts_Metabox
 {
@@ -20,13 +20,13 @@ abstract class NF_Abstracts_Metabox
 
     public function __construct()
     {
-        $this->_id = strtolower( get_class( $this ) );
+        $this->_id = strtolower(get_class($this));
 
-        $this->_title = __( 'Metabox', 'ninja-forms' );
+        $this->_title = __('Metabox', 'ninja-forms');
 
-        add_action( 'save_post', array( $this, '_save_post' ) );
+        add_action('save_post', array($this, '_save_post'));
 
-        add_action( 'add_meta_boxes', array( $this, 'add_meta_boxes' ) );
+        add_action('add_meta_boxes', array($this, 'add_meta_boxes'));
     }
 
     public function add_meta_boxes()
@@ -34,7 +34,7 @@ abstract class NF_Abstracts_Metabox
         add_meta_box(
             $this->_id,
             $this->_title,
-            array( $this, $this->_callback ),
+            array($this, $this->_callback),
             $this->_post_types,
             $this->_context,
             $this->_priority,
@@ -42,17 +42,17 @@ abstract class NF_Abstracts_Metabox
         );
     }
 
-    abstract public function render_metabox( $post, $metabox );
+    abstract public function render_metabox($post, $metabox);
 
-    public function _save_post( $post_id )
+    public function _save_post($post_id)
     {
         // If this is an autosave, our form has not been submitted, so we don't want to do anything.
-        if ( defined( 'DOING_AUTOSAVE' ) && DOING_AUTOSAVE ) return;
+        if (defined('DOING_AUTOSAVE') && DOING_AUTOSAVE) return;
 
-        $this->save_post( $post_id );
+        $this->save_post($post_id);
     }
 
-    protected function save_post( $post_id )
+    protected function save_post($post_id)
     {
         // This section intentionally left blank.
     }

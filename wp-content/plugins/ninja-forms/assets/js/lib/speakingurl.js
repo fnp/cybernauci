@@ -1354,8 +1354,7 @@
 
                 lastCharWasSymbol = false;
                 lastCharWasDiatric = false;
-            } else
-            if (ch in diatricMap) {
+            } else if (ch in diatricMap) {
                 diatricString += ch;
                 ch = '';
                 // end of string, put the whole meaningful word
@@ -1365,10 +1364,10 @@
                 lastCharWasDiatric = true;
             } else if (
                 // process symbol chars
-                symbol[ch] && !(uricFlag && uricChars.join('')
-                    .indexOf(ch) !== -1) && !(uricNoSlashFlag && uricNoSlashChars.join('')
-                    //.indexOf(ch) !== -1) && !(markFlag && markChars.join('')
-                    .indexOf(ch) !== -1)) {
+            symbol[ch] && !(uricFlag && uricChars.join('')
+                .indexOf(ch) !== -1) && !(uricNoSlashFlag && uricNoSlashChars.join('')
+                //.indexOf(ch) !== -1) && !(markFlag && markChars.join('')
+                .indexOf(ch) !== -1)) {
 
                 ch = lastCharWasSymbol || result.substr(-1).match(/[A-Za-z0-9]/) ? separator + symbol[ch] : symbol[ch];
                 ch += input[i + 1] !== void 0 && input[i + 1].match(/[A-Za-z0-9]/) ? separator : '';
@@ -1477,7 +1476,8 @@
                 root.getSlug = getSlug;
                 root.createSlug = createSlug;
             }
-        } catch (e) {}
+        } catch (e) {
+        }
 
     }
 })(this);
