@@ -98,7 +98,7 @@ window.onload = function () {
                             szkolaAddNew.modal('show')
                         } else {
                             main.find('.hidden_szkola_id').val(szkola.attr('data-id'));
-                            main.find('.hidden_szkola_nazwa').val(szkola.val());
+                            main.find('.hidden_szkola_nazwa').val(szkola.attr('value'));
                             if (szkola.attr('data-ulica').length) szkolaUlica.val(szkola.attr('data-ulica'));
                             if (szkola.attr('data-numer').length) szkolaNumer.val(szkola.attr('data-numer'));
                             if (szkola.attr('data-kod').length) szkolaKod.val(szkola.attr('data-kod'));
