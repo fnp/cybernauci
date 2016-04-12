@@ -1,8 +1,8 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
-if (!class_exists('WP_List_Table')) {
+if( ! class_exists( 'WP_List_Table' ) ){
 
-    if (file_exists(ABSPATH . 'wp-admin/includes/class-wp-list-table.php')) {
+    if( file_exists( ABSPATH . 'wp-admin/includes/class-wp-list-table.php' ) ) {
 
         require_once(ABSPATH . 'wp-admin/includes/class-wp-list-table.php');
     } else {
@@ -14,14 +14,13 @@ if (!class_exists('WP_List_Table')) {
 class NF_Admin_AllFormsTable extends WP_List_Table
 {
     /** Class constructor */
-    public function __construct()
-    {
+    public function __construct() {
 
-        parent::__construct(array(
-            'singular' => __('Form', 'ninja-forms'), //singular name of the listed records
-            'plural' => __('Forms', 'ninja-forms'), //plural name of the listed records
-            'ajax' => false //should this table support ajax?
-        ));
+        parent::__construct( array(
+            'singular' => __( 'Form', 'ninja-forms' ), //singular name of the listed records
+            'plural'   => __( 'Forms', 'ninja-forms' ), //plural name of the listed records
+            'ajax'     => false //should this table support ajax?
+        ) );
     }
 
     public static function process_bulk_action()
@@ -80,9 +79,8 @@ class NF_Admin_AllFormsTable extends WP_List_Table
         $form->delete();
     }
 
-    public function no_items()
-    {
-        _e('No forms found.', 'ninja-forms');
+    public function no_items() {
+        _e( 'No forms found.', 'ninja-forms' );
     }
 
     /**
@@ -97,18 +95,18 @@ class NF_Admin_AllFormsTable extends WP_List_Table
         $sortable = $this->get_sortable_columns();
 
         $data = $this->table_data();
-        usort($data, array(&$this, 'sort_data'));
+        usort( $data, array( &$this, 'sort_data' ) );
 
         $perPage = 20;
         $currentPage = $this->get_pagenum();
         $totalItems = count($data);
 
-        $this->set_pagination_args(array(
+        $this->set_pagination_args( array(
             'total_items' => $totalItems,
-            'per_page' => $perPage
-        ));
+            'per_page'    => $perPage
+        ) );
 
-        $data = array_slice($data, (($currentPage - 1) * $perPage), $perPage);
+        $data = array_slice($data,(($currentPage-1)*$perPage),$perPage);
 
         $this->_column_headers = array($columns, $hidden, $sortable);
         $this->items = $data;
@@ -122,10 +120,10 @@ class NF_Admin_AllFormsTable extends WP_List_Table
     public function get_columns()
     {
         $columns = array(
-            'cb' => '<input type="checkbox" />',
-            'title' => 'Form Title',
+            'cb'        => '<input type="checkbox" />',
+            'title'     => 'Form Title',
             'shortcode' => 'Shortcode',
-            'date' => 'Date Created'
+            'date'      => 'Date Created'
         );
 
         return $columns;
@@ -149,8 +147,8 @@ class NF_Admin_AllFormsTable extends WP_List_Table
     public function get_sortable_columns()
     {
         return array(
-            'title' => array('title', TRUE),
-            'date' => array('updated', TRUE),
+            'title' => array( 'title',   TRUE ),
+            'date'  => array( 'updated', TRUE ),
         );
     }
 
@@ -165,14 +163,14 @@ class NF_Admin_AllFormsTable extends WP_List_Table
 
         $forms = Ninja_Forms()->form()->get_forms();
 
-        foreach ($forms as $form) {
+        foreach( $forms as $form ){
 
-            $data[] = array(
-                'id' => $form->get_id(),
-                'title' => $form->get_setting('title'),
-                'shortcode' => '[ninja_form id=' . $form->get_id() . ']',
-                'date' => $form->get_setting('created_at')
-            );
+             $data[] = array(
+                 'id'        => $form->get_id(),
+                 'title'     => $form->get_setting( 'title' ),
+                 'shortcode' => '[ninja_form id=' . $form->get_id() . ']',
+                 'date'      => $form->get_setting( 'created_at' )
+             );
         }
 
         return $data;
@@ -181,57 +179,57 @@ class NF_Admin_AllFormsTable extends WP_List_Table
     /**
      * Define what data to show on each column of the table
      *
-     * @param  Array $item Data
+     * @param  Array $item        Data
      * @param  String $column_name - Current column name
      *
      * @return Mixed
      */
-    public function column_default($item, $column_name)
+    public function column_default( $item, $column_name )
     {
-        switch ($column_name) {
+        switch( $column_name ) {
             case 'title':
             case 'shortcode':
             case 'date':
-                return $item[$column_name];
+                return $item[ $column_name ];
 
             default:
-                return print_r($item, true);
+                return print_r( $item, true ) ;
         }
     }
 
-    function column_cb($item)
+    function column_cb( $item )
     {
         return sprintf(
             '<input type="checkbox" name="bulk-delete[]" value="%s" />', $item['id']
         );
     }
 
-    function column_title($item)
+    function column_title( $item )
     {
-        $title = $item['title'];
-        $edit_url = add_query_arg('form_id', $item['id'], admin_url('admin.php?page=ninja-forms'));
-        $delete_url = add_query_arg(array('action' => 'delete', 'id' => $item['id'], '_wpnonce' => wp_create_nonce('nf_delete_form')));
-        $duplicate_url = add_query_arg(array('action' => 'duplicate', 'id' => $item['id'], '_wpnonce' => wp_create_nonce('nf_duplicate_form')));
-        $preview_url = add_query_arg('nf_preview_form', $item['id'], site_url());
-        $submissions_url = add_query_arg('form_id', $item['id'], admin_url('edit.php?post_type=nf_sub'));
+        $title = $item[ 'title' ];
+        $edit_url = add_query_arg( 'form_id', $item[ 'id' ], admin_url( 'admin.php?page=ninja-forms') );
+        $delete_url = add_query_arg( array( 'action' => 'delete', 'id' => $item[ 'id' ], '_wpnonce' => wp_create_nonce( 'nf_delete_form' )));
+        $duplicate_url = add_query_arg( array( 'action' => 'duplicate', 'id' => $item[ 'id' ], '_wpnonce' => wp_create_nonce( 'nf_duplicate_form' )));
+        $preview_url = add_query_arg( 'nf_preview_form', $item[ 'id' ], site_url() );
+        $submissions_url = add_query_arg( 'form_id', $item[ 'id' ], admin_url( 'edit.php?post_type=nf_sub') );
 
-        $form = Ninja_Forms()->form($item['id'])->get();
-        $locked = $form->get_setting('lock');
+        $form = Ninja_Forms()->form( $item[ 'id' ] )->get();
+        $locked = $form->get_setting( 'lock' );
 
-        Ninja_Forms::template('admin-menu-all-forms-column-title.html.php', compact('title', 'edit_url', 'delete_url', 'duplicate_url', 'preview_url', 'submissions_url', 'locked'));
+        Ninja_Forms::template( 'admin-menu-all-forms-column-title.html.php', compact( 'title', 'edit_url', 'delete_url', 'duplicate_url', 'preview_url', 'submissions_url', 'locked' ) );
     }
 
-    public function single_row($item)
+    public function single_row( $item )
     {
-        $form = Ninja_Forms()->form($item['id'])->get();
-        $locked = $form->get_setting('lock');
+        $form = Ninja_Forms()->form( $item[ 'id' ] )->get();
+        $locked = $form->get_setting( 'lock' );
 
-        if ($locked) {
+        if( $locked ) {
             echo '<tr class="flagged">';
         } else {
             echo '<tr>';
         }
-        $this->single_row_columns($item);
+        $this->single_row_columns( $item );
         echo '</tr>';
     }
 

@@ -39,9 +39,9 @@
     <?php endforeach; ?>
     </tbody>
     <thead>
-    <tr>
-        <th colspan="2"><?php _e('Plugins', 'ninja-forms'); ?></th>
-    </tr>
+        <tr>
+            <th colspan="2"><?php _e('Plugins', 'ninja-forms'); ?></th>
+        </tr>
     </thead>
     <tbody>
     <tr>

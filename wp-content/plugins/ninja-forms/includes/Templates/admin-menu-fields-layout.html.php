@@ -5,7 +5,7 @@
             $("#nf-builder").addClass("nf-drawer-opened");
             $(".nf-field-wrap:first-child").addClass("active");
             $("#field-0 .nf-item-controls").addClass("nf-editing");
-        });
+    });
         $(".nf-close-drawer").click(function () {
             $("#nf-builder").removeClass("nf-drawer-opened");
             $("#nf-builder").addClass("nf-drawer-closed");

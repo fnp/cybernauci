@@ -7,51 +7,51 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 define('WP_FS__SLUG', 'freemius');
 if (!defined('WP_FS__DEV_MODE')) {
-    define('WP_FS__DEV_MODE', false);
+	define('WP_FS__DEV_MODE', false);
 }
 
 /**
  * API Connectivity Simulation
  */
 if (!defined('WP_FS__SIMULATE_NO_API_CONNECTIVITY')) {
-    define('WP_FS__SIMULATE_NO_API_CONNECTIVITY', false);
+	define('WP_FS__SIMULATE_NO_API_CONNECTIVITY', false);
 }
 if (!defined('WP_FS__SIMULATE_NO_CURL')) {
-    define('WP_FS__SIMULATE_NO_CURL', false);
+	define('WP_FS__SIMULATE_NO_CURL', false);
 }
 if (!defined('WP_FS__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE')) {
-    define('WP_FS__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE', false);
+	define('WP_FS__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE', false);
 }
 if (!defined('WP_FS__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL')) {
-    define('WP_FS__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL', false);
+	define('WP_FS__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL', false);
 }
 if (WP_FS__SIMULATE_NO_CURL) {
-    define('FS_SDK__SIMULATE_NO_CURL', true);
+	define('FS_SDK__SIMULATE_NO_CURL', true);
 }
 if (WP_FS__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE) {
-    define('FS_SDK__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE', true);
+	define('FS_SDK__SIMULATE_NO_API_CONNECTIVITY_CLOUDFLARE', true);
 }
 if (WP_FS__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL) {
-    define('FS_SDK__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL', true);
+	define('FS_SDK__SIMULATE_NO_API_CONNECTIVITY_SQUID_ACL', true);
 }
 
 if (!defined('WP_FS__PING_API_ON_IP_OR_HOST_CHANGES')) {
-    /**
-     * @since  1.1.7.3
-     * @author Vova Feldman (@svovaf)
-     *
-     * I'm not sure if shared servers periodically change IP, or the subdomain of the
-     * admin dashboard. Also, I've seen sites that have strange loop of switching
-     * between domains on a daily basis. Therefore, to eliminate the risk of
-     * multiple unwanted connectivity test pings, temporary ignore domain or
-     * server IP changes.
-     */
-    define('WP_FS__PING_API_ON_IP_OR_HOST_CHANGES', false);
+	/**
+	 * @since  1.1.7.3
+	 * @author Vova Feldman (@svovaf)
+	 *
+	 * I'm not sure if shared servers periodically change IP, or the subdomain of the
+	 * admin dashboard. Also, I've seen sites that have strange loop of switching
+	 * between domains on a daily basis. Therefore, to eliminate the risk of
+	 * multiple unwanted connectivity test pings, temporary ignore domain or
+	 * server IP changes.
+	 */
+	define('WP_FS__PING_API_ON_IP_OR_HOST_CHANGES', false);
 }
 
 /**
@@ -60,8 +60,8 @@ if (!defined('WP_FS__PING_API_ON_IP_OR_HOST_CHANGES')) {
  * and uncomment it during dev.
  */
 if (!defined('WP_FS__LOCALHOST_IP')) {
-    // VVV default public network IP.
-    define('WP_FS__VVV_DEFAULT_PUBLIC_IP', '192.168.50.4');
+	// VVV default public network IP.
+	define('WP_FS__VVV_DEFAULT_PUBLIC_IP', '192.168.50.4');
 
 //		define( 'WP_FS__LOCALHOST_IP', WP_FS__VVV_DEFAULT_PUBLIC_IP );
 }
@@ -79,7 +79,7 @@ if (!defined('WP_FS__LOCALHOST_IP')) {
  *      CLOCK IS SYNCED.
  */
 if (!defined('WP_FS__SKIP_EMAIL_ACTIVATION')) {
-    define('WP_FS__SKIP_EMAIL_ACTIVATION', false);
+	define('WP_FS__SKIP_EMAIL_ACTIVATION', false);
 }
 
 
@@ -103,72 +103,72 @@ define('WP_FS__DOMAIN_PRODUCTION', 'wp.freemius.com');
 define('WP_FS__ADDRESS_PRODUCTION', 'https://' . WP_FS__DOMAIN_PRODUCTION);
 
 if (!defined('WP_FS__DOMAIN_LOCALHOST')) {
-    define('WP_FS__DOMAIN_LOCALHOST', 'wp.freemius');
+	define('WP_FS__DOMAIN_LOCALHOST', 'wp.freemius');
 }
 if (!defined('WP_FS__ADDRESS_LOCALHOST')) {
-    define('WP_FS__ADDRESS_LOCALHOST', 'http://' . WP_FS__DOMAIN_LOCALHOST . ':8080');
+	define('WP_FS__ADDRESS_LOCALHOST', 'http://' . WP_FS__DOMAIN_LOCALHOST . ':8080');
 }
 
 if (!defined('WP_FS__TESTING_DOMAIN')) {
-    define('WP_FS__TESTING_DOMAIN', 'fswp');
+	define('WP_FS__TESTING_DOMAIN', 'fswp');
 }
 
 if (!defined('WP_FS__API_ADDRESS_LOCALHOST')) {
-    define('WP_FS__API_ADDRESS_LOCALHOST', 'http://api.freemius:8080');
+	define('WP_FS__API_ADDRESS_LOCALHOST', 'http://api.freemius:8080');
 }
 if (!defined('WP_FS__API_SANDBOX_ADDRESS_LOCALHOST')) {
-    define('WP_FS__API_SANDBOX_ADDRESS_LOCALHOST', 'http://sandbox-api.freemius:8080');
+	define('WP_FS__API_SANDBOX_ADDRESS_LOCALHOST', 'http://sandbox-api.freemius:8080');
 }
 
 define('WP_FS__IS_HTTP_REQUEST', isset($_SERVER['HTTP_HOST']));
 define('WP_FS__REMOTE_ADDR', fs_get_ip());
 
 if (!defined('WP_FS__IS_PRODUCTION_MODE')) {
-    // By default, run with Freemius production servers.
-    define('WP_FS__IS_PRODUCTION_MODE', true);
+	// By default, run with Freemius production servers.
+	define('WP_FS__IS_PRODUCTION_MODE', true);
 }
 
 define('WP_FS__ADDRESS', (WP_FS__IS_PRODUCTION_MODE ? WP_FS__ADDRESS_PRODUCTION : WP_FS__ADDRESS_LOCALHOST));
 
 if (defined('WP_FS__LOCALHOST_IP')) {
-    define('WP_FS__IS_LOCALHOST', (WP_FS__LOCALHOST_IP === WP_FS__REMOTE_ADDR));
+	define('WP_FS__IS_LOCALHOST', (WP_FS__LOCALHOST_IP === WP_FS__REMOTE_ADDR));
 } else {
-    define('WP_FS__IS_LOCALHOST', WP_FS__IS_HTTP_REQUEST &&
-        is_string(WP_FS__REMOTE_ADDR) &&
-        (substr(WP_FS__REMOTE_ADDR, 0, 4) == '127.' ||
-            WP_FS__REMOTE_ADDR == '::1')
-    );
+	define('WP_FS__IS_LOCALHOST', WP_FS__IS_HTTP_REQUEST &&
+		is_string(WP_FS__REMOTE_ADDR) &&
+		(substr(WP_FS__REMOTE_ADDR, 0, 4) == '127.' ||
+			WP_FS__REMOTE_ADDR == '::1')
+	);
 }
 
 define('WP_FS__IS_LOCALHOST_FOR_SERVER', (!WP_FS__IS_HTTP_REQUEST ||
-    false !== strpos($_SERVER['HTTP_HOST'], 'localhost')));
+	false !== strpos($_SERVER['HTTP_HOST'], 'localhost')));
 
 // Set API address for local testing.
 if (!WP_FS__IS_PRODUCTION_MODE) {
-    define('FS_API__ADDRESS', WP_FS__API_ADDRESS_LOCALHOST);
-    define('FS_API__SANDBOX_ADDRESS', WP_FS__API_SANDBOX_ADDRESS_LOCALHOST);
+	define('FS_API__ADDRESS', WP_FS__API_ADDRESS_LOCALHOST);
+	define('FS_API__SANDBOX_ADDRESS', WP_FS__API_SANDBOX_ADDRESS_LOCALHOST);
 }
 
 define('WP_FS___OPTION_PREFIX', 'fs' . (WP_FS__IS_PRODUCTION_MODE ? '' : '_dbg') . '_');
 
 if (!defined('WP_FS__ACCOUNTS_OPTION_NAME')) {
-    define('WP_FS__ACCOUNTS_OPTION_NAME', WP_FS___OPTION_PREFIX . 'accounts');
+	define('WP_FS__ACCOUNTS_OPTION_NAME', WP_FS___OPTION_PREFIX . 'accounts');
 }
 if (!defined('WP_FS__API_CACHE_OPTION_NAME')) {
-    define('WP_FS__API_CACHE_OPTION_NAME', WP_FS___OPTION_PREFIX . 'api_cache');
+	define('WP_FS__API_CACHE_OPTION_NAME', WP_FS___OPTION_PREFIX . 'api_cache');
 }
 define('WP_FS__OPTIONS_OPTION_NAME', WP_FS___OPTION_PREFIX . 'options');
 
 define('WP_FS__IS_HTTPS', (WP_FS__IS_HTTP_REQUEST &&
-        // Checks if CloudFlare's HTTPS (Flexible SSL support)
-        isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && 'https' === strtolower($_SERVER['HTTP_X_FORWARDED_PROTO'])) ||
-    // Check if HTTPS request.
-    (isset($_SERVER['HTTPS']) && 'on' == $_SERVER['HTTPS']) ||
-    (isset($_SERVER['SERVER_PORT']) && 443 == $_SERVER['SERVER_PORT'])
+		// Checks if CloudFlare's HTTPS (Flexible SSL support)
+		isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && 'https' === strtolower($_SERVER['HTTP_X_FORWARDED_PROTO'])) ||
+	// Check if HTTPS request.
+	(isset($_SERVER['HTTPS']) && 'on' == $_SERVER['HTTPS']) ||
+	(isset($_SERVER['SERVER_PORT']) && 443 == $_SERVER['SERVER_PORT'])
 );
 
 define('WP_FS__IS_POST_REQUEST', (WP_FS__IS_HTTP_REQUEST &&
-    strtoupper($_SERVER['REQUEST_METHOD']) == 'POST'));
+	strtoupper($_SERVER['REQUEST_METHOD']) == 'POST'));
 
 /**
  * Billing Frequencies
@@ -196,21 +196,21 @@ define('WP_FS__TIME_24_HOURS_IN_SEC', 86400);
  * Debugging
  */
 if (!defined('WP_FS__DEBUG_SDK')) {
-    $debug_mode = get_option('fs_debug_mode');
-    define('WP_FS__DEBUG_SDK', is_numeric($debug_mode) ? (0 < $debug_mode) : WP_FS__DEV_MODE);
+	$debug_mode = get_option('fs_debug_mode');
+	define('WP_FS__DEBUG_SDK', is_numeric($debug_mode) ? (0 < $debug_mode) : WP_FS__DEV_MODE);
 }
 
 define('WP_FS__ECHO_DEBUG_SDK', WP_FS__DEV_MODE && !empty($_GET['fs_dbg_echo']));
 define('WP_FS__LOG_DATETIME_FORMAT', 'Y-n-d H:i:s');
 if (!defined('FS_API__LOGGER_ON')) {
-    define('FS_API__LOGGER_ON', WP_FS__DEBUG_SDK);
+	define('FS_API__LOGGER_ON', WP_FS__DEBUG_SDK);
 }
 
 if (WP_FS__ECHO_DEBUG_SDK) {
-    error_reporting(E_ALL);
-    ini_set('error_reporting', E_ALL);
-    ini_set('display_errors', true);
-    ini_set('html_errors', true);
+	error_reporting(E_ALL);
+	ini_set('error_reporting', E_ALL);
+	ini_set('display_errors', true);
+	ini_set('html_errors', true);
 }
 
 

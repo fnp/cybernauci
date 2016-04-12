@@ -68,7 +68,7 @@
                                                 foreach ($setting['options'] as $option) {
                                                     $selected = ($setting['value'] == $option['value']) ? 'selected="selected"' : '';
                                                     echo "<option value='{$option['value']}' {$selected}>{$option['label']}</option>";
-                                                }
+                                            }
                                                 echo "</select>";
                                                 break;
                                         }
@@ -80,7 +80,7 @@
                                         if (isset($setting['errors'])) {
                                             foreach ($setting['errors'] as $error_id => $error) {
                                                 echo "<div id='$error_id' class='error'><p>$error</p></div>";
-                                            }
+                                        }
                                         }
                                         ?>
                                     </td>
@@ -88,7 +88,7 @@
                                 </tbody>
                                 <?php endforeach; ?>
                             </table>
-                        </div>
+                    </div>
                     </div>
                 <?php endforeach; ?>
 

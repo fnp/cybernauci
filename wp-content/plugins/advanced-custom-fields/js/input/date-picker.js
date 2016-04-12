@@ -1,131 +1,131 @@
 (function ($) {
 
-    /*
-     *  Date Picker
-     *
-     *  static model for this field
-     *
-     *  @type	event
-     *  @date	1/06/13
-     *
-     */
+	/*
+	 *  Date Picker
+	 *
+	 *  static model for this field
+	 *
+	 *  @type	event
+	 *  @date	1/06/13
+	 *
+	 */
 
-    acf.fields.date_picker = {
+	acf.fields.date_picker = {
 
-        $el: null,
-        $input: null,
-        $hidden: null,
+		$el: null,
+		$input: null,
+		$hidden: null,
 
-        o: {},
+		o: {},
 
-        set: function (o) {
+		set: function (o) {
 
-            // merge in new option
-            $.extend(this, o);
-
-
-            // find input
-            this.$input = this.$el.find('input[type="text"]');
-            this.$hidden = this.$el.find('input[type="hidden"]');
+			// merge in new option
+			$.extend(this, o);
 
 
-            // get options
-            this.o = acf.helpers.get_atts(this.$el);
+			// find input
+			this.$input = this.$el.find('input[type="text"]');
+			this.$hidden = this.$el.find('input[type="hidden"]');
 
 
-            // return this for chaining
-            return this;
-
-        },
-        init: function () {
-
-            // is clone field?
-            if (acf.helpers.is_clone_field(this.$hidden)) {
-                return;
-            }
+			// get options
+			this.o = acf.helpers.get_atts(this.$el);
 
 
-            // get and set value from alt field
-            this.$input.val(this.$hidden.val());
+			// return this for chaining
+			return this;
+
+		},
+		init: function () {
+
+			// is clone field?
+			if (acf.helpers.is_clone_field(this.$hidden)) {
+				return;
+			}
 
 
-            // create options
-            var options = $.extend({}, acf.l10n.date_picker, {
-                dateFormat: this.o.save_format,
-                altField: this.$hidden,
-                altFormat: this.o.save_format,
-                changeYear: true,
-                yearRange: "-100:+100",
-                changeMonth: true,
-                showButtonPanel: true,
-                firstDay: this.o.first_day
-            });
+			// get and set value from alt field
+			this.$input.val(this.$hidden.val());
 
 
-            // add date picker
-            this.$input.addClass('active').datepicker(options);
+			// create options
+			var options = $.extend({}, acf.l10n.date_picker, {
+				dateFormat: this.o.save_format,
+				altField: this.$hidden,
+				altFormat: this.o.save_format,
+				changeYear: true,
+				yearRange: "-100:+100",
+				changeMonth: true,
+				showButtonPanel: true,
+				firstDay: this.o.first_day
+			});
 
 
-            // now change the format back to how it should be.
-            this.$input.datepicker("option", "dateFormat", this.o.display_format);
+			// add date picker
+			this.$input.addClass('active').datepicker(options);
 
 
-            // wrap the datepicker (only if it hasn't already been wrapped)
-            if ($('body > #ui-datepicker-div').length > 0) {
-                $('#ui-datepicker-div').wrap('<div class="ui-acf" />');
-            }
-
-        },
-        blur: function () {
-
-            if (!this.$input.val()) {
-                this.$hidden.val('');
-            }
-
-        }
-
-    };
+			// now change the format back to how it should be.
+			this.$input.datepicker("option", "dateFormat", this.o.display_format);
 
 
-    /*
-     *  acf/setup_fields
-     *
-     *  run init function on all elements for this field
-     *
-     *  @type	event
-     *  @date	20/07/13
-     *
-     *  @param	{object}	e		event object
-     *  @param	{object}	el		DOM object which may contain new ACF elements
-     *  @return	N/A
-     */
+			// wrap the datepicker (only if it hasn't already been wrapped)
+			if ($('body > #ui-datepicker-div').length > 0) {
+				$('#ui-datepicker-div').wrap('<div class="ui-acf" />');
+			}
 
-    $(document).on('acf/setup_fields', function (e, el) {
+		},
+		blur: function () {
 
-        $(el).find('.acf-date_picker').each(function () {
+			if (!this.$input.val()) {
+				this.$hidden.val('');
+			}
 
-            acf.fields.date_picker.set({$el: $(this)}).init();
+		}
 
-        });
-
-    });
+	};
 
 
-    /*
-     *  Events
-     *
-     *  jQuery events for this field
-     *
-     *  @type	event
-     *  @date	1/06/13
-     *
-     */
+	/*
+	 *  acf/setup_fields
+	 *
+	 *  run init function on all elements for this field
+	 *
+	 *  @type	event
+	 *  @date	20/07/13
+	 *
+	 *  @param	{object}	e		event object
+	 *  @param	{object}	el		DOM object which may contain new ACF elements
+	 *  @return	N/A
+	 */
 
-    $(document).on('blur', '.acf-date_picker input[type="text"]', function (e) {
+	$(document).on('acf/setup_fields', function (e, el) {
 
-        acf.fields.date_picker.set({$el: $(this).parent()}).blur();
+		$(el).find('.acf-date_picker').each(function () {
 
-    });
+			acf.fields.date_picker.set({$el: $(this)}).init();
 
+		});
+
+	});
+
+
+	/*
+	 *  Events
+	 *
+	 *  jQuery events for this field
+	 *
+	 *  @type	event
+	 *  @date	1/06/13
+	 *
+	 */
+
+	$(document).on('blur', '.acf-date_picker input[type="text"]', function (e) {
+
+		acf.fields.date_picker.set({$el: $(this).parent()}).blur();
+
+	});
+	
 
 })(jQuery);

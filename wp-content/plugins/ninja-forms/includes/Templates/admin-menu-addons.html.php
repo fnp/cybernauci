@@ -16,7 +16,7 @@
 
     <?php
     $u_id = get_option('nf_aff', false);
-    if (!$u_id) $u_id = apply_filters('ninja_forms_affiliate_id', false);
+    if (!$u_id) $u_id = apply_filters('ninja_forms_affiliate_id', false); 
     ?>
 
     <?php foreach ($items as $item): ?>
@@ -27,7 +27,7 @@
             $last_slash = strripos($link, '/');
             $link = substr($link, 0, $last_slash);
             $link = urlencode($link);
-            $link = 'http://www.shareasale.com/r.cfm?u=' . $u_id . '&b=812237&m=63061&afftrack=&urllink=' . $link;
+            $link = 'http://www.shareasale.com/r.cfm?u=' . $u_id . '&b=812237&m=63061&afftrack=&urllink=' . $link;            
         }
         ?>
 
@@ -63,12 +63,12 @@
 
                             <span class="button-secondary nf-button"><?php _e('Installed', 'ninja-forms'); ?></span>
 
-                        <?php else: ?>
+                    <?php else: ?>
 
                             <a href="<?php echo $link; ?>" title="<?php echo $item['title']; ?>"
                                class="button-primary nf-button"><?php _e('Learn More', 'ninja-forms'); ?></a>
 
-                        <?php endif; ?>
+                    <?php endif; ?>
 
                     <?php else: ?>
 
@@ -77,9 +77,9 @@
 
                     <?php endif; ?>
 
-                </div>
-
             </div>
+
+        </div>
 
         </div>
 

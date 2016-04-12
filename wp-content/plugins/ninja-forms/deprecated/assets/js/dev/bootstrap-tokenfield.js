@@ -78,7 +78,7 @@
             $.each(elRules, function (i, rule) {
                 if (rule.style.width) {
                     elCSSWidth = rule.style.width;
-                }
+        }
             });
         }
 
@@ -553,7 +553,7 @@
             if ($.inArray(e.charCode, this._triggerKeys) !== -1 && this.$input.is(document.activeElement)) {
                 if (this.$input.val()) {
                     this.createTokensFromInput(e)
-                }
+        }
                 return false;
             }
         }
@@ -596,7 +596,7 @@
 
                 if (this.options.showAutocompleteOnFocus) {
                     this.search()
-                }
+        }
             }
         }
 
@@ -879,7 +879,7 @@
                 var mirrorWidth = this.$mirror.width() + 10;
                 if (mirrorWidth > this.$wrapper.width()) {
                     return this.$input.width(this.$wrapper.width())
-                }
+        }
 
                 this.$input.width(mirrorWidth)
             }

@@ -7,21 +7,21 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 class FS_Plugin_Tag extends FS_Entity
 {
-    public $version;
-    public $url;
+	public $version;
+	public $url;
 
-    function __construct($tag = false)
-    {
-        parent::__construct($tag);
-    }
+	function __construct($tag = false)
+	{
+		parent::__construct($tag);
+	}
 
-    static function get_type()
-    {
-        return 'tag';
-    }
+	static function get_type()
+	{
+		return 'tag';
+	}
 }

@@ -7,11 +7,11 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 if (!WP_FS__DEBUG_SDK) {
-    return;
+	return;
 }
 
 /**
@@ -23,31 +23,31 @@ if (!WP_FS__DEBUG_SDK) {
  */
 function fs_custom_panels_init($panels)
 {
-    if (class_exists('Debug_Bar_Panel')) {
-        if (FS_API__LOGGER_ON) {
-            require_once dirname(__FILE__) . '/class-fs-debug-bar-panel.php';
-            $panels[] = new Freemius_Debug_Bar_Panel();
-        }
-    }
+	if (class_exists('Debug_Bar_Panel')) {
+		if (FS_API__LOGGER_ON) {
+			require_once dirname(__FILE__) . '/class-fs-debug-bar-panel.php';
+			$panels[] = new Freemius_Debug_Bar_Panel();
+		}
+	}
 
-    return $panels;
+	return $panels;
 }
 
 function fs_custom_status_init($statuses)
 {
-    if (class_exists('Debug_Bar_Panel')) {
-        if (FS_API__LOGGER_ON) {
-            require_once dirname(__FILE__) . '/class-fs-debug-bar-panel.php';
-            $statuses[] = array(
-                'fs_api_requests',
-                __fs('Freemius API'),
-                Freemius_Debug_Bar_Panel::requests_count() . ' ' . __fs('Requests') .
-                ' (' . Freemius_Debug_Bar_Panel::total_time() . ')'
-            );
-        }
-    }
+	if (class_exists('Debug_Bar_Panel')) {
+		if (FS_API__LOGGER_ON) {
+			require_once dirname(__FILE__) . '/class-fs-debug-bar-panel.php';
+			$statuses[] = array(
+				'fs_api_requests',
+				__fs('Freemius API'),
+				Freemius_Debug_Bar_Panel::requests_count() . ' ' . __fs('Requests') .
+				' (' . Freemius_Debug_Bar_Panel::total_time() . ')'
+			);
+		}
+	}
 
-    return $statuses;
+	return $statuses;
 }
 
 add_filter('debug_bar_panels', 'fs_custom_panels_init');

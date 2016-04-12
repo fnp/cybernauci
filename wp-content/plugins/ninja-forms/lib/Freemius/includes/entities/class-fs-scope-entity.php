@@ -7,25 +7,25 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 class FS_Scope_Entity extends FS_Entity
 {
-    /**
-     * @var string
-     */
-    public $public_key;
-    /**
-     * @var string
-     */
-    public $secret_key;
+	/**
+	 * @var string
+	 */
+	public $public_key;
+	/**
+	 * @var string
+	 */
+	public $secret_key;
 
-    /**
-     * @param bool|stdClass $scope_entity
-     */
-    function __construct($scope_entity = false)
-    {
-        parent::__construct($scope_entity);
-    }
+	/**
+	 * @param bool|stdClass $scope_entity
+	 */
+	function __construct($scope_entity = false)
+	{
+		parent::__construct($scope_entity);
+	}
 }

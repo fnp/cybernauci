@@ -1,11 +1,10 @@
 <?php
-
-/**
- * Thrown when an API call returns an exception.
- *
- */
+    /**
+     * Thrown when an API call returns an exception.
+     *
+     */
 class Freemius_Exception extends Exception
-{
+    {
     protected $_result;
     protected $_type;
     protected $_code;
@@ -36,7 +35,7 @@ class Freemius_Exception extends Exception
         $this->_code = $code;
 
         parent::__construct($message, is_numeric($code) ? $code : 0);
-    }
+        }
 
     /**
      * Return the associated result object returned by the API server.
@@ -72,4 +71,4 @@ class Freemius_Exception extends Exception
     {
         return $this->_code;
     }
-}
+    }

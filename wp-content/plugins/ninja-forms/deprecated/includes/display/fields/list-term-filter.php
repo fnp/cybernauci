@@ -49,7 +49,7 @@ if (!function_exists('ninja_forms_field_filter_populate_term')) {
                 $selected_term = '';
             }
             if ($field_data['list_type'] == 'dropdown') {
-                $tmp_array = array(array('label' => __('- Select One', 'ninja-forms'), 'value' => ''));
+                $tmp_array = array(array('label' => __('- Select One', 'ninja-forms'), 'value' => ''));  
             } else {
                 $tmp_array = array();
             }
@@ -68,7 +68,7 @@ if (!function_exists('ninja_forms_field_filter_populate_term')) {
                     'child_of' => $parent_term->term_id
                 );
                 foreach (get_terms($taxonomies, $child_args) as $child_term) {
-                    $tmp_array[] = array('label' => '&nbsp;&nbsp;&nbsp;&nbsp;' . $child_term->name, 'value' => $child_term->term_id);
+                    $tmp_array[] = array('label' => '&nbsp;&nbsp;&nbsp;&nbsp;' . $child_term->name, 'value' => $child_term->term_id); 
                 }
 
             }

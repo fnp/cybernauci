@@ -338,7 +338,6 @@ class NF_Notifications_List_Table extends WP_List_Table
             $result = strcmp($a[$orderby], $b[$orderby]); //Determine sort order
             return ($order === 'asc') ? $result : -$result; //Send final sort direction to usort
         }
-
         usort($data, 'usort_reorder');
 
 
@@ -378,6 +377,7 @@ class NF_Notifications_List_Table extends WP_List_Table
          * array_slice() to
          */
         $data = array_slice($data, (($current_page - 1) * $per_page), $per_page);
+
 
 
         /**

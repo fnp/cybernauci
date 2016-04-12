@@ -11,7 +11,6 @@
  */
 // Exit if accessed directly
 if (!defined('ABSPATH')) exit;
-
 /**
  * NF_Session Class
  *
@@ -35,7 +34,6 @@ class NF_Session
      * @since 2.9.18
      */
     private $prefix = '';
-
     /**
      * Get things started
      *
@@ -64,7 +62,6 @@ class NF_Session
         add_action('plugins_loaded', array($this, 'init'), -1);
 
     }
-
     /**
      * Setup the WP_Session instance
      *
@@ -77,7 +74,6 @@ class NF_Session
         $this->session = WP_Session::get_instance();
         return $this->session;
     }
-
     /**
      * Retrieve session ID
      *
@@ -89,7 +85,6 @@ class NF_Session
     {
         return $this->session->session_id;
     }
-
     /**
      * Retrieve a session variable
      *
@@ -103,7 +98,6 @@ class NF_Session
         $key = sanitize_key($key);
         return isset($this->session[$key]) ? maybe_unserialize($this->session[$key]) : false;
     }
-
     /**
      * Set a session variable
      *
@@ -148,7 +142,6 @@ class NF_Session
     {
         return 60 * 23;
     }
-
     /**
      * Force the cookie expiration time to 24 minutes
      *

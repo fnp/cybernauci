@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_Note
@@ -23,16 +23,16 @@ class NF_Fields_Note extends NF_Fields_Hidden
     {
         parent::__construct();
 
-        $this->_settings['label']['width'] = 'full';
-        $this->_settings['default']['group'] = 'primary';
-        $this->_settings['default']['type'] = 'textarea';
+        $this->_settings[ 'label' ][ 'width' ] = 'full';
+        $this->_settings[ 'default' ][ 'group' ] = 'primary';
+        $this->_settings[ 'default' ][ 'type' ] = 'textarea';
 
-        $this->_nicename = __('Note', 'ninja-forms');
+        $this->_nicename = __( 'Note', 'ninja-forms' );
 
-        add_filter('nf_sub_hidden_field_types', array($this, 'hide_field_type'));
+        add_filter( 'nf_sub_hidden_field_types', array( $this, 'hide_field_type' ) );
     }
 
-    function hide_field_type($field_types)
+    function hide_field_type( $field_types )
     {
         $field_types[] = $this->_name;
         return $field_types;

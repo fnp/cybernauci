@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_RadioList
@@ -11,6 +11,8 @@ class NF_Fields_ListRadio extends NF_Abstracts_List
 
     protected $_section = 'common';
 
+    protected $_icon = 'dot-circle-o';
+
     protected $_templates = 'listradio';
 
     protected $_old_classname = 'list-radio';
@@ -19,6 +21,6 @@ class NF_Fields_ListRadio extends NF_Abstracts_List
     {
         parent::__construct();
 
-        $this->_nicename = __('Radio List', 'ninja-forms');
+        $this->_nicename = __( 'Radio List', 'ninja-forms' );
     }
 }

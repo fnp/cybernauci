@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_CreditCardCVC
@@ -20,12 +20,12 @@ class NF_Fields_CreditCardCVC extends NF_Abstracts_Input
     {
         parent::__construct();
 
-        $this->_nicename = __('Credit Card CVC', 'ninja-forms');
+        $this->_nicename = __( 'Credit Card CVC', 'ninja-forms' );
 
-        add_filter('nf_sub_hidden_field_types', array($this, 'hide_field_type'));
+        add_filter( 'nf_sub_hidden_field_types', array( $this, 'hide_field_type' ) );
     }
 
-    function hide_field_type($field_types)
+    function hide_field_type( $field_types )
     {
         $field_types[] = $this->_name;
 

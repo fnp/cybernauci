@@ -7,47 +7,47 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 class FS_Pricing extends FS_Entity
 {
 
-    #region Properties
+	#region Properties
 
-    /**
-     * @var number
-     */
-    public $plan_id;
-    /**
-     * @var int
-     */
-    public $licenses;
-    /**
-     * @var null|float
-     */
-    public $monthly_price;
-    /**
-     * @var null|float
-     */
-    public $annual_price;
-    /**
-     * @var null|float
-     */
-    public $lifetime_price;
+	/**
+	 * @var number
+	 */
+	public $plan_id;
+	/**
+	 * @var int
+	 */
+	public $licenses;
+	/**
+	 * @var null|float
+	 */
+	public $monthly_price;
+	/**
+	 * @var null|float
+	 */
+	public $annual_price;
+	/**
+	 * @var null|float
+	 */
+	public $lifetime_price;
 
-    #endregion Properties
+	#endregion Properties
 
-    /**
-     * @param object|bool $pricing
-     */
-    function __construct($pricing = false)
-    {
-        parent::__construct($pricing);
-    }
+	/**
+	 * @param object|bool $pricing
+	 */
+	function __construct($pricing = false)
+	{
+		parent::__construct($pricing);
+	}
 
-    static function get_type()
-    {
-        return 'pricing';
-    }
+	static function get_type()
+	{
+		return 'pricing';
+	}
 }

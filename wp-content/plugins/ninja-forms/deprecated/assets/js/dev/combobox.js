@@ -121,7 +121,7 @@
                                     $.ui.autocomplete.escapeRegex(request.term) +
                                     ")(?![^<>]*>)(?![^&;]+;)", "gi"),
                                 "<strong>$1</strong>");
-                        }
+                    }
                         return optionData;
                     }
                 })
@@ -161,7 +161,7 @@
                                 iContains++;
                                 optContains = $(this);
                                 iSelected = iSelectCtr;
-                            }
+                        }
                         }
                     });
 
@@ -187,7 +187,7 @@
 
                             this.element.prop('selectedIndex', -1);
                         }
-                    }
+                }
                 }
 
                 this._trigger("change", event, {

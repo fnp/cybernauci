@@ -462,7 +462,7 @@ return apply_filters('ninja_forms_field_settings', array(
         'width' => 'full',
         'group' => 'administration',
         'value' => '',
-        'help' => __('Label used when viewing and exporting submissions.', 'ninja-forms'),
+        'help' => __('Label used when viewing and exporting submissions.', 'ninja-forms'),        
     ),
 
     /*
@@ -509,7 +509,7 @@ return apply_filters('ninja_forms_field_settings', array(
                 'name' => 'desc_text',
                 'type' => 'rte',
                 'label' => '',
-                'width' => 'full',
+                'width' => 'full',   
             ),
 
             /*
@@ -523,19 +523,19 @@ return apply_filters('ninja_forms_field_settings', array(
                     array(
                         'label' => __('None', 'ninja-forms'),
                         'value' => 'none',
-                    ),
+                    ),            
                     array(
                         'label' => __('Before Everything', 'ninja-forms'),
                         'value' => 'before_everything',
-                    ),
+                    ),           
                     array(
                         'label' => __('Before Label', 'ninja-forms'),
                         'value' => 'before_label',
-                    ),
+                    ),            
                     array(
                         'label' => __('After Label', 'ninja-forms'),
                         'value' => 'after_label',
-                    ),
+                    ),            
                     array(
                         'label' => __('After Everything', 'ninja-forms'),
                         'value' => 'after_everything',

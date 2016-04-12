@@ -15,7 +15,7 @@
 
         $(".nf-toggle-drawer").click(function () {
             $("#nf-drawer").toggleClass("nf-drawer-expand");
-        });
+    });
         $(".nf-mobile").click(function () {
             $("#nf-builder").toggleClass("nf-menu-expand");
         });

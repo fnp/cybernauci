@@ -1,8 +1,8 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 final class NF_Admin_Menus_EditSettings extends NF_Abstracts_Submenu
 {
-    public $parent_slug = 'ninja-forms';
+    public $parent_slug = 'ninja-forms';    
 
     public $page_title = 'Edit Settings';
 
@@ -15,8 +15,8 @@ final class NF_Admin_Menus_EditSettings extends NF_Abstracts_Submenu
 
     public function display()
     {
-        Ninja_Forms::template('admin-menu-edit-settings.html.php');
-        wp_enqueue_style('nf-builder', Ninja_Forms::$url . 'assets/css/builder.css');
+        Ninja_Forms::template( 'admin-menu-edit-settings.html.php' );
+        wp_enqueue_style( 'nf-builder', Ninja_Forms::$url . 'assets/css/builder.css' );
     }
 
 }

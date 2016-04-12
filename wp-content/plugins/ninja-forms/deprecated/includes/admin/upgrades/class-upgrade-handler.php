@@ -118,6 +118,7 @@ class NF_UpgradeHandler
     }
 
 
+
     /*
      * UTILITY METHODS
      */
@@ -146,5 +147,4 @@ function NF_UpgradeHandler()
 {
     return NF_UpgradeHandler::instance();
 }
-
 NF_UpgradeHandler();

@@ -22,7 +22,7 @@
             var_dump($form->get_settings());
             echo "</pre>";
         }
-    }
+        }
 
     ?>
 

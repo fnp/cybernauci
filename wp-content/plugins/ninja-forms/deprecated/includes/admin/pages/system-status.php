@@ -9,6 +9,6 @@
 
 function ninja_forms_tab_system_status()
 {
-    // Display the system status!
-    include("system-status-html.php");
+	// Display the system status!
+	include("system-status-html.php");
 }

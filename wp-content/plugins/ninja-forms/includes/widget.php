@@ -1,5 +1,4 @@
 <?php if (!defined('ABSPATH')) exit;
-
 /**
  * Adds Ninja Forms widget.
  */

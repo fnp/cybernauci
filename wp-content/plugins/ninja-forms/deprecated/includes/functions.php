@@ -2,17 +2,17 @@
 
 function ninja_forms_return_echo($function_name)
 {
-    $arguments = func_get_args();
+	$arguments = func_get_args();
     array_shift($arguments); // We need to remove the first arg ($function_name)
     ob_start();
     call_user_func_array($function_name, $arguments);
-    $return = ob_get_clean();
-    return $return;
+	$return = ob_get_clean();
+	return $return;
 }
 
 function ninja_forms_random_string($length = 10)
 {
-    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+	$characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
     $random_string = '';
     for ($i = 0; $i < $length; $i++) {
         $random_string .= $characters[rand(0, strlen($characters) - 1)];
@@ -23,48 +23,48 @@ function ninja_forms_random_string($length = 10)
 function ninja_forms_remove_from_array($arr, $key, $val, $within = FALSE)
 {
     foreach ($arr as $i => $array)
-        if ($within && stripos($array[$key], $val) !== FALSE && (gettype($val) === gettype($array[$key])))
-            unset($arr[$i]);
-        elseif ($array[$key] === $val)
-            unset($arr[$i]);
+		if ($within && stripos($array[$key], $val) !== FALSE && (gettype($val) === gettype($array[$key])))
+			unset($arr[$i]);
+		elseif ($array[$key] === $val)
+			unset($arr[$i]);
 
     return array_values($arr);
 }
 
 function ninja_forms_letters_to_numbers($size)
 {
-    $l = substr($size, -1);
-    $ret = substr($size, 0, -1);
-    switch (strtoupper($l)) {
-        case 'P':
-            $ret *= 1024;
-        case 'T':
-            $ret *= 1024;
-        case 'G':
-            $ret *= 1024;
-        case 'M':
-            $ret *= 1024;
-        case 'K':
-            $ret *= 1024;
-    }
-    return $ret;
+	$l = substr($size, -1);
+	$ret = substr($size, 0, -1);
+	switch (strtoupper($l)) {
+		case 'P':
+			$ret *= 1024;
+		case 'T':
+			$ret *= 1024;
+		case 'G':
+			$ret *= 1024;
+		case 'M':
+			$ret *= 1024;
+		case 'K':
+			$ret *= 1024;
+	}
+	return $ret;
 }
 
 function ninja_forms_subval_sort($a, $subkey)
 {
-    $b = '';
-    foreach ($a as $k => $v) {
-        $b[$k] = strtolower($v[$subkey]);
-    }
-    if (is_array($b)) {
-        asort($b);
-        foreach ($b as $key => $val) {
-            $c[] = $a[$key];
-        }
-        return $c;
-    } else {
-        return $a;
-    }
+	$b = '';
+	foreach ($a as $k => $v) {
+		$b[$k] = strtolower($v[$subkey]);
+	}
+	if (is_array($b)) {
+		asort($b);
+		foreach ($b as $key => $val) {
+			$c[] = $a[$key];
+		}
+		return $c;
+	} else {
+		return $a;
+	}
 
 }
 
@@ -78,21 +78,21 @@ function ninja_forms_subval_sort($a, $subkey)
 function nf_get_field_admin_label($field_id, $form_id = '')
 {
 
-    if (empty ($form_id)) {
-        $form = ninja_forms_get_form_by_field_id($field_id);
-        $form_id = $form['id'];
-    }
+	if (empty ($form_id)) {
+		$form = ninja_forms_get_form_by_field_id($field_id);
+		$form_id = $form['id'];
+	}
 
-    $admin_label = isset(Ninja_Forms()->form($form_id)->fields[$field_id]['data']['admin_label']) ? Ninja_Forms()->form($form_id)->fields[$field_id]['data']['admin_label'] : '';
-    $field_label = isset(Ninja_Forms()->form($form_id)->fields[$field_id]['data']['label']) ? Ninja_Forms()->form($form_id)->fields[$field_id]['data']['label'] : '';
+	$admin_label = isset(Ninja_Forms()->form($form_id)->fields[$field_id]['data']['admin_label']) ? Ninja_Forms()->form($form_id)->fields[$field_id]['data']['admin_label'] : '';
+	$field_label = isset(Ninja_Forms()->form($form_id)->fields[$field_id]['data']['label']) ? Ninja_Forms()->form($form_id)->fields[$field_id]['data']['label'] : '';
 
-    if (!empty($admin_label)) {
-        $label = $admin_label;
-    } else {
-        $label = $field_label;
-    }
+	if (!empty($admin_label)) {
+		$label = $admin_label;
+	} else {
+		$label = $field_label;
+	}
 
-    return $label;
+	return $label;
 }
 
 /**
@@ -105,23 +105,23 @@ function nf_get_field_admin_label($field_id, $form_id = '')
  */
 function nf_get_begin_date($begin_date)
 {
-    $plugin_settings = nf_get_settings();
+	$plugin_settings = nf_get_settings();
 
-    if (isset ($plugin_settings['date_format'])) {
-        $date_format = $plugin_settings['date_format'];
-    } else {
-        $date_format = 'm/d/Y';
-    }
+	if (isset ($plugin_settings['date_format'])) {
+		$date_format = $plugin_settings['date_format'];
+	} else {
+		$date_format = 'm/d/Y';
+	}
 
-    if ($date_format == 'd/m/Y') {
-        $begin_date = str_replace('/', '-', $begin_date);
-    } else if ($date_format == 'm-d-Y') {
-        $begin_date = str_replace('-', '/', $begin_date);
-    }
-    $begin_date .= '00:00:00';
-    $begin_date = new DateTime($begin_date);
+	if ($date_format == 'd/m/Y') {
+		$begin_date = str_replace('/', '-', $begin_date);
+	} else if ($date_format == 'm-d-Y') {
+		$begin_date = str_replace('-', '/', $begin_date);
+	}
+	$begin_date .= '00:00:00';
+	$begin_date = new DateTime($begin_date);
 
-    return $begin_date;
+	return $begin_date;
 }
 
 /**
@@ -134,23 +134,23 @@ function nf_get_begin_date($begin_date)
  */
 function nf_get_end_date($end_date)
 {
-    $plugin_settings = nf_get_settings();
+	$plugin_settings = nf_get_settings();
 
-    if (isset ($plugin_settings['date_format'])) {
-        $date_format = $plugin_settings['date_format'];
-    } else {
-        $date_format = 'm/d/Y';
-    }
+	if (isset ($plugin_settings['date_format'])) {
+		$date_format = $plugin_settings['date_format'];
+	} else {
+		$date_format = 'm/d/Y';
+	}
 
-    if ($date_format == 'd/m/Y') {
-        $end_date = str_replace('/', '-', $end_date);
-    } else if ($date_format == 'm-d-Y') {
-        $end_date = str_replace('-', '/', $end_date);
-    }
-    $end_date .= '23:59:59';
-    $end_date = new DateTime($end_date);
+	if ($date_format == 'd/m/Y') {
+		$end_date = str_replace('/', '-', $end_date);
+	} else if ($date_format == 'm-d-Y') {
+		$end_date = str_replace('-', '/', $end_date);
+	}
+	$end_date .= '23:59:59';
+	$end_date = new DateTime($end_date);
 
-    return $end_date;
+	return $end_date;
 }
 
 /**
@@ -163,9 +163,9 @@ function nf_get_end_date($end_date)
  */
 function nf_is_func_disabled($function)
 {
-    $disabled = explode(',', ini_get('disable_functions'));
+	$disabled = explode(',', ini_get('disable_functions'));
 
-    return in_array($function, $disabled);
+	return in_array($function, $disabled);
 }
 
 /**
@@ -176,7 +176,7 @@ function nf_is_func_disabled($function)
  */
 function nf_get_all_notifications()
 {
-    return nf_get_objects_by_type('notification');
+	return nf_get_objects_by_type('notification');
 }
 
 /**
@@ -189,7 +189,7 @@ function nf_get_all_notifications()
 
 function nf_get_notifications_by_form_id($form_id, $full_data = true)
 {
-    return nf_get_object_children($form_id, 'notification', $full_data);
+	return nf_get_object_children($form_id, 'notification', $full_data);
 }
 
 /**
@@ -202,7 +202,7 @@ function nf_get_notifications_by_form_id($form_id, $full_data = true)
 
 function nf_get_notification_by_id($notification_id)
 {
-    return nf_get_object_meta($notification_id);
+	return nf_get_object_meta($notification_id);
 }
 
 /**
@@ -219,14 +219,14 @@ function nf_get_notification_by_id($notification_id)
 
 function nf_insert_notification($form_id = '')
 {
-    if (empty ($form_id))
-        return false;
+	if (empty ($form_id))
+		return false;
 
-    $n_id = nf_insert_object('notification');
-    nf_add_relationship($n_id, 'notification', $form_id, 'form');
-    $date_updated = date('Y-m-d', current_time('timestamp'));
-    nf_update_object_meta($n_id, 'date_updated', $date_updated);
-    return $n_id;
+	$n_id = nf_insert_object('notification');
+	nf_add_relationship($n_id, 'notification', $form_id, 'form');
+	$date_updated = date('Y-m-d', current_time('timestamp'));
+	nf_update_object_meta($n_id, 'date_updated', $date_updated);
+	return $n_id;
 }
 
 /**
@@ -241,7 +241,7 @@ function nf_insert_notification($form_id = '')
 
 function nf_delete_notification($n_id)
 {
-    nf_delete_object($n_id);
+	nf_delete_object($n_id);
 }
 
 
@@ -256,14 +256,14 @@ function nf_delete_notification($n_id)
 
 function nf_get_object_meta_value($object_id, $meta_key)
 {
-    global $wpdb;
+	global $wpdb;
 
-    $meta_value = $wpdb->get_row($wpdb->prepare('SELECT meta_value FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d AND meta_key = %s', $object_id, $meta_key), ARRAY_A);
-    if (is_array($meta_value['meta_value'])) {
-        $meta_value['meta_value'] = unserialize($meta_value['meta_value']);
-    }
+	$meta_value = $wpdb->get_row($wpdb->prepare('SELECT meta_value FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d AND meta_key = %s', $object_id, $meta_key), ARRAY_A);
+	if (is_array($meta_value['meta_value'])) {
+		$meta_value['meta_value'] = unserialize($meta_value['meta_value']);
+	}
 
-    return $meta_value['meta_value'];
+	return $meta_value['meta_value'];
 }
 
 
@@ -278,50 +278,50 @@ function nf_get_object_meta_value($object_id, $meta_key)
 
 function nf_get_object_children($object_id, $child_type = '', $full_data = true, $include_forms = true)
 {
-    global $wpdb;
+	global $wpdb;
 
 
-    if ($include_forms) {
-        if ($child_type != '') {
-            $children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE child_type = %s AND parent_id = %d", $child_type, $object_id), ARRAY_A);
-        } else {
-            $children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE parent_id = %d", $object_id), ARRAY_A);
-        }
-    } else {
-        if ($child_type != '') {
-            $children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE child_type = %s AND parent_id = %d AND parent_type <> 'form'", $child_type, $object_id), ARRAY_A);
-        } else {
-            $children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE parent_id = %d AND parent_type <> 'form'", $object_id), ARRAY_A);
-        }
-    }
+	if ($include_forms) {
+		if ($child_type != '') {
+			$children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE child_type = %s AND parent_id = %d", $child_type, $object_id), ARRAY_A);
+		} else {
+			$children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE parent_id = %d", $object_id), ARRAY_A);
+		}
+	} else {
+		if ($child_type != '') {
+			$children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE child_type = %s AND parent_id = %d AND parent_type <> 'form'", $child_type, $object_id), ARRAY_A);
+		} else {
+			$children = $wpdb->get_results($wpdb->prepare("SELECT child_id FROM " . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . " WHERE parent_id = %d AND parent_type <> 'form'", $object_id), ARRAY_A);
+		}
+	}
 
-    $tmp_array = array();
-    if ($full_data) {
-        foreach ($children as $id) {
-            $child_id = $id['child_id'];
-            $settings = $wpdb->get_results($wpdb->prepare("SELECT meta_key, meta_value FROM " . NF_OBJECT_META_TABLE_NAME . " WHERE object_id = %d", $child_id), ARRAY_A);
-            if (!empty($settings)) {
-                foreach ($settings as $s) {
-                    if (is_array($s['meta_value'])) {
-                        $s['meta_value'] = unserialize($s['meta_value']);
-                    }
-                    $tmp_array[$child_id][$s['meta_key']] = $s['meta_value'];
-                }
-            } else {
-                $tmp_array[$child_id] = array();
-            }
-        }
+	$tmp_array = array();
+	if ($full_data) {
+		foreach ($children as $id) {
+			$child_id = $id['child_id'];
+			$settings = $wpdb->get_results($wpdb->prepare("SELECT meta_key, meta_value FROM " . NF_OBJECT_META_TABLE_NAME . " WHERE object_id = %d", $child_id), ARRAY_A);
+			if (!empty($settings)) {
+				foreach ($settings as $s) {
+					if (is_array($s['meta_value'])) {
+						$s['meta_value'] = unserialize($s['meta_value']);
+					}
+					$tmp_array[$child_id][$s['meta_key']] = $s['meta_value'];
+				}
+			} else {
+				$tmp_array[$child_id] = array();
+			}
+		}
 
 
-    } else {
-        if (is_array($children)) {
-            foreach ($children as $child) {
-                $tmp_array[] = $child['child_id'];
-            }
-        }
-    }
+	} else {
+		if (is_array($children)) {
+			foreach ($children as $child) {
+				$tmp_array[] = $child['child_id'];
+			}
+		}
+	}
 
-    return $tmp_array;
+	return $tmp_array;
 }
 
 /**
@@ -336,24 +336,24 @@ function nf_get_object_children($object_id, $child_type = '', $full_data = true,
 
 function nf_update_object_meta($object_id, $meta_key, $meta_value)
 {
-    global $wpdb;
+	global $wpdb;
 
-    if (is_array($meta_value)) {
-        $meta_value = serialize($meta_value);
-    }
+	if (is_array($meta_value)) {
+		$meta_value = serialize($meta_value);
+	}
 
-    // Check to see if this meta_key/meta_value pair exist for this object_id.
-    $found = $wpdb->get_row($wpdb->prepare("SELECT id FROM " . NF_OBJECT_META_TABLE_NAME . " WHERE object_id = %d AND meta_key = %s", $object_id, $meta_key), ARRAY_A);
+	// Check to see if this meta_key/meta_value pair exist for this object_id.
+	$found = $wpdb->get_row($wpdb->prepare("SELECT id FROM " . NF_OBJECT_META_TABLE_NAME . " WHERE object_id = %d AND meta_key = %s", $object_id, $meta_key), ARRAY_A);
 
-    if ($found) {
-        $wpdb->update(NF_OBJECT_META_TABLE_NAME, array('meta_value' => $meta_value), array('meta_key' => $meta_key, 'object_id' => $object_id));
-        $meta_id = $found['id'];
-    } else {
-        $wpdb->insert(NF_OBJECT_META_TABLE_NAME, array('object_id' => $object_id, 'meta_key' => $meta_key, 'meta_value' => $meta_value));
-        $meta_id = $wpdb->insert_id;
-    }
+	if ($found) {
+		$wpdb->update(NF_OBJECT_META_TABLE_NAME, array('meta_value' => $meta_value), array('meta_key' => $meta_key, 'object_id' => $object_id));
+		$meta_id = $found['id'];
+	} else {
+		$wpdb->insert(NF_OBJECT_META_TABLE_NAME, array('object_id' => $object_id, 'meta_key' => $meta_key, 'meta_value' => $meta_value));
+		$meta_id = $wpdb->insert_id;
+	}
 
-    return $meta_id;
+	return $meta_id;
 }
 
 /**
@@ -365,18 +365,18 @@ function nf_update_object_meta($object_id, $meta_key, $meta_value)
  */
 function nf_get_object_meta($object_id)
 {
-    global $wpdb;
+	global $wpdb;
 
-    $tmp_array = array();
-    $settings = $wpdb->get_results($wpdb->prepare('SELECT meta_key, meta_value FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d', $object_id), ARRAY_A);
+	$tmp_array = array();
+	$settings = $wpdb->get_results($wpdb->prepare('SELECT meta_key, meta_value FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d', $object_id), ARRAY_A);
 
-    if (is_array($settings)) {
-        foreach ($settings as $setting) {
-            $tmp_array[$setting['meta_key']] = $setting['meta_value'] = maybe_unserialize($setting['meta_value']);
-        }
-    }
+	if (is_array($settings)) {
+		foreach ($settings as $setting) {
+			$tmp_array[$setting['meta_key']] = $setting['meta_value'] = maybe_unserialize($setting['meta_value']);
+		}
+	}
 
-    return $tmp_array;
+	return $tmp_array;
 }
 
 /**
@@ -389,9 +389,9 @@ function nf_get_object_meta($object_id)
 
 function nf_insert_object($type, $id = NULL)
 {
-    global $wpdb;
-    $wpdb->insert(NF_OBJECTS_TABLE_NAME, array('id' => $id, 'type' => $type));
-    return $wpdb->insert_id;
+	global $wpdb;
+	$wpdb->insert(NF_OBJECTS_TABLE_NAME, array('id' => $id, 'type' => $type));
+	return $wpdb->insert_id;
 }
 
 /**
@@ -404,25 +404,25 @@ function nf_insert_object($type, $id = NULL)
 
 function nf_delete_object($object_id)
 {
-    global $wpdb;
+	global $wpdb;
 
-    // Check to see if we have any object children.
-    $children = nf_get_object_children($object_id, '', false, false);
+	// Check to see if we have any object children.
+	$children = nf_get_object_children($object_id, '', false, false);
 
-    foreach ($children as $child_id) {
-        nf_delete_object($child_id);
-    }
+	foreach ($children as $child_id) {
+		nf_delete_object($child_id);
+	}
 
-    // Delete this object.
-    $wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE id = %d', $object_id));
+	// Delete this object.
+	$wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE id = %d', $object_id));
 
-    // Delete any objectmeta attached to this object.
-    $wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d', $object_id));
+	// Delete any objectmeta attached to this object.
+	$wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECT_META_TABLE_NAME . ' WHERE object_id = %d', $object_id));
 
-    // Delete any references to this object in the relationship table
-    $wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d OR parent_id = %d', $object_id, $object_id));
+	// Delete any references to this object in the relationship table
+	$wpdb->query($wpdb->prepare('DELETE FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d OR parent_id = %d', $object_id, $object_id));
 
-    return true;
+	return true;
 }
 
 
@@ -439,12 +439,12 @@ function nf_delete_object($object_id)
 
 function nf_add_relationship($child_id, $child_type, $parent_id, $parent_type)
 {
-    global $wpdb;
-    // Make sure that our relationship doesn't already exist.
-    $count = $wpdb->query($wpdb->prepare('SELECT id FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d AND parent_id = %d', $child_id, $parent_id), ARRAY_A);
-    if (empty($count)) {
-        $wpdb->insert(NF_OBJECT_RELATIONSHIPS_TABLE_NAME, array('child_id' => $child_id, 'child_type' => $child_type, 'parent_id' => $parent_id, 'parent_type' => $parent_type));
-    }
+	global $wpdb;
+	// Make sure that our relationship doesn't already exist.
+	$count = $wpdb->query($wpdb->prepare('SELECT id FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d AND parent_id = %d', $child_id, $parent_id), ARRAY_A);
+	if (empty($count)) {
+		$wpdb->insert(NF_OBJECT_RELATIONSHIPS_TABLE_NAME, array('child_id' => $child_id, 'child_type' => $child_type, 'parent_id' => $parent_id, 'parent_type' => $parent_type));
+	}
 }
 
 /**
@@ -457,10 +457,10 @@ function nf_add_relationship($child_id, $child_type, $parent_id, $parent_type)
 
 function nf_get_object_parent($child_id)
 {
-    global $wpdb;
-    // Check our relationship table for where this ID appears as a child.
-    $parent = $wpdb->get_row($wpdb->prepare('SELECT parent_id FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d', $child_id), ARRAY_A);
-    return $parent['parent_id'];
+	global $wpdb;
+	// Check our relationship table for where this ID appears as a child.
+	$parent = $wpdb->get_row($wpdb->prepare('SELECT parent_id FROM ' . NF_OBJECT_RELATIONSHIPS_TABLE_NAME . ' WHERE child_id = %d', $child_id), ARRAY_A);
+	return $parent['parent_id'];
 }
 
 /**
@@ -473,11 +473,11 @@ function nf_get_object_parent($child_id)
 
 function nf_get_object_type($object_id)
 {
-    global $wpdb;
-    // Get our object type
-    $type = $wpdb->get_row($wpdb->prepare('SELECT type FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE id = %d', $object_id), ARRAY_A);
-    $return = (isset ($type['type'])) ? $type['type'] : false;
-    return $return;
+	global $wpdb;
+	// Get our object type
+	$type = $wpdb->get_row($wpdb->prepare('SELECT type FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE id = %d', $object_id), ARRAY_A);
+	$return = (isset ($type['type'])) ? $type['type'] : false;
+	return $return;
 }
 
 /*
@@ -493,16 +493,16 @@ function nf_get_ip()
 
     $ip = '127.0.0.1';
 
-    if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+	if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
         //check ip from share internet
         $ip = $_SERVER['HTTP_CLIENT_IP'];
-    } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+	} elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
         //to check ip is pass from proxy
         $ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
-    } elseif (!empty($_SERVER['REMOTE_ADDR'])) {
+	} elseif (!empty($_SERVER['REMOTE_ADDR'])) {
         $ip = $_SERVER['REMOTE_ADDR'];
     }
-    return apply_filters('nf_get_ip', $ip);
+	return apply_filters('nf_get_ip', $ip);
 }
 
 
@@ -515,15 +515,15 @@ function nf_get_ip()
 
 function nf_get_objects_by_type($object_type)
 {
-    global $wpdb;
+	global $wpdb;
 
-    // Bail if we don't have an object type.
-    if ($object_type == '')
-        return false;
+	// Bail if we don't have an object type.
+	if ($object_type == '')
+		return false;
 
-    $results = $wpdb->get_results($wpdb->prepare('SELECT id FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE type = %s', $object_type), ARRAY_A);
+	$results = $wpdb->get_results($wpdb->prepare('SELECT id FROM ' . NF_OBJECTS_TABLE_NAME . ' WHERE type = %s', $object_type), ARRAY_A);
 
-    return $results;
+	return $results;
 }
 
 /**
@@ -535,7 +535,7 @@ function nf_get_objects_by_type($object_type)
  */
 function nf_add_permissions_filters($cap)
 {
-    return apply_filters('ninja_forms_admin_all_forms_capabilities', $cap);
+	return apply_filters('ninja_forms_admin_all_forms_capabilities', $cap);
 }
 
 add_filter('nf_new_field_capabilities', 'nf_add_permissions_filters');
@@ -544,20 +544,20 @@ add_filter('nf_delete_form_capabilities', 'nf_add_permissions_filters');
 
 function nf_admin_footer_text($footer_text)
 {
-    global $current_screen, $pagenow, $typenow;
+	global $current_screen, $pagenow, $typenow;
 
-    $current_tab = ninja_forms_get_current_tab();
+	$current_tab = ninja_forms_get_current_tab();
 
-    // only display custom text on Ninja Admin Pages
-    if (isset($current_screen->id) && strpos($current_screen->id, 'ninja') !== false || (($pagenow == 'edit.php' || $pagenow == 'post.php') && $typenow == 'nf_sub')) {
-        $footer_text = sprintf(__('Please rate %sNinja Forms%s %s on %sWordPress.org%s to help us keep this plugin free.  Thank you from the WP Ninjas team!', 'ninja-forms'), '<strong>', '</strong>', '<a href="http://wordpress.org/support/view/plugin-reviews/ninja-forms?filter=5" target="_blank">&#9733;&#9733;&#9733;&#9733;&#9733;</a>', '<a href="http://wordpress.org/support/view/plugin-reviews/ninja-forms?filter=5" target="_blank">', '</a>');
-    }
+	// only display custom text on Ninja Admin Pages
+	if (isset($current_screen->id) && strpos($current_screen->id, 'ninja') !== false || (($pagenow == 'edit.php' || $pagenow == 'post.php') && $typenow == 'nf_sub')) {
+		$footer_text = sprintf(__('Please rate %sNinja Forms%s %s on %sWordPress.org%s to help us keep this plugin free.  Thank you from the WP Ninjas team!', 'ninja-forms'), '<strong>', '</strong>', '<a href="http://wordpress.org/support/view/plugin-reviews/ninja-forms?filter=5" target="_blank">&#9733;&#9733;&#9733;&#9733;&#9733;</a>', '<a href="http://wordpress.org/support/view/plugin-reviews/ninja-forms?filter=5" target="_blank">', '</a>');
+	}
 
-    if ('builder' == $current_tab) {
-        $footer_text = '';
-    }
+	if ('builder' == $current_tab) {
+		$footer_text = '';
+	}
 
-    return $footer_text;
+	return $footer_text;
 }
 
 add_filter('admin_footer_text', 'nf_admin_footer_text', 1, 2);

@@ -34,21 +34,17 @@
             width: 100%;
             border-spacing: 0;
         }
-
         .nf-sub-custom-fields-table thead {
             background-color: #f1f1f1;
         }
-
         .nf-sub-custom-fields-table thead th {
             text-align: left;
         }
-
         .nf-sub-custom-fields-table th,
         .nf-sub-custom-fields-table td {
             padding: 10px 0 10px 10px;
             vertical-align: top;
         }
-
         .nf-sub-custom-fields-table textarea {
             height: 150px;
         }

@@ -43,7 +43,7 @@ if (!function_exists('ninja_forms_edit_field_list_term')) {
             <div>
                 <hr>
                 <label>
-                    <?php _e('Populate this with the taxonomy', 'ninja-forms'); ?>:
+                    <?php _e('Populate this with the taxonomy', 'ninja-forms'); ?>: 
                 </label>
                 <select name="ninja_forms_field_<?php echo $field_id; ?>[populate_term]"
                         class="ninja-forms-list-populate-term" rel="<?php echo $field_id; ?>">

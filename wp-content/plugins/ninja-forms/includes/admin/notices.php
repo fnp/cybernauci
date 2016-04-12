@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * NF_Notices Class
@@ -9,6 +9,7 @@
  *
  * @since 2.9
  */
+
 class NF_Admin_Notices
 {
     // Highlander the instance
@@ -16,14 +17,13 @@ class NF_Admin_Notices
     public $notice_spam = 0;
     public $notice_spam_max = 1;
 
-    public function __construct()
-    {
+    public function __construct(){
 
         // Runs the admin notice ignore function incase a dismiss button has been clicked
-        add_action('admin_init', array($this, 'admin_notice_ignore'));
+        add_action( 'admin_init', array( $this, 'admin_notice_ignore' ) );
 
         // Runs the admin notice temp ignore function incase a temp dismiss link has been clicked
-        add_action('admin_init', array($this, 'admin_notice_temp_ignore'));
+        add_action( 'admin_init', array( $this, 'admin_notice_temp_ignore' ) );
 
     }
 
@@ -40,69 +40,68 @@ class NF_Admin_Notices
 
     // Checks to ensure notices aren't disabled and the user has the correct permissions.
 
-    public function admin_notice($admin_notices)
-    {
+    public function admin_notice( $admin_notices ) {
 
         // Check options
-        if (!$this->nf_admin_notice()) {
+        if ( ! $this->nf_admin_notice() ) {
             return false;
         }
 
-        foreach ($admin_notices as $slug => $admin_notice) {
+        foreach ( $admin_notices as $slug => $admin_notice ) {
             // Call for spam protection
-            if ($this->anti_notice_spam()) {
+            if ( $this->anti_notice_spam() ) {
                 return false;
             }
 
 
             // Check for proper page to display on
-            if (isset($admin_notices[$slug]['pages']) && is_array($admin_notices[$slug]['pages'])
-                || isset($admin_notices[$slug]['blacklist']) && is_array($admin_notices[$slug]['blacklist'])
+            if ( isset( $admin_notices[ $slug ][ 'pages' ] ) && is_array( $admin_notices[ $slug ][ 'pages' ] )
+                || isset( $admin_notices[ $slug ][ 'blacklist' ] ) && is_array( $admin_notices[ $slug ][ 'blacklist' ] )
             ) {
 
-                if ((isset($admin_notices[$slug]['blacklist']) && $this->admin_notice_pages_blacklist($admin_notices[$slug]['blacklist']))
-                    || (isset($admin_notices[$slug]['pages']) && !$this->admin_notice_pages($admin_notices[$slug]['pages']))
+                if( ( isset( $admin_notices[ $slug ][ 'blacklist' ] ) && $this->admin_notice_pages_blacklist( $admin_notices[ $slug ][ 'blacklist' ] ) )
+                    || ( isset( $admin_notices[ $slug ][ 'pages' ] ) && ! $this->admin_notice_pages( $admin_notices[ $slug ][ 'pages' ] ) )
                 ) {
                     return false;
                 }
             }
 
             // Check for required fields
-            if (!$this->required_fields($admin_notices[$slug])) {
+            if ( ! $this->required_fields( $admin_notices[ $slug ] ) ) {
 
                 // Get the current date then set start date to either passed value or current date value and add interval
-                $current_date = current_time("n/j/Y");
-                $start = (isset($admin_notices[$slug]['start']) ? $admin_notices[$slug]['start'] : $current_date);
-                $start = date("n/j/Y", strtotime($start));
-                $date_array = explode('/', $start);
-                $interval = (isset($admin_notices[$slug]['int']) ? $admin_notices[$slug]['int'] : 0);
+                $current_date = current_time( "n/j/Y" );
+                $start = ( isset( $admin_notices[ $slug ][ 'start' ] ) ? $admin_notices[ $slug ][ 'start' ] : $current_date );
+                $start = date( "n/j/Y", strtotime( $start ) );
+                $date_array = explode( '/', $start );
+                $interval = ( isset( $admin_notices[ $slug ][ 'int' ] ) ? $admin_notices[ $slug ][ 'int' ] : 0 );
                 $date_array[1] += $interval;
-                $start = date("n/j/Y", mktime(0, 0, 0, $date_array[0], $date_array[1], $date_array[2]));
+                $start = date( "n/j/Y", mktime( 0, 0, 0, $date_array[0], $date_array[1], $date_array[2] ) );
 
                 // This is the main notices storage option
-                $admin_notices_option = get_option('nf_admin_notice', array());
+                $admin_notices_option = get_option( 'nf_admin_notice', array() );
                 // Check if the message is already stored and if so just grab the key otherwise store the message and its associated date information
-                if (!array_key_exists($slug, $admin_notices_option)) {
-                    $admin_notices_option[$slug]['start'] = $start;
-                    $admin_notices_option[$slug]['int'] = $interval;
-                    update_option('nf_admin_notice', $admin_notices_option);
+                if ( ! array_key_exists( $slug, $admin_notices_option ) ) {
+                    $admin_notices_option[ $slug ][ 'start' ] = $start;
+                    $admin_notices_option[ $slug ][ 'int' ] = $interval;
+                    update_option( 'nf_admin_notice', $admin_notices_option );
                 }
 
                 // Sanity check to ensure we have accurate information
                 // New date information will not overwrite old date information
-                $admin_display_check = (isset($admin_notices_option[$slug]['dismissed']) ? $admin_notices_option[$slug]['dismissed'] : 0);
-                $admin_display_start = (isset($admin_notices_option[$slug]['start']) ? $admin_notices_option[$slug]['start'] : $start);
-                $admin_display_interval = (isset($admin_notices_option[$slug]['int']) ? $admin_notices_option[$slug]['int'] : $interval);
-                $admin_display_msg = (isset($admin_notices[$slug]['msg']) ? $admin_notices[$slug]['msg'] : '');
-                $admin_display_title = (isset($admin_notices[$slug]['title']) ? $admin_notices[$slug]['title'] : '');
-                $admin_display_link = (isset($admin_notices[$slug]['link']) ? $admin_notices[$slug]['link'] : '');
+                $admin_display_check = ( isset( $admin_notices_option[ $slug ][ 'dismissed' ] ) ? $admin_notices_option[ $slug ][ 'dismissed'] : 0 );
+                $admin_display_start = ( isset( $admin_notices_option[ $slug ][ 'start' ] ) ? $admin_notices_option[ $slug ][ 'start'] : $start );
+                $admin_display_interval = ( isset( $admin_notices_option[ $slug ][ 'int' ] ) ? $admin_notices_option[ $slug ][ 'int'] : $interval );
+                $admin_display_msg = ( isset( $admin_notices[ $slug ][ 'msg' ] ) ? $admin_notices[ $slug ][ 'msg'] : '' );
+                $admin_display_title = ( isset( $admin_notices[ $slug ][ 'title' ] ) ? $admin_notices[ $slug ][ 'title'] : '' );
+                $admin_display_link = ( isset( $admin_notices[ $slug ][ 'link' ] ) ? $admin_notices[ $slug ][ 'link' ] : '' );
                 $output_css = false;
 
                 // Ensure the notice hasn't been hidden and that the current date is after the start date
-                if ($admin_display_check == 0 && strtotime($admin_display_start) <= strtotime($current_date)) {
+                if ( $admin_display_check == 0 && strtotime( $admin_display_start ) <= strtotime( $current_date ) ) {
 
                     // Get remaining query string
-                    $query_str = esc_url(add_query_arg('nf_admin_notice_ignore', $slug));
+                    $query_str = esc_url( add_query_arg( 'nf_admin_notice_ignore', $slug ) );
 
                     // Admin notice display output
                     echo '<div class="update-nag nf-admin-notice">';
@@ -122,8 +121,8 @@ class NF_Admin_Notices
                     $this->notice_spam += 1;
                     $output_css = true;
                 }
-                if ($output_css) {
-                    wp_enqueue_style('nf-admin-notices', Ninja_Forms::$url . 'assets/css/admin-notices.css?nf_ver=' . Ninja_Forms::VERSION);
+                if ( $output_css ) {
+                    wp_enqueue_style( 'nf-admin-notices', Ninja_Forms::$url .'assets/css/admin-notices.css?nf_ver=' . Ninja_Forms::VERSION );
                 }
             }
         }
@@ -146,10 +145,9 @@ class NF_Admin_Notices
 
     // Spam protection check
 
-    public function anti_notice_spam()
-    {
+    public function anti_notice_spam() {
 
-        if ($this->notice_spam >= $this->notice_spam_max) {
+        if ( $this->notice_spam >= $this->notice_spam_max ) {
             return true;
         }
 
@@ -158,19 +156,18 @@ class NF_Admin_Notices
 
     // Ignore function that gets ran at admin init to ensure any messages that were dismissed get marked
 
-    public function admin_notice_pages_blacklist($pages)
-    {
+    public function admin_notice_pages_blacklist( $pages ) {
 
-        foreach ($pages as $key => $page) {
-            if (is_array($page)) {
-                if (isset($_GET['page']) && $_GET['page'] == $page[0] && isset($_GET['tab']) && $_GET['tab'] == $page[1]) {
+        foreach( $pages as $key => $page ) {
+            if ( is_array( $page ) ) {
+                if ( isset( $_GET[ 'page' ] ) && $_GET[ 'page'] == $page[0] && isset( $_GET[ 'tab' ] ) && $_GET[ 'tab' ] == $page[1] ) {
                     return true;
                 }
             } else {
-                if (get_current_screen()->id === $page) {
+                if ( get_current_screen()->id === $page ) {
                     return true;
                 }
-                if (isset($_GET['page']) && $_GET['page'] == $page) {
+                if ( isset( $_GET[ 'page' ] ) && $_GET[ 'page'] == $page ) {
                     return true;
                 }
             }
@@ -180,22 +177,21 @@ class NF_Admin_Notices
 
     // Temp Ignore function that gets ran at admin init to ensure any messages that were temp dismissed get their start date changed
 
-    public function admin_notice_pages($pages)
-    {
+    public function admin_notice_pages( $pages ) {
 
-        foreach ($pages as $key => $page) {
-            if (is_array($page)) {
-                if (isset($_GET['page']) && $_GET['page'] == $page[0] && isset($_GET['tab']) && $_GET['tab'] == $page[1]) {
+        foreach( $pages as $key => $page ) {
+            if ( is_array( $page ) ) {
+                if ( isset( $_GET[ 'page' ] ) && $_GET[ 'page'] == $page[0] && isset( $_GET[ 'tab' ] ) && $_GET[ 'tab' ] == $page[1] ) {
                     return true;
                 }
             } else {
-                if ($page == 'all') {
+                if ( $page == 'all' ) {
                     return true;
                 }
-                if (get_current_screen()->id === $page) {
+                if ( get_current_screen()->id === $page ) {
                     return true;
                 }
-                if (isset($_GET['page']) && $_GET['page'] == $page) {
+                if ( isset( $_GET[ 'page' ] ) && $_GET[ 'page'] == $page ) {
                     return true;
                 }
             }
@@ -203,14 +199,13 @@ class NF_Admin_Notices
         return false;
     }
 
-    public function required_fields($fields)
-    {
+    public function required_fields( $fields ) {
 
-        if (!isset($fields['msg']) || (isset($fields['msg']) && empty($fields['msg']))) {
+        if ( ! isset( $fields[ 'msg' ] ) || ( isset( $fields[ 'msg' ] ) && empty( $fields[ 'msg' ] ) ) ) {
             return true;
         }
 
-        if (!isset($fields['title']) || (isset($fields['title']) && empty($fields['title']))) {
+        if ( ! isset( $fields[ 'title' ] ) || ( isset( $fields[ 'title' ] ) && empty( $fields[ 'title' ] ) ) ) {
             return true;
         }
 
@@ -264,8 +259,7 @@ class NF_Admin_Notices
 
     // Special parameters function that is to be used in any extension of this class
 
-    public function special_parameters($admin_notices)
-    {
+    public function special_parameters( $admin_notices ) {
         // Intentionally left blank
     }
 

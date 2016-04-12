@@ -7,7 +7,7 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 $this_sdk_version = '1.1.7.4';
@@ -29,142 +29,142 @@ global $fs_active_plugins;
 $this_sdk_relative_path = plugin_basename(dirname(__FILE__));
 
 if (!isset($fs_active_plugins)) {
-    // Require SDK essentials.
-    require_once dirname(__FILE__) . '/includes/fs-essential-functions.php';
+	// Require SDK essentials.
+	require_once dirname(__FILE__) . '/includes/fs-essential-functions.php';
 
-    // Load all Freemius powered active plugins.
-    $fs_active_plugins = get_option('fs_active_plugins', new stdClass());
+	// Load all Freemius powered active plugins.
+	$fs_active_plugins = get_option('fs_active_plugins', new stdClass());
 
-    if (!isset($fs_active_plugins->plugins)) {
-        $fs_active_plugins->plugins = array();
-    }
+	if (!isset($fs_active_plugins->plugins)) {
+		$fs_active_plugins->plugins = array();
+	}
 }
 
 if (!function_exists('fs_find_direct_caller_plugin_file')) {
-    require_once dirname(__FILE__) . '/includes/supplements/fs-essential-functions-1.1.7.1.php';
+	require_once dirname(__FILE__) . '/includes/supplements/fs-essential-functions-1.1.7.1.php';
 }
 
 // Update current SDK info based on the SDK path.
 if (!isset($fs_active_plugins->plugins[$this_sdk_relative_path]) ||
-    $this_sdk_version != $fs_active_plugins->plugins[$this_sdk_relative_path]->version
+	$this_sdk_version != $fs_active_plugins->plugins[$this_sdk_relative_path]->version
 ) {
-    $fs_active_plugins->plugins[$this_sdk_relative_path] = (object)array(
-        'version' => $this_sdk_version,
-        'timestamp' => time(),
-        'plugin_path' => plugin_basename(fs_find_direct_caller_plugin_file(__FILE__)),
-    );
+	$fs_active_plugins->plugins[$this_sdk_relative_path] = (object)array(
+		'version' => $this_sdk_version,
+		'timestamp' => time(),
+		'plugin_path' => plugin_basename(fs_find_direct_caller_plugin_file(__FILE__)),
+	);
 }
 
 $is_current_sdk_newest = isset($fs_active_plugins->newest) && ($this_sdk_relative_path == $fs_active_plugins->newest->sdk_path);
 
 if (!isset($fs_active_plugins->newest)) {
-    /**
-     * This will be executed only once, for the first time a Freemius powered plugin is activated.
-     */
-    fs_update_sdk_newest_version($this_sdk_relative_path, $fs_active_plugins->plugins[$this_sdk_relative_path]->plugin_path);
+	/**
+	 * This will be executed only once, for the first time a Freemius powered plugin is activated.
+	 */
+	fs_update_sdk_newest_version($this_sdk_relative_path, $fs_active_plugins->plugins[$this_sdk_relative_path]->plugin_path);
 
-    $is_current_sdk_newest = true;
+	$is_current_sdk_newest = true;
 } else if (version_compare($fs_active_plugins->newest->version, $this_sdk_version, '<')) {
-    /**
-     * Current SDK is newer than the newest stored SDK.
-     */
-    fs_update_sdk_newest_version($this_sdk_relative_path, $fs_active_plugins->plugins[$this_sdk_relative_path]->plugin_path);
+	/**
+	 * Current SDK is newer than the newest stored SDK.
+	 */
+	fs_update_sdk_newest_version($this_sdk_relative_path, $fs_active_plugins->plugins[$this_sdk_relative_path]->plugin_path);
 
-    if (class_exists('Freemius')) {
-        // Older SDK version was already loaded.
+	if (class_exists('Freemius')) {
+		// Older SDK version was already loaded.
 
-        if (!$fs_active_plugins->newest->in_activation) {
-            // Re-order plugins to load this plugin first.
-            fs_newest_sdk_plugin_first();
-        }
+		if (!$fs_active_plugins->newest->in_activation) {
+			// Re-order plugins to load this plugin first.
+			fs_newest_sdk_plugin_first();
+		}
 
-        // Refresh page.
-        if (fs_redirect($_SERVER['REQUEST_URI'])) {
-            exit();
-        }
-    }
+		// Refresh page.
+		if (fs_redirect($_SERVER['REQUEST_URI'])) {
+			exit();
+		}
+	}
 } else {
-    if (!function_exists('get_plugins')) {
-        require_once(ABSPATH . 'wp-admin/includes/plugin.php');
-    }
+	if (!function_exists('get_plugins')) {
+		require_once(ABSPATH . 'wp-admin/includes/plugin.php');
+	}
 
-    $is_newest_sdk_plugin_activate = is_plugin_active($fs_active_plugins->newest->plugin_path);
+	$is_newest_sdk_plugin_activate = is_plugin_active($fs_active_plugins->newest->plugin_path);
 
-    if ($is_current_sdk_newest &&
-        !$is_newest_sdk_plugin_activate &&
-        !$fs_active_plugins->newest->in_activation
-    ) {
-        // If current SDK is the newest and the plugin is NOT active, it means
-        // that the current plugin in activation mode.
-        $fs_active_plugins->newest->in_activation = true;
-        update_option('fs_active_plugins', $fs_active_plugins);
-    }
+	if ($is_current_sdk_newest &&
+		!$is_newest_sdk_plugin_activate &&
+		!$fs_active_plugins->newest->in_activation
+	) {
+		// If current SDK is the newest and the plugin is NOT active, it means
+		// that the current plugin in activation mode.
+		$fs_active_plugins->newest->in_activation = true;
+		update_option('fs_active_plugins', $fs_active_plugins);
+	}
 
-    $is_newest_sdk_path_valid = ($is_newest_sdk_plugin_activate || $fs_active_plugins->newest->in_activation) && file_exists(fs_normalize_path(WP_PLUGIN_DIR . '/' . $this_sdk_relative_path . '/start.php'));
+	$is_newest_sdk_path_valid = ($is_newest_sdk_plugin_activate || $fs_active_plugins->newest->in_activation) && file_exists(fs_normalize_path(WP_PLUGIN_DIR . '/' . $this_sdk_relative_path . '/start.php'));
 
-    if (!$is_newest_sdk_path_valid && !$is_current_sdk_newest) {
-        // Plugin with newest SDK is no longer active, or SDK was moved to a different location.
-        unset($fs_active_plugins->plugins[$fs_active_plugins->newest->sdk_path]);
-    }
+	if (!$is_newest_sdk_path_valid && !$is_current_sdk_newest) {
+		// Plugin with newest SDK is no longer active, or SDK was moved to a different location.
+		unset($fs_active_plugins->plugins[$fs_active_plugins->newest->sdk_path]);
+	}
 
-    if (!($is_newest_sdk_plugin_activate || $fs_active_plugins->newest->in_activation) ||
-        !$is_newest_sdk_path_valid ||
-        // Is newest SDK downgraded.
-        ($this_sdk_relative_path == $fs_active_plugins->newest->sdk_path &&
-            version_compare($fs_active_plugins->newest->version, $this_sdk_version, '>'))
-    ) {
-        /**
-         * Plugin with newest SDK is no longer active.
-         *    OR
-         * The newest SDK was in the current plugin. BUT, seems like the version of
-         * the SDK was downgraded to a lower SDK.
-         */
-        // Find the active plugin with the newest SDK version and update the newest reference.
-        fs_fallback_to_newest_active_sdk();
-    } else {
-        if ($is_newest_sdk_plugin_activate &&
-            $this_sdk_relative_path == $fs_active_plugins->newest->sdk_path &&
-            ($fs_active_plugins->newest->in_activation ||
-                (class_exists('Freemius') && (!defined('WP_FS__SDK_VERSION') || version_compare(WP_FS__SDK_VERSION, $this_sdk_version, '<')))
-            )
+	if (!($is_newest_sdk_plugin_activate || $fs_active_plugins->newest->in_activation) ||
+		!$is_newest_sdk_path_valid ||
+		// Is newest SDK downgraded.
+		($this_sdk_relative_path == $fs_active_plugins->newest->sdk_path &&
+			version_compare($fs_active_plugins->newest->version, $this_sdk_version, '>'))
+	) {
+		/**
+		 * Plugin with newest SDK is no longer active.
+		 *    OR
+		 * The newest SDK was in the current plugin. BUT, seems like the version of
+		 * the SDK was downgraded to a lower SDK.
+		 */
+		// Find the active plugin with the newest SDK version and update the newest reference.
+		fs_fallback_to_newest_active_sdk();
+	} else {
+		if ($is_newest_sdk_plugin_activate &&
+			$this_sdk_relative_path == $fs_active_plugins->newest->sdk_path &&
+			($fs_active_plugins->newest->in_activation ||
+				(class_exists('Freemius') && (!defined('WP_FS__SDK_VERSION') || version_compare(WP_FS__SDK_VERSION, $this_sdk_version, '<')))
+			)
 
-        ) {
-            if ($fs_active_plugins->newest->in_activation) {
-                // Plugin no more in activation.
-                $fs_active_plugins->newest->in_activation = false;
-                update_option('fs_active_plugins', $fs_active_plugins);
-            }
+		) {
+			if ($fs_active_plugins->newest->in_activation) {
+				// Plugin no more in activation.
+				$fs_active_plugins->newest->in_activation = false;
+				update_option('fs_active_plugins', $fs_active_plugins);
+			}
 
-            // Reorder plugins to load plugin with newest SDK first.
-            if (fs_newest_sdk_plugin_first()) {
-                // Refresh page after re-order to make sure activated plugin loads newest SDK.
-                if (class_exists('Freemius')) {
-                    if (fs_redirect($_SERVER['REQUEST_URI'])) {
-                        exit();
-                    }
-                }
-            }
-        }
-    }
+			// Reorder plugins to load plugin with newest SDK first.
+			if (fs_newest_sdk_plugin_first()) {
+				// Refresh page after re-order to make sure activated plugin loads newest SDK.
+				if (class_exists('Freemius')) {
+					if (fs_redirect($_SERVER['REQUEST_URI'])) {
+						exit();
+					}
+				}
+			}
+		}
+	}
 }
 
 if (class_exists('Freemius')) {
-    // SDK was already loaded.
-    return;
+	// SDK was already loaded.
+	return;
 }
 
 if (version_compare($this_sdk_version, $fs_active_plugins->newest->version, '<')) {
-    $newest_sdk_starter = fs_normalize_path(WP_PLUGIN_DIR . '/' . $fs_active_plugins->newest->sdk_path . '/start.php');
+	$newest_sdk_starter = fs_normalize_path(WP_PLUGIN_DIR . '/' . $fs_active_plugins->newest->sdk_path . '/start.php');
 
-    if (file_exists($newest_sdk_starter)) {
-        // Reorder plugins to load plugin with newest SDK first.
-        fs_newest_sdk_plugin_first();
+	if (file_exists($newest_sdk_starter)) {
+		// Reorder plugins to load plugin with newest SDK first.
+		fs_newest_sdk_plugin_first();
 
-        // There's a newer SDK version, load it instead of the current one!
-        require_once $newest_sdk_starter;
+		// There's a newer SDK version, load it instead of the current one!
+		require_once $newest_sdk_starter;
 
-        return;
-    }
+		return;
+	}
 }
 
 #endregion SDK Selection Logic --------------------------------------------------------------------
@@ -249,90 +249,90 @@ if (version_compare($this_sdk_version, $fs_active_plugins->newest->version, '<')
 
 if (!class_exists('Freemius')) {
 
-    if (!defined('WP_FS__SDK_VERSION')) {
-        define('WP_FS__SDK_VERSION', $this_sdk_version);
-    }
+	if (!defined('WP_FS__SDK_VERSION')) {
+		define('WP_FS__SDK_VERSION', $this_sdk_version);
+	}
 
-    // Configuration should be loaded first.
-    require_once dirname(__FILE__) . '/config.php';
+	// Configuration should be loaded first.
+	require_once dirname(__FILE__) . '/config.php';
 
-    // Logger must be loaded before any other.
-    require_once WP_FS__DIR_INCLUDES . '/class-fs-logger.php';
-    require_once WP_FS__DIR_INCLUDES . '/debug/debug-bar-start.php';
+	// Logger must be loaded before any other.
+	require_once WP_FS__DIR_INCLUDES . '/class-fs-logger.php';
+	require_once WP_FS__DIR_INCLUDES . '/debug/debug-bar-start.php';
 
-    require_once WP_FS__DIR_INCLUDES . '/fs-core-functions.php';
+	require_once WP_FS__DIR_INCLUDES . '/fs-core-functions.php';
 //		require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-abstract-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-option-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-cache-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-admin-notice-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-admin-menu-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-key-value-storage.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-license-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-plan-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-plugin-manager.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-entity.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-scope-entity.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-user.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-site.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-info.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-tag.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-plan.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-pricing.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-license.php';
-    require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-subscription.php';
-    require_once WP_FS__DIR_INCLUDES . '/class-fs-api.php';
-    require_once WP_FS__DIR_INCLUDES . '/class-fs-plugin-updater.php';
-    require_once WP_FS__DIR_INCLUDES . '/class-fs-security.php';
-    require_once WP_FS__DIR_INCLUDES . '/class-freemius-abstract.php';
-    require_once WP_FS__DIR_INCLUDES . '/class-freemius.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-option-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-cache-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-admin-notice-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-admin-menu-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-key-value-storage.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-license-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-plan-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/managers/class-fs-plugin-manager.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-entity.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-scope-entity.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-user.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-site.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-info.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-tag.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-plan.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-pricing.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-plugin-license.php';
+	require_once WP_FS__DIR_INCLUDES . '/entities/class-fs-subscription.php';
+	require_once WP_FS__DIR_INCLUDES . '/class-fs-api.php';
+	require_once WP_FS__DIR_INCLUDES . '/class-fs-plugin-updater.php';
+	require_once WP_FS__DIR_INCLUDES . '/class-fs-security.php';
+	require_once WP_FS__DIR_INCLUDES . '/class-freemius-abstract.php';
+	require_once WP_FS__DIR_INCLUDES . '/class-freemius.php';
 
-    /**
-     * Quick shortcut to get Freemius for specified plugin.
-     * Used by various templates.
-     *
-     * @param string $slug
-     *
-     * @return Freemius
-     */
-    function freemius($slug)
-    {
-        return Freemius::instance($slug);
-    }
+	/**
+	 * Quick shortcut to get Freemius for specified plugin.
+	 * Used by various templates.
+	 *
+	 * @param string $slug
+	 *
+	 * @return Freemius
+	 */
+	function freemius($slug)
+	{
+		return Freemius::instance($slug);
+	}
 
-    /**
-     * @param string $slug
-     * @param number $plugin_id
-     * @param string $public_key
-     * @param bool $is_live Is live or test plugin.
-     * @param bool $is_premium Hints freemius if running the premium plugin or not.
-     *
-     * @return Freemius
-     */
-    function fs_init($slug, $plugin_id, $public_key, $is_live = true, $is_premium = true)
-    {
-        $fs = Freemius::instance($slug);
-        $fs->init($plugin_id, $public_key, $is_live, $is_premium);
+	/**
+	 * @param string $slug
+	 * @param number $plugin_id
+	 * @param string $public_key
+	 * @param bool $is_live Is live or test plugin.
+	 * @param bool $is_premium Hints freemius if running the premium plugin or not.
+	 *
+	 * @return Freemius
+	 */
+	function fs_init($slug, $plugin_id, $public_key, $is_live = true, $is_premium = true)
+	{
+		$fs = Freemius::instance($slug);
+		$fs->init($plugin_id, $public_key, $is_live, $is_premium);
 
-        return $fs;
-    }
+		return $fs;
+	}
 
-    /**
-     * @param array [string]string $plugin
-     *
-     * @return Freemius
-     * @throws Freemius_Exception
-     */
-    function fs_dynamic_init($plugin)
-    {
-        $fs = Freemius::instance($plugin['slug']);
-        $fs->dynamic_init($plugin);
+	/**
+	 * @param array [string]string $plugin
+	 *
+	 * @return Freemius
+	 * @throws Freemius_Exception
+	 */
+	function fs_dynamic_init($plugin)
+	{
+		$fs = Freemius::instance($plugin['slug']);
+		$fs->dynamic_init($plugin);
 
-        return $fs;
-    }
+		return $fs;
+	}
 
-    function fs_dump_log()
-    {
-        FS_Logger::dump();
-    }
+	function fs_dump_log()
+	{
+		FS_Logger::dump();
+	}
 }

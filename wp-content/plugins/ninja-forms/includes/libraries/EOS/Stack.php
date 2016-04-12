@@ -13,8 +13,7 @@
  * @subpackage EOS
  * @version 2.0
  */
-class Stack
-{
+class Stack {
     private $index;
     private $locArray;
 
@@ -23,8 +22,7 @@ class Stack
      *
      * Initializes the stack
      */
-    public function __construct()
-    {
+    public function __construct() {
         //define the private vars
         $this->locArray = array();
         $this->index = -1;
@@ -37,9 +35,8 @@ class Stack
      *
      * @return Mixed An element of the array or false if none exist
      */
-    public function peek()
-    {
-        if ($this->index > -1)
+    public function peek() {
+        if($this->index > -1)
             return $this->locArray[$this->index];
         else
             return false;
@@ -79,12 +76,13 @@ class Stack
      *
      * @return Mixed Element at end of stack or false if none exist
      */
-    public function pop()
-    {
-        if ($this->index > -1) {
+    public function pop() {
+        if($this->index > -1)
+        {
             $this->index--;
-            return $this->locArray[$this->index + 1];
-        } else
+            return $this->locArray[$this->index+1];
+        }
+        else
             return false;
     }
 
@@ -93,8 +91,7 @@ class Stack
      *
      * Clears the stack to be reused.
      */
-    public function clear()
-    {
+    public function clear() {
         $this->index = -1;
         $this->locArray = array();
     }
@@ -106,11 +103,12 @@ class Stack
      *
      * @return Mixed Array of stack elements or false if none exist.
      */
-    public function getStack()
-    {
-        if ($this->index > -1) {
+    public function getStack() {
+        if($this->index > -1)
+        {
             return array_values($this->locArray);
-        } else
+        }
+        else
             return false;
     }
 }

@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_SelectList
@@ -13,6 +13,8 @@ class NF_Fields_ListSelect extends NF_Abstracts_List
 
     protected $_section = 'common';
 
+    protected $_icon = 'chevron-down';
+
     protected $_templates = 'listselect';
 
     protected $_old_classname = 'list-select';
@@ -21,6 +23,6 @@ class NF_Fields_ListSelect extends NF_Abstracts_List
     {
         parent::__construct();
 
-        $this->_nicename = __('Select', 'ninja-forms');
+        $this->_nicename = __( 'Select', 'ninja-forms' );
     }
 }

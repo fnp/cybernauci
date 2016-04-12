@@ -15,7 +15,7 @@ return array(
         'width' => 'full',
         'value' => '',
 
-    ),
+    ),    
 
     /*
      * Active

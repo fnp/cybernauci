@@ -11,43 +11,43 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 ?>
 <script type="text/javascript">
-    jQuery(document).ready(function ($) {
-        $('#fs_firewall_issue_options a.fs-resolve').click(function () {
-            var
-                error_type = $(this).attr('data-type'),
-                notice = $(this).parents('.fs-notice'),
-                slug = notice.attr('data-slug');
+	jQuery(document).ready(function ($) {
+		$('#fs_firewall_issue_options a.fs-resolve').click(function () {
+			var
+				error_type = $(this).attr('data-type'),
+				notice = $(this).parents('.fs-notice'),
+				slug = notice.attr('data-slug');
 
-            var data = {
-                action: slug + '_resolve_firewall_issues',
-                slug: slug,
-                error_type: error_type
-            };
+			var data = {
+				action: slug + '_resolve_firewall_issues',
+				slug: slug,
+				error_type: error_type
+			};
 
-            if ('squid' === error_type) {
-                data.hosting_company = prompt('What is the name or URL of your hosting company?');
-                if (null == data.hosting_company)
-                    return false;
+			if ('squid' === error_type) {
+				data.hosting_company = prompt('What is the name or URL of your hosting company?');
+				if (null == data.hosting_company)
+					return false;
 
-                if ('' === data.hosting_company) {
-                    alert('We won\'t be able to help without knowing your hosting company.');
-                    return false;
-                }
-            }
+				if ('' === data.hosting_company) {
+					alert('We won\'t be able to help without knowing your hosting company.');
+					return false;
+				}
+			}
 
-            $(this).css({'cursor': 'wait'});
+			$(this).css({'cursor': 'wait'});
 
-            // since 2.8 ajaxurl is always defined in the admin header and points to admin-ajax.php
-            $.post(ajaxurl, data, function (response) {
-                if (1 == response) {
-                    // Refresh page on success.
-                    location.reload();
-                }
-            });
-        });
-    });
+			// since 2.8 ajaxurl is always defined in the admin header and points to admin-ajax.php
+			$.post(ajaxurl, data, function (response) {
+				if (1 == response) {
+					// Refresh page on success.
+					location.reload();
+				}
+			});
+		});
+	});
 </script>

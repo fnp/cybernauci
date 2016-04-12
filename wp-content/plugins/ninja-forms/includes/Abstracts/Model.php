@@ -672,7 +672,7 @@ class NF_Abstracts_Model
 
     /**
      * Cache Flag
-     *
+     * 
      * @param string $cache
      * @return $this
      */

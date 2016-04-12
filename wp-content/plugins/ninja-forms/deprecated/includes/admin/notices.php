@@ -50,7 +50,6 @@ function nf_admin_notices($notices)
 
     return $notices;
 }
-
 // This function is used to hold all of the basic notices
 // Date format accepts most formats but can get confused so preferred methods are m/d/Y or d-m-Y
 

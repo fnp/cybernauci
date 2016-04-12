@@ -19,7 +19,6 @@ a.tooltip strong {
 a.tooltip:hover {
     text-decoration: none;
 }
-
 a.tooltip span {
     z-index: 10;
     display: none;
@@ -31,7 +30,6 @@ a.tooltip span {
     z-index: 1;
     position: relative;
 }
-
 a.tooltip span:before {
     border-top: 10px solid transparent;
     border-right: 15px solid #ccc;
@@ -60,17 +58,14 @@ a.tooltip span {
     -webkit-box-shadow: 5px 5px 8px #CCC;
     box-shadow: 5px 5px 8px #CCC;
 }
-
 #ui-datepicker-div {
     background: #f1f1f1;
     border-radius: 3px;
 }
-
 #ui-datepicker-div a {
     text-decoration: none;
     cursor: pointer;
 }
-
 #ui-datepicker-div .ui-datepicker-header,
 #ui-datepicker-div .ui-datepicker-calendar th,
 #ui-datepicker-div .ui-datepicker-calendar td {
@@ -81,31 +76,24 @@ a.tooltip span {
 #ui-datepicker-div .ui-icon {
     text-indent: 0px;
 }
-
 .ui-datepicker-prev {
     float: left;
 }
-
 .ui-datepicker-next {
     float: right;
 }
-
 .ninja-forms-no-display {
     display: none;
 }
-
 .ninja-forms-form .wp-switch-editor {
     height: auto;
 }
-
 .ninja-forms-form .mceIframeContainer {
     background: #fff;
 }
-
 .ninja-forms-req-symbol {
     color: #ff0000;
 }
-
 .ninja-forms-form .label-above label,
 .ninja-forms-form .label-below label {
     display: block;
@@ -146,11 +134,9 @@ a.tooltip span {
     background-color: #c3ff88;
     border-color: #8dff1c !important;
 }
-
 .ninja-forms-cont {
     position: relative;
 }
-
 .ninja-forms-cont:after {
     clear: both;
     content: "";
@@ -172,7 +158,6 @@ a.tooltip span {
 .ninja-forms-form-wrap label {
     font-weight: bold;
 }
-
 .ninja-forms-form-wrap .list-checkbox-wrap ul label,
 .ninja-forms-form-wrap .list-radio-wrap ul label {
     font-weight: normal;
@@ -188,12 +173,10 @@ a.tooltip span {
 .field-wrap.label-left .ninja-forms-star-rating-control {
     margin-left: 8px;
 }
-
 .field-wrap.label-right .ninja-forms-field,
 .field-wrap.label-right .ninja-forms-star-rating-control {
     margin-right: 8px;
 }
-
 .field-wrap.label-right label,
 .field-wrap.label-left label {
     display: inline;
@@ -216,7 +199,6 @@ TEXT FIELDS & TEXTAREAS
 .textarea-wrap.label-left textarea {
     margin-left: 10px;
 }
-
 .text-wrap.label-right input,
 .profile_pass-wrap.label-right input,
 .textarea-wrap.label-right textarea {
@@ -290,7 +272,6 @@ RADIO & CHECKBOX LISTS
 .list-checkbox-wrap.label-right ul li {
     float: left;
 }
-
 .rtl .list-radio-wrap.label-left label,
 .rtl .list-radio-wrap.label-left ul,
 .rtl .list-radio-wrap.label-left ul li,
@@ -305,7 +286,6 @@ RADIO & CHECKBOX LISTS
 .rtl .list-checkbox-wrap.label-right ul li {
     float: right;
 }
-
 .list-radio-wrap.label-left ul li,
 .list-radio-wrap.label-right ul li,
 .list-checkbox-wrap.label-left ul li,
@@ -327,7 +307,6 @@ MULTI FIELD
 .list-multi-wrap.label-left label {
     float: left;
 }
-
 .list-multi-wrap.label-right select {
     float: left;
 }
@@ -341,11 +320,9 @@ CREDIT CARD BLOCK
     display: block;
     width: 100%;
 }
-
 .credit_card-wrap div {
     margin-bottom: 10px;
 }
-
 .credit_card-wrap div span {
     font-size: 0.8em;
 }

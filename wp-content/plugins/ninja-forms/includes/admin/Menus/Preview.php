@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 final class NF_Admin_Menus_Preview extends NF_Abstracts_Submenu
 {
@@ -15,7 +15,7 @@ final class NF_Admin_Menus_Preview extends NF_Abstracts_Submenu
 
     public function display()
     {
-        Ninja_Forms()->template('admin-menu-preview.html.php');
+        Ninja_Forms()->template( 'admin-menu-preview.html.php' );
     }
 
 }

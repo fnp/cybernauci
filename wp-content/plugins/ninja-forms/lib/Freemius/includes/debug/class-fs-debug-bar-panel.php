@@ -7,7 +7,7 @@
  */
 
 if (!defined('ABSPATH')) {
-    exit;
+	exit;
 }
 
 /**
@@ -20,48 +20,48 @@ if (!defined('ABSPATH')) {
  */
 class Freemius_Debug_Bar_Panel extends Debug_Bar_Panel
 {
-    static function requests_count()
-    {
-        if (class_exists('Freemius_Api')) {
-            $logger = Freemius_Api::GetLogger();
-        } else {
-            $logger = array();
-        }
+	static function requests_count()
+	{
+		if (class_exists('Freemius_Api')) {
+			$logger = Freemius_Api::GetLogger();
+		} else {
+			$logger = array();
+		}
 
-        return number_format(count($logger));
-    }
+		return number_format(count($logger));
+	}
 
-    static function total_time()
-    {
-        if (class_exists('Freemius_Api')) {
-            $logger = Freemius_Api::GetLogger();
-        } else {
-            $logger = array();
-        }
+	static function total_time()
+	{
+		if (class_exists('Freemius_Api')) {
+			$logger = Freemius_Api::GetLogger();
+		} else {
+			$logger = array();
+		}
 
-        $total_time = .0;
-        foreach ($logger as $l) {
-            $total_time += $l['total'];
-        }
+		$total_time = .0;
+		foreach ($logger as $l) {
+			$total_time += $l['total'];
+		}
 
-        return number_format(100 * $total_time, 2) . ' ' . __fs('ms');
-    }
+		return number_format(100 * $total_time, 2) . ' ' . __fs('ms');
+	}
 
-    function init()
-    {
-        $this->title('Freemius');
-    }
+	function init()
+	{
+		$this->title('Freemius');
+	}
 
-    function render()
-    {
-        ?>
-        <div id='debug-bar-php'>
-            <?php fs_require_template('/debug/api-calls.php') ?>
-            <br>
-            <?php fs_require_template('/debug/scheduled-crons.php') ?>
-            <br>
-            <?php fs_require_template('/debug/logger.php') ?>
-        </div>
-        <?php
-    }
+	function render()
+	{
+		?>
+		<div id='debug-bar-php'>
+			<?php fs_require_template('/debug/api-calls.php') ?>
+			<br>
+			<?php fs_require_template('/debug/scheduled-crons.php') ?>
+			<br>
+			<?php fs_require_template('/debug/logger.php') ?>
+		</div>
+		<?php
+	}
 }

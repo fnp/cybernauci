@@ -22,9 +22,9 @@ if (!defined('ABSPATH')) exit;
  */
 function nf_get_actions()
 {
-    if (isset($_GET['nf_action'])) {
-        do_action('nf_' . $_GET['nf_action'], $_GET);
-    }
+	if (isset($_GET['nf_action'])) {
+		do_action('nf_' . $_GET['nf_action'], $_GET);
+	}
 }
 
 add_action('init', 'nf_get_actions', 999);
@@ -39,9 +39,9 @@ add_action('init', 'nf_get_actions', 999);
  */
 function nf_post_actions()
 {
-    if (isset($_POST['nf_action'])) {
-        do_action('nf_' . $_POST['nf_action'], $_POST);
-    }
+	if (isset($_POST['nf_action'])) {
+		do_action('nf_' . $_POST['nf_action'], $_POST);
+	}
 }
 
 add_action('init', 'nf_post_actions', 999);

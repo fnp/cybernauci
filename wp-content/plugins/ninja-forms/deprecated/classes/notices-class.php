@@ -9,6 +9,7 @@
  *
  * @since 2.9
  */
+
 class NF_Notices
 {
     // Highlander the instance
@@ -58,14 +59,14 @@ class NF_Notices
             // Check for proper page to display on
             if (isset($admin_notices[$slug]['pages']) && is_array($admin_notices[$slug]['pages'])
                 || isset($admin_notices[$slug]['blacklist']) && is_array($admin_notices[$slug]['blacklist'])
-            ) {
+                ) {
 
                 if ((isset($admin_notices[$slug]['blacklist']) && $this->admin_notice_pages_blacklist($admin_notices[$slug]['blacklist']))
                     || (isset($admin_notices[$slug]['pages']) && !$this->admin_notice_pages($admin_notices[$slug]['pages']))
                 ) {
                     return false;
                 }
-            }
+                }
 
             // Check for required fields
             if (!$this->required_fields($admin_notices[$slug])) {
@@ -124,9 +125,9 @@ class NF_Notices
                 }
                 if ($output_css) {
                     wp_enqueue_style('nf-admin-notices', NINJA_FORMS_URL . 'assets/css/admin-notices.css?nf_ver=' . NF_PLUGIN_VERSION);
-                }
             }
         }
+    }
     }
 
     // Primary notice function that can be called from an outside function sending necessary variables

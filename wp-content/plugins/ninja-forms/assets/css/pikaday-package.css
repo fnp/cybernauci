@@ -7,7 +7,7 @@
  * @link https://github.com/mydea/PikadayResponsive 
  * @copyright: (c) 2016 
  * @version: 0.6.7 
- */
+ */ 
 
 @charset "UTF-8";
 
@@ -78,7 +78,6 @@ http://nicolasgallagher.com/micro-clearfix-hack/
     font-weight: bold;
     background-color: #fff;
 }
-
 .pika-title select {
     cursor: pointer;
     position: absolute;
@@ -246,7 +245,8 @@ http://nicolasgallagher.com/micro-clearfix-hack/
  * @link https://github.com/mydea/PikadayResponsive 
  * @copyright: (c) 2016 
  * @version: 0.6.7 
- */
+ */ 
+
 
 .pikaday__container {
     display: inline-block;

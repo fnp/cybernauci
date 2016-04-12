@@ -15,6 +15,7 @@ abstract class NF_Upgrade
     public $name;
 
 
+
     /**
      * @var priority
      *
@@ -22,6 +23,7 @@ abstract class NF_Upgrade
      * Priorities are compared as version numbers that corresponds to when they were introduced.
      */
     public $priority;
+
 
 
     /**
@@ -32,12 +34,14 @@ abstract class NF_Upgrade
     public $description;
 
 
+
     /**
      * @var total_steps
      *
      * The total number of steps that need to be processed.
      */
     public $total_steps;
+
 
 
     /**
@@ -48,12 +52,14 @@ abstract class NF_Upgrade
     public $args = array();
 
 
+
     /**
      * @var errors
      *
      * The errors property is used to store errors for the Upgrade Handler to reference.
      */
     public $errors = array();
+
 
 
     /**
@@ -64,6 +70,7 @@ abstract class NF_Upgrade
         $this->nice_name = ucwords(str_replace('_', ' ', $this->name));
         $this->description = __($this->description, 'ninja-forms');
     }
+
 
 
     /**

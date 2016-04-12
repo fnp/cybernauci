@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 final class NF_Admin_Menus_AllForms extends NF_Abstracts_Submenu
 {

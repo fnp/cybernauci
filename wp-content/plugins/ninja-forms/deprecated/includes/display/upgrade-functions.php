@@ -96,7 +96,7 @@ function nf_29_update_form_settings($form_id)
 /**
  * Check our option to see if we've updated all of our form settings.
  * If we haven't, then update the form currently being viewed.
- *
+ * 
  * @since 2.9
  * @return void
  */

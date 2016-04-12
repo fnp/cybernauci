@@ -11,7 +11,7 @@
  */
 
 // Exit if accessed directly
-if (!defined('ABSPATH')) exit;
+if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * WordPress Session class for managing user session data.
@@ -19,8 +19,7 @@ if (!defined('ABSPATH')) exit;
  * @package WordPress
  * @since   3.7.0
  */
-final class WP_Session extends Recursive_ArrayAccess implements Iterator, Countable
-{
+final class WP_Session extends Recursive_ArrayAccess implements Iterator, Countable {
     /**
      * Singleton instance.
      *
@@ -54,21 +53,20 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      * @param $session_id
      * @uses apply_filters Calls `wp_session_expiration` to determine how long until sessions expire.
      */
-    protected function __construct()
-    {
-        if (isset($_COOKIE[WP_SESSION_COOKIE])) {
-            $cookie = stripslashes($_COOKIE[WP_SESSION_COOKIE]);
-            $cookie_crumbs = explode('||', $cookie);
+    protected function __construct() {
+        if ( isset( $_COOKIE[WP_SESSION_COOKIE] ) ) {
+            $cookie = stripslashes( $_COOKIE[WP_SESSION_COOKIE] );
+            $cookie_crumbs = explode( '||', $cookie );
 
             $this->session_id = $cookie_crumbs[0];
             $this->expires = $cookie_crumbs[1];
             $this->exp_variant = $cookie_crumbs[2];
 
             // Update the session expiration if we're past the variant time
-            if (time() > $this->exp_variant) {
+            if ( time() > $this->exp_variant ) {
                 $this->set_expiration();
-                delete_option("_wp_session_expires_{$this->session_id}");
-                add_option("_wp_session_expires_{$this->session_id}", $this->expires, '', 'no');
+                delete_option( "_wp_session_expires_{$this->session_id}" );
+                add_option( "_wp_session_expires_{$this->session_id}", $this->expires, '', 'no' );
             }
         } else {
             $this->session_id = $this->generate_id();
@@ -99,10 +97,9 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      * @uses apply_filters Calls `wp_session_expiration_variant` to get the max update window for session data.
      * @uses apply_filters Calls `wp_session_expiration` to get the standard expiration time for sessions.
      */
-    protected function set_expiration()
-    {
-        $this->exp_variant = time() + (int)apply_filters('wp_session_expiration_variant', 24 * 60);
-        $this->expires = time() + (int)apply_filters('wp_session_expiration', 30 * 60);
+    protected function set_expiration() {
+        $this->exp_variant = time() + (int) apply_filters( 'wp_session_expiration_variant', 24 * 60 );
+        $this->expires = time() + (int) apply_filters( 'wp_session_expiration', 30 * 60 );
     }
 
     /**
@@ -110,12 +107,11 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return string
      */
-    protected function generate_id()
-    {
-        require_once(ABSPATH . 'wp-includes/class-phpass.php');
-        $hasher = new PasswordHash(8, false);
+    protected function generate_id() {
+        require_once( ABSPATH . 'wp-includes/class-phpass.php');
+        $hasher = new PasswordHash( 8, false );
 
-        return md5($hasher->get_random_bytes(32));
+        return md5( $hasher->get_random_bytes( 32 ) );
     }
 
     /**
@@ -125,9 +121,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return array
      */
-    protected function read_data()
-    {
-        $this->container = get_option("_wp_session_{$this->session_id}", array());
+    protected function read_data() {
+        $this->container = get_option( "_wp_session_{$this->session_id}", array() );
 
         return $this->container;
     }
@@ -159,18 +154,17 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
     /**
      * Write the data from the current session to the data storage system.
      */
-    public function write_data()
-    {
+    public function write_data() {
         $option_key = "_wp_session_{$this->session_id}";
 
         // Only write the collection to the DB if it's changed.
-        if ($this->dirty) {
-            if (false === get_option($option_key)) {
-                add_option("_wp_session_{$this->session_id}", $this->container, '', 'no');
-                add_option("_wp_session_expires_{$this->session_id}", $this->expires, '', 'no');
+        if ( $this->dirty ) {
+            if ( false === get_option( $option_key ) ) {
+                add_option( "_wp_session_{$this->session_id}", $this->container, '', 'no' );
+                add_option( "_wp_session_expires_{$this->session_id}", $this->expires, '', 'no' );
             } else {
-                delete_option("_wp_session_{$this->session_id}");
-                add_option("_wp_session_{$this->session_id}", $this->container, '', 'no');
+                delete_option( "_wp_session_{$this->session_id}" );
+                add_option( "_wp_session_{$this->session_id}", $this->container, '', 'no' );
             }
         }
     }
@@ -180,9 +174,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return string
      */
-    public function json_out()
-    {
-        return json_encode($this->container);
+    public function json_out() {
+        return json_encode( $this->container );
     }
 
     /**
@@ -192,11 +185,10 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return bool
      */
-    public function json_in($data)
-    {
-        $array = json_decode($data);
+    public function json_in( $data ) {
+        $array = json_decode( $data );
 
-        if (is_array($array)) {
+        if ( is_array( $array ) ) {
             $this->container = $array;
             return true;
         }
@@ -209,10 +201,9 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @param bool $delete_old Flag whether or not to delete the old session data from the server.
      */
-    public function regenerate_id($delete_old = false)
-    {
-        if ($delete_old) {
-            delete_option("_wp_session_{$this->session_id}");
+    public function regenerate_id( $delete_old = false ) {
+        if ( $delete_old ) {
+            delete_option( "_wp_session_{$this->session_id}" );
         }
 
         $this->session_id = $this->generate_id();
@@ -225,8 +216,7 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return bool
      */
-    public function session_started()
-    {
+    public function session_started() {
         return !!self::$instance;
     }
 
@@ -235,16 +225,14 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return int
      */
-    public function cache_expiration()
-    {
+    public function cache_expiration() {
         return $this->expires;
     }
 
     /**
      * Flushes all session variables.
      */
-    public function reset()
-    {
+    public function reset() {
         $this->container = array();
     }
 
@@ -259,9 +247,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return mixed
      */
-    public function current()
-    {
-        return current($this->container);
+    public function current() {
+        return current( $this->container );
     }
 
     /**
@@ -271,9 +258,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return void
      */
-    public function next()
-    {
-        next($this->container);
+    public function next() {
+        next( $this->container );
     }
 
     /**
@@ -283,9 +269,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return void
      */
-    public function rewind()
-    {
-        reset($this->container);
+    public function rewind() {
+        reset( $this->container );
     }
 
     /**
@@ -295,9 +280,8 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return bool
      */
-    public function valid()
-    {
-        return $this->offsetExists($this->key());
+    public function valid() {
+        return $this->offsetExists( $this->key() );
     }
 
     /**
@@ -323,8 +307,7 @@ final class WP_Session extends Recursive_ArrayAccess implements Iterator, Counta
      *
      * @return int
      */
-    public function count()
-    {
-        return count($this->container);
+    public function count() {
+        return count( $this->container );
     }
 }
