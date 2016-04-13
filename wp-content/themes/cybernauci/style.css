@@ -623,6 +623,10 @@ body {
     text-align: left;
 }
 
+#aktualnosci .aktualnosci-list .entry-header {
+    margin-bottom: 0;
+}
+
 #rejestracja .sidebanner-left {
     top: 70px;
 }
