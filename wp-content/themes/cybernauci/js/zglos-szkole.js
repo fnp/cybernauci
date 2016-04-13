@@ -165,6 +165,7 @@ window.onload = function () {
                     'selected': 'selected'
                 }).val(modalSerial.newSzkolaNazwa).text(modalSerial.newSzkolaNazwa)
             );
+            main.find('.hidden_szkola_nazwa').val(modalSerial.newSzkolaNazwa);
             if (modalSerial.newSzkolaUlica.length) szkolaUlica.val(modalSerial.newSzkolaUlica);
             if (modalSerial.newSzkolaNumer.length) szkolaNumer.val(modalSerial.newSzkolaNumer);
             if (modalSerial.newSzkolaKodPocztowy.length) szkolaKod.val(modalSerial.newSzkolaKodPocztowy);
