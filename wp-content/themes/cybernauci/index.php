@@ -51,7 +51,7 @@
             <h2>Aktualności</h2>
             <?php
             $cat = get_cat_ID($post->post_title);
-            $posts = get_posts("cat=$cat&showposts=8");
+            $posts = get_posts("cat=$cat&showposts=4");
             if ($posts) {
                 foreach ($posts as $post):
                     setup_postdata($post); ?>
