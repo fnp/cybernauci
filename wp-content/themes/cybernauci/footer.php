@@ -34,22 +34,23 @@
 
                 <div class="site-info">
                     <div class="col-xs-12">
-                        <p><span>Projekt realizowany przez: <img
-                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-nowoczesna_polska.png"
-                                    alt=""/></span>
-                            <span>Partner: <img
-                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-collegium_civitas.png"
-                                    alt=""/></span>
-                            <span>Patronat honorowy: <img
-                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_cyfryzacji.png"
-                                    alt=""/><img
-                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-rzecznik_praw_dziecka.png"
-                                    alt=""/><img
-                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ore.png"
-                                    alt=""/></span></p>
-                        <p>Projekt jest finansowany ze środków: <img
-                                src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_edukacji_narodowej.png"
-                                alt=""/></p>
+                        <p><span>Projekt realizowany przez: <a href="https://nowoczesnapolska.org.pl/"
+                                                               target="_blank"><img
+                                        src="<?php bloginfo('template_directory'); ?>/img/footer-logo-nowoczesna_polska.png"
+                                        alt=""/></a></span>
+                            <span>Partner: <a href="http://www.civitas.edu.pl/" target="_blank"><img
+                                        src="<?php bloginfo('template_directory'); ?>/img/footer-logo-collegium_civitas.png"
+                                        alt=""/></a></span>
+                            <span>Patronat honorowy: <a href="https://mc.gov.pl/" target="_blank"><img
+                                        src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_cyfryzacji.png"
+                                        alt=""/></a><a href="http://brpd.gov.pl/" target="_blank"><img
+                                        src="<?php bloginfo('template_directory'); ?>/img/footer-logo-rzecznik_praw_dziecka.png"
+                                        alt=""/></a><a href="http://www.ore.edu.pl/" target="_blank"><img
+                                        src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ore.png"
+                                        alt=""/></a></span></p>
+                        <p>Projekt jest finansowany ze środków: <a href="https://men.gov.pl/" target="_blank"><img
+                                    src="<?php bloginfo('template_directory'); ?>/img/footer-logo-ministerstwo_edukacji_narodowej.png"
+                                    alt=""/></a></p>
                     </div>
                     <div class="col-xs-12">
                         <p>Jeśli nie oznaczono inaczej, wszystkie materiały na stronie są objęte wolną licencją Creative
