@@ -73,6 +73,4 @@
     </div>
 </div>
 
-<script src="<?php bloginfo('template_directory'); ?>/js/aktualnosci-list.js"></script>
-
 <?php get_footer(); ?>

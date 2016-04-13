@@ -65,6 +65,7 @@
 </div>
 
 <script src="<?php bloginfo('template_directory'); ?>/libs/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="<?php bloginfo('template_directory'); ?>/js/custom.js"></script>
 
 <!-- Piwik -->
 <script type="text/javascript">
