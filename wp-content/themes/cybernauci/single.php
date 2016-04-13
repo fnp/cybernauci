@@ -36,8 +36,7 @@
 
                         if (!empty($prev_post) || !empty($next_post)) {
                             echo '<h3 class="more-article">Czytaj również</h3><div class="row">';
-                            if (!empty($prev_post)) {
-                                print_r($prev_post) ?>
+                            if (!empty($prev_post)) { ?>
                                 <div class="col-xs-12 col-md-6">
                                     <article id="post-<?php echo $prev_post->ID ?>">
                                         <header class="entry-header">
