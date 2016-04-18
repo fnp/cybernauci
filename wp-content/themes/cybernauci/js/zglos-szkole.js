@@ -1,4 +1,4 @@
-window.onload = function () {
+jQuery(document).ready(function () {
     var main = jQuery('#rejestracja .ninja-forms-cont'),
         wojewodztwoList = jQuery(jQuery.map(main.find('select option'), function (val) {
             if (val.text == "Wybierz województwo *") {
@@ -200,4 +200,4 @@ window.onload = function () {
             return true;
         }
     });
-};
+});

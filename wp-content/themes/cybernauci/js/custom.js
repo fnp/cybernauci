@@ -1,4 +1,4 @@
-window.onload = function () {
+jQuery(document).ready(function () {
     var aktualnosciList = jQuery('.aktualnosci-list');
 
     if (aktualnosciList.length) {
@@ -8,4 +8,4 @@ window.onload = function () {
 
         aktualnosciList.find('.mainblock > div').css('min-height', maxHeight);
     }
-};
+});
