@@ -16,7 +16,8 @@
             <div class="container mainblock">
                 <?php
                 $cat = get_cat_ID($post->post_title);
-                $posts = get_posts("cat=$cat");
+                $args = array('posts_per_page' => 999999, 'category' => $cat);
+                $posts = get_posts($args);
                 if ($posts) {
                     foreach ($posts as $post):
                         setup_postdata($post); ?>

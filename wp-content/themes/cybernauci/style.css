@@ -550,6 +550,7 @@ body {
     font-size: 16px;
     margin: -8px 0 0;
     text-align: left;
+    line-height: 0.75em;
 }
 
 .aktualnosci-list article .entry-content {
