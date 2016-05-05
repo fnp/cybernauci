@@ -1,11 +1,13 @@
 jQuery(document).ready(function () {
-    var aktualnosciList = jQuery('.aktualnosci-list');
+    var aktualnosciList = jQuery('.aktualnosci-list'),
+        katalogList = jQuery('.katalog-content');
 
-    if (aktualnosciList.length) {
-        var maxHeight = Math.max.apply(null, aktualnosciList.find('.mainblock > div').map(function () {
-                return jQuery(this).outerHeight();
-            }).get()) + 40;
+    if (aktualnosciList.length || katalogList.length) {
+        var content = (aktualnosciList.length > 0) ? aktualnosciList : katalogList,
+            maxHeight = Math.max.apply(null, content.find('.mainblock > div').map(function () {
+                    return jQuery(this).outerHeight();
+                }).get()) + 40;
 
-        aktualnosciList.find('.mainblock > div').css('min-height', maxHeight);
+        content.find('.mainblock > div').css('min-height', maxHeight);
     }
 });
