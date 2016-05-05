@@ -672,6 +672,12 @@ body {
     text-align: left;
 }
 
+#rejestracja form label {
+    font-size: 14px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
 #rejestracja form input,
 #rejestracja form select,
 #rejestracja form textarea {
@@ -702,6 +708,14 @@ body {
 #rejestracja form textarea:placeholder-shown {
     background-color: #01253B;
     color: #ffffff;
+}
+
+#rejestracja input[type=number]::-webkit-inner-spin-button,
+#rejestracja input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
 }
 
 #rejestracja form .col-xs-12-wrap .ninja-forms-field {
