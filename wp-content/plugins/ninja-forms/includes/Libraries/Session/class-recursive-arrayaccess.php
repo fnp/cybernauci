@@ -11,7 +11,7 @@
  */
 
 // Exit if accessed directly
-if (!defined('ABSPATH')) exit;
+if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Recursive array class to allow multidimensional array access.
@@ -19,8 +19,7 @@ if (!defined('ABSPATH')) exit;
  * @package WordPress
  * @since 3.6.0
  */
-class Recursive_ArrayAccess implements ArrayAccess
-{
+class Recursive_ArrayAccess implements ArrayAccess {
     /**
      * Internal data collection.
      *
@@ -40,21 +39,19 @@ class Recursive_ArrayAccess implements ArrayAccess
      *
      * @param array $data
      */
-    protected function __construct($data = array())
-    {
-        foreach ($data as $key => $value) {
-            $this[$key] = $value;
+    protected function __construct( $data = array() ) {
+        foreach ( $data as $key => $value ) {
+            $this[ $key ] = $value;
         }
     }
 
     /**
      * Allow deep copies of objects
      */
-    public function __clone()
-    {
-        foreach ($this->container as $key => $value) {
-            if ($value instanceof self) {
-                $this[$key] = clone $value;
+    public function __clone() {
+        foreach ( $this->container as $key => $value ) {
+            if ( $value instanceof self ) {
+                $this[ $key ] = clone $value;
             }
         }
     }
@@ -64,12 +61,11 @@ class Recursive_ArrayAccess implements ArrayAccess
      *
      * @return array
      */
-    public function toArray()
-    {
+    public function toArray() {
         $data = $this->container;
-        foreach ($data as $key => $value) {
-            if ($value instanceof self) {
-                $data[$key] = $value->toArray();
+        foreach ( $data as $key => $value ) {
+            if ( $value instanceof self ) {
+                $data[ $key ] = $value->toArray();
             }
         }
         return $data;
@@ -88,9 +84,8 @@ class Recursive_ArrayAccess implements ArrayAccess
      *
      * @return boolean true on success or false on failure.
      */
-    public function offsetExists($offset)
-    {
-        return isset($this->container[$offset]);
+    public function offsetExists( $offset ) {
+        return isset( $this->container[ $offset ]) ;
     }
 
     /**
@@ -102,9 +97,8 @@ class Recursive_ArrayAccess implements ArrayAccess
      *
      * @return mixed Can return all value types.
      */
-    public function offsetGet($offset)
-    {
-        return isset($this->container[$offset]) ? $this->container[$offset] : null;
+    public function offsetGet( $offset ) {
+        return isset( $this->container[ $offset ] ) ? $this->container[ $offset ] : null;
     }
 
     /**
@@ -113,19 +107,18 @@ class Recursive_ArrayAccess implements ArrayAccess
      * @link http://php.net/manual/en/arrayaccess.offsetset.php
      *
      * @param mixed $offset The offset to assign the value to.
-     * @param mixed $value The value to set.
+     * @param mixed $value  The value to set.
      *
      * @return void
      */
-    public function offsetSet($offset, $data)
-    {
-        if (is_array($data)) {
-            $data = new self($data);
+    public function offsetSet( $offset, $data ) {
+        if ( is_array( $data ) ) {
+            $data = new self( $data );
         }
-        if ($offset === null) { // don't forget this!
+        if ( $offset === null ) { // don't forget this!
             $this->container[] = $data;
         } else {
-            $this->container[$offset] = $data;
+            $this->container[ $offset ] = $data;
         }
 
         $this->dirty = true;
@@ -140,8 +133,7 @@ class Recursive_ArrayAccess implements ArrayAccess
      *
      * @return void
      */
-    public function offsetUnset($offset)
-    {
-        unset($this->container[$offset]);
+    public function offsetUnset( $offset ) {
+        unset( $this->container[ $offset ] );
     }
 }

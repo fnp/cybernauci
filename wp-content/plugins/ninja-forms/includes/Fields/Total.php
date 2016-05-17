@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Field_Total
@@ -19,35 +19,35 @@ class NF_Fields_Total extends NF_Abstracts_Input
 
     protected $_test_value = '0.00';
 
-    protected $_settings_exclude = array('placeholder', 'default', 'input_limit_set');
+    protected $_settings_exclude = array( 'placeholder', 'default', 'input_limit_set' );
 
     public function __construct()
     {
         parent::__construct();
 
-        $this->_nicename = __('Total', 'ninja-forms');
+        $this->_nicename = __( 'Total', 'ninja-forms' );
     }
 
-    public function process($total, $data)
+    public function process( $total, $data )
     {
         $subtotal = 0;
 
-        foreach ($data['fields'] as $key => $field) {
+        foreach( $data[ 'fields' ] as $key => $field ){
 
-            if ('shipping' == $field['type']) {
-                $subtotal += $field['shipping_cost'];
+            if( 'shipping' == $field[ 'type' ] ){
+                $subtotal += $field[ 'shipping_cost' ];
             }
         }
 
-        if (isset($data['product_totals'])) {
+        if( isset( $data[ 'product_totals' ] ) ){
 
-            foreach ($data['product_totals'] as $product_total) {
+            foreach( $data[ 'product_totals' ] as $product_total ){
 
                 $subtotal += $product_total;
             }
         }
 
-        $data['new_total'] = number_format($subtotal, 2);
+        $data[ 'new_total' ] = number_format( $subtotal, 2 );
 
         return $data;
     }

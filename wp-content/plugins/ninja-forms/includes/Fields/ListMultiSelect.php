@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_MultiselectList
@@ -21,16 +21,16 @@ class NF_Fields_ListMultiselect extends NF_Abstracts_List
     {
         parent::__construct();
 
-        $this->_nicename = __('Multi-Select', 'ninja-forms');
+        $this->_nicename = __( 'Multi-Select', 'ninja-forms' );
     }
 
-    public function admin_form_element($id, $value)
+    public function admin_form_element( $id, $value )
     {
-        $field = Ninja_Forms()->form()->get_field($id);
+        $field = Ninja_Forms()->form()->get_field( $id );
 
         $options = '';
-        foreach ($field->get_setting('options') as $option) {
-            $selected = (in_array($option['value'], $value)) ? "selected" : '';
+        foreach( $field->get_setting( 'options' ) as $option ){
+            $selected = ( in_array( $option[ 'value' ], $value ) ) ? "selected" : '';
             $options .= "<option value='{$option[ 'value' ]}' $selected>{$option[ 'label' ]}</option>";
         }
 

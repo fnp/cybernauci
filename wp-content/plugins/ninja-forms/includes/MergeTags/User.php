@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_MergeTags_User
@@ -10,43 +10,43 @@ final class NF_MergeTags_User extends NF_Abstracts_MergeTags
     public function __construct()
     {
         parent::__construct();
-        $this->title = __('User', 'ninja-forms');
-        $this->merge_tags = Ninja_Forms()->config('MergeTagsUser');
+        $this->title = __( 'User', 'ninja-forms' );
+        $this->merge_tags = Ninja_Forms()->config( 'MergeTagsUser' );
     }
 
     protected function user_id()
     {
         $current_user = wp_get_current_user();
 
-        return ($current_user) ? $current_user->ID : '';
+        return ( $current_user ) ? $current_user->ID : '';
     }
 
     protected function user_first_name()
     {
         $current_user = wp_get_current_user();
 
-        return ($current_user) ? $current_user->user_firstname : '';
+        return ( $current_user ) ? $current_user->user_firstname : '';
     }
 
     protected function user_last_name()
     {
         $current_user = wp_get_current_user();
 
-        return ($current_user) ? $current_user->user_lastname : '';
+        return ( $current_user ) ? $current_user->user_lastname : '';
     }
 
     protected function user_display_name()
     {
         $current_user = wp_get_current_user();
 
-        return ($current_user) ? $current_user->display_name : '';
+        return ( $current_user ) ? $current_user->display_name : '';
     }
 
     protected function user_email()
     {
         $current_user = wp_get_current_user();
 
-        return ($current_user) ? $current_user->user_email : '';
+        return ( $current_user ) ? $current_user->user_email : '';
     }
 
 } // END CLASS NF_MergeTags_System

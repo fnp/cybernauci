@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Abstracts_FieldOptIn
@@ -21,9 +21,9 @@ abstract class NF_Abstracts_FieldOptIn extends NF_Abstracts_Input
 
     protected $_templates = 'optin';
 
-    protected $_settings = array('type', 'fieldset', 'checkbox_default_value');
+    protected $_settings = array( 'type', 'fieldset', 'checkbox_default_value' );
 
-    protected $_settings_exclude = array('default', 'required', 'placeholder', 'input_limit_set', 'disable_input');
+    protected $_settings_exclude = array( 'default', 'required', 'placeholder', 'input_limit_set', 'disable_input' );
 
     protected $_lists = array();
 
@@ -34,53 +34,52 @@ abstract class NF_Abstracts_FieldOptIn extends NF_Abstracts_Input
         /*
          * Setup 'type' options for the opt-in field.
          */
-        $this->_settings['type']['options'] = array(
+        $this->_settings[ 'type' ][ 'options' ] = array(
             array(
-                'label' => __('Single', 'ninja-forms'),
-                'value' => 'single',
+                'label'     => __( 'Single', 'ninja-forms' ),
+                'value'     => 'single',
             ),
             array(
-                'label' => __('Multiple', 'ninja-forms'),
-                'value' => 'multiple',
+                'label'     => __( 'Multiple', 'ninja-forms' ),
+                'value'     => 'multiple',
             ),
         );
 
         /*
          * Add a refresh extra for the groups fieldset.
          */
-        $this->_settings['fieldset']['label'] = __('Lists', 'ninja-forms') . ' <a href="#"><small>' . __('refresh', 'ninja-forms') . '</small></a>';
-        $this->_settings['fieldset']['deps'] = array('type' => 'multiple');
+        $this->_settings[ 'fieldset' ][ 'label' ] = __( 'Lists', 'ninja-forms' ) . ' <a href="#"><small>' . __( 'refresh', 'ninja-forms' ) . '</small></a>';
+        $this->_settings[ 'fieldset' ][ 'deps' ] = array( 'type' => 'multiple' );
 
         /*
          * Hide the 'type' and 'fieldset' ('groups') settings until they are ready for use.
          */
-        $this->_settings['type']['group'] = '';
-        $this->_settings['fieldset']['group'] = '';
+        $this->_settings[ 'type' ][ 'group' ] = '';
+        $this->_settings[ 'fieldset' ][ 'group' ] = '';
     }
 
-    public function get_parent_type()
+    protected function addList( $name, $label )
     {
-        return $this->_parent_type;
-    }
-
-    protected function addLists(array $lists = array())
-    {
-        if (empty($lists)) return;
-
-        foreach ($lists as $name => $label) {
-            $this->addList($name, $label);
-        }
-    }
-
-    protected function addList($name, $label)
-    {
-        $this->_settings['fieldset']['settings'][] = array(
+        $this->_settings[ 'fieldset' ][ 'settings' ][] = array(
             'name' => $name,
             'type' => 'toggle',
             'label' => $label,
             'width' => 'full',
             'value' => ''
         );
+    }
+
+    protected function addLists( array $lists = array() )
+    {
+        if( empty( $lists ) ) return;
+
+        foreach( $lists as $name => $label ){
+            $this->addList( $name, $label );
+        }
+    }
+
+    public function get_parent_type(){
+        return $this->_parent_type;
     }
 
 }

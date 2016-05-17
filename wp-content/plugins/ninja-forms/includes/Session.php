@@ -10,15 +10,13 @@
  * @since       2.9.18
  */
 // Exit if accessed directly
-if (!defined('ABSPATH')) exit;
-
+if ( ! defined( 'ABSPATH' ) ) exit;
 /**
  * NF_Session Class
  *
  * @since 1.5
  */
-class NF_Session
-{
+class NF_Session {
     /**
      * Holds our session data
      *
@@ -35,7 +33,6 @@ class NF_Session
      * @since 2.9.18
      */
     private $prefix = '';
-
     /**
      * Get things started
      *
@@ -44,27 +41,25 @@ class NF_Session
      *
      * @since 2.9.18
      */
-    public function __construct()
-    {
+    public function __construct() {
         // Use WP_Session (default)
-        if (!defined('WP_SESSION_COOKIE')) {
-            define('WP_SESSION_COOKIE', 'nf_wp_session');
+        if ( ! defined( 'WP_SESSION_COOKIE' ) ) {
+            define( 'WP_SESSION_COOKIE', 'nf_wp_session' );
         }
-        if (!class_exists('Recursive_ArrayAccess')) {
+        if ( ! class_exists( 'Recursive_ArrayAccess' ) ) {
             require_once Ninja_Forms::$dir . 'includes/Libraries/Session/class-recursive-arrayaccess.php';
         }
-        if (!class_exists('WP_Session')) {
+        if ( ! class_exists( 'WP_Session' ) ) {
             require_once Ninja_Forms::$dir . 'includes/Libraries/Session/class-wp-session.php';
             require_once Ninja_Forms::$dir . 'includes/Libraries/Session/wp-session.php';
         }
 
-        add_filter('wp_session_expiration_variant', array($this, 'set_expiration_variant_time'), 99999);
-        add_filter('wp_session_expiration', array($this, 'set_expiration_time'), 99999);
+        add_filter( 'wp_session_expiration_variant', array( $this, 'set_expiration_variant_time' ), 99999 );
+        add_filter( 'wp_session_expiration', array( $this, 'set_expiration_time' ), 99999 );
 
-        add_action('plugins_loaded', array($this, 'init'), -1);
+        add_action( 'plugins_loaded', array( $this, 'init' ), -1 );
 
     }
-
     /**
      * Setup the WP_Session instance
      *
@@ -72,12 +67,10 @@ class NF_Session
      * @since 2.9.18
      * @return void
      */
-    public function init()
-    {
+    public function init() {
         $this->session = WP_Session::get_instance();
         return $this->session;
     }
-
     /**
      * Retrieve session ID
      *
@@ -85,11 +78,9 @@ class NF_Session
      * @since 2.9.18
      * @return string Session ID
      */
-    public function get_id()
-    {
+    public function get_id() {
         return $this->session->session_id;
     }
-
     /**
      * Retrieve a session variable
      *
@@ -98,12 +89,10 @@ class NF_Session
      * @param string $key Session key
      * @return string Session variable
      */
-    public function get($key)
-    {
-        $key = sanitize_key($key);
-        return isset($this->session[$key]) ? maybe_unserialize($this->session[$key]) : false;
+    public function get( $key ) {
+        $key = sanitize_key( $key );
+        return isset( $this->session[ $key ] ) ? maybe_unserialize( $this->session[ $key ] ) : false;
     }
-
     /**
      * Set a session variable
      *
@@ -112,15 +101,14 @@ class NF_Session
      * @param integer $value Session variable
      * @return string Session variable
      */
-    public function set($key, $value)
-    {
-        $key = sanitize_key($key);
-        if (is_array($value)) {
-            $this->session[$key] = serialize($value);
+    public function set( $key, $value ) {
+        $key = sanitize_key( $key );
+        if ( is_array( $value ) ) {
+            $this->session[ $key ] = serialize( $value );
         } else {
-            $this->session[$key] = $value;
+            $this->session[ $key ] = $value;
         }
-        return $this->session[$key];
+        return $this->session[ $key ];
     }
 
     /**
@@ -130,10 +118,9 @@ class NF_Session
      * @param string $key
      * @return void
      */
-    public function delete()
-    {
-        delete_option('_wp_session_' . $this->session->session_id);
-        delete_option('_wp_session_expires_' . $this->session->session_id);
+    public function delete() {
+        delete_option( '_wp_session_' . $this->session->session_id );
+        delete_option( '_wp_session_expires_' . $this->session->session_id );
     }
 
     /**
@@ -144,11 +131,9 @@ class NF_Session
      * @param int $exp Default expiration (1 hour)
      * @return int
      */
-    public function set_expiration_variant_time($exp)
-    {
+    public function set_expiration_variant_time( $exp ) {
         return 60 * 23;
     }
-
     /**
      * Force the cookie expiration time to 24 minutes
      *
@@ -157,8 +142,7 @@ class NF_Session
      * @param int $exp Default expiration (1 hour)
      * @return int
      */
-    public function set_expiration_time($exp)
-    {
+    public function set_expiration_time( $exp ) {
         return 60 * 24;
     }
 }

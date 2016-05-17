@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_Address2
@@ -14,12 +14,12 @@ class NF_Fields_Address2 extends NF_Fields_Textbox
 
     protected $_section = '';
 
-    protected $_templates = array('address2', 'address');
+    protected $_templates = array( 'address2', 'address' );
 
     public function __construct()
     {
         parent::__construct();
 
-        $this->_nicename = __('Address 2', 'ninja-forms');
+        $this->_nicename = __( 'Address 2', 'ninja-forms' );
     }
 }

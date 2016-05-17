@@ -3,7 +3,7 @@
         <!-- main content area. Where fields and actions are rendered. -->
 
         <?php
-        for ($i = 0; $i < 25; $i++) {
+        for ($i=0; $i < 25; $i++) {
             echo '<div class="nf-field-wrap">Field</div>';
         }
         ?>
@@ -15,11 +15,11 @@
         <!-- THIS IS THE CONTENT FOR EDITING FIELDS -->
         <header class="nf-full">
             <h2>Editing Field</h2>
-            <span><input type="submit" class="save-field-settings" value="SAVE"/></span>
+            <span><input type="submit" class="save-field-settings" value="SAVE" /></span>
         </header>
         <div class="nf-one-half">
             <label>Label Name</label>
-            <input type="text"/>
+            <input type="text" />
         </div>
         <div class="nf-one-half">
             <label>Label Position</label>
@@ -33,7 +33,7 @@
         </div>
         <div class="nf-full">
             <label>Class Name</label>
-            <input type="text"/>
+            <input type="text" />
         </div>
     </div>
 

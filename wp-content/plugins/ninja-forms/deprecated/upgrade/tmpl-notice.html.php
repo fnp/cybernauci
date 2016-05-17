@@ -5,8 +5,6 @@
         Cowabunga! You just unlocked the Ninja Forms THREE release candidate.
     </p>
     <ul class="nf-notice-body nf-red">
-        <li><span class="dashicons dashicons-awards"></span><a
-                href="<?php echo admin_url('admin.php?page=ninja-forms-three'); ?>">Upgrade to the Release Candidate</a>
-        </li>
+        <li><span class="dashicons dashicons-awards"></span><a href="<?php echo admin_url( 'admin.php?page=ninja-forms-three' ); ?>">Upgrade to the Release Candidate</a></li>
     </ul>
 </div>

@@ -1,6 +1,6 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
-return apply_filters('ninja_forms_action_collect_payment_settings', array(
+return apply_filters( 'ninja_forms_action_collect_payment_settings', array(
 
     /*
     |--------------------------------------------------------------------------
@@ -11,7 +11,7 @@ return apply_filters('ninja_forms_action_collect_payment_settings', array(
     'payment_gateways' => array(
         'name' => 'payment_gateways',
         'type' => 'select',
-        'label' => __('Payment Gateways', 'ninja-forms'),
+        'label' => __( 'Payment Gateways', 'ninja-forms' ),
         'options' => array(
             array(
                 'label' => '--',

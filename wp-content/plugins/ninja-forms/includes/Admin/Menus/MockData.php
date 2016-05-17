@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 final class NF_Admin_Menus_MockData extends NF_Abstracts_Submenu
 {
@@ -10,11 +10,11 @@ final class NF_Admin_Menus_MockData extends NF_Abstracts_Submenu
 
     public function __construct()
     {
-        if (!defined('WP_DEBUG') || !WP_DEBUG) return;
+        if( ! defined( 'NF_DEV' ) || ! NF_DEV ) return;
 
         parent::__construct();
 
-        if (isset($_GET['page']) && 'nf-mock-data' == $_GET['page']) {
+        if( isset( $_GET[ 'page' ] ) && 'nf-mock-data' == $_GET[ 'page' ] ) {
             add_action('admin_init', array($this, 'mock_and_redirect'));
         }
     }
@@ -22,8 +22,15 @@ final class NF_Admin_Menus_MockData extends NF_Abstracts_Submenu
     public function mock_and_redirect()
     {
         $this->mock_data();
-        wp_redirect(admin_url('admin.php?page=ninja-forms'));
+        wp_redirect( admin_url( 'admin.php?page=ninja-forms' ) );
         exit;
+    }
+
+    public function display()
+    {
+        // Fallback if not redirected.
+        $this->mock_data();
+        echo '<div class="wrap">Migrations and Mock Data complete. <a href="' . admin_url( "admin.php?page=ninja-forms" ) . '">View Forms</a></div>';
     }
 
     private function mock_data()
@@ -38,19 +45,12 @@ final class NF_Admin_Menus_MockData extends NF_Abstracts_Submenu
         $mock_data->form_product_2();
         $mock_data->form_product_3();
         $mock_data->form_email_submission();
-        $mock_data->form_long_form(100);
-        $mock_data->form_long_form(300);
-        $mock_data->form_long_form(500);
+        $mock_data->form_long_form( 100 );
+        $mock_data->form_long_form( 300 );
+        $mock_data->form_long_form( 500 );
         $mock_data->form_kitchen_sink();
         $mock_data->form_bathroom_sink();
         $mock_data->form_calc_form();
-    }
-
-    public function display()
-    {
-        // Fallback if not redirected.
-        $this->mock_data();
-        echo '<div class="wrap">Migrations and Mock Data complete. <a href="' . admin_url("admin.php?page=ninja-forms") . '">View Forms</a></div>';
     }
 
 } // End Class NF_Admin_Settings

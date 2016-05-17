@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
 {
@@ -8,105 +8,73 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
 
     public function __construct()
     {
-        add_action('plugins_loaded', array($this, 'import_form_listener'));
-        add_action('plugins_loaded', array($this, 'export_form_listener'));
+        add_action( 'plugins_loaded', array( $this, 'import_form_listener' ) );
+        add_action( 'plugins_loaded', array( $this, 'export_form_listener' ) );
 
-        add_action('plugins_loaded', array($this, 'import_fields_listener'));
-        add_action('plugins_loaded', array($this, 'export_fields_listener'));
+        add_action( 'plugins_loaded', array( $this, 'import_fields_listener' ) );
+        add_action( 'plugins_loaded', array( $this, 'export_fields_listener' ) );
 
-        add_filter('ninja_forms_before_import_fields', array($this, 'import_fields_backwards_compatibility'));
+        add_filter( 'ninja_forms_before_import_fields', array( $this, 'import_fields_backwards_compatibility' ) );
 
         parent::__construct();
     }
 
     public function import_form_listener()
     {
-        if (!isset($_FILES['nf_import_form']) || !$_FILES['nf_import_form']) return;
+        if( ! current_user_can( apply_filters( 'ninja_forms_admin_import_form_capabilities', 'manage_options' ) ) ) return;
 
-        $this->upload_error_check($_FILES['nf_import_form']);
+        if( ! isset( $_FILES[ 'nf_import_form' ] ) || ! $_FILES[ 'nf_import_form' ] ) return;
 
-        $import = file_get_contents($_FILES['nf_import_form']['tmp_name']);
+        $this->upload_error_check( $_FILES[ 'nf_import_form' ] );
 
-        $data = unserialize(base64_decode($import));
+        $import = file_get_contents( $_FILES[ 'nf_import_form' ][ 'tmp_name' ] );
 
-        if (!$data) {
-            $data = unserialize($import);
+        $data = unserialize( base64_decode( $import ) );
+
+        if( ! $data ) {
+            $data = unserialize( $import );
         }
 
-        Ninja_Forms()->form()->import_form($data);
-    }
-
-    private function upload_error_check($file)
-    {
-        if (!$file['error']) return;
-
-        switch ($file['error']) {
-            case UPLOAD_ERR_INI_SIZE:
-                $error_message = __('The uploaded file exceeds the upload_max_filesize directive in php.ini.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_FORM_SIZE:
-                $error_message = __('The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_PARTIAL:
-                $error_message = __('The uploaded file was only partially uploaded.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_NO_FILE:
-                $error_message = __('No file was uploaded.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_NO_TMP_DIR:
-                $error_message = __('Missing a temporary folder.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_CANT_WRITE:
-                $error_message = __('Failed to write file to disk.', 'ninja-forms');
-                break;
-            case UPLOAD_ERR_EXTENSION:
-                $error_message = __('File upload stopped by extension.', 'ninja-forms');
-                break;
-            default:
-                $error_message = __('Unknown upload error.', 'ninja-forms');
-                break;
-        }
-
-        $args = array(
-            'title' => __('File Upload Error', 'ninja-forms'),
-            'message' => $error_message,
-            'debug' => $file,
-        );
-        $message = Ninja_Forms()->template('admin-wp-die.html.php', $args);
-        wp_die($message, $args['title'], array('back_link' => TRUE));
+        Ninja_Forms()->form()->import_form( $data );
     }
 
     public function export_form_listener()
     {
-        if (isset($_REQUEST['nf_export_form']) && $_REQUEST['nf_export_form']) {
-            $form_id = $_REQUEST['nf_export_form'];
-            Ninja_Forms()->form($form_id)->export_form();
+        if( ! current_user_can( apply_filters( 'ninja_forms_admin_export_form_capabilities', 'manage_options' ) ) ) return;
+
+        if( isset( $_REQUEST[ 'nf_export_form' ] ) && $_REQUEST[ 'nf_export_form' ] ){
+            $form_id = $_REQUEST[ 'nf_export_form' ];
+            Ninja_Forms()->form( $form_id )->export_form();
         }
     }
 
     public function import_fields_listener()
     {
-        if (!isset($_FILES['nf_import_fields']) || !$_FILES['nf_import_fields']) return;
+        if( ! current_user_can( apply_filters( 'ninja_forms_admin_import_fields_capabilities', 'manage_options' ) ) ) return;
 
-        $this->upload_error_check($_FILES['nf_import_fields']);
+        if( ! isset( $_FILES[ 'nf_import_fields' ] ) || ! $_FILES[ 'nf_import_fields' ] ) return;
 
-        $import = file_get_contents($_FILES['nf_import_fields']['tmp_name']);
+        $this->upload_error_check( $_FILES[ 'nf_import_fields' ] );
 
-        $fields = unserialize($import);
+        $import = file_get_contents( $_FILES[ 'nf_import_fields' ][ 'tmp_name' ] );
 
-        foreach ($fields as $settings) {
-            Ninja_Forms()->form()->import_field($settings);
+        $fields = unserialize( $import );
+
+        foreach( $fields as $settings ){
+            Ninja_Forms()->form()->import_field( $settings );
         }
     }
 
     public function export_fields_listener()
     {
-        if (isset($_REQUEST['nf_export_fields']) && $_REQUEST['nf_export_fields']) {
-            $field_ids = $_REQUEST['nf_export_fields'];
+        if( ! current_user_can( apply_filters( 'ninja_forms_admin_export_fields_capabilities', 'manage_options' ) ) ) return;
+
+        if( isset( $_REQUEST[ 'nf_export_fields' ] ) && $_REQUEST[ 'nf_export_fields' ] ){
+            $field_ids = $_REQUEST[ 'nf_export_fields' ];
 
             $fields = array();
-            foreach ($field_ids as $field_id) {
-                $field = Ninja_Forms()->form()->field($field_id)->get();
+            foreach( $field_ids as $field_id ){
+                $field = Ninja_Forms()->form()->field( $field_id )->get();
 
                 $fields[] = $field->get_settings();
             }
@@ -116,32 +84,33 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
             header("Pragma: no-cache");
             header("Expires: 0");
 
-            echo serialize($fields);
+            echo serialize( $fields );
 
             die();
         }
     }
 
+
     public function display()
     {
-        $tabs = apply_filters('ninja_forms_import_export_tabs', array(
-                'forms' => __('Form', 'ninja-forms'),
-                'favorite_fields' => __('Favorite Fields', 'ninja-forms')
+        $tabs = apply_filters( 'ninja_forms_import_export_tabs', array(
+            'forms' => __( 'Form', 'ninja-forms' ),
+            'favorite_fields' => __( 'Favorite Fields', 'ninja-forms' )
             )
         );
 
-        $tab_keys = array_keys($tabs);
-        $active_tab = (isset($_GET['tab'])) ? $_GET['tab'] : reset($tab_keys);
+        $tab_keys = array_keys( $tabs );
+        $active_tab = ( isset( $_GET[ 'tab' ] ) ) ? $_GET[ 'tab' ] : reset( $tab_keys );
 
         $this->add_meta_boxes();
 
         wp_enqueue_script('postbox');
         wp_enqueue_script('jquery-ui-draggable');
 
-        wp_nonce_field('closedpostboxes', 'closedpostboxesnonce', false);
-        wp_nonce_field('meta-box-order', 'meta-box-order-nonce', false);
+        wp_nonce_field( 'closedpostboxes', 'closedpostboxesnonce', false );
+        wp_nonce_field( 'meta-box-order', 'meta-box-order-nonce', false );
 
-        Ninja_Forms::template('admin-menu-import-export.html.php', compact('tabs', 'active_tab'));
+        Ninja_Forms::template( 'admin-menu-import-export.html.php', compact( 'tabs', 'active_tab' ) );
     }
 
     public function add_meta_boxes()
@@ -151,15 +120,15 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
          */
         add_meta_box(
             'nf_import_export_forms_import',
-            __('Import Forms', 'ninja-forms'),
-            array($this, 'template_import_forms'),
+            __( 'Import Forms', 'ninja-forms' ),
+            array( $this, 'template_import_forms' ),
             'nf_import_export_forms'
         );
 
         add_meta_box(
             'nf_import_export_forms_export',
-            __('Export Forms', 'ninja-forms'),
-            array($this, 'template_export_forms'),
+            __( 'Export Forms', 'ninja-forms' ),
+            array( $this, 'template_export_forms' ),
             'nf_import_export_forms'
         );
 
@@ -168,33 +137,39 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
          */
         add_meta_box(
             'nf_import_export_favorite_fields_import',
-            __('Import Favorite Fields', 'ninja-forms'),
-            array($this, 'template_import_favorite_fields'),
+            __( 'Import Favorite Fields', 'ninja-forms' ),
+            array( $this, 'template_import_favorite_fields' ),
             'nf_import_export_favorite_fields'
         );
 
         add_meta_box(
             'nf_import_export_favorite_fields_export',
-            __('Export Favorite Fields', 'ninja-forms'),
-            array($this, 'template_export_favorite_fields'),
+            __( 'Export Favorite Fields', 'ninja-forms' ),
+            array( $this, 'template_export_favorite_fields' ),
             'nf_import_export_favorite_fields'
         );
     }
 
     public function template_import_forms()
     {
-        Ninja_Forms::template('admin-metabox-import-export-forms-import.html.php');
+        Ninja_Forms::template( 'admin-metabox-import-export-forms-import.html.php' );
     }
 
     public function template_export_forms()
     {
         $forms = Ninja_Forms()->form()->get_forms();
-        Ninja_Forms::template('admin-metabox-import-export-forms-export.html.php', compact('forms'));
+        Ninja_Forms::template( 'admin-metabox-import-export-forms-export.html.php', compact( 'forms' ) );
     }
 
     public function template_import_favorite_fields()
     {
-        Ninja_Forms::template('admin-metabox-import-export-favorite-fields-import.html.php');
+        Ninja_Forms::template( 'admin-metabox-import-export-favorite-fields-import.html.php' );
+    }
+
+    public function template_export_favorite_fields()
+    {
+        $fields = Ninja_Forms()->form()->get_fields( array( 'saved' => 1) );
+        Ninja_Forms::template( 'admin-metabox-import-export-favorite-fields-export.html.php', compact( 'fields' ) );
     }
 
     /*
@@ -203,126 +178,120 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
     |--------------------------------------------------------------------------
     */
 
-    public function template_export_favorite_fields()
-    {
-        $fields = Ninja_Forms()->form()->get_fields(array('saved' => 1));
-        Ninja_Forms::template('admin-metabox-import-export-favorite-fields-export.html.php', compact('fields'));
-    }
-
-    public function import_fields_backwards_compatibility($field)
+    public function import_fields_backwards_compatibility( $field )
     {
         //TODO: This was copied over. Instead need to abstract backwards compatibility for re-use.
         // Flatten field settings array
-        if (isset($field['data'])) {
-            $field = array_merge($field, $field['data']);
-            unset($field['data']);
+        if( isset( $field[ 'data' ] ) ){
+            $field = array_merge( $field, $field[ 'data' ] );
+            unset( $field[ 'data' ] );
         }
 
         // Drop form_id in favor of parent_id, which is set by the form.
-        if (isset($field['form_id'])) {
-            unset($field['form_id']);
+        if( isset( $field[ 'form_id' ] ) ){
+            unset( $field[ 'form_id' ] );
         }
 
         // Remove `_` prefix from type setting
-        $field['type'] = ltrim($field['type'], '_');
+        $field[ 'type' ] = ltrim( $field[ 'type' ], '_' );
 
         // Type: `text` -> `textbox`
-        if ('text' == $field['type']) {
-            $field['type'] = 'textbox';
+        if( 'text' == $field[ 'type' ] ){
+            $field[ 'type' ] = 'textbox';
         }
 
-        if ('submit' == $field['type']) {
-            $field['processing_label'] = 'Processing';
+        if( 'submit' == $field[ 'type' ] ){
+            $field[ 'processing_label' ] = 'Processing';
         }
 
-        if ('calc' == $field['type']) {
-            $field['type'] = 'note';
+        if( 'calc' == $field[ 'type' ] ){
+            $field[ 'type' ] = 'note';
 
-            if (isset($field['calc_method'])) {
+            if( isset( $field[ 'calc_method' ] ) ) {
 
-                switch ($field['calc_method']) {
+                switch( $field[ 'calc_method' ] ){
                     case 'eq':
-                        $method = __('Equation (Advanced)', 'ninja-forms');
+                        $method = __( 'Equation (Advanced)', 'ninja-forms' );
                         break;
                     case 'fields':
-                        $method = __('Operations and Fields (Advanced)', 'ninja-forms');
+                        $method = __( 'Operations and Fields (Advanced)', 'ninja-forms' );
                         break;
                     case 'auto':
-                        $method = __('Auto-Total Fields', 'ninja-forms');
+                        $method = __( 'Auto-Total Fields', 'ninja-forms' );
                         break;
                     default:
                         $method = '';
                 }
                 $field['default'] = $method . "\r\n";
 
-                if ('eq' == $field['calc_method'] && isset($field['calc_eq'])) {
+                if ('eq' == $field['calc_method'] && isset( $field['calc_eq'] ) ) {
                     $field['default'] .= $field['calc_eq'];
                 }
 
-                if ('fields' == $field['calc_method'] && isset($field['calc'])) {
+                if ('fields' == $field['calc_method'] && isset( $field['calc'] ) ) {
                     // TODO: Support 'operations and fields (advanced)' calculations.
                 }
 
-                if ('auto' == $field['calc_method'] && isset($field['calc'])) {
+                if ('auto' == $field['calc_method'] && isset( $field['calc'] ) ) {
                     // TODO: Support 'auto-totaling' calculations.
                 }
             }
 
-            unset($field['calc']);
-            unset($field['calc_eq']);
-            unset($field['calc_method']);
+            unset( $field[ 'calc' ] );
+            unset( $field[ 'calc_eq' ] );
+            unset( $field[ 'calc_method' ] );
         }
 
-        if (isset($field['email'])) {
+        if( isset( $field[ 'email' ] ) ){
 
-            if ('textbox' == $field['type'] && $field['email']) {
+            if( 'textbox' == $field[ 'type' ] && $field[ 'email' ] ) {
                 $field['type'] = 'email';
             }
-            unset($field['email']);
+            unset( $field[ 'email' ] );
         }
 
-        if (isset($field['class'])) {
-            $field['element_class'] = $field['class'];
-            unset($field['class']);
+        if( isset( $field[ 'class' ] ) ){
+            $field[ 'element_class' ] = $field[ 'class' ];
+            unset( $field[ 'class' ] );
         }
 
-        if (isset($field['req'])) {
-            $field['required'] = $field['req'];
-            unset($field['req']);
+        if( isset( $field[ 'req' ] ) ){
+            $field[ 'required' ] = $field[ 'req' ];
+            unset( $field[ 'req' ] );
         }
 
-        if (isset($field['default_value_type'])) {
+        if( isset( $field[ 'default_value_type' ] ) ){
 
             /* User Data */
-            if ('_user_id' == $field['default_value_type']) $field['default'] = '{user:id}';
-            if ('_user_email' == $field['default_value_type']) $field['default'] = '{user:email}';
-            if ('_user_lastname' == $field['default_value_type']) $field['default'] = '{user:last_name}';
-            if ('_user_firstname' == $field['default_value_type']) $field['default'] = '{user:first_name}';
-            if ('_user_display_name' == $field['default_value_type']) $field['default'] = '{user:display_name}';
+            if( '_user_id' == $field[ 'default_value_type' ] )           $field[ 'default' ] = '{user:id}';
+            if( '_user_email' == $field[ 'default_value_type' ] )        $field[ 'default' ] = '{user:email}';
+            if( '_user_lastname' == $field[ 'default_value_type' ] )     $field[ 'default' ] = '{user:last_name}';
+            if( '_user_firstname' == $field[ 'default_value_type' ] )    $field[ 'default' ] = '{user:first_name}';
+            if( '_user_display_name' == $field[ 'default_value_type' ] ) $field[ 'default' ] = '{user:display_name}';
 
             /* Post Data */
-            if ('post_id' == $field['default_value_type']) $field['default'] = '{post:id}';
-            if ('post_url' == $field['default_value_type']) $field['default'] = '{post:url}';
-            if ('post_title' == $field['default_value_type']) $field['default'] = '{post:title}';
+            if( 'post_id' == $field[ 'default_value_type' ] )    $field[ 'default' ] = '{post:id}';
+            if( 'post_url' == $field[ 'default_value_type' ] )   $field[ 'default' ] = '{post:url}';
+            if( 'post_title' == $field[ 'default_value_type' ] ) $field[ 'default' ] = '{post:title}';
 
             /* System Data */
-            if ('today' == $field['default_value_type']) $field['default'] = '{system:date}';
+            if( 'today' == $field[ 'default_value_type' ] ) $field[ 'default' ] = '{system:date}';
 
             /* Miscellaneous */
-            if ('_custom' == $field['default_value_type'] && isset($field['default_value'])) {
-                $field['default'] = $field['default_value'];
+            if( '_custom' == $field[ 'default_value_type' ] && isset( $field[ 'default_value' ] ) ){
+                $field[ 'default' ] = $field[ 'default_value' ];
             }
-            if ('querystring' == $field['default_value_type'] && isset($field['default_value'])) {
-                $field['default'] = '{' . $field['default_value'] . '}';
+            if( 'querystring' == $field[ 'default_value_type' ] && isset( $field[ 'default_value' ] ) ){
+                $field[ 'default' ] = '{' . $field[ 'default_value' ] . '}';
             }
 
-            unset($field['default_value']);
-            unset($field['default_value_type']);
+            unset( $field[ 'default_value' ] );
+            unset( $field[ 'default_value_type' ] );
         }
 
-        if ('list' == $field['type']) {
+        if( 'list' == $field[ 'type' ] ) {
 
-            if (isset($field['list_type'])) {
+            if ( isset( $field[ 'list_type' ] ) ) {
 
                 if ('dropdown' == $field['list_type']) {
                     $field['type'] = 'listselect';
@@ -338,25 +307,65 @@ final class NF_Admin_Menus_ImportExport extends NF_Abstracts_Submenu
                 }
             }
 
-            if (isset($field['list']['options'])) {
-                $field['options'] = $field['list']['options'];
-                unset($field['list']['options']);
+            if( isset( $field[ 'list' ][ 'options' ] ) ) {
+                $field[ 'options' ] = $field[ 'list' ][ 'options' ];
+                unset( $field[ 'list' ][ 'options' ] );
             }
         }
 
         // Convert `textbox` to other field types
-        foreach (array('fist_name', 'last_name', 'user_zip', 'user_city', 'user_phone', 'user_email', 'user_address_1', 'user_address_2', 'datepicker') as $item) {
-            if (isset($field[$item]) && $field[$item]) {
-                $field['type'] = str_replace(array('_', 'user', '1', '2', 'picker'), '', $item);
+        foreach( array( 'fist_name', 'last_name', 'user_zip', 'user_city', 'user_phone', 'user_email', 'user_address_1', 'user_address_2', 'datepicker' ) as $item ) {
+            if ( isset( $field[ $item ] ) && $field[ $item ] ) {
+                $field[ 'type' ] = str_replace( array( '_', 'user', '1', '2', 'picker' ), '', $item );
 
-                unset($field[$item]);
+                unset( $field[ $item ] );
             }
         }
 
-        if ('timed_submit' == $field['type']) {
-            $field['type'] = 'submit';
+        if( 'timed_submit' == $field[ 'type' ] ) {
+            $field[ 'type' ] = 'submit';
         }
 
         return $field;
+    }
+
+    private function upload_error_check( $file )
+    {
+        if( ! $file[ 'error' ] ) return;
+
+        switch ( $file[ 'error' ] ) {
+            case UPLOAD_ERR_INI_SIZE:
+                $error_message = __( 'The uploaded file exceeds the upload_max_filesize directive in php.ini.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_FORM_SIZE:
+                $error_message = __( 'The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_PARTIAL:
+                $error_message = __( 'The uploaded file was only partially uploaded.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_NO_FILE:
+                $error_message = __( 'No file was uploaded.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_NO_TMP_DIR:
+                $error_message = __( 'Missing a temporary folder.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_CANT_WRITE:
+                $error_message = __( 'Failed to write file to disk.', 'ninja-forms' );
+                break;
+            case UPLOAD_ERR_EXTENSION:
+                $error_message = __( 'File upload stopped by extension.', 'ninja-forms' );
+                break;
+            default:
+                $error_message = __( 'Unknown upload error.', 'ninja-forms' );
+                break;
+        }
+
+        $args = array(
+            'title' => __( 'File Upload Error', 'ninja-forms' ),
+            'message' => $error_message,
+            'debug' => $file,
+        );
+        $message = Ninja_Forms()->template( 'admin-wp-die.html.php', $args );
+        wp_die( $message, $args[ 'title' ], array( 'back_link' => TRUE ) );
     }
 }

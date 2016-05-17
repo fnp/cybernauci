@@ -300,8 +300,8 @@ var requirejs, require, define;
                     //CommonJS module spec 1.1
                     cjsModule = args[i] = handlers.module(name);
                 } else if (hasProp(defined, depName) ||
-                    hasProp(waiting, depName) ||
-                    hasProp(defining, depName)) {
+                           hasProp(waiting, depName) ||
+                           hasProp(defining, depName)) {
                     args[i] = callDep(depName);
                 } else if (map.p) {
                     map.p.load(map.n, makeRequire(relName, true), makeLoad(depName), {});
@@ -318,7 +318,7 @@ var requirejs, require, define;
                 //favor that over return value and exports. After that,
                 //favor a non-undefined return value over exports use.
                 if (cjsModule && cjsModule.exports !== undef &&
-                    cjsModule.exports !== defined[name]) {
+                        cjsModule.exports !== defined[name]) {
                     defined[name] = cjsModule.exports;
                 } else if (ret !== undef || !usingExports) {
                     //Use the return value from the function.
@@ -365,8 +365,7 @@ var requirejs, require, define;
         }
 
         //Support require(['a'])
-        callback = callback || function () {
-            };
+        callback = callback || function () {};
 
         //If relName is a function, it is an errback handler,
         //so remove it.

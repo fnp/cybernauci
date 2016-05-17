@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_Address
@@ -22,6 +22,6 @@ class NF_Fields_Address extends NF_Fields_Textbox
     {
         parent::__construct();
 
-        $this->_nicename = __('Address', 'ninja-forms');
+        $this->_nicename = __( 'Address', 'ninja-forms' );
     }
 }

@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_Fields_CreditCard
@@ -21,6 +21,6 @@ class NF_Fields_CreditCard extends NF_Abstracts_Field
     {
         parent::__construct();
 
-        $this->_nicename = __('Credit Card', 'ninja-forms');
+        $this->_nicename = __( 'Credit Card', 'ninja-forms' );
     }
 }

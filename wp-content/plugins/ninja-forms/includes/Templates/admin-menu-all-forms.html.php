@@ -12,17 +12,17 @@
 
     <?php
 
-    if (isset($_GET['debug'])) {
+        if( isset( $_GET['debug' ] ) ){
 
-        $forms = Ninja_Forms()->form()->get_forms();
+            $forms = Ninja_Forms()->form()->get_forms();
 
-        foreach ($forms as $form) {
+            foreach( $forms as $form ){
 
-            echo "<pre>";
-            var_dump($form->get_settings());
-            echo "</pre>";
+                echo "<pre>";
+                var_dump( $form->get_settings() );
+                echo "</pre>";
+            }
         }
-    }
 
     ?>
 

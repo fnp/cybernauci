@@ -1,4 +1,4 @@
-<?php if (!defined('ABSPATH')) exit;
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 /**
  * Class NF_MergeTags_Calcs
@@ -12,25 +12,25 @@ final class NF_MergeTags_Calcs extends NF_Abstracts_MergeTags
     public function __construct()
     {
         parent::__construct();
-        $this->title = __('Calculations', 'ninja-forms');
+        $this->title = __( 'Calculations', 'ninja-forms' );
     }
 
     public function __call($name, $arguments)
     {
-        return $this->merge_tags[$name]['calc_value'];
+        return $this->merge_tags[ $name ][ 'calc_value' ];
     }
 
-    public function set_merge_tags($key, $value)
+    public function set_merge_tags( $key, $value )
     {
-        $callback = (is_numeric($key)) ? 'calc_' . $key : $key;
+        $callback = ( is_numeric( $key ) ) ? 'calc_' . $key : $key;
 
         try {
             $calculated_value = Ninja_Forms()->eos()->solve($value);
-        } catch (Exception $e) {
+        } catch( Exception $e ){
             $calculated_value = FALSE;
         }
 
-        $this->merge_tags[$callback] = array(
+        $this->merge_tags[ $callback ] = array(
             'id' => $key,
             'tag' => "{calc:$key}",
 //            'label' => __( '', 'ninja_forms' ),
