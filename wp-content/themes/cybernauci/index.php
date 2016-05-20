@@ -19,7 +19,7 @@
                         bezpiecznego
                         korzystania z cyberprzestrzeni oraz reagowania na zagrożenia.
                     </p>
-                    <p>Uczestnikom i uczestniczkom projekty oferujemy:</p>
+                    <p>Uczestnikom i uczestniczkom projektu oferujemy:</p>
                 </div>
                 <div class="innerBlock col-xs-12 col-md-4">
                     <img src="<?php bloginfo('template_directory'); ?>/img/index-icon-left.png" class="img-responsive"/>
