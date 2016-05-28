@@ -83,6 +83,4 @@
         </div>
     </div>
 
-    <script src="<?php bloginfo('template_directory'); ?>/js/zglos-szkole.js"></script>
-
 <?php get_footer(); ?>

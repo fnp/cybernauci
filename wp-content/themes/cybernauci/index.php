@@ -53,8 +53,7 @@
             $cat = get_cat_ID($post->post_title);
             $posts = get_posts("cat=$cat&showposts=4");
             if ($posts) {
-                foreach ($posts as $post):
-                    setup_postdata($post); ?>
+                foreach ($posts as $post): setup_postdata($post); ?>
                     <div class="col-xs-12 col-md-3">
                         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
                             <header class="entry-header">
@@ -94,14 +93,9 @@
                             </footer>
                         </article>
                     </div>
-                <? endforeach;
+                <?php endforeach;
+                wp_reset_postdata();
             }
-
-            the_posts_pagination(array(
-                'prev_text' => __('Previous page', 'cybernauci'),
-                'next_text' => __('Next page', 'cybernauci'),
-                'before_page_number' => '<span class="meta-nav screen-reader-text">' . __('Page', 'cybernauci') . ' </span>',
-            ));
             ?>
         </div>
     </div>
