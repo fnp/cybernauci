@@ -985,6 +985,22 @@ big {
   background-color: #01253B;
   color: #ffffff;
 }
+
+.single-post.postid-47 .mainblock header.entry-header h2.entry-title,
+.single-post.postid-47 .aktualnosci-list .col-xs-12.col-md-2 a[rel="bookmark"],
+.single-post.postid-47 .aktualnosci-list article > header.entry-header,
+.single-post.postid-47 .aktualnosci-list article > h3,
+.single-post.postid-47 .aktualnosci-list article > div.row {
+  display: none;
+}
+
+.single-post.postid-47 #aktualnosci .sidebanner-left {
+  top: 0;
+}
+
+.single-post.postid-47 #aktualnosci .sidebanner-right {
+  top: 90px;
+}
 @media (min-width: 992px) {
   #rejestracja form .col-md-6-wrap .ninja-forms-field {
     width: 50%;
