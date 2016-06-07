@@ -731,29 +731,6 @@ big {
   text-decoration: none;
 }
 
-#katalog {
-  .sidebanner-left {
-    top: 30px;
-  }
-  .sidebanner-right {
-    right: -180px;
-    top: 120px;
-  }
-  .info {
-    .entry-header {
-      margin-bottom: 45px;
-    }
-  }
-  .aktualnosci-list {
-    padding-top: 35px;
-  }
-  .katalog-content {
-    .entry-header {
-      margin-bottom: 0;
-    }
-  }
-}
-
 #aktualnosci {
   .sidebanner-left {
     top: 30px;
@@ -771,37 +748,6 @@ big {
     padding-top: 35px;
     .entry-header {
       margin-bottom: 0;
-    }
-  }
-}
-
-#katalog.single {
-  .katalog-content .mainblock .entry-header .entry-title {
-    color: #000000;
-    margin-bottom: -4px;
-  }
-  .mainblock {
-    .entry-header .img-responsive {
-      margin-top: 10px;
-    }
-    .entry-footer&:first-child {
-      border-bottom: 1px solid #00b4ff;
-    }
-    .more-article {
-      color: #020c12;
-      display: block;
-      float: left;
-      font-size: 16px;
-      font-weight: normal;
-      margin: 30px 0 40px;
-      text-align: left;
-      width: 100%;
-    }
-    .navigation {
-      display: inline-block;
-      float: left;
-      text-align: left;
-      width: 100%;
     }
   }
 }
@@ -839,7 +785,65 @@ big {
   }
 }
 
-#rejestracja {
+#katalog {
+  .sidebanner-left {
+    top: 30px;
+  }
+  .sidebanner-right {
+    right: -180px;
+    top: 0px;
+  }
+  .info {
+    .entry-header {
+      margin-bottom: 45px;
+    }
+  }
+  .katalog-list {
+    padding-top: 35px;
+    .img-responsive {
+      margin-bottom: 30px;
+    }
+  }
+  .katalog-content {
+    .entry-header {
+      margin-bottom: 0;
+    }
+  }
+}
+
+#katalog.single {
+  .katalog-content .mainblock .entry-header .entry-title {
+    color: #000000;
+    margin-bottom: -4px;
+  }
+  .mainblock {
+    .entry-header .img-responsive {
+      margin-top: 10px;
+    }
+    .entry-footer&:first-child {
+      border-bottom: 1px solid #00b4ff;
+    }
+    .more-article {
+      color: #020c12;
+      display: block;
+      float: left;
+      font-size: 16px;
+      font-weight: normal;
+      margin: 30px 0 40px;
+      text-align: left;
+      width: 100%;
+    }
+    .navigation {
+      display: inline-block;
+      float: left;
+      text-align: left;
+      width: 100%;
+    }
+  }
+}
+
+#rejestracja,
+#katalog{
   .sidebanner-left {
     top: 70px;
   }
@@ -1056,7 +1060,18 @@ big {
 #rejestracja form textarea:-moz-placeholder,
 #rejestracja form textarea::-moz-placeholder,
 #rejestracja form textarea:-ms-input-placeholder,
-#rejestracja form textarea:placeholder-shown {
+#rejestracja form textarea:placeholder-shown,
+#katalog form select option,
+#katalog form input::-webkit-input-placeholder,
+#katalog form input:-moz-placeholder,
+#katalog form input::-moz-placeholder,
+#katalog form input:-ms-input-placeholder,
+#katalog form input:placeholder-shown,
+#katalog form textarea::-webkit-input-placeholder,
+#katalog form textarea:-moz-placeholder,
+#katalog form textarea::-moz-placeholder,
+#katalog form textarea:-ms-input-placeholder,
+#katalog form textarea:placeholder-shown{
   background-color: #01253B;
   color: #ffffff;
 }
@@ -1078,7 +1093,8 @@ big {
 }
 
 @media (min-width: 992px) {
-  #rejestracja form .col-md-6-wrap .ninja-forms-field {
+  #rejestracja form .col-md-6-wrap .ninja-forms-field,
+  #katalog form .col-md-6-wrap .ninja-forms-field {
     width: 50%;
   }
 }

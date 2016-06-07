@@ -687,22 +687,6 @@ big {
   padding: 8px 50px 8px 0;
   text-decoration: none;
 }
-#katalog .sidebanner-left {
-  top: 30px;
-}
-#katalog .sidebanner-right {
-  right: -180px;
-  top: 120px;
-}
-#katalog .info .entry-header {
-  margin-bottom: 45px;
-}
-#katalog .aktualnosci-list {
-  padding-top: 35px;
-}
-#katalog .katalog-content .entry-header {
-  margin-bottom: 0;
-}
 #aktualnosci .sidebanner-left {
   top: 30px;
 }
@@ -717,6 +701,51 @@ big {
   padding-top: 35px;
 }
 #aktualnosci .aktualnosci-list .entry-header {
+  margin-bottom: 0;
+}
+#aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title {
+  color: #000000;
+  margin-bottom: -4px;
+}
+#aktualnosci.single .mainblock .entry-header .img-responsive {
+  margin-top: 10px;
+}
+#aktualnosci.single .mainblock .entry-footer:first-child {
+  border-bottom: 1px solid #00b4ff;
+}
+#aktualnosci.single .mainblock .more-article {
+  color: #020c12;
+  display: block;
+  float: left;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 30px 0 40px;
+  text-align: left;
+  width: 100%;
+}
+#aktualnosci.single .mainblock .navigation {
+  display: inline-block;
+  float: left;
+  text-align: left;
+  width: 100%;
+}
+#katalog .sidebanner-left {
+  top: 30px;
+}
+#katalog .sidebanner-right {
+  right: -180px;
+  top: 0px;
+}
+#katalog .info .entry-header {
+  margin-bottom: 45px;
+}
+#katalog .katalog-list {
+  padding-top: 35px;
+}
+#katalog .katalog-list .img-responsive {
+  margin-bottom: 30px;
+}
+#katalog .katalog-content .entry-header {
   margin-bottom: 0;
 }
 #katalog.single .katalog-content .mainblock .entry-header .entry-title {
@@ -745,56 +774,37 @@ big {
   text-align: left;
   width: 100%;
 }
-#aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title {
-  color: #000000;
-  margin-bottom: -4px;
-}
-#aktualnosci.single .mainblock .entry-header .img-responsive {
-  margin-top: 10px;
-}
-#aktualnosci.single .mainblock .entry-footer:first-child {
-  border-bottom: 1px solid #00b4ff;
-}
-#aktualnosci.single .mainblock .more-article {
-  color: #020c12;
-  display: block;
-  float: left;
-  font-size: 16px;
-  font-weight: normal;
-  margin: 30px 0 40px;
-  text-align: left;
-  width: 100%;
-}
-#aktualnosci.single .mainblock .navigation {
-  display: inline-block;
-  float: left;
-  text-align: left;
-  width: 100%;
-}
-#rejestracja .sidebanner-left {
+#rejestracja .sidebanner-left,
+#katalog .sidebanner-left {
   top: 70px;
 }
-#rejestracja .sidebanner-right {
+#rejestracja .sidebanner-right,
+#katalog .sidebanner-right {
   right: 120px;
   top: 165px;
 }
-#rejestracja .entry-content {
+#rejestracja .entry-content,
+#katalog .entry-content {
   color: #ffffff;
   font-size: 16px;
 }
-#rejestracja .entry-content a {
+#rejestracja .entry-content a,
+#katalog .entry-content a {
   color: #ffffff;
   font-size: 16px;
 }
-#rejestracja form {
+#rejestracja form,
+#katalog form {
   text-align: left;
 }
-#rejestracja form label {
+#rejestracja form label,
+#katalog form label {
   color: #ffffff;
   font-size: 14px;
   font-weight: normal;
 }
-#rejestracja form input {
+#rejestracja form input,
+#katalog form input {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -807,7 +817,8 @@ big {
   padding-bottom: 12px;
   padding-top: 12px;
 }
-#rejestracja form select {
+#rejestracja form select,
+#katalog form select {
   -moz-appearance: none;
   -moz-border-radius: 0;
   -moz-box-shadow: none;
@@ -826,7 +837,8 @@ big {
   padding-bottom: 12px;
   padding-top: 12px;
 }
-#rejestracja form select:before {
+#rejestracja form select:before,
+#katalog form select:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   content: "\e259";
@@ -838,13 +850,15 @@ big {
   position: relative;
   top: 1px;
 }
-#rejestracja form select option {
+#rejestracja form select option,
+#katalog form select option {
   border-width: 0;
   min-height: 30px;
   padding-bottom: 8px;
   padding-top: 8px;
 }
-#rejestracja form textarea {
+#rejestracja form textarea,
+#katalog form textarea {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -857,10 +871,12 @@ big {
   padding-bottom: 12px;
   padding-top: 12px;
 }
-#rejestracja form .col-xs-12-wrap .ninja-forms-field {
+#rejestracja form .col-xs-12-wrap .ninja-forms-field,
+#katalog form .col-xs-12-wrap .ninja-forms-field {
   width: 100%;
 }
-#rejestracja form .ninja-forms-field[type="submit"] {
+#rejestracja form .ninja-forms-field[type="submit"],
+#katalog form .ninja-forms-field[type="submit"] {
   -moz-user-select: none;
   -ms-touch-action: manipulation;
   -ms-user-select: none;
@@ -882,41 +898,50 @@ big {
   vertical-align: middle;
   white-space: nowrap;
 }
-#rejestracja form .ninja-forms-field[type="submit"]:focus {
+#rejestracja form .ninja-forms-field[type="submit"]:focus,
+#katalog form .ninja-forms-field[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
-#rejestracja form .ninja-forms-field[type="submit"]:hover {
+#rejestracja form .ninja-forms-field[type="submit"]:hover,
+#katalog form .ninja-forms-field[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
   color: #ffffff;
 }
-#rejestracja form .ninja-forms-field[type="submit"].focus {
+#rejestracja form .ninja-forms-field[type="submit"].focus,
+#katalog form .ninja-forms-field[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
-#rejestracja form .ninja-forms-required-items {
+#rejestracja form .ninja-forms-required-items,
+#katalog form .ninja-forms-required-items {
   display: none;
 }
-#rejestracja form .ninja-forms-field.nf-desc > p {
+#rejestracja form .ninja-forms-field.nf-desc > p,
+#katalog form .ninja-forms-field.nf-desc > p {
   margin: 12px 0;
 }
-#rejestracja form .col-xs-10-wrap {
+#rejestracja form .col-xs-10-wrap,
+#katalog form .col-xs-10-wrap {
   float: left;
   width: 70%;
 }
-#rejestracja form .col-xs-2-wrap {
+#rejestracja form .col-xs-2-wrap,
+#katalog form .col-xs-2-wrap {
   float: right;
   margin-left: 5%;
   width: 25%;
 }
-#rejestracja form .ninja-forms-req-symbol {
+#rejestracja form .ninja-forms-req-symbol,
+#katalog form .ninja-forms-req-symbol {
   padding-left: 2px;
   padding-right: 4px;
 }
-#rejestracja form .help-text {
+#rejestracja form .help-text,
+#katalog form .help-text {
   color: #0094d2;
   display: inline-block;
   float: left;
@@ -925,15 +950,18 @@ big {
   margin-top: 10px;
   width: 100%;
 }
-#rejestracja form .checkbox-wrap {
+#rejestracja form .checkbox-wrap,
+#katalog form .checkbox-wrap {
   float: left;
   margin-bottom: 26px;
   width: 100%;
 }
-#rejestracja form .checkbox-wrap input {
+#rejestracja form .checkbox-wrap input,
+#katalog form .checkbox-wrap input {
   float: left;
 }
-#rejestracja form .checkbox-wrap label {
+#rejestracja form .checkbox-wrap label,
+#katalog form .checkbox-wrap label {
   color: #ffffff;
   float: left;
   font-size: 12px;
@@ -941,7 +969,8 @@ big {
   margin-top: 18px;
   width: 90%;
 }
-#rejestracja form .ninja-forms-field-error {
+#rejestracja form .ninja-forms-field-error,
+#katalog form .ninja-forms-field-error {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -950,7 +979,8 @@ big {
   padding-left: 10px;
   padding-right: 10px;
 }
-#rejestracja form .ninja-forms-field-error p {
+#rejestracja form .ninja-forms-field-error p,
+#katalog form .ninja-forms-field-error p {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -959,13 +989,15 @@ big {
   padding-left: 10px;
   padding-right: 10px;
 }
-#rejestracja input[type=number]::-webkit-inner-spin-button {
+#rejestracja input[type=number]::-webkit-inner-spin-button,
+#katalog input[type=number]::-webkit-inner-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
   margin: 0;
 }
-#rejestracja input[type=number]::-webkit-outer-spin-button {
+#rejestracja input[type=number]::-webkit-outer-spin-button,
+#katalog input[type=number]::-webkit-outer-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
@@ -981,11 +1013,21 @@ big {
 #rejestracja form textarea:-moz-placeholder,
 #rejestracja form textarea::-moz-placeholder,
 #rejestracja form textarea:-ms-input-placeholder,
-#rejestracja form textarea:placeholder-shown {
+#rejestracja form textarea:placeholder-shown,
+#katalog form select option,
+#katalog form input::-webkit-input-placeholder,
+#katalog form input:-moz-placeholder,
+#katalog form input::-moz-placeholder,
+#katalog form input:-ms-input-placeholder,
+#katalog form input:placeholder-shown,
+#katalog form textarea::-webkit-input-placeholder,
+#katalog form textarea:-moz-placeholder,
+#katalog form textarea::-moz-placeholder,
+#katalog form textarea:-ms-input-placeholder,
+#katalog form textarea:placeholder-shown {
   background-color: #01253B;
   color: #ffffff;
 }
-
 .single-post.postid-47 .mainblock header.entry-header h2.entry-title,
 .single-post.postid-47 .aktualnosci-list .col-xs-12.col-md-2 a[rel="bookmark"],
 .single-post.postid-47 .aktualnosci-list article > header.entry-header,
@@ -993,16 +1035,15 @@ big {
 .single-post.postid-47 .aktualnosci-list article > div.row {
   display: none;
 }
-
 .single-post.postid-47 #aktualnosci .sidebanner-left {
   top: 0;
 }
-
 .single-post.postid-47 #aktualnosci .sidebanner-right {
   top: 90px;
 }
 @media (min-width: 992px) {
-  #rejestracja form .col-md-6-wrap .ninja-forms-field {
+  #rejestracja form .col-md-6-wrap .ninja-forms-field,
+  #katalog form .col-md-6-wrap .ninja-forms-field {
     width: 50%;
   }
 }
