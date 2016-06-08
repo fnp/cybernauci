@@ -28,7 +28,7 @@ gulp.task('less', function () {
     gulp.src('./css/src/*.less')
         .pipe(plumber(plumberErrorHandler))
         .pipe(less())
-        .pipe(gulp.dest('./css'))
+        .pipe(gulp.dest('./'))
         .pipe(reload({stream: true}));
 });
 gulp.task('js', function () {

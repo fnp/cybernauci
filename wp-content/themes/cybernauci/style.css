@@ -592,7 +592,6 @@ big {
 .katalog-content {
   background-color: #ffffff;
   padding-bottom: 35px;
-  padding-top: 55px;
 }
 .katalog-content h2 {
   color: #000000;
@@ -730,14 +729,65 @@ big {
   width: 100%;
 }
 #katalog .sidebanner-left {
-  top: 30px;
+  top: 0;
+  left: -55px;
 }
 #katalog .sidebanner-right {
-  right: -180px;
-  top: 0px;
+  right: -200px;
+  top: 0;
 }
 #katalog .info .entry-header {
   margin-bottom: 45px;
+}
+#katalog .katalog-meta {
+  color: #74777A;
+  text-align: left;
+  margin-top: 40px;
+}
+#katalog .katalog-meta h3 {
+  font-size: 16px;
+}
+#katalog .katalog-meta ul {
+  font-size: 12px;
+  margin-bottom: 15px;
+  padding-bottom: 8px;
+  padding-left: 25px;
+  padding-top: 5px;
+  border-bottom: 1px solid #74777A;
+}
+#katalog .katalog-meta ul:last-child {
+  border-bottom: 0;
+}
+#katalog .katalog-meta ul li {
+  list-style: none;
+  padding: 5px;
+}
+#katalog .katalog-meta ul li,
+#katalog .katalog-meta ul li a {
+  color: #74777A;
+}
+#katalog .katalog-meta ul li.active {
+  color: #C7499B;
+  position: relative;
+}
+#katalog .katalog-meta ul li.active:before {
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.4em;
+  font-weight: normal;
+  content: "\e014";
+  position: absolute;
+  top: 50%;
+  left: -20px;
+  -webkit-transform: translate(0, -50%);
+  -moz-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  -o-transform: translate(0, -50%);
+  transform: translate(0, -50%);
 }
 #katalog .katalog-list {
   padding-top: 35px;
@@ -775,36 +825,36 @@ big {
   width: 100%;
 }
 #rejestracja .sidebanner-left,
-#katalog .sidebanner-left {
+#katalogDodaj .sidebanner-left {
   top: 70px;
 }
 #rejestracja .sidebanner-right,
-#katalog .sidebanner-right {
+#katalogDodaj .sidebanner-right {
   right: 120px;
   top: 165px;
 }
 #rejestracja .entry-content,
-#katalog .entry-content {
+#katalogDodaj .entry-content {
   color: #ffffff;
   font-size: 16px;
 }
 #rejestracja .entry-content a,
-#katalog .entry-content a {
+#katalogDodaj .entry-content a {
   color: #ffffff;
   font-size: 16px;
 }
 #rejestracja form,
-#katalog form {
+#katalogDodaj form {
   text-align: left;
 }
 #rejestracja form label,
-#katalog form label {
+#katalogDodaj form label {
   color: #ffffff;
   font-size: 14px;
   font-weight: normal;
 }
 #rejestracja form input,
-#katalog form input {
+#katalogDodaj form input {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -818,7 +868,7 @@ big {
   padding-top: 12px;
 }
 #rejestracja form select,
-#katalog form select {
+#katalogDodaj form select {
   -moz-appearance: none;
   -moz-border-radius: 0;
   -moz-box-shadow: none;
@@ -838,7 +888,7 @@ big {
   padding-top: 12px;
 }
 #rejestracja form select:before,
-#katalog form select:before {
+#katalogDodaj form select:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   content: "\e259";
@@ -851,14 +901,14 @@ big {
   top: 1px;
 }
 #rejestracja form select option,
-#katalog form select option {
+#katalogDodaj form select option {
   border-width: 0;
   min-height: 30px;
   padding-bottom: 8px;
   padding-top: 8px;
 }
 #rejestracja form textarea,
-#katalog form textarea {
+#katalogDodaj form textarea {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -872,11 +922,11 @@ big {
   padding-top: 12px;
 }
 #rejestracja form .col-xs-12-wrap .ninja-forms-field,
-#katalog form .col-xs-12-wrap .ninja-forms-field {
+#katalogDodaj form .col-xs-12-wrap .ninja-forms-field {
   width: 100%;
 }
 #rejestracja form .ninja-forms-field[type="submit"],
-#katalog form .ninja-forms-field[type="submit"] {
+#katalogDodaj form .ninja-forms-field[type="submit"] {
   -moz-user-select: none;
   -ms-touch-action: manipulation;
   -ms-user-select: none;
@@ -899,49 +949,49 @@ big {
   white-space: nowrap;
 }
 #rejestracja form .ninja-forms-field[type="submit"]:focus,
-#katalog form .ninja-forms-field[type="submit"]:focus {
+#katalogDodaj form .ninja-forms-field[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-field[type="submit"]:hover,
-#katalog form .ninja-forms-field[type="submit"]:hover {
+#katalogDodaj form .ninja-forms-field[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-field[type="submit"].focus,
-#katalog form .ninja-forms-field[type="submit"].focus {
+#katalogDodaj form .ninja-forms-field[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-required-items,
-#katalog form .ninja-forms-required-items {
+#katalogDodaj form .ninja-forms-required-items {
   display: none;
 }
 #rejestracja form .ninja-forms-field.nf-desc > p,
-#katalog form .ninja-forms-field.nf-desc > p {
+#katalogDodaj form .ninja-forms-field.nf-desc > p {
   margin: 12px 0;
 }
 #rejestracja form .col-xs-10-wrap,
-#katalog form .col-xs-10-wrap {
+#katalogDodaj form .col-xs-10-wrap {
   float: left;
   width: 70%;
 }
 #rejestracja form .col-xs-2-wrap,
-#katalog form .col-xs-2-wrap {
+#katalogDodaj form .col-xs-2-wrap {
   float: right;
   margin-left: 5%;
   width: 25%;
 }
 #rejestracja form .ninja-forms-req-symbol,
-#katalog form .ninja-forms-req-symbol {
+#katalogDodaj form .ninja-forms-req-symbol {
   padding-left: 2px;
   padding-right: 4px;
 }
 #rejestracja form .help-text,
-#katalog form .help-text {
+#katalogDodaj form .help-text {
   color: #0094d2;
   display: inline-block;
   float: left;
@@ -951,17 +1001,17 @@ big {
   width: 100%;
 }
 #rejestracja form .checkbox-wrap,
-#katalog form .checkbox-wrap {
+#katalogDodaj form .checkbox-wrap {
   float: left;
   margin-bottom: 26px;
   width: 100%;
 }
 #rejestracja form .checkbox-wrap input,
-#katalog form .checkbox-wrap input {
+#katalogDodaj form .checkbox-wrap input {
   float: left;
 }
 #rejestracja form .checkbox-wrap label,
-#katalog form .checkbox-wrap label {
+#katalogDodaj form .checkbox-wrap label {
   color: #ffffff;
   float: left;
   font-size: 12px;
@@ -970,7 +1020,7 @@ big {
   width: 90%;
 }
 #rejestracja form .ninja-forms-field-error,
-#katalog form .ninja-forms-field-error {
+#katalogDodaj form .ninja-forms-field-error {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -980,7 +1030,7 @@ big {
   padding-right: 10px;
 }
 #rejestracja form .ninja-forms-field-error p,
-#katalog form .ninja-forms-field-error p {
+#katalogDodaj form .ninja-forms-field-error p {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -990,18 +1040,24 @@ big {
   padding-right: 10px;
 }
 #rejestracja input[type=number]::-webkit-inner-spin-button,
-#katalog input[type=number]::-webkit-inner-spin-button {
+#katalogDodaj input[type=number]::-webkit-inner-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
   margin: 0;
 }
 #rejestracja input[type=number]::-webkit-outer-spin-button,
-#katalog input[type=number]::-webkit-outer-spin-button {
+#katalogDodaj input[type=number]::-webkit-outer-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
   margin: 0;
+}
+#katalogDodaj form label {
+  font-weight: bold;
+}
+#katalogDodaj select {
+  width: 100%;
 }
 #rejestracja form select option,
 #rejestracja form input::-webkit-input-placeholder,
