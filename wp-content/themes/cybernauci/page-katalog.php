@@ -15,73 +15,56 @@
         <div class="katalog-content">
             <div class="container mainblock">
                 <div class="col-xs-12 col-md-3 katalog-meta">
-                    <h3>Adresaci</h3>
-                    <ul>
-                        <li>test</li>
-                        <li class="active">test2</li>
-                        <li>test3</li>
-                    </ul>
-                    <h3>Adresaci2</h3>
-                    <ul>
-                        <li>test11</li>
-                        <li>test222</li>
-                        <li>test3333</li>
+                    <div class="katalog-meta-parent">Filtruj<i class="glyphicon pull-right"></i></div>
+                    <ul class="katalog-meta-content">
+                        <?php wp_list_categories('child_of=' . get_category_by_slug('katalog')->cat_ID); ?>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">
-                    //test
                     <?php
-                    $args = array(
-                        'form_id' => 11,
-                    );
-                    /*$args = array(
-                        'form_id'   => 11,
-                        'fields'    => array(
-                            '34'      => 'checked',
-                            '54'      => 'Hello World',
-                        ),
-                    );*/
-                    $subs = Ninja_Forms()->subs()->get($args);
-                    print_r($subs);
-                    foreach ($subs as $sub) {
-                        $form_id = $sub->form_id;
-                        $all_fields = $sub->get_all_fields();
+                    $cat = get_cat_ID($post->post_title);
+                    $args = array('posts_per_page' => 999999, 'category_name' => 'katalog');
+                    $posts = get_posts($args);
+                    if ($posts) {
+                        foreach ($posts as $post):
+                            setup_postdata($post); ?>
+                            <div class="col-xs-12 col-sm-6 col-md-3">
+                                <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+                                    <header class="entry-header">
+                                        <?php $image = get_field('Image');
+                                        if (!empty($image)) { ?>
+                                            <img class="img-responsive" src="<?php echo $image['url']; ?>" alt=""/>
+                                        <?php } ?>
 
-                        echo $sub->get_field(50); ?>
-                        <div class="col-xs-12 col-md-3">
-                            <article id="post-<?php echo $sub->get_field('sub_id') ?>">
-                                <header class="entry-header">
-                                    <h2 class="entry-title"><a href="#"
-                                                               rel="bookmark"><? echo $sub->get_field(50); ?></a></h2>
-                                </header>
+                                        <?php the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>'); ?>
+                                    </header>
 
-                                <div class="entry-content">
-                                    <?php echo $sub->get_field(49) ?>
-                                </div>
+                                    <div class="entry-content">
+                                        <?php echo wp_trim_words(get_the_content(), 30) ?>
+                                    </div>
 
-                                <footer class="entry-footer">
-                                    <a class="readmore" href="<?php the_permalink() ?>" rel="bookmark"
-                                       title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title()) ?>"><? echo __('czytaj więcej', 'cybernauci') ?></a>
-                                    <?php
-                                    edit_post_link(
-                                        sprintf(
-                                            __('Edit<span class="screen-reader-text"> "%s"</span>', 'cybernauci'),
-                                            get_the_title()
-                                        ),
-                                        '<span class="edit-link pull-right">',
-                                        '</span>'
-                                    );
-                                    ?>
-                                </footer>
-                            </article>
-                        </div>
-                    <?
+                                    <footer class="entry-footer">
+                                        <a class="readmore" href="<?php the_permalink() ?>" rel="bookmark"
+                                           title="<?php echo sprintf(__('Continue reading %s', 'cybernauci'), get_the_title()) ?>"><? echo __('czytaj więcej', 'cybernauci') ?></a>
+                                        <?php
+                                        edit_post_link(
+                                            sprintf(
+                                                __('Edit<span class="screen-reader-text"> "%s"</span>', 'cybernauci'),
+                                                get_the_title()
+                                            ),
+                                            '<span class="edit-link pull-right">',
+                                            '</span>'
+                                        );
+                                        ?>
+                                    </footer>
+                                </article>
+                            </div>
+                        <? endforeach;
                     }
 
                     the_posts_pagination(array(
-                        'prev_text' => __('Previous page', 'cybernauci'),
-                        'next_text' => __('Next page', 'cybernauci'),
-                        'before_page_number' => '<span class="meta-nav screen-reader-text">' . __('Page', 'cybernauci') . ' </span>',
+                        'prev_text' => '&laquo',
+                        'next_text' => '&raquo'
                     ));
                     ?>
                 </div>

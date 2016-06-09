@@ -54,7 +54,7 @@
             $posts = get_posts("cat=$cat&showposts=4");
             if ($posts) {
                 foreach ($posts as $post): setup_postdata($post); ?>
-                    <div class="col-xs-12 col-md-3">
+                    <div class="col-xs-12 col-sm-6 col-md-3">
                         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
                             <header class="entry-header">
                                 <?php if (is_sticky() && is_home() && !is_paged()) : ?>

@@ -432,6 +432,9 @@ big {
   margin-bottom: 52px;
   margin-top: 35px;
   width: 100%;
+  .menu-main-menu-container {
+    text-align: center;
+  }
   .site-header-menu {
     margin-top: 12px;
     ul {
@@ -439,10 +442,11 @@ big {
       list-style: none;
       margin: 0;
       padding: 0;
-      width: auto;
+      width: 100%;
       li {
         float: left;
-        width: auto;
+        width: 100%;
+        text-align: center;
         a {
           color: #ffffff;
           font-weight: bold;
@@ -467,12 +471,12 @@ big {
   ul {
     display: block;
     list-style: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
-    width: auto;
+    width: 100%;
     li {
-      float: left;
-      width: auto;
+      width: 100%;
+      text-align: center;
       a {
         color: #ffffff;
         font-weight: bold;
@@ -496,13 +500,13 @@ big {
   .site-footer {
     color: #ffffff;
     font-size: 12px;
-  }
-  .site-footer[role="navigation"] {
-    border-bottom: 1px solid #1c252a;
-    display: inline-block;
-    font-weight: bold;
-    padding: 24px 0 18px;
-    width: 100%;
+    [role="navigation"] {
+      border-bottom: 1px solid #1c252a;
+      display: inline-block;
+      font-weight: bold;
+      padding: 24px 0 18px;
+      width: 100%;
+    }
   }
 }
 
@@ -684,6 +688,18 @@ big {
   }
 }
 
+.aktualnosci-list, .katalog-list {
+  .pagination {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    .nav-links {
+      width: auto;
+      display: block;
+    }
+  }
+}
+
 .katalog-content article .entry-header .img-responsive,
 .aktualnosci-list article .entry-header .img-responsive,
 #katalog.single article .entry-header .img-responsive,
@@ -802,51 +818,102 @@ big {
     color: #74777A;
     text-align: left;
     margin-top: 40px;
-    h3 {
-      font-size: 16px;
-    }
-    ul {
-      font-size: 12px;
-      margin-bottom: 15px;
-      padding-bottom: 8px;
-      padding-left: 25px;
-      padding-top: 5px;
-      border-bottom: 1px solid #74777A;
-
-      &:last-child {
-        border-bottom: 0;
+    position: relative;
+    &.active {
+      .katalog-meta-parent > i:before {
+        content: "\e113";
       }
-
-      li {
-        list-style: none;
-        padding: 5px;
-        &, a {
-          color: #74777A;
+      .katalog-meta-content {
+        height: auto;
+      }
+    }
+    .katalog-meta-parent {
+      width: 100%;
+      color: #C7499B;
+      border-bottom: 1px solid #C7499B;
+      display: inline-block;
+      padding: 0 15px 5px 15px;
+      margin-bottom: 15px;
+      > i {
+        font-size: 0.8em;
+        &:before {
+          content: "\e114";
         }
-        &.active {
-          color: #C7499B;
-          position: relative;
-          &:before {
-            display: inline-block;
-            font-family: 'Glyphicons Halflings';
-            font-style: normal;
-            font-weight: normal;
-            line-height: 1;
+      }
+    }
+    .katalog-meta-content {
+      position: relative;
+      top: 0;
+      display: block;
+      z-index: 1;
+      height: 0;
+      width: 100%;
+      overflow-y: hidden;
+      padding-left: 15px;
+      padding-right: 15px;
+      &.disabled {
+        .categories .children {
+          display: inline-block;
+          width: 100%;
+          > li {
+            width: auto;
+            float: left;
+            margin-right: 5px;
+            padding: 0;
+            &:not(:last-child) > a:after {
+              content: ',';
+            }
+          }
+        }
+      }
+      .categories {
+        margin-top: -5px;
+        padding: 0;
+        font-size: 0;
+        color: #ffffff;
+        > ul {
+          padding: 0;
+          > li {
+            font-size: 16px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #74777A;
+            .children {
+              font-size: 12px;
+              padding: 0;
+              li {
+                list-style: none;
+                padding: 5px 5px 8px 25px;
+                &, a {
+                  color: #74777A;
+                }
+                &.active {
+                  color: #C7499B;
+                  position: relative;
+                  &:before {
+                    display: inline-block;
+                    font-family: 'Glyphicons Halflings';
+                    font-style: normal;
+                    font-weight: normal;
+                    line-height: 1;
 
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
+                    -webkit-font-smoothing: antialiased;
+                    -moz-osx-font-smoothing: grayscale;
 
-            font-size: 1.4em;
-            font-weight: normal;
-            content: "\e014";
-            position: absolute;
-            top: 50%;
-            left: -20px;
-            -webkit-transform: translate(0, -50%);
-            -moz-transform: translate(0, -50%);
-            -ms-transform: translate(0, -50%);
-            -o-transform: translate(0, -50%);
-            transform: translate(0, -50%);
+                    font-size: 1.4em;
+                    font-weight: normal;
+                    content: "\e014";
+                    position: absolute;
+                    top: 50%;
+                    left: 5px;
+                    -webkit-transform: translate(0, -50%);
+                    -moz-transform: translate(0, -50%);
+                    -ms-transform: translate(0, -50%);
+                    -o-transform: translate(0, -50%);
+                    transform: translate(0, -50%);
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -1155,9 +1222,52 @@ big {
   }
 }
 
+@media (min-width: 480px) {
+  .site-header .site-header-menu ul {
+    width: auto;
+    margin: 0 auto;
+    display: inline-block;
+    li {
+      width: auto;
+      text-align: left;
+    }
+  }
+
+  .site-footer ul li {
+    width: auto;
+    text-align: left;
+    float: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .menu-main-menu-container {
+    text-align: right;
+  }
+
+  .site-header .site-header-menu ul {
+    float: right;
+  }
+}
+
 @media (min-width: 992px) {
   #rejestracja form .col-md-6-wrap .ninja-forms-field,
-  #katalog form .col-md-6-wrap .ninja-forms-field {
-    width: 50%;
+  #katalog {
+    .katalog-meta {
+      .katalog-meta-parent {
+        display: none;
+      }
+      .katalog-meta-content {
+        height: auto;
+        width: auto;
+        overflow-y: auto;
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+      }
+    }
+    form .col-md-6-wrap .ninja-forms-field {
+      width: 50%;
+    }
   }
 }

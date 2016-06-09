@@ -15,13 +15,12 @@
         <div class="aktualnosci-list">
             <div class="container mainblock">
                 <?php
-                $cat = get_cat_ID($post->post_title);
-                $args = array('posts_per_page' => 999999, 'category' => $cat);
-                $posts = get_posts($args);
+                $except = 'cat=-' . get_category_by_slug('katalog')->cat_ID;
+                $posts = query_posts($except);
                 if ($posts) {
                     foreach ($posts as $post):
                         setup_postdata($post); ?>
-                        <div class="col-xs-12 col-md-3">
+                        <div class="col-xs-12 col-sm-6 col-md-3">
                             <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
                                 <header class="entry-header">
                                     <?php if (is_sticky() && is_home() && !is_paged()) : ?>
@@ -64,9 +63,8 @@
                 }
 
                 the_posts_pagination(array(
-                    'prev_text' => __('Previous page', 'cybernauci'),
-                    'next_text' => __('Next page', 'cybernauci'),
-                    'before_page_number' => '<span class="meta-nav screen-reader-text">' . __('Page', 'cybernauci') . ' </span>',
+                    'prev_text' => '&laquo',
+                    'next_text' => '&raquo'
                 ));
                 ?>
             </div>

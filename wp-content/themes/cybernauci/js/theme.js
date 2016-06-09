@@ -12,6 +12,15 @@ jQuery(document).ready(function () {
     }
 });
 jQuery(document).ready(function () {
+    var katalogMeta = jQuery('.katalog-meta');
+
+    if (katalogMeta.length > 0) {
+        katalogMeta.find('.katalog-meta-parent').click(function () {
+            katalogMeta.toggleClass('active');
+        })
+    }
+});
+jQuery(document).ready(function () {
     var zglosSzkoleMain = jQuery('#rejestracja .ninja-forms-cont');
     if (zglosSzkoleMain.length > 0) {
         var wojewodztwoList = jQuery(jQuery.map(zglosSzkoleMain.find('select option'), function (val) {
