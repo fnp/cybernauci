@@ -19,7 +19,23 @@
                     <div class="col-xs-12 col-md-3 katalog-meta">
                         <div class="katalog-meta-parent">Informacje<i class="glyphicon pull-right"></i></div>
                         <ul class="katalog-meta-content disabled">
-                            <?php wp_list_categories('child_of=' . get_category_by_slug('katalog')->cat_ID); ?>
+                            <?php
+                            $post_category = [];
+                            foreach (wp_get_post_categories($post->ID) as $cat) {
+                                $category = explode('/', get_category_parents($cat));
+                                if (count($category) == 4) {
+                                    $post_category[$category[1]] = $post_category[$category[1]] . ', ' . $category[2];
+                                }
+                            }
+                            ksort($post_category);
+                            foreach ($post_category as $l => $c) {
+                                echo '<li class="cat-item"><strong>' . $l . '</strong>';
+                                echo '<ul class="children">';
+                                echo '<li class="cat-item">' . substr($c, 2) . '</li>';
+                                echo '</ul>';
+                                echo '</li>';
+                            }
+                            ?>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-md-9 katalog-list">
@@ -27,11 +43,11 @@
                         while (have_posts()) : the_post();
                             get_template_part('template-parts/content-katalog', 'single');
 
-                            $prev_post = get_previous_post();
-                            $next_post = get_next_post();
+                            $prev_post = get_previous_post(true, '');
+                            $next_post = get_next_post(true, '');
 
                             if (!empty($prev_post) || !empty($next_post)) {
-                                echo '<h3 class="more-article">Czytaj również</h3><div class="row">';
+                                echo '<h3 class="more-article">Podobne materiały</h3><div class="row">';
                                 if (!empty($prev_post)) { ?>
                                     <div class="col-xs-12 col-md-6">
                                         <article id="post-<?php echo $prev_post->ID ?>">
@@ -130,8 +146,8 @@
                         while (have_posts()) : the_post();
                             get_template_part('template-parts/content-aktualnosci', 'single');
 
-                            $prev_post = get_previous_post();
-                            $next_post = get_next_post();
+                            $prev_post = get_previous_post(true, '');
+                            $next_post = get_next_post(true, '');
 
                             if (!empty($prev_post) || !empty($next_post)) {
                                 echo '<h3 class="more-article">Czytaj również</h3><div class="row">';

@@ -852,7 +852,7 @@ big {
       padding-left: 15px;
       padding-right: 15px;
       &.disabled {
-        .categories .children {
+        .children {
           display: inline-block;
           width: 100%;
           > li {
@@ -863,55 +863,60 @@ big {
             &:not(:last-child) > a:after {
               content: ',';
             }
+            a {
+              cursor: default;
+              &, &:hover, &:focus {
+                text-transform: none;
+              }
+            }
           }
         }
       }
-      .categories {
-        margin-top: -5px;
-        padding: 0;
-        font-size: 0;
-        color: #ffffff;
-        > ul {
+
+      > li {
+        font-size: 16px;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #74777A;
+        & > a, li a {
+          color: #74777A;
+        }
+        > a {
+          font-weight: bold;
+        }
+        .children {
+          font-size: 12px;
           padding: 0;
-          > li {
-            font-size: 16px;
-            margin-bottom: 15px;
-            border-bottom: 1px solid #74777A;
-            .children {
-              font-size: 12px;
-              padding: 0;
-              li {
-                list-style: none;
-                padding: 5px 5px 8px 25px;
-                &, a {
-                  color: #74777A;
-                }
-                &.active {
-                  color: #C7499B;
-                  position: relative;
-                  &:before {
-                    display: inline-block;
-                    font-family: 'Glyphicons Halflings';
-                    font-style: normal;
-                    font-weight: normal;
-                    line-height: 1;
+          li {
+            list-style: none;
+            padding: 5px 5px 8px 25px;
+            &.current-cat {
+              position: relative;
+              &, > a {
+                color: #C7499B;
+                font-weight: bold;
+              }
+              &:before {
+                display: inline-block;
+                font-family: 'Glyphicons Halflings';
+                font-style: normal;
+                font-weight: normal;
+                line-height: 1;
 
-                    -webkit-font-smoothing: antialiased;
-                    -moz-osx-font-smoothing: grayscale;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
 
-                    font-size: 1.4em;
-                    font-weight: normal;
-                    content: "\e014";
-                    position: absolute;
-                    top: 50%;
-                    left: 5px;
-                    -webkit-transform: translate(0, -50%);
-                    -moz-transform: translate(0, -50%);
-                    -ms-transform: translate(0, -50%);
-                    -o-transform: translate(0, -50%);
-                    transform: translate(0, -50%);
-                  }
-                }
+                font-size: 1.4em;
+                font-weight: normal;
+                content: "\e014";
+                position: absolute;
+                top: 50%;
+                left: 5px;
+                margin-top: -2px;
+                -webkit-transform: translate(0, -50%);
+                -moz-transform: translate(0, -50%);
+                -ms-transform: translate(0, -50%);
+                -o-transform: translate(0, -50%);
+                transform: translate(0, -50%);
               }
             }
           }

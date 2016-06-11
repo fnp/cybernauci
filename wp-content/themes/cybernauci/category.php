@@ -17,15 +17,19 @@
                 <div class="col-xs-12 col-md-3 katalog-meta">
                     <div class="katalog-meta-parent">Filtruj<i class="glyphicon pull-right"></i></div>
                     <ul class="katalog-meta-content">
-                        <?php wp_list_categories(array(
+                        <?php
+                        wp_list_categories(array(
                             'child_of' => get_category_by_slug('katalog')->cat_ID,
                             'title_li' => '',
-                        )); ?>
+                            'current_category' => get_category_by_slug($current_category)->cat_ID
+                        ));
+                        ?>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">
                     <?php
-                    $args = array('posts_per_page' => 999999, 'category_name' => 'katalog');
+                    $current_category = single_cat_title("", false);
+                    $args = array('posts_per_page' => 999999, 'category_name' => $current_category);
                     $posts = get_posts($args);
                     if ($posts) {
                         foreach ($posts as $post):

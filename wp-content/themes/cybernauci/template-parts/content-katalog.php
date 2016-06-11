@@ -1,7 +1,6 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     <header class="entry-header">
         <?php the_title('<h1 class="entry-title">', '</h1>'); ?>
-        <small><?php echo get_the_date('d.m.Y'); ?></small>
         <?php $image = get_field('Image'); ?>
         <img class="img-responsive" src="<?php echo $image['url']; ?>" alt=""/>
     </header><!-- .entry-header -->
