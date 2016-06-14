@@ -839,6 +839,7 @@ big {
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat > a {
   color: #C7499B;
   font-weight: bold;
+  line-height: 1.1em;
 }
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat:before {
   display: inline-block;
@@ -1126,6 +1127,13 @@ big {
 }
 #katalogDodaj form label {
   font-weight: bold;
+}
+#katalogDodaj form .wpuf-fields input {
+  width: 100%;
+}
+#katalogDodaj form select:before {
+  content: '';
+  display: none;
 }
 #katalogDodaj select {
   width: 100%;

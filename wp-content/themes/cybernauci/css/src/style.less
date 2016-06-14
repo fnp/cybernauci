@@ -894,6 +894,7 @@ big {
               &, > a {
                 color: #C7499B;
                 font-weight: bold;
+                line-height: 1.1em;
               }
               &:before {
                 display: inline-block;
@@ -1177,12 +1178,22 @@ big {
 }
 
 #katalogDodaj {
-  form label {
-    font-weight: bold;
+  form {
+    label {
+      font-weight: bold;
+    }
+    .wpuf-fields input {
+      width: 100%;
+    }
+    select:before {
+      content: '';
+      display: none;
+    }
   }
   select {
     width: 100%;
   }
+
 }
 
 #rejestracja form select option,
