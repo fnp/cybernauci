@@ -17,7 +17,7 @@
                 <?php
                 $args = array(
                     'cat' => '-' . get_category_by_slug("katalog")->cat_ID,
-                    'paged' => (get_query_var('paged') ? get_query_var('paged') : 1),
+                    'posts_per_page' => 999999
                 );
                 $wp_posts = query_posts($args);
                 if ($wp_posts) {
@@ -70,10 +70,6 @@
                     'next_text' => '&raquo'
                 ));
                 ?>
-                <div class="navigation" style="display:none">
-                    <div class="alignleft"><?php previous_posts_link('&laquo; Previous') ?></div>
-                    <div class="alignright"><?php next_posts_link('More &raquo;') ?></div>
-                </div>
             </div>
         </div>
     </div>

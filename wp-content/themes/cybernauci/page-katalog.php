@@ -18,6 +18,7 @@
                     <div class="katalog-meta-parent">Filtruj<i class="glyphicon pull-right"></i></div>
                     <ul class="katalog-meta-content">
                         <?php wp_list_categories(array(
+                            'orderby' => 'name',
                             'child_of' => get_category_by_slug('katalog')->cat_ID,
                             'title_li' => '',
                         )); ?>
@@ -27,8 +28,7 @@
                     <?php
                     $args = array(
                         'category_name' => 'katalog',
-                        //'posts_per_page' => 999999,
-                        'paged' => (get_query_var('paged') ? get_query_var('paged') : 1),
+                        'posts_per_page' => 999999
                     );
                     $wp_posts = query_posts($args);
                     if ($wp_posts) {
