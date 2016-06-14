@@ -25,10 +25,14 @@
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">
                     <?php
-                    $args = array('posts_per_page' => 999999, 'category_name' => 'katalog');
-                    $posts = get_posts($args);
-                    if ($posts) {
-                        foreach ($posts as $post):
+                    $args = array(
+                        'category_name' => 'katalog',
+                        //'posts_per_page' => 999999,
+                        'paged' => (get_query_var('paged') ? get_query_var('paged') : 1),
+                    );
+                    $wp_posts = query_posts($args);
+                    if ($wp_posts) {
+                        foreach ($wp_posts as $post):
                             setup_postdata($post); ?>
                             <div class="col-xs-12 col-sm-6 col-md-3">
                                 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>

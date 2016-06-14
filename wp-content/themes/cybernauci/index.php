@@ -51,9 +51,9 @@
             <h2>Aktualności</h2>
             <?php
             $cat = get_cat_ID($post->post_title);
-            $posts = get_posts("cat=$cat&showposts=4");
-            if ($posts) {
-                foreach ($posts as $post): setup_postdata($post); ?>
+            $wp_posts = get_posts("cat=$cat&showposts=4");
+            if ($wp_posts) {
+                foreach ($wp_posts as $post): setup_postdata($post); ?>
                     <div class="col-xs-12 col-sm-6 col-md-3">
                         <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
                             <header class="entry-header">

@@ -15,10 +15,13 @@
         <div class="aktualnosci-list">
             <div class="container mainblock">
                 <?php
-                $except = 'cat=-' . get_category_by_slug('katalog')->cat_ID;
-                $posts = query_posts($except);
-                if ($posts) {
-                    foreach ($posts as $post):
+                $args = array(
+                    'cat' => '-' . get_category_by_slug("katalog")->cat_ID,
+                    'paged' => (get_query_var('paged') ? get_query_var('paged') : 1),
+                );
+                $wp_posts = query_posts($args);
+                if ($wp_posts) {
+                    foreach ($wp_posts as $post):
                         setup_postdata($post); ?>
                         <div class="col-xs-12 col-sm-6 col-md-3">
                             <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
@@ -67,6 +70,10 @@
                     'next_text' => '&raquo'
                 ));
                 ?>
+                <div class="navigation" style="display:none">
+                    <div class="alignleft"><?php previous_posts_link('&laquo; Previous') ?></div>
+                    <div class="alignright"><?php next_posts_link('More &raquo;') ?></div>
+                </div>
             </div>
         </div>
     </div>

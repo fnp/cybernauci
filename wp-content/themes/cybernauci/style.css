@@ -791,68 +791,55 @@ big {
   padding-left: 15px;
   padding-right: 15px;
 }
-
 #katalog .katalog-meta .katalog-meta-content.disabled .children {
   display: inline-block;
   width: 100%;
 }
-
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li {
   width: auto;
   float: left;
   margin-right: 5px;
   padding: 0;
 }
-
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li:not(:last-child) > a:after {
   content: ',';
 }
-
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li a {
   cursor: default;
 }
-
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li a,
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li a:hover,
 #katalog .katalog-meta .katalog-meta-content.disabled .children > li a:focus {
   text-transform: none;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li {
   font-size: 16px;
   margin-bottom: 15px;
   border-bottom: 1px solid #74777A;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li > a,
 #katalog .katalog-meta .katalog-meta-content > li li a {
   color: #74777A;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li > a {
   font-weight: bold;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children {
   font-size: 12px;
   padding: 0;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children li {
   list-style: none;
   padding: 5px 5px 8px 25px;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat {
   position: relative;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat,
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat > a {
   color: #C7499B;
   font-weight: bold;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat:before {
   display: inline-block;
   font-family: 'Glyphicons Halflings';
