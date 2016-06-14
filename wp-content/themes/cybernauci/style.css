@@ -1135,6 +1135,47 @@ big {
   content: '';
   display: none;
 }
+
+#katalogDodaj form input[type="submit"] {
+  -moz-user-select: none;
+  -ms-touch-action: manipulation;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  background-color: #337ab7;
+  border-radius: 6px;
+  border: 1px solid #2e6da4;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.3333333;
+  margin-bottom: 0;
+  padding: 10px 16px;
+  text-align: center;
+  touch-action: manipulation;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+#katalogDodaj form input[type="submit"]:focus {
+  background-color: #286090;
+  border-color: #122b40;
+  color: #ffffff;
+}
+
+#katalogDodaj form input[type="submit"]:hover {
+  background-color: #286090;
+  border-color: #204d74;
+  color: #ffffff;
+}
+
+#katalogDodaj form input[type="submit"].focus {
+  background-color: #286090;
+  border-color: #122b40;
+  color: #ffffff;
+}
 #katalogDodaj select {
   width: 100%;
 }
