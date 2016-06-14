@@ -50,8 +50,8 @@
         <div class="container mainblock">
             <h2>Aktualności</h2>
             <?php
-            $cat = get_cat_ID($post->post_title);
-            $wp_posts = get_posts("cat=$cat&showposts=4");
+            $arg = 'cat=-' . get_category_by_slug('katalog')->cat_ID . '&showposts=4';
+            $wp_posts = query_posts($arg);
             if ($wp_posts) {
                 foreach ($wp_posts as $post): setup_postdata($post); ?>
                     <div class="col-xs-12 col-sm-6 col-md-3">
