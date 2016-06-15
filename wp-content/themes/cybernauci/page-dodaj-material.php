@@ -9,7 +9,7 @@
                      class="sidebanner sidebanner-right" alt=""/>
 
                 <header class="entry-header">
-                    <h2 class="entry-title">Dodawanie katalogu</h2>
+                    <h2 class="entry-title">Dodawanie materiału</h2>
                 </header>
                 <div class="entry-content">
                     <div class="col-xs-12 col-md-8 col-md-offset-2">
