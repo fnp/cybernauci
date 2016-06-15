@@ -17,6 +17,9 @@
                 <div class="col-xs-12 col-md-3 katalog-meta">
                     <div class="katalog-meta-parent">Filtruj<i class="glyphicon pull-right"></i></div>
                     <ul class="katalog-meta-content">
+                        <li class="addKatalogBtn">
+                            <a href="/dodaj-material/">Dodaj nowy materiał</a>
+                        </li>
                         <?php wp_list_categories(array(
                             'orderby' => 'name',
                             'child_of' => get_category_by_slug('katalog')->cat_ID,

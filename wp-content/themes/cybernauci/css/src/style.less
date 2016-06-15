@@ -876,25 +876,58 @@ big {
       > li {
         font-size: 16px;
         margin-bottom: 15px;
-        border-bottom: 1px solid #74777A;
+        &.addKatalogBtn a {
+          width: auto;
+          background-color: #337ab7;
+          border-radius: 6px;
+          border: 1px solid #2e6da4;
+          color: #ffffff;
+          display: inline-block;
+          font-size: 12px;
+          font-weight: normal;
+          line-height: 1.3333333;
+          margin-bottom: 0;
+          padding: 10px 16px;
+          text-align: center;
+          touch-action: manipulation;
+          user-select: none;
+          vertical-align: middle;
+          white-space: nowrap;
+          text-decoration: none;
+          &:focus {
+            background-color: #286090;
+            border-color: #122b40;
+            color: #ffffff;
+          }
+          &:hover {
+            background-color: #286090;
+            border-color: #204d74;
+            color: #ffffff;
+          }
+        }
         & > a, li a {
           color: #74777A;
         }
         > a {
           font-weight: bold;
+          border-bottom: 1px solid #74777A;
+          display: inline-block;
+          width: 100%;
         }
         .children {
           font-size: 12px;
           padding: 0;
           li {
             list-style: none;
-            padding: 5px 5px 8px 25px;
+            padding: 12px 5px 4px 25px;
+            &, > a {
+              line-height: 1.1em;
+            }
             &.current-cat {
               position: relative;
               &, > a {
                 color: #C7499B;
                 font-weight: bold;
-                line-height: 1.1em;
               }
               &:before {
                 display: inline-block;
@@ -912,7 +945,7 @@ big {
                 position: absolute;
                 top: 50%;
                 left: 5px;
-                margin-top: -2px;
+                margin-top: 3px;
                 -webkit-transform: translate(0, -50%);
                 -moz-transform: translate(0, -50%);
                 -ms-transform: translate(0, -50%);
