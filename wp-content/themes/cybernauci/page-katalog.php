@@ -20,11 +20,32 @@
                         <li class="addKatalogBtn">
                             <a href="/dodaj-material/">Dodaj nowy materiał</a>
                         </li>
-                        <?php wp_list_categories(array(
+                        <?php
+                        $subTree = false;
+                        $katalogID = get_category_by_slug('katalog')->cat_ID;
+                        $categories = get_categories(array(
                             'orderby' => 'name',
                             'child_of' => get_category_by_slug('katalog')->cat_ID,
                             'title_li' => '',
-                        )); ?>
+                        ));
+                        foreach ($categories as $cat) {
+                            if ($cat->parent == $katalogID && $subTree) {
+                                echo '</ul></li>';
+                                $subTree = false;
+                            }
+                            if ($cat->parent !== $katalogID && !$subTree) {
+                                echo '<ul class="children">';
+                                $subTree = true;
+                            }
+                            echo '<li class="cat-item cat-item-' . $cat->cat_ID . '"><a href="/category/katalog/?filter_list=' . $cat->cat_ID . '">' . $cat->name . '</a>';
+                        }
+                        if ($subTree) {
+                            echo '</ul></li>';
+                            $subTree = false;
+                        } else {
+                            echo '</li>';
+                        }
+                        ?>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">

@@ -816,7 +816,6 @@ big {
   font-size: 16px;
   margin-bottom: 15px;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li.addKatalogBtn a {
   width: auto;
   background-color: #337ab7;
@@ -836,17 +835,26 @@ big {
   white-space: nowrap;
   text-decoration: none;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li.addKatalogBtn a:focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li.addKatalogBtn a:hover {
   background-color: #286090;
   border-color: #204d74;
   color: #ffffff;
+}
+#katalog .katalog-meta .katalog-meta-content > li.cleanKatalogBtn a {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.3333333;
+  color: #0064FA;
+  border-bottom: none;
+}
+#katalog .katalog-meta .katalog-meta-content > li.current-cat > a {
+  color: #C7499B;
 }
 #katalog .katalog-meta .katalog-meta-content > li > a,
 #katalog .katalog-meta .katalog-meta-content > li li a {
@@ -866,7 +874,6 @@ big {
   list-style: none;
   padding: 12px 5px 4px 25px;
 }
-
 #katalog .katalog-meta .katalog-meta-content > li .children li,
 #katalog .katalog-meta .katalog-meta-content > li .children li > a {
   line-height: 1.1em;

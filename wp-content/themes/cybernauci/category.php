@@ -20,17 +20,54 @@
                         <li class="addKatalogBtn">
                             <a href="/dodaj-material/">Dodaj nowy materiał</a>
                         </li>
-                        <?php wp_list_categories(array(
+                        <?php
+                        $current_category = $_GET['filter_list'];
+                        $current_category_array = explode(',', $current_category);
+                        $subTree = false;
+                        $katalogID = get_category_by_slug('katalog')->cat_ID;
+                        $categories = get_categories(array(
                             'child_of' => get_category_by_slug('katalog')->cat_ID,
-                            'title_li' => '',
-                            'current_category' => get_category_by_slug($current_category)->cat_ID
-                        )); ?>
+                            'title_li' => ''
+                        ));
+                        foreach ($categories as $cat) {
+                            if ($cat->parent == $katalogID && $subTree) {
+                                echo '</ul></li>';
+                                $subTree = false;
+                            }
+                            if ($cat->parent !== $katalogID && !$subTree) {
+                                echo '<ul class="children">';
+                                $subTree = true;
+                            }
+                            $current = "";
+                            $cat_filter = $current_category_array;
+                            if (in_array($cat->cat_ID, $current_category_array)) {
+                                $current = " current-cat";
+                                $pos = array_search($cat->cat_ID, $cat_filter);
+                                unset($cat_filter[$pos]);
+                            } else {
+                                $cat_filter[] = $cat->cat_ID;
+                            }
+                            $cat_link = implode(',', array_unique($cat_filter));
+                            if (count($cat_filter) > 0) {
+                                $link = '/category/katalog/?filter_list=' . $cat_link;
+                            } else {
+                                $link = '/katalog/';
+                            }
+                            echo '<li class="cat-item cat-item-' . $cat->cat_ID . $current . '"><a href="' . $link . '">' . $cat->name . '</a>';
+                        }
+                        if ($subTree) {
+                            echo '</ul></li>';
+                            $subTree = false;
+                        } else {
+                            echo '</li>';
+                        }
+                        echo '<li class="cleanKatalogBtn"><a href="/katalog/">Wyczyść szukanie</a>'
+                        ?>
                     </ul>
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">
                     <?php
-                    $current_category = single_cat_title("", false);
-                    $args = array('posts_per_page' => 999999, 'category_name' => $current_category);
+                    $args = array('posts_per_page' => 999999, 'category' => $current_category);
                     $posts = get_posts($args);
                     if ($posts) {
                         foreach ($posts as $post):
