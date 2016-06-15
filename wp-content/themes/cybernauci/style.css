@@ -896,12 +896,12 @@ big {
   text-align: left;
   width: 100%;
 }
-#rejestracja .sidebanner-left,
-#katalogDodaj .sidebanner-left {
+
+#rejestracja .sidebanner-left {
   top: 70px;
 }
-#rejestracja .sidebanner-right,
-#katalogDodaj .sidebanner-right {
+
+#rejestracja .sidebanner-right {
   right: 120px;
   top: 165px;
 }
@@ -1125,6 +1125,15 @@ big {
   appearance: none;
   margin: 0;
 }
+
+#katalogDodaj .sidebanner-left {
+  top: 70px;
+}
+
+#katalogDodaj .sidebanner-right {
+  right: 0;
+  top: 165px;
+}
 #katalogDodaj form label {
   font-weight: bold;
 }
@@ -1135,7 +1144,6 @@ big {
   content: '';
   display: none;
 }
-
 #katalogDodaj form input[type="submit"] {
   -moz-user-select: none;
   -ms-touch-action: manipulation;
@@ -1158,19 +1166,16 @@ big {
   vertical-align: middle;
   white-space: nowrap;
 }
-
 #katalogDodaj form input[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
-
 #katalogDodaj form input[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
   color: #ffffff;
 }
-
 #katalogDodaj form input[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
