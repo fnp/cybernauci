@@ -918,9 +918,10 @@ big {
 #katalog.single .katalog-content .mainblock .entry-header .entry-title {
   color: #000000;
   margin-bottom: -4px;
+  display: inline-block;
 }
 #katalog.single .mainblock .entry-header .img-responsive {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 .entry-footer#katalog.single .mainblock:first-child {
   border-bottom: 1px solid #00b4ff;
