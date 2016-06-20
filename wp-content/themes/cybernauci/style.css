@@ -700,6 +700,8 @@ big {
   border-bottom: 1px solid #00b4ff;
   padding: 8px 50px 8px 0;
   text-decoration: none;
+  display: inline-block;
+  margin-bottom: 20px;
 }
 #aktualnosci .sidebanner-left {
   top: 30px;
@@ -720,6 +722,7 @@ big {
 #aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title {
   color: #000000;
   margin-bottom: -4px;
+  line-height: 1em;
 }
 #aktualnosci.single .mainblock .entry-header .img-responsive {
   margin-top: 10px;
@@ -915,10 +918,15 @@ big {
 #katalog .katalog-content .entry-header {
   margin-bottom: 0;
 }
+
+#katalog.single .katalog-content .katalog-meta {
+  margin-top: 20px;
+}
 #katalog.single .katalog-content .mainblock .entry-header .entry-title {
   color: #000000;
   margin-bottom: -4px;
   display: inline-block;
+  line-height: 1em;
 }
 #katalog.single .mainblock .entry-header .img-responsive {
   margin-top: 15px;
