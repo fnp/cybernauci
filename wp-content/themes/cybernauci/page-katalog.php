@@ -70,9 +70,9 @@
                                         <h2 class="entry-title">
                                             <a href="<?php the_permalink() ?>" rel="bookmark">
                                                 <?php
-                                                $limit = 44;
+                                                $limit = 45;
                                                 if (strlen($post->post_title) > $limit) {
-                                                    echo substr(the_title($before = '', $after = '', FALSE), 0, $limit) . '...';
+                                                    echo mb_substr(get_the_title(), 0, $limit) . '...';
                                                 } else {
                                                     the_title();
                                                 } ?>
