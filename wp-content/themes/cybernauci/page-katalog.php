@@ -102,11 +102,6 @@
                             </div>
                         <? endforeach;
                     }
-
-                    the_posts_pagination(array(
-                        'prev_text' => '&laquo',
-                        'next_text' => '&raquo'
-                    ));
                     ?>
                 </div>
             </div>

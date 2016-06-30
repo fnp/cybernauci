@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-xs-12 col-md-9 katalog-list">
                     <?php
-                    $args = array('posts_per_page' => 999999, 'category' => $current_category);
+                    $args = array('posts_per_page' => 999999, 'category__and' => $current_category_array);
                     $posts = get_posts($args);
                     if ($posts) {
                         foreach ($posts as $post):
@@ -105,11 +105,6 @@
                             </div>
                         <? endforeach;
                     }
-
-                    the_posts_pagination(array(
-                        'prev_text' => '&laquo',
-                        'next_text' => '&raquo'
-                    ));
                     ?>
                 </div>
             </div>
