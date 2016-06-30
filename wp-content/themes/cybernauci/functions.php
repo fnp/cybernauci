@@ -424,3 +424,17 @@ function cybernauci_widget_tag_cloud_args($args)
 }
 
 add_filter('widget_tag_cloud_args', 'cybernauci_widget_tag_cloud_args');
+
+function ShortenText($text)
+{
+    $chars_limit = 40; // Character length
+    $chars_text = strlen($text);
+    $text = $text . " ";
+    $text = substr($text, 0, $chars_limit);
+    $text = substr($text, 0, strrpos($text, ' '));
+
+    if ($chars_text > $chars_limit) {
+        $text = $text . "...";
+    } // Ellipsis
+    return $text;
+}

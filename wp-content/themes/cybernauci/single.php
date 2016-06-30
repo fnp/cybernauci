@@ -18,8 +18,7 @@
                 <div class="container mainblock">
                     <div class="col-xs-12 col-md-3 katalog-meta">
                         <a title="wróć do listy" rel="bookmark"
-                           href="<?php echo esc_url(get_permalink(get_page_by_title('Katalog'))); ?>"
-                           class="back-to-list">wróć do listy</a>
+                           href="/katalog/" class="back-to-list">wróć do listy</a>
                         <div class="katalog-meta-parent">Informacje<i class="glyphicon pull-right"></i></div>
                         <ul class="katalog-meta-content disabled">
                             <?php

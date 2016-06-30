@@ -914,7 +914,6 @@ big {
 #katalog .katalog-list {
   padding-top: 35px;
 }
-
 #katalog .katalog-list .image-holder {
   width: 100%;
   display: inline-block;
@@ -923,7 +922,6 @@ big {
   margin-bottom: 30px;
   position: relative;
 }
-
 #katalog .katalog-list .image-holder .img-responsive {
   position: absolute;
   top: 50%;

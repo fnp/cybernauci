@@ -66,13 +66,9 @@
                                             <div class="image-holder">
                                                 <img class="img-responsive" src="<?php echo $image['url']; ?>" alt=""/>
                                             </div>
-                                        <?php } ?>
-
-                                        <?php if (strlen($post->post_title) > 40) {
-                                            echo substr(the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>'), 0, 40) . '...';
-                                        } else {
-                                            the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>');
-                                        } ?>
+                                        <?php }
+                                        echo ShortenText(get_the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>'));
+                                        ?>
                                     </header>
 
                                     <div class="entry-content">
