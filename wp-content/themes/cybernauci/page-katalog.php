@@ -63,14 +63,20 @@
                                     <header class="entry-header">
                                         <?php $image = get_field('Image');
                                         if (!empty($image)) { ?>
-                                            <img class="img-responsive" src="<?php echo $image['url']; ?>" alt=""/>
+                                            <div class="image-holder">
+                                                <img class="img-responsive" src="<?php echo $image['url']; ?>" alt=""/>
+                                            </div>
                                         <?php } ?>
 
-                                        <?php the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>'); ?>
+                                        <?php if (strlen($post->post_title) > 40) {
+                                            echo substr(the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>'), 0, 40) . '...';
+                                        } else {
+                                            the_title(sprintf('<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url(get_permalink())), '</a></h2>');
+                                        } ?>
                                     </header>
 
                                     <div class="entry-content">
-                                        <?php echo wp_trim_words(get_the_content(), 30) ?>
+                                        <?php echo wp_trim_words(get_the_content(), 14) ?>
                                     </div>
 
                                     <footer class="entry-footer">

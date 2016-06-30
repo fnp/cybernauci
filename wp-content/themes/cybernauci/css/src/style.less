@@ -648,6 +648,7 @@ big {
       line-height: 1.2em;
       margin-bottom: 12px;
       margin-top: 20px;
+      word-wrap: break-word;
     }
   }
 }
@@ -671,6 +672,7 @@ big {
       line-height: 1.2em;
       margin-bottom: 12px;
       margin-top: 20px;
+      word-wrap: break-word;
       .alignleft {
         float: left;
         margin: 6px 28px 28px 0;
@@ -974,8 +976,23 @@ big {
   }
   .katalog-list {
     padding-top: 35px;
-    .img-responsive {
+    .image-holder {
+      width: 100%;
+      display: inline-block;
+      height: 120px;
+      overflow: hidden;
       margin-bottom: 30px;
+      position: relative;
+      .img-responsive {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
     }
   }
   .katalog-content {
