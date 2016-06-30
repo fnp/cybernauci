@@ -69,8 +69,10 @@
                                         <?php } ?>
                                         <h2 class="entry-title">
                                             <a href="<?php the_permalink() ?>" rel="bookmark">
-                                                <?php if (strlen($post->post_title) > 35) {
-                                                    echo substr(the_title($before = '', $after = '', FALSE), 0, 35) . '...';
+                                                <?php
+                                                $limit = 44;
+                                                if (strlen($post->post_title) > $limit) {
+                                                    echo substr(the_title($before = '', $after = '', FALSE), 0, $limit) . '...';
                                                 } else {
                                                     the_title();
                                                 } ?>
