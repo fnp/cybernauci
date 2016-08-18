@@ -518,7 +518,6 @@ big {
 }
 .mainblock .sidebanner {
   position: absolute;
-  z-index: 2;
 }
 .mainblock .sidebanner.sidebanner-left {
   left: -68px;
