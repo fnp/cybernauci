@@ -972,28 +972,76 @@ big {
   right: 120px;
   top: 165px;
 }
+#konkurs {
+  position: relative;
+}
+#konkurs .sidebanner-left {
+  top: 70px;
+}
+#konkurs .sidebanner-right {
+  right: 120px;
+  top: 165px;
+}
+#konkurs .information-background {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+#konkurs .information-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  padding: 20px 30px;
+  background-color: #ffffff;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: left;
+  max-width: 800px;
+  font-size: 14px;
+  color: #000000;
+}
+#konkurs .information-modal .information-btn {
+  width: 100%;
+  display: inline-block;
+}
 #rejestracja .entry-content,
-#katalogDodaj .entry-content {
+#katalogDodaj .entry-content,
+#konkurs .entry-content {
   color: #ffffff;
   font-size: 16px;
 }
 #rejestracja .entry-content a,
-#katalogDodaj .entry-content a {
+#katalogDodaj .entry-content a,
+#konkurs .entry-content a {
   color: #ffffff;
   font-size: 16px;
 }
 #rejestracja form,
-#katalogDodaj form {
+#katalogDodaj form,
+#konkurs form {
   text-align: left;
 }
 #rejestracja form label,
-#katalogDodaj form label {
+#katalogDodaj form label,
+#konkurs form label {
   color: #ffffff;
   font-size: 14px;
   font-weight: normal;
 }
 #rejestracja form input,
-#katalogDodaj form input {
+#katalogDodaj form input,
+#konkurs form input {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -1007,7 +1055,8 @@ big {
   padding-top: 12px;
 }
 #rejestracja form select,
-#katalogDodaj form select {
+#katalogDodaj form select,
+#konkurs form select {
   -moz-appearance: none;
   -moz-border-radius: 0;
   -moz-box-shadow: none;
@@ -1027,7 +1076,8 @@ big {
   padding-top: 12px;
 }
 #rejestracja form select:before,
-#katalogDodaj form select:before {
+#katalogDodaj form select:before,
+#konkurs form select:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   content: "\e259";
@@ -1040,14 +1090,16 @@ big {
   top: 1px;
 }
 #rejestracja form select option,
-#katalogDodaj form select option {
+#katalogDodaj form select option,
+#konkurs form select option {
   border-width: 0;
   min-height: 30px;
   padding-bottom: 8px;
   padding-top: 8px;
 }
 #rejestracja form textarea,
-#katalogDodaj form textarea {
+#katalogDodaj form textarea,
+#konkurs form textarea {
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   background: none;
@@ -1061,11 +1113,13 @@ big {
   padding-top: 12px;
 }
 #rejestracja form .col-xs-12-wrap .ninja-forms-field,
-#katalogDodaj form .col-xs-12-wrap .ninja-forms-field {
+#katalogDodaj form .col-xs-12-wrap .ninja-forms-field,
+#konkurs form .col-xs-12-wrap .ninja-forms-field {
   width: 100%;
 }
 #rejestracja form .ninja-forms-field[type="submit"],
-#katalogDodaj form .ninja-forms-field[type="submit"] {
+#katalogDodaj form .ninja-forms-field[type="submit"],
+#konkurs form .ninja-forms-field[type="submit"] {
   -moz-user-select: none;
   -ms-touch-action: manipulation;
   -ms-user-select: none;
@@ -1088,49 +1142,58 @@ big {
   white-space: nowrap;
 }
 #rejestracja form .ninja-forms-field[type="submit"]:focus,
-#katalogDodaj form .ninja-forms-field[type="submit"]:focus {
+#katalogDodaj form .ninja-forms-field[type="submit"]:focus,
+#konkurs form .ninja-forms-field[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-field[type="submit"]:hover,
-#katalogDodaj form .ninja-forms-field[type="submit"]:hover {
+#katalogDodaj form .ninja-forms-field[type="submit"]:hover,
+#konkurs form .ninja-forms-field[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-field[type="submit"].focus,
-#katalogDodaj form .ninja-forms-field[type="submit"].focus {
+#katalogDodaj form .ninja-forms-field[type="submit"].focus,
+#konkurs form .ninja-forms-field[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
   color: #ffffff;
 }
 #rejestracja form .ninja-forms-required-items,
-#katalogDodaj form .ninja-forms-required-items {
+#katalogDodaj form .ninja-forms-required-items,
+#konkurs form .ninja-forms-required-items {
   display: none;
 }
 #rejestracja form .ninja-forms-field.nf-desc > p,
-#katalogDodaj form .ninja-forms-field.nf-desc > p {
+#katalogDodaj form .ninja-forms-field.nf-desc > p,
+#konkurs form .ninja-forms-field.nf-desc > p {
   margin: 12px 0;
 }
 #rejestracja form .col-xs-10-wrap,
-#katalogDodaj form .col-xs-10-wrap {
+#katalogDodaj form .col-xs-10-wrap,
+#konkurs form .col-xs-10-wrap {
   float: left;
   width: 70%;
 }
 #rejestracja form .col-xs-2-wrap,
-#katalogDodaj form .col-xs-2-wrap {
+#katalogDodaj form .col-xs-2-wrap,
+#konkurs form .col-xs-2-wrap {
   float: right;
   margin-left: 5%;
   width: 25%;
 }
 #rejestracja form .ninja-forms-req-symbol,
-#katalogDodaj form .ninja-forms-req-symbol {
+#katalogDodaj form .ninja-forms-req-symbol,
+#konkurs form .ninja-forms-req-symbol {
   padding-left: 2px;
   padding-right: 4px;
 }
 #rejestracja form .help-text,
-#katalogDodaj form .help-text {
+#katalogDodaj form .help-text,
+#konkurs form .help-text {
   color: #0094d2;
   display: inline-block;
   float: left;
@@ -1140,17 +1203,20 @@ big {
   width: 100%;
 }
 #rejestracja form .checkbox-wrap,
-#katalogDodaj form .checkbox-wrap {
+#katalogDodaj form .checkbox-wrap,
+#konkurs form .checkbox-wrap {
   float: left;
   margin-bottom: 26px;
   width: 100%;
 }
 #rejestracja form .checkbox-wrap input,
-#katalogDodaj form .checkbox-wrap input {
+#katalogDodaj form .checkbox-wrap input,
+#konkurs form .checkbox-wrap input {
   float: left;
 }
 #rejestracja form .checkbox-wrap label,
-#katalogDodaj form .checkbox-wrap label {
+#katalogDodaj form .checkbox-wrap label,
+#konkurs form .checkbox-wrap label {
   color: #ffffff;
   float: left;
   font-size: 12px;
@@ -1159,7 +1225,8 @@ big {
   width: 90%;
 }
 #rejestracja form .ninja-forms-field-error,
-#katalogDodaj form .ninja-forms-field-error {
+#katalogDodaj form .ninja-forms-field-error,
+#konkurs form .ninja-forms-field-error {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -1169,7 +1236,8 @@ big {
   padding-right: 10px;
 }
 #rejestracja form .ninja-forms-field-error p,
-#katalogDodaj form .ninja-forms-field-error p {
+#katalogDodaj form .ninja-forms-field-error p,
+#konkurs form .ninja-forms-field-error p {
   display: inline-block;
   float: left;
   font-size: 10px;
@@ -1179,14 +1247,16 @@ big {
   padding-right: 10px;
 }
 #rejestracja input[type=number]::-webkit-inner-spin-button,
-#katalogDodaj input[type=number]::-webkit-inner-spin-button {
+#katalogDodaj input[type=number]::-webkit-inner-spin-button,
+#konkurs input[type=number]::-webkit-inner-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
   margin: 0;
 }
 #rejestracja input[type=number]::-webkit-outer-spin-button,
-#katalogDodaj input[type=number]::-webkit-outer-spin-button {
+#katalogDodaj input[type=number]::-webkit-outer-spin-button,
+#konkurs input[type=number]::-webkit-outer-spin-button {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
@@ -1270,7 +1340,18 @@ big {
 #katalog form textarea:-moz-placeholder,
 #katalog form textarea::-moz-placeholder,
 #katalog form textarea:-ms-input-placeholder,
-#katalog form textarea:placeholder-shown {
+#katalog form textarea:placeholder-shown,
+#konkurs form select option,
+#konkurs form input::-webkit-input-placeholder,
+#konkurs form input:-moz-placeholder,
+#konkurs form input::-moz-placeholder,
+#konkurs form input:-ms-input-placeholder,
+#konkurs form input:placeholder-shown,
+#konkurs form textarea::-webkit-input-placeholder,
+#konkurs form textarea:-moz-placeholder,
+#konkurs form textarea::-moz-placeholder,
+#konkurs form textarea:-ms-input-placeholder,
+#konkurs form textarea:placeholder-shown {
   background-color: #01253B;
   color: #ffffff;
 }
@@ -1313,10 +1394,12 @@ big {
 }
 @media (min-width: 992px) {
   #rejestracja form .col-md-6-wrap .ninja-forms-field .katalog-meta .katalog-meta-parent,
+  #konkurs form .col-md-6-wrap .ninja-forms-field .katalog-meta .katalog-meta-parent,
   #katalog .katalog-meta .katalog-meta-parent {
     display: none;
   }
   #rejestracja form .col-md-6-wrap .ninja-forms-field .katalog-meta .katalog-meta-content,
+  #konkurs form .col-md-6-wrap .ninja-forms-field .katalog-meta .katalog-meta-content,
   #katalog .katalog-meta .katalog-meta-content {
     height: auto;
     width: auto;
@@ -1326,6 +1409,7 @@ big {
     padding-right: 0;
   }
   #rejestracja form .col-md-6-wrap .ninja-forms-field form .col-md-6-wrap .ninja-forms-field,
+  #konkurs form .col-md-6-wrap .ninja-forms-field form .col-md-6-wrap .ninja-forms-field,
   #katalog form .col-md-6-wrap .ninja-forms-field {
     width: 50%;
   }
