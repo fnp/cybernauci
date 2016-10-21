@@ -103,14 +103,16 @@ jQuery(document).ready(function () {
 
               if (this.value == '' && szkola.text().indexOf('z poza listy)') >= 0) {
                 szkolaAddNew.modal('show')
-              } else {
+              }
+              else {
                 konkursMain.find('.hidden_szkola_id').val(szkola.attr('data-id'));
                 konkursMain.find('.hidden_szkola_nazwa').val(szkola.attr('value'));
                 if (szkola.attr('data-ulica').length) szkolaUlica.val(szkola.attr('data-ulica'));
                 if (szkola.attr('data-numer').length) szkolaNumer.val(szkola.attr('data-numer'));
                 if (szkola.attr('data-kod').length) szkolaKod.val(szkola.attr('data-kod'));
                 if (szkola.attr('data-poczta').length) szkolaPoczta.val(szkola.attr('data-poczta'));
-                if (szkola.attr('data-typ').length) nazwaSzkolyTyp.find('option[value="' + szkola.attr('data-typ') + '"]').selected();
+                if (szkola.attr('data-typ').length) nazwaSzkolyTyp.find(
+                  'option[value="' + szkola.attr('data-typ') + '"]').selected();
               }
             });
           }
@@ -141,7 +143,8 @@ jQuery(document).ready(function () {
       if (typ !== '') {
         nazwaSzkolyList.find('option[value!=""][data-typ!="' + typ.toLowerCase() + '"]:visible').hide();
         nazwaSzkolyList.find('option[value!=""][data-typ="' + typ.toLowerCase() + '"]:hidden').show();
-      } else {
+      }
+      else {
         nazwaSzkolyList.find('option:hidden').show();
       }
     });
@@ -190,7 +193,8 @@ jQuery(document).ready(function () {
     wojewodztwo();
 
     konkursMain.find('input[type="submit"]').click(function () {
-      var validate = (konkursMain.find('form select.ninja-forms-req option:selected[value=""]').length == 0) ? true : false;
+      var validate = (konkursMain.find(
+        'form select.ninja-forms-req option:selected[value=""]').length == 0) ? true : false;
       konkursMain.find('form input.ninja-forms-req[type="text"]').filter(function () {
         var e = jQuery(this);
         if (e.val() == jQuery('#' + e.attr('id') + '_label_hidden').val()) {
@@ -202,7 +206,8 @@ jQuery(document).ready(function () {
       if (validate == false) {
         jQuery('.validate-warning').removeClass('hidden').show();
         return false;
-      } else {
+      }
+      else {
         jQuery('.validate-warning').hide();
         return true;
       }
