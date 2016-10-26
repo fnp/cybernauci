@@ -240,6 +240,7 @@ jQuery(document).ready(function () {
 });
 jQuery(document).ready(function () {
   var quizBlock = jQuery('#quiz'),
+    quizContent = quizBlock.find('.quiz-content'),
     opacityTime = 500, /*0.5s = 500ms*/
     expertMode = false,
     translate = {
@@ -259,52 +260,38 @@ jQuery(document).ready(function () {
 
     questions.each(function (i) {
       var el = jQuery(this),
-        content = el.html().match(/\[(.*)\]/g);
+        content = el.html().match(/[^[\]]+(?=])/g),
+        questionHtml = jQuery('<div></div>'),
+        answersHtml = jQuery('<div></div>');
 
-      var pytanie = jQuery.trim(content[0].slice(1, -1)),
-        odpowiedz1 = content[1].slice(1, -1).split(':'),
-        odpowiedz2 = content[2].slice(1, -1).split(':'),
-        odpowiedz3 = content[3].slice(1, -1).split(':');
+      jQuery.each(content, function (index, value) {
+        if (index == 0) {
+          questionHtml.addClass('question').text(value);
+        }
+        else {
+          var temp = content[index].substr(content[index].indexOf(':') + 1),
+            letter = (index == 1) ? 'A' : ((index == 2) ? 'B' : 'C'),
+            p = content[index].substr(0, content[index].indexOf(':')),
+            q = temp.substr(0, temp.indexOf(':')),
+            e = temp.substr(temp.indexOf(':') + 1);
 
-      el.empty().append(
-        jQuery('<div></div>').addClass('question').text(pytanie)
-      ).append(
-        jQuery('<div></div>').addClass('answer').append(
-          jQuery('<input>').attr({
-            'type': 'radio',
-            'class': 'answer',
-            'name': 'pytanie-' + i,
-            'id': 'pytanie-' + i + '-0',
-            'data-type': 'A'
-          }).data('rozwiazanie', jQuery.trim(odpowiedz1[2])).val(Number(odpowiedz1[0]))
-        ).append(
-          jQuery('<label>').attr('for', 'pytanie-' + i + '-0').text(jQuery.trim(odpowiedz1[1]))
-        )
-      ).append(
-        jQuery('<div></div>').addClass('answer').append(
-          jQuery('<input>').attr({
-            'type': 'radio',
-            'class': 'answer',
-            'name': 'pytanie-' + i,
-            'id': 'pytanie-' + i + '-1',
-            'data-type': 'B'
-          }).data('rozwiazanie', jQuery.trim(odpowiedz2[2])).val(Number(odpowiedz2[0]))
-        ).append(
-          jQuery('<label>').attr('for', 'pytanie-' + i + '-1').text(jQuery.trim(odpowiedz2[1]))
-        )
-      ).append(
-        jQuery('<div></div>').addClass('answer').append(
-          jQuery('<input>').attr({
-            'type': 'radio',
-            'class': 'answer',
-            'name': 'pytanie-' + i,
-            'id': 'pytanie-' + i + '-2',
-            'data-type': 'C'
-          }).data('rozwiazanie', jQuery.trim(odpowiedz3[2])).val(Number(odpowiedz3[0]))
-        ).append(
-          jQuery('<label>').attr('for', 'pytanie-' + i + '-2').text(jQuery.trim(odpowiedz3[1]))
-        )
-      ).append(
+          answersHtml.append(
+            jQuery('<div></div>').addClass('answer').append(
+              jQuery('<input>').attr({
+                'type': 'radio',
+                'class': 'answer',
+                'name': 'pytanie-' + i,
+                'id': 'pytanie-' + i + '-' + letter,
+                'data-type': letter
+              }).data('rozwiazanie', '<p>' + jQuery.trim(e)).val(Number(p))
+            ).append(
+              jQuery('<label>').attr('for', 'pytanie-' + i + '-' + letter).html(jQuery.trim(q))
+            )
+          )
+        }
+      });
+
+      el.empty().append(questionHtml).append(answersHtml).append(
         jQuery('<div></div>').addClass('quizNavStats').append(
           jQuery('<div></div>').addClass('correctAnswer').text(translate.poprawnaOdpowiedz).append(
             jQuery('<span></span>').text('-')
@@ -313,23 +300,26 @@ jQuery(document).ready(function () {
           jQuery('<div></div>').addClass('questionList').text((i + 1) + "/" + questionsLength)
         )
       ).append(
+        jQuery('<div></div>').addClass('quizNavExpert')
+      ).append(
         jQuery('<div></div>').addClass('quizNavButtons').append(
           jQuery('<button></button>').addClass('prev').text(translate.poprzednie)
         ).addClass('quizNavButtons').append(
           jQuery('<button></button>').addClass('next').text(translate.nastepne)
         )
-      ).append(
-        jQuery('<div></div>').addClass('quizNavExpert')
       )
     });
 
     /*Question checked*/
     questions.find('input[type=radio]').change(function () {
+
       if (!expertMode) {
         countScore();
         jQuery(this).parents('.questionBlock').removeClass('visible').addClass('trigger');
         setTimeout(function () {
-          quizBlock.find('.questionBlock.trigger').removeClass('trigger').next().addClass('visible');
+          var next = quizBlock.find('.questionBlock.trigger').removeClass('trigger').next();
+          quizContent.css('height', next.outerHeight() + 'px');
+          next.addClass('visible');
         }, opacityTime);
       }
     });
@@ -350,9 +340,11 @@ jQuery(document).ready(function () {
         }
       });
       setTimeout(function () {
+        var reset = quizBlock.find('.questionBlock:first');
         questions.removeClass('visible');
-        quizBlock.find('.questionBlock:first').addClass('visible');
         quizBlock.addClass('expert');
+        quizContent.css('height', reset.outerHeight() + 'px');
+        reset.addClass('visible');
       }, opacityTime);
     });
 
@@ -362,12 +354,16 @@ jQuery(document).ready(function () {
       btn.parents('.questionBlock').removeClass('visible').addClass('trigger');
       if (btn.hasClass('prev')) {
         setTimeout(function () {
-          quizBlock.find('.questionBlock.trigger').removeClass('trigger').prev().addClass('visible');
+          var prev = quizBlock.find('.questionBlock.trigger').removeClass('trigger').prev();
+          quizContent.css('height', prev.outerHeight() + 'px');
+          prev.addClass('visible');
         }, opacityTime);
       }
       else {
         setTimeout(function () {
-          quizBlock.find('.questionBlock.trigger').removeClass('trigger').next().addClass('visible');
+          var next = quizBlock.find('.questionBlock.trigger').removeClass('trigger').next();
+          quizContent.css('height', next.outerHeight() + 'px');
+          next.addClass('visible');
         }, opacityTime);
       }
     });

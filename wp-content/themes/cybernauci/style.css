@@ -482,6 +482,7 @@ big {
   background-color: #020c12;
   display: inline-block;
   width: 100%;
+  margin-bottom: -10px;
 }
 .site-container .site-footer {
   color: #ffffff;
@@ -1437,6 +1438,9 @@ big {
 #quiz .entry-content .quiz-content {
   position: relative;
   min-height: 500px;
+  -webkit-animation: height 0.5s ease;
+  -o-animation: height 0.5s ease;
+  animation: height 0.5s ease;
 }
 #quiz .entry-content .quiz-content .questionBlock,
 #quiz .entry-content .quiz-content .quizScore {
@@ -1557,12 +1561,19 @@ big {
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavButtons {
   width: 100%;
-  margin: 10px 0 20px;
+  margin: 20px 0 50px;
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavExpert {
   text-align: left;
+  margin-top: 20px;
+}
+#quiz .entry-content .quiz-content .questionBlock .quizNavExpert,
+#quiz .entry-content .quiz-content .questionBlock .quizNavExpert a {
   font-size: 21px;
   font-weight: normal;
+}
+#quiz .entry-content .quiz-content .questionBlock .quizNavExpert a {
+  color: #00b4ff;
 }
 #quiz .entry-content .quiz-content .quizScore {
   text-align: left;

@@ -508,6 +508,7 @@ big {
   background-color: #020c12;
   display: inline-block;
   width: 100%;
+  margin-bottom: -10px;
   .site-footer {
     color: #ffffff;
     font-size: 12px;
@@ -1427,12 +1428,15 @@ big {
     color: #ffffff;
     font-size: 16px;
     .quiz-content {
+      @time: 0.5s; //change also at quiz.js line 3 (opacityTime)
+
       position: relative;
       min-height: 500px;
+      -webkit-animation: height @time ease;
+      -o-animation: height @time ease;
+      animation: height @time ease;
       .questionBlock,
       .quizScore {
-        @time: 0.5s; //change also at quiz.js line 3 (opacityTime)
-
         position: absolute;
         top: 0;
         left: 50%;
@@ -1545,12 +1549,18 @@ big {
         }
         .quizNavButtons {
           width: 100%;
-          margin: 10px 0 20px;
+          margin: 20px 0 50px;
         }
         .quizNavExpert {
           text-align: left;
-          font-size: 21px;
-          font-weight: normal;
+          margin-top: 20px;
+          &, & a {
+            font-size: 21px;
+            font-weight: normal;
+          }
+          a {
+            color: #00b4ff;
+          }
         }
       }
       .quizScore {
