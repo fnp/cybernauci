@@ -1603,8 +1603,14 @@ big {
   display: none;
 }
 #quiz .entry-content .quiz-content .quizScore.bronze > .bronze,
-#quiz .entry-content .quiz-content .quizScore.silver > .silver #quiz .entry-content .quiz-content .quizScore.gold > .gold {
+#quiz .entry-content .quiz-content .quizScore.silver > .silver,
+#quiz .entry-content .quiz-content .quizScore.gold > .gold {
   display: block;
+}
+#quiz .entry-content .quiz-content .quizScore.bronze > .bronze.quizComment,
+#quiz .entry-content .quiz-content .quizScore.silver > .silver.quizComment,
+#quiz .entry-content .quiz-content .quizScore.gold > .gold.quizComment {
+  display: inline-block;
 }
 #quiz .entry-content .quiz-content .quizScore.bronze,
 #quiz .entry-content .quiz-content .quizScore.silver,

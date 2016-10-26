@@ -1590,9 +1590,12 @@ big {
           display: none;
         }
         &.bronze > .bronze,
-        &.silver > .silver
+        &.silver > .silver,
         &.gold > .gold {
           display: block;
+          &.quizComment {
+            display: inline-block;
+          }
         }
         &.bronze, &.silver, &.gold {
           position: relative;
