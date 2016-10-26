@@ -75,6 +75,7 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
 
                 $field = Ninja_Forms()->form($form_id)->field( $field_id )->get();
             } else {
+                unset( $settings[ 'id' ] );
                 $field = Ninja_Forms()->form($form_id)->field()->get();
             }
 
@@ -181,12 +182,12 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
             $filename = apply_filters( 'ninja_forms_form_export_filename', 'nf_form_' . $today );
             $filename = $filename . ".nff";
 
-            header( 'Content-type: application/nff');
+            header( 'Content-type: application/json');
             header( 'Content-Disposition: attachment; filename="'.$filename .'"' );
             header( 'Pragma: no-cache');
             header( 'Expires: 0' );
-            echo apply_filters( 'ninja_forms_form_export_bom',"\xEF\xBB\xBF" ) ; // Byte Order Mark
-            echo base64_encode( maybe_serialize( $export ) );
+//            echo apply_filters( 'ninja_forms_form_export_bom',"\xEF\xBB\xBF" ) ; // Byte Order Mark
+            echo json_encode( WPN_Helper::utf8_encode( $export ) );
 
             die();
         }
@@ -218,6 +219,11 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
             unset( $import[ 'settings' ][ 'form_title' ] );
         }
 
+        // Convert `last_sub` to `_seq_num`
+        if( isset( $import[ 'settings' ][ 'last_sub' ] ) ) {
+            $import[ 'settings' ][ '_seq_num' ] = $import[ 'settings' ][ 'last_sub' ] + 1;
+        }
+
         // Make sure
         if( ! isset( $import[ 'fields' ] ) ){
             $import[ 'fields' ] = array();
@@ -233,8 +239,22 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
 
         // Combine Field and Field Data
         foreach( $import[ 'fields' ] as $key => $field ){
+
+            if( '_honeypot' == $field[ 'type' ] ) {
+                unset( $import[ 'fields' ][ $key ] );
+                continue;
+            }
+
             // TODO: Split Credit Card field into multiple fields.
             $field = $this->import_field_backwards_compatibility( $field );
+
+            if( isset( $field[ 'new_fields' ] ) ){
+                foreach( $field[ 'new_fields' ] as $new_field ){
+                    $import[ 'fields' ][] = $new_field;
+                }
+                unset( $field[ 'new_fields' ] );
+            }
+
             $import[ 'fields' ][ $key ] = $field;
         }
 
@@ -249,14 +269,14 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
         if( ! $has_save_action ) {
             $import[ 'actions' ][] = array(
                 'type' => 'save',
-                'label' => 'Save Form',
+                'label' => __( 'Save Form', 'ninja-forms' ),
                 'active' => TRUE
             );
         }
 
         $import = $this->import_merge_tags_backwards_compatibility( $import );
 
-        return $import;
+        return apply_filters( 'ninja_forms_after_upgrade_settings', $import );
     }
 
     public function import_merge_tags_backwards_compatibility( $import )
@@ -347,44 +367,6 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
             $field[ 'processing_label' ] = 'Processing';
         }
 
-        if( 'calc' == $field[ 'type' ] ){
-            $field[ 'type' ] = 'note';
-
-            if( isset( $field[ 'calc_method' ] ) ) {
-
-                switch( $field[ 'calc_method' ] ){
-                    case 'eq':
-                        $method = __( 'Equation (Advanced)', 'ninja-forms' );
-                        break;
-                    case 'fields':
-                        $method = __( 'Operations and Fields (Advanced)', 'ninja-forms' );
-                        break;
-                    case 'auto':
-                        $method = __( 'Auto-Total Fields', 'ninja-forms' );
-                        break;
-                    default:
-                        $method = '';
-                }
-                $field['default'] = $method . "\r\n";
-
-                if ('eq' == $field['calc_method'] && isset( $field['calc_eq'] ) ) {
-                    $field['default'] .= $field['calc_eq'];
-                }
-
-                if ('fields' == $field['calc_method'] && isset( $field['calc'] ) ) {
-                    // TODO: Support 'operations and fields (advanced)' calculations.
-                }
-
-                if ('auto' == $field['calc_method'] && isset( $field['calc'] ) ) {
-                    // TODO: Support 'auto-totaling' calculations.
-                }
-            }
-
-            unset( $field[ 'calc' ] );
-            unset( $field[ 'calc_eq' ] );
-            unset( $field[ 'calc_method' ] );
-        }
-
         if( isset( $field[ 'email' ] ) ){
 
             if( 'textbox' == $field[ 'type' ] && $field[ 'email' ] ) {
@@ -430,6 +412,8 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
 
             unset( $field[ 'default_value' ] );
             unset( $field[ 'default_value_type' ] );
+        } else if ( isset ( $field[ 'default_value' ] ) ) {
+            $field[ 'default' ] = $field[ 'default_value' ];
         }
 
         if( 'list' == $field[ 'type' ] ) {
@@ -451,8 +435,13 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
             }
 
             if( isset( $field[ 'list' ][ 'options' ] ) ) {
-                $field[ 'options' ] = $field[ 'list' ][ 'options' ];
+                $field[ 'options' ] = array_values( $field[ 'list' ][ 'options' ] );
                 unset( $field[ 'list' ][ 'options' ] );
+            }
+
+            foreach( $field[ 'options' ] as &$option ){
+                if( isset( $option[ 'value' ] ) && $option[ 'value' ] ) continue;
+                $option[ 'value' ] = $option[ 'label' ];
             }
         }
 
@@ -512,6 +501,61 @@ final class NF_Database_Models_Form extends NF_Abstracts_Model
             } else {
                 $field[ 'num_step' ] = $field[ 'number_step' ];
             }
+        }
+
+        if( 'profile_pass' == $field[ 'type' ] ){
+            $field[ 'type' ] = 'password';
+
+            $passwordconfirm = array_merge( $field, array(
+                'id' => '',
+                'type' => 'passwordconfirm',
+                'label' => $field[ 'label' ] . ' ' . __( 'Confirm' ),
+                'confirm_field' => 'password_' . $field[ 'id' ]
+            ));
+            $field[ 'new_fields' ][] = $passwordconfirm;
+        }
+
+        if( 'desc' == $field[ 'type' ] ){
+            $field[ 'type' ] = 'html';
+        }
+
+        if( 'credit_card' == $field[ 'type' ] ){
+
+            $field[ 'type' ] = 'creditcardnumber';
+            $field[ 'label' ] = $field[ 'cc_number_label' ];
+            $field[ 'label_pos' ] = 'above';
+
+            if( $field[ 'help_text' ] ){
+                $field[ 'help_text' ] = '<p>' . $field[ 'help_text' ] . '</p>';
+            }
+
+            $credit_card_fields = array(
+                'creditcardcvc'        => $field[ 'cc_cvc_label' ],
+                'creditcardfullname'   => $field[ 'cc_name_label' ],
+                'creditcardexpiration' => $field[ 'cc_exp_month_label' ] . ' ' . $field[ 'cc_exp_year_label' ],
+                'creditcardzip'        => __( 'Credit Card Zip', 'ninja-forms' ),
+            );
+
+
+            foreach( $credit_card_fields as $new_type => $new_label ){
+                $field[ 'new_fields' ][] = array_merge( $field, array(
+                    'id' => '',
+                    'type' => $new_type,
+                    'label' => $new_label,
+                    'help_text' => '',
+                    'desc_text' => ''
+                ));
+            }
+        }
+
+        /*
+         * Convert inside label position over to placeholder
+         */
+        if ( isset ( $field[ 'label_pos' ] ) && 'inside' == $field[ 'label_pos' ] ) {
+            if ( ! isset ( $field[ 'placeholder' ] ) || empty ( $field[ 'placeholder' ] ) ) {
+                $field[ 'placeholder' ] = $field[ 'label' ];
+            }
+            $field[ 'label_pos' ] = 'hidden';
         }
 
         return apply_filters( 'ninja_forms_upgrade_field', $field );

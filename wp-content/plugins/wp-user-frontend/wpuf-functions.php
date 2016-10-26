@@ -116,22 +116,22 @@ function wpfu_get_attachments( $post_id ) {
     $att_list = array();
 
     $args = array(
-        'post_type' => 'attachment',
+        'post_type'   => 'attachment',
         'numberposts' => -1,
         'post_status' => null,
         'post_parent' => $post_id,
-        'order' => 'ASC',
-        'orderby' => 'menu_order'
+        'order'       => 'ASC',
+        'orderby'     => 'menu_order'
     );
 
     $attachments = get_posts( $args );
 
     foreach ($attachments as $attachment) {
         $att_list[] = array(
-            'id' => $attachment->ID,
+            'id'    => $attachment->ID,
             'title' => $attachment->post_title,
-            'url' => wp_get_attachment_url( $attachment->ID ),
-            'mime' => $attachment->post_mime_type
+            'url'   => wp_get_attachment_url( $attachment->ID ),
+            'mime'  => $attachment->post_mime_type
         );
     }
 
@@ -590,6 +590,7 @@ function wpuf_show_custom_fields( $content ) {
     }
 
     $form_id = get_post_meta( $post->ID, '_wpuf_form_id', true );
+    $form_settings = wpuf_get_form_settings( $form_id );
 
     if ( !$form_id ) {
         return $content;
@@ -738,12 +739,19 @@ function wpuf_show_custom_fields( $content ) {
             } else {
 
                 $value = get_post_meta( $post->ID, $attr['name'] );
+                $filter_html = apply_filters( 'wpuf_add_html', '', $value, $attr, $form_settings );
 
-                $new = implode( ', ', $value );
+                if ( !empty( $filter_html ) ) {
+                    $html .= $filter_html;
+                } else {
 
-                if( $new ) {
-                    $html .= sprintf( '<li><label>%s</label>: %s</li>', $attr['label'], make_clickable( $new ) );
+                    $new = implode( ', ', $value );
+
+                    if( $new ) {
+                        $html .= sprintf( '<li><label>%s</label>: %s</li>', $attr['label'], make_clickable( $new ) );
+                    }
                 }
+
             }
         }
     }
@@ -1010,7 +1018,7 @@ function wpufe_ajax_tag_search() {
     wp_die();
 }
 
-add_action( 'wp_ajax_nopriv_ajax-tag-search', 'wpufe_ajax_tag_search' );
+add_action( 'wp_ajax_nopriv_wpuf-ajax-tag-search', 'wpufe_ajax_tag_search' );
 
 /**
  * Option dropdown helper
@@ -1228,4 +1236,20 @@ function wpuf_is_license_expired() {
     }
 
     return false;
+}
+
+/**
+ * Get post form templates
+ *
+ * @since 2.4
+ *
+ * @return array
+ */
+function wpuf_get_post_form_templates() {
+    require_once WPUF_ROOT . '/class/post-form-templates/post.php';
+
+    $integrations = array();
+    $integrations['WPUF_Post_Form_Template_Post'] = new WPUF_Post_Form_Template_Post();
+
+    return apply_filters( 'wpuf_get_post_form_templates', $integrations );
 }

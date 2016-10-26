@@ -34,6 +34,8 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
     {
         check_ajax_referer( 'ninja_forms_display_nonce', 'security' );
 
+        register_shutdown_function( array( $this, 'shutdown' ) );
+
         if( ! $this->_form_data ) {
 
             if( function_exists( 'json_last_error' ) // Function not supported in php5.2
@@ -52,6 +54,12 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
         if( isset( $this->_form_data[ 'settings' ][ 'is_preview' ] ) && $this->_form_data[ 'settings' ][ 'is_preview' ] ){
             $this->_preview_data = get_user_option( 'nf_form_preview_' . $this->_form_id );
 
+            // Add preview field keys to form data.
+            foreach( $this->_form_data[ 'fields' ] as $key => $field ){
+                $field_id = $field[ 'id' ];
+                $this->_form_data[ 'fields' ][ $key ][ 'key' ] = $this->_preview_data[ 'fields' ][ $field_id ][ 'settings' ][ 'key' ];
+            }
+
             if( ! $this->_preview_data ){
                 $this->_errors[ 'preview' ] = __( 'Preview does not exist.', 'ninja-forms' );
                 $this->_respond();
@@ -60,7 +68,11 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
 
         $this->_data['settings'] = $this->_form_data['settings'];
 
+        $this->_data['extra'] = $this->_form_data['extra'];
+
         $this->_data['fields'] = $this->_form_data['fields'];
+
+        $this->_data = apply_filters( 'ninja_forms_submit_data', $this->_data );
 
         $this->validate_fields();
 
@@ -89,7 +101,7 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
                 if( ! isset( $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ] ) ) return;
                 $settings = $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ];
             } else {
-                $field_model = Ninja_Forms()->form()->field($field['id'])->get();
+                $field_model = Ninja_Forms()->form( $this->_form_id )->field($field['id'])->get();
                 $settings = $field_model->get_settings();
             }
             $this->_data[ 'fields' ][ $field_id ] = array_merge( $this->_data[ 'fields' ][ $field_id ], $settings );
@@ -136,9 +148,11 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
             $errors = $this->validate_field( $field, $this->_data );
 
             if( ! empty( $errors ) ){
-                $this->_errors[ $field['id'] ] = $errors;
+                $this->_errors[ 'fields' ][ $field['id'] ] = $errors;
             }
         }
+
+        if( $this->_errors ) $this->_respond();
     }
 
     protected function validate_field( $field, $data )
@@ -147,15 +161,19 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
             if( ! isset( $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ] ) ) return;
             $settings = $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ];
         } else {
-            $field_model = Ninja_Forms()->form()->field($field['id'])->get();
+            $field_model = Ninja_Forms()->form( $this->_form_id )->field($field['id'])->get();
             $settings = $field_model->get_settings();
         }
 
-        $field = array_merge($field, $settings );
+        $field = apply_filters( 'ninja_forms_pre_validate_field_settings', array_merge($field, $settings ) );
 
         $field_class = Ninja_Forms()->fields[ $field['type'] ];
 
-        return $errors = $field_class->validate( $field, $data );
+        if( method_exists( $field_class, 'validate' ) ) {
+            return $errors = $field_class->validate($field, $data);
+        } else {
+            return array();
+        }
     }
 
     protected function process_fields()
@@ -176,7 +194,7 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
             if( ! isset( $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ] ) ) return;
             $settings = $this->_preview_data[ 'fields' ][ $field[ 'id' ] ][ 'settings' ];
         } else {
-            $field_model = Ninja_Forms()->form()->field($field['id'])->get();
+            $field_model = Ninja_Forms()->form( $this->_form_id )->field($field['id'])->get();
             $settings = $field_model->get_settings();
         }
 
@@ -191,6 +209,8 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
     protected function run_actions()
     {
         $actions = Ninja_Forms()->form( $this->_form_id )->get_actions();
+
+        $actions = apply_filters( 'ninja_forms_submission_actions', $actions, $this->_form_data );
 
         usort($actions, array($this, 'sort_form_actions'));
 
@@ -225,6 +245,15 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
 
         if( ! isset( $form[ 'actions' ] ) || empty( $form[ 'actions' ] ) ) return;
 
+        foreach( $this->_form_data[ 'fields' ] as $key => $field ){
+            if( ! isset( $form[ 'fields' ] ) ) continue;
+            $field_tmp_id = $field[ 'id' ];
+            $field_key = $form[ 'fields' ][ $field_tmp_id ][ 'settings' ][ 'key' ];
+            $this->_form_data[ 'fields' ][ $key ][ 'key' ] = $field_key;
+        }
+
+        $form[ 'actions' ] = apply_filters( 'ninja_forms_submission_actions_preview', $form[ 'actions' ], array_merge( $form, $this->_form_data ) );
+
         usort( $form[ 'actions' ], array( $this, 'sort_form_actions' ) );
 
         if( ! isset( $this->_data[ 'processed_actions' ] ) ) $this->_data[ 'processed_actions' ] = array();
@@ -238,6 +267,10 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
 
             $type = $action_settings['type'];
 
+	        if ( ! isset( Ninja_Forms()->actions[ $type ] ) ) {
+		        continue;
+	        }
+
             $data = Ninja_Forms()->actions[ $type ]->process( $action_settings, $this->_form_id, $this->_data );
 
             $this->_data = ( $data ) ? $data : $this->_data;
@@ -248,6 +281,10 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
 
     protected function maybe_halt( $action_id )
     {
+        if( isset( $this->_data[ 'errors' ] ) && $this->_data[ 'errors' ] ){
+            $this->_respond();
+        }
+
         if( isset( $this->_data[ 'halt' ] ) && $this->_data[ 'halt' ] ){
 
             Ninja_Forms()->session()->set( 'nf_processing_data', $this->_data );
@@ -261,14 +298,18 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
     protected function sort_form_actions( $a, $b )
     {
         if( is_object( $a ) ) {
+            if( ! isset( Ninja_Forms()->actions[ $a->get_setting( 'type' ) ] ) ) return -1;
             $a = Ninja_Forms()->actions[ $a->get_setting( 'type' ) ];
         } else {
+            if( ! isset( Ninja_Forms()->actions[ $a[ 'settings' ][ 'type' ] ] ) ) return -1;
             $a = Ninja_Forms()->actions[ $a[ 'settings' ][ 'type' ] ];
         }
 
         if( is_object( $b ) ) {
+            if( ! isset( Ninja_Forms()->actions[ $b->get_setting( 'type' ) ] ) ) return 1;
             $b = Ninja_Forms()->actions[ $b->get_setting( 'type' ) ];
         } else {
+            if( ! isset( Ninja_Forms()->actions[ $b[ 'settings' ][ 'type' ] ] ) ) return 1;
             $b = Ninja_Forms()->actions[ $b[ 'settings' ][ 'type' ] ];
         }
 
@@ -280,5 +321,15 @@ class NF_AJAX_Controllers_Submission extends NF_Abstracts_Controller
         }
 
         return ( $a->get_timing() < $b->get_timing() ) ? -1 : 1;
+    }
+
+    public function shutdown()
+    {
+        $error = error_get_last();
+        if( $error !== NULL && in_array( $error[ 'type' ], array( E_ERROR, E_CORE_ERROR, E_COMPILE_ERROR, E_USER_ERROR ) ) ) {
+            $this->_errors[ 'form' ][ 'last' ] = __( 'The server encountered an error during processing.', 'ninja-forms' );
+            $this->_errors[ 'last' ] = $error;
+            $this->_respond();
+        }
     }
 }

@@ -14,43 +14,49 @@ function init_all_the_ninja_things() {
 
 	/* * * Begin Mask JS * * */
 
-	jQuery("div.label-inside input, div.label-inside textarea").focus(function(){
-		var label = jQuery("#" + this.id + "_label_hidden").val();
-		if( this.value == label ){
-			this.value = '';
-		}
-	});
-
-	jQuery("div.label-inside input, div.label-inside textarea").blur(function(){
-		var label = jQuery("#" + this.id + "_label_hidden").val();
-		if( this.value == '' ){
-			this.value = label;
-		}
-	});
-
-	if( jQuery.fn.mask ){
-		jQuery(".ninja-forms-mask").each(function(){
-			var mask = jQuery(this).data('mask');
-			mask = mask.toString();
-			jQuery(this).mask(mask);
+	jQuery( document ).ready( function() {
+		jQuery("div.label-inside input, div.label-inside textarea").focus(function () {
+			var label = jQuery("#" + this.id + "_label_hidden").val();
+			if (this.value == label) {
+				this.value = '';
+			}
 		});
 
-		var date_format_mask = ninja_forms_settings.date_format;
-		date_format_mask = date_format_mask.replace( /m/g, 9 );
-		date_format_mask = date_format_mask.replace( /d/g, 9 );
-		date_format_mask = date_format_mask.replace( /y/g, 99 );
-		date_format_mask = date_format_mask.replace( /Y/g, 9999 );
+		jQuery("div.label-inside input, div.label-inside textarea").blur(function () {
+			var label = jQuery("#" + this.id + "_label_hidden").val();
+			if (this.value == '') {
+				this.value = label;
+			}
+		});
 
-		jQuery(".ninja-forms-date").mask(date_format_mask);
-	}
+		if (jQuery.fn.mask) {
+			jQuery(".ninja-forms-mask").each(function () {
+				var mask = jQuery(this).data('mask');
+				mask = mask.toString();
+				jQuery(this).mask(mask);
+			});
 
-	if( jQuery.fn.datepicker ){
-		jQuery(".ninja-forms-datepicker").datepicker( ninja_forms_settings.datepicker_args );
-	}
+			var date_format_mask = ninja_forms_settings.date_format;
+			date_format_mask = date_format_mask.replace(/m/g, 9);
+			date_format_mask = date_format_mask.replace(/d/g, 9);
+			date_format_mask = date_format_mask.replace(/y/g, 99);
+			date_format_mask = date_format_mask.replace(/Y/g, 9999);
 
-	if( jQuery.fn.autoNumeric ){
-		jQuery(".ninja-forms-currency").autoNumeric({aSign: ninja_forms_settings.currency_symbol, aSep: thousandsSeparator, aDec: decimalPoint});
-	}
+			jQuery(".ninja-forms-date").mask(date_format_mask);
+		}
+
+		if (jQuery.fn.datepicker) {
+			jQuery(".ninja-forms-datepicker").datepicker(ninja_forms_settings.datepicker_args);
+		}
+
+		if (jQuery.fn.autoNumeric) {
+			jQuery(".ninja-forms-currency").autoNumeric({
+				aSign: ninja_forms_settings.currency_symbol,
+				aSep: thousandsSeparator,
+				aDec: decimalPoint
+			});
+		}
+	});
 
 	/* * * End Mask JS * * */
 
@@ -68,17 +74,18 @@ function init_all_the_ninja_things() {
 
 	/* * * Begin Character/Word Limit JS * * */
 
-	jQuery(".input-limit").each(function() {
-		var input_limit = jQuery(this).data( 'input-limit' );
-		var input_limit_type = jQuery(this).data( 'input-limit-type' );
-		var input_limit_msg = jQuery(this).data( 'input-limit-msg' );
-		jQuery(this).counter( {
-		    count: 'down',
-		    goal: input_limit,
-		    type: input_limit_type,
-		    msg: input_limit_msg
-		} );
-
+	jQuery( document ).ready( function(){
+		jQuery(".input-limit").each(function() {
+			var input_limit = jQuery(this).data( 'input-limit' );
+			var input_limit_type = jQuery(this).data( 'input-limit-type' );
+			var input_limit_msg = jQuery(this).data( 'input-limit-msg' );
+			jQuery(this).counter( {
+				count: 'down',
+				goal: input_limit,
+				type: input_limit_type,
+				msg: input_limit_msg
+			} );
+		});
 	});
 
 	/* * * Begin ajaxForms JS * * */
@@ -292,9 +299,8 @@ function init_all_the_ninja_things() {
 								change = true;
 								break;
 							}
-						};
-
-					} else if ( calc_method == 'eq' ) { // If we're using the 'eq' method, make sure that our current field is in our equation
+            }
+          } else if ( calc_method == 'eq' ) { // If we're using the 'eq' method, make sure that our current field is in our equation
 						var change = false;
 						if ( typeof calc_settings.calc_fields[calc_id]['fields'] !== 'undefined' ) {
 							for (var i = calc_settings.calc_fields[calc_id]['fields'].length - 1; i >= 0; i--) {
@@ -302,13 +308,14 @@ function init_all_the_ninja_things() {
 									change = true;
 									break;
 								}
-							};
-						}
+              }
+            }
 					}
 
 					if ( ( ( calc_method == 'fields' || calc_method == 'eq' ) && change ) || calc_method == 'auto' ) {
 
 						if ( calc_method == 'auto' || calc_method == 'fields' ) { // Method: auto or fields
+
 							// Loop through our calc fields and check to see if they are set to auto. If they are, perform the auto totalling actions.
 							var key = jQuery(this).val();
 							var new_value = '';
@@ -385,8 +392,8 @@ function init_all_the_ninja_things() {
 											if ( typeof calc_settings.calc_value[field_id][key[i]] !== 'undefined' ) {
 												tmp += parseFloat( calc_settings.calc_value[field_id][key[i]] );
 											}
-										};
-										new_value = tmp;
+                    }
+                    new_value = tmp;
 									}
 
 									if ( jQuery.isArray( old_value ) ) {
@@ -395,8 +402,8 @@ function init_all_the_ninja_things() {
 											if ( typeof calc_settings.calc_value[field_id][old_value[i]] !== 'undefined' ) {
 												tmp += parseFloat( calc_settings.calc_value[field_id][old_value[i]] );
 											}
-										};
-										old_value = tmp;
+                    }
+                    old_value = tmp;
 									}
 								} else {
 									// This is a select list, so we can just grab the oldValue from this field.
@@ -499,6 +506,16 @@ function init_all_the_ninja_things() {
 								var current_value = jQuery("#ninja_forms_field_" + calc_id).html();
 							}
 
+							// Strip the Thousands Separator
+							current_value = current_value.replace( /thousandsSeparator/g, "" );
+
+							// If the Decimal Point is not `.`
+							if ( '.' != decimalPoint ) {
+
+								// Replace the Decimal Point
+								current_value = current_value.replace( decimalPoint, "." );
+							}
+
 							// Make sure that our current total is made up of numbers.
 							if ( typeof ninja_forms_settings.currency_symbol !== 'undefined' && typeof current_value != 'undefined' ) {
 
@@ -540,9 +557,8 @@ function init_all_the_ninja_things() {
 										var old_op = ninja_forms_find_opposite_op( calc_settings.calc_fields[calc_id]['fields'][i]['op'] );
 										var new_op = calc_settings.calc_fields[calc_id]['fields'][i]['op'];
 									}
-								};
-
-							}
+                }
+              }
 
 							// If our old value exists and isn't empty or 0, then carry out the old_op on it.
 							if ( old_value && !isNaN( old_value ) && old_value != 0 && old_value != '' && !jQuery(this).hasClass('ninja-forms-field-calc-no-old-op') ) {
@@ -564,6 +580,7 @@ function init_all_the_ninja_things() {
 								var calc_value = current_value;
 							}
 						} else if ( calc_method == 'eq' ) { // Method: eq.
+
 							var tmp_eq = calc_settings.calc_fields[calc_id]['eq'];
 
 							// Loop through our fields getting their values and replacing their placeholders in the equation.
@@ -585,8 +602,8 @@ function init_all_the_ninja_things() {
 												if ( typeof calc_settings.calc_value[f_id][key[x]] !== 'undefined' ) {
 													tmp += parseFloat( calc_settings.calc_value[f_id][key[x]] );
 												}
-											};
-											f_value = tmp;
+                      }
+                      f_value = tmp;
 										}
 									} else if ( jQuery('#ninja_forms_field_' + f_id + '_list_type').val() == 'checkbox' ) {
 										var tmp = 0;
@@ -701,6 +718,14 @@ function init_all_the_ninja_things() {
 							}
 
 							calc_value = calc_value.toFixed(calc_places);
+
+							// If the Decimal Point is not `.`
+							if ( '.' != decimalPoint ) {
+
+								// Replace the Decimal Point
+								calc_value = calc_value.toString().replace( ".", decimalPoint );
+							}
+
 							// Set the value of our calculation field.
 							if(jQuery("#ninja_forms_field_" + calc_id).attr("type") == 'text' ){
 								jQuery("#ninja_forms_field_" + calc_id).val(calc_value);
@@ -793,8 +818,8 @@ function ninja_forms_update_success_msg(response){
 			innerHTML += '<p>' + success[propName] + '</p>';
 		}
 		if(innerHTML != ''){
-			jQuery("#ninja_forms_form_" + form_id + "_response_msg").removeClass("ninja-forms-error-msg")
-			jQuery("#ninja_forms_form_" + form_id + "_response_msg").addClass("ninja-forms-success-msg")
+			jQuery("#ninja_forms_form_" + form_id + "_response_msg").removeClass("ninja-forms-error-msg");
+			jQuery("#ninja_forms_form_" + form_id + "_response_msg").addClass("ninja-forms-success-msg");
 			jQuery("#ninja_forms_form_" + form_id + "_response_msg").prop("innerHTML", innerHTML);
 			jQuery("#ninja_forms_form_" + form_id + "_response_msg").show();
 
@@ -833,8 +858,8 @@ function ninja_forms_update_error_msgs(response){
 	    	}
 		}
 		if(innerHTML != ''){
-			jQuery("#ninja_forms_form_" + form_id + "_response_msg").removeClass("ninja-forms-success-msg")
-			jQuery("#ninja_forms_form_" + form_id + "_response_msg").addClass("ninja-forms-error-msg")
+			jQuery("#ninja_forms_form_" + form_id + "_response_msg").removeClass("ninja-forms-success-msg");
+			jQuery("#ninja_forms_form_" + form_id + "_response_msg").addClass("ninja-forms-error-msg");
 			jQuery("#ninja_forms_form_" + form_id + "_response_msg").prop("innerHTML", innerHTML);
 		}
 	}
@@ -913,11 +938,11 @@ function passwordStrength(password1, password2) {
 
 	// password 1 != password 2
 	if ( (password1 != password2) && password2.length > 0)
-		return mismatch
+		return mismatch;
 
 	//password < 4
 	if ( password1.length < 4 )
-		return shortPass
+		return shortPass;
 
 	//password1 == username
 
@@ -934,10 +959,10 @@ function passwordStrength(password1, password2) {
 	score = natLog / Math.LN2;
 
 	if (score < 40 )
-		return badPass
+		return badPass;
 
 	if (score < 56 )
-		return goodPass
+		return goodPass;
 
     return strongPass;
 }

@@ -491,7 +491,7 @@ var acf = {
 						}
 						
 						
-						names[ pair.name ]++
+						names[ pair.name ]++;
 						
 						pair.name += '[' + names[ pair.name ] +']';
 						
@@ -637,7 +637,7 @@ var acf = {
 							$target.parents('tr').each(function(){
 								
 								// attempt to update $toggle to this parent sub field
-								$toggle = $(this).find('.field_key-' + rule.field)
+								$toggle = $(this).find('.field_key-' + rule.field);
 								
 								// if the parent sub field actuallly exists, great! Stop the loop
 								if( $toggle.exists() )
@@ -882,7 +882,7 @@ var acf = {
 	*  @created: 22/12/12
 	*/
 	
-	$(window).load(function(){
+	$(window).on('load', function(){
 		
 		// init
 		acf.media.init();

@@ -226,6 +226,7 @@ ul.wpuf-form {
                 font-size: 12px;
                 font-style: italic;
                 font-family: sans-serif;
+                display: block;
             }
 
             table, td {
@@ -271,7 +272,7 @@ ul.wpuf-form {
                         text-align: center;
                     }
 
-                    a.attachment-delete {
+                    a.attachment-delete,a.wpuf-delete-avatar {
                         text-decoration: none;
                         padding: 3px 12px;
                         border: 1px solid #C47272;
@@ -354,7 +355,7 @@ ul.wpuf-form {
                 .clearfix();
                 margin-bottom: 3px;
 
-                a#wpuf-insert-image {
+                a.wpuf-insert-image {
                     text-decoration: none;
                     // float: left;
                     border: 1px solid #DFDFDF;
@@ -888,6 +889,11 @@ fieldset.wpuf-multistep-fieldset {
     position: relative;
     padding-bottom: 50px;
     border: none;
+    display: none;
+
+    &.field-active {
+        display: block;
+    }
 
     .wpuf-multistep-prev-btn,
     .wpuf-multistep-next-btn {

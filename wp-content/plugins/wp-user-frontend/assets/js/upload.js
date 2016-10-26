@@ -69,19 +69,17 @@
 
             if ( this.count >= this.max) {
 
-                var warning = 'Maksymalna ilośc plików!';
-
                 if ( this.count > this.max ) {
-                    $('#' + this.container + ' .wpuf-file-warning').html( warning );
+                    $('#' + this.container + ' .wpuf-file-warning').html( wpuf_frontend_upload.warning );
                 } else {
-                    $('#' + this.container + ' .wpuf-file-warning').html( warning );
+                    $('#' + this.container + ' .wpuf-file-warning').html( wpuf_frontend_upload.warning );
                 }
 
                 $('#' + this.container).find('.file-selector').hide();
 
                 return;
             }
-            $('#' + this.container + ' .wpuf-file-warning').html( '' );
+          $('#' + this.container + ' .wpuf-file-warning').html( '' );
             $('#' + this.container).find('.file-selector').show();
         },
 
@@ -123,15 +121,15 @@
             var msg = '';
             switch(error.code) {
                 case -600:
-                    msg = 'Zdjęcie, które próbujesz wgrać przekracza limit wielkości.';
+                    msg = wpuf_frontend_upload.size_error;
                     break;
 
                 case -601:
-                    msg = 'Plik w niepoprawnym/nieobsługiwanym formacie. Prosze wybrać inny format.';
+                    msg = wpuf_frontend_upload.type_error;
                     break;
 
                 default:
-                    msg = 'Błąd #' + error.code + ': ' + error.message;
+                    msg = 'Error #' + error.code + ': ' + error.message;
                     break;
             }
 

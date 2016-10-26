@@ -707,8 +707,9 @@ class WPUF_Subscription {
                         if ( ! $post_type_obj ) {
                             continue;
                         }
+                        $value = ( $value == '-1' ) ? __( 'Unlimited', 'wpuf' ) : $value;
                         ?>
-                         <div><?php echo $post_type_obj->labels->name . ': ' . $value; ?></div>
+                        <div><?php echo $post_type_obj->labels->name . ': ' . $value; ?></div>
                         <?php
                     }
                     ?>
@@ -818,8 +819,8 @@ class WPUF_Subscription {
         $billing_amount = ( $pack->meta_value['billing_amount'] >= 0 && !empty( $pack->meta_value['billing_amount'] ) ) ? $pack->meta_value['billing_amount'] : '0.00';
 
         if ( $billing_amount && $pack->meta_value['recurring_pay'] == 'yes' ) {
-            $recurring_des = sprintf( 'Every %s %s', $pack->meta_value['billing_cycle_number'], $pack->meta_value['cycle_period'], $pack->meta_value['trial_duration_type'] );
-            $recurring_des .= !empty( $pack->meta_value['billing_limit'] ) ? sprintf( ', for %s installments', $pack->meta_value['billing_limit'] ) : '';
+            $recurring_des = sprintf( __('Every', 'wpuf').' %s %s', $pack->meta_value['billing_cycle_number'], $pack->meta_value['cycle_period'], $pack->meta_value['trial_duration_type'] );
+            $recurring_des .= !empty( $pack->meta_value['billing_limit'] ) ? __( sprintf( ', '.__('for', 'wpuf').' %s '.__( 'installments', 'wpuf' ), $pack->meta_value['billing_limit'] ), 'wpuf' ) : '';
             $recurring_des = '<div class="wpuf-pack-cycle wpuf-nullamount-hide">'.$recurring_des.'</div>';
         } else {
             $recurring_des = '<div class="wpuf-pack-cycle wpuf-nullamount-hide">' . __( 'One time payment', 'wpuf' ) . '</div>';
@@ -828,7 +829,7 @@ class WPUF_Subscription {
         if ( $billing_amount && $pack->meta_value['recurring_pay'] == 'yes' && $pack->meta_value['trial_status'] == 'yes' ) {
 
             $trial_cost = ( empty( $pack->meta_value['trial_cost'] ) || $pack->meta_value['trial_cost'] == 0 ) ? __( 'Free', 'wpuf' ) : $details_meta['symbol'].$pack->meta_value['trial_cost'];
-            $trial_des = sprintf( '%s for the first %s %s', $trial_cost, $pack->meta_value['trial_duration'], $pack->meta_value['trial_duration_type']  );
+            $trial_des = __( sprintf( '%s for the first %s %s', $trial_cost, $pack->meta_value['trial_duration'], $pack->meta_value['trial_duration_type']  ), 'wpuf' );
 
         } else {
             $trial_des = '';
@@ -854,7 +855,7 @@ class WPUF_Subscription {
                     <span class="wpuf-sub-cost"><?php _e( 'Free', 'wpuf' ); ?></span>
                 <?php } ?>
 
-                <?php echo $recurring_des; ?>
+                <?php _e( $recurring_des , 'wpuf' ); ?>
 
             </div>
             <?php
@@ -953,6 +954,7 @@ class WPUF_Subscription {
      */
     public static function has_user_error( $form_settings = null ) {
         global $userdata;
+
         $user_id = isset( $userdata->ID ) ? $userdata->ID : '';
         // bail out if charging is not enabled
         if ( wpuf_get_option( 'charge_posting', 'wpuf_payment' ) != 'yes' ) {
@@ -996,7 +998,7 @@ class WPUF_Subscription {
                 $post_count_status = true;
             }
 
-            if( $expire_status || $post_count_status ) {
+            if ( $expire_status || $post_count_status ) {
                 return true;
             }
         }
