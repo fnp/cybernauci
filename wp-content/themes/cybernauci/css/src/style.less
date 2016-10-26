@@ -1500,6 +1500,8 @@ big {
               padding-left: 85px;
               cursor: pointer;
               &:before {
+                content: "\e900";
+
                 font-family: 'cybernauci';
                 speak: none;
                 font-style: normal;
@@ -1515,15 +1517,33 @@ big {
                 left: 27px;
                 font-size: 29px;
               }
+              &:after {
+                color: #01253B;
+                font-weight: bold;
+                position: absolute;
+                top: 3px;
+                left: 27px;
+                width: 25px;
+                text-align: center;
+              }
             }
-            &[data-type="A"] + label:before {
-              content: "\e900";
+            &[data-type="A"] + label:after {
+              content: "A";
             }
-            &[data-type="B"] + label:before {
-              content: "\e901";
+            &[data-type="B"] + label:after {
+              content: "B";
             }
-            &[data-type="C"] + label:before {
-              content: "\e902";
+            &[data-type="C"] + label:after {
+              content: "C";
+            }
+            &[data-type="D"] + label:after {
+              content: "D";
+            }
+            &[data-type="E"] + label:after {
+              content: "E";
+            }
+            &[data-type="F"] + label:after {
+              content: "F";
             }
             &:checked + label:before {
               color: #ec008c;

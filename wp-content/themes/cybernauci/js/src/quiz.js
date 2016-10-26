@@ -30,7 +30,7 @@ jQuery(document).ready(function () {
         }
         else {
           var temp = content[index].substr(content[index].indexOf(':') + 1),
-            letter = (index == 1) ? 'A' : ((index == 2) ? 'B' : 'C'),
+            letter = ['0', 'A', 'B', 'C', 'D', 'E', 'F'],
             p = content[index].substr(0, content[index].indexOf(':')),
             q = temp.substr(0, temp.indexOf(':')),
             e = temp.substr(temp.indexOf(':') + 1);
@@ -41,11 +41,11 @@ jQuery(document).ready(function () {
                 'type': 'radio',
                 'class': 'answer',
                 'name': 'pytanie-' + i,
-                'id': 'pytanie-' + i + '-' + letter,
-                'data-type': letter
+                'id': 'pytanie-' + i + '-' + letter[index],
+                'data-type': letter[index]
               }).data('rozwiazanie', '<p>' + jQuery.trim(e)).val(Number(p))
             ).append(
-              jQuery('<label>').attr('for', 'pytanie-' + i + '-' + letter).html(jQuery.trim(q))
+              jQuery('<label>').attr('for', 'pytanie-' + i + '-' + letter[index]).html(jQuery.trim(q))
             )
           )
         }

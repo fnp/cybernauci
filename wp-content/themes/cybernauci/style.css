@@ -1516,6 +1516,7 @@ big {
   cursor: pointer;
 }
 #quiz .entry-content .quiz-content .questionBlock .answer input[type=radio] + label:before {
+  content: "\e900";
   font-family: 'cybernauci';
   speak: none;
   font-style: normal;
@@ -1530,14 +1531,32 @@ big {
   left: 27px;
   font-size: 29px;
 }
-#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="A"] + label:before {
-  content: "\e900";
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio] + label:after {
+  color: #01253B;
+  font-weight: bold;
+  position: absolute;
+  top: 3px;
+  left: 27px;
+  width: 25px;
+  text-align: center;
 }
-#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="B"] + label:before {
-  content: "\e901";
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="A"] + label:after {
+  content: "A";
 }
-#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="C"] + label:before {
-  content: "\e902";
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="B"] + label:after {
+  content: "B";
+}
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="C"] + label:after {
+  content: "C";
+}
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="D"] + label:after {
+  content: "D";
+}
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="E"] + label:after {
+  content: "E";
+}
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="F"] + label:after {
+  content: "F";
 }
 #quiz .entry-content .quiz-content .questionBlock .answer input[type=radio]:checked + label:before {
   color: #ec008c;
