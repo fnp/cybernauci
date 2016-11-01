@@ -5,7 +5,9 @@ jQuery(document).ready(function () {
   konkursBlock.find('.information-btn .konkurs-close').click(function () {
     konkursBlock.find('.information-modal, .information-background').remove();
   });
-
+  if (jQuery('#konkurs').find('form.ninja-forms-no-display').length > 0) {
+    konkursBlock.find('.information-modal, .information-background').remove();
+  }
   if (konkursMain.length > 0) {
     var wojewodztwoList = jQuery(jQuery.map(konkursMain.find('select option'), function (val) {
         if (val.text == "Wybierz województwo *") {
