@@ -248,7 +248,9 @@ jQuery(document).ready(function () {
     translate = {
       'poprzednie': 'Poprzednie',
       'nastepne': 'Następne',
-      'poprawnaOdpowiedz': 'Prawidłowa odpowiedź:'
+      'koniec': 'Zakończ quiz',
+      'twojaOdpowiedz': 'Twoja odpowiedź:',
+      'poprawnaOdpowiedz': 'Najwyżej punktowana odpowiedź:'
     },
     points = {
       total: 40,
@@ -260,6 +262,7 @@ jQuery(document).ready(function () {
     var questions = quizBlock.find('.questionBlock'),
       questionsLength = questions.length;
 
+    questions.last().addClass('last');
     questions.each(function (i) {
       var el = jQuery(this),
         content = el.html().match(/[^[\]]+(?=])/g),
@@ -292,13 +295,18 @@ jQuery(document).ready(function () {
           )
         }
       });
-
       el.empty().append(questionHtml).append(answersHtml).append(
         jQuery('<div></div>').addClass('quizNavStats').append(
-          jQuery('<div></div>').addClass('correctAnswer').text(translate.poprawnaOdpowiedz).append(
+          jQuery('<div></div>').addClass('yourAnswer').text(translate.twojaOdpowiedz).append(
             jQuery('<span></span>').text('-')
           )
         ).append(
+          jQuery('<div></div>').addClass('correctAnswer').text(translate.poprawnaOdpowiedz).append(
+            jQuery('<span></span>').text('-')
+          )
+        )
+      ).append(
+        jQuery('<div></div>').addClass('quizNavStats').append(
           jQuery('<div></div>').addClass('questionList').text((i + 1) + "/" + questionsLength)
         )
       ).append(
@@ -306,15 +314,16 @@ jQuery(document).ready(function () {
       ).append(
         jQuery('<div></div>').addClass('quizNavButtons').append(
           jQuery('<button></button>').addClass('prev').text(translate.poprzednie)
-        ).addClass('quizNavButtons').append(
+        ).append(
           jQuery('<button></button>').addClass('next').text(translate.nastepne)
+        ).append(
+          jQuery('<a></a>').attr({'href': '/', 'target': '_self'}).addClass('button-link').text(translate.koniec)
         )
       )
     });
 
     /*Question checked*/
     questions.find('input[type=radio]').change(function () {
-
       if (!expertMode) {
         countScore();
         jQuery(this).parents('.questionBlock').removeClass('visible').addClass('trigger');
@@ -322,6 +331,7 @@ jQuery(document).ready(function () {
           var next = quizBlock.find('.questionBlock.trigger').removeClass('trigger').next();
           quizContent.css('height', next.outerHeight() + 'px');
           next.addClass('visible');
+          scrollTop();
         }, opacityTime);
       }
     });
@@ -338,6 +348,7 @@ jQuery(document).ready(function () {
           parent.find('.quizNavStats .correctAnswer > span').text(that.attr('data-type'));
         }
         if (that.is(':checked')) {
+          parent.find('.quizNavStats .yourAnswer > span').text(that.attr('data-type'));
           parent.find('.quizNavExpert').html(that.data('rozwiazanie'))
         }
       });
@@ -359,6 +370,7 @@ jQuery(document).ready(function () {
           var prev = quizBlock.find('.questionBlock.trigger').removeClass('trigger').prev();
           quizContent.css('height', prev.outerHeight() + 'px');
           prev.addClass('visible');
+          scrollTop();
         }, opacityTime);
       }
       else {
@@ -366,6 +378,7 @@ jQuery(document).ready(function () {
           var next = quizBlock.find('.questionBlock.trigger').removeClass('trigger').next();
           quizContent.css('height', next.outerHeight() + 'px');
           next.addClass('visible');
+          scrollTop();
         }, opacityTime);
       }
     });
@@ -373,6 +386,11 @@ jQuery(document).ready(function () {
     /*START*/
     questions.first().addClass('visible');
 
+    function scrollTop() {
+      jQuery('html, body').animate({
+        scrollTop: jQuery("#quiz .entry-header").offset().top
+      }, 1000);
+    }
     function countScore() {
       var scorePoints = 0,
         quizScore = quizBlock.find('.quizScore');
