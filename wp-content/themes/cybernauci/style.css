@@ -26,7 +26,7 @@ html input[disabled] {
   opacity: .5;
 }
 body {
-  background: url(img/background.png) top center #01253B;
+  background: url(img/background.jpg) top center #01253B;
   margin: 0;
 }
 article,
@@ -526,6 +526,7 @@ big {
 }
 .mainblock .sidebanner {
   position: absolute;
+  z-index: 1;
 }
 .mainblock .sidebanner.sidebanner-left {
   left: -68px;
@@ -1366,6 +1367,88 @@ big {
 #katalogDodaj select {
   width: 100%;
 }
+#materialy-edukacyjne .entry-subtitle,
+#quiz .entry-subtitle {
+  color: #00b4ff;
+  font-size: 24px;
+  font-weight: normal;
+}
+#materialy-edukacyjne h3.entry-subtitle,
+#quiz h3.entry-subtitle {
+  margin-top: 38px;
+  position: relative;
+}
+#materialy-edukacyjne h3.entry-subtitle > img,
+#quiz h3.entry-subtitle > img {
+  position: absolute;
+  left: 50%;
+  height: 116px;
+  bottom: -26px;
+  margin-left: 182px;
+  z-index: 0;
+}
+#materialy-edukacyjne h4.entry-subtitle,
+#quiz h4.entry-subtitle {
+  margin-top: 14px;
+}
+#materialy-edukacyjne button,
+#quiz button,
+#materialy-edukacyjne .button-link,
+#quiz .button-link {
+  background-color: #0094d2;
+  border: 1px solid #0094d2;
+  border-radius: 50px;
+  margin: 0 10px;
+  padding: 8px 30px;
+  max-width: 224px;
+  cursor: pointer;
+  outline: none;
+  font-size: 12px !important;
+  color: #ffffff !important;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+#materialy-edukacyjne .materialy-content {
+  padding-bottom: 35px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page {
+  margin-top: 30px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page a {
+  display: inline-block;
+  margin-top: 85px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page .title {
+  font-size: 24px;
+  color: #00b4ff;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page .subtitle {
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 30px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.rodzice a,
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.nauczyciele a {
+  margin-top: 143px;
+}
+#materialy-edukacyjne .materialy-content .materialy-rodzice {
+  margin-top: 40px;
+}
+#materialy-edukacyjne .materialy-content .materialy-rodzice,
+#materialy-edukacyjne .materialy-content .materialy-rodzice p,
+#materialy-edukacyjne .materialy-content .materialy-rodzice a {
+  font-size: 19px;
+  font-weight: normal;
+}
+#materialy-edukacyjne .materialy-content .materialy-rodzice a {
+  color: #00b4ff;
+}
+#materialy-edukacyjne .materialy-content .materialy-rodzice .button-link {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
 @-webkit-keyframes fadeIn {
   0% {
     display: none;
@@ -1425,12 +1508,6 @@ big {
 #quiz .container-block {
   overflow: hidden;
 }
-#quiz .entry-subtitle {
-  color: #00b4ff;
-  font-size: 24px;
-  font-weight: normal;
-  margin-top: 14px;
-}
 #quiz .entry-content {
   color: #ffffff;
   font-size: 16px;
@@ -1465,6 +1542,8 @@ big {
   z-index: 2;
   opacity: 1;
 }
+#quiz .entry-content .quiz-content .questionBlock .quizNavStats .yourAnswer,
+#quiz .entry-content .quiz-content .quizScore .quizNavStats .yourAnswer,
 #quiz .entry-content .quiz-content .questionBlock .quizNavStats .correctAnswer,
 #quiz .entry-content .quiz-content .quizScore .quizNavStats .correctAnswer,
 #quiz .entry-content .quiz-content .questionBlock .quizNavButtons,
@@ -1479,25 +1558,17 @@ big {
 #quiz .entry-content .quiz-content .quizScore:first-of-type .quizNavButtons .next {
   margin-left: 160px;
 }
-#quiz .entry-content .quiz-content .questionBlock button,
-#quiz .entry-content .quiz-content .quizScore button {
-  background-color: #0094d2;
-  color: #ffffff;
-  border: 1px solid #0094d2;
-  border-radius: 50px;
-  margin: 0 10px;
-  padding: 8px 30px;
-  font-size: 12px;
-  text-transform: uppercase;
-  max-width: 224px;
-  line-height: 1.2em;
-  cursor: pointer;
-  outline: none;
+#quiz .entry-content .quiz-content .questionBlock.last .quizNavButtons .next {
+  display: none;
+}
+#quiz .entry-content .quiz-content .questionBlock.last .quizNavButtons .button-link {
+  display: inline-block;
 }
 #quiz .entry-content .quiz-content .questionBlock .question {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 400;
-  text-align: left;
+  text-align: justify;
+  line-height: 1.2em;
   margin-bottom: 50px;
 }
 #quiz .entry-content .quiz-content .questionBlock .answer {
@@ -1558,20 +1629,24 @@ big {
 #quiz .entry-content .quiz-content .questionBlock .answer input[type=radio][data-type="F"] + label:after {
   content: "F";
 }
-#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio]:checked + label:before {
+#quiz .entry-content .quiz-content .questionBlock .answer input[type=radio]:checked + label {
   color: #ec008c;
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavStats {
   width: 100%;
   display: inline-block;
 }
+#quiz .entry-content .quiz-content .questionBlock .quizNavStats .yourAnswer,
 #quiz .entry-content .quiz-content .questionBlock .quizNavStats .correctAnswer {
   float: left;
-  padding-left: 25px;
   font-size: 18px;
 }
+#quiz .entry-content .quiz-content .questionBlock .quizNavStats .yourAnswer > span,
 #quiz .entry-content .quiz-content .questionBlock .quizNavStats .correctAnswer > span {
   margin-left: 6px;
+}
+#quiz .entry-content .quiz-content .questionBlock .quizNavStats .correctAnswer {
+  padding-left: 25px;
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavStats .questionList {
   float: right;
@@ -1582,13 +1657,16 @@ big {
   width: 100%;
   margin: 20px 0 50px;
 }
+#quiz .entry-content .quiz-content .questionBlock .quizNavButtons .button-link {
+  display: none;
+}
 #quiz .entry-content .quiz-content .questionBlock .quizNavExpert {
   text-align: left;
   margin-top: 20px;
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavExpert,
 #quiz .entry-content .quiz-content .questionBlock .quizNavExpert a {
-  font-size: 21px;
+  font-size: 19px;
   font-weight: normal;
 }
 #quiz .entry-content .quiz-content .questionBlock .quizNavExpert a {
@@ -1675,6 +1753,7 @@ big {
   margin-top: 42px;
   text-align: center;
 }
+#quiz.expert .entry-content .quiz-content .questionBlock .quizNavStats .yourAnswer,
 #quiz.expert .entry-content .quiz-content .questionBlock .quizNavStats .correctAnswer,
 #quiz.expert .entry-content .quiz-content .questionBlock .quizNavExpert {
   display: block;
@@ -1684,6 +1763,9 @@ big {
 }
 #quiz.expert .entry-content .quiz-content .questionBlock .answer input[type=radio] + label {
   cursor: default;
+}
+#quiz.expert .entry-content .quiz-content .questionBlock .answer input[value="2"] + label {
+  color: green !important;
 }
 #rejestracja form select option,
 #rejestracja form input::-webkit-input-placeholder,
@@ -1720,6 +1802,22 @@ big {
 #konkurs form textarea:placeholder-shown {
   background-color: #01253B;
   color: #ffffff;
+}
+/* PAGE: O projekcie*/
+#page-id-5 #aktualnosci .aktualnosci-list {
+  position: relative;
+  margin-top: 71px;
+}
+#page-id-5 #aktualnosci .aktualnosci-list article .entry-header {
+  position: absolute;
+  top: -95px;
+}
+#page-id-5 #aktualnosci .aktualnosci-list article .entry-header h2,
+#page-id-5 #aktualnosci .aktualnosci-list article .entry-header h2 a {
+  color: #00b4ff;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
 }
 .single-post.postid-47 .mainblock header.entry-header h2.entry-title,
 .single-post.postid-47 .aktualnosci-list .col-xs-12.col-md-2 a[rel="bookmark"],

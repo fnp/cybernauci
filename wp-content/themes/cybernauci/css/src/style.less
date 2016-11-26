@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  background: url(img/background.png) top center #01253B;
+  background: url(img/background.jpg) top center #01253B;
   margin: 0;
 }
 
@@ -553,7 +553,7 @@ big {
   text-align: center;
   .sidebanner {
     position: absolute;
-    // z-index: 2;
+    z-index: 1;
   }
   .sidebanner.sidebanner-left {
     left: -68px;
@@ -1383,6 +1383,91 @@ big {
   }
 }
 
+#materialy-edukacyjne,
+#quiz {
+  .entry-subtitle {
+    color: #00b4ff;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  h3.entry-subtitle {
+    margin-top: 38px;
+    position: relative;
+    > img {
+      position: absolute;
+      left: 50%;
+      height: 116px;
+      bottom: -26px;
+      margin-left: 182px;
+      z-index: 0;
+    }
+  }
+  h4.entry-subtitle {
+    margin-top: 14px;
+  }
+  button, .button-link {
+    background-color: #0094d2;
+    border: 1px solid #0094d2;
+    border-radius: 50px;
+    margin: 0 10px;
+    padding: 8px 30px;
+    max-width: 224px;
+    cursor: pointer;
+    outline: none;
+
+    font-size: 12px !important;
+    color: #ffffff !important;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+}
+
+#materialy-edukacyjne {
+  .materialy-content {
+    padding-bottom: 35px;
+    .materialy-main-page {
+      @link-margin-top: 85px;
+
+      margin-top: 30px;
+      a {
+        display: inline-block;
+        margin-top: @link-margin-top;
+      }
+      .title {
+        font-size: 24px;
+        color: #00b4ff;
+      }
+      .subtitle {
+        font-size: 16px;
+        color: #ffffff;
+        margin-top: 30px;
+      }
+      .link {
+        &.rodzice a,
+        &.nauczyciele a {
+          margin-top: @link-margin-top+58px;
+        }
+      }
+    }
+    .materialy-rodzice {
+      margin-top: 40px;
+      &, & p, & a {
+        font-size: 19px;
+        font-weight: normal;
+      }
+      a {
+        color: #00b4ff;
+      }
+      .button-link {
+        margin-top: 15px;
+        margin-bottom: 30px;
+        display: inline-block;
+      }
+    }
+  }
+}
+
 #quiz {
   .keyframeIn() {
     0% {
@@ -1418,12 +1503,6 @@ big {
   .container-block {
     overflow: hidden;
   }
-  .entry-subtitle {
-    color: #00b4ff;
-    font-size: 24px;
-    font-weight: normal;
-    margin-top: 14px;
-  }
   .entry-content {
     color: #ffffff;
     font-size: 16px;
@@ -1458,33 +1537,33 @@ big {
           z-index: 2;
           opacity: 1
         }
-        .quizNavStats .correctAnswer, .quizNavButtons, .quizNavExpert,
+        .quizNavStats .yourAnswer,
+        .quizNavStats .correctAnswer,
+        .quizNavButtons,
+        .quizNavExpert,
         &:first-of-type .quizNavButtons .prev {
           display: none;
         }
         &:first-of-type .quizNavButtons .next {
           margin-left: 160px;
         }
-        button {
-          background-color: #0094d2;
-          color: #ffffff;
-          border: 1px solid #0094d2;
-          border-radius: 50px;
-          margin: 0 10px;
-          padding: 8px 30px;
-          font-size: 12px;
-          text-transform: uppercase;
-          max-width: 224px;
-          line-height: 1.2em;
-          cursor: pointer;
-          outline: none;
-        }
       }
       .questionBlock {
+        &.last {
+          .quizNavButtons {
+            .next {
+              display: none;
+            }
+            .button-link {
+              display: inline-block;
+            }
+          }
+        }
         .question {
-          font-size: 24px;
+          font-size: 22px;
           font-weight: 400;
-          text-align: left;
+          text-align: justify;
+          line-height: 1.2em;
           margin-bottom: 50px;
         }
         .answer {
@@ -1545,7 +1624,7 @@ big {
             &[data-type="F"] + label:after {
               content: "F";
             }
-            &:checked + label:before {
+            &:checked + label {
               color: #ec008c;
             }
           }
@@ -1553,13 +1632,16 @@ big {
         .quizNavStats {
           width: 100%;
           display: inline-block;
+          .yourAnswer,
           .correctAnswer {
             float: left;
-            padding-left: 25px;
             font-size: 18px;
             > span {
               margin-left: 6px;
             }
+          }
+          .correctAnswer {
+            padding-left: 25px;
           }
           .questionList {
             float: right;
@@ -1570,12 +1652,15 @@ big {
         .quizNavButtons {
           width: 100%;
           margin: 20px 0 50px;
+          .button-link {
+            display: none;
+          }
         }
         .quizNavExpert {
           text-align: left;
           margin-top: 20px;
           &, & a {
-            font-size: 21px;
+            font-size: 19px;
             font-weight: normal;
           }
           a {
@@ -1665,15 +1750,23 @@ big {
   }
 
   &.expert .entry-content .quiz-content {
-    .questionBlock .quizNavStats .correctAnswer,
-    .questionBlock .quizNavExpert {
-      display: block;
-    }
-    .questionBlock .quizNavButtons {
-      display: inline-block;
-    }
-    .questionBlock .answer input[type=radio] + label {
-      cursor: default;
+    .questionBlock {
+      .quizNavStats .yourAnswer,
+      .quizNavStats .correctAnswer,
+      .quizNavExpert {
+        display: block;
+      }
+      .quizNavButtons {
+        display: inline-block;
+      }
+      .answer {
+        input[type=radio] + label {
+          cursor: default;
+        }
+        input[value="2"] + label {
+          color: green !important;
+        }
+      }
     }
   }
 }
@@ -1713,6 +1806,24 @@ big {
 #konkurs form textarea:placeholder-shown {
   background-color: #01253B;
   color: #ffffff;
+}
+
+/* PAGE: O projekcie*/
+#page-id-5 {
+  #aktualnosci .aktualnosci-list {
+    position: relative;
+    margin-top: 71px;
+    article .entry-header {
+      position: absolute;
+      top: -95px;
+      h2, h2 a {
+        color: #00b4ff;
+        font-size: 24px;
+        font-weight: normal;
+        text-align: center;
+      }
+    }
+  }
 }
 
 .single-post.postid-47 {
