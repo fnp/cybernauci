@@ -13,7 +13,33 @@
         <div class="materialy-content">
             <div class="container mainblock">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 materialy-gimnazjum">
+                    <ul>
+		                <?php
+		                $args      = array(
+			                'post_type'   => 'attachment',
+			                'post_status' => 'any',
+			                'tax_query'   => array(
+				                array(
+					                'taxonomy' => 'media_category',
+					                'field'    => 'slug',
+					                'terms'    => 'gimnazjum-i-liceum',
+				                ),
+			                )
+		                );
+		                $the_query = new WP_Query( $args );
 
+		                if ( $the_query->have_posts() ) {
+			                while ( $the_query->have_posts() ) {
+				                $the_query->the_post();
+				                echo '<li><strong>' . get_the_title() . '</strong>' . wp_get_attachment_image( get_the_ID(), 'large' ) . '<div class="options"><a href="' . get_the_permalink() . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF' ) . '</div></li>';
+			                }
+		                } else {
+			                // no attachments found
+		                }
+
+		                wp_reset_postdata();
+		                ?>
+                    </ul>
                 </div>
             </div>
         </div>

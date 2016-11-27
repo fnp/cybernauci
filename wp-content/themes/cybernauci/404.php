@@ -3,9 +3,9 @@
 <div id="rejestracja">
     <div class="info container-block">
         <div class="container mainblock">
-            <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-left-computer.png"
+            <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-left-computer.png"
                  class="sidebanner sidebanner-left" alt=""/>
-            <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-right-rockets.png"
+            <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-right-rockets.png"
                  class="sidebanner sidebanner-right" alt=""/>
 
             <header class="entry-header">
@@ -18,7 +18,7 @@
 
                     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                         <img class="img-responsive"
-                             src="https://placekitten.com/800/600?image=<?php echo mt_rand(0, 15); ?>" alt=""/>
+                             src="https://placekitten.com/800/600?image=<?php echo mt_rand( 0, 15 ); ?>" alt=""/>
                     </div>
                 </div>
             </div>

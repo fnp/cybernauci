@@ -1432,6 +1432,41 @@ big {
 #materialy-edukacyjne .materialy-content .materialy-main-page .link.nauczyciele a {
   margin-top: 143px;
 }
+#materialy-edukacyjne .materialy-content .materialy-podstawowa,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele {
+  margin-top: 40px;
+}
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul li,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li {
+  margin-bottom: 50px;
+}
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul li > strong,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > strong,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > strong {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul li > img,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > img,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > img {
+  display: inline-block;
+  margin-bottom: 15px;
+}
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul li > .options a,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > .options a,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > .options a {
+  margin: 0 15px;
+}
 #materialy-edukacyjne .materialy-content .materialy-rodzice {
   margin-top: 40px;
 }

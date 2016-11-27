@@ -149,6 +149,7 @@ jQuery(document).ready(function () {
         scrollTop: jQuery("#quiz .entry-header").offset().top
       }, 1000);
     }
+
     function countScore() {
       var scorePoints = 0,
         quizScore = quizBlock.find('.quizScore');

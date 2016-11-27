@@ -3,9 +3,9 @@
     <div id="katalogDodaj">
         <div class="info container-block">
             <div class="container mainblock">
-                <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-left-computer.png"
+                <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-left-computer.png"
                      class="sidebanner sidebanner-left" alt=""/>
-                <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-right-rockets.png"
+                <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-right-rockets.png"
                      class="sidebanner sidebanner-right" alt=""/>
 
                 <header class="entry-header">
@@ -13,11 +13,11 @@
                 </header>
                 <div class="entry-content">
                     <div class="col-xs-12 col-md-8 col-md-offset-2">
-                        <?php
-                        while (have_posts()) : the_post();
-                            the_content();
-                        endwhile;
-                        ?>
+	                    <?php
+	                    while ( have_posts() ) : the_post();
+		                    the_content();
+	                    endwhile;
+	                    ?>
                     </div>
                 </div>
             </div>

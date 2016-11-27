@@ -13,7 +13,32 @@
         <div class="materialy-content">
             <div class="container mainblock">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 materialy-nauczyciele">
-
+	                <?php
+	                //should be a list
+	                $args  = array(
+		                'post_type'      => 'attachment',
+		                'post_status'    => 'inherit',
+		                'post_mime_type' => 'application/pdf',
+		                'tax_query'      => array(
+			                array(
+				                'taxonomy' => 'media_category',
+				                'field'    => 'slug',
+				                'terms'    => 'nauczyciele',
+			                ),
+		                )
+	                );
+	                $query = new WP_Query( $args );
+	                if ( $query->have_posts() ) {
+		                echo '<ul>';
+		                while ( $query->have_posts() ) {
+			                $query->the_post();
+			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_permalink() . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF' ) . '</div></li>';
+		                }
+		                echo '</ul>';
+	                } else {
+		                // no PDFs found
+	                }
+	                ?>
                 </div>
             </div>
         </div>
