@@ -5,8 +5,6 @@
         <div class="container mainblock">
             <header class="entry-header">
                 <h2 class="entry-title">Materiały edukacyjne</h2>
-                <h3 class="entry-subtitle">Rodzice<img
-                            src="<?php bloginfo( 'template_directory' ); ?>/img/materialy-edukacyjne-rodzice.png"/></h3>
             </header>
         </div>
         <div class="materialy-content">
