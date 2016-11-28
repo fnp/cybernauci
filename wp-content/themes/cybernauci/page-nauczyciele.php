@@ -18,7 +18,7 @@
 	                $args  = array(
 		                'post_type'      => 'attachment',
 		                'post_status'    => 'inherit',
-		                'post_mime_type' => 'application/pdf',
+		                'post_mime_type' => 'application/zip',
 		                'tax_query'      => array(
 			                array(
 				                'taxonomy' => 'media_category',
@@ -32,7 +32,7 @@
 		                echo '<ul>';
 		                while ( $query->have_posts() ) {
 			                $query->the_post();
-			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_permalink() . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF' ) . '</div></li>';
+			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_content() . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz' ) . '</div></li>';
 		                }
 		                echo '</ul>';
 	                } else {

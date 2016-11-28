@@ -9,7 +9,7 @@
                                 src="<?php bloginfo( 'template_directory' ); ?>/img/materialy-edukacyjne-rodzice.png"/>
                     </h3>
                     <h3 class="entry-subtitle">QUIZ</h3>
-                    <h4 class="entry-subtitle">Mama i Tata bezpieczni w sieci</h4>
+                    <h4 class="entry-subtitle">Rodzina bezpieczna w sieci</h4>
                 </header>
                 <div class="entry-content">
                     <div class="quiz-content">

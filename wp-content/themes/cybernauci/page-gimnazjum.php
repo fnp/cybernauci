@@ -31,7 +31,7 @@
 		                if ( $the_query->have_posts() ) {
 			                while ( $the_query->have_posts() ) {
 				                $the_query->the_post();
-				                echo '<li><strong>' . get_the_title() . '</strong>' . wp_get_attachment_image( get_the_ID(), 'large' ) . '<div class="options"><a href="' . get_the_permalink() . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF' ) . '</div></li>';
+				                echo '<li><strong>' . get_the_title() . '</strong>' . wp_get_attachment_image( get_the_ID(), 'large' ) . '<div class="options"><a href="' . wp_get_attachment_image_src( $id, 'large' )[0] . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF do wydruku w formacie A3' ) . '</div></li>';
 			                }
 		                } else {
 			                // no attachments found

@@ -313,7 +313,7 @@ jQuery(document).ready(function () {
       ).append(
         jQuery('<div></div>').addClass('quizNavExpert')
       ).append(
-        jQuery('<div></div>').addClass('quizNavButtons').append(
+        jQuery('<div></div>').addClass('quizNavButtons noAnswer').append(
           jQuery('<button></button>').addClass('prev').text(translate.poprzednie)
         ).append(
           jQuery('<button></button>').addClass('next').text(translate.nastepne)
@@ -329,6 +329,7 @@ jQuery(document).ready(function () {
         countScore();
         jQuery(this).parents('.questionBlock').removeClass('visible').addClass('trigger');
         setTimeout(function () {
+          quizBlock.find('.questionBlock.trigger .quizNavButtons').removeClass('noAnswer');
           var next = quizBlock.find('.questionBlock.trigger').removeClass('trigger').next();
           quizContent.css('height', next.outerHeight() + 'px');
           next.addClass('visible');

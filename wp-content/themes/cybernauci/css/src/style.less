@@ -1564,13 +1564,17 @@ big {
         }
         .quizNavStats .yourAnswer,
         .quizNavStats .correctAnswer,
-        .quizNavButtons,
+        .quizNavButtons.noAnswer .next,
+        .quizNavButtons.noAnswer a.button-link,
         .quizNavExpert,
         &:first-of-type .quizNavButtons .prev {
           display: none;
         }
         &:first-of-type .quizNavButtons .next {
           margin-left: 160px;
+        }
+        .quizNavButtons.noAnswer .prev {
+          margin-right: 160px;
         }
       }
       .questionBlock {
@@ -1685,7 +1689,7 @@ big {
           text-align: left;
           margin-top: 20px;
           &, & a {
-            font-size: 19px;
+            font-size: 16px;
             font-weight: normal;
           }
           a {
