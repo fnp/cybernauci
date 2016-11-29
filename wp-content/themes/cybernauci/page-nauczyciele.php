@@ -14,7 +14,6 @@
             <div class="container mainblock">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 materialy-nauczyciele">
 	                <?php
-	                //should be a list
 	                $args  = array(
 		                'post_type'      => 'attachment',
 		                'post_status'    => 'inherit',
@@ -23,12 +22,13 @@
 			                array(
 				                'taxonomy' => 'media_category',
 				                'field'    => 'slug',
-				                'terms'    => 'nauczyciele',
+				                'terms'    => 'klasy-i-iii-szkoly-podstawowej',
 			                ),
 		                )
 	                );
 	                $query = new WP_Query( $args );
 	                if ( $query->have_posts() ) {
+		                echo '<h3>Klasy I-III szkoły podstawowej</h3>';
 		                echo '<ul>';
 		                while ( $query->have_posts() ) {
 			                $query->the_post();
@@ -38,6 +38,85 @@
 	                } else {
 		                // no PDFs found
 	                }
+	                wp_reset_postdata();
+
+	                $args  = array(
+		                'post_type'      => 'attachment',
+		                'post_status'    => 'inherit',
+		                'post_mime_type' => 'application/zip',
+		                'tax_query'      => array(
+			                array(
+				                'taxonomy' => 'media_category',
+				                'field'    => 'slug',
+				                'terms'    => 'klasy-iv-vi-szkoly-podstawowej',
+			                ),
+		                )
+	                );
+	                $query = new WP_Query( $args );
+	                if ( $query->have_posts() ) {
+		                echo '<h3>Klasy IV-VI szkoły podstawowej</h3>';
+		                echo '<ul>';
+		                while ( $query->have_posts() ) {
+			                $query->the_post();
+			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_content() . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz' ) . '</div></li>';
+		                }
+		                echo '</ul>';
+	                } else {
+		                // no PDFs found
+	                }
+	                wp_reset_postdata();
+
+	                $args  = array(
+		                'post_type'      => 'attachment',
+		                'post_status'    => 'inherit',
+		                'post_mime_type' => 'application/zip',
+		                'tax_query'      => array(
+			                array(
+				                'taxonomy' => 'media_category',
+				                'field'    => 'slug',
+				                'terms'    => 'gimnazjum',
+			                ),
+		                )
+	                );
+	                $query = new WP_Query( $args );
+	                if ( $query->have_posts() ) {
+		                echo '<h3>Gimnazjum</h3>';
+		                echo '<ul>';
+		                while ( $query->have_posts() ) {
+			                $query->the_post();
+			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_content() . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz' ) . '</div></li>';
+		                }
+		                echo '</ul>';
+	                } else {
+		                // no PDFs found
+	                }
+	                wp_reset_postdata();
+
+	                $args  = array(
+		                'post_type'      => 'attachment',
+		                'post_status'    => 'inherit',
+		                'post_mime_type' => 'application/zip',
+		                'tax_query'      => array(
+			                array(
+				                'taxonomy' => 'media_category',
+				                'field'    => 'slug',
+				                'terms'    => 'szkola-ponadgimnazjalna',
+			                ),
+		                )
+	                );
+	                $query = new WP_Query( $args );
+	                if ( $query->have_posts() ) {
+		                echo '<h3>Szkoła ponadgimnazjalna</h3>';
+		                echo '<ul>';
+		                while ( $query->have_posts() ) {
+			                $query->the_post();
+			                echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_content() . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz' ) . '</div></li>';
+		                }
+		                echo '</ul>';
+	                } else {
+		                // no PDFs found
+	                }
+	                wp_reset_postdata();
 	                ?>
                 </div>
             </div>

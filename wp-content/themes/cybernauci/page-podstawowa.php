@@ -31,12 +31,11 @@
 		                if ( $the_query->have_posts() ) {
 			                while ( $the_query->have_posts() ) {
 				                $the_query->the_post();
-				                echo '<li><strong>' . get_the_title() . '</strong>' . wp_get_attachment_image( get_the_ID(), 'large' ) . '<div class="options"><a href="' . wp_get_attachment_image_src( $id, 'large' )[0] . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF do wydruku w formacie A3' ) . '</div></li>';
+				                echo '<li><strong>' . get_the_title() . '</strong>' . wp_get_attachment_image( get_the_ID(), 'large' ) . '<div class="options"><a href="' . bloginfo( 'template_directory' ) . '/libs/pdfjs/web/viewer.html?file=' . wp_get_attachment_url( $id ) . '">czytaj on-line</a>' . wp_get_attachment_link( $id, '', false, false, 'pobierz PDF do wydruku w formacie A3' ) . '</div></li>';
 			                }
 		                } else {
 			                // no attachments found
 		                }
-
 		                wp_reset_postdata();
 		                ?>
                     </ul>
