@@ -1467,6 +1467,12 @@ big {
   display: inline-block;
   margin-bottom: 15px;
 }
+#materialy-edukacyjne .materialy-content .materialy-podstawowa ul li > .description,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > .description,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > .description {
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
 #materialy-edukacyjne .materialy-content .materialy-podstawowa ul li > .options a,
 #materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > .options a,
 #materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > .options a {

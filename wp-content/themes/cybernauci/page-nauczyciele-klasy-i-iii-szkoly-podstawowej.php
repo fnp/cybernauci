@@ -36,7 +36,7 @@
                         echo '<ul>';
                         while ($query->have_posts()) {
                             $query->the_post();
-                            echo '<li><strong>' . get_the_title() . '</strong><div class="options"><a href="' . get_the_content() . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link($id, '', false, false, 'pobierz') . '</div></li>';
+                            echo '<li><strong>' . get_the_title() . '</strong><div class="description">' . thisismyurl_get_custom_media_field(get_the_ID(), 'media-custom-opis') . '</div><div class="options"><a href="' . thisismyurl_get_custom_media_field(get_the_ID(), 'media-custom-link') . '" target="_blank">zobacz w serwisie Edukacja medialna</a>' . wp_get_attachment_link($id, '', false, false, 'pobierz') . '</div></li>';
                         }
                         echo '</ul>';
                     } else {
