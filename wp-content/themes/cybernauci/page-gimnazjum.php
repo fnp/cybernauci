@@ -13,6 +13,11 @@
         <div class="materialy-content">
             <div class="container mainblock">
                 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 materialy-gimnazjum">
+                    <?php
+                    while (have_posts()) : the_post();
+                        the_content();
+                    endwhile;
+                    ?>
                     <ul>
 		                <?php
 		                $args      = array(

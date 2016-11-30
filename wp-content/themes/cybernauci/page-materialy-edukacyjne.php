@@ -10,6 +10,13 @@
         <div class="materialy-content">
             <div class="container mainblock">
                 <div class="col-xs-12 materialy-main-page">
+                    <?php
+                    while (have_posts()) : the_post();
+                        the_content();
+                    endwhile;
+                    ?>
+                </div>
+                <div class="col-xs-12 materialy-main-page">
                     <div class="link podstawowa col-xs-12 col-sm-6">
                         <div class="title">Uczniowie</div>
                         <div class="row">

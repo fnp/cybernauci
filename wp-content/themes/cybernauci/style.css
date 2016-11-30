@@ -1437,6 +1437,11 @@ big {
 #materialy-edukacyjne .materialy-content .materialy-nauczyciele {
   margin-top: 40px;
 }
+#materialy-edukacyjne .materialy-content .materialy-podstawowa h3,
+#materialy-edukacyjne .materialy-content .materialy-gimnazjum h3,
+#materialy-edukacyjne .materialy-content .materialy-nauczyciele h3 {
+  margin-bottom: 20px;
+}
 #materialy-edukacyjne .materialy-content .materialy-podstawowa ul,
 #materialy-edukacyjne .materialy-content .materialy-gimnazjum ul,
 #materialy-edukacyjne .materialy-content .materialy-nauczyciele ul {
@@ -1483,6 +1488,7 @@ big {
   margin-top: 15px;
   margin-bottom: 30px;
   display: inline-block;
+  font-size: 18px !important;
 }
 @-webkit-keyframes fadeIn {
   0% {
