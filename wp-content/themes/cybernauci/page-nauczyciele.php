@@ -22,7 +22,7 @@
                            target="_self">Klasy I-III szkoły podstawowej</a></h3>
                     <h3><a href="/materialy-edukacyjne/nauczyciele/nauczyciele-klasy-iv-vi-szkoly-podstawowej/"
                            target="_self">Klasy IV-VI szkoły podstawowej</a></h3>
-                    <h3><a href="/materialy-edukacyjne/nauczyciele/gimnazjum/" target="_self">Gimnazjum</a></h3>
+                    <h3><a href="/materialy-edukacyjne/nauczyciele/nauczyciele-gimnazjum/" target="_self">Gimnazjum</a></h3>
                     <h3><a href="/materialy-edukacyjne/nauczyciele/nauczyciele-szkola-ponadgimnazjalna/" target="_self">Szkoła
                             ponadgimnazjalna</a></h3>
                 </div>
