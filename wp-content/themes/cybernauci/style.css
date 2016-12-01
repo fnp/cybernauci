@@ -1477,6 +1477,7 @@ big {
 #materialy-edukacyjne .materialy-content .materialy-gimnazjum ul li > .options a,
 #materialy-edukacyjne .materialy-content .materialy-nauczyciele ul li > .options a {
   margin: 0 15px;
+  font-weight: bold;
 }
 #materialy-edukacyjne .materialy-content .materialy-rodzice {
   margin-top: 40px;
