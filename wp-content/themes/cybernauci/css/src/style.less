@@ -1446,9 +1446,14 @@ big {
         margin-top: 30px;
       }
       .link {
-        &.rodzice a,
+        &.podstawowa .col-xs-6:first-child a{
+        margin-top: @link-margin-top+38px;
+        }
+        &.rodzice a{
+        margin-top: @link-margin-top+58px;
+        }
         &.nauczyciele a {
-          margin-top: @link-margin-top+58px;
+          margin-top: @link-margin-top+83px;
         }
       }
     }
