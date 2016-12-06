@@ -27,7 +27,7 @@
                                 </a>
                             </div>
                             <div class="col-xs-6">
-                                <div class="subtitle">Gimnazjum i liceum</div>
+                                <div class="subtitle">Gimnazjum i szkoły ponadgimnazjalne</div>
                                 <a href="/materialy-edukacyjne/gimnazjum" target="_self">
                                     <img src="<?php bloginfo( 'template_directory' ); ?>/img/materialy-edukacyjne-gimnazjum.png"/>
                                 </a>
