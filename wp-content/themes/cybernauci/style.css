@@ -1384,7 +1384,7 @@ big {
   left: 50%;
   height: 116px;
   bottom: -26px;
-  margin-left: 205px;
+  margin-left: 265px;
   z-index: 0;
 }
 #materialy-edukacyjne h4.entry-subtitle,
@@ -1421,6 +1421,7 @@ big {
 }
 #materialy-edukacyjne .materialy-content .materialy-main-page .title {
   font-size: 24px;
+  line-height:1.1;
   color: #00b4ff;
 }
 #materialy-edukacyjne .materialy-content .materialy-main-page .subtitle {
