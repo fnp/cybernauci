@@ -35,7 +35,7 @@
                         </div>
                     </div>
                     <div class="link rodzice col-xs-12 col-sm-3">
-                        <div class="title">Rodzice</div>
+                        <div class="title">Rodzice i Opiekunowie</div>
                         <a href="/materialy-edukacyjne/rodzice" target="_self">
                             <img src="<?php bloginfo( 'template_directory' ); ?>/img/materialy-edukacyjne-rodzice.png"/>
                         </a>
