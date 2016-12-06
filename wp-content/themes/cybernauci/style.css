@@ -1430,9 +1430,14 @@ big {
   color: #ffffff;
   margin-top: 30px;
 }
-#materialy-edukacyjne .materialy-content .materialy-main-page .link.rodzice a,
-#materialy-edukacyjne .materialy-content .materialy-main-page .link.nauczyciele a {
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.podstawowa .col-xs-6:first-child a{
+  margin-top: 123px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.rodzice a{
   margin-top: 143px;
+}
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.nauczyciele a {
+  margin-top: 168px;
 }
 #materialy-edukacyjne .materialy-content .materialy-podstawowa,
 #materialy-edukacyjne .materialy-content .materialy-gimnazjum,
