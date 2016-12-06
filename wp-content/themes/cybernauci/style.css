@@ -1435,6 +1435,10 @@ big {
   height: 390px;
 }
 
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.podstawowa .col-xs-6 {
+  height: 364px;
+}
+
 #materialy-edukacyjne .materialy-content .materialy-main-page .link a {
   -webkit-transform: translate(-50%, 0);
   -moz-transform: translate(-50%, 0);
