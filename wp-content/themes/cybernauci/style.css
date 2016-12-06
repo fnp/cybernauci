@@ -1433,6 +1433,9 @@ big {
 #materialy-edukacyjne .materialy-content .materialy-main-page .link.podstawowa .col-xs-6:first-child a{
   margin-top: 123px;
 }
+#materialy-edukacyjne .materialy-content .materialy-main-page .link.podstawowa .col-xs-6:last-child a{
+  margin-top: 107px;
+}
 #materialy-edukacyjne .materialy-content .materialy-main-page .link.rodzice a{
   margin-top: 143px;
 }
