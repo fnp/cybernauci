@@ -5,7 +5,7 @@
         <div class="container mainblock">
             <header class="entry-header">
                 <h2 class="entry-title">Materiały edukacyjne</h2>
-                <h3 class="entry-subtitle">Uczniowie szkół ponadpodstawowych<img
+                <h3 class="entry-subtitle">Uczniowie gimnazjum i szkół ponadgimnazjalnych<img
                             src="<?php bloginfo( 'template_directory' ); ?>/img/materialy-edukacyjne-gimnazjum.png"/>
                 </h3>
             </header>
