@@ -9,14 +9,14 @@
                  class="sidebanner sidebanner-right" alt=""/>
 
             <header class="entry-header">
-                <h2 class="entry-title">Najnowsze informacje o programie</h2>
+                <h2 class="entry-title">Dobre praktyki</h2>
             </header>
         </div>
         <div class="dobre-praktyki-list">
             <div class="container mainblock">
 				<?php
 				$args     = array(
-					'cat'            => '-' . get_category_by_slug( "dobre-praktyki" )->cat_ID,
+					'category_name'  => 'dobre-praktyki',
 					'posts_per_page' => 999999
 				);
 				$wp_posts = query_posts( $args );
