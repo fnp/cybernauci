@@ -16,8 +16,12 @@
             <div class="container mainblock">
 	            <?php
 	            $args     = array(
-		            'cat'            => '-' . get_category_by_slug( "katalog" )->cat_ID,
-		            'posts_per_page' => 999999
+		            'category__not_in' => array(
+			            get_category_by_slug( "katalog" )->cat_ID,
+			            get_category_by_slug( "dobre-praktyki" )->cat_ID
+		            ),
+		            //'cat'            => '-' . get_category_by_slug( "katalog" )->cat_ID .'&'. get_category_by_slug( "dobre-praktyki" )->cat_ID,
+		            'posts_per_page'   => 999999
 	            );
 	            $wp_posts = query_posts( $args );
 	            if ( $wp_posts ) {

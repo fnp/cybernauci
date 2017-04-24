@@ -16,10 +16,10 @@
             <div class="container mainblock">
 				<?php
 				$args     = array(
-					'category_name'  => 'dobre-praktyki',
+					'category__in'   => array( get_category_by_slug( "dobre-praktyki" )->cat_ID ),
 					'posts_per_page' => 999999
 				);
-				$wp_posts = query_posts( $args );
+				$wp_posts = WP_Query( $args );
 				if ( $wp_posts ) {
 					foreach ( $wp_posts as $post ):
 						setup_postdata( $post ); ?>
