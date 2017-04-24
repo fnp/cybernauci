@@ -623,22 +623,30 @@ big {
   margin-top: 20px;
   word-wrap: break-word;
 }
-.aktualnosci-list {
+
+.aktualnosci-list,
+.dobre-praktyki-list {
   background-color: #ffffff;
   padding-bottom: 35px;
   padding-top: 55px;
 }
-.aktualnosci-list h2 {
+
+.aktualnosci-list h2,
+.dobre-praktyki-list h2 {
   color: #000000;
   font-size: 24px;
   font-weight: normal;
   margin: 0 0 45px;
   text-align: center;
 }
-.aktualnosci-list article {
+
+.aktualnosci-list article,
+.dobre-praktyki-list article {
   text-align: left;
 }
-.aktualnosci-list article .entry-content {
+
+.aktualnosci-list article .entry-content,
+.dobre-praktyki-list article .entry-content {
   color: #000000;
   font-size: 12px;
   line-height: 1.2em;
@@ -646,47 +654,61 @@ big {
   margin-top: 20px;
   word-wrap: break-word;
 }
-.aktualnosci-list article .entry-content .alignleft {
+
+.aktualnosci-list article .entry-content .alignleft,
+.dobre-praktyki-list article .entry-content .alignleft {
   float: left;
   margin: 6px 28px 28px 0;
 }
-.aktualnosci-list article .entry-content .alignright {
+
+.aktualnosci-list article .entry-content .alignright,
+.dobre-praktyki-list article .entry-content .alignright {
   float: right;
   margin: 6px 0 28px 28px;
 }
-.aktualnosci-list article .entry-content .aligncenter {
+
+.aktualnosci-list article .entry-content .aligncenter,
+.dobre-praktyki-list article .entry-content .aligncenter {
   clear: both;
   display: block;
   margin: 0 auto 28px;
 }
 .aktualnosci-list .pagination,
-.katalog-list .pagination {
+.katalog-list .pagination,
+.dobre-praktyki-list .pagination {
   width: 100%;
   display: inline-block;
   text-align: center;
 }
 .aktualnosci-list .pagination .nav-links,
-.katalog-list .pagination .nav-links {
+.katalog-list .pagination .nav-links,
+.dobre-praktyki-list .pagination .nav-links {
   width: auto;
   display: block;
 }
 .katalog-content article .entry-header .img-responsive,
 .aktualnosci-list article .entry-header .img-responsive,
+.dobre-praktyki-list article .entry-header .img-responsive,
 #katalog.single article .entry-header .img-responsive,
-#aktualnosci.single article .entry-header .img-responsive {
+#aktualnosci.single article .entry-header .img-responsive,
+#dobre-praktyki.single article .entry-header .img-responsive {
   margin-bottom: 14px;
 }
 .katalog-content article .entry-header > small,
 .aktualnosci-list article .entry-header > small,
+.dobre-praktyki-list article .entry-header > small,
 #katalog.single article .entry-header > small,
-#aktualnosci.single article .entry-header > small {
+#aktualnosci.single article .entry-header > small,
+#dobre-praktyki.single article .entry-header > small {
   color: #000000;
   font-size: 10px;
 }
 .katalog-content article .entry-title,
 .aktualnosci-list article .entry-title,
+.dobre-praktyki-list article .entry-title,
 .katalog-content article .entry-title a,
-.aktualnosci-list article .entry-title a {
+.aktualnosci-list article .entry-title a,
+.dobre-praktyki-list article .entry-title a {
   color: #000000;
   font-size: 16px;
   line-height: 0.75em;
@@ -695,52 +717,81 @@ big {
 }
 .katalog-content article .entry-footer,
 .aktualnosci-list article .entry-footer,
+.dobre-praktyki-list article .entry-footer,
 .katalog-content article .entry-footer a,
 .aktualnosci-list article .entry-footer a,
+.dobre-praktyki-list article .entry-footer a,
 #katalog.single .back-to-list,
-#aktualnosci.single .back-to-list {
+#aktualnosci.single .back-to-list,
+#dobre-praktyki.single .back-to-list {
   color: #0064FA;
   font-size: 12px;
   font-weight: normal;
 }
 .katalog-content article .entry-footer .readmore,
 .aktualnosci-list article .entry-footer .readmore,
+.dobre-praktyki-list article .entry-footer .readmore,
 #katalog.single .back-to-list,
-#aktualnosci.single .back-to-list {
+#aktualnosci.single .back-to-list,
+#dobre-praktyki.single .back-to-list {
   border-bottom: 1px solid #00b4ff;
   padding: 8px 50px 8px 0;
   text-decoration: none;
   display: inline-block;
   margin-bottom: 20px;
 }
-#aktualnosci .sidebanner-left {
+
+#aktualnosci .sidebanner-left,
+#dobre-praktyki .sidebanner-left {
   top: 30px;
 }
-#aktualnosci .sidebanner-right {
+
+#aktualnosci .sidebanner-right,
+#dobre-praktyki .sidebanner-right {
   right: -180px;
   top: 120px;
 }
-#aktualnosci .info .entry-header {
+
+#aktualnosci .info .entry-header,
+#dobre-praktyki .info .entry-header {
   margin-bottom: 45px;
 }
-#aktualnosci .aktualnosci-list {
+
+#aktualnosci .aktualnosci-list,
+#dobre-praktyki .aktualnosci-list,
+#aktualnosci .dobre-praktyki,
+#dobre-praktyki .dobre-praktyki {
   padding-top: 35px;
 }
-#aktualnosci .aktualnosci-list .entry-header {
+
+#aktualnosci .aktualnosci-list .entry-header,
+#dobre-praktyki .aktualnosci-list .entry-header,
+#aktualnosci .dobre-praktyki .entry-header,
+#dobre-praktyki .dobre-praktyki .entry-header {
   margin-bottom: 0;
 }
-#aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title {
+
+#aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title,
+#dobre-praktyki.single .aktualnosci-list .mainblock .entry-header .entry-title,
+#aktualnosci.single .dobre-praktyki-list .mainblock .entry-header .entry-title,
+#dobre-praktyki.single .dobre-praktyki-list .mainblock .entry-header .entry-title {
   color: #000000;
   margin-bottom: -4px;
   line-height: 1em;
 }
-#aktualnosci.single .mainblock .entry-header .img-responsive {
+
+#aktualnosci.single .mainblock .entry-header .img-responsive,
+#dobre-praktyki.single .mainblock .entry-header .img-responsive {
   margin-top: 10px;
 }
-#aktualnosci.single .mainblock .entry-footer:first-child {
+
+#aktualnosci.single .mainblock .entry-footer:first-child,
+#dobre-praktyki.single .mainblock .entry-footer:first-child {
   border-bottom: 1px solid #00b4ff;
 }
-#aktualnosci.single .mainblock .more-article {
+
+#aktualnosci.single .mainblock .more-article,
+#dobre-praktyki.single .mainblock .more-article {
   color: #020c12;
   display: block;
   float: left;
@@ -750,7 +801,9 @@ big {
   text-align: left;
   width: 100%;
 }
-#aktualnosci.single .mainblock .navigation {
+
+#aktualnosci.single .mainblock .navigation,
+#dobre-praktyki.single .mainblock .navigation {
   display: inline-block;
   float: left;
   text-align: left;
@@ -1872,7 +1925,8 @@ big {
   background-color: #01253B;
   color: #ffffff;
 }
-/* PAGE: O projekcie*/
+
+/* PAGE: O projekcie */
 #page-id-5 #aktualnosci .aktualnosci-list {
   position: relative;
   margin-top: 71px;
@@ -1888,6 +1942,8 @@ big {
   font-weight: normal;
   text-align: center;
 }
+
+/* PAGE: Ruszamy z projektem! */
 .single-post.postid-47 .mainblock header.entry-header h2.entry-title,
 .single-post.postid-47 .aktualnosci-list .col-xs-12.col-md-2 a[rel="bookmark"],
 .single-post.postid-47 .aktualnosci-list article > header.entry-header,

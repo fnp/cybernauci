@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<div id="aktualnosci">
+<div id="dobre-praktyki">
     <div class="info container-block">
         <div class="container mainblock">
             <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-left-computer.png"
@@ -12,7 +12,7 @@
                 <h2 class="entry-title">Najnowsze informacje o programie</h2>
             </header>
         </div>
-        <div class="aktualnosci-list">
+        <div class="dobre-praktyki-list">
             <div class="container mainblock">
 				<?php
 				$args     = array(
