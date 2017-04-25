@@ -10,11 +10,9 @@
 
       <header class="entry-header">
         <h2 class="entry-title">Dobre praktyki</h2>
-		  <?php
-		  while ( have_posts() ) : the_post();
-			  '<div class="entry-content">' . the_content() . '</div>';
-		  endwhile;
-		  ?>
+	      <?php while ( have_posts() ) : the_post(); ?>
+            <div class="entry-content"><? the_content() ?></div>
+	      <?php endwhile; ?>
       </header>
     </div>
     <div class="dobre-praktyki-list">
