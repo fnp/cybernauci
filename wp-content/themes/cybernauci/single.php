@@ -126,7 +126,7 @@
                      class="sidebanner sidebanner-right" alt=""/>
 
                 <header class="entry-header">
-                    <h2 class="entry-title">Najnowsze informacje o projekcie</h2>
+                  <h2 class="entry-title">Dobre praktyki</h2>
                 </header>
             </div>
 
