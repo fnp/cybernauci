@@ -56,7 +56,7 @@
 				get_category_by_slug( "katalog" )->cat_ID,
 				get_category_by_slug( "dobre-praktyki" )->cat_ID,
 			),
-			'posts_per_page'   => 4,
+			'showposts'        => 4,
 		);
 		//$arg      = 'cat=-' . get_category_by_slug( 'katalog' )->cat_ID . '&showposts=4';
 		$wp_posts = query_posts( $arg );
