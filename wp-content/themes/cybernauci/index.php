@@ -51,14 +51,7 @@
     <div class="container mainblock">
       <h2>Aktualności</h2>
 		<?php
-		$args = array(
-			'category__not_in' => array(
-				get_category_by_slug( "katalog" )->cat_ID,
-				get_category_by_slug( "dobre-praktyki" )->cat_ID,
-			),
-			'showposts'        => 4,
-		);
-		//$arg      = 'cat=-' . get_category_by_slug( 'katalog' )->cat_ID . '&showposts=4';
+		$arg      = 'cat=-' . get_category_by_slug( 'katalog' )->cat_ID . '&cat=-' . get_category_by_slug( 'dobre-praktyki' )->cat_ID . '&showposts=4';
 		$wp_posts = query_posts( $arg );
 		if ( $wp_posts ) {
 			foreach ( $wp_posts as $post ): setup_postdata( $post ); ?>
