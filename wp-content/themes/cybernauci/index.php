@@ -51,17 +51,17 @@
     <div class="container mainblock">
       <h2>Aktualności</h2>
 		<?php
-		$args = array(
-			'category__not_in' => array(
-				get_category_by_slug( "katalog" )->cat_ID,
-				get_category_by_slug( "dobre-praktyki" )->cat_ID,
+		$args     = array(
+			'cat'       => array(
+				'-' . get_category_by_slug( "katalog" )->cat_ID,
+				'-' . get_category_by_slug( "dobre-praktyki" )->cat_ID,
 			),
-			'posts_per_page'   => 4,
+			'showposts' => 4,
 		);
-		//$arg      = 'cat=-' . get_category_by_slug( 'katalog' )->cat_ID . '&cat=-' . get_category_by_slug( 'dobre-praktyki' )->cat_ID . '&showposts=4';
-		$wp_posts = query_posts( $arg );
+		$wp_posts = query_posts( $args );
 		if ( $wp_posts ) {
-			foreach ( $wp_posts as $post ): setup_postdata( $post ); ?>
+			foreach ( $wp_posts as $post ):
+				setup_postdata( $post ); ?>
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
                   <header class="entry-header">
