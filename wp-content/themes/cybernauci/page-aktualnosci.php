@@ -12,7 +12,7 @@
                 <h2 class="entry-title">Najnowsze informacje o programie</h2>
             </header>
         </div>
-        <div class="aktualnosci-list">
+        <div class="aktualnosci-list list-sorted">
             <div class="container mainblock">
 	            <?php
 	            $args     = array(

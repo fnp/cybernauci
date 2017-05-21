@@ -15,7 +15,7 @@
 	      <?php endwhile; ?>
       </header>
     </div>
-    <div class="dobre-praktyki-list">
+      <div class="dobre-praktyki-list list-sorted">
       <div class="container mainblock">
 		  <?php
 		  $args     = array(

@@ -47,7 +47,7 @@
     </div>
   </div>
 
-  <div class="aktualnosci-list container-block">
+    <div class="aktualnosci-list list-sorted container-block">
     <div class="container mainblock">
       <h2>Aktualności</h2>
 		<?php
