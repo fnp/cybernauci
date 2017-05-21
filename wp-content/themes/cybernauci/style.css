@@ -652,7 +652,6 @@ big {
   font-size: 12px;
   line-height: 1.2em;
   margin-bottom: 12px;
-  margin-top: 20px;
   word-wrap: break-word;
 }
 .aktualnosci-list article .entry-content .alignleft,
@@ -671,8 +670,11 @@ big {
   display: block;
   margin: 0 auto 28px;
 }
-.dobre-praktyki-list .info .entry-header {
-  margin-bottom: 0;
+.aktualnosci-list article .entry-content {
+  margin-top: 20px;
+}
+.dobre-praktyki-list article .entry-content {
+  margin-top: 0;
 }
 .aktualnosci-list .pagination,
 .katalog-list .pagination,
@@ -750,10 +752,6 @@ big {
   right: -180px;
   top: 120px;
 }
-#aktualnosci .info .entry-header,
-#dobre-praktyki .info .entry-header {
-  margin-bottom: 45px;
-}
 #aktualnosci .aktualnosci-list,
 #dobre-praktyki .aktualnosci-list,
 #aktualnosci .dobre-praktyki,
@@ -764,6 +762,12 @@ big {
 #dobre-praktyki .aktualnosci-list .entry-header,
 #aktualnosci .dobre-praktyki .entry-header,
 #dobre-praktyki .dobre-praktyki .entry-header {
+  margin-bottom: 0;
+}
+#aktualnosci .info .entry-header {
+  margin-bottom: 45px;
+}
+#dobre-praktyki-list .info .entry-header {
   margin-bottom: 0;
 }
 #aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title,

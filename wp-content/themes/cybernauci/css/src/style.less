@@ -688,7 +688,6 @@ big {
       font-size: 12px;
       line-height: 1.2em;
       margin-bottom: 12px;
-      margin-top: 20px;
       word-wrap: break-word;
       .alignleft {
         float: left;
@@ -707,8 +706,12 @@ big {
   }
 }
 
-.dobre-praktyki-list .info .entry-header {
-  margin-bottom: 0;
+.aktualnosci-list article .entry-content {
+  margin-top: 20px;
+}
+
+.dobre-praktyki-list article .entry-content {
+  margin-top: 0;
 }
 
 .aktualnosci-list,
@@ -793,11 +796,6 @@ big {
     right: -180px;
     top: 120px;
   }
-  .info {
-    .entry-header {
-      margin-bottom: 45px;
-    }
-  }
   .aktualnosci-list,
   .dobre-praktyki {
     padding-top: 35px;
@@ -805,6 +803,14 @@ big {
       margin-bottom: 0;
     }
   }
+}
+
+#aktualnosci .info .entry-header {
+  margin-bottom: 45px;
+}
+
+#dobre-praktyki-list .info .entry-header {
+  margin-bottom: 0;
 }
 
 #aktualnosci.single,
