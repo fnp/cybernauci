@@ -536,11 +536,12 @@ big {
   color: #00b4ff;
   font-size: 24px;
   font-weight: normal;
+  margin-bottom: 30px;
 }
 .mainblock .entry-content {
   font-size: 16px;
   line-height: 1.5em;
-  margin: 30px 0 28px;
+  margin: 0 0 28px;
 }
 #index {
   margin-top: 28px;
@@ -638,10 +639,6 @@ big {
   margin: 0 0 45px;
   text-align: center;
 }
-.aktualnosci-list .entry-content,
-.dobre-praktyki-list .entry-content {
-  padding-top: 30px;
-}
 .aktualnosci-list article,
 .dobre-praktyki-list article {
   text-align: left;
@@ -653,6 +650,7 @@ big {
   line-height: 1.2em;
   margin-bottom: 12px;
   word-wrap: break-word;
+  margin-top: 0;
 }
 .aktualnosci-list article .entry-content .alignleft,
 .dobre-praktyki-list article .entry-content .alignleft {
@@ -669,12 +667,6 @@ big {
   clear: both;
   display: block;
   margin: 0 auto 28px;
-}
-.aktualnosci-list article .entry-content {
-  margin-top: 20px;
-}
-.dobre-praktyki-list article .entry-content {
-  margin-top: 0;
 }
 .aktualnosci-list .pagination,
 .katalog-list .pagination,
@@ -752,6 +744,11 @@ big {
   right: -180px;
   top: 120px;
 }
+
+#aktualnosci .info .entry-header,
+#dobre-praktyki .info .entry-header {
+  margin-bottom: 0;
+}
 #aktualnosci .aktualnosci-list,
 #dobre-praktyki .aktualnosci-list,
 #aktualnosci .dobre-praktyki,
@@ -762,12 +759,6 @@ big {
 #dobre-praktyki .aktualnosci-list .entry-header,
 #aktualnosci .dobre-praktyki .entry-header,
 #dobre-praktyki .dobre-praktyki .entry-header {
-  margin-bottom: 0;
-}
-#aktualnosci .info .entry-header {
-  margin-bottom: 45px;
-}
-#dobre-praktyki-list .info .entry-header {
   margin-bottom: 0;
 }
 #aktualnosci.single .aktualnosci-list .mainblock .entry-header .entry-title,
