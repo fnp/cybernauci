@@ -38,7 +38,7 @@ jQuery(document).ready(function () {
 
       wojewodztwo = function () {
         jQuery.ajax({
-          url: "/wp-content/themes/cybernauci/json/wojewodztwa.json",
+          url: "/wp-content/themes/cybernauci/json/wojewodztwa_konkurs.json",
           success: function (res) {
             for (var i = 0; i < res.length; i++) {
               wojewodztwoList.append(
