@@ -2,7 +2,7 @@ jQuery(document).ready(function () {
   var sortedList = jQuery('.list-sorted'),
     katalogList = jQuery('.katalog-list');
 
-  if (sortedList.length) {
+  if (sortedList.length || katalogList) {
     window.setTimeout(function () {
       var content = (sortedList.length > 0) ? sortedList.find('.mainblock > div') : katalogList.find(' > div'),
         maxHeight = Math.max.apply(null, content.map(function () {

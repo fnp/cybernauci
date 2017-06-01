@@ -59,4 +59,5 @@ var plumberErrorHandler = {
     })
 };
 
-gulp.task('default', ['less', 'js', 'img', 'watch', 'browser-sync']);
+gulp.task('default', ['less', 'js', 'img']);
+gulp.task('serve', ['less', 'js', 'img', 'watch', 'browser-sync']);
