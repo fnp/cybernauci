@@ -1,19 +1,7 @@
 [
   {
-    "id": "3",
-    "nazwa": "lubelskie"
-  },
-  {
     "id": "4",
     "nazwa": "lubuskie"
-  },
-  {
-    "id": "6",
-    "nazwa": "ma\u0142opolskie"
-  },
-  {
-    "id": "8",
-    "nazwa": "opolskie"
   },
   {
     "id": "10",
@@ -26,14 +14,6 @@
   {
     "id": "13",
     "nazwa": "\u015bwi\u0119tokrzyskie"
-  },
-  {
-    "id": "14",
-    "nazwa": "warmi\u0144sko-mazurskie"
-  },
-  {
-    "id": "15",
-    "nazwa": "wielkopolskie"
   },
   {
     "id": "16",
