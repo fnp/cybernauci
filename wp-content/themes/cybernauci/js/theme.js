@@ -344,7 +344,7 @@ jQuery(document).ready(function () {
         var that = jQuery(this),
           parent = that.parents('.questionBlock');
         that.prop('disabled', 'disabled');
-        if (that.val() === 2) {
+        if (that.val() === '2') {
           parent.find('.quizNavStats .correctAnswer > span').text(that.attr('data-type'));
         }
         if (that.is(':checked')) {

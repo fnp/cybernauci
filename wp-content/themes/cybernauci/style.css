@@ -530,13 +530,17 @@ big {
   z-index: 1;
 }
 .mainblock .sidebanner.sidebanner-left {
-  left: -68px;
+    left: -92px;
 }
 .mainblock .entry-header .entry-title {
   color: #00b4ff;
+    margin-bottom: 30px;
+}
+
+.mainblock .entry-header .entry-title,
+.mainblock .entry-header .entry-title > a {
   font-size: 24px;
   font-weight: normal;
-  margin-bottom: 30px;
 }
 .mainblock .entry-content {
   font-size: 16px;
@@ -550,7 +554,7 @@ big {
   top: 74px;
 }
 #index .sidebanner-right {
-  right: -180px;
+    right: -205px;
   top: 120px;
 }
 #index .info .entry-content .innerBlock .img-responsive {
@@ -1610,6 +1614,10 @@ big {
 }
 #quiz .container-block {
   overflow: hidden;
+}
+
+#quiz h4.entry-subtitle {
+    margin-bottom: 30px;
 }
 #quiz .entry-content {
   color: #ffffff;
