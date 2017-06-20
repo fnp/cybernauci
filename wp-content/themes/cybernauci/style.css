@@ -530,13 +530,13 @@ big {
   z-index: 1;
 }
 .mainblock .sidebanner.sidebanner-left {
-    left: -92px;
+  left: -92px;
 }
 .mainblock .entry-header .entry-title {
   color: #00b4ff;
   font-size: 24px;
   font-weight: normal;
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .mainblock .entry-content {
   font-size: 16px;
@@ -550,7 +550,7 @@ big {
   top: 74px;
 }
 #index .sidebanner-right {
-    right: -205px;
+  right: -205px;
   top: 120px;
 }
 #index .info .entry-content .innerBlock .img-responsive {
@@ -741,7 +741,7 @@ big {
 }
 #aktualnosci .sidebanner-right,
 #dobre-praktyki .sidebanner-right {
-  right: -180px;
+  right: -205px;
   top: 120px;
 }
 #aktualnosci .info .entry-header,
@@ -1612,7 +1612,7 @@ big {
   overflow: hidden;
 }
 #quiz h4.entry-subtitle {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 #quiz .entry-content {
   color: #ffffff;
@@ -1920,7 +1920,7 @@ body.page-id-5 .entry-title,
 body.page-id-3395 .entry-title,
 body.page-id-5 .entry-title a,
 body.page-id-3395 .entry-title a {
-  color: #00b4ff;
+  color: #000000;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
