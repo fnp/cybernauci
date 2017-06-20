@@ -1924,6 +1924,8 @@ body.page-id-3395 .entry-title a {
   font-size: 24px;
   font-weight: normal;
   text-align: center;
+  cursor: default;
+  text-decoration: none;
 }
 /* PAGE: Ruszamy z projektem! */
 .single-post.postid-47 .mainblock header.entry-header h2.entry-title,
