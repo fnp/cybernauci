@@ -534,13 +534,9 @@ big {
 }
 .mainblock .entry-header .entry-title {
   color: #00b4ff;
-    margin-bottom: 30px;
-}
-
-.mainblock .entry-header .entry-title,
-.mainblock .entry-header .entry-title > a {
   font-size: 24px;
   font-weight: normal;
+    margin-bottom: 30px;
 }
 .mainblock .entry-content {
   font-size: 16px;
@@ -1615,7 +1611,6 @@ big {
 #quiz .container-block {
   overflow: hidden;
 }
-
 #quiz h4.entry-subtitle {
     margin-bottom: 30px;
 }
@@ -1921,16 +1916,10 @@ big {
   color: #ffffff;
 }
 /* PAGE: O projekcie */
-#page-id-5 #aktualnosci .aktualnosci-list {
-  position: relative;
-  margin-top: 71px;
-}
-#page-id-5 #aktualnosci .aktualnosci-list article .entry-header {
-  position: absolute;
-  top: -95px;
-}
-#page-id-5 #aktualnosci .aktualnosci-list article .entry-header h2,
-#page-id-5 #aktualnosci .aktualnosci-list article .entry-header h2 a {
+body.page-id-5 .entry-title,
+body.page-id-3395 .entry-title,
+body.page-id-5 .entry-title a,
+body.page-id-3395 .entry-title a {
   color: #00b4ff;
   font-size: 24px;
   font-weight: normal;
