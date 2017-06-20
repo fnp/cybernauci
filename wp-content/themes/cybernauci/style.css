@@ -1163,7 +1163,8 @@ big {
   min-height: 30px;
   padding-bottom: 8px;
   padding-top: 8px;
-  color: #000000;
+  background-color: #01253B;
+  color: #ffffff;
 }
 #rejestracja form textarea,
 #katalogDodaj form textarea,
