@@ -3,29 +3,40 @@
     <div id="rejestracja">
         <div class="info container-block">
             <div class="container mainblock">
-                <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-left-computer.png"
+                <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-left-computer.png"
                      class="sidebanner sidebanner-left" alt=""/>
-                <img src="<?php bloginfo('template_directory'); ?>/img/sidebanner-right-rockets.png"
+                <img src="<?php bloginfo( 'template_directory' ); ?>/img/sidebanner-right-rockets.png"
                      class="sidebanner sidebanner-right" alt=""/>
-
-                <header class="entry-header">
-                    <h2 class="entry-title">Formularz rejestracyjny</h2>
-                </header>
-                <div class="entry-content">
-                    <div class="col-xs-12 col-md-10 col-md-offset-1">
-                        <?php echo get_field('rejestracja_wprowadzenie'); ?>
+	            <?php if ( false ) { ?>
+                    <header class="entry-header">
+                        <h2 class="entry-title">Rejestracja zakończona</h2>
+                    </header>
+                    <div class="entry-content">
+                        <div class="col-xs-12 col-md-10 col-md-offset-1">
+                            <p><strong>Rejestracja szkół została wyłączona, trwa weryfikacja zgłoszeń.</strong>
+                            <p><strong>Ponowne uruchomienie rejestracji nastąpi najwcześniej w styczniu 2018 roku.</p>
+                        </div>
                     </div>
-                    <div class="innerBlock col-xs-12 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
-                        <? the_content(sprintf(
-                            __('Continue reading<span class="screen-reader-text"> "%s"</span>', 'cybernauci'),
-                            get_the_title()
-                        ));
-                        ?>
-                        <p class="col-xs-12 hidden validate-warning">Prosimy uzupełnić wszystkie <span
-                                class="ninja-forms-req-symbol"><strong>*</strong></span> <strong>pola
-                                obowiązkowe</strong> przed wysłaniem zgłoszenia.</p>
+	            <?php } else { ?>
+                    <header class="entry-header">
+                        <h2 class="entry-title">Formularz rejestracyjny</h2>
+                    </header>
+                    <div class="entry-content">
+                        <div class="col-xs-12 col-md-10 col-md-offset-1">
+				            <?php echo get_field( 'rejestracja_wprowadzenie' ); ?>
+                        </div>
+                        <div class="innerBlock col-xs-12 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4">
+				            <? the_content( sprintf(
+					            __( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'cybernauci' ),
+					            get_the_title()
+				            ) );
+				            ?>
+                            <p class="col-xs-12 hidden validate-warning">Prosimy uzupełnić wszystkie <span
+                                        class="ninja-forms-req-symbol"><strong>*</strong></span> <strong>pola
+                                    obowiązkowe</strong> przed wysłaniem zgłoszenia.</p>
+                        </div>
                     </div>
-                </div>
+	            <?php } ?>
             </div>
         </div>
     </div>
@@ -35,7 +46,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
-                            aria-hidden="true">&times;</span></button>
+                                aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title" id="szkolaAddNewLabel">Nowa szkoła</h4>
                 </div>
                 <div class="modal-body">
