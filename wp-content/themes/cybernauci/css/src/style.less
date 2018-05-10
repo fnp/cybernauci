@@ -374,6 +374,9 @@ big {
 .container-block {
   overflow-x: hidden;
   position: relative;
+  &.overflowHidden {
+    overflow: hidden;
+  }
 }
 .site-header {
   display: inline-block;
@@ -440,6 +443,9 @@ big {
       color: #00b4ff;
     }
   }
+  .site-info-footer {
+    margin: 6px 7px 22px;
+  }
 }
 .site-container {
   background-color: #020c12;
@@ -479,9 +485,6 @@ big {
       padding-right: 0;
     }
   }
-}
-.site-info-footer {
-  margin: 6px 7px 22px;
 }
 .mainblock {
   color: #fff;

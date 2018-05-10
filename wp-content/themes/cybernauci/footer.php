@@ -1,7 +1,7 @@
 </div><!-- #accessibility-skip-to-content -->
 <div class="site-container">
   <div class="container">
-    <div class="container-block">
+    <div class="container-block overflowHidden">
       <footer class="site-footer" role="contentinfo">
         <div class="col-xs-12">
 			<?php if ( has_nav_menu( 'primary' ) ) : ?>
