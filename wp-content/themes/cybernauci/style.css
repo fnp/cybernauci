@@ -26,7 +26,7 @@ html input[disabled] {
   opacity: .5;
 }
 body {
-  background: url(img/background.jpg) top center #01253B;
+  background: url(img/background.jpg) top center #01253b;
   margin: 0;
 }
 article,
@@ -335,13 +335,13 @@ acronym {
 }
 mark {
   background: #007acc;
-  color: #ffffff;
+  color: #fff;
   padding: 0.125em 0.25em;
   text-decoration: none;
 }
 ins {
   background: #007acc;
-  color: #ffffff;
+  color: #fff;
   padding: 0.125em 0.25em;
   text-decoration: none;
 }
@@ -442,7 +442,7 @@ big {
   text-align: center;
 }
 .site-header .site-header-menu ul li a {
-  color: #ffffff;
+  color: #fff;
   font-weight: bold;
   padding: 8px;
   text-decoration: none;
@@ -468,7 +468,7 @@ big {
   text-align: center;
 }
 .site-footer ul li a {
-  color: #ffffff;
+  color: #fff;
   font-weight: bold;
   padding: 8px;
   text-decoration: none;
@@ -486,7 +486,7 @@ big {
   margin-bottom: -10px;
 }
 .site-container .site-footer {
-  color: #ffffff;
+  color: #fff;
   font-size: 12px;
 }
 .site-container .site-footer [role="navigation"] {
@@ -518,8 +518,11 @@ big {
 .site-info p > span:last-child {
   padding-right: 0;
 }
+.site-info-footer {
+  margin: 6px 7px 22px;
+}
 .mainblock {
-  color: #ffffff;
+  color: #fff;
   padding-left: 0;
   padding-right: 0;
   position: relative;
@@ -579,7 +582,7 @@ big {
   margin-bottom: 10px;
 }
 #kontakt .entry-content .info a {
-  color: #ffffff;
+  color: #fff;
 }
 #kontakt .entry-content .info > strong {
   clear: both;
@@ -593,7 +596,7 @@ big {
   margin-top: 100px;
 }
 #kontakt .entry-content .aboutUs a {
-  color: #ffffff;
+  color: #fff;
 }
 #kontakt .entry-content .aboutUs p {
   font-size: 12px;
@@ -604,11 +607,11 @@ big {
   font-size: 14px;
 }
 .katalog-content {
-  background-color: #ffffff;
+  background-color: #fff;
   padding-bottom: 35px;
 }
 .katalog-content h2 {
-  color: #000000;
+  color: #000;
   font-size: 24px;
   font-weight: normal;
   margin: 0 0 45px;
@@ -618,7 +621,7 @@ big {
   text-align: left;
 }
 .katalog-content article .entry-content {
-  color: #000000;
+  color: #000;
   font-size: 12px;
   line-height: 1.2em;
   margin-bottom: 12px;
@@ -627,13 +630,13 @@ big {
 }
 .aktualnosci-list,
 .dobre-praktyki-list {
-  background-color: #ffffff;
+  background-color: #fff;
   padding-bottom: 35px;
   padding-top: 55px;
 }
 .aktualnosci-list h2,
 .dobre-praktyki-list h2 {
-  color: #000000;
+  color: #000;
   font-size: 24px;
   font-weight: normal;
   margin: 0 0 45px;
@@ -645,7 +648,7 @@ big {
 }
 .aktualnosci-list article .entry-content,
 .dobre-praktyki-list article .entry-content {
-  color: #000000;
+  color: #000;
   font-size: 12px;
   line-height: 1.2em;
   margin-bottom: 12px;
@@ -695,7 +698,7 @@ big {
 #katalog.single article .entry-header > small,
 #aktualnosci.single article .entry-header > small,
 #dobre-praktyki.single article .entry-header > small {
-  color: #000000;
+  color: #000;
   font-size: 10px;
 }
 .katalog-content article .entry-title,
@@ -704,7 +707,7 @@ big {
 .katalog-content article .entry-title a,
 .aktualnosci-list article .entry-title a,
 .dobre-praktyki-list article .entry-title a {
-  color: #000000;
+  color: #000;
   font-size: 16px;
   line-height: 0.75em;
   margin: -8px 0 0;
@@ -719,7 +722,7 @@ big {
 #katalog.single .back-to-list,
 #aktualnosci.single .back-to-list,
 #dobre-praktyki.single .back-to-list {
-  color: #0064FA;
+  color: #0064fa;
   font-size: 12px;
   font-weight: normal;
 }
@@ -764,7 +767,7 @@ big {
 #dobre-praktyki.single .aktualnosci-list .mainblock .entry-header .entry-title,
 #aktualnosci.single .dobre-praktyki-list .mainblock .entry-header .entry-title,
 #dobre-praktyki.single .dobre-praktyki-list .mainblock .entry-header .entry-title {
-  color: #000000;
+  color: #000;
   margin-bottom: -4px;
   line-height: 1em;
 }
@@ -806,7 +809,7 @@ big {
   margin-bottom: 45px;
 }
 #katalog .katalog-meta {
-  color: #74777A;
+  color: #74777a;
   text-align: left;
   margin-top: 40px;
   position: relative;
@@ -819,8 +822,8 @@ big {
 }
 #katalog .katalog-meta .katalog-meta-parent {
   width: 100%;
-  color: #C7499B;
-  border-bottom: 1px solid #C7499B;
+  color: #c7499b;
+  border-bottom: 1px solid #c7499b;
   display: inline-block;
   padding: 0 15px 5px 15px;
   margin-bottom: 15px;
@@ -872,7 +875,7 @@ big {
   background-color: #337ab7;
   border-radius: 6px;
   border: 1px solid #2e6da4;
-  color: #ffffff;
+  color: #fff;
   display: inline-block;
   font-size: 12px;
   font-weight: normal;
@@ -889,31 +892,31 @@ big {
 #katalog .katalog-meta .katalog-meta-content > li.addKatalogBtn a:focus {
   background-color: #286090;
   border-color: #122b40;
-  color: #ffffff;
+  color: #fff;
 }
 #katalog .katalog-meta .katalog-meta-content > li.addKatalogBtn a:hover {
   background-color: #286090;
   border-color: #204d74;
-  color: #ffffff;
+  color: #fff;
 }
 #katalog .katalog-meta .katalog-meta-content > li.cleanKatalogBtn a {
   display: inline-block;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.3333333;
-  color: #0064FA;
+  color: #0064fa;
   border-bottom: none;
 }
 #katalog .katalog-meta .katalog-meta-content > li.current-cat > a {
-  color: #C7499B;
+  color: #c7499b;
 }
 #katalog .katalog-meta .katalog-meta-content > li > a,
 #katalog .katalog-meta .katalog-meta-content > li li a {
-  color: #74777A;
+  color: #74777a;
 }
 #katalog .katalog-meta .katalog-meta-content > li > a {
   font-weight: bold;
-  border-bottom: 1px solid #74777A;
+  border-bottom: 1px solid #74777a;
   display: inline-block;
   width: 100%;
 }
@@ -934,7 +937,7 @@ big {
 }
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat,
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat > a {
-  color: #C7499B;
+  color: #c7499b;
   font-weight: bold;
 }
 #katalog .katalog-meta .katalog-meta-content > li .children li.current-cat:before {
@@ -985,7 +988,7 @@ big {
   margin-top: 20px;
 }
 #katalog.single .katalog-content .mainblock .entry-header .entry-title {
-  color: #000000;
+  color: #000;
   margin-bottom: -4px;
   display: inline-block;
   line-height: 1em;
@@ -1044,7 +1047,7 @@ big {
   left: 50%;
   z-index: 2;
   padding: 20px 30px;
-  background-color: #ffffff;
+  background-color: #fff;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -1059,7 +1062,7 @@ big {
   max-height: 96%;
   overflow: auto;
   font-size: 14px;
-  color: #000000;
+  color: #000;
 }
 #konkurs .information-modal .modal-content {
   width: 100%;
@@ -1078,14 +1081,14 @@ big {
 #katalogDodaj .entry-content,
 #konkurs .entry-content,
 #quiz .entry-content {
-  color: #ffffff;
+  color: #fff;
   font-size: 16px;
 }
 #rejestracja .entry-content a,
 #katalogDodaj .entry-content a,
 #konkurs .entry-content a,
 #quiz .entry-content a {
-  color: #ffffff;
+  color: #fff;
   font-size: 16px;
 }
 #rejestracja form,
@@ -1098,7 +1101,7 @@ big {
 #katalogDodaj form label,
 #konkurs form label,
 #quiz form label {
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   font-weight: normal;
 }
@@ -1110,9 +1113,9 @@ big {
   -webkit-border-radius: 0;
   background: none;
   border-radius: 0;
-  border: 0 solid #ffffff;
+  border: 0 solid #fff;
   border-bottom-width: 1px;
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   min-height: 44px;
   padding-bottom: 12px;
@@ -1131,10 +1134,10 @@ big {
   appearance: none;
   background: none;
   border-radius: 0;
-  border: 0 solid #ffffff;
+  border: 0 solid #fff;
   border-bottom-width: 1px;
   box-shadow: none;
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   min-height: 44px;
   padding-bottom: 12px;
@@ -1163,8 +1166,8 @@ big {
   min-height: 30px;
   padding-bottom: 8px;
   padding-top: 8px;
-  background-color: #01253B;
-  color: #ffffff;
+  background-color: #01253b;
+  color: #fff;
 }
 #rejestracja form textarea,
 #katalogDodaj form textarea,
@@ -1174,9 +1177,9 @@ big {
   -webkit-border-radius: 0;
   background: none;
   border-radius: 0;
-  border: 0 solid #ffffff;
+  border: 0 solid #fff;
   border-bottom-width: 1px;
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   min-height: 44px;
   padding-bottom: 12px;
@@ -1199,7 +1202,7 @@ big {
   background-color: #337ab7;
   border-radius: 6px;
   border: 1px solid #2e6da4;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 18px;
@@ -1219,7 +1222,7 @@ big {
 #quiz form .ninja-forms-field[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
-  color: #ffffff;
+  color: #fff;
 }
 #rejestracja form .ninja-forms-field[type="submit"]:hover,
 #katalogDodaj form .ninja-forms-field[type="submit"]:hover,
@@ -1227,7 +1230,7 @@ big {
 #quiz form .ninja-forms-field[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
-  color: #ffffff;
+  color: #fff;
 }
 #rejestracja form .ninja-forms-field[type="submit"].focus,
 #katalogDodaj form .ninja-forms-field[type="submit"].focus,
@@ -1235,7 +1238,7 @@ big {
 #quiz form .ninja-forms-field[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
-  color: #ffffff;
+  color: #fff;
 }
 #rejestracja form .ninja-forms-required-items,
 #katalogDodaj form .ninja-forms-required-items,
@@ -1301,7 +1304,7 @@ big {
 #katalogDodaj form .checkbox-wrap label,
 #konkurs form .checkbox-wrap label,
 #quiz form .checkbox-wrap label {
-  color: #ffffff;
+  color: #fff;
   float: left;
   font-size: 12px;
   line-height: 1.2em;
@@ -1375,7 +1378,7 @@ big {
   background-color: #337ab7;
   border-radius: 6px;
   border: 1px solid #2e6da4;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   font-size: 18px;
@@ -1392,17 +1395,17 @@ big {
 #katalogDodaj form input[type="submit"]:focus {
   background-color: #286090;
   border-color: #122b40;
-  color: #ffffff;
+  color: #fff;
 }
 #katalogDodaj form input[type="submit"]:hover {
   background-color: #286090;
   border-color: #204d74;
-  color: #ffffff;
+  color: #fff;
 }
 #katalogDodaj form input[type="submit"].focus {
   background-color: #286090;
   border-color: #122b40;
-  color: #ffffff;
+  color: #fff;
 }
 #katalogDodaj select {
   width: 100%;
@@ -1444,7 +1447,7 @@ big {
   cursor: pointer;
   outline: none;
   font-size: 12px !important;
-  color: #ffffff !important;
+  color: #fff !important;
   line-height: 1.2em;
   text-transform: uppercase;
   text-decoration: none;
@@ -1467,7 +1470,7 @@ big {
 #materialy-edukacyjne .materialy-content .materialy-main-page .subtitle {
   font-size: 16px;
   line-height: 1;
-  color: #ffffff;
+  color: #fff;
   margin-top: 30px;
 }
 #materialy-edukacyjne .materialy-content .materialy-main-page .link {
@@ -1615,7 +1618,7 @@ big {
   margin-bottom: 30px;
 }
 #quiz .entry-content {
-  color: #ffffff;
+  color: #fff;
   font-size: 16px;
 }
 #quiz .entry-content .quiz-content {
@@ -1715,7 +1718,7 @@ big {
   font-size: 29px;
 }
 #quiz .entry-content .quiz-content .questionBlock .answer input[type=radio] + label:after {
-  color: #01253B;
+  color: #01253b;
   font-weight: bold;
   position: absolute;
   top: 3px;
@@ -1912,10 +1915,9 @@ big {
 #konkurs form textarea::-moz-placeholder,
 #konkurs form textarea:-ms-input-placeholder,
 #konkurs form textarea:placeholder-shown {
-  background-color: #01253B;
-  color: #ffffff;
+  background-color: #01253b;
+  color: #fff;
 }
-
 /* PAGE:
 * page-id-5     O projekcie
 * page-id-3395  Szkoły o nas
@@ -1924,7 +1926,7 @@ body.page-id-5 .entry-title,
 body.page-id-3395 .entry-title,
 body.page-id-5 .entry-title a,
 body.page-id-3395 .entry-title a {
-  color: #000000;
+  color: #000;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
