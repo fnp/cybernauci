@@ -1025,6 +1025,20 @@ big {
   right: 120px;
   top: 165px;
 }
+#rejestracja .registrationClosed {
+  text-align: left;
+  min-height: 455px;
+}
+#rejestracja .registrationClosed ul {
+  list-style-type: decimal;
+}
+#rejestracja .registrationClosed ul li {
+  padding-bottom: 20px;
+}
+#rejestracja .registrationClosed ul li span {
+  display: inline-block;
+  width: 100%;
+}
 #konkurs {
   position: relative;
 }
