@@ -19,21 +19,21 @@
                   <li>Serwis edukacja medialna – zawiera pakiet scenariuszy z zakresu edukacji medialnej oraz
                     cyberbezpieczeństwa. Scenariusze zostały opracowane przy współpracy ekspertów z dziedziny edukacji
                     medialnej. Materiały są odpowiednie dla szkół wszystkich poziomów.
-                    <span>www: <a href="https://edukacjamedialna.edu.pl/" target="_parent">https://edukacjamedialna.edu.pl/</a></span>
+                    <span>www: <a href="https://edukacjamedialna.edu.pl/" target="_target">https://edukacjamedialna.edu.pl</a></span>
                   </li>
                   <li>Materiały edukacyjne „Cybernautów” – tutaj znajdują się komiksy edukacyjne dla dzieci i młodzieży,
                     scenariusze lekcji dla nauczycieli oraz test wiedzy dla rodziców.
-                    <span>www: <a href="https://edukacjamedialna.edu.pl/" target="_parent">https://edukacjamedialna.edu.pl/</a></span>
+                    <span>www: <a href="https://cybernauci.edu.pl/materialy-edukacyjne" target="_parent">https://cybernauci.edu.pl/materialy-edukacyjne</a></span>
                   </li>
                   <li>Baza dobrych praktyk – w bazie znajdują się opisy działań realizowanych w szkołach w ramach
                     konkursów Cybernautów. Baza jest ciekawym źródłem inspiracji do prowadzenia projektów wewnątrz jak i
                     zewnątrz szkolnych.
-                    <span>www: <a href="https://edukacjamedialna.edu.pl/" target="_parent">https://edukacjamedialna.edu.pl/</a></span>
+                    <span>www: <a href="https://cybernauci.edu.pl/dobre-praktyki/" target="_parent">https://cybernauci.edu.pl/dobre-praktyki/</a></span>
                   </li>
                   <li>Katalog materiałów edukacyjnych – katalogu gromadzimy ogólnodostepne materiały edukacyjne z
                     zakresu edukacji medialnej i bezpieczeństwa w sieci. Można tu znaleźć: quizy, gry, kolorowanki,
                     filmy edukacyjne, piosenki, poradniki, scenariusze zajęć i wiele innych materiałów.
-                    <span>www: <a href="https://edukacjamedialna.edu.pl/" target="_parent">https://edukacjamedialna.edu.pl/</a></span>
+                    <span>www: <a href="http://cybernauci.edu.pl/katalog/" target="_parent">http://cybernauci.edu.pl/katalog/</a></span>
                   </li>
                 </ul>
               </div>
