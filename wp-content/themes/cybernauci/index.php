@@ -9,45 +9,23 @@
            class="sidebanner sidebanner-right" alt=""/>
 
       <header class="entry-header">
-        <h2 class="entry-title">Cybernauci – kompleksowy projekt kształtowania bezpiecznych zachowań w
-          sieci</h2>
+        <h2 class="entry-title">Cybernauci - kompleksowy projekt kształtowania bezpiecznych zachowań w sieci</h2>
       </header>
       <div class="entry-content">
         <div class="col-xs-12 col-md-10 col-md-offset-1">
-          <p>jest skierowany do osób pracujących w szkołach, uczniów i uczennic oraz ich rodziców i opiekunów.
-            <br/> Jego celem jest podniesienie kompetencji wszystkich wymienionych grup w zakresie
-            bezpiecznego
-            korzystania z cyberprzestrzeni oraz reagowania na zagrożenia.
+          <p>skierowany do skierowany do osób pracujących w szkołach, uczniów i uczennic oraz ich rodziców i opiekunów
+            realizowaliśmy w latach 2015-2018.
+            <br/>Jego celem było podniesienie kompetencji wszystkich wymienionych grup w zakresie bezpiecznego
+            korzystania z cyberprzestrzeni oraz reagowania na zagrożenia.<br/>Zachęcamy do korzystania z materiałów
+            przygotowanych w ramach projektu, katalogu materiałów z zakresu bezpieczeństwa w sieci oraz dobrych praktyk
+            - działań szkół na rzecz bezpieczeństwa w sieci.
           </p>
-          <p>Uczestnikom i uczestniczkom projektu oferujemy:</p>
-        </div>
-        <div class="innerBlock col-xs-12 col-md-4">
-          <img src="<?php bloginfo( 'template_directory' ); ?>/img/index-icon-left.png"
-               class="img-responsive"/>
-          <p>udział w warsztatach prowadzonych przez wyszkolonych trenerów z zakresu cyberbezpieczeństwa z
-            trzema
-            grupami: uczniów, nauczycieli i rodziców</p>
-        </div>
-        <div class="innerBlock col-xs-12 col-md-4">
-          <img src="<?php bloginfo( 'template_directory' ); ?>/img/index-icon-center.png"
-               class="img-responsive"/>
-          <p>pakiet materiałów edukacyjnych dotyczących bezpiecznego korzystania z TIK</p>
-        </div>
-        <div class="innerBlock col-xs-12 col-md-4">
-          <img src="<?php bloginfo( 'template_directory' ); ?>/img/index-icon-right.png"
-               class="img-responsive"/>
-          <p>konkurs dla szkół z atrakcyjnymi nagrodami</p>
-        </div>
-        <div class="indexJoinBtn col-xs-12">
-          <a class="btn btn-primary btn-lg"
-             href="<?php echo get_permalink( get_page_by_path( 'zglos-szkole' ) ) ?>">Zainteresowany?
-            Zgłoś swoją szkołę!</a>
         </div>
       </div>
     </div>
   </div>
 
-    <div class="aktualnosci-list list-sorted container-block">
+  <div class="aktualnosci-list list-sorted container-block">
     <div class="container mainblock">
       <h2>Aktualności</h2>
 		<?php
