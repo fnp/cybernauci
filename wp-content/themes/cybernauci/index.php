@@ -13,7 +13,7 @@
       </header>
       <div class="entry-content">
         <div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-          <p>jest skierowany do osób pracujących w szkołach, uczniów i uczennic oraz ich rodziców i opiekunów
+          <p>skierowany do osób pracujących w szkołach, uczniów i uczennic oraz ich rodziców i opiekunów
             realizowaliśmy w latach 2015-2018.
           </p>
           <p>Jego celem było podniesienie kompetencji wszystkich wymienionych grup w zakresie bezpiecznego
