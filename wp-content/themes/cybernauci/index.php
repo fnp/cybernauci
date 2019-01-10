@@ -12,11 +12,13 @@
         <h2 class="entry-title">Cybernauci - kompleksowy projekt kształtowania bezpiecznych zachowań w sieci</h2>
       </header>
       <div class="entry-content">
-        <div class="col-xs-12 col-md-10 col-md-offset-1">
+        <div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
           <p>skierowany do skierowany do osób pracujących w szkołach, uczniów i uczennic oraz ich rodziców i opiekunów
             realizowaliśmy w latach 2015-2018.
-            <br/>Jego celem było podniesienie kompetencji wszystkich wymienionych grup w zakresie bezpiecznego
-            korzystania z cyberprzestrzeni oraz reagowania na zagrożenia.<br/>Zachęcamy do korzystania z materiałów
+          </p>
+          <p>Jego celem było podniesienie kompetencji wszystkich wymienionych grup w zakresie bezpiecznego
+            korzystania z cyberprzestrzeni oraz reagowania na zagrożenia.</p>
+          <p>Zachęcamy do korzystania z materiałów
             przygotowanych w ramach projektu, katalogu materiałów z zakresu bezpieczeństwa w sieci oraz dobrych praktyk
             - działań szkół na rzecz bezpieczeństwa w sieci.
           </p>
